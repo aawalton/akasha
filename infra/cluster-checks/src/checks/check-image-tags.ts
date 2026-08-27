@@ -9,7 +9,7 @@ import {
 import { K8S_RESOURCE_NODE_TYPE } from "../../../../tools/lib/graph/producers/k8s/types.ts"
 import { K8sResourceAttrsSchema } from "../../../../tools/lib/graph/producers/k8s/types-schemas"
 import type { Graph } from "../../../../tools/lib/graph/types.ts"
-import { CODE, resolveRoots, rootFor } from "../../../../repo/roots/roots"
+import { codeRoot } from "../../../../tools/lib/code-root.ts"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import { checkImage } from "../lib/image-tag-rule.ts"
@@ -91,7 +91,7 @@ async function main(): Promise<never> {
     return toolExit(`failed to build the image graph at ${args.treeSha}: ${errorMessage(err)}`)
   }
 
-  const codeRoot = rootFor(resolveRoots(), CODE)
+  const root = codeRoot()
   const bearers = bearersOf(fullGraph)
 
   const { population, violations } = examinePopulation<ImageBearer, ImageTagViolation>({
@@ -103,7 +103,7 @@ async function main(): Promise<never> {
         "`bearers` is read off the graph built at the tree sha above — a node per `k8s-resource` and per `dockerfile-file` — and a build that could not complete throws out of `buildFrom` into the `toolExit` beside it rather than handing over a partial node set, so fewer members is fewer image-bearing documents in a tree that read whole",
     },
     labelOf: (bearer) => bearer.label,
-    siteOf: (bearer) => resolve(codeRoot, bearer.path),
+    siteOf: (bearer) => resolve(root, bearer.path),
     examine: (bearer) => {
       const found: ImageTagViolation[] = []
       for (const image of bearer.imageLines) {
