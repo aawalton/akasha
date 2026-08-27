@@ -1,0 +1,30 @@
+# Prevent ~1.6 GB monorepo from being sent as BuildKit context.
+# Only root-context builds are affected (9 of 11 pipelines).
+# Two infra builds use subdirectory contexts and ignore this file.
+
+# === Version control & tooling ===
+.git
+.claude
+.sops.yaml
+biome.json
+
+# === Runtime/build artifacts ===
+node_modules
+**/node_modules
+**/.next
+**/.turbo
+**/dist
+**/coverage
+**/*.tsbuildinfo
+
+# === Environment & IDE ===
+.env
+.env.*
+**/.env
+**/.env.*
+.vscode
+.cursor
+
+# === Misc ===
+*.md
+*-results.md

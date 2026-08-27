@@ -1,0 +1,8 @@
+[test]
+preload = ["@shared/utils-test/setup/component-dom-guard"]
+
+[test.reporter]
+dots = true
+
+[install]
+linker = "hoisted"
