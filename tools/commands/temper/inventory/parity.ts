@@ -211,7 +211,7 @@ function computeWalkDiff(
     const webR = webByIndex.get(i)
     if (webR === undefined) {
       if (addonV.kind !== "skipped") {
-        const rule = rules[i] as { readonly categoryId?: string } | undefined
+        const rule = rules[i]
         rows.push({
           index: i,
           categoryId: rule?.categoryId ?? "(unknown)",
