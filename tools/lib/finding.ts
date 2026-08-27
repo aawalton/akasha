@@ -83,7 +83,7 @@ export function undeclaredRefusal(domain: string, declared: ReadonlyMap<string, 
   return (
     `no document declares \`slug: ${domain}\`, so a finding keyed to it would reach nobody — ` +
     `${declared.size} domain(s) are declared, nearest: ${near.join(", ")}. Declare the domain first ` +
-    `if it is genuinely new; \`ops akasha dag\` prints the map`
+    `if it is genuinely new; \`ops domain dag\` prints the map`
   )
 }
 
