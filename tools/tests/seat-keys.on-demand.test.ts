@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { type Fixture, fixture } from "./fixture.ts"
-import { indexFixture, namedIn, plantInitiative, plantProject, seatStore } from "./seat-fixture.ts"
+import { indexFixture, namedIn, plantInitiative, seatStore } from "./seat-fixture.ts"
 
 const SEAT_COMMAND = `${import.meta.dir}/../seat.ts`
 
@@ -20,9 +20,8 @@ const AGENTS = [
 function plant(at: Fixture): void {
   seatStore(at)
   namedIn(at)
-  plantInitiative(at, "initiatives/seat-identity.md", "seat-identity")
-  plantInitiative(at, "initiatives/delivery-flow.md", "delivery-flow")
-  for (const seq of ["17523", "17526", "99999999"]) plantProject(at, seq)
+  plantInitiative(at, "pages/initiative/seat-identity.initiative.md", "seat-identity")
+  plantInitiative(at, "pages/initiative/delivery-flow.initiative.md", "delivery-flow")
   indexFixture(at)
 }
 
@@ -51,39 +50,19 @@ function pageOf(at: Fixture): string | null {
   return existsSync(path) ? readFileSync(path, "utf8") : null
 }
 
-describe("setting the keys beside the slots", () => {
-  test("each holds one value, a second replaces it, and no slot is disturbed", () => {
+describe("setting the key beside the slots", () => {
+  test("it holds one value, a second replaces it, and no slot is disturbed", () => {
     const at = fixture()
     try {
       plant(at)
       seated(at, AGENTS[0])
-      const set = seat(at, AGENTS[0], [
-        "--initiative", "seat-identity", "--initiative", "delivery-flow",
-        "--project", "17526", "--project", "17523",
-      ])
+      const set = seat(at, AGENTS[0], ["--initiative", "seat-identity", "--initiative", "delivery-flow"])
       expect(set.code).toBe(0)
       const shown = seat(at, AGENTS[0], ["--show"])
       expect(shown.code).toBe(0)
       expect(shown.out).toContain("initiative delivery-flow")
       expect(shown.out).not.toContain("seat-identity")
-      expect(shown.out).toContain(`${"project".padEnd(8)} 17523`)
-      expect(shown.out).not.toContain("17526")
       expect(shown.out).toContain(`${"persona".padEnd(8)} athena`)
-    } finally {
-      at.dispose()
-    }
-  })
-
-  test("a later write to one leaves the other standing", () => {
-    const at = fixture()
-    try {
-      plant(at)
-      seated(at, AGENTS[1])
-      seat(at, AGENTS[1], ["--initiative", "seat-identity", "--project", "17526"])
-      expect(seat(at, AGENTS[1], ["--project", "17523"]).code).toBe(0)
-      const shown = seat(at, AGENTS[1], ["--show"])
-      expect(shown.out).toContain("initiative seat-identity")
-      expect(shown.out).toContain(`${"project".padEnd(8)} 17523`)
     } finally {
       at.dispose()
     }
@@ -91,14 +70,13 @@ describe("setting the keys beside the slots", () => {
 })
 
 describe("absence and clearing", () => {
-  test("a seat with neither says so, in the register the slots use", () => {
+  test("a seat stating none says so, in the register the slots use", () => {
     const at = fixture()
     try {
       plant(at)
       const shown = seat(at, AGENTS[2], ["--show"])
       expect(shown.code).toBe(0)
       expect(shown.out).toContain("initiative — none stated")
-      expect(shown.out).toContain(`${"project".padEnd(8)} — none stated`)
     } finally {
       at.dispose()
     }
@@ -109,12 +87,11 @@ describe("absence and clearing", () => {
     try {
       plant(at)
       seated(at, AGENTS[3])
-      seat(at, AGENTS[3], ["--initiative", "seat-identity", "--project", "17526"])
+      seat(at, AGENTS[3], ["--initiative", "seat-identity"])
       expect(seat(at, AGENTS[3], ["--clear", "initiative"]).code).toBe(0)
       expect(pageOf(at)).not.toContain("initiative-slug")
       const shown = seat(at, AGENTS[3], ["--show"])
       expect(shown.out).toContain("initiative — none stated")
-      expect(shown.out).toContain(`${"project".padEnd(8)} 17526`)
     } finally {
       at.dispose()
     }
@@ -142,40 +119,12 @@ describe("what is refused at the moment of typing", () => {
     const at = fixture()
     try {
       plant(at)
-      plantInitiative(at, "initiatives/athena/seat-identity.md", "seat-identity")
+      plantInitiative(at, "pages/initiative/athena/seat-identity.initiative.md", "seat-identity")
       indexFixture(at)
       const run = seat(at, AGENTS[0], ["--initiative", "seat-identity"])
       expect(run.code).toBe(1)
-      expect(run.err).toContain("initiatives/seat-identity.md")
-      expect(run.err).toContain("initiatives/athena/seat-identity.md")
-    } finally {
-      at.dispose()
-    }
-  })
-
-  test("a project is judged by its shape and by nothing else", () => {
-    const at = fixture()
-    try {
-      plant(at)
-      seated(at, AGENTS[0])
-      expect(seat(at, AGENTS[0], ["--project", "17526"]).code).toBe(0)
-      for (const bad of ["abc", "17526x", ""]) {
-        const run = seat(at, AGENTS[0], ["--project", bad])
-        expect(run.code).toBe(1)
-        expect(run.err).toContain("digits")
-      }
-    } finally {
-      at.dispose()
-    }
-  })
-
-  test("a number no project carries is still recorded", () => {
-    const at = fixture()
-    try {
-      plant(at)
-      seated(at, AGENTS[0])
-      expect(seat(at, AGENTS[0], ["--project", "99999999"]).code).toBe(0)
-      expect(seat(at, AGENTS[0], ["--show"]).out).toContain("99999999")
+      expect(run.err).toContain("pages/initiative/seat-identity.initiative.md")
+      expect(run.err).toContain("pages/initiative/athena/seat-identity.initiative.md")
     } finally {
       at.dispose()
     }
@@ -192,10 +141,6 @@ describe("--show still reads and writes nothing", () => {
       expect(run.err).toContain("reads what this seat states and writes nothing")
       expect(run.err).toContain("--initiative")
       expect(pageOf(at)).toBe(null)
-      const withProject = seat(at, AGENTS[1], ["--show", "--project", "17526"])
-      expect(withProject.code).toBe(1)
-      expect(withProject.err).toContain("reads what this seat states and writes nothing")
-      expect(withProject.err).toContain("--project")
     } finally {
       at.dispose()
     }
@@ -208,10 +153,9 @@ describe("a subagent against its seat", () => {
     try {
       plant(at)
       seated(at, AGENTS[0])
-      seat(at, AGENTS[0], ["--initiative", "seat-identity", "--project", "17526"])
+      seat(at, AGENTS[0], ["--initiative", "seat-identity"])
       const shown = seat(at, `${AGENTS[0]}--sub`, ["--show"])
       expect(shown.out).toContain("initiative seat-identity")
-      expect(shown.out).toContain(`${"project".padEnd(8)} 17526`)
     } finally {
       at.dispose()
     }
@@ -267,16 +211,19 @@ describe("the on-call assignment", () => {
 })
 
 describe("--help", () => {
-  test("names both flags and offers them to --clear", () => {
+  test("names the initiative flag and offers every key to --clear", () => {
     const at = fixture()
     try {
+      // THE REPOS ARE READ OFF THE PAGES, so `repo/roots/roots.ts` builds `REPOS` at import and
+      // throws against a root holding no `pages/repo/*-repo.repo.md` — even under --help, which
+      // answers before it reaches a store of its own.
+      seatStore(at)
       const run = Bun.spawnSync(["bun", SEAT_COMMAND, "--help"], {
         env: { ...process.env, AKASHA_ROOT: at.root, CODE_ROOT: LIVE, HOME: at.home },
       })
       const text = run.stdout.toString()
       expect(text).toContain("--initiative <slug>")
-      expect(text).toContain("--project <n>")
-      expect(text).toContain("persona, domain, role, task, initiative, project")
+      expect(text).toContain("persona, domain, role, task, initiative, errand, on-call, flex")
     } finally {
       at.dispose()
     }
