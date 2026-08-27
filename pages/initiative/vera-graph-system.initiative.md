@@ -60,7 +60,9 @@ Two node types, from the union's 52.
 - `file` — every file, its format an attribute. Approved 2026-08-27.
 - `folder` — every folder; being a package, and being deployed, are attributes. Approved 2026-08-27.
 
-Seven edge types, from the union's 83: `import`, `names`, `relation`, `path`, `file-kind`, `code`, `contains`. `contains` and `relation` are approved 2026-08-27; each of the rest is approved on its own before it is built.
+Six edge types, from the union's 83: `import`, `names`, `relation`, `file-kind`, `code`, `contains`. `contains` and `relation` are approved 2026-08-27; each of the rest is approved on its own before it is built.
+
+`path` collapses into `relation`, by Alan's ruling on 2026-08-27. Both are read by walking the property definitions and reading a frontmatter key, and with `file` and `folder` the only node types, a page is a file, so the ends do not differ either. Which key named the other end, and whether it resolved as a page or as a path, are attributes.
 
 `relation` is a thin concept layer over the pages system's own index, by Alan's ruling on 2026-08-27. The reverse index at `.git/pages/index/relation/` already holds these edges with staleness marks, so the graph reads it rather than deriving the same facts a second time. The `frontmatter` producer, which re-derives them in memory, is replaced rather than kept.
 
