@@ -183,7 +183,7 @@ export function requiredReadingFor(
     const page = index.pageNamed(ENDING_WORD, ending)
     if (page !== null) seeds.push(page)
   }
-  const target = fileTargetOf(`${at.repo}:${at.key}`)
+  const target = fileTargetOf(`${at.repo}:${at.key}`, at.repo)
   for (const relation of naming) seeds.push(...index.pagesFrom(relation, target))
   for (const heading of sectionsIn(text)) {
     const page = index.pageNamed(HEADING_WORD, heading)
