@@ -1,0 +1,179 @@
+---
+id: 69400372-6f4a-5c54-b3ed-0a998d77ad6c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34: Kolas's Stronghold"
+slug: 0034-chapter-34-kolas-s-stronghold
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 34
+ownLength: 1947
+unit: words
+publishedAt: 2026-06-22
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3576499/chapter-34-kolass-stronghold"
+royalRoadId: "3576499"
+---
+
+Deep under the earth, in the fires manned by Loseta’s Chosen, I laid eyes on it. Large white bones, greater than one of the great worms. They speak of it in quiet tones, not calling it by its name.
+
+It belongs to no Worm I’ve seen, and while I know there are things in the deep that defy imagining. I am beginning to wonder if I might’ve found my prize.
+
+The bones of a god.
+
+For the first time in our few interactions, I see an expression of surprise on the Seer’s face. Complete, unbridled shock, mixed with the smallest amount of disbelief.
+
+She turns to Keve and speaks rapidly in their language.
+
+He simply nods, then motions towards me.
+
+She stares at me, her eyes slowly narrowing. “What do you ask for, offering such a gift?”
+
+I hold my hands up, “I’m not asking for much. I still want to see this place protected,” I glance over to Keve, “and I want people like you to have a safe home.”
+
+Her large eyes look at me for a long time, then look beyond me. I suspect a skill of some kind is activating, but I don’t know what it is. My suspicion is confirmed when her tattoos glow with internal mana.
+
+She turns to Keve again, and speak rapidly. He responds with equally as long sentences.
+
+I wait for a few minutes, but they keep talking. I glance over to Shar, who is cleaning her feathers on my backpack. I walk over to her and sit beside her, “What are they saying?”
+
+She pauses, listening for a second, then answers back in a low voice. “Keve is sharing his vision of a home for more nonhumans. She is worried about revealing their location to the shapeshifting monster, and the resources required for such a feat.”
+
+That makes sense. Keve’s idea is more of a dream, and hard to implement in practice without the support of all the Vishten.
+
+Soon enough, Seer Varia nods, then turns back to me. “We will accept your gift with gratitude.”
+
+I smile, and gently push Shar off of my backpack. I reach inside, and pull out the Cube Of Kolas.
+
+She walks over to me, leaning against her staff as she studies the object in my hands. I hesitate for a second, then hand it over.
+
+“How do you activate it?” She asks, turning it over.
+
+I stand up, and gently trace the metal of the cube as she studies it. “I suspect you have to put your mana into it. It would probably be best to do so on the surface. I’m not sure how a stronghold would handle being underground, and I’ve never heard of one that is.”
+
+She stares at it for a long moment, then nods. “Kauror!” Her voice echoes out with a surprising amount of strength for her age.
+
+A familiar warrior peeks his head into the tent.
+
+She speaks to him rapidly, and with authority.  The warrior listens, then salutes before leaving the tent. His voice echoes out over the group.
+
+Seer Varia smiles wide as she turns to us. “Get ready, Delver Leo. I’m sure this will be quite the sight for all of us.”
+
+I grab my bag, and sling it over my shoulders. Shar hops onto the bag. I look over to Keve, and see a grin.
+
+Seer Varia steps out of the tent, and I follow her.
+
+Around us, warriors gather, their scarves pulled over their faces as they get into a rough circle around us.
+
+“It’s been two years.” Varia draws my attention to her with her words. She stands there, leaning on her staff with a mixed expression on her face.
+
+“Two years?” I ask.
+
+She looks at me with a small smile playing at the edge of her lips. “Since this many of us have seen the surface.” She looks up at the stone ceiling, her eyes wistful, “Our people worshipped the sun once.”
+
+The group finishes gathering, and Varia starts walking. The group of warriors walk easily around her, bows ready and swords loosened. Geode stays behind, watching over the families that will stay in the cave.
+
+A few of the Vishten run ahead, while others drop back, watching the rear.
+
+Varia keeps an easy pace, her staff tapping on the ground as Keve and I walk beside her. Soon enough, we pass through the barrier and enter the webs of the dead reavers.
+
+Nothing stops us as we make our way to the surface.
+
+A wooden bridge is set up surprisingly fast to cover the gap left by the worm, and Varia crosses it at the same pace that she’d been walking the entire time, not even glancing down.
+
+The sound of battle reaches us as we approach the entrance, but Varia is uncaring.
+
+A large boar-like creature is pulled to the side as the Vishten walk into the sun, their scarves pulled tight and ready for battle.
+
+Varia steps out into the patchy snow, the sun having melted it partially. She reaches down, picking up the mush and letting it fall from her fingers. Then we walk a few feet from the entrance to the ruins.
+
+She turns to me with a smile, “Tell me about strongholds, Leo.”
+
+Another fight starts in the nearby trees.
+
+I look in the direction I know the southern stronghold to be. “I’ve never been in a stronghold, but I’ve heard things…” I think, trying to bring up all of the information I know. “They have great walls, a mana barrier extending above and below them. Anything that makes it past the walls is constantly fighting the stronghold’s enchantments.” I frown, “those enchantments can also be used against anyone the Lords decide to be an exile.” I shake my head, and try to remember anything else that might be useful to her. “The buildings in a stronghold also gain enchantments of some kind, I’m not really sure how that works.”
+
+Varia nods, then holds the Cube Of Kolas up, “I think, you will find out soon, Delver Leo.” Her tattoos glow with white, the mana shining through her clothes as she channels her internal mana into the item.
+
+Lines throughout the cube glow, then it unravels, falling from her hand and landing on the ground. A pulse of powerful mana moves through the forest, and the trees freeze.
+
+There’s movement everywhere as monsters of all kind run away from the powerful mana.
+
+Another pulse.
+
+We step back as the cube further unfolds into a large stone circle, glowing with mana.
+
+For the next several minutes, the pulses continue until the surrounding forest is empty of sound, all of the large creatures having run out of its range.
+
+Then, in the distance, I see walls of earth rising, reaching high into the sky. A circle of protection surrounding us.
+
+A barrier flickers into place, a large dome that covers the sky before disappearing from sight.
+
+My eyes fall back to the circle of stone that was once a cube. We’re forced to step back further as it continues to expand, turning into a foundation, then expanding into pillars that reach high into the sky.
+
+A roof covers the pillars, made of divine white stone,
+
+A statue forms in the center of it all. A familiar statue of a man, one hand holding a notebook, another holding a large cube. Behind his back, stone wings expand.
+
+The statue of Angel Kolas.
+
+Then more statues follow, covered in cloaks, the oathsworn surround him.
+
+The building continues to expand. Stone moving under our feet before we can move away from it. Beside me, Sehara’s statue forms, her hand of stone forming to rest on my shoulder. I freeze in the gentle unmoving grip.
+
+On the other side of her, Lumin sits on a chair, happily playing his lute.
+
+The mana pulses continue, as another portion of the building is made for the Reapers, and the Builders. The building stops, but the pulses don’t.
+
+I look over to Varia, only for her gaze to be lost in screens only she can see.
+
+I blink as the blue screen appears in front of me, then look around at the others to see all of the Vishten looking at their own screens.
+
+Another screen pops up in front of me, this one different.
+
+I read through the words, then read through them again.
+
+My banishment was well known to me. I still remember the day I’d attempted to enter the gates with my mentor, how they’d rejected me, the mana of the place threatening to kill me. I’d later gone to the monks to ask them why.
+
+My mother, who would’ve had those answers, died giving birth to me. All the monks had known was that she’d held the sigil of the Arcanist’s guild.
+
+So I’d attempted to find out more.
+
+A few days later, an Assassin had their knife against my throat, threatening to end me if I kept looking where I shouldn’t.
+
+And I’d let it go.
+
+You learn quickly which battles you can fight, and which battles you can’t in this world. I know what it means to grow up in the frontier, a mark that made me lesser than those born with the protection of a stronghold’s walls. I am nothing to them, and ending me would be all too easy.
+
+I look over to Varia, who is watching me back with an unreadable gaze.
+
+I open my mouth, then close it, “Why?”
+
+“You made a deal with Keve. This allows you to keep your end.” She smiles at me, pats the shoulder that doesn’t currently have a statue’s hand on it, then leaves, walking towards several other Vishten as they stare at their own screens.
+
+I turn, moving out from under the stone hand and look at Sehara. The statue looks at me, a kind smile on her face, the only part of her face that I can see, the rest hidden by a hood, her curly hair flowing out over her shoulders.
+
+A wind blows through the open building, past the pillars and over the statues of the angels.
+
+“Hello, Leo.” A voice says from behind me. It’s familiar, reminding me of something I’ve only heard in my dreams.
+
+I pause, something about the world noticeably different. I glance over to the Vishten, only to see every single one of them frozen.
+
+I turn around, and see her.
+
+She stands there with a smile, her eyes a piercing, inhuman blue surrounding slitted snake-like pupils. Curly brown hair falls over her shoulders, and the hood of her cloak is lowered to reveal two horns poking out of her hair. She wears a backpack, and the sword at her waist has the symbol of wings on it.
+
+I fall to my knees and lean forward, bowing.
+
+“Don’t do that. I really hate it.”
+
+At her words, I look up, and slowly push myself off of the ground.
+
+The Angel Sehara smiles at me, “It is good to finally see you.”
+
+“Y-yeah.” I answer, then realize how dumb that sounds a second later. “It’s good to hear your voice, Sehara. That’s who you are, right? I’m not going crazy?”
+
+She snorts, “Far from it. And yes, that’s what you call me.”
+
+“Why are you here?”
+
+“To say thank you.” She walks towards me, and places her hand on my shoulder. It’s warm, so unlike the statue. “You’ve done well. The world is about to go through a lot of changes, and I’m glad its you finding the path. Good Luck, Delver.” Her hand moves to my bag, touching something in it.
+
+Then she’s gone.

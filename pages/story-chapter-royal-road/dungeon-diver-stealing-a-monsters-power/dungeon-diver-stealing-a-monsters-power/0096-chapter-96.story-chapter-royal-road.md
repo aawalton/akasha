@@ -1,0 +1,231 @@
+---
+id: 89d0a421-38c1-5c58-9774-0d9a982576a2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 96"
+slug: 0096-chapter-96
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 96
+ownLength: 1667
+unit: words
+ownProgress: 1667
+publishedAt: 2023-04-23
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1190568/chapter-96"
+royalRoadId: "1190568"
+markedReadAt: "2026-06-29T20:35:07.759Z"
+---
+
+I look around as the white light from the transfer magic dissipates to find myself standing in a wide-open dirt patch. There are odd hills and valleys as far as the eye can see, but beneath my feet, there’s just boring brown dirt.
+
+The further I look out into the unfamiliar dungeon, the more the lack of trees and plants irks me. The ground is a little damp, and the sky is blue with white fluffy clouds, but there isn’t a single sign of life anywhere.
+
+A flash of light appears behind me and Maria comes flying out moments later.
+
+“You’re so lucky arghhh!”
+
+I turn to her with a smile.
+
+“What do you mean?”
+
+She rolls her eyes and sighs.
+
+“The boss, how was it? A good fight?”
+
+I smirk and nod.
+
+“Yeah, I had to get a bit serious. It was a fun one. How about you? Did that mutant give you a run for your money too?”
+
+“Hmmph.”
+
+“What? It wasn’t that hard was it?”
+
+Maria shakes her head.
+
+“No. That’s my point exactly. Right as I was about to enter, the portal returned to normal. You must have taken out the mutant already. I faced the normal boss…. One hard hit and it was over.”
+
+She pouts and crosses her arms playfully.
+
+“Well, the next mutant is yours. How about that?”
+
+She grins as a flash of light appears behind us and a green-haired girl appears.
+
+“Woooo! That was a rush!”
+
+Abby glows green while healing a large gash on her upper thigh with her right hand and drinking an MP potion with her left. I reply as she walks over to us.
+
+“Oh yeah? How’d you uh- Beat it? There were no rocks or anything…”
+
+She rolls her eyes.
+
+“You know I don’t need to have stone around me to use my skill.”
+
+Abby places a hand in the air while glowing even darker green. A small circle of stone begins to form into a long sharp spear. I raise an eyebrow.
+
+“Oh- cool!”
+
+She twirls the weapon around, then sticks it in the ground as a bright light flashes behind us again. Nessa walks out on fire with her own battle-crazed grin from ear to ear. She spits out a mouthful of blood on the ground, then walks over to us without speaking a word.
+
+We all stare into the spawn zone and wait eagerly. A few moments later, the white light flames once again.
+
+*THUDDD*
+
+A large hammer hits the dirt ground with a thud as Bruce appears in front of us with his own toothy grin.
+
+“That bird-for-brains never stood a chance!”
+
+He swings the hammer over his shoulder and walks toward our group. I call out.
+
+“We all made it, let’s head out!
+
+With unanimous nods of agreement, we all turn and begin the trek into the new dungeon terrain.
+
+The soft dirt ground sinks under the weight of my body a few centimeters every time I take a step. It’s an odd sensation. The ground feels very unstable under my feet.
+
+We walk for about 10 minutes on moderately flat ground until coming across one of the most absurd sights I’ve seen in a while.
+
+We stop in our tracks as I peer over the edge of a long twisting ravine. The ground is split in two, divided by a narrow hole about 10m deep that twists and turns as far as the eye can see. It looks like something long and cylindrical was dragged through the dirt for kilometers.
+
+I look to Maria and give her a nod.
+
+She jumps forward and begins glowing bright blue to create a bridge of ice for us to cross. One by one we cross the mysterious hole and continue our journey.
+
+Another 15 minutes of walking go by and we come across an enormous mound of dirt piled up over 30m high into the sky. It looks like an artificially crafted hill…. Right behind it, there is a similar ravine. I scratch my chin with curiosity.
+
+“What is going on here?”
+
+Maria creates another bridge of Ice and we cross one by one, each peering into the ominous depths below.
+
+The moment I step back onto solid ground again, I feel movement beneath my feet. The ground is shifting ever so slightly…. It’s not rumbling, it’s more like… churning…
+
+I turn my head back and forth but there’s nothing in sight. I activate inspect and enemy detection to take a closer look.
+
+[200m]
+
+[Lv. 275]
+
+I call out.
+
+“There’s…. Something coming!”
+
+I ignite my sword and continue to look around but all I see is flat ground.
+
+The odd sensation of churning dirt continues to grow more and more prevalent the longer I wait.
+
+We all back away from the empty ravine as Bruce smashes the ice bridge behind us. All five of us stand in a line moving forward slowly while looking on into the distance where I point my sword. Maria speaks up.
+
+“What is it?”
+
+I grit my teeth and squint my eyes.
+
+“I don’t know… Do you feel that?”
+
+There’s silence. Abby glows light green, then replies.
+
+“I feel it. The ground. It’s… moving.”
+
+‘…. Yeah.”
+
+The flames of my sword crackle as I stare out into the open plane of nothingness. I even ignite my body into a ball of fire to activate berserker and bloodlust to boost my senses.
+
+Still… Nothing….
+
+[100m]
+
+[Lv. 275]
+
+The ground shakes and the churning sensation grows even more.
+
+My eyes dart back and forth over the horizon as I try to pick up on where this beast may be hiding. I murmur under my breath.
+
+“How could a level 275 be hiding from me at this distance…. It’s like the thing went underground.. or-“
+
+My eyes open wide as I piece together the puzzle staring me straight in the face.
+
+[50m]
+
+[Lv. 275]
+
+I yell out to my teammates.
+
+“IT’S UNDERGROUND!”
+
+The moment these words leave my mouth, there’s a massive explosion of dirt less than 40m in front of us. The brown cloud of fresh soil flies high in the air as the monster I tracked all this time erupts from underground where it was hiding.
+
+My eyes open wide and I smirk as the flames on my sword crackle in the wind of the debris.
+
+“Let me handle this one. I want to try out a new move.”
+
+An enormous worm’s head pops out of the ground showing off 5 rows of razor-sharp teeth in its never-ending abyss of a maw.
+
+The monster’s purple skin looks alien to the dull brown environment as it lets out a malicious roar.
+
+Dirt flies everywhere. My teammates step back and let me handle the beast as instructed.
+
+Its body is just under 10m in diameter, and from what I can see, over 50m sticks out of the ground as it points down at me from high up in the air but I have a feeling it’s much longer than that…
+
+Its mouth opens up wide showing every last jagged tooth as it lets out a roar and dives down at me.
+
+Its long body continues to come out from hiding underground as it dives down with its humongous open death trap of a jaw.
+
+I take both of my hands and grip the handle of my sword tight, focusing a large amount of MP into the core of my blade. It reacts instantly and begins to glow red.
+
+I smirk, realizing this is the first time it’s changed colors on my direct command.
+
+With a deep breath, closed eyes, and a focused mind I let the fire magic build up in my blade as the purple monster plummets toward me.
+
+I tilt my head upward and open my eyes while activating my new skill.
+
+“Wind Summoning.”
+
+With an upward swing of my blade, I let the dark crescent of fire energy leave my sword encapsulated by a layer of refined wind energy.
+
+As the attack leaves my glowing sword, the wind surrounding it pushes my fiery attack upwards with blinding speed and precision.
+
+The excess air pushes my flames to ignite even brighter growing the flying crescent of fire into a dazzling display of bright red light in the sky.
+
+The mass of energy collides head-on with the incoming monster and it’s split clean in two….
+
+Without an ounce of resistance, the fiery attack slices the jagged maw of the beast clean in half. It follows through, cleanly cutting the monster all the way in half the long way through.
+
+I control my wind summoning magic to keep the fatal strike on track as it makes its way all the way to the monster’s tail, then deep underground.
+
+With a massive explosion of dirt and fire, the two monster halves fall to opposite sides of the newly formed crater in the ground before us.
+
+I stand up tall, deactivating all my skills and admiring my work.
+
+“….”
+
+“WHAT WAS THAT???”
+
+I hear Abby yell out from behind me as the rest of the group comes running over.
+
+I grin and turn to meet their surprised faces.
+
+“As I said before, I just wanted to test out a new move.”
+
+Abby replies.
+
+“A new move?? That was literally the definition of overkill. That was-“
+
+Maria interjects.
+
+“That was SO COOL!”
+
+We all go silent for a second. Then Maria and I burst out in laughter.
+
+“Yeah, it was really cool wasn’t it? I wasn’t sure if it would go all the way through.. but it did!”
+
+Abby stares at me wide-eyed.
+
+“But- you just- how-“
+
+Nessa pats her on the shoulder as Maria and I keep laughing and pointing at the burning remains of the massive purple behemoth.
+
+“Just go with it.”
+
+Nessa sighs and continues.
+
+“These two are… for a lack of better words… insane. Well, insanely strong... You’ll get used to it.”
+
+Abby nods slowly while staring at the dissolving creature.
+
+“I guess… I guess I will.”

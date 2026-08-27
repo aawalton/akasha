@@ -1,0 +1,185 @@
+---
+id: b4fcdebf-6806-520f-9290-5347fa3f4473
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14"
+slug: 0014-chapter-14
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 14
+ownLength: 1148
+unit: words
+ownProgress: 1148
+publishedAt: 2023-02-05
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1106389/chapter-14"
+royalRoadId: "1106389"
+markedReadAt: "2026-06-29T20:32:16.753Z"
+---
+
+After a quick walk back into the dungeon we came across a familiar opponent. A lone wolf eyeing us down preparing its attack.
+
+It was a menacing sight, but after witnessing a boss battle moments prior this wolf didn't look scary at all.
+
+"I got this one, stand back."
+
+Abby stepped back and let me test out my new strength.
+
+I charged at the beast, it returned the favor. A clash between man and wolf had begun again.
+
+I could tell I was much quicker than the wolf right off the bat. I lunged in for an attack at its neck, the monster dodged to my left but that's exactly what I had anticipated.
+
+I planted my right foot and charged in for an immediate counter. The wolf howled as I made a clean slice at its neck before retreating to safety.
+
+I've gained 13 levels since our last battle. What felt like a brawl to the death before was no more than a good training exercise now. If I'm careful, I'll be able to beat it without a scratch.
+
+We squared off again. The wolf bleeding from the neck and gritting its teeth. I stood ready with my sword drawn. The beast made its move.
+
+It charged towards me with a death stare, I made a dash towards the left to get a good position on the other side of its neck for a final attack.
+
+The wolf shifted its weight and turned to my new spot on the battlefield as I began to charge in as well. I sprinted straight on at the beast using a familiar windmill sword move from my back to over my head.
+
+The monster went in for the kill. My agility was noticeably boosted since my last brawl. I jumped over the its meager attack and followed through with my strike.
+
+It was all over in an instant. The wolf wined and collapsed as I sunk my blade into the back of its neck. A fierce battle, but a clear victor.
+
+[Level Up]
+
+_____________________Name: Jay Soju
+
+Level: 42
+
+Hp: 215/215
+
+Mp: 30/215
+
+Strength: 106 [+50]
+
+Speed: 120
+
+Agility: 127
+
+Defense: 96
+
+Mental Strength: 107
+
+Skills:
+
+AbsorptionUnauthorized reproduction: this story has been taken without approval. Report sightings.Swordsmanship
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]
+
+_____________________
+
+"Wow another level, what a day."
+
+Abby smirked.
+
+"Would ya look at that. A world of a difference from this morning's fight!!"
+
+"Yeah, you're right. I've gotten a lot stronger today."
+
+The wolf began to disappear, I grabbed the mana crystal and tossed it up and down in my left hand admiring it before shoving it in my back pocket.
+
+"Alrightttt, let's keep going!"
+
+I looked at Abby.
+
+"More?? How much do you want to do today?"
+
+She turned and put both hands up in the air as she walked further into the dungeon.
+
+"I don't knowwww, maybe a little longer. I'm trying to test out a theory."
+
+"U-uh okay."
+
+I drew my sword and followed Abby again.
+
+No more than 10 minutes later we came across another wolf.
+
+"All you Jay, have fun!"
+
+I gritted my teeth, gripped my blade, and lunged in towards my next battle.
+
+As I ran in closer I could tell a similar battle was about to ensue. I went for a frontal attack like usual and watched the monster dodge left. I shifted right and landed a picture perfect blow to the wolf's neck like my last battle.
+
+We squared off getting ready to begin round 2.
+
+As I readied my sword something felt very off. The grip of my sword felt awkward. My arms felt heavy and useless carrying a large piece of metal into battle against an apex predator. My confidence disappeared as I lost the grip to my blade and it clanged on the hard ground.
+
+"CLLLAANGGG"
+
+"......"
+
+"Grrrrrrrr"
+
+I was still facing at the wolf, but with no blade in my hand. I felt the murderous stare of a wild monster eyeing its lunch. I murmured to myself in a terrified voice...
+
+"W-What is happening to me..?"
+
+The wolf charged in, all I could do was stand there with my hands raised to guard its attack.I easily had the agility and speed to dodge it, but in my confusion common sense was thrown out the window and all I did was stand there in fear.
+
+The wolf's eyes were sharp. It saw its prey's moment of weakness and sprinted in without hesitation.
+
+"Allllllrightttttt, that's enough."
+
+A spear of rock came from beneath the wolf's feet skewering it and throwing its body out of my field of vision.
+
+Abby stood over me as I dropped to my knees and looked at my hands.
+
+"Oh get uppp, you're just out of MP. It's not the end of the world."
+
+"I-I'm out of MP... t-that's it..."
+
+As I stood up and put my sword back in its sheath she smirked at me.
+
+"Which meansssss. You lied to me."
+
+"I lied to you? When did I do tha-"
+
+My heart skipped a beat and my face went white.
+
+The realization of my current situation was all coming clear to me.
+
+I remembered back to the first time I met Abby in the Hunters Association office building. I told her my 2nd skill was an MP absorption skill, she had somehow seen through me. My mind was racing, to what extent does she know about my skill....?
+
+"I-I I didn't mean to. I- It was just because I didn't wan—"
+
+She just giggled and did her usual head bob.
+
+"So I was right! Ha! You've confirmed it now. Your skill..... What is it realllyyyyyy??"
+
+She got close to my face wide eyed with curiosity.
+
+"....."
+
+"Fineeee, i won't pry now. I know people are weird about their skills, but we're not done talking about this... that's for sure!"
+
+She pouted and puffed her cheeks at me.
+
+".... I- just don't tell the association. I really wanted to keep my unique skill away from the public eye."
+
+I covered my mouth with my hand. It's the pout she does.... Always makes me weak...
+
+"Ouuuaahhhh, so it's a unique skill. Hmmmmm."
+
+She smiled and started spinning around with a devious but cute smirk on her face.
+
+"Please. Just don't tell the Association yet, I just need a litt-"
+
+"One Week."
+
+"O-one week? What do you mean by that...?"
+
+She grinned even wider.
+
+"I'll give you one week to defeat the Boss room here. Do that and your secret is safe with me."
+
+"...... A-Alright."
+
+"Come onnnn, that's enough training for today. I think we had enough funnnn!"
+
+She grabbed my wrist and skipped back in the direction of the dungeon exit.
+
+I was deep in thought. So much had happened in the last couple hours, all I could do was keep on walking behind her and mumble to myself.
+
+"I need a drink."

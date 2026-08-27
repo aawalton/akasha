@@ -1,0 +1,289 @@
+---
+id: 6c3ca9b4-cf95-5fa1-8b8d-9dfa26a0cd39
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16 - Sunk Cost"
+slug: 0016-chapter-16-sunk-cost
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 16
+ownLength: 3285
+unit: words
+publishedAt: 2026-05-24
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3440560/chapter-16-sunk-cost"
+royalRoadId: "3440560"
+---
+
+"It's fortified sir. Stone walls black as night. Organized defenders walked the walls, and the field was cleared for at least several hundred paces in all directions."
+
+Ashlan chewed thoughtfully, rubbing his rugged white beard. He looked up at the dense canopy above, thinking. That was not in the captain's report. Something's changed.
+
+"What of the tower?"
+
+"It was there sir. Just as you said. And commander. The trees were gone."
+
+The old vet looked up sharply. "Gone? What do you mean gone? Trees don't just get up and leave, soldier."
+
+"Yes sir. They don't. I don't know how but... Sir, all the trees within half a league of the place appear rotted, dead, or just gone." He blew out softly
+
+Ashlan stared at the soldier for a long moment before grunting. Another detail that was most certainly not in Breck's report. "Any sign of ambush or traps?"
+
+"No. Not that we found." The scout stopped, hesitating.
+
+"Yes boy? Speak up."
+
+"Sir. It felt wrong. My horse was spooked and we were still on the grass."
+
+"Wait. What do you mean on the grass."
+
+The soldier grimaced. "Ah. Yes, sir there's also no grass near the wicked fortress."
+
+"Good god. Is anything as Captain Breck left it," the commander huffed in exasperation.
+
+"That's enough. You're dismissed," said Elson from his side. He could read the mood.
+
+He waited for the scout to scurry off. Once he was several paces off, he looked to Ashlan. "Commander, what do you want to do? I suggest we consider a withdrawal. This isn't the same mission Hallen sent us on."
+
+"Bredford, it's war. It never goes as you expect it to."
+
+"I get your point, sir, but there's the unexpected and there's this."
+
+"Thank you for your advice Lieutenant. Somehow I don't think Lord Hallen will share your sentiment if we, how did Captain Breck put it in his report.. Ah yes. If we retreat in good order. That's what he told the lord I hear."
+
+"I know it's not gallant, sir, but the more I hear of this, the more I think this is a job for paladins, not soldiers."
+
+"It's our job now Elson. Enough."
+
+"But sir-"
+
+"Enough!" barked the commander. "What's gotten into you boy?"
+
+He shook his head. "That locket of yours has gone to your head. There's a time for prayer, and a time to do your duty. Ours is to deal with this abomination. Understand?"
+
+The lieutenant straightened, steeled his expression, and nodded shortly.
+
+"Good. Move the pitch forward, have siege ropes at the ready."
+
+Black scales polished to a shine, Kairon sat cross-legged in the citadel with Sovereign Eye activated. Each claw rested to either side tracing gentle lines in the black stone surface around him.
+
+Where are you... Being late to a meeting is quite frankly unforgivable. A sign of weakness and disorganization.
+
+As soon as the first boot touched hellscape, they appeared. One moment there was just the black wall demarcating the boundary of his domain. The next, armored forms began appearing.
+
+His stomach clenched. Hello, hello. Let's count here. Ten.. Twenty... Thirty.. Oh my. He stopped counting. Not from being surprised at the number of men, but rather the discipline they showed. This isn't the same patrol group that left weeks prior. He watched, lips tightening, as the eighty two men filed into three neat formations. Squad commanders shouted orders, horses pattered, and weapons were held ready.
+
+Kairon sighed as the diplomat in him was squashed by his demonic counterpart. He knew with certainty now that the force sent today had only one mission. Extermination. Vorathrex was right. And, unfortunately, so was his own gut from the start.
+
+He felt Vorathrex's large hand grip his shoulder. "They are near. Very near."
+
+"Yes, yes. I see them. Eighty-two men, all wearing light armor.. Same colors on their uniforms. They are clearly disciplined, and well commanded."
+
+Grunting, the giant cracked his knuckles. "We fight."
+
+"Not yet. Let these men do our job for us. We practiced this."
+
+Vorathrex snarled, but Kairon ignored him. The eye atop the tower narrowed as he watched intently.
+
+The soldiers marched in an orderly line, boots driving down mud in the forest edge. Ahead, the trees began to become thinner and sparser.
+
+"That smell..."
+
+"Eyes forward!" barked a squad commander.
+
+Around, men began removing scarves from rucksacks and wrapping them around their mouths. The scent of copper and sulfur was growing overbearing.
+
+When the first rank hit hellscape, the uncertainty started. Feet began to warm, and an uncomfortable heat rose.
+
+Edward's skin was pale white, sweat glistening under his leather armor. That same spear was gripped firmly in both hands. I'm never making it one month. What the hell was I thinking?
+
+"Is that a wall?"
+
+"Yeah. And that stone. Edward, it's the same stuff from that tower," muttered Bertrum.
+
+"At least from here I only see what.. Eight.. Nine of them?" He gulped, catching his breath. "That's not so bad, right?"
+
+Edward glowered at the tower, reaching back to tighten his scarf and wring his collar. The orange sand was devilish, and the heat soaked wind was blowing it into his tunic without care.
+
+The further the soldiers moved, the more that uncertainty began to become something more insidious. A wrongness settled like a blanket over them. No one ran, or even looked back. But more than a few soldiers wanted to. Each step they took seemed to almost sap their energy, like instead of one it was ten.
+
+Next to the commander and the rear guard, the locket on Elson's chest began heating up and humming. One hand surreptitiously reached under the leather plate of his chest armor, holding it. Holy mother, protect me and mine. There is evil here. May you see with my eyes, and strike with my sword. The lieutenant willed the prayer off, being the first and only soldier to look backwards. His gaze sought holy lands that lay far to the south of The Spines.
+
+By his side, Commander Ashlan was checking the buckles of his armor. "It's nearly time. Elson, make sure the men stay in formation until we reach those damn walls. I'd wager these creatures may try throwing stones or oil. I've seen men do that and worse in Valdren. Beast or no, they can do the same here. Once we're close, the pitch will be applied with haste. Understood?"
+
+No reply.
+
+"Elson! Is that understood?"
+
+The second in command shook his head, looking up with a light cough. "Yes sir! Make haste to the wall. Formation tight. Watch for stones and oil."
+
+"And make sure the pitch is lit as soon as we reach the base of that stone. I don't want to be in that killzone longer than we have to," reminded the commander.
+
+Seeing the look on Elson's face, he lowered his voice. "Son. This place may feel like something unholy, but it's just some black rock and sand. Eight or nine wicked creatures? Ones that from what I hear, were more apt at cutting wood than flesh. We'll be in and out by nightfall. You'll see."
+
+The grizzled leader slapped Elson on the back. "Yes sir. Thank you sir."
+
+Ashlan watched his second in command trot off, unable to see that Elson's face was still deathly pale.
+
+Kairon took register of the hesitation of the column. A predatory gleam took seat in his gaze as he registered the minutes it took the troops to get back in formation and press onwards. Each second that they spend in my domain is one more second the corruption can do its work. All I need to do is give it as much time as possible.
+
+The city leader focused on the small raiding group by the treeline.
+
+You three. Now! Push!
+
+From a group of uncorrupted bushes thirty paces to the east of the column, three wrath imps shot out. Each wielded a sharpened wooden stave, held in front of them poised to strike. The soldiers were so engrossed on their target that not a single one noticed until it was too late.
+
+"Shields!! Shields!! On the east!!" The order rang out, and the soldiers had several seconds to look up, see the bone armored forms flying at them, and gape. They might have been professionals, but they weren't paladins.
+
+Before a single shield was raised, the wrath imps struck. Bone protected forms barreled into the undefended line. Men screamed, armor buckled, and flesh parted. Two armored soldiers fell to one knee, crimson blood spilling into the hell sand.
+
+Good. Fallback to the treeline.
+
+Seconds later, the three retreated. Several of the soldiers regained their wits fast enough to raise their spears and counter attack with hasty stabs, catching one wrath imp on the ankle.
+
+All three still disengaged, sprinting up the sandy incline towards the safety of trees. Warcries echoed from the comrades of soldiers, seeing two of their own fallen. A group of eight began to give chase, before barked orders from their commander attempted to bring them back to line.
+
+Giving furious gazes, the ragged line of troops halted and began to return back into line.
+
+That might have been the end of it, turning Kairon's raid into only a momentary delay, if those were the only wrath imps the demons had stationed.
+
+Now! Push!
+
+Three more wrath imps shot out, this time from the west treeline. They made it halfway to the lines of men before warnings came up. "West! West! Shields west! Good god, they're in the trees!"
+
+"Watch the trees!"
+
+This time, the soldiers did manage to raise their shields in time to deflect three stocky imps slamming into their wall.
+
+Even so, they weren't expecting so much strength in the stocky little forms. One man buckled and another's eyes widened as a wooden shaft slid over his shield and into his unprotected bicep. He screamed, tackling the imp and bringing him into a melee scuffle.
+
+Don't wait. Fallback to the treeline. Form up with the other party. Stand ready.
+
+The other two wrath imps obeyed, making haste back to the trees.
+
+This time, the entire soldier formation halted. Soldiers looked to the east and then to the west, standing ready for the next attack. None came.
+
+"Stay in formation! Stay in formation, damn you. Tight, shields to the ready. Either side, eyes up. There could be more!" cried a grizzled man in the back. Their supervisor, I see. Kairon sized him up like he would a new employee that just got the desk next to his. Big man. Rough hands. Clearly he's been in a few scraps. And he keeps his men in good form. I'd call him upper middle management.
+
+One minute, two, then three passed. All the while, the corruption slowly dug deeper and deeper.
+
+For the second time, Vorathrex slammed his fist into the wall. "Let me go. NOW. You swore I could consume. Warriors fight!"
+
+"Just a little longer. Patience. You know, Vorathrex. Don't you think the soldiers might taste better once they have some corruption in their bones?"
+
+"Fledgeling. Why do you think gold is as it is? Men are more corrupt than demons. Fool."
+
+Kairon was about to retort, then stopped. Now that's quite interesting. If true, it explained - no. Later. Fight now, profit later.
+
+He most certainly did not tell Vorathrex what he saw next. It would send the big guy into a frenzy. The wrath imp that had been tackled managed to drive his fangs into the soldier that tackled him, and even elbowed him with a bone. Unfortunately, the man's comrades swung in from either side and ceremoniously shoved two spears at the imp's head.
+
+Both iron heads punctured flesh, bone, and sand in one heavy motion.
+
+The city lord sighed. A required cost. Knowing that didn't make paying it any more palatable.
+
+Not long after the humans resumed marching. Now just less than eighty in number, the column continued.
+
+Kairon was still comfortable letting them wander deeper into his domain. If he showed his claws too early, they wouldn't be deep enough in the corruption zone. Too late, and this meeting could be very costly indeed.
+
+When they were approaching the halfway mark to the wall, he gave his next commands to the regrouped force in the treeline.
+
+Push. Make sure they hear you coming.
+
+Five wrath imps from the treeline sprinted out as one.
+
+The imps let out an ear splitting screech. A harsh, ugly sound. Kairon had asked for a war cry. They gave him one.
+
+"To the rear! Back lines, turn to. Front lines. Stand ready!" bellowed a calm, commanding voice.
+
+Half the soldiers turned one hundred eighty degrees, bodies facing the raiding party. The rest stared forward, watching the massive wall.
+
+Hold. No. HOLD. HOLD.
+
+The charging wrath imps had spotted their slain comrade and were seething. Kairon had to yank hard on his connection to rein them in. Even with Sovereign Eye, he didn't think he could hold this forever. A bead of sweat slid from his forehead, trickling down to the floor.
+
+HOLD.
+
+Finally, he got the raiding party to stand still. Each of their muscled hands were straining on their weapons.
+
+"Sir. Why are they just standing there?"
+
+Commander Ashlan's eyes narrowed. "Because they aren't mindless creatures." For the first time, he really took in their foe. By the looks of it, Elson was too.
+
+"Sir. Captain Breck was right... These aren't just wicked beasts. I reckon they are true demons through and through."
+
+"I can see that boy. But whatever they are, they bleed just like us all the same." He gestured at the limp creature, its blood still spilling into sand to their rear.
+
+He turned his attention to its five brethren, each holding a wooden stave and standing not thirty paces behind them.
+
+"Should I order the advance, sir?"
+
+"No. These demons are doing this purposefully. I've seen tactics like this before, from the exiled folk." Ashlan shook his hand, even now feeling the slight tremble in his grip. He wasn't afraid. This place is screwing with my body. And if my instinct is right, the longer we stay here, the worse it'll get.
+
+"We keep advancing. Keep two lines of spears to our flank, backwards march. Ten men. Everyone else, forward, five abreast. This is a distraction, and one I don't mean to let us fall prey to."
+
+Despite his earlier qualms, Elson had regained his head. He didn't question the orders. Commander Ashlan had earned his trust, demons or no. "Sir!"
+
+Kairon chuckled ruefully. "It seems the jig is up. Quicker than I hoped, at that."
+
+"Warriors don't need tricks. When can we strike?" demanded Vorathrex.
+
+"Almost time. Hold, just a little bit more."
+
+They haven't shown any ranged weapons, which means they probably don't have any. Kairon ordered the brood imps to stand ready on the walls and simply waited.
+
+He tried several times to use the raiding party in the rear to slow the approach, but it did little good now.
+
+Hold. Keep thirty paces behind.
+
+Kairon's vision centered on the vats of what appeared to be something flammable the humans were carrying near the front of their ranks. Uh oh.
+
+"Vorathrex, listen carefully. I have a hunch about something. I'm not certain, but. Be ready. Things are about to get heated, and I'll need you soon. Very soon, I think."
+
+Three minutes later, his words proved true. The increasingly worn lines of intrepid humans reached the base of the five meter tall city wall. Above them, the brood imps stepped back. Fallback. Off the walls. Your job is done, for now.
+
+He had a feeling what was coming, and there was no reason to risk the expensive little creatures. Kairon's heart slowed several beats when the last brood imp stepped off the boundary and scampered into the tower proper.
+
+Huh. The demon cocked his head, watching through Sovereign Eye curiously as the soldiers held shields above their heads for protection while others approached the wall with massive clay vats. A thick, tar like substance was spilled out in sludgey heaps atop his wall. Several of the vats were actually thrown and cracked, sending their contents spilling over his wall.
+
+Kairon was taken aback at this. What a waste of clay.
+
+Vorathrex rose, sniffing the air in agitation. "Fledgeling. I smell something. Very strong. Oily."
+
+"Yes, that would be the pitch."
+
+"Pitch? What does this do?"
+
+"It burns."
+
+Vorathrex's expression became incredulous. "And you're planning to allow these humans to burn us? I won't stand for it. I-"
+
+A bellow from outside the walls cut him off. "Light the pitch and fall back! Keep formation!"
+
+As Kairon watched the wall of flame climb his walls, his mind went back to that first week. The night when those rocks drank in the flame. How the walls he'd built had done more or less the same with the sun. And how the hellscape sand always reacted to heat and flame.
+
+In truth, he wasn't certain what would happen. But one thing he did know. His walls weren't going to burn. And the only thing Kairon liked more than making gold? Forcing his enemies to lose it.
+
+"I wonder how much it cost them to make all that pitch. Given what I've seen, I'd estimate the requisition bill to be quite substantial," muttered the city lord.
+
+Vorathrex was no longer listening. He had stormed outside, and was bellowing something.
+
+Where the flame was lit, a dark plume of smoke billowed into the sky. Soldiers watched on, weapons held ready for the cracking and eventual burning of the demonic keep that marred their forest.
+
+Then the walls started drinking. At first, it was barely noticeable. A shifting of the light. Then, several flames winked out, leaving intact stone behind.
+
+To the humans, it looked as if the fire simply was sputtering. "More pitch! More! Keep it coming!"
+
+Soldiers ran forward in pairs, hauling and chucking more massive vats atop the burning wall. This time, a wave of fire spread atop and on both sides of the wall, and an audible gurgle sounded. Not from any of the soldiers. From the wall.
+
+Kairon stood, throwing his head back and laughing. "An offering?! That's what we're calling it!"
+
+The fires burned higher, and the wall drank more. All the heat in the surrounding hellscape began funneling, causing the air itself to press into the wall. Soldiers nearest to it began to feel lightheaded, all the oxygen being eaten as fuel and heat as tinder.
+
+The city lord stood, staring in awe at the notifications. He knew something would happen, but this... Fangs glistening in a toothy grin, he rushed out of the citadel.
+
+"My oh my… Shiny! Take all the brood imps and gather all the timber in the stockpile. Then, throw it over the wall. Go, go, go!" he shouted.
+
+To his credit, the little imp only gave his master a single curious look before obeying. "Wood! All the wood!" he barked to his brood brethren.
+
+Kairon watched in gleeful anticipation. Shiny's force of brood imps began hauling logs to the top of the wall, eyes determined and scrawny imp arms trembling with the effort. The smart little devil had made them start with the bigger logs first. Each was ceremoniously dumped into the fire, bringing fresh eruptions of spark and flame into the conflagration below.
+
+His jaw nearly went slack. The exponential increase in corruption was so extreme, he could actually see the expansion of his domain.
+
+As the fire continued to build and the corruption notifications continued to pile on, Kairon's fang filled grin only widened.

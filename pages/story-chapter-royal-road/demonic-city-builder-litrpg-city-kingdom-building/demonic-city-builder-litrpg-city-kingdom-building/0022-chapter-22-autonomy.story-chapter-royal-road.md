@@ -1,0 +1,253 @@
+---
+id: 7a889ead-2915-5e89-a882-9f0a1d969c44
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22 - Autonomy"
+slug: 0022-chapter-22-autonomy
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 22
+ownLength: 2487
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3466881/chapter-22-autonomy"
+royalRoadId: "3466881"
+---
+
+"Explain to me exactly what happened." Their city lord was not happy, and both of the others in the citadel tower knew it.
+
+It was the next morning, bringing fresh sunlight through the spire's stone entryway. Last night the imps had arrived, found their bunks in the camp barracks, and passed out from exhaustion. To say Kairon was eager to meet with his underlings was an understatement, but seeing their state he had relented. Whatever had happened could wait until the following morning. Or so he'd thought.
+
+Shiny stood tall, frowning like his master. Vorathrex on the other hand kept fidgeting nervously.
+
+The imp pointed accusingly at him. "He too loud. Humans heard coming and ran. Vorathrex chased."
+
+"And?"
+
+"Found camp."
+
+The words were spoken like a death sentence. Probably because in this case, they were.
+
+His general huffed. Seeing the look in his lord's eyes, even his demonic rage was quenched into something almost resembling obedience... and shame?
+
+"Fledgling... You said humans can't share their story. We stopped them."
+
+"No. You chased to camp!" corrected Shiny again.
+
+The big demon's gaze flashed with irritation, but one cough from Kairon made that melt away. "There were strong humans there. Much stronger than I thought. I got... excited."
+
+"You got excited? Vorathrex, what precisely does that mean?"
+
+Shiny answered for him. "Camp GONE." He clapped his clawed hands together, glaring at the big general.
+
+"The fledgling said to quarantine humans. To stop information from spreading. That's what I did!" insisted the demon. "And look. We got lots of food. Aren't you happy? The humans don't know what happened. And we can eat freely."
+
+Kairon said nothing for a long moment. His mind went back to that initial summoning of Vorathrex. To that raw rage. And then to that hidden intelligence the big demon had finally shown. Come to think of it, Vorathrex has become far tamer to me specifically. It's possible he worries about the dissolution threat I hold, but still... Is this an act? Is there an underlying agenda?
+
+One part of Kairon's brain thought on that while the other kept talking.
+
+"To be clear, when you say the camp is gone and quarantined, does that mean no humans in that village still live?"
+
+Two nods.
+
+The black-scaled demon shook his head in disapproval. "Vorathrex, I'm very disappointed in you. What is the one rule I always tell you both?"
+
+"No waste!" barked Shiny. "Life valuable. Spend only when need."
+
+"Exactly. And this was not needed. The four rangers, maybe. But their entire village? Vorathrex, can you not see what you've done? This is possibly even worse than just letting Lira go back to her clan. What do we do if the other humans find out what happened? How do we explain an entire village razed to the ground? Who will trade with us then?"
+
+Vorathrex looked down.
+
+This time when he inspected the massive demon, he really tried to parse what lay underneath. His eyes didn't see five hundred pounds of demonic muscle. They saw a child whose strength far outstripped his means. The exiled general, strong but stupid.
+
+His mind, however, disagreed. It saw what may lie underneath. A ruthless demon with his own motivations and desires, pact or no.
+
+Kairon wasn't yet sure which was correct.
+
+In either case, he was starting to understand why Vorathrex had been exiled from his clan.
+
+"You are to put Boney in charge of training the imps for today. You will have the day off. Spend it reflecting on what happened. We will speak tonight. While I believe in autonomy, there is a limit that you have crossed twice now. I cannot allow it to continue, as the soldier in you should know. Am I clear?"
+
+"Fledgling... You must understand..."
+
+"Am. I. Clear?" Kairon repeated.
+
+Vorathrex made a nondescript noise, looked around uncertainly, and finally gave a resigned grunt. Heavy footsteps echoed in the dark tower as he trudged outside into the hellscape.
+
+Kairon turned his attention to Shiny.
+
+"Master... There were no shinies."
+
+He sighed. "Yes. I gathered that."
+
+"And Master. I think this how Vorathrex be. He get excited. Can't control."
+
+"Maybe. Maybe not. For now, keep an eye on him." High in the sky above, a much larger pupil narrowed. It too would be watching.
+
+"Master?" Shiny asked uncertainly.
+
+Between his efforts to encourage autonomy, his loose hands on Vorathrex's actions, and his insistence to let his entire force go off without him... Kairon knew he only had himself to blame.
+
+It didn't mean he could change what happened, or even that he might have done something differently. After all, this had solved his issues. Possibly all of them if they could figure out a way to keep a missing village hidden from the other clans.
+
+Kairon grimaced. "Sorry. I was just thinking. You know, I'm what my old managers referred to as a rationalist. You were right earlier, Shiny. Life is precious, but in the same way gold is. Only a life is worth much more. And just like coin, it should never be wasted without good reason. It did achieve our goals today. But it took far more value than it should have."
+
+"It saved life too. Ours."
+
+The demon gave Shiny a speculative look. The more time that passed, the smarter he got. It was a trend none of the other brood imps showed. Nor the wrath imps. Boney and the rest of the veterans from the battle had gotten more talented, but that was more in the realms of combat training and battle experience. Their intelligence was roughly unchanged.
+
+Shiny was the only one truly growing.
+
+"It did. I need to think more about what happened, and then I will deal with Vorathrex tonight. At the end of the day, we still have a city to grow. Let's go see what you managed to bring back."
+
+Before they made it to the stockpile, Veron intercepted them. He was being escorted by a wrath imp, who looked less than thrilled about his assignment.
+
+"Master here."
+
+With that, the little warrior banged claw on chest before wandering off to join his brethren.
+
+"Kairon-"
+
+"Veron. How are you faring?"
+
+"I... I'm fine." His voice was clipped and short this time. It had more than a little fear tinged within, but clearly he was doing his best to keep calm. "What happened to Lira? And the others? I saw..."
+
+"You saw the goods being transported back, didn't you?"
+
+A nod.
+
+Kairon took a moment, considering how to best respond. Something he had learned early on was never to apologize more than once if you could help it.
+
+"My friend, it seems that events escalated. There's no easy way to say this. Your village was lost."
+
+The demon expected sorrow, outrage, crying, screaming, or something at least. Instead, Veron's face only stared back at him.
+
+"I see."
+
+Maybe he's afraid that we'll end his life next to finish the "quarantine" of what happened?
+
+"How about this. For the time being, you will be our guest."
+
+These words did bring a measure of color back to the merchant's face. Unsure of what else to say, Kairon assumed the merchant simply needed time to process the news.
+
+"We will speak more this evening. If you need anything, have an imp fetch me. And Veron?"
+
+"Yes?"
+
+"Remember my promise and words to you. They will not change."
+
+He bade him farewell and followed Shiny to the stockpile. The impish supervisor had already started directing the brood workers in harvesting and organizing their hauls from the ransacked clan.
+
+In a stroke of ingenuity, the little monster had taken some looted furs and had the imps use them to bundle up meat and rations. What should have been a valuable but modest hunting haul was yet again today's second massive windfall.
+
++2 Food (Deer Corpse)
+
++3 Food (Wolf Corpse)
+
++1 Food (Rabbit Corpse)
+
++1 Food (Boar Corpse - Partial)
+
++1 Food (Boar Corpse - Partial)
+
++1 Food (Boar Corpse - Partial)
+
++1 Food (Boar Corpse - Partial)
+
+...
+
+The notifications continued on.
+
+"Small meat here." Shiny indicated a cleared area in the corner of the stockpile. "Keep big meat there. No! Too tiny. Get rid."
+
+Kairon let the comforting delegation of middle management ease the roller coaster of emotions the last few days had turned into. Shiny's simple orders and the skittering imps following them acted like medicine for his demonic heart.
+
+"Good work!" he congratulated when they finished. "Let's see what we've totaled up..."
+
+The demon shook his head. Recent events of death and violence had twice now brought in far more than anything else.
+
+Almost five hundred food... Even with their current growth that left them stores for weeks. Well, it should...
+
+"Shiny... We normally eat food within a day of hunting it, yes?"
+
+"Yes master."
+
+Kairon flicked his eyes to the sun above.
+
+"As it stands now, I fear the raw meat will rot far before we can consume it. Cover what we have with those furs you brought back. Then grab a few chunks and follow me. We have some testing to do."
+
+Two processes were put in place after that.
+
+First, Kairon had the brood imps begin to dry the meat on crude sticks over flame. That would let it keep for weeks.
+
+Second, he and Shiny did some more experimentation with the feeding pit. They found it did not accept the dried jerky. So once the meat was processed, it couldn't be inserted. The maw simply spat it back out. Likewise, it wouldn't accept food it already consumed and multiplied.
+
+The end result was that he had 25 units of food being processed now, with 25 more that would go through during the evening and a last batch of 25 again tomorrow morning. Together, the feeding pit should multiply the meat by four.
+
+Everything else would be smoked today and tomorrow in bulk to prevent rotting or waste.
+
+"If we do this right, we'll be left with over seven hundred food. After our next ring expansion, our population is going to increase fast. We're going to need every piece of meat we get."
+
+At his words, those little orange eyes had gone wide as coins.
+
+"Oh. And just to make sure none of it goes to waste, see about digging some holes in the stockpile too. Claws will do just fine for the job. If we bury the food wrapped in furs, it'll keep even longer. Moisture, sunlight, and heat are all enemies for storage. Dried or not, if we let our hard-earned spoils bake each day, it'll make us sick."
+
+"Cover with rock?"
+
+"Yes! Brilliant idea. Cover it with some of the stone and timber too. Just make sure you know where everything is."
+
+"Use sticks. Keep track." The little imp nodded knowingly.
+
+"For today, no timber or stone work. All imps will focus on drying stores. Tonight, I want you to meet again with me and Vorathrex. Call it a council meeting."
+
+"Council. Is it shiny?"
+
+"Mmm. Yeah. It's shiny."
+
+Before meeting with his general that night, he spoke at length with Boney, several of the other wrath imps, and Veron. He learned that what Vorathrex said was true, but left out some important details. The village had perhaps twenty people total, all of whom Vorathrex and the wrath imps slaughtered unprepared. Had the village been larger, it could have been a much bloodier affair.
+
+Most of the clan folk had taken up arms in defense of their home. Their first instinct was to fight, not run. When their chief and two burly warriors came out wielding massive clubs, Vorathrex sensed their battle lust and was sent into a frenzy. After that the humans hardly stood a chance.
+
+***
+
+"Shiny. What are these grates for?"
+
+"Master?"
+
+"This tower. Why does it have grates?" He gestured at the metal holes drilled discreetly through the tower. The stone was ever so slightly built so that small channels ran from the vault in the center towards the grates. "The tower is water-tight and has nothing but our gold and the gemstone. What are they for?"
+
+The little imp shrugged. "Blood?"
+
+"Maybe." Kairon had no intention to think more on that.
+
+As if on cue, Vorathrex joined the pair. He walked inside slowly, gaze unreadable.
+
+"Good. Everyone's here." Kairon clapped, moving to take a seat by the gemstone.
+
+"First item. I am officially making you both part of the city council. I will sit at the head, of course. Vorathrex is now our councilor of wrath, not war."
+
+"Councilor of stupid," muttered Shiny.
+
+"Now, now. None of that. Did I forget to mention that you are a councilor now too, Shiny? As the city's councilor of brood, you need to maintain your image. You will represent the working caste after all."
+
+The little creature puffed his chest, pride filling his eyes. "Thank you, master!"
+
+"You've earned it. I expect your performance thus far to not be impacted by your new role. Now. The second item is less pleasant. We need to revisit yesterday's events. Vorathrex, there is something I want you to understand."
+
+He paused, making sure the big demon met his eyes.
+
+"There are some, namely those we've met so far from the south, that will send more warriors. You'll have more than enough fighting and consuming. But as for me? I want to grow. To make something of our city. To ensure it's always here so that you can consume all you want, but still have a place to come home to... And there are some problems from where I come from that I feel you two should be aware of. While I don't expect them to impact us just yet, we may see some more turbulent times to come. Times we can't properly prepare for if we are spending every waking moment putting out fires and enemies one by one."
+
+"Yes. Still only nine workers," grumbled Shiny.
+
+"Precisely! We'll come back to that. Vorathrex, do you see my point?"
+
+The general scrunched his nose. "I am strong. Is that wrong, fledgling?"
+
+"No. That's why you are our councilor of wrath. But Vorathrex, what is strong about fighting those beneath you? Especially when there is no purpose? From what I was told, only a few of the villagers were strong warriors. Were the rest not weak?"
+
+"They were."
+
+"So then what is strong about fighting them?"
+
+Silence.
+
+"Think about that. Now, back to what Shiny brought up. We need to grow, and fast. I expect enemies will come to us in the future, and we are still woefully unprepared to face them. To that end, we will conduct our second ring ceremony tomorrow morning. I expect it to be quite the catalyst for our future expansion. Our goal from today is clear. Growth. As much of it as we can, as fast as we can."

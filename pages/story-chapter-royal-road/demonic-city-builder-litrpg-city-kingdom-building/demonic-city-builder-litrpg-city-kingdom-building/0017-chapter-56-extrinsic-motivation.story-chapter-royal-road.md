@@ -1,0 +1,275 @@
+---
+id: 20d68985-6bbd-51da-8808-d9d3e0c9dde6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 56 - Extrinsic Motivation"
+slug: 0017-chapter-56-extrinsic-motivation
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 17
+ownLength: 2946
+unit: words
+publishedAt: 2026-08-22
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3846366/chapter-56-extrinsic-motivation"
+royalRoadId: "3846366"
+---
+
+“Why we do?” asked Boney.
+
+Vorathrex grunted. “Because the fledgling said to. And I said to. That is all that matters.”
+
+The wrath warriors peered outside the city gates at the looming void of black. Speckled stars and a half-lit moon were the only sources of light over the endless sands. Then, several turned around. This time looking inwards. At the city, cooking fires still smoldering against the pitch of night. They glowed warmly, beckoning the warriors in. Clearly visible over the empty space on the city’s perimeter.
+
+Vorathrex snapped to get the imps’ attention. A third of the city’s force, chosen specifically for this duty. “Starting this evening, you will rest during the day. At dusk, you will rise. You will train. You will learn to see the sands as you saw the pit. Not with your eyes, but your instincts. Your mind.”
+
+Uncertain mutters came from the gathering.
+
+Vorathrex glared until they fell silent. Once they quieted, he went on. “The fledgling has given me leave to train you my way. So, I have placed twelve portions of meat out there.” He gestured into the night. “One for each of you. You must find it and return. Only then may you sleep and eat.”
+
+The warriors caught on to that wording.
+
+“Wait? You said eat? Eat too? As in—?”
+
+“Yes. Starting tomorrow, you will not have breakfast. You will not have dinner. You will hunt for your food.” He recalled what the fledgling had described it as. “This will serve as extrinsic motivation.”
+
+“What?! What if..? Can’t find!” stuttered one warrior.
+
+“Madness!” chittered another.
+
+“Too dark!”
+
+“Can’t see. How suppose do?”
+
+“Where master?!”
+
+Vorathrex clapped four hands together, making a loud thud. Warm air blasted over their faces, cutting off their whining. “Master and I chose you specifically for this. I believe you are our strongest warriors. Our oldest veterans. Our most valuable fighters. You will train to be an elite squadron, and do jobs the other warriors can not.”
+
+In the dark of the night, the soft wind howling, none of the imps spoke. They just shuffled, half in pride, the other in uncertainty.
+
+“You have trained in the pit. You have fought armored humans. You have bested your own brothers. And you fear the dark?”
+
+Still silence.
+
+Something inside Vorathrex spurred him, and he thought of the fledgling. What he’d do. Making an exaggerated sigh, he shook his head in disappointment. “I see. I may have chosen incorrectly. I suppose I can speak to the other warriors and—”
+
+“No!” Boney stepped forward. “We do not fear. We strong!”
+
+Another stepped to his side. Then another. “Strong.”
+
+“Fight.”
+
+“Best warrior!”
+
+They didn’t look entirely thrilled, but neither did they have that uncertain fear that was present only moments ago.
+
+Vorathrex snorted in amusement. “Good. Very good. Then go! Tonight, the food will be within a quarter of a league. It should be easy.” He hesitated, still not sure he believed the fledgling’s plan would work. Yet, something inside of him prodded him on. It told him that he should try. That if it did work…
+
+The general held up one fist. “I will give you a hint. See not with your eyes. Use your other senses. And not just your nose,” he added, seeing one of the warriors scrunch their face. “The world has a way that it should be. Your job is to find what is missing.”
+
+The warriors returned his advice with confused glances, before steeling themselves and facing the darkness.
+
+“Move!” barked Boney. “Show strong!”
+
+Roaring their defiance, the dozen warriors charged headlong into endless night. Behind, Vorathrex stood. His massive form blocking the gates, and the light of the city within.
+
+“I am not sure what I prefer, fledgling. If you are right, or if you are wrong,” he muttered under his breath.
+
+Inside him, a voice answered.
+
+It said it wanted him to be right.
+
+***
+
+Exiting the tower, Kairon passed the wrath imp’s Rookery. Twelve warriors slowly ambled towards it, bone armor covered in orange sand and dirt. Their cheeks were smudged with brown, eyes bloodshot, and forms hunched.
+
+The elite squad back from their first bout of night training!
+
+He waved.
+
+Half hearted claws to chests came in return. “Morning… Master,” groaned one.
+
+“Hungry…” croaked another.
+
+“No food…” said a third.
+
+Kairon quickly parsed through how last night’s training must have gone. It was his idea, after all. Having his wrath councilor pitch it as if he’d been the one to come up with it was just efficient middle management. “Morning warriors! I see last evening proved to be quite the challenge. Am I to understand that your hunger is too much, and the special operations should be discontinued? Vorathrex was certain you would be up for the task, but perhaps we were hasty. With so many new warriors coming, maybe they would be better suited for—”
+
+“No!” hissed Boney. “We strongest. We… like hunger. Make work harder.”
+
+Despite his rumbling stomach, Kairon thought the imp meant it. Around him, his fellows had conflicted looks. But more than a few shared his determination.
+
+Stepping forward, he dropped his voice to a conspiratorial whisper. “You know, when Vorathrex mentioned this training regimen to me, I thought it cruel and unnecessary. Yet, as he described to me how his clan’s strongest warriors were born and trained, I began to wonder. Why should that be reserved for demons? Why not imps? Part of me assumed it was because named demons simply have natural advantages you can’t hope to match.”
+
+As he said the words, the small contingent growled. Fangs bared and claws clenched.
+
+Kairon looked both ways, as if to ensure no one could eavesdrop, and crouched down on one knee so they were level. “But you know something? Where I come from, I too had those above me with unfair advantages. I know how that feels. What if… And I must stress the if of this, as it truly is an if, but… what if you could train as they do. What do you think would happen?”
+
+Orange pupils dilated and spines straightened.
+
+“You mean…” whispered one warrior.
+
+“We…” added another.
+
+“Become strong? Like demon?” finished Boney.
+
+The moment that sentence came out, they went silent. Waiting. Staring hopefully at their master.
+
+The city lord climbed back to his feet, leaning on his walking staff. “I wouldn’t know.” He shrugged hopelessly. “It was only a thought.”
+
+“But… Not say not true,” said Boney.
+
+A sardonic grin covered Kairon’s lips. “That I didn’t,” he replied. “That, I didn’t…”
+
+***
+
+After his little discussion, the warriors were practically begging to get back out. They wanted to find the meat that had eluded them last night, and finish their training.
+
+Only after Kairon’s insistence did they reluctantly head inside for some hard earned rest. He was toeing a fine line. These warriors needed to be sanded just right. Too light of a touch, and their edges would remain as they were. Rough. Too strong, and there might not be enough left.
+
+He’d keep a close eye on it. In the meantime, Kairon took a moment to see how the city’s fervor was doing.
+
+Between the new rookery, the meal changes, and DR’s involvement, fervor had reached an all time high. It was evident, too. The imps moved faster, worked harder, and he swore they even had a measure more of intelligence to their behavior.
+
+This was even more apparent as Kairon exited the North gates. Bean had the farmers in a frenzy this morning.
+
+“Harvest! We finish fast! By afternoon, this done!” he ordered. Ten imps were arm deep in the brown-ish orange fields, digging up the thick ashroot. Curiously, Kairon got closer to inspect how they did it.
+
+One of the imps was using his claws like a saw, slicing through the plant below. Then, once finished, a bundle of roots was removed from the soil and placed in a pile at his side. Like this, bushels of ashroot thick as an imp was wide grew on either side of each worker.
+
+The one next to Bean decided his pile was big enough. “Going stockpile!” he chirped. He hoisted both the bushels onto his shoulders and started trekking to the city.
+
+While the harvest he carried was large by volume, it was relatively light in weight. Kairon had tested such himself before.
+
+“Remember! Only arm deep! No more!” said Bean. “Root need grow. Not die.”
+
+Kairon nodded at that. He hobbled over to the little manager, patting him on the back. “Are we still finding the same as last time?”
+
+“Yes master! Bigger root deeper. Only cut top. Small root for eat. Big root for grow.”
+
+“Good, good.”
+
+Over the next few hours, Kairon spent time with the farmers. Observing their methods and offering advice on the process.
+
+As they were finishing up the afternoon’s work, it really began to dawn on him how nutrient packed these unassuming little mounds of dirt were. Above, there was nothing but lines of crudely tilled soil with interlaced white roots poking through. The weeds were honestly more noticeable than anything. Their violet, thorny growths littered the fields. A stark contrast to the muted dirt.
+
+On the right, Bean’s more experienced crew of five had done a good job this week of keeping their field well kept. Shreds of the invasive plant were strewn in organized piles several paces from the plots.
+
+On the left, however, the newer farmers hadn’t managed quite as successfully. Over thirty violet plants reared their sagging, ugly heads throughout the plot. Each bristling with tiny thistle like thorns. As if someone had taken half a dozen cacti, squeezed them into little pulps, and bundled them together.
+
+“I wonder how much more the properly weeded field will harvest,” he mused aloud.
+
+He pulled up the interface for both. First, the well-kept field.
+
+One hundred-ninety? Only ten higher than the first harvest, despite having optimal watering all week?
+
+He checked the other.
+
+If that’s how the well weeded one did, I fear to see how—oh. OH.
+
+The second plot had performed massively better. And the only true difference was…
+
+“Bean!” he shouted.
+
+Bean looked up, halting mid excavation. “Master?”
+
+“No more cutting weeds. Ever! In fact, let me see one of those,” he muttered. Bending down, he pressed a claw into the warm soil. Like last time, it was slightly moist from the corrupted watering from this morning. “Bean, come over here.”
+
+The demon gently displaced the ground around one of the purple weeds, staring intently. “What do you see?”
+
+Skipping over, Bean halted, dropped to his knees, and cocked his head. “Ugly weed! Thorns!”
+
+“Yes, yes. But look closer.”
+
+Bean leaned down, nearly touching his red nose against the protrusion. “See what?”
+
+Kairon yanked up, pulling the purple leafy weed out. The top of the weed visible above the soil was pathetic, ugly, invasive. Underneath, however, was something far more interesting. He pulled, and pulled, and pulled. By the time he’d finished excavating the growth, a fibrous structure more than five times its size had been removed.
+
+The city lord traced one claw along it, slicing its roots open. It felt less like bark and more like a leaf, easily splitting to reveal its insides. What he found was… intriguing. Visible amethyst beads of what he’d only describe as liquid corruption spilled to the soil. Where it touched, a viscous substance dissolved into dirt.
+
+“Master! They steal! Taking corrupt! Ashroot need that!” cried Bean. “Why keep?!”
+
+“No, no my friend. They aren’t stealing. I think…” He looked down at the root he excavated, then at Bean. “You said the ashroot thickens the further down you dig?”
+
+He bobbed his chin up and down.
+
+Kairon pondered on that. On what he’d learned of corruption. On how the holes they dug changed the further down they went. How his domain’s purple veins grew larger and more numerous the deeper they dug.
+
+Wait a minute…
+
+Breathing in sharply, he flicked his claw. A glowing bundle of azure parchment appeared. He positively whirled through the pages he knew so well by now, finding what he was after.
+
+“Master? What doing?”
+
+“Looking up the specifics for what a JPA needs to do to prove operational capacity. There’s a report I need to make… Yes!” He pointed with a claw, shouting excitedly. “Right here! Environmental Reclamation. I already have Shiny with the feeding pit on this section, but we could strengthen it if we filed a report on…” He looked up, eyes shining.
+
+“Bean. These weeds aren’t stealing the corruption. They’re dissipating it. Our ashroot is drawing in all this corruption near the surface. Yet, these violet weedy plants are sucking it up, processing it, and driving it downwards. It’s like a natural pipe system!”
+
+For the first time, Bean began to understand. “Woah…” he breathed. “But… What JPA? Why this matter?”
+
+“Because…” Kairon stressed, “what would you call something that prevents the corruption on the surface from pooling and spreading beyond our domain? That uses it and dissipates it not outwards, but downwards.”
+
+Bean shrugged. “Dig deep?” he tried.
+
+“This is a perfect example of an initiative to reduce corruption emissions! It’ll make up the core of a report I can file with what we—the city of course—are doing to maintain the local environment despite the erm… nuanced impacts of the plane’s influence here.”
+
+Bean didn’t seem to understand. “But… Why?” he asked again.
+
+This time, Kairon paused. He was sharing a lot. That was good, as Bean was one of his best middle managers. However, it was also a bit too early. The audit was still so far away, after all.
+
+Yet, he didn’t want to lie to Bean. So instead, he told him something that was both true and more in line with what Bean would care about.
+
+“Let me worry about the report and paperwork. What I want you to focus on is growth. In that regard, letting the weeds grow is actually helpful to our yields. That would also explain why we saw only a minimal increase in harvest this time around despite all our optimizations. There was one major variable we changed that hurt them. The weeds. Before, we’d kept them in favor of consistent experimentation. Their growth unknowingly aided our crop. Yet, this time, your field that pulled them did decidedly worse.”
+
+Understanding dawned in the farmer’s expression. “Oh… Oh! Grow more! Yes! Let weeds live!” Bean turned, barking orders at the other farms.
+
+“No more kill weed!”
+
+“WHY?”
+
+“BAD!”
+
+“No more kill!” shouted Bean. “If do, I tell DR!”
+
+Gasps came from the little workers. “NO KILL!”
+
+“KEEP!”
+
+“WEED FRIEND!”
+
+Kairon was just about to chime in on the conversation when a black, chitinous leg poked from the soil. The sight was so unexpected and jarring to his current train of thought that he just stared at it, not really believing it was real.
+
+Bean, true to his nature, was more in tune with farm life. He had no such hesitation.
+
+“No!” he shrieked.
+
+Before Kairon could even react, Bean grabbed the appendage, and pulled upwards. A beetle the size of his head screeched as its shell covered frame was exposed. Snarling, Bean turned the giant bug over and drove his knee into its squishy underside. Greenish blood and goo oozed out, soaking his lower body.
+
+Heaving, he let the dead oversized bug drop to the ground. It landed with a sickening thunk.
+
+Kairon took a moment to absorb what just happened. The sudden appearance of the bug, Bean’s violent reaction, and the creature’s very sudden demise.
+
+Taking a deep breath, he turned to his farm manager.
+
+“Bean… What was that?” he asked delicately.
+
+“Bug! Bad! Taste yucky!” he said. “It eat root. I seen!”
+
+“That is why you killed it? Because it hurts our plants?”
+
+“EATS plants! Stupid bugs. Think theirs. I teach otherwise.”
+
+“This is the first I’m hearing of this. When did you start seeing these… bugs?” As he asked, Kairon prodded the very dead, shelly insectoid with his staff.
+
+“Last week! Ew!”
+
+Another imp came up beside them, took one look at the bug, and spat on it. “Bad!” it agreed, before walking off with a bushel of ashroot. Its chittering receded as it made its way back to the city to stash its harvest.
+
+Meanwhile, something tickled at the back of Kairon’s mind. When Kairon first came to this world, he’d asked the imps to gather resources. His instructions weren’t great, but they’d listened. And more than a couple had unrooted beetles. He, of course, had them discard the insects and forgo harvesting them again.
+
+But those beetles… Were they the same species? Had his corruption altered them?
+
+They had the same onyx black skin and shell as this one, even those same horns. And there, on the shell, the same splotchy mark of grey. But they were hardly the size of a claw tip. The one Bean had just killed was absolutely massive in comparison. Bigger than a head. And this was just the beetles on the upper surface. If corruption was being pushed downwards, from both his domain and the invasive weeds, and the beetles were impacted by it like everything else seemed to be… then it gave to reason that the most impacted species would be deeper.
+
+Just what exactly was underneath all that soil? Beetles, nutrients, water, even rocks and ore. The more corruption, the more change.
+
+“Bean. Sometime soon, we’re going to have to dig a hole. A really, really big hole. I want to find out just what all this dirt is hiding.”
+
+“Dig!” agreed Bean happily.

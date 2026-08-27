@@ -1,0 +1,207 @@
+---
+id: 20e7d955-ce28-5505-8a05-2d69869af0f5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42: Regular Ol' Saint"
+slug: 0042-chapter-42-regular-ol-saint
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 42
+ownLength: 2153
+unit: words
+publishedAt: 2026-07-13
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3672661/chapter-42-regular-ol-saint"
+royalRoadId: "3672661"
+---
+
+Magia Scalpere Hominidae - Commonly known as Mana Shredders.
+
+Terrifying, and reclusive members of the Fillar mountains, these creatures have been known to travel in family packs of up to ten. Nearly hunted to extinction during the Twisted Crusades, Their claws are valuable components, capable of cutting through mana like a sword through parchment.
+
+While being primarily vegetarian, they are extremely aggressive when threatened. If encountered in the wild, do not make eye contact or any sudden movements.
+
+That pushes me to level 14, one away from my next spell. I look away from it to focus on the street, keeping a careful eye out for more enemies.
+
+Now that the battle is over, people are looking out from behind curtains, staring at our group as we make our way through the snowy street. I do my best to ignore them, just pulling my hood up. Libby does the same. Grildor has his helmet on, and Keve is still wearing his scarf around his face.
+
+As we walk the few streets back to the inn, I feel a headache coming on. I have no idea what I’m going to do with twenty slaves. I don’t want to escort them through the wilds to Kolas’s stronghold, but that’s seeming like the only option.
+
+Managing the food for a trip like that would be a nightmare, especially because we have to leave the Stronghold right now. Sticking around to see how the Archmage reacts to his choked out son sounds like a really bad idea.
+
+Soon enough, we get to the inn, where Tanya and Daron are hauling the last of our bags out next to Jasper. Lyla stands a few feet away, alone.
+
+I look around, expecting to see the other slaves, but they’re gone.
+
+Lyla catches my gaze, “They’re on their way out.”
+
+“What?” I stop a few feet away, the rest of my party stopping around me.
+
+“I told you I had an escape plan. I don’t know where they’ll go from here. But they’ll find a way.”
+
+I hesitate for a second, then hurry over to my pack, and pull out my notebook. “Everyone, pack up, we’ll leave as soon as I finish this.”
+
+The others nod, and hurry around me to throw their packs on.
+
+I find an empty page in my notebook, then start drawing. This is one of the first skills my mentor taught me, and while it might not be perfect, it should be good enough to get them there, especially since I can compare it to my skill.
+
+I finish the map, and rip it from the notebook. Then I toss the book into my bag and swing it over my shoulder.
+
+Lyla looks at me with exhaustion. A wind blows through, and she shifts with it, nearly falling.
+
+I hold the piece of paper out to her, and she takes it, looking at it with confusion.
+
+“You’re citizens of Kolas’s Stronghold, and they’ll welcome you. All of you. I wish I could do more, but this’ll have to be enough for now.”
+
+Lyla looks up from the map, then carefully folds it. “May the darkness treat you kindly, Leo.”
+
+I remember the second part of the greeting easily. Normally, the exchange is reserved for nonhumans, and despite the seriousness of the situation, I can’t help the smile that finds its way to my face, “And the light watch over you, Lyla.”
+
+I turn away from her to look over the group, up above, a golem-crow swoops onto the rafters of the building.
+
+“Let’s go.”
+
+We set out, and I set the pace to a light jog until we reach the tunnel. We leave through the gate without much trouble. The guards don’t care about things going out, they’re too worried about the things that can come in.
+
+I lead the way off the path immediately, heading towards a small stream that makes its way past the Stronghold. Then I force us to walk through the cold water for as long as we can before turning into a small clearing I barely remember from my previous travels. There I set up the angel ward, and grab the old rock I’d carved runes into when a mage had previously tried to track Keve and I.
+
+My mana flows into the rock, hopefully throwing off any traces that would attempt to track us.
+
+I keep the ward up for the night, then pass out in the early hours of the morning.
+
+***
+
+Tanya rubs the solution into my hair, then has me close my eyes to pour a pot of warm water over my head.
+
+I shake myself, happy to see the strands of familiar brownish-gold hair.
+
+She hands me a solution of some kind, and I eat it, happy to feel as my eyes return to their normal hazel.
+
+Libby comes over with a comb and a pair of scissors. She does some light trimming with experienced hands, helping me get my hair just above my eyes, and changing its shape slightly.
+
+Then I change into a white fur cloak, courtesy of Gerald, and grab the Builder’s sword, replacing my usual, more recognizable sword with it.
+
+Hide Presence activates as I leave the protections of the Angel Statue and start my journey back to the gate of the Stronghold.
+
+***
+
+I lay in the snow, watching the guards change rotations with Hide Presence activated. A young witch stands just outside the gate, her expression frozen cold as she looks out imperiously.
+
+Shar flies down, landing on a nearby branch.
+
+“She’s alone best I can tell. One of the scouts spotted me when I tried to get close. I did manage to see a wanted poster for a nature mage with green hair just inside the gate. It looked nothing like you.”
+
+I snort, then push myself out of the snow and lower my hood as I deactivate Hide Presence.
+
+Immediately, I feel the attention of the guards at the gate as I walk up.
+
+I select the first class, and the close scrutiny leaves me as they realize I’m an explorer.
+
+Eyla sees me a few seconds later as I walk up to the gate.
+
+A happy smile crosses her face before being replaced with a more professional one. She walks towards me, leaving the other guards behind. “Delver Grayson. I’m glad you made it.”
+
+“There was a little trouble on the way, but nothing I couldn’t handle.”
+
+“I’m glad you’re alright.” She glances over to the nearby guards, one of the scouts doing their best to pretend like they’re not listening. “The Archmage had a few questions for my Master about a Nature mage, so he’ll be unable to join us.”
+
+My smile slips at that, “Not too bad, I hope?”
+
+She shakes her head, and gives me a comforting smile. “Nothing my master can’t handle. The De’Vereth have gained quite a lot of political capital thanks to the help of a nameless Delver.”
+
+I let out a breath, “I’m glad to hear that. Are you ready to go?”
+
+She walks over to a bag leaning against the wall of the stronghold and picks it up, then walks over to me.
+
+I lead her down the path, then turn off the road where Shar stands on a branch.
+
+I keep my eyes and ears peeled. Shar is watching our back for people following Eyla, which means it’s up to me to keep us away from the dangers of the wilderness.
+
+The birds are usually my best indicators of danger, and I listen carefully to their calls, stopping us in the snow whenever they signal danger nearby. This strategy doesn’t work as well when Shar is near, since the birds tend to see her as something dangerous.
+
+A chirp goes out, then silences.
+
+I pull Eyla to the ground, then cover her with my white cloak as I activate Hide Presence. Her blue robes blend in well, but not well enough for my liking.
+
+My eyes stay peeled, watching the silent forest as snow slowly drifts down.
+
+Then I hear it, the soft crunching of snow under clawed feet. The creature that steps through the snow walks on two feet, but stays hunched over, long arms with wicked looking claws resting at its side.
+
+It looks like a more animalistic version of a Dralk, and I’ve only seen one before.
+
+My mentor called it a mana shredder. Sharing the same ability in its claws as a Dralk warrior, it’s capable of shredding both magic and skills to a lesser level. Wicked fast when it chooses to be, we’d kept our distance, and waited for quite a while after it’d left.
+
+It stops, and sniffs the air.
+
+I hold my breath, and press Eyla deeper into the snow without much thought.
+
+It looks around, its gaze passing over us, before it turns and continues walking through the forest.
+
+I keep us there for several minutes, not daring to move. I’m not sure a Legend could take that thing down, and I don’t want to test that thought if I can avoid it.
+
+They’ve been known to travel in packs, so even after I slowly stand up, I keep my head on a swivel.
+
+I motion for Eyla to stay quiet, then walk forward slowly. Birdsong returns to normal, so we continue on our way to the stream.
+
+Then it’s up the water towards camp. Eyla doesn’t look bothered by the cold at all, which makes sense considering her alignment.
+
+Eventually, we turn out of the water, and head towards the clearing where everyone waits.
+
+The illusion breaks, allowing the two of us to step inside.
+
+A small fire is lit in the middle of camp, a mystery meat cooking over it.
+
+I hurry over to my tent to change my socks, and dry them out by the warm fire.
+
+Once we’re all settled around the fire, Eyla takes off her backpack, and sets it down. She opens it for a brief second before pulling out a wooden tube. She opens it, and pulls out an old piece of parchment, handing it to me.
+
+I take it, and let out a small whistle.
+
+She wasn’t lying about it being pre-destabalization. Cities and town names that have been lost to time cover the parchment. Even the geography is minorly different. Thankfully, I’m still able to place the northern mountain formations, and the town of Bollar. A small village is circled, northeast, the symbol of a bird in flight over it.
+
+If I’m reading it correctly, then we’ll have to travel past the Archmage’s Sanctum and into the Living Forest.
+
+That’s where my mentor is from, although I’m not sure of his exact location.
+
+“What do you think?”
+
+I look up from the map, then curl it up and place it back into its case before handing it to her. “It’s doable. We’ll stop for resupply in Kolas’s Stronghold, and then it should be a week-long journey from there to the Living Forest, as long as the geography hasn’t shifted too hard.” I get some confused looks, until finally Libby speaks up.
+
+“Where is Kolas’s Stronghold?”
+
+I pause, then share a look with Keve, making sure he’s okay with me telling them. “This is still being kept quiet, but the Vishten from the Archmage’s Sanctum have a new stronghold.”
+
+Silence follows the statement.
+
+“How do ya just drop somethin like that?” Grildor snorts and shakes his head.
+
+“What he said!” Daron leans forward, “If I didn’t know better, I’d think you were keeping secrets from us.”
+
+Libby snorts.
+
+Tanya takes the meat off of the fire, and gets to cutting it up. The group silences as she asks a quiet question. “Is that where you sent the slaves?”
+
+I nod.
+
+“Slaves?” Eyla asks.
+
+“It’s a long story-” I start
+
+“Our Leo has the morals of an Angel.” Daron interrupts.
+
+I narrow my eyes at him.
+
+“You denying it?”
+
+“Yeah, and you’ll find that out when I sacrifice you to the next behemoth.”
+
+“Uhuh.” He shakes his head as he sneaks one of the slices of meat Tanya’d been cutting. “Anyway, our heroic Leo-”
+
+“Stop, please stop.” I hold my hands up to the smirking scout, “I was repaying a favor. One of those slaves saved my life.”
+
+“When did this happen?” Eyla leans forward, fully invested.
+
+I hesitate, then start to launch into the story of our delve into Kolas’s Temple. The mercenaries don’t know the story, so they become just as invested as Eyla. I brush over the Cube Of Kolas, and no one pushes.
+
+About halfway through, Tanya begins to serve all of us the food.
+
+The firelight illuminates us as Keve launches into his own interpretation of events, a stilted retelling of our fight against the Cultists.
+
+I take a bite of the meat, enjoying the juicy taste as I meet the eyes of friends around the campfire.

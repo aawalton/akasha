@@ -1,0 +1,241 @@
+---
+id: 4bff376f-fcc1-580a-93f4-0955d00e799b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30 - Ice Cream Social"
+slug: 0031-chapter-30-ice-cream-social
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 31
+ownLength: 2202
+unit: words
+publishedAt: 2026-06-13
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3532377/chapter-30-ice-cream-social"
+royalRoadId: "3532377"
+---
+
+“WHAT did you do!” roared Vorathrex. He stood, muscled torso trembling and arms taut with rage. The same rage that had been building up over the last several days of walking through forest and woodlands, seething about Kairon’s actions.
+
+In response, the city lord gave his frozen foot a wiggle and looked up. “Actually, I didn’t do anything. I found something I suspected may have value, and paid for it with what was required.”
+
+“You meddled with things you should not! Do you understand what you’ve done?!” shouted Vorathrex, voice booming in the tower. The echoes alone made the room tremble, its orange gemstone throwing dazzling stars of light on the wall as the pedestal vibrated.
+
+“Listen, I’m not going to repeat myself. And will you please keep your voice down. The imps have been very productive this week and are trying to rest. Not to mention Veron, who I’m sure you’ve already woken up over there.”
+
+In the corner, the ranger groaned. He yanked his cloak over his head, turning away from the duo.
+
+Vorathrex pointed a meaty finger at Kairon. “You are lucky that your foot is all you lost. Everything could have been gone. No. More than gone. Fractured. Consumed. Do you understand how foolish this was?”
+
+Yawning, the black-scaled demon looked at his friend and thought about it. Truly. He did.
+
+“My friend. I don’t know what to tell you. There was an opportunity, and I invested.”
+
+“He wouldn’t stop poking it,” came a muffled Veron.
+
+Vorathrex looked horrified. “You poked it? What does he mean?”
+
+“Nothing, nothing. The musings of a worn mind. He’s delirious and sick. Let him be.”
+
+Vorathrex was about to berate him more when another figure entered the tower.
+
+“My oh my!” Shadows spilled in from the night, crawling into the room. At their center, Sythara approached.
+
+“This is the other named one? Big… Quite Big. But…” she trailed off. Skulking inside, the demoness let her black tendrils of darkness flick and prod, exploring the mighty demon in front of her.
+
+“Tsk. You are strong for this realm. But weak for mine.”
+
+Growling, Vorathrex turned and looked down. Sythara was small. Half the larger demon’s height. Yet, when their eyes met, something new reflected in Vorathrex’s gaze. Something Kairon hadn’t seen before.
+
+Is that… Fear. No. It seems like something else. A primal, instinctive recognition of another predator.
+
+“Who is this?” he demanded.
+
+“This,” Kairon cut in from his prone position, “is Sythara. I have recruited her to join our city. She comes to us with expertise in research.”
+
+A soft snort emanated from the dark cloud.
+
+Turning, the towering general shifted his full attention to the demoness. Kairon was curious how he’d react. This was the first time he was witnessing two powerful demons meet, after all.
+
+Vorathrex’s expression shifted. The instinctive expression from before was gone. In its place, a newfound fire blazed to life.
+
+“My elder once called me weak,” he growled.
+
+“Intelligent demon. Maybe someday I’ll meet him.”
+
+“That would be difficult.” A light snarl touched his lips. “I consumed him.”
+
+Sythara’s sapphire pupils glowed with surprise, and then speculation. “Really now? My child, you find the most interesting creatures. One that consumed their forefather. This is prophetic.”
+
+Shadow met brute strength, and two pressures ballooned throughout the room.
+
+Kairon’s eyebrows went up. “Everybody calm down. This is getting out of hand. Please!”
+
+Neither were listening. Instead, a meaty fist shot out, air whooshing as it flung towards Sythara. In response, scripts and symbols glowed a deep blue, shifting to motion on her skin.
+
+“Vorathrex stop! She is a member of our council and important for keeping this city alive!”
+
+Right before impact, the massive knuckles halted. The giant’s arm was nearly fully extended. Veins and muscle flexed. But no contact came. Vorathrex just waited, locked in place.
+
+“You fool!” hissed Sythara. “Clearly this maddening realm has rubbed off on you. Already coming to blows over this?”
+
+Both demons stood, auras pressed together. The tension was like a bubble. One poke, and it would pop.
+
+Very delicately, Kairon spoke up. “Vorathrex. Lower your arm.”
+
+Nothing happened.
+
+“Please,” he added, as gently and sincerely as he could manage.
+
+This is all I need. My two most powerful underlings coming to violence before Sythara has even completed her onboarding. If nothing else, this has taught me about introductions with my kind. I need to evaluate how I allow major demons to interact going forward.
+
+For a moment, Kairon feared another blow was coming. That his analysis, while helpful, was far too late.
+
+The two just stared, wills locked in a stalemate.
+
+Then, as if nothing had happened, the bubble popped. Sythara’s skin calmed. Vorathrex’s muscles relaxed. Slowly, ever so slowly, the hulking arm dropped.
+
+“I do not like you. And you do not know as much about me as you think,” he said, before turning and making to leave.
+
+Sythara, it seemed, just couldn’t help herself. “What happened to your other arms? Two are missing,” the demoness asked curiously.
+
+Without even turning around, Vorathrex pointed back at Kairon. “Humans. Ask the fledgling.”
+
+Moments later, the giant disappeared into the night.
+
+“Well? I would very much like to learn how humans took those arms.”
+
+“Eh. They met Vorathrex, much like you. Only the meeting didn’t go nearly as well. Not for them, at least.”
+
+“Fascinating. But he still was injured.”
+
+Kairon shrugged, recalling what the big demon had told him. “His arms grow back fast enough. Other things, however, take much longer to heal.”
+
+There was a quiet after that. Both reflecting on what happened. Kairon, on how to cultivate a proper working relationship between the two demons. Sythara, on just what that hulking demon had been up to. And what he had planned.
+
+Finally, the demoness huffed. “I suppose maybe he’s not that bad. Your city will need protection, and brutes like him are forged in the fighting pits. The fact he consumed an elder and still lives says more than I’d like to admit.”
+
+Fighting pits? Vorathrex had never mentioned that before.
+
+Kairon got the feeling this was more of a test than anything else.
+
+“Vorathrex may be a brute. But that doesn’t mean he is stupid. Rather, I believe he has a different kind of intelligence.”
+
+“Mmm.”
+
+“Oh, come now. I think you might actually like him, if you learn to stay out of each other’s way.”
+
+“Perhaps. This reminds me,” she said.
+
+Uh oh. Kairon recognized that tone.
+
+“Do not look at me like that, child. It is nothing bad. I just noticed the warriors that followed him. Are those his?”
+
+“Not exactly. It would be more accurate to call them soldiers of our city. However, due to his position, they do report to Vorathrex as their supervisor,” he responded carefully.
+
+“I see. So the warriors report to the brute. The workers report to the little one. Who exactly will be reporting to me?”
+
+An exasperated sigh came from the lord.
+
+“Sythara, a word of advice. Being a manager isn’t all it chalks up to be. Everybody wants something. The problem is they all believe that want is a need. Which, I can confidently tell you, is rarely the case. Now, if you’ll allow me, I need to get back to sleep. Tomorrow comes early, and time grows short.”
+
+***
+
+Population +1 — Brood Imp
+
+— POPULATION: 32/50 —10 Brood Imps19 Wrath Imps1 City Lord2 Major Demons
+
+For nearly a month, Shiny had watched Vorathrex greet the newly spawned imps. The warriors got the same gruff introduction to the city and their brethren.
+
+Today, it was Shiny’s turn. The supervisor had polished his clawed hands in the sand, cleaned his face with some spare cloth, and even had allowed himself a small morning snack.
+
+So, it was with a special variety of pride that he greeted his newest subordinate.
+
+“Hello! Welcome to city! I manager,” announced Shiny.
+
+“FOOD?”
+
+Tightening his eyes, Shiny crossed his arms. Expectations needed to be set. “No. Food at night. You will work.”
+
+“Oh. Hungry…”
+
+“Tonight. We work first. Earn food. Together.” Shiny motioned at the eight other workers waiting for morning duty behind him. “All us do this. Including you.”
+
+Behind him, Kairon nodded in approval. “Shiny is correct. He will be your supervisor. If you have an issue, you go to him. Meals are at evening. You eat, work, and sleep together.”
+
+“FOOD!”
+
+“No. Not. Okay, you know what. Shiny. For today, keep this one with you. I don’t want him hunting alone. Tomorrow, he will join the next spawn and they will go to the forest as a pair. That will be much safer.”
+
+“Yes master! You. Follow me. We get wood. You two, stone!” Shiny barked.
+
+Ten brood imps scrambled off, webbed feet clattering on the brood district’s verdant stone.
+
+Leaning on his walking stick, Kairon smiled fondly. Shiny was becoming more and more confident. As his confidence rose, so too did his performance as a manager. His training was going swimmingly.
+
+Now. Time to speak with Vorathrex.
+
+Putting down his staff with a stamp, Kairon made for the wrath district.
+
+His aptitude at being a crippled demon was slowly improving. One interesting side effect of his hobbled state was how it had rubbed off on the populace.
+
+As the thud, thud, thud of wood on stone sounded, the warriors puffed their chests and threw themselves into their training. Their master was approaching, after all.
+
+Kairon settled down against the wrath district’s spawning grounds, sighing gratefully.
+
+He found the best way to recover after these walks was distractions. In this case, Kairon chose the training warriors.
+
+“Vorathrex,” he panted. “A word, if you please.”
+
+He grunted, ambling over. The giant too sat, attention still locked on the practicing troops.
+
+“It's harder to teach my warriors when you are here. The veterans are proud. They want to show you just how strong they are. But it disrupts the training.”
+
+My warriors. The terming was more proof that the big guy was coming around. Or so Kairon hoped.
+
+He gestured with a meaty hand.
+
+Boney had sneaked a glance their way, then looked back at his opponent with a snarl. The other warrior’s eyes widened as what had been a routine bout turned into an all-out brawl. A flurry of blows from a wooden stave rained upon the warrior, precise hits aiming for joints and unprotected flesh.
+
+Across, others had devolved into much the same. One-on-one fights that were intended for technical combat became furious scuffles of wood, fang, and claw.
+
+“The ferocity is good, is it not? I can see it's a bit sloppy, but I feel this is what allowed our victory before…”
+
+“Yes. Vigor is good. But I wanted them to learn technique. A weapon is an extension. They defeated the humans last time with surprise and shock. However, Veron claims the paladins are much stronger. These warriors need to know how to wield the weapons just as humans do. If I have enough time, I will teach them to do so. If I have even more time, possibly better.”
+
+A task that would be far simpler with a building that had some kind of innate scripts or practice mechanisms that could make learning technique faster.
+
+The demon lord chewed on that. “Vorathrex. I can’t promise anything. But I admit the limitations of not having a training grounds are becoming more of an issue.”
+
+“Yes. Even battle experience can not make a fledgling grow wings. To do that, they must learn to fly. And that takes time.”
+
+“Or a training grounds with demonic scripts,” muttered Kairon.
+
+“Indeed. The truly advanced and powerful ones can teach the basics of combat in a month.”
+
+“I don’t think that’s what I have access to. Not yet.”
+
+“No, but the basic one is more than sufficient for the human rank and file. If you can give me that, I can make these warriors truly formidable.”
+
+“And if I can’t?”
+
+The big guy shrugged. “Then I am going to need more warriors.”
+
+“Well. You have the one a day for now. Other than that… I’m sorry, Vorathrex. But no matter what, our next project has to be our first ashroot plot. But, I will consider amending our plans after.”
+
+His general’s jaw tightened.
+
+“I know. I know. You don’t need to tell me.”
+
+They sat for a while, both watching the warriors. The city lord found it relaxing. And, to a point, endearing. More than an hour had passed and still the wrath imps insisted on nonstop dueling and fighting. Their spirits soared when their master was near.
+
+“Fledgling. Never do that again.”
+
+“What? I knew what you meant, I didn’t mean—”
+
+He waved him off. “Not that. You know what I speak of.” One red finger pointed at Kairon’s limp foot. “This.”
+
+“Ah.”
+
+“Promise me you will not do this again.”
+
+Kairon nodded seriously. “Of course, my friend. Your advice is appreciated. There is much I do not understand, both about this power and its costs. I promise you this much. I will not do that again.”
+
+After all, you can only sell your right foot once. That’s what the left one’s for.

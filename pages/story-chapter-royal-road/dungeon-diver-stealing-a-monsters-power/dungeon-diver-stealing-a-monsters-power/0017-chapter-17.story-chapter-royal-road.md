@@ -1,0 +1,289 @@
+---
+id: f802ea4b-8fd5-5790-a06b-c38bd26dd955
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17"
+slug: 0017-chapter-17
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 17
+ownLength: 2277
+unit: words
+ownProgress: 2277
+publishedAt: 2023-02-05
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1106392/chapter-17"
+royalRoadId: "1106392"
+markedReadAt: "2026-06-29T20:32:22.880Z"
+---
+
+I beat the boss just in time... and I made it out in one piece. What a battle.
+
+I drank an HP potion before trying to make my way out of the theatre hall. It was empty, but I could hear some voices of a party gearing up outside.
+
+After a few seconds my wounds felt a lot better and I was able to walk without leaning on my sword. I made my way out of the dungeon hall and back towards the village market.
+
+"Hey old man, the battle went well."
+
+I placed 10 medium sized mana on the table and one larger crystal from the boss. The merchant placed them on the measuring plate and the bold numbers read out 423.7MU.
+
+"How about I give you 4 silver, a new sheath for your sword, and a T-shirt. What happened? You lose it in battle?"
+
+The old man smirked and laughed a bit while he counted out silver coins.
+
+"Yeah it got burned off, a shirt and a sheath would be great. Thanks old man. One other thing, could you tell me about this ring? I got it from a boss drop today."
+
+I handed him my new silver ring. The merchants eyes lit up.
+
+"Wow. Nice find. It's a mental strength buff magic item, but this type is pretty rare for an E Class. I don't see percent boost items often. It'll be more useful to you as you level up because the stat increase will be greater the higher your base stats are. I'd recommend you keep it if you'll be using your skill. It'll make your MP usage more efficient and your magic stronger overall."
+
+I nodded with approval and took the ring back. I placed it on my left hand's middle finger and watched it tighten on its own.
+
+"I was going to keep it anyways, it'll be useful . You're right. I am curious though, how much is it worth?"
+
+The old man smiled.
+
+"The right buyer would pay you between 20 and 30 silver for a ring like that. It's a pretty high grade E Class item, even D Class hunters would be happy to use a magic item like that."
+
+"Awesome. That's pretty good."
+
+"Hey catch!"
+
+The man threw me a generic black T shirt and the exact same black leather sheath I used before. I put them both on, slid my sword onto my back and took the silver off the counter.
+
+"Thanks again, see ya soon."
+
+"You too kid, be safe!"
+
+I took the train over to the Hunters Association. I walked up to the building and took a deep breath.
+
+"Hello Jay, welcome back. What can we do for you today?"
+
+The dark haired woman with a bright smile greeted me at the door.
+
+"Hey is Abby I- I mean. Is Ms. Sotoro here today? I need to talk to her."
+
+She smiled and nodded.
+
+"Yes of course, she said she was expecting you today. Please follow me, right this way."
+
+I followed the woman to a room in the back, she opened the door and motioned for me to step inside.
+
+"Well, how'd it go?"
+
+Abby was sitting behind a desk with an oval shaped couch in front of it.
+
+I waited until the woman left and closed the door.
+
+"I did it.... It wasn't easy."
+
+Abby grinned.
+
+"Oh yeahh? I thought you would. Lemme see some proof."
+
+"Here take a look."
+
+I threw Abby the ring. She put it on curiously and opened her status to check it out.
+
+"Ahhhh you even got a rare drop. Luckyyyy."
+
+Then she threw the ring back to me and got more serious all of a sudden.
+
+"Open your status, I want to see your progress."
+
+"I- Uh. Sure One-"
+
+"Don't worry, we made a deal remember?? You beat the boss, your secret is safe with me. No one else will know."
+
+She made a locking motion with her hand by her lips and pretended to throw out a key.
+
+"Sighhhh, okay."
+
+I opened my status and flipped the screen to show Abby. Her eyes went wide.
+
+"F-Fire magic... you absor.... IT REALLY IS WHAT I THOUGHT.... INCREDIBLE!!!"
+
+She got out of her seat and started jumping around.
+
+"You have a unique skill for real!! It could be the most valuable skill I've ever heard of Jay!!!"
+
+I nodded.
+
+"Yes I know. But I need to keep it a secret until I'm a stronger class hunter. I need to protect myself from any parties that want to take advantage of me. I may just be paranoid from reading comic books, but I think there's some sense to keeping it a secret for now."
+
+Abby stopped jumping and looked at me with a concerned look and pouted.
+
+"Hmm. I guess you have a point. It's your choice. Well, I'll be your eyes and ears here at the association. No one is suspicious yet, but depending on your future rate of progress there will definitely be some prying eyes."
+
+She made a teasing punching and looking around gesture.
+
+I nodded slowly and rolled my eyes.
+
+"Thanks for looking out for me."
+
+Abby smiled and walked back over to her desk.
+
+"Well, I have more boring work to do today. I'm glad you came in, maybe we can go on another hunt soon. I have a couple cool D Class dungeons I'm itching to show ya!!"
+
+She winked.
+
+"Sounds good. You've opened my eyes, I thank you again for that. Soon I'll be the one protecting you!"
+
+Abby laughed out loud as I turned to walk out the door.
+
+"Keep dreaminggg. See you later Jay!"
+
+I walked out the front door of the building with a sigh of relief. That went well. Abby knows my secret, but I have a feeling it's actually better this way.
+
+I took the train back to a stop right by my apartment. I walked up the steps to my door, turned the key, and stepped inside.
+
+I set my sword up against my desk and took a long hot shower. I smiled to myself, today was a good day.
+
+I decided to laze around for the remainder of the day to rest. I read some comics, journaled a bit, and made one stop to the corner store for a simple dinner. I slept exceptionally well that night.
+
+In the morning I woke up a little sore, but a long stretch made me feel basically good as new. I got dressed, took 6 silver and 3 bronze from my bedside table, grabbed my sword, and opened my door to leave.
+
+"Good morning Jayyyy!"
+
+I looked up and saw Maria staring back at me.
+
+"Oh hey, morning Maria."
+
+"You know I finished my first week of training with my school yesterday. I'm already level 15. I can defeat over 20 goblins before I need to restore my MP."
+
+"Level 15 in a week?? All from goblin hunting?"
+
+Maria tapped her index fingers together.
+
+"Well no... my councilor brought my party to the boss room 4 times. We gained a lot of levels but never actually fought... I feel bad about that. B-But we do a lot of combat training too!"
+
+I grinned.
+
+"Ahhh don't worry, I did that when I started too. It's good to see your school is prioritizing leveling you up. Can't wait to see how far you come with another few weeks!"
+
+Maria looked up with relief and smiled.
+
+"Good. My councilor also told me my skill is very rare. We have connections to a few guilds so their mages have been giving me private training."
+
+I raised an eyebrow.
+
+"Oh yeah? That's pretty neat, maybe you'll catch up to me sooner than I thought."
+
+I said my last remark in a bit of a teasing tone as I made my way down the apartment steps.
+
+"Arrhhh, I will Jay! You'll see! Good luck hunting today!!!"
+
+"You too Maria!"
+
+I happily strolled off to the village market after buying breakfast at a corner store.
+
+"Hey old man, I need a restock. 4 MP and 2 HP potions."
+
+I placed my 6 silver on the counter and the old man nodded.
+
+"Sure thing, here ya go."
+
+He handed me the glowing bottles and I placed them in my leather pouch.
+
+"Thanks, see ya."
+
+It was a quick exchange this morning. Friendly, but clearly all business. I was already in battle mode.
+
+After successfully defeating an impossible opponent after a long week of preparation, my eyes had been opened to the potential of my growing power. I need to become stronger.
+
+My walk to the Lexington Wolf dungeon was brief. When I zone out and day dream in my head it seems like the world flys by around me. For better or for worse... I made it here pretty quick. I mumbled under my breath.
+
+"Back to reality."
+
+I unsheathed my sword as I walked into the theatre entrance. I ran forward and jumped through the portal.
+
+After 1 and a half hours of trekking through desert I made it to the light grey portal. I readied myself and jumped through. My second fight with this boss was about to begin, I was almost shaking with excitement.
+
+I found myself alone in a familiar cave. 8 large wolves came running towards me and I disposed of them without a second thought. My speed, agility, strength, and mental strength were all noticeably heightened since my last fight. I felt like I was on top of the world.
+
+Then flames burst from the back of the cave. The wolf man appeared ready to battle me to the death.
+
+We squared off about 10m apart. The monster's arms and legs erupted with flames.
+
+I gripped my sword tight and focused. I thought of my skill's name in my head...
+
+"Fire Summoning"
+
+All of a sudden my arms erupted in flames... but it wasn't hot. It was more like... an extension of my body.
+
+I focused on the flames, and they reacted with my every thought. I wrapped the crackling red orange flames around my sword and eyed the beast with a death stare to match its own.
+
+Two flaming warriors stood across from each other. This will be a mighty battle.
+
+We both charged in at each other with intention to kill. I may be stronger now, but I'm still not stupid... a full on frontal attack is not a good idea. I decided to dodge and use a similar strategy that gave me the edge in our last battle. Zig zag and attack while my opponent cannot defend.
+
+I lunged in and made a slash on the monsters right leg. It was about two times bigger than the wound I had made in our last battle. The open flesh erupted with the flames from my blade.
+
+"RRRUUUUAAAAAAARRR!!"
+
+The beast cried out in pain. I readied myself for another attack. This battle will be much easier than my last.
+
+I zig zagged around the wolf man and slashed each leg again. There were fiery burns, dripping blood, and wolf roars echoing in the cave.
+
+I had to drink an MP potion after just 3 attacks. I was using two skills at once after all...
+
+I continued my strategy. Bob and weave, zig and zag. After consuming 2 more MP potions I was at full MP, full HP, and had landed 6 more hits on the monster's legs and torso. I could tell its HP was getting low... it was time for its final attack.
+
+I decided to take it full on before the beast could let out everything it had on me.
+
+I sprinted straight forward. The wolf man erupted into its fireball and charged towards me as well.
+
+As a wall of fire approached I activated my Fire Summoning as well to engulf my body in my own flames.
+
+I ran in and broke through the monster's wall of fire. I felt it burn, but it was no where near as bad as it was in my previous battle. My flame shield was actually working fairly well.
+
+I was 5m from the wolf man, there were flames all around us. I used my speed to swerve to the monsters left side and slash its upper leg. It let out a roar and stumbled back letting out intense red flames.
+
+I used this moment to make my final move. As the wolf man leaned back I jumped up with all my leg strength. I erupted with flames and held my sword directly in front of my body aiming for the wolf's neck.
+
+Seconds later the flames stopped. I landed a perfect shot. Blood gushed out of the monster's wound and the cave went silent. With a whimper the wolf man fell to the cold cave floor.
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+____________________
+
+Name: Jay Soju
+
+Level: 64
+
+Hp: 215/325
+
+Mp: 55/325
+
+Strength: 159 [+50]
+
+Speed: 183
+
+Agility: 192
+
+Defense: 145
+
+Mental Strength: 160 [+32]
+
+Skills:
+
+Absorption
+
+Swordsmanship
+
+Combat Magic [Fire Summoning]
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]
+
+Golden Wolf Ring [+20% Mental Strength]
+
+_____________________
+
+I smiled as I looked at my status. As the monster disappeared it dropped a large mana crystal. No extra drops today I guess. I put its crystal along with the 8 wolves' crystals from the beginning of the battle in my pouch. The white light came and I was transported to the dungeon entrance.
+
+It was only noon... I had plenty of time to rest and gear up back at the village market. I decided it was a good idea to face the boss again today.
+
+It's time to level up.

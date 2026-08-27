@@ -1,0 +1,169 @@
+---
+id: 708a724f-b6f0-5c09-b05b-59596abbef68
+page-type-slug: story-chapter-royal-road
+title: "Chapter 47"
+slug: 0047-chapter-47
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 47
+ownLength: 1524
+unit: words
+ownProgress: 1524
+publishedAt: 2023-03-05
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1129634/chapter-47"
+royalRoadId: "1129634"
+markedReadAt: "2026-06-29T20:33:25.829Z"
+---
+
+I made it back to the main D Class platform and checked out the list of dungeons.
+
+The Minotaur Dungeon caught my eye. The old merchant said it would be better to challenge this one with a group as a D Class hunter, but I think it'll be fine. He doesn't know how many skills I have, they're more valuable than levels anyways.
+
+I won't even be challenging the boss either, the normal dungeon monsters will be the perfect specimens to test out my new skill.
+
+I walked through the crowded station towards the correct train platform.
+
+"We need a combat magic user for a loot based raid, we pay well!"
+
+"Two tanks looking for a team, 5 silver each for an 8 hour raid. Anybody need us?"
+
+"Support types listen up! Buffs or healings, anything to help. Exp focused raid, anyone interested?"
+
+Some of these parties are probably good and honest hardworking people. I'm just not interested after yesterdays disaster. I'll be hunting solo again for a while, it suits me better anyways.
+
+I walked passed them all without batting an eye and stood by the platform that would take me to the Minotaur Dungeon.
+
+There was 1 other full party standing and waiting for the train next to me. It was a team of 5, I wonder if they're all going to this dungeon too? I used inspect.
+
+[Lv. 161]
+
+[Lv. 168]
+
+[Lv. 172]
+
+[Lv. 174]
+
+[Lv. 265]
+
+A Level 265? That's a C Class.
+
+He's a tall and strong looking member of their party with a huge sword on his back. If I had to guess I'd say he's about 30 years old. He must be the team leader... maybe its a guild raid and he's helping them level? Or they paid him to power level the 4 of them? Who knows...
+
+The other team members were standing behind their leader talking amongst themselves. One of them was a short red haired girl, we made eye contact for a split second but were interrupted by the sound of an incoming train.
+
+"Screeeeech"
+
+The train arrived and I boarded through the closest door right behind them.
+
+The team leader took a look at me and smiled.
+
+"You headed off to the Minotaur Dungeon too?"
+
+I didn't look directly at him.
+
+"Yeah. Solo, not interested if you're going to invite me to your group."
+
+"Haha, I got it. I just haven't see you around this dungeon yet. The Tara Guild basically runs this Minotaur Dungeon. I'm leveling up our fresh D Class recruits."
+
+The Tara guild huh? It's not one of the Big 3, they must be one of the smaller guilds in the city.
+
+"Nice. Good luck in there, I'll let you guys go in first. I don't want to get in your way."
+
+He nodded and handed me a card.
+
+"Sure thing. You must be at least level 200. I don't see many people challenge this dungeon solo. I assume you're here for a loot run?"
+
+"Yeah something like that."
+
+I took the card and threw it in my back pocket. It's just a guild info card, that's the least of my interest right now.
+
+"Screeeeech"
+
+The train slowly came to a halt.
+
+We all took the escalator ride upwards to the dungeon portal.
+
+"Well kid, swing by our guild if you're looking for a job. We're always looking for up and coming D Class hunters. My name's Hudson by the way. Nice to meet you!"
+
+"I'm Jay, nice meeting you. Best of luck in there."
+
+The team of 5 entered the dungeon and I waited outside. They all seemed nice, especially the leader.... but thats not important right now.
+
+During this time I played with my item storage skill. I opened and closed it many times in many differing sizes and distances from my body. My MP doesn't go down at all when I use my item storage. It's either such a low amount that it doesn't show on my status, or it doesn't use any MP at all. It's odd... but a good discovery.
+
+After about 20 minutes went by finally decided to jump through the blue spinning portal.
+
+The dungeon has a lot of pretty familiar features. It's a mountain range dungeon, but the mountains aren't too big. They look more like rocky hills. There's a lot of green grass and shrubbery along with large green trees every 10m or so. It's not heavily wooded so there are some planes of open grassland.
+
+I reached into my item storage and pulled out my sword while walking straight ahead deeper into the dungeon.
+
+After about 10 minutes of walking around I came across a wide open grass patch. To my surprise there were 3 Minotaurs just standing in the middle of it. They haven't noticed me at all...
+
+They're all around 4 meters tall and look like massive buff humans, except for their heads. The monster's bodies are dark brown, covered in hair and have rippling muscles head to toe.
+
+The Minotaur's heads are large and look like a Bull. They have horns coming off each side of their head almost a meter long. Each of these monsters is also carrying a massive silver axe with a long wooden handle. They're wearing shining silver wrist guards and a brown cloth around their waists.
+
+I used inspect.
+
+[Lv. 155]
+
+[Lv. 157]
+
+[Lv. 158]
+
+These monsters are going to be a piece of cake. I've faced off against level 170s before. Come on, why is everyone so worried about these minotaurs? Of course I'll still keep my guard up and fight strategically, but I cant see them being too much of an issue.
+
+Plus, I'm not going to try and test anything new out on my first fight. This match will be purely to see what these monster's abilities are.
+
+I slowly walked towards them with my sword out in front of me. I'm about 50m away now.
+
+30m....
+
+20m....
+
+The Minotaur on the right turned its head and spotted me. It let out a few grunts then turned its full body towards me. I gripped my blade tighter and kept walking forward.
+
+The beast started to charge, the other two monsters turned to look at me but stayed back and watched.
+
+This Minotaur's aura is strong, this will be a serious battle. I ignite my sword into flames and start running towards the beast as well.
+
+"CLANGGG"
+
+Sparks fly as we clash sword and axe. It's a strong opponent, but like most of these larger monsters I have it completely beat with my speed and agility.
+
+I jump back to face the beast again. It grunts and pushes large amounts of air from its nose. We charge towards each other again.
+
+"CLANGGGG"
+
+My sword and its axe collide. After this attack I twist around the monster's left side continuing the momentum of my strike as flames and sparks fly through the air.
+
+The monster's eyes track me and it attempts to turn with me. The beast lifts its heavy axe up after our clash to go for another strike, but it's too late. The minotaur's torso is wide open, I focus my fire magic into the tip of my blade and land a fiery gash across the monster's abdomen up to its chest. I land and sprint backwards to admire my work.
+
+"RUUUUUAAAARRRR!"
+
+The Minotaur lets out a roar as the fire residue in its gash burns bright. It's in pain, but the battle is definitely not over yet. The two monsters behind it are watching maliciously, but haven't moved from their spots in the background.
+
+The beast on fire looks me in the eyes and readies its axe again. We charge at each other.
+
+"CLANGGGG"
+
+Sparks fly high and the monster raises its axe immediately after impact this time. It learns quick, these monsters definitely have higher intelligence than I had assumed.
+
+We stood 10m apart. I'm starting to break into a sweat. It's not a life threatening battle at all, but this monster is putting up a good fight.
+
+We charge at each other once again. I decide to completely dodge the axe's swing and weave around the Minotaur. It wasn't expecting this, I have a perfect opening.
+
+I plant my right foot and make a full U turn facing the monster's back. It's turning as well, but again... Too slow.
+
+Another hit!
+
+I make a fiery gash across the monster's back from shoulder to hip. It cries out in pain, but still doesn't drop to the floor. I can see why these guys would be a problem if they were to attack a lower level hunter in a group.
+
+"RWWWUUUUUAAAARRRR!"
+
+The Minotaur lets out a mighty roar. It's definitely very injured now, one more good hit and its done for. The only downside is I really pissed it off.
+
+The beast turned to me with fire residue burning intensely on its front and backside.
+
+The two Minotaurs that were staying out of the fight previously turned towards me as well.
+
+I gripped my sword tighter and grinned as the 3 monsters started their charge straight at me.

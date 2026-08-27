@@ -1,0 +1,247 @@
+---
+id: 183d8334-73d9-5345-af29-57e5e8bc47e9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 60"
+slug: 0060-chapter-60
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 60
+ownLength: 1996
+unit: words
+ownProgress: 1996
+publishedAt: 2023-03-18
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1141954/chapter-60"
+royalRoadId: "1141954"
+markedReadAt: "2026-06-29T20:33:52.657Z"
+---
+
+I made my way back to the market with a smile on my face.
+
+The guild took the 7 mana from those other monsters, so I think it's fair that I get to keep the big mana from the boss. It ended up being a pretty even split. The Minotaur Horn, on the other hand... I'll just take it as compensation for dealing the final blow to the boss. They didn't even see me place it in my item storage, so it's fair game in my mind.
+
+About 15 minutes later I walked into the square and waved to the old merchant.
+
+"Hey kid! How's it going? What do ya have for me today?"
+
+I dumped my mana out onto the silver scale. It read out 3104.53MU.
+
+"I have one more thing for you as well."
+
+I looked over my shoulder to make sure no one was looking and reached into my item storage to pull out the large Minotaur Horn.
+
+*THUDDD*
+
+I set the huge item on the table and looked at the merchant with a satisfied smile on my face.
+
+"What can you give me for this? I need to buy a new sword today too, so give me your best price."
+
+The merchant raised an eyebrow and his eyes went wide as he examined the horn. I watched him scratch his head and feel every inch of it for a solid 30 seconds straight. He finally looked up.
+
+"This is some rare C Grade material we're working with here. I'm sure people would pay 5 gold.. No, even 10 gold if you found the right buyer for this."
+
+I smirked.
+
+"What is it even used for?"
+
+"Well, if you can find a good blacksmith, horns like these can be turned into incredible blades. I personally have never seen one of this size, you could make an incredible sword out of it."
+
+I grinned while thinking back to my battle with the Minotaur. It shattered 6 axes and my main sword like they were made of glass.
+
+"Where can I find a blacksmith?"
+
+"If you go to the main shopping center, there's a pretty good sword shop on the 8th floor. It's called Apollo's Sword shop I can give you an addre-"
+
+"Oh! I've been there before. They do custom work?"
+
+The merchant nodded.
+
+"That's great. Yeah, bring that horn in. I'm sure they'll have a blacksmith available."
+
+"Thanks! Oh, and for the mana. How about 30 silver?"
+
+The old man nodded once.
+
+"Works for me. As always, pleasure doing business."
+
+I shook the merchant's hand and placed the silver coins along with the Minotaur's horn into my item box.
+
+"You too. Thanks again, old man!"
+
+With a wave goodbye, I turned and headed off to the shopping center.
+
+When I arrived I walked into the building to look up and see the sky. This building has some beautiful architecture. The glass walls and open-view ceiling still amaze me. I came here with Rei and Maria not too long ago to buy weapons and test out the sim training rooms.
+
+The sun is starting to set, the orange light is shining through the building's open roof as I started to go upstairs. Moments later, I made it to the 8th floor and walked over to the familiar shop.
+
+A woman wearing a suit greeted me with a small bow.
+
+"Welcome to Apollo's Sword Shop. Will it just be you today?"
+
+"Yes, just me."
+
+"Are you buying, selling, or crafting? Please show me your Hunter's License."
+
+I handed her my ID.
+
+"I-uh I guess I'll be crafting. I'd like to see a blacksmith if that's possible."
+
+She nodded and gave me back my ID.
+
+"Alright, follow me."
+
+She motioned for me to follow her inside. Once we entered the store she spoke to a man wearing an identical suit to her own.
+
+"I need a blacksmith for a D Class Hunter."
+
+The man nodded and looked me in the eyes.
+
+"Please come with me, sir."
+
+I followed him to the back of the room and we went through a red curtain on the wall with a sign above it reading "VIP" in black letters and a gold frame.
+
+"Please enter the third room on your left. Your blacksmith is ready for you."
+
+I opened the door after walking down the empty hallway.
+
+A short bald man sat at the end of a long brown table in a well-lit room with black walls.
+
+"Welcome, welcome! The name's Frederik. What can I do for you today?"
+
+"Nice to meet you. I'm Jay. I'd like to have a sword made."
+
+I took the Minotaur horn out of my item box and set it down on the table. The bald man's eyes lit up and he started examining the item.
+
+"This is no ordinary item. You're looking to make yourself a one-of-a-kind C Class weapon today aren't you?"
+
+"Well, yes. I was hoping you could craft something worth my while."
+
+He continued examining the item and began writing a few things down on a notepad, then looked up at me.
+
+"You know, we may get some C-grade element stones after this surge is over. It would be a shame to craft such a fine piece of material without bringing out its full potential."
+
+I looked at him in confusion.
+
+"Element stones? What are those?"
+
+"Sometimes rare drops trickle down into the public market from higher-ranking dungeons. The only dungeon I know of that produces element stones in the Vice region is the C Class Advanced Ogre dungeon. The only other possible place would be the Labyrinth, and no one is crazy enough to go in there these days."
+
+I nodded and let him babble on. This is the type of guy that just loves the sound of his own voice. He's a talker.
+
+"Every once in a while we get a shipment of element stones sent in from the Hunters Association on special order. I've seen a few dozen of them come through here in the last couple of years. They are definitely becoming a bit less rare with the recent surges, but still pretty hard to get your hands on."
+
+"Okay.. that's nice, but what are they?"
+
+"They're stones that give off the energy of a certain element. If you defeat a very strong magic user there's a small chance they'll drop a stone that correlates with the type of magic they possessed. It will give off massive amounts of magic energy and slowly dissipate into the air  unless stored correctly or fused with another magic item that can contain it. I've seen a few water, fire, and earth stones in my day. Those are the most common in my personal experience."
+
+I raised an eyebrow, If that's what he's describing... I have an element stone... A fire stone to be exact.
+
+"Uhh say I brought in an element stone. Could you fuse it with this horn to make me a sword?"
+
+The man shook his head.
+
+"Unfortunately no, I can't. We're only permitted to fuse stones authorized by the Association. Secondly, I'm not high enough level to fuse stones of that magnitude."
+
+I used inspect.
+
+[Lv. 134]
+
+My eyes went dull and I sighed a bit. Of course, they paired me with this guy. I'm a D Class solo hunter, they wouldn't expect me to come in her with C Class materials.
+
+"Do you think there's any place in town that could fuse an element stone without an authorization?"
+
+He scratched his head and thought for a moment.
+
+"I can't help you there. I'm sure there's a black market for this kind of thing, but I don't recommend you get involved in that kind of thing. People go missing all the time in those parts of the city.
+
+I nodded and placed the Minotaur Horn back into my item box.
+
+"Hey, thanks for the help and the information. I think I'm going to wait a little while before crafting this sword. You're right, an element stone would be a great addition."
+
+He nodded and smiled, the man didn't seem too disappointed that he'd just lost a customer by running his mouth. This must happen often.
+
+"It's okay. Come back in after the surge finishes up. There's a chance we may have what you're looking for in stock!"
+
+I thanked the man again and walked out the door to make my way down to the ground level.
+
+That wasn't a total waste of time, I did learn some pretty good info.
+
+"Gurrrgllleeee"
+
+My stomach curled up into a ball and threatened to come up my throat. I haven't eaten all day, I need something now!
+
+I walked all the way back toward the food market and found a busy local bar. I sat next to an older-looking man and gave him a head nod as I got the bartender's attention.
+
+"Could I get your special, and whatever beer you have on draft."
+
+"Sure thing, coming right up."
+
+I nodded and sat back with a sigh and looked at the sky.
+
+The old man turned to me, I took a good look at him. He wore a very sturdy leather jacket, worn-out jeans, and big black heavy boots. His hands were rough and covered in a substance that looks like it's been caked on for decades. A true working man. I wonder what he does here in the city....
+
+"Hey, what do you do for work old man?"
+
+He chuckled.
+
+"Oh, you don't wanna know kid."
+
+Then gulped down the rest of his beer while motioning for the bartender to get him another glass.
+
+I used inspect out of curiosity.
+
+[Lv. 368]
+
+My eyes went wide.
+
+"Are you a hunter?"
+
+He laughed at me again. The bartender came back with my food and two drinks. One for me, and one for the old man. He looked at me with his tired eyes and raised his glass. I raised mine as well.
+
+*Clink*
+
+We both took a long swig, then he replied.
+
+"I used to be a hunter. The association banned me from dungeons long ago though."
+
+I could tell by the tone of his voice that it'd be better if I don't ask too many more questions about his past. At the same time, this encounter couldn't have gone any better. Who better to ask for a black market smith?
+
+"Ahhh enough said."
+
+He nodded. I began to eat my food.
+
+After a few minutes, the old man finished his new drink, and I was nearing the end of my own. He waved the bartender over and asked for another.
+
+I interrupted and threw a silver coin on the counter.
+
+"Drinks on me tonight old man."
+
+He grinned.
+
+"Now you're speaking my language."
+
+The bartender brought over a few more rounds and we drank as the sun set. Eventually, the old man spoke up.
+
+"All right kid, I've been around the block a few more times than days you've been alive. I appreciate the drinks, but what is it? What do ya want?"
+
+I raised an eyebrow and gulped down the last of my drink to calm my nerves.
+
+"I'm new to town. I need an introduction to a good blacksmith. Someone off the books."
+
+He smirked and finished his own drink.
+
+"Ahhh that's it? I thought this was going to be a lot more serious. Kids these days crack me up."
+
+He took a pen off the bar's register and scribbled something down on a napkin.
+
+"Here. Show up early in the morning and ask for Briana. She can make whatever you need, just be ready to pay the price."
+
+I took the paper with a wide grin across my face.
+
+"Thanks a lot! Maybe I'll see you around, drinks on you next time?"
+
+He laughed.
+
+"Yeah right, kid!"
+
+With a smile and a wave, I left the bar and started walking towards the Inn.
+
+What a successful day! I can't wait to get this sword crafted tomorrow.

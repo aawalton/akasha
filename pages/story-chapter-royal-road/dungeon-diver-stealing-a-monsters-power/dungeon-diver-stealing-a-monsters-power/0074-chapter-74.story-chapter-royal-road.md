@@ -1,0 +1,249 @@
+---
+id: 34ad7f53-47c9-524f-a0f8-cbd00619f2e8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 74"
+slug: 0074-chapter-74
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 74
+ownLength: 2017
+unit: words
+ownProgress: 2017
+publishedAt: 2023-04-01
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1155031/chapter-74"
+royalRoadId: "1155031"
+markedReadAt: "2026-06-29T20:34:21.823Z"
+---
+
+The darkness around me suddenly dissipated. I can see waves of black and purple energy dissolving all around me to reveal the dungeon’s orange sky again.
+
+I grip my sword tight and keep all of my skills active while staring down the odd sight before me.
+
+This is a completely different section of the boss room. I can sense the presence of Maria and the High Orc we were just fighting almost 200m away now…
+
+“But how..?”
+
+The moment I spoke out loud a portal appeared about 10m in front of me. It’s that same black and purple energy form before…. I grit my teeth and point my sword at it as an ominous being walks out slowly.
+
+It’s a humanoid creature holding a long silver sword and wearing lightweight armor that looks very similar to the High Orc’s. The only issue here is… this thing doesn’t look like the beasts in this dungeon at all. How could it be their Commander??
+
+The monster in front of me is about 2.5m tall with dark brown skin and jet-black tattoo-like markings across its arms and chest. Horns protrude from its forehead on either side about 20cm, they shine ruby red and wrap around its skull pointing backward.
+
+The Commander looks at me with no emotion on its face. I can see small black pupils glaring at me, but the rest of its eyes are completely white…
+
+Suddenly the monster’s pupils shrink and I feel a wave of invisible energy hit me.
+
+Sweat runs down the side of my face and the monster begins to walk around me in circles very slowly.
+
+I’m frozen with fear… My legs won’t move the way my mind tells them to. What is this???
+
+*SHINGGGG*
+
+The Commander gracefully draws its sword and slashes me across the chest. Blood spurts everywhere and I take a huge deep breath in as the pain releases me from this trance.
+
+I jump backward regenerating my wound and igniting my body into flames. My status reads 855/1275 HP and 1120/1275 MP.
+
+The monster slowly circles around looking at me with its calm white eyes. Then a wave of fear hits me again…
+
+I’m frozen.
+
+It’s like prey caught in the gaze of a far superior predator. All the possibilities and strategies of battle are rushing through my head, but for some reason, my body won’t react. It’s like I’m stunned.. completely helpless until the spell is released.
+
+It charges forward.
+
+*SHINGGGG*
+
+Again, the sword cuts deep into my abdomen. Blood pours out and I’m released from the curse.
+
+I jump backward regenerating while coughing up blood. I glare at the beast while checking my status again… it reads 435/1275 HP and 1110/1275 MP.
+
+I tightly grip my blade and start to run at it, but am stopped dead in my tracks moments later by a wave of fear.
+
+*SHINGGGG*
+
+A clean shot to my neck. My eyes open wide as I fall to my knees. The commander watches over me calmly.
+
+Blood pours out as I desperately regenerate and grab an HP potion from my item storage. My status reads out 15/1275 HP and 1090/1275 MP moments before I chug my healing potion….
+
+This must be his skill… Intimidation…
+
+I stand to my feet just to be hit with another wave.
+
+*SHINGGGG*
+
+Its sword plunges straight through my stomach and I gasp for breath as blood flows out of my mouth.
+
+Again, I jump back and regenerate to the best of my ability.
+
+Another wave…
+
+*SHINGGGG*
+
+Another wave…
+
+*SHINGGGG*
+
+I’m trapped in its loop of spells over and over. I struggle to get to my feet while drinking another HP potion. It wants to defeat me mind and body at this point… This is torture.
+
+I yell out in pain. Frustration and fear of my own come over me, these feelings aren’t forced by its intimidation. This is raw emotion that I haven’t felt in a while.
+
+I’m facing an opponent, and I have no way to win…
+
+My body is becoming weak. There are only so many HP potions and regenerations I can handle. My endurance and fatigue can’t withstand being on the brink of death too many more times.
+
+I let out a yell as I stare down at the emotionless beast in front of me. I activate berserker and run at it full force.
+
+Then… I’m hit by its intimidation wave once again.
+
+*SHINGGGG*
+
+Another slash across the torso forces me back down to the ground. I jump away the moment I regain mobility and regenerate.
+
+I let out another yell and turn berserker back on. Waves of fear, fatigue, frustration, and anger are all compounded every time I’m hit with intimidation.
+
+*SHINGGG*
+
+It lands another bloody slash across my chest…
+
+I can’t even feel the pain anymore, the only thing on my mind is killing this monster… By any means necessary. I don’t even bother regenerating. I just need to land a hit for my own sanity.
+
+I turn and run after the creature while glowing dark red covered in flames and screaming with rage. My blade begins to glow red with me.
+
+A devious grin appears across my face as I feel power seep into my veins. My vision tunnels just like it did before and the dark red aura of my berserker skill begins to mix with the ego of my sword erupting into even darker red flames.
+
+The Commander turns, and I see its pupils shrink…
+
+I’m hit with a wave of intimidation, but this time I break through. With a battle cry, I nullify its mental attack and continue charging straight toward it.
+
+The Commander’s face finally changes. The monster’s eyes open wide, then it grins….
+
+I jump in the air swinging my blade directly at the monster’s neck. My sword beings to glow brighter and brighter the closer I get.
+
+I let out another yell as I swing my sword at its unguarded neck.
+
+*SHINGGGGG*
+
+I make contact…
+
+The blade hits the Commander’s neck and I see the glint of red blood.
+
+Then dark purple and black swirls of energy form all around us.
+
+*WHOOOSHHH*
+
+The Commander is gone…
+
+My sword slices through the open air.
+
+Immediately, I use enemy detection while planting my right foot and turning around.
+
+“This must be its other skill, Dungeon Walker…It's some kind of movement magic.”
+
+Another black and purple portal appears 10m away from me and the Commander steps out pointing its sword straight ahead. There’s a small scratch on its neck dripping blood.
+
+That’s all I needed for a boost of spirit.
+
+“I’m back in this thing. Bring it on!”
+
+I point my sword at the monster as well declaring the start of our real match. With my flames burning hot and my sword glowing red we both charge at each other.
+
+*CLANGGGG*
+
+Our swords clash and we both grin at each other with malicious intent. Two monsters begin a battle to the death.
+
+I jump back and it does the same. We both assessed each other’s physical strength and abilities.
+
+Our speed and agility is very similar due to my natural boost and boots. Our strength is also very similar as well… That is, it’s similar when I’m using berserker. All that leaves is defense and Mental Strength. Its armor is much better than mine… It most likely has me beat in defense stats, but I have a ton more HP potions so it shouldn’t matter that much.
+
+It’ll all come down to a battle of abilities.
+
+We stare each other down again from about 10m away. Then, we both charge.
+
+*SHINGGGG*
+
+The moment I step forward it does too, but into a portal of darkness appearing less than a meter behind me stabbing a blade right through my back.
+
+I cough up blood as the monster dodges my counter-swing and runs back to a safe position. While regenerating I chug an HP potion and keep my eyes locked on the savage.
+
+“Didn’t see that one coming.”
+
+It grins and grunts while charging at me again. I return the favor.
+
+Every 10 seconds or so I’m hit with a wave of intimidation. It’s getting easier and easier to fend them off. My theory is I’m getting more focused on battle, and my sword’s ego combined with my own makes us stronger than before. My mind cannot be controlled.
+
+*SHINGGGG*
+
+I’m hit with another blade in the center of my back and fall to my knees.
+
+My movements, on the other hand, It’s definitely controlling those right now.
+
+I activate enemy detection and regenerate while facing the beast again.
+
+“Focus…”
+
+We charge at each other. I’m fully prepared for an attack from the rear this time. It won’t fool me again.
+
+*CLANGGG*
+
+I turn at the last moment and block the Commander’s blade. It takes a step back and disappears into another portal. My eyes scanned the entire dungeon around me… It’s nowhere in sight… berserker is heightening my senses and enemy detection is scanning the area constantly for any sign of life.
+
+Seconds later I feel a sharp pain from behind in my lower thigh. It hit me again. The moment I sensed it and turned to counter it was already too late. I’m milliseconds off… Just a little more speed… and I could have blocked it. I collapse to the ground. The monster towers over me for a moment while pulling out the blade and jumping backward.
+
+I regenerate, drink an MP and HP potion, then stand to my feet.
+
+I need to be a little faster… somehow…
+
+Again, it disappears into thin air and appears seconds later to slash the back of my legs. It’s learning… how to out-think me more and more.
+
+Every new attack is hitting non-vital areas, It’s just wearing me out. Sometimes I can guess where it will attack and get a lucky block in, but other times it comes out of nowhere and leaves a deep gash. This commander loves to play with its prey... My legs, arms, torso, back, and even feet are getting slashed to pieces.
+
+Over and over… it goes on for over 5 minutes straight as I continue to regenerate and attempt to block its attacks. I drink another 3 HP potions and 1 MP.
+
+My berserker skill, flames, and enemy detection are still active. My blade keeps glowing brighter and brighter, but it’s useless if I can’t even land a hit.
+
+I’m exhausted, fatigued, frustrated, and scared… but for some reason… Excitement still flows through my veins. Even in a time like this, I’m still grasping onto a glimmer of hope and enjoying the rush of battle.
+
+Each time the Commander appears I get another try at increasing my reaction speed. I’m almost there, it’s just outpacing me by fractions of a second every time…
+
+The monster disappears into its dark cloud again and I activate enemy detection.
+
+The boss room goes completely silent.
+
+All of a sudden, I feel a large presence in the distance fade away, then hear a familiar ringing sound in my head…
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+“I leveled up 12 times… Did Maria beat the boss? Wait… if that was the dungeon boss, then what is-?”
+
+*CLANGGGG*
+
+At the last moment, I sense a sword appear behind me and turn to block it. A perfect clash, I block it on instinct alone this time.
+
+I meet the gaze of a surprised Commander, It thought that was a surefire hit.
+
+I grin.
+
+Normal mobs in dungeons don’t share exp with all the hunters in a boss room unless an individual does a majority of the damage. The perk of equal exp sharing without damage regulations only applies to the boss itself. That means this commander is definitely not the boss. It shouldn’t even be here at all… This is an entity from another dungeon that must have taken control… Should I even call it a High Orc Commander anymore?
+
+It’s more like… A Demon.

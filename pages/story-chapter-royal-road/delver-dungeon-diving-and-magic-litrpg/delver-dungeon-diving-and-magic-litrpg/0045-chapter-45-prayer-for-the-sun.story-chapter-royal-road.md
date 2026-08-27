@@ -1,0 +1,209 @@
+---
+id: ee983c7c-fa49-5fa6-8554-d24774c07c54
+page-type-slug: story-chapter-royal-road
+title: "Chapter 45: Prayer For The Sun"
+slug: 0045-chapter-45-prayer-for-the-sun
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 45
+ownLength: 2493
+unit: words
+publishedAt: 2026-07-18
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3695056/chapter-45-prayer-for-the-sun"
+royalRoadId: "3695056"
+---
+
+A strange occurrence happened today. I was watching one of the Dralk as they practiced their magic, when a behemoth broke into their home.
+
+I, of course, attempted to form a standard fourth circle Eclipse spell.
+
+Power radiated from one of the Dralk, and the spell failed. Instead, the Dralk took down the creature with its claws.
+
+I am, of course, aware of the unique properties of Dralk Claws, but never before have I failed a spell from their sheer presence, and I suspect that it has something to do with the creature’s internal magic cultivation. It stopped my spell by pure accident with what I suspect to be a Domain. I think I could’ve forced the magic, but they will not present me with an opportunity to test my theories. I will however, outline several tricks to avoid such an occurrence.
+
+First the presence of your own domain may counterattack the effects.
+
+Second, a spell-diamond may be better insulated against the magic than a spell-circle (this is untested, but my knowledge of the Tambako desert tribe’s unique mana structures supports my theory).
+
+Third, aligned mana may have some resistance to the strange effect.
+
+I stand in the doorway, and take a sip of some hot tea Libby had prepared as I watch Grildor hammers the hinges of the gate back into shape. The rain has let off, only a small mist that slowly falls.
+
+I’ve never seen a Haven in such disrepair before. There’s the one on the way west that Keve and I visited, I’ve also been to one a few days out from a northern stronghold. Usually they’re in pristine condition, the spirit of the home keeping them clean and in good shape, however they do that.
+
+This one was clearly weakened somehow, slumbering, until I’d given it that tiny bit of mana.
+
+I glance over the rest of the Haven. Libby and Eyla are inside drinking tea,Tanya is on her knees in the garden, weeding it out and gathering herbs. Jasper, the lizard, is helping her, holding his mouth open for the weeds that she casually tosses at him.
+
+Daron steps through the gate with Keve, carrying some lumber to temporarily seal one of the holes in the roof. Shar flies in after them.
+
+I place my hand on the doorframe, and channel some more mana into the place, the spirit of the Haven drinking it up greedily.
+
+Daron makes his way up the side of the house, while Keve pulls out his carving knife. He cuts and burns the wood, likely mixing one of his profession skills with his internal fire to quickly carve the piece that’s needed from the roof.
+
+I walk over as he’s finishing and hand a paste up to Daron that Tanya’d prepared. It’s supposed to act as a kind of glue, and Daron carefully applies it before Keve hands up the wood, which Daron slots in comfortably. The spirit of the place does something as mana travels through the house, helping our simple fixes be more effective.
+
+By the time we’re all heading inside, the house is a fair sight better looking, with a proper gate at its front, and a roaring fire in its fireplace.
+
+Tanya gets started on dinner, as Eyla sweeps and wipes down years of dust and mold. Libby is busy in the corner with the bed, sowing together a pillow. Grildor and Keve get started on a broken down desk and chair, while Daron hurries over to the fire to warm up. Not wanting to let them work alone, I join Eyla in cleaning the place. Beyond feeling some kind of responsibility towards the spirit of the place, having a working, well taken-care of Haven is more valuable than gold, especially so close to Kolas’s Stronghold.
+
+When Tanya pulls a large pot off the fireplace, we’re all starving.
+
+She scoops out our portions into small wooden bowls, and we get started on the food, quiet settling over the group for a long moment as we all devour the soup.
+
+I pull out Eyla’s map, studying it, and comparing it to my knowledge of these lands. I’ve never actually traveled this way. The only known civilizations out here are non-human, with no strongholds for at least a month of dangerous travel.
+
+My mentor had never taken me this way, instead keeping me in human lands. I’m not exactly sure why, but that means that my personal map has none of the geography of the land, and I’m relying off the words of my Mentor and other explorers who have attempted the route this way. I had seen a more modern map once, one that my mentor had in his possession. I’d poured over it in curiosity, but now the sight is a vague memory.
+
+Daron sets down his food and lets out a sigh, “Delicious as always, Tanya.”
+
+The rest of us echo the sentiment.
+
+The Lin girl smiles and looks away as her vines twist in embarrassment. “Thank you.”
+
+Grildor laughs and pats her on the back. “Chin up, little one.” He reaches into a pocket and pulls a deck of cards, “Think it’s ‘bout time we taught you some games, eh?”
+
+Libby rolls her eyes, “You just want another person to fleece.”
+
+“Whatcha say? Ready to lose some money?” Grildor asks.
+
+Tanya nods eagerly, and the group laughs. Eyla moves over to them, joining them as the man starts dealing.
+
+“Leo,” A hand on my arm makes me look up into Keve’s large eyes. “I wish to talk with you.”
+
+I nod, and stand up to follow Keve out of the house.
+
+The rain has stopped, giving us some quiet, “What do you need, Keve?”
+
+He leads me over to the Angel statue, and sits on the ground, next the recently weeded garden. He holds his hand up, signaling for me to wait, then closes his eyes.
+
+I wait patiently, recognizing that he wants to show me something. Slowly, the tattoos on his body glow, but not all at once, like they usually do. Instead, a pulse of red energy moves up each tattoo, making its way through the tattoos I can see before returning to his center as a new pulse is sent.
+
+I watch for a second, then pause as I sense something. I focus closely, using the very edge of my enhanced perception to watch whatever he’s doing.
+
+The ambient Mana of the place, it’s doing something… moving around him, following the pulse.
+
+I sit down on the wet ground, studying the phenomena now that I recognize it.
+
+He starts to speak, but in his own language.
+
+Shar appears just in time, padding over in her cat form to sit beside me.
+
+I give her a questioning glance.
+
+“It’s a prayer to the sun.” She says quietly, “In an older dialect of the Vishten language.”
+
+We stay there for close to an hour. I just observe the phenomena, not really sure what I’m seeing. Whatever it is, I suspect its the next step on whatever magic nonhumans are capable of.
+
+The pulses slow down, then stop completely as Keve opens his eyes.
+
+I study him for a long moment before meeting his eyes. “How do you feel?”
+
+“Good. More… like I’ve found something I did not know I was missing.”
+
+“Can you control the internal energy without using a skill?” I slowly step forward, trying to see if I can notice anything different about the mana of the area.
+
+Keve frowns as he focuses on his hand. Slowly, the tattoo of his hand lights up. He curls his fist, then punches forward. Flame follows the movement, leaving a trail as his fist moves at a lightning speed.
+
+The force of the punch produces wind, and I step back, my danger sense briefly going off.
+
+“Yes. But the punch makes me tired.” He opens his hand, staring at it as the glow disappears. “Less good than my skill, but it has more options. Just my fist, not everywhere.” He looks up at me, “Sorry. It’s hard to say.”
+
+I shake my head, “Don’t worry about it. I think you’re on the right track, and if it’s anything like magic, it’ll get better with practice. I’ll keep reading, and looking through the Archmage’s library.”
+
+He nods, and gives a rare smile, showing all of his pointy teeth. “It is good, to have a friend like you, Delver Leo.”
+
+I laugh, and put my arm around his shoulder as we walk back to the house, “You honor me with your words, Vishten Keve.”
+
+***
+
+The next morning when we wake, the trees have fruit weighing heavily on their limbs. We take some time picking the gift from the Haven, putting them on the bags attached to Jasper, then we leave the house.
+
+Soon enough, we find the remains of the road we’ve been following, and turn down it.
+
+It’s cold out, our breaths fogging in the dreary gray, but the rain has stopped, a nice relief from the downpour that had continued through the night.
+
+Shar flies through the sky, watching the road ahead of us, while Daron keeps an eye on our back.
+
+The day passes fast with the constant wariness. We’re forced to turn from the road twice, and an ambush spider attempts to grab Eyla before Grildor jumps in front of her. It’s quickly completely skewered by ice, but it leaves us with a tenseness as we continue.
+
+I stop an hour before nightfall next to a stream, and set up the Angel Artifact. That night is spent exploring my private library, walking through the shelves as I search for more books on nonhuman magic. The main trouble comes from lack of organization, combined with so many of the books being in languages I don’t know. I do find several more of High Mage Artus’s books, dealing with esoteric magics, and pull them down since I can read them.
+
+Some more books that contain words I recognize from my studies with Shar get added to the collection I’m making my way through. Even if I can’t read them, I am getting better at some of the old languages, and Shar can translate what I don’t now.
+
+When I leave, I attempt to close the door, only for it to stay there in the middle of our camp. I stare at it in confusion until I realize that I’ve left my bag inside. I head back in to grab the bag, then close the door and watch it disappear.
+
+I’d suspected, but it was nice to have confirmation. The place is only designed for books, other things can’t stay in the space. I’m not sure how the blue jellyfish are fine, but whatever arcane magics power the personal space are beyond my current knowledge.
+
+The next morning, we come across a large canyon separating the earth right through the road.
+
+I glance down into the depths, curiosity getting the better of me, just to see an endless darkness.
+
+Eyla gets to work creating an Ice bridge as the rest of us stand guard.
+
+I look around, the quiet of the area bothering me. The birds have gone quiet, which is never a good sign, but it doesn’t point to anything specific.
+
+Daron matches my worry, knowing something isn’t right, even if he can’t put his finger on it.
+
+Libby uses a skill, disappearing from beside me.
+
+I spin around to see her pulling Eyla back, just as a large arm swipes from the darkness, reaching for her.
+
+Grildor is beside the two of them in a second, his shield unclipped as he steps in between them and the grasp of another large arm. His shield glows golden as an illusory version of it expands, holding the creatures grip open.
+
+It attempts to pull the shield back, but Grildor doesn’t move, beside a tightening of his lips.
+
+Another arm hits the ground beside us, and the giant creature pulls itself out of the earth, large black eyes staring at us.
+
+I reach for the wand in my pocket, running my brain through what spell could possibly effect this.
+
+Ice covers the ground, and I feel as the mana in the air changes. Spikes shoot from the ground, stabbing deep into the creature’s arms, trapping them there.
+
+Then Keve leaps forward, his swords slicing forward and slicing one of the arms off in a smooth motion. It twists as only one arm holds onto the earth, slipping backwards. A loud scream escapes its mouth, exposing sharp teeth.
+
+I hesitate to start on a summon, knowing that I’ll be out for the fight if I do, and the creature is being held off fine by our group.
+
+Hundreds of Ice daggers form in the air, then shoot forward into the creatures face, stabbing deep into its eyes, mouth, and throat.
+
+It’s surviving arm loosens from the earth, and it falls backwards into the depths.
+
+No one lowers their weapons as a brief silence covers our party.
+
+“Shar! Daron!” I call. “Are there more?”
+
+The bird comes closer to the crack in the earth, looking deep as Daron’s gaze stares past me into nothing.
+
+I hold my breath as I wait for their call.
+
+Shar swoops towards me, then lands on Jasper. “I didn’t see any.”
+
+“There are a few,” Daron says slowly, “but they’re deeper down, and further west of us. I think this one was away from its pack.”
+
+I look across the split in the earth, “Daron, keep an eye on them, watch for sudden movements.” I turn to Eyla. “Do you think you can finish that bridge?”
+
+She hesitates for a second, then nods. She approaches the edge cautiously, but Grildor is right there beside her, his shield out and ready.
+
+The bridge continues to cross the gap, eventually finishing. Eyla lets out a breath, then steps back.
+
+“Daron, have they moved?”
+
+He shakes his head, “They’re sleeping.”
+
+“Then let’s hurry.”
+
+We cross the bridge without trouble, then continue down the road.
+
+The forest starts to change, turning older, the road under us almost completely disappearing. The trees get larger, glowing purple and blue from the mana that suffuses the place.
+
+We’re entering the Living Forest. I didn’t realize it was this close.
+
+My mouth settles into a thin line.
+
+I don’t know the dangers here, and the birds are unfamiliar to me, so I’m not sure how much I can trust their whistles.
+
+I slow down our pace further, deciding after our last couple scares that caution is better than death.
+
+My feet come to a stop as I catch sight of a mound larger than the trees resting on the road, my danger sense ringing in my brain.
+
+Before I can activate the statue, the mound lifts, green scales shimmering under the sun as slitted eyes open to stare at us.
+
+The head of the Giant Snake watches us with an unreadable gaze.

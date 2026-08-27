@@ -1,0 +1,169 @@
+---
+id: 6152e0c8-050f-5063-9e55-c6e35ce42b5c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 88"
+slug: 0088-chapter-88
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 88
+ownLength: 1561
+unit: words
+ownProgress: 1561
+publishedAt: 2023-04-15
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1171379/chapter-88"
+royalRoadId: "1171379"
+markedReadAt: "2026-06-29T20:34:51.339Z"
+---
+
+[Test 1][Time Remaining: 19 Hours]
+
+I let out a yell and push myself backward using my sword as a propellant. The massive man glows brightly with his hands outreached toward me.
+
+I throw myself back about 5m in the air will all my strength while digging through my item box vigorously. A handful of HP potions fall onto the floor before an MP potion finally pops out. I lock eyes with the man as I rip the cork off it with my teeth and chug it down as fast as humanly possible.
+
+All of a sudden, he stops running at me and places his hands on his hips.
+
+“That’s all I needed kid, this could have been over a lot sooner!”
+
+With this brief moment of rest, I keep my eyes locked on the brute and aimlessly grab at the floor around me until I make contact with an HP potion. I gulp down its contents without hesitation as the man just stands in silence grinning…
+
+The orange-haired tank eyes me up and down while standing in front of the sword I left stuck in the ground before him. His smirk widens and he grabs it tightly attempting to pull it from the hard dirt.
+
+“ARRRGHH DAMN YOU LITTLE S-“
+
+The grunt’s hand bursts into flames as the sword begins to glow bright red. My eyes widen as I remember it’s bonded to my blood. No other person can possibly wield it without being burned…
+
+The man begins to glow white with an anger-filled expression across his face and runs at me.
+
+I activate bloodlust, then turn to run… There’s no way I can get hit by an attack like that again. It decimated all of my HP in less than a second last time, it was nothing more than pure luck I made it out of that exchange. He won’t get distracted by my sword next time either.
+
+Oh right… my sword.
+
+After launching myself away from the brute with all my might, I turn my head to look over my shoulder and see him chasing close behind. My mind is spinning and my heart is pounding out of my chest! I take a deep breath in, then let it all out as my mind calms down and a plan begins to formulate.
+
+“Stealth.”
+
+Just like that, I disappear mid-step. Well, I disappear from my assailant’s perception at least. I make a hard left turn, but the tank continues running straight ahead. He lets out an angry yell as I lock eyes on my glowing red blade. The grunt stops in his tracks and curses me out as I simply dart over to the battle-yearning sword with silent graceful steps.
+
+I reappear moments later with my blade in hand while activating my fire magic and berserker skills. Then with a friendly wave, I call out.
+
+“Hey, big guy! Over here!”
+
+He turns and charges at me like a bull. With rage in his eyes, I can see his ego won’t let him admit I managed to slither away from him in his moment of assumed victory.
+
+I take a slow step back activating my stealth skill once again, disappearing from his field of vision. He stops in his tracks wildly swinging his head around in confusion.
+
+“Come on out!! Stop hiding you lit-“
+
+*SHINGGGG*
+
+I land a critical hit.
+
+With berserker skill, bloodlust, fire magic, and my half-sentient pissed-off sword along for the ride, I leave a deep fiery gash in the thug’s midsection below his steel chest plate.
+
+He lets out a yell of frustration while glowing brightly.
+
+“I SAID COME OUT YOU-“
+
+*SHINGGGG*
+
+I land another hit across his backside this time leaving a trail of fire in my wake. He lets out a scream as I dart around in silence. My stealth skill along with the recent intense mental strength boosts are much too high for him to overcome. The tank is a sitting duck, at my mercy.
+
+With a devious grin, I go in for a final strike.
+
+*SHINGGGG*
+
+My glowing fiery blade sinks deep into the brute’s neck. He lets out a gargled cry while boiling blood explodes in a fiery display. He falls to his knees. I rip the item box from his waist and place my left foot on his chest to rip the sword from his body as he falls to his back moments later.
+
+I reappear to watch the look on his face as I send him off to the labyrinth’s starting point. The moment I do…. I feel a hand wrap around my left foot as it hits the ground.
+
+A white light appears and the pain of a thousand knives returns…
+
+But… It’s not as bad as before….
+
+Instinctively I let out a yell, but to my surprise when I check my status moments later, I only dropped 50 HP in total…
+
+The man’s grip un-tightens and he murmurs a few words.
+
+“I-I shoulda killed- a- a runt like you when I had the chance.”
+
+My blade is still glowing bright red begging me to finish off the man before me.
+
+I look down at him.
+
+“How many hunters have you killed today because they wouldn’t give up their prized possessions? I don’t mean sent back to the start… I mean killed…”
+
+The man coughs up more blood and starts laughing while struggling to reply.
+
+“Oh more than you could count ki-“
+
+*SHINGGGGG*
+
+Without warning, I cut off the man’s left hand.
+
+His eyes open wide as the silver bracelet that was once attached to his wrist rolls past his head.
+
+Before the grunt can let out another word I reduce him to a pile of burning ash.
+
+[Level Up]
+
+[Level Up]
+
+[Use Absorption]
+
+Skill: Equivalent Exchange
+
+[YES][NO]
+
+I choose yes and turn to walk away without another thought.
+
+“Equivalent Exchange huh? Now I’ll get to figure out how this skill actually works.”
+
+I pick up his item box and sift through it as well. There are 11 HP potions and 4 MP. I help myself to one of each, restoring my stats to full and throwing the rest in my own item box. I turn to look at the gear left behind by his burning corpse but scoff at the thought of it. I’ll let that stolen gear Rest In Peace, along with its past owners.
+
+“Dungeon Walker.”
+
+A dark swirling portal appears in front of me and I step in to take a look around. In my mind’s eye, I can see every floor below me in this labyrinth with crystal-clear precision when I focus hard enough.
+
+“Where are you…?”
+
+I sift through every lower layer but there’s no sign of Maria. I know we agreed not to wait for each other, but I only said that because of Bruce and Nessa’s company.
+
+I let out a sigh and step into the floor 1 dungeon. She must have not re-entered…
+
+I step into the familiar horned rabbit dungeon and look around activating enemy detection just to make sure Maria is definitely not here. Either way, It’s pretty peaceful on this floor, I’ll have to come back sometime.
+
+After a short 200m walk, I exit the labyrinth making my way back to the outside world. The sight before me was not expected…
+
+There must be at least 50 hunters all standing around with their heads hanging low talking and trading magic items. The scent of despair fills the air, as all of the men and women here have certainly given up on passing the exam this time around. They all look up at me with awkward stares. It must be an odd sight for someone to step out of the labyrinth after all… with their bracelet still intact too…
+
+I gulp lightly and scan the group of people while activating enemy detection to try and lock onto Maria’s unique level signature. Before I can even do a deep search I hear my name being called out from behind the crowd.
+
+“Jay? Y-You came back? H-How?”
+
+Maria runs out from behind the closely gathered hunters while wiping tears from her face and attempting to smile.
+
+“I-uh I did, of course, I did.”
+
+She jumps at me with her arms stretched out wide and a face filled with hope again. I catch Maria mid-arm and chuckle a little while comforting her the best I can. After a few seconds, she drops back down to the ground and we lock eyes with a more serious expression. I nod with a smile.
+
+“Come on, we have an exam to pass.”
+
+I turn my head motioning for us to re-enter the labyrinth. Many hunters in the crowd start laughing and whispering various inaudible words of doubt to their fellow hunters while we walk off toward the floating green portal.
+
+Both of us pay them no mind and step through with grins across our faces. The second we enter the first floor away from prying eyes, I create a new mode of transport.
+
+“Dungeon Walker.”
+
+Maria immediately realizes this dark portal of mine can teleport us much further than the small trip she experienced earlier.
+
+Moments later, we step through and arrive directly in front of the floor 10 boss room.
+
+I smirk as Maria takes out her sword.
+
+“Ready?”
+
+She nods.
+
+“Ready.”
+
+We both jump through. It’s time to challenge the final boss.

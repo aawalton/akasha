@@ -1,0 +1,187 @@
+---
+id: e00b4c1f-d2e2-5436-b97e-eada024816c8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9: Unique Class"
+slug: 0009-chapter-9-unique-class
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 9
+ownLength: 2455
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3454879/chapter-9-unique-class"
+royalRoadId: "3454879"
+---
+
+I wake up right as the sun starts to rise. Knowing that I have a few hours before there’s enough light for it to be safe to travel, I pull one of the books from my bag. My lightstone is dim, since I don’t want to disturb the golem resting next to me, curled up in her cat form.
+
+The book was the one that first caught my interest in the library in the ruins. Maybe I should spend some time studying the books on golems, but my interest really lies in the knowledge of the first book I grabbed.
+
+It starts out with the details on one of the dragons I know well. Gralvick, the defender of a stronghold far inland, near the mountains.
+
+It describes him well, but the author of the book seemed to fear him and revere him in equal measure.
+
+My breath catches as it goes on to discuss the companion of Gralvick, a young woman by the name of Isha.
+
+Little is known about the history of Gralvick, or why he chose to protect humans when much of the world had decided to kill us off, so I’d never heard of Isha before. A book about the dragon before the mana disturbance would be worth a lot to the right people.
+
+Curious about the contents of the book, I keep reading. Unfortunately, it doesn’t stay on the dragon, instead moving to Isha.
+
+Isha was a huntress devoted to the Angel Mira, third of the oathsworn. She originally believed the dragon to be a demon, as did many at the time, and sought to hunt him down. The book skips over how she befriended the dragon, almost as if it expects me to already know the story. It does continue on to tell me some of the battles she fought with him and how she died fighting an ancient war led by the oathsworn.
+
+The dragon disappeared after her death, hiding itself in the mountains to mourn his companion. Or at least, that’s where the book lets off. The sun is fully out by the time I finish the dragon and Isha’s tale, and I got through a decent portion of the book.
+
+I’m disappointed that there isn’t more to her tale, but my disappointment doesn’t last long as a message appears in front of me.
+
+Lore Mage: Level Up!
+
+Ability Gained: Summon Legend’s Spirit
+
+I can’t hold back my excitement at the new skill. A summoning skill? I’d heard of a summoner in the northmost stronghold, but I know next to nothing about their actual skills.
+
+I barely hold myself back from using the skill, knowing that it’s not a good idea to exhaust my mana right before a long journey. I think I have some idea as to what it does anyway.
+
+Shar shifting next to me reminds me that it is time to get started on packing things away. I sit up, putting the book back into my backpack.
+
+I leave the comfort of my tent, immediately stopping as I catch sight of a decapitated winged-panther twice my size.
+
+Keve sits next to the creature on a log, whittling away at a wooden block. He nods to me in greeting before returning to his whittling.
+
+I look over to Jasper, who is munching on a large branch that must’ve fallen from the tree. He blinks his eyes slowly at me.
+
+“So, uh, you’ve had a busy night?” I ask, moving over to examine the dead creature.
+
+Shar flies out of the tent, landing on a root next to Keve.
+
+“It was a quick fight. I am well rested.” Keve answers, his accent thicker than usual.
+
+I nod, not sure how to respond to that information so early in the morning. After a quick moment of hesitation, I decide to just ignore the dead creature and start packing my camp away.
+
+I chew on some bread as I tie Jasper up with my bags, I securely tie my quiver to his side, adding the enchanted arrows I’d grabbed from the ruins. I’ll probably sell most of them, but might as well have them available for now. After that, cleaning up the camp doesn’t take too long before I feel that we’re ready to be on our way.
+
+I take one last look at the dead creature, then decide to tie it up to Jasper for skinning and declawing later. He doesn’t really react to the predator on top of him, which is understandable. It would take something with a lot of strength to cut through that hide of his before he crushed them to death.
+
+With everything packed, I grab the artifact that provides us our protection and turn it off, attaching it next to my quiver on Jasper.
+
+“Come on Jasper, let’s get going.” I say as I get my own pack on and secure the sword at my waist and string my bow.
+
+Jasper stands up, stretching his body out with a sigh.
+
+I start walking and Keve falls into step beside me. Shar opts to perch on top of Jasper instead of on my pack. The lumbering rock-lizard follows behind us at a sedate pace.
+
+Our journey is mostly uneventful throughout the day. Occasionally, Shar flies up into the sky to get a bird’s eye view and I lose sight of her.
+
+I glance up every once in a while to see if I can find her and sometimes see larger birds attempting to catch the slippery golem. If they ever get too close, she dives into the trees and reappears next to us.
+
+Eventually the broken cobblestone road turns into little more than an animal trail as we move further into actual wilderness.
+
+More than once, Shar directs us around a beast’s territory, but aside from seeing monsters from afar, our journey is uneventful.
+
+An hour or so from dusk, I start looking for a clearing to set up camp. I find one next to a small stream and get started on the fire and tent.
+
+Shar flies down from the sky, grabbing my attention as she flaps her wings. “Someone is coming from the east.” Shar says, landing on the resting rock-lizard.
+
+I look up in surprise from where I’m setting up my tent. “Someone? Not something?”
+
+Shar nods. “They’re traveling alone and clearly heading towards us, about ten minutes away. Their clothes are torn and they’re moving quickly to reach us. I think they might’ve noticed me watching them, but I’m not sure.”
+
+I glance at Keve, whose hands rest on his swords. “Well, we might as well have a fire ready for them when they get here. Could you grab us some sticks, Keve?”
+
+He nods, gathering them up and placing them next to me as I prepare the fire. I don’t light it, not wanting to draw any unwanted attention, and I also don’t set up the statuette. It wouldn’t be good to just disappear on this person searching for us.
+
+A few minutes later Shar flies over to me to quietly let me know that the person has made it, but is hiding in the bushes to watch us.
+
+I glance over to Keve, motioning for him to be ready. I don’t want to automatically assume that anyone out here is hostile, but it doesn’t hurt to be cautious in the wilderness.
+
+“Hello?” I say, turning to the direction Shar says she’s in. I can’t see anything except plantlife in the growing darkness, but I trust Shar’s knowledge. “It’d be nice if you could introduce yourself so that I can set up our protection, and start the fire before night hits.” I try to keep my voice friendly, while keeping a wary eye out.
+
+There’s silence from the bushes before slight movement from behind a tree catches my eye.
+
+A young woman steps out from behind the underbrush. Her clothes are dark black and gray, torn in many places. She must be pretty cold in that. Her ears are pointed, curving backwards, but one of them has had the tip cut off. Her eyes are light green, and watch us with the same wariness that we watch her.
+
+“Can I join your fire?” She asks without any discernible accent, spiking my curiosity.
+
+I look over to Keve, who is still tensely looking at her. He matches my gaze, making it clear that he’s leaving the decision up to me.
+
+I shrug, turning back to the young woman. “Of course.” I motion her towards us, lighting the fire and setting up the statuette to include her in its sphere of illusion.
+
+She approaches cautiously as I finish my preparations and take the panther off of the back of the rock-lizard. The carcass had lasted fairly well in the chill autumn air, still not smelling of death.
+
+I stare at the thing, not sure where to start, when Keve walks over. He helps me skin it while the young woman watches by the fire. Keve seems to know what to do with every part of the creature, so I let him do it, helping where I can.
+
+After a good hour of that, we have the creature completely carved up and are smoking some of its meat above the fire. I put the claws, teeth and other various parts into my bags, knowing that there will probably be someone interested in most of the materials.
+
+I rinse my hands in the nearby stream, grateful that I’d chosen to stop next to a place with running water. I’d forgotten how dirty butchering can get.
+
+With everything taken care of, and the night fully upon us, I sit down across the fire from the young woman, Keve sitting down next to me.
+
+She hadn’t said a word the whole time, but she’s clearly more relaxed from the normal routine Keve and I move with.
+
+“So,” I start, adding a log to the fire and bringing over a pot to cook some food with. “What are you doing all alone in the middle of the forest?”
+
+The woman stares at me, then to Keve, “Are you his servant?” She asks.
+
+We both freeze at the question. Keve is the first to answer, shaking his head, “No. I follow his lead, but I am not his servant.”
+
+She slowly nods. “I am running.”
+
+It takes me a second to realize that she is responding to my earlier question. “What’s your name then? I’m Leo, and this is Keve.” I get started on making dinner as I talk.
+
+She rubs her arms, clearly hesitating on whether she should tell us the truth or not. “Lyla.”
+
+“Nice to meet you Lyla.” I say
+
+“May the darkness treat you kindly, Lyla.” Keve adds.
+
+Shar stays quiet, as she has been this whole time. I don’t comment on it, knowing that she might be hiding herself for a reason.
+
+I chop up some vegetables, adding them to the pot as the silence extends. My mouth starts to salivate at the idea of a real meal. It’s been too long since I’ve eaten more than jerky or bread.
+
+“Thank you.” Lyla says, pulling my attention to her. “For lending me your fire.”
+
+I shrug. “You’re welcome to join us on our journey. I’m, well, I don’t really like the idea of leaving you to face the wilderness on your own.”
+
+“Where are you heading?” She asks, her eyes watching me with a piercing intensity.
+
+I stand up to stir the pot on the flames, “We’re on our way to the human frontier city of Onder.”
+
+Her gaze moves to the direction she had come from. “I will consider your offer.”
+
+I shrug, not going to push it on someone who is so clearly uncomfortable and wary.
+
+A few minutes later, the food finishes, and I pass it out in bowls to the group, using my wooden cups to make up for my lack of dishware.
+
+We sit in an awkward silence as we eat, but I can tell that the two others enjoy the meal.
+
+“Keve, do you have any stories you’d like to tell?” I ask, recognizing the atmosphere of the late night around a campfire.
+
+Keve shakes his head, “I do not speak the language well enough.”
+
+I disagree, but don’t say anything, willing to let him have the excuse. We fall into silence again, this time a little more companionable.
+
+I stare into the fire, losing myself to the flames. “I have a story to tell if you’re interested.”
+
+Lyla perks up and Keve leans forward with curiosity.
+
+Happy to have their attention, I start. “It’s not some grand tale, but when I was just ten years old, I was brought on my first delve into a ruin. Naturally, being a kid, I had no idea what I was doing…”
+
+As I continue my story, explaining my silly hijinks, I draw a couple laughs from Keve and even make Lyla smile.
+
+By the time I finish my story, we’re all ready for bed, so I head to my tent. I quietly ask Shar to keep an eye on the artifacts still tied to Jasper. It doesn’t hurt to be careful when you have valuable objects and someone you don’t know in your camp.
+
+Sleep finds me quickly, drawing me into its depths as soon as my eyes close.
+
+***
+
+I wake up the next morning before the sun has risen. Feeling little need to get up, I grab the book from the ruin’s library, and continue from where I left off.
+
+The next part focuses on Baynor, a knight who followed the Angel Alvarana. Baynor was a wanderer who traveled the lands, hunting bandits, fighting off monsters and healing those he could.
+
+The book focuses on the hunt of a deadly necromancer who had killed entire cities. Baynor chases after the necromancer relentlessly, eventually killing him in the battle of Baynor’s bridge. He loses his left arm in the battle, and retires to the countryside, fathering two children before dying of old age.
+
+I close the book, rubbing my eyes as the sunlight seems bright enough to get started on our preparations for the next leg of our journey.
+
+Lyla and Keve stop talking as I step out of the tent, turning to me.
+
+Lyla clasps her hands, hesitating on her words. “I… I won’t follow you all the way to the city, but if you don’t mind me walking with you until we get there…” She trails off.
+
+I nod, shrugging. “Oh-, of course. Just let me get ready and we’ll head out.” I turn towards the bushes, pausing to look back at them. “Keve, would you mind finding a branch for Jasper to chew on?”

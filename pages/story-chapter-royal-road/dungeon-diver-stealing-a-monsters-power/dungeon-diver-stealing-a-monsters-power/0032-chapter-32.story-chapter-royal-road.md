@@ -1,0 +1,261 @@
+---
+id: 121e2010-65db-58b3-843b-8d2470ffcc08
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32"
+slug: 0032-chapter-32
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 32
+ownLength: 1546
+unit: words
+ownProgress: 1546
+publishedAt: 2023-02-18
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1117277/chapter-32"
+royalRoadId: "1117277"
+markedReadAt: "2026-06-29T20:32:53.712Z"
+---
+
+I fell to the rocky floor and watched the metal fragments of my broken sword hit the ground beside me.
+
+I was alone in the boss room without a weapon.
+
+This couldn't have gone any worse.
+
+I'm so stupid. I have to think before i act...
+
+I got so caught up in the hype of the moment. Why did i believe i could be the hero?
+
+The mutant turned to me with its massive bloodshot eye.
+
+I could feel the bloodlust as it stared down its prey.
+
+I left like a deer in headlights, I couldn't move a muscle.
+
+My mind was racing but my body couldn't move.
+
+I had one last chance.
+
+"Think Jay..."
+
+The beast came rumbling towards me.
+
+"THINK JAY... THINK!"
+
+The rocky ground flew to the sides of its body as the monster came closer and closer.
+
+"THINK!!!"
+
+"THWACKKK."
+
+The beast's massive club hit me again. It felt like every one of my ribs had been shattered.
+
+I went flying backwards over 30m skidding along the ground. In my feeble state I checked my status to see 10/670 HP remaining.
+
+I coughed up blood while reaching for my last HP potion.
+
+"RUUUUUAAAAAAARRRR!!!"
+
+All I could hear was sound of my impending doom.
+
+As I chugged my last HP potion I yelled back at the creature with all my frustration and rage.
+
+"AGGGGGHHHHGGG!"
+
+I couldn't help but to let out flames, they surrounded my body.
+
+All this talk about being a "hero" and becoming the "strongest". I may have gone in too deep, this is a truly superior opponent.... how can I defeat it?
+
+I could hear my yells echo back at me in the cave. The fire around me created interesting shadows all over the ceiling and walls. The dancing flames and my tired state reminded me of the "hero's journey" in all of my favorite comics... this is where the the main character becomes stronger because be breaks through and wins even with unbeatable odds.
+
+The dancing flames and eerie echoing silence brought me back to reality. I shook my head and erupted into flames even brighter.
+
+"I CAN'T GIVE UP! NOT NOW!"
+
+My fire is the key.
+
+It's all I had left in my arsenal. My true last resort, I have to fight with fire alone.
+
+Every battle with these cyclops creatures has been harder than the last. In they end, they all have fallen to my fire.
+
+That's it....
+
+A distinct scene from every battle played clear in my mind. The cyclops' weakness is always its eye.
+
+We stared each other down. This was the moment of truth.
+
+With out further hesitation we both charged forward.
+
+I swerved to the left with all my strength and managed to dodge the beast's attack.
+
+I didn't look back for a second, I sprinted straight for the cave wall to repeat my last attack. This time I would change my aim.
+
+I could hear the heavy footsteps approaching close behind as I ran up the cave wall. I bend my knees and push off it with all my strength. This cyclops wasn't totally stupid, I was betting on that fact.
+
+The beast recognized my wall climb and positioned its club high up into the air where I'd jumped previously. Smart move... that is, if I was going for the same attack.
+
+This time I aimed lower and burst into a bright ball of flames. I let out every bit of MP I was storing up.
+
+I jumped off the cave wall directly at the monster's face.
+
+I closed my eyes and imagined my sword. It felt like battle instinct, this is what I had to do.
+
+I have been fighting with that blade for as long as I can remember. I'm a swordsman after all, I need a sword.
+
+The flames around my body crawled towards my hands. They all concentrated together in my palms creating a dark crimson fireball. I yelled out a battle cry as I opened my eyes and attacked.
+
+"TAKE THIS!!!!"
+
+The fireball in my hands formed into the exact shape of my old sword.
+
+I flew towards the cyclops' massive eye with my blade of fire.
+
+It pierced through the soft tissue like butter.
+
+"RWWWWWUUUUUUAAAAARRRRRRR!"
+
+An ear shattering cry erupted throughout the cave.
+
+I let my sword explode releasing a concentrated fire magic blast. It threw both me and the cyclops back over 10m in each direction.
+
+I hit the cave wall with a loud thud. The cyclops fell backwards crying out in agony.
+
+I grinned and chugged an MP potion as I stood to me feet. I'd depleted every last bit of magic left in my body with that attack.
+
+"THUDDDD."
+
+"THUDDDD."
+
+"THUDDDD."
+
+The mutant rose to its feet and raised its massive club.
+
+There was a dark red fire burning from its eye. There was no way this beast could see a thing.
+
+I finally have an advantage! Plus, I've found a new way to use my skill. Although this fire sword form uses up a lot of MP, it's very powerful.
+
+The beast roared and charged towards me. This is where I attacked from, it's only natural it thinks I'm here. I ran to my right as quickly as possible and avoided its club.
+
+The beast was roaring in pain, but was clearly no where near death's door. I need to do some more serious damage to take this thing out.
+
+I ran towards the opposite side of the cave.
+
+"HEYYYY! YOU!!! OVER HEREEE!! COME AND GET ME!!"
+
+I waited about 30 meters to get a head start and yelled out to get its attention.
+
+Worked like a charm. The mutant followed after with an angry cry.
+
+I sprinted towards the opposite cave wall occasionally letting out a yell to keep the monster on track.
+
+About 10 seconds later I erupted into flames and scaled the cave wall again. It'd fallen right into my trap.
+
+The beast kept running forward swinging its club at the ground where it heard my voice.
+
+I did a picture perfect maneuver to copy my previous successful attack. I jumped off the cave wall and focused all my fire into a dark red ball.
+
+Moments before impact I formed a fiery sword and dove into the already flaming eye.
+
+I let my blade dive deeper this time, half way into the mutant's head. With another explosion of fire we were both thrown backwards again.
+
+"RWWWWWUUUUUUAAAAARRRRRRR!"
+
+The cave shook from the murderous cry of the mutant.
+
+It was thrown on its back, and half of its head flew off to its right side.
+
+I was blown back against the cave wall again as well. I chugged another MP potion.
+
+"THUDDDD."
+
+"THUDDDD."
+
+"THUDDDD."
+
+The cyclops rose again.
+
+Its eye was melting in the heat of my fire and half of its head resting 10m beside it.
+
+How could this beast still be alive....?
+
+It slowly stomped towards me. All its battle reflexes were on full auto pilot now. This wasn't a battle anymore, this was a last stitch attempt at survival.
+
+I nodded.
+
+"This is it. You were my toughest opponent yet. I thank you for the battle."
+
+I ran up the wall and kicked off with a graceful leap.
+
+I used every last bit of MP left in my body to create a final sword.
+
+It sunk deep into what was left of the monster's head.
+
+With a final explosion I was thrown back at the cave wall.
+
+"THUDDDDDDDDDD."
+
+The cyclops fell to its back.
+
+I heard a familiar ringing and sighed with relief.
+
+[Level Up][Level Up][Level Up][Level Up][Level Up][Level Up][Level Up][Level Up]
+
+I was about to open my status but a glowing blue light hovering over the monster's corpse caught my eye.
+
+[Use Absorption]Skill: Body Hardening[Special Grade][YES][NO]
+
+I chose yes without hesitation as the beast quickly disappeared in front of me.
+
+*CLINK *CLINK
+
+A large mana crystal and a small golden pendant in the shape of an eye attached to a loop of black string fell from its body.
+
+I picked them both up and placed the necklace around my neck. It magically tightened to fit. I grinned and opened my status.
+
+[Status Open]
+
+____________________Name: Jay Soju
+
+Level: 141
+
+Hp: 220/710
+
+Mp: 40/710
+
+Strength: 339
+
+Speed: 403
+
+Agility: 421
+
+Defense: 306 [+122]
+
+Mental Strength: 339 [+68]
+
+Skills:
+
+AbsorptionSwordsmanshipCombat Magic [Fire Summoning]Inspect [Special Grade]Enemy DetectionBody Hardening[Special Grade]
+
+Items Equipped:
+
+Golden Wolf Ring [+20% Mental Strength]Cyclops Eye Pendant [+40% Defense]
+
+_____________________
+
+I grinned and stared at my new stats as the white transport light appeared.
+
+I heard a rumbling sound, the white light was lasting much longer than it usually did.
+
+The entire dungeon was collapsing, this is not a normal transport. Moments later I was back to the home world...
+
+As I came back to reality I couldn't believe my eyes.
+
+The entire dungeon building was in shambles crushed to bits on the ground. Most of the surrounding city for 500m or so was also in horrible shape.
+
+There were almost 2 dozen hunters and businessman standing around talking to each other and writing things down.
+
+I appeared in front of all of them as the portal disappeared behind me.
+
+They all stared.
+
+I gulped and scanned the crowd to try and find a familiar face.
+
+Well, this is awkward.

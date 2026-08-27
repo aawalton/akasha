@@ -1,0 +1,163 @@
+---
+id: 0f08b095-4cb9-51bb-9ac3-6158b99d5064
+page-type-slug: story-chapter-royal-road
+title: "Book 2 - Prologue 2/2"
+slug: 0008-book-2-prologue-22
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 8
+ownLength: 1911
+unit: words
+publishedAt: 2026-08-04
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3766422/book-2-prologue-22"
+royalRoadId: "3766422"
+---
+
+“Moving on,” remarked The Vaunt. His azurite infused body had a slight tremor, but was more or less fine. Fitting, as many said he had a pact with The Plane itself.
+
+“The pool still will accept rank three, four, and five named demons if you so desire. However, with them, we have the opposite issue. The demand for them has been… sparse.”
+
+“Hah! Which of you actually has a farm wanting a rank three? Let alone four or five?!” scoffed Ommertha from all twelve of his brood infused mouths at once. He was near the front of the table. One of the senior members, as displayed by his nametag.
+
+“It has happened,” replied The Vaunt carefully. “And when it does, the tribute benefits for contributing such a demon are appropriately compensated.”
+
+“Really? How many active triple ringers do we have?” countered Ommertha.
+
+“You know very well I’m not at liberty to share that information.”
+
+“But you do know, don’t you? It’s right there!” pressed Ommertha. He shifted, pointing a single black talon at the leather book. His mouths clattered, their pearly white teeth clamoring.
+
+“Just like The Plane, The Board knows much. It is, of course, up to The Board’s discretion what portions of that knowledge we are to share. Do you need me to remind you about our confidentiality protocol?”
+
+Ommertha grunted unhappily, but let the matter drop.
+
+“Good. Today’s second and final announcement pertains to our quarterly yield. As many of you may know, corruption supply has been… diminishing.”
+
+Mutters of assent and worried glances flickered throughout the table.
+
+Raising his voice, The Vaunt continued. “The Plane has noticed as well. It attributes this to a decrease in the average lifespan of city farms. The Plane has also directed The Board to remind its attendees that proper investment strategy results in healthy, long living farms. Do not partake in unsanctioned portfolios.”
+
+“Ah. If I may,” said Emmeth. Narrowed, unhappy eyes from all around turned to the back of the table.
+
+Amaranth looked like he might faint.
+
+“It’s not a question of investment,” announced Emmeth. He spoke loud, so all could hear. Standing from his seat on the far end of the table, he brushed back his hair.
+
+“Sit down, child,” sighed The Void mistress.
+
+Emmeth bowed, but remained upright. “Forgive me, esteemed Board Member, but I would like to clarify The Board’s point. I think I speak for many of us here when I say that we are willing to invest in city farms. Dying to, really.” He laughed awkwardly, enjoying his own joke. No one else joined him.
+
+Coughing awkwardly, he went on. “But, corruption comes from city lords investing.”
+
+“And city lords can only invest when they are alive!” snapped The Vaunt. “Now sit down. Many of us want to see our quarterly reports which we can not do with your blubbering holding us down.”
+
+“Again, I apologize, but I think more than a few of my colleagues took issue with your reasoning,” he argued, albeit delicately. “It’s not a matter of longevity, but real-estate. We have the gold to invest. But where? Have you seen the options? When’s the last time a frontier realm that wasn’t entirely unfit for growth came across your offering table? Anyone?”
+
+He cast his gaze across the room. Mutterings sounded, with more than a few sounds of questioning dissent spreading.
+
+A senior demon rubbed his chin before speaking up. “What about the new realms in the four hundreds? I saw a few in that portfolio that looked potentially—”
+
+“Gone. Bureau interference,” interrupted another.
+
+Hisses and growls came in reply from many at that pronouncement.
+
+“Again?!”
+
+“Fuck’s sake.”
+
+“Can’t we do something?!”
+
+“Precisely!” exclaimed Emmeth, regaining the conversation. He ran another hand through that oily hair, keeping it pristine and neat. “If you take a look at the longevity metrics, our numbers are the same. So it isn’t as simple as longevity. It’s that, by their very nature, we know our farms don’t last. They weren’t intended to be permanent. That system worked great when the market was open. But with the saturation and expansion of The Bureau…”
+
+“We haven’t even gotten past the announcements, so I hardly see how you can claim to know the most updated yields. Have you learned something the rest of us haven’t?” cut in The Vaunt.
+
+Emmeth noted that all five board members were glaring at him, skepticism and annoyance clear in the gazes. He ignored it. “When’s the last time those numbers have changed? I’d stake my soul—hypothetically, of course—on the claim that our farms still stall at two ringers. Yes, the investment for The Plane, and thus the farm, is substantial to progress beyond that, but I think the… aggressive nature of our… erm… partners, causes much of the issue there. Anyway, I digress.”
+
+“You do. You’ve made your point. Now sit. You are getting very close to breaking protocol.” The Vaunt was nearly seething, his fluttering parchments going dark. Script and symbols began to light a violent sapphire and orange along them.
+
+“No, no, no. I wouldn’t want that.” Then, before he could think better, he rushed out one last sentence. “In conclusion, fellow members and esteemed board, I will repeat myself one final time. What we have here is not a problem of longevity. It’s real-estate. We are losing ground to The Bureau faster than we’re gaining it. That is all!”
+
+With that, he plopped back into his chair. He pasted a sly, overly confident smile on his lips. Like a salesman.
+
+Grumblings sounded, but one look at the rage still wafting from the board was enough to quell any further debate.
+
+The Vaunt, still standing, just stared at Emmeth. And, for several tense moments, no one was certain if he’d call this a breach or not.
+
+A very specific parchment was just beginning to light up when from the right of The Board, a gruff voice snorted. “Oh, let it be. Let’s move on before my pits need refilling,” grumbled The Pit Master.
+
+Vaunt wheeled around, looking at the man speculatively. “Peculiar for you of all to say such things. Then again, The Pits do supply more souls to the draft pool than any other, do they not?”
+
+The Pit Master shrugged, his bulky shoulders showing no sign of care.
+
+Something like understanding flickered in The Vaunt’s eyes before he schooled his expression and returned his attention to the ledgers. “Very well. Next time, keep in mind that we aim to be efficient in our meetings to best serve everyone’s time. I’d hate to lose another seat to a breach in protocol.”
+
+Emmeth winced. Rapid, acknowledging nods spread quickly around the table from everyone else.
+
+“Efficiency!”
+
+“Quick and to the point!”
+
+“Upstart child!”
+
+Once the rumblings had quieted, The Vaunt sniffed. “Now then, that concludes today’s announcements.”
+
+Sitting, he and the rest of the room returned their attention to the speaker. It blinked, crackled, and blinked again. With a tiny leakage of the plane’s pressure, a hundred glowing parchments neatly popped into existence in front of each demon.
+
+Claws, tentacles, scaled hands, chitinous appendages, and other apparatuses snagged and unfurled the fresh reports. The smell of newly minted paper and drying blood came from each.
+
+It only took half a minute for the room to get through the summary report on the first page. It detailed the macro findings, with some choice metrics The Plane shared each meeting with its occupants.
+
+Emmeth was one of the first to start speaking to his neighbors. “Ah hah! See! Look here. Average farm life—four and a half cycles. The exact same as the last dozen meetings. And here, average farm rank — one point eight. One point eight, it says. That’s not bad, nor much different. Most of them are still making it to a second ring. So it means our farm survival is the same. Really what we have here…” he continued on, drawing his neighbors into a heated discussion.
+
+Around the table, other such debates had sprung up. Demons quibbling about why it was they were all in a rut, as of late. None said it as Balcerath had. Such words could be a breach in protocol, of course. But the undercurrent was clear.
+
+Rescission.
+
+As the minutes ticked on and the arguments grew heated, The Vaunt kept glancing at the clock. The conclusion for today’s meeting was fast approaching. He was about to announce as much when something caught his attention.
+
+“What? What was that?!” he asked suddenly.
+
+Around, the room quieted. It seemed in his haste, he was louder than he intended to be. Significantly.
+
+Unbothered, the old demon stood and began making his way to the opposite side of the hall. His pupils dilated, honing in on Emmeth. Already frustrated at him, his patience was gone.
+
+“Emmeth, did I hear you say something about a miscalculation? A mistake in the ledgers?”
+
+Turning, the red demon only now noticed the approaching board member. “Oh! I wouldn’t call it a miscalculation as much as an irregularity in the charts, Mr. Vaunt.”
+
+“Let me see!” he snapped.
+
+“Of course, esteemed board member. Given your experience, I’d be honored for your opinion on the matter. Just have a look.” Dexterous claws spread out the report, one pointing to the earnings section. “You see. I’ve never seen such a line… Here, with my disbursement line items. See.”
+
+“What do you mean? The disbursement summary looks completely—wait, shrinkage?! What did you do?!” he nearly shouted.
+
+“Nothing,” replied Emmeth, a bit of nervousness finally penetrating his demeanor. “The plane itself makes these reports, with audit being handled by—”
+
+“I know how it works, boy! I’m the cursed pact master. Who else do you think would?!”
+
+“Of course, I only meant—”
+
+“No. Let me tell you what I meant. Thousands of cycles and I’ve never seen shrinkage on a disbursement summary. Never. Not once. Do you even know what that means?!”
+
+“That the table has a ten point gap. Marginal really if you—”
+
+“No you ignorant child! Shrinkage means the ledger is wrong. Which is impossible, because the plane is the ledger. Do you understand?” The Vaunt cried.
+
+“But it’s only ten. A truly insignificant amount. I should have said nothing, forgive—”
+
+“TEN?!” roared The Vaunt. “ONLY TEN?! One would be more than enough to be blasphemous to The Plane. Ten is a catastrophe!”
+
+“But with the sheer quantity of—”
+
+“No! I’ll hear none of it.” Pieces of parchment were already unfolding and reassembling themselves on his skin, forming new contracts and clauses. “Clearly you’ve been making some very questionable investments for this to be the case. I’m filing for an accelerated audit schedule on all of your farming properties, with a priority on any with irregularities. And if any of these come back with so much as a smidge out of place, I’ll be considering that a full breach in protocol!”
+
+His final words left everyone in the room stunned, Emmeth most of all. For once, the creature had nothing to say. He just stared in disbelief.
+
+With that, The Vaunt turned, striding purposefully back to his place with his fellow board members.
+
+“Shrinkage. Ridiculous,” he muttered. “As if farms can simply call materials and imps out of thin air.”
+
+As he settled back into his seat, The Vaunt’s eye twitched. For at the center of the room, the speaker’s light blinked green.
+
+Agreement.
+
+It seemed it too thought the idea of shrinkage to be ridiculous.

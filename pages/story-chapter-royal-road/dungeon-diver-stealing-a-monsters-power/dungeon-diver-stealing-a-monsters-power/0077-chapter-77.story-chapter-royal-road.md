@@ -1,0 +1,235 @@
+---
+id: 43f07b58-db9f-54da-9f2d-ba77146ef96b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 77"
+slug: 0077-chapter-77
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 77
+ownLength: 1622
+unit: words
+ownProgress: 1622
+publishedAt: 2023-04-04
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1158331/chapter-77"
+royalRoadId: "1158331"
+markedReadAt: "2026-06-29T20:34:28.156Z"
+---
+
+*Screeeeech*
+
+The train finally makes it to the capital as the sun rises.
+
+We all walk out onto the platform and take in the view of a busy market. It looks like everyone’s in high spirits today.
+
+I follow Jack through the market as the hunters and merchants go about their daily business dealings. We make our way toward the Hunters Association’s main headquarters in the city.
+
+Once we arrive in the general vicinity, large crowds start forming. Jack spoke up with a grin.
+
+“Looks like we’re in the right place!”
+
+There’s a slow line that has formed entering the main building, we got in and stood patiently. There are all kinds of people waiting beside us. Rei starts pointing at some of them and explaining a few things.
+
+“See those 4 there? It looks like they’re a group of 3 hunters and a guild master, pretty similar to us. Groups like this will be the most common.”
+
+I use inspect.
+
+[Lv. 361]
+
+[Lv. 254]
+
+[Lv. 252]
+
+[Lv. 251]
+
+The level 361 is an old man with short grey hair, light skin, and dressed in a formal suit.
+
+The other 3 seem to be your average-looking hunters, with decent gear. It’s your run-of-the-mill steel swords and steel armor adding 200+ or so stats for each stat category. Some of it is battle worn, but it does the trick. They’re definitely from a small-town guild like us.
+
+Rei points at another group.
+
+“See them over there? It seems that group of 5 is from the Hunters Association. You can tell by their gear.”
+
+I use inspect.
+
+[Lv. 250]
+
+[Lv. 250]
+
+[Lv. 250]
+
+[Lv. 250]
+
+[Lv. 250]
+
+They’re all exactly level 250…. And Rei is right. Their armor is all lightweight steel and exactly the same style with dark bodysuits underneath. That’s the Association for you, predictable and organized.
+
+Rei points behind us as a group of 7 arrives. The crowd moves out of the way to let them get in line behind us. She whispers to us in a low voice.
+
+“It seems a party from the big 3 has arrived. These guys are no joke, one of the Viridian Guild teams is here.”
+
+I use inspect.
+
+[Lv. 544]
+
+[Lv. 269]
+
+[Lv. 267]
+
+[Lv. 266]
+
+[Lv. 266]
+
+[Lv. 265]
+
+[Lv. 263]
+
+This team is being lead by a B Class hunter… They are no joke…
+
+All of their gear looks brand new. There are two big tanks and 4 smaller hunters with them that look like some kind of sword or combat types, but none have their weapons drawn. They’re all wearing matching dark green raid suits underneath their shining armor. Some of it is % based, other pieces are 300+ stat boost. This is some serious gear, definitely funded by a top guild.
+
+As we move further and further up the line Rei pointed to one last team of 3.
+
+“Hmm, looks like there’s a wild card team. Look, It speaks for itself.”
+
+I use inspect.
+
+[Lv. 288]
+
+[Lv. 271]
+
+[Lv. 259]
+
+I examine the 3 massive men Rei pointed out. They were all tattooed head to toe, and wore unusual gear. One wore a heavy steel chest plate with 500+ defense, his only skill is body hardening. He must be the tank. Another man had a dark cloak on with a 50% speed buff. I’ve never seen his skill before, but its self-explanatory “Extreme Speed”. He must be some kind of rogue. The last teammate was just a swordsman, but he wore an assortment of rings… the tattoo on his right hand had a dark snake with red eyes.
+
+Rei spoke up again as we neared the door.
+
+“They’re an independent party. You have to apply through the Hunters Association directly if you’re not guild associated. Pretty rare, but not impossible to see. They aren’t with a guild master, we can assume they’re self-submissions. Occasionally a group of nobles will apply as an independent party as well, we haven’t seen any of them yet though. Looks like this exam will be an interesting one!”
+
+I nod slowly.
+
+“Looks like it.”
+
+We enter through the front door.
+
+There’s a long table in front of us with two middle-aged men in black suits standing in front of it. The one on the left has short brown hair, blue eyes, and a clean-shaven face. He spoke up.
+
+“Guild Name?”
+
+Jack steps forward.
+
+“We’re from the Pace Guild. Our two applicants are Jay Soju and Maria Cortez.”
+
+The man nods and sifts through a notepad.
+
+“May I see your ID’s and status screens?”
+
+Jack nods and turns to us.
+
+I activate conceal as I reach into my item box to take out my Hunter’s ID. Maria takes hers out as well, and we both hand over our cards to the man.
+
+He examines both of them as I open my status and begin to edit it furiously. Moments later he hands us our cards back and we both show him our blue screens.
+
+I left everything exactly the same except for my skill section. I deleted everything except for Swordsmanship and my Fire Combat Magic.
+
+His eyes still lit up and he laughed.
+
+“Level 297? Nice! There are a couple of guilds over-leveling this time around. I guess it’s just a trend recently. Well, looks like you two are in the clear. Go see Rodrigo to get fully checked in.”
+
+He points to a man sitting at the long table behind him in the center of the lobby.
+
+Jack and Rei’s body language both change. They seem on edge… We walk over to the table and the man behind it stands up to greet us with a deep voice.
+
+“Welcome.”
+
+As he stands, I start to understand why Rei and Jack were acting so off…
+
+This man is powerful. I sense an unusual, yet familiar presence emanating off of him.
+
+He’s over 190cm tall, with olive skin, long jet-black hair, and a short sharp beard. His eyes are too light…. They’re almost white. All of his fingers are covered in gold rings with assorted gemstones, and to top it off… His suit is bright red with black accents.
+
+I use inspect, and my jaw drops.
+
+[Lv. 1391]
+
+He speaks.
+
+“My name is Rodrigo. I’m the A-Class Hunter on special order from the Hunters Association. I will be in charge of your exam today.”
+
+I gulp.
+
+“Nice- Nice to meet you.”
+
+He smiles.
+
+“Please, may I see both of your left hands.”
+
+Maria and I do as he says.
+
+He hovers his hands above ours and I see up his sleeve for a split second. I make out a solid black tattoo in a thick line that runs all the way up his left arm. A bright light flashes for a moment, then it fades out.
+
+I look down at my wrist to see a thin silver bracelet. Maria has one too.
+
+He nods.
+
+“These will be necessary for the first part of your exam. It’s been a pleasure meeting you. Hopefully, we meet again.”
+
+He gestures to the door on our left and all 4 of us leave without saying a word. Once we’re through and begin to walk down a narrow hallway, we all let out sighs of relief. Rei speaks up.
+
+“That was…. something all right…. I wasn’t expecting to meet an A Class today, that was my first time.”
+
+Jack looks over at her.
+
+“Mine too. They must be testing out something new with this exam to ask an A-Class to make the journey out to the Vice region.”
+
+I step in.
+
+“So… That’s an A-Class…”
+
+Maria grins.
+
+“He was so cool!!!!”
+
+We all stare at her blankly for a second, then laugh together while continuing to walk through a hallway. We approach a door with 2 more men in black suits. There are large wooden crates lining the walls beside them. One of them speaks up.
+
+“Show us your wrists.”
+
+Maria and I look at each other, then raise our left hands.
+
+He nods.
+
+“All right, take off your item boxes.”
+
+I look at him with confusion.
+
+He replies.
+
+“Outside healing items will not be permitted in the exam. Only the gear on your body and in your hands may enter this room. Necessary HP and MP potions will be provided by the Hunters Association.”
+
+We nod.
+
+I reach into my item box and pull out my sword. I don’t really have much else in my item box, all my money and interesting items are in my item storage anyways. Nobody has to know about that…
+
+We hand our item boxes to Jack. He smiles.
+
+“They’re in safe hands.”
+
+The guard nods as we turn back towards him. He reaches into a crate and grabs two new item boxes.
+
+“Take these. They’re full with 5 HP and 5 MP potions each. Use them wisely.”
+
+We accept the items and put them on. He speaks up again.
+
+“Only you two are allowed inside.”
+
+Jack nods.
+
+“All right, good luck you two! It’s a private event, we’ll be waiting on the outside to hear the good news.”
+
+Rei speaks up as well.
+
+“Best of luck, even though you don’t need it!”
+
+With a smile and a wave, they both turn to leave. We walk through the next set of doors into a wide-open room.
+
+The hum of mana shields is loud, and there are white walls all around us. The room is about 50m long and 30m wide. It has a small stage and podium at the back with no one behind it. Hunters are everywhere… There are over 200 in this crowded space already, and more are piling in.
+
+We walk further into the room together. The exam is about to begin.

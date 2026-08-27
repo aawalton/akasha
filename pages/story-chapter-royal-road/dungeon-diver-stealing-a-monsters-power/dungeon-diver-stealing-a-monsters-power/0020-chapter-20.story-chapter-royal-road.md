@@ -1,0 +1,177 @@
+---
+id: fc12e7f1-fdde-58ec-8dac-22a4ed872afd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20"
+slug: 0020-chapter-20
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 20
+ownLength: 1159
+unit: words
+ownProgress: 1159
+publishedAt: 2023-02-08
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1108708/chapter-20"
+royalRoadId: "1108708"
+markedReadAt: "2026-06-29T20:32:29.571Z"
+---
+
+To my surprise Maria was standing in front of me in the lobby of the Pace Guild. She looked up at me with a huge smile.
+
+"These are the mages at Pace! They've been helping me train the last few weeks! But why are you here Jay??"
+
+I was a bit flustered at first. Then I remembered Maria did say she was training with a nearby school partnered guild.
+
+"O-Oh that's awesome, makes sense. I'm just here to check out the guild, I met Jack at a dungeon the other day. Just a happy coincidence I guess."
+
+I smiled. Maria bobbed her head at me.
+
+"Ya know, if you join Pace maybe we can hunt together sooner than I thoughttttt."
+
+Maria stared at me with her big blue eyes.
+
+"Yeah yeah, I'm going to talk about some terms with Jack right now. Maybe we will be fighting together."
+
+She smiled and started following the other mages to a back room in the opposite direction we were headed.
+
+"Okayyyy, see you soon Jay!!"
+
+Jack turned to me as I waved her off.
+
+"You know Maria?"
+
+I nodded.
+
+"Yeah she's my next door neighbor. I had no idea she was working with you guys."
+
+Jack smiled and nodded back.
+
+"Yes, she's a very promising mage. We scouted her from the first years. Those are our D and C Class mages she's working with. Hopefully we can bring her up to speed quickly. Her Mental Strength stat is off the charts, and with that Ice magic... she will be a force to be reckoned with. I'm happy we have the opportunity to train her."
+
+I put a few fingers to my chin thinking to myself. I knew she had an impressive status... but who knew she'd be this big a deal so quick.
+
+"Good for her... now down to the real business...."
+
+"...."
+
+"Lunch!"
+
+"Oh yes of course hahaha!"
+
+We turned a corner and Jack's office was on the left. As he opened the door I could smell the sweet scent of meat and spices full the air.
+
+We sat for a few minutes to eat before Jack spoke up.
+
+"Alright, so what do you think? The Pace Guild has a variety of private and partnered dungeons E to C class. What is your main focus as a hunter? Fame? Fortune? Pow-"
+
+"Yes. Power. I want to be strong. That's it."
+
+Jack smirked.
+
+"That's what I like to hear. You have a very unique fighting style. We don't have anyone in our guild that possesses 2 offensive combat skills."
+
+I got serious for a moment and stopped eating.
+
+"I know you can get me access to high level dungeon's and guides for training. That's pretty obvious. The benefits for you would be the loot I can collect, and the benefits for me would be the accelerated level increases I get it."
+
+Jack nodded.
+
+I thought for a moment.
+
+"I'd like to join your guild. But-"
+
+"But what?"
+
+Jack had a concerned look on his face.
+
+"It needs to be a Non-Exclusive guild contract. I'd like to have the freedom to work with other guilds during our time together."
+
+"Hmmmm."
+
+"Id like to set up our contract so that I will not be able to sign any Exclusive contracts with other guilds while contracted with you at the Pace Guild. Non-Exclusive contracts will be fair game for me to sign. I'd just like the basic freedom to work with the hunters association or other guilds if they approach me. This is my offer."
+
+Jack thought for a moment. Then stood up.
+
+"How about a 6 month Non-Exclusive contract with the Pace Guild. This will include 1 mandatory raid per month. You will have unlimited access to all private and partnered guild dungeons, but all mana and weapon drops will be property of the guild. You may use any of the guilds provided weapons if the caliber of the weapon matches or is lower to your current Class. How's that sound?"
+
+"One issue."
+
+Jack raised his eyebrow.
+
+"What's that?"
+
+"I get to keep all mutant monster's drops. That's mandatory."
+
+"Hmmm."
+
+"......"
+
+"Deal."
+
+"Great."
+
+We shook hands and both grinned.
+
+Jack wrote up a simple contract and after reading it over I signed.
+
+I'm officially a Non-Exclusive Hunter for the Pace Guild.
+
+We talked a bit longer and finished the feast in front of us. After about 30 more minutes I stood up.
+
+"Well, it was a pleasure today. I want to go get this axe checked out and rest up for the day. I'll come back tomorrow and train in the Orc dungeon."
+
+Jack nodded.
+
+"Sounds good Jay. I'm glad we made a deal today. See you tomorrow!"
+
+I waved and walked out the office door and through the lobby.
+
+I nodded at the blond woman before exiting the building. She just nodded back with a blank face.
+
+I grinned while walking down the main road with a giant axe over my right shoulder. I was off to the village market.
+
+15 minutes later I arrived at the merchant's stand.
+
+"Hey old man. I have a big axe for ya today. Tell me about it."
+
+The merchant picked up the axe and examined it in awe for a full minute.
+
+"This is a D Class combat item. Where'd you get it??"
+
+I smiled with satisfaction.
+
+"It was a mutant boss, I beat it myself."
+
+"Damn, kids are getting strong these days. Good for you."
+
+"Sooo, tell me. How much is it worth?"
+
+He eyed the axe again.
+
+"Hmmm. If you find the right buyer... I bet you could get over 50 silver for this item. But in a small village market like this I'd be lucky to get 25. Most I can buy it off you for is 20 silver."
+
+"What?? Come on... where can I sell it for more?!"
+
+The old man thought to himself.
+
+"There is an auction down in Avery District every Saturday. They buy and sell pretty valuable items there. It may be worth a shot."
+
+"Avery District??? That part of town is-"
+
+"Yeah yeah, it's a little shady. Where else are you going to buy and sell untaxed rare magic items in a town like this. Yes, it's a black market of sorts.. but you asked where and I told ya kid."
+
+"Hmmm."
+
+"Sell it to me now for 20 silver, or try your luck at the auction this weekend. Here, take this."
+
+The old merchant scribbled down the address of the action on a notepad and handed me the paper.
+
+I took it and looked down at the address.
+
+"A-Alright. Thanks. I think I'll try my luck at the auction. It sounds interesting. I appreciate the help."
+
+The old man smiled.
+
+"Careful out there... In the dungeons and at the auction. Welcome to the real world kid."
+
+I nodded and waved as I threw the axe over my shoulder and walked back to my apartment.
+
+What a day....

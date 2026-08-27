@@ -1,0 +1,353 @@
+---
+id: 3e6e5338-f081-55ac-b064-82c4bab76539
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36"
+slug: 0036-chapter-36
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 36
+ownLength: 2092
+unit: words
+ownProgress: 2092
+publishedAt: 2023-02-22
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1120582/chapter-36"
+royalRoadId: "1120582"
+markedReadAt: "2026-06-29T20:33:01.892Z"
+---
+
+We made our way down all 8 floors. I watched all the shops go by as we glided down on the moving stairs.
+
+On the bottom floor there was a large crowd around a storefront that took up almost a quarter of the floorspace. Rei motioned us towards it.
+
+"This way. It'll be a few silver, but trust me it's worth it. I've been in here a few times."
+
+We walked through the crowd of people and got into a small line forming right outside the entrance.
+
+There was a large sign over the glass door.
+
+"Vice City Mall Training Center"
+
+The line moved forward slowly for about 10 minutes until a middle aged man greeted us at the door.
+
+"Just the 3 of you? What level training room, and how long are you going to need?"
+
+Rei spoke up.
+
+"30 minutes in a D Class Room. We'll rent 3 pairs of Sim gear too."
+
+"That'll be 10 silver for the room, 3 extra for the sim gear."
+
+My eye brow raised. That's pretty pricey. What kind of training room is this?
+
+I reached into my item box to grab some silver for my cut, but Rei immediately gave me a look.
+
+"Don't worry about it. Pace Guild will cover this one, it's for training."
+
+She winked at me and handed the man 13 silver.
+
+He nodded and let us through.
+
+"4th room on the left. Timer starts once ya open the door."
+
+We walked through a narrow hallway and towards the room.
+
+Rei opened the door and we walked in.
+
+She shut the door and a large clock on the wall started counting down 30 minutes.
+
+It was a large room with high ceilings. The walls, floor, and ceiling were all white and I could hear the hum of a mana shield.
+
+There was a small rack with combat suits on it. Rei picked one up and started putting it on over her clothing, it magically tightened to fit her body.
+
+"You guys too, put em' on."
+
+Maria and I followed her lead and put on the suits.
+
+All of a sudden I saw blue text hovering over Rei and Maria's heads.
+
+[100/100]
+
+[100/100]
+
+I saw Maria staring over my head as well. There must be numbers above mine too. I looked at Rei.
+
+"What is this?"
+
+She grinned.
+
+"It's Vice City training gear. Pricey tech, let's use it while we have the time. Don't hold back, this gear is graded up to high B Class attacks. You couldn't kill someone in one if you tried."
+
+I looked at her in confusion.
+
+"W-What do you mean?"
+
+She smirked. Then her whole body started to glow with a yellow light.
+
+"This is what I mean."
+
+Her body glowed so bright I could hardly see anything else in the room. It was blinding me.
+
+The room started to fill with static and my eyes went wide as I saw large thunderbolts protruding from Rei's body.
+
+*ZAPPPPPPPPP*
+
+A huge bolt of electricity came flying towards me faster than my eyes could see.
+
+"AAAAAGHHHH"
+
+It hit me with a direct hit. It was more painful than I was expecting it to be. I dropped to my knees and Maria shrieked.
+
+"He's at 0! 0 out of 100!! Rei how could you do tha-"
+
+"Just give it a second Maria, watch."
+
+A small red text appeared at the lower left corner of my vision.
+
+[1 death logged]
+
+Restart? [YES][NO]
+
+I chose [YES] and an animation of my health bar rose from 0/100 to 100/100 in front of my eyes.
+
+"T-This is a simulation?"
+
+Rei laughed.
+
+"Yes, but also no."
+
+Maria and I both looked at her with confused looks on our faces.
+
+"The suits absorb the magic energy from attacks. It will simulate the damage and show you what percentage of your health would have been taken. They're a great tool for training. It allows higher ranked hunters to go all out and not worry about hurting their training partners."
+
+Maria and I both looked down at our suits in awe.
+
+It is pretty cool. I knew the capital was going to have some cool new tech, but I didn't know stuff like this was so available to the public.
+
+Maria spoke up.
+
+"Alright Jay. Let's Spar!"
+
+She started to glow a light blue color and took out her sword.
+
+I returned the favor with a grin and took out my own sword. I decided not to use my fire just yet, I don't think it would be fair against Maria.
+
+She engulfed her sword in a blue and white crystalizing mist. I was impressed, her ability to handle her ice skill has definitely improved.
+
+Maria's level is much lower than mine so her movements were easy to track.
+
+"CLANGGG"
+
+I blocked her sword's hits with simple defense tactics. She handled her sword well, and her swordplay looked cool but she couldn't land a hit due to the huge difference in out stats.
+
+After 10 or so attacks Maria looked up at me with a grin.
+
+"Come on Jay!!! You're a D Class! I know you can do more than that, don't you want to test out your new sword??"
+
+Maria glowed even brighter now and her sword started to grow in size.
+
+"CLANGGGG"
+
+We struck blades again, this time the ice from her sword crept towards my own. As I backed away the ice on my blade kept expanding.
+
+It was slowly making its way down the blade towards my hand.
+
+Maria looked proud of herself and gave me a smirk.
+
+The ice touched my right hand and it was much colder than I expected it to be.
+
+Moments later I saw the simulated bar in the bottom left of my vision start to change.
+
+[97/100]
+
+The ice kept moving up my right arm, it was starting to hurt a bit. I couldn't move my hand at all.
+
+[93/100]
+
+Maria's skill is very neat. It probably works extremely well on lower level monsters. If I was fighting her seriously she would never have managed to get a hit on me.
+
+"What are ya gonna do now Jay? I think you got a little too cocky!"
+
+I grinned.
+
+"Oh yeah?"
+
+I decided it was time to get a little serious, I activated my fire magic. It started as a slow crackle, but erupted into a dark red fire ball surrounding my body.
+
+Her ice melted off my hand and I immediately regained mobility.
+
+I smirked as I saw Maria's eyes go wide.
+
+I sprinted towards her with my blade pointing straight ahead.
+
+I was moving much faster than she could react to at her current level.
+
+Moments later I ran behind her and started to swing my sword. I stopped my flaming blade millimeters from her neck.
+
+"I think it's you that got a little too cocky."
+
+I could see Rei in the corner of my vision. She watched us with her arms crossed. She was just enjoying the show.
+
+Maria finally spoke up.
+
+"Y-You win. You're right."
+
+I took my blade away from her and we both stood at ease.
+
+"I think we're all at differing skill levels, it'd be hard to train with each other."
+
+Rei walked over to us.
+
+"You're right, I just wanted to try on this gear again. We can't do much actual training in here. It's more for the experience, I just thou-"
+
+Maria Interrupted her abruptly.
+
+"Hey Jay! You never told me you had a magic skill too!?!? I thought you were just a swordsman, when were you going to tell me? Huhhh?"
+
+I laughed.
+
+"Well you know now."
+
+"Hmmmm. I guess so."
+
+Maria pouted and puffed out her cheeks. I could tell she wasn't actually mad.
+
+Rei chimed in.
+
+"I knew, it was the only thing written in your file. I was curious if you were going to show us or not."
+
+I gave Rei a side eye, but in a friendly way.
+
+"Lets make use of our time in here. We only have 20 minutes left. Lets 2v1. Maria and me vs. you."
+
+Rei grinned.
+
+"Sure, you asked for it."
+
+Maria smiled. She liked the idea.
+
+*ZAPPPPPP*
+
+"AGGGGHHHH"
+
+"....."
+
+"....."
+
+[0/100]
+
+[2 deaths logged]
+
+Restart? [YES][NO]
+
+I chose [YES] and got to my feet.
+
+"Okay.... Go a little easy on us. We're trying to have some fun here."
+
+Maria nodded as she stood up as well.
+
+"Yaah come onnnnn."
+
+Rei just nodded in agreement.
+
+She was enjoying this a little too much.
+
+We spent the next 20 minutes getting zapped to death over and over not landing a single hit on Rei.
+
+[16 deaths logged]
+
+Restart? [YES][NO]
+
+[YES].
+
+We got to test out our new gear, and simulated deaths weren't as bad as they sound.
+
+I heard a loud beeping sound and looked up to see where it was coming from.
+
+[00:00]
+
+The clock on the wall had counted down to zero and the door swung open.
+
+Our time was up. We took our Sim suits off and walked out the door with smiles across all of our faces. I turned to Rei.
+
+"That was actually really fun. I'm glad you brought us in there, despite fake killing me 16 times..."
+
+She laughed.
+
+"No problem, I'm glad you liked it. How about you Maria?"
+
+She nodded.
+
+"Yeah. It was a bit scary at first, but I liked it."
+
+We walked out of the storefront and Rei thanked the guard that let us in.
+
+We stood in the center of the mall. I looked up through the structure straight at the sky and watched the white clouds pass by for a while.
+
+"Gurggleeee"
+
+My stomach made a loud sound.
+
+"All that dying made me hungry."
+
+Maria giggled and Rei smiled while pointing towards the direction we came from.
+
+"There are some really good food shops by the main trading center next to the train station. Let's go check it out, I'm pretty hungry too."
+
+We all nodded in agreement and started walking off towards the main market area.
+
+Rei took us off in a direction we hadn't walked through before.
+
+The smell of spices filled my nose. As we walked deeper into the food vendor portion of the market I saw hundreds of booths and thousands of people eating all kinds of food.
+
+It was filled with every type of food I could imagine. The aromas were hypnotizing. Rei led the way, I followed.
+
+"I know a really good place, we're almost there."
+
+Moments later we approached a small restaurant and were seated almost immediately. The three of us sat around a circular table with a fire in the center part.
+
+The smell of meats and spices filled the air.
+
+A waitress came by and we ordered almost half the menu to share, it all looked so good.
+
+Less than 10 minutes later our food started coming.
+
+The restaurant brought out many types of exotic meats and let us cook it ourselves on the grill area in front of us.
+
+There were all types of appetizers and side dishes available too. Bowls of soup, noodle dishes, all kinds of bread, exotic fruits and vegetables, and dishes I couldn't even name.
+
+We dug in.
+
+It was the best meal I've had in a long time, maybe the best meal I've ever had...
+
+After 20 minutes went by and the initial dopamine rush died down I started to settle back into reality.
+
+For a moment it was just me and my food.
+
+Rei spoke up.
+
+"I knew you would like this place. I come by every time I'm in the capital."
+
+Maria and I both nodded with our mouths full.
+
+"When we're done and take the time to digest, maybe we can check out some of the capital's public dungeons."
+
+I raised an eyebrow.
+
+"Are there a lot of dungeons around here?"
+
+Rei smiled.
+
+"More than you could imagine. The more populated a city is, the more often dungeons spawns. The Capital is covered with them."
+
+"Let's do it. I'd love to check them out."
+
+"Cool, we'll check some out later today."
+
+I nodded and went back to searing a large piece of meat.
+
+My mind started wandering though.
+
+It's odd that more dungeons spawn where there are large populations of people. I wonder why that is?
+
+I'll find out sooner or later. I can't wait to see what kind of monsters there are in the capital.
+
+I thought this would be a calm day off, but it seems like a hunter's life always falls back to diving into dungeons.

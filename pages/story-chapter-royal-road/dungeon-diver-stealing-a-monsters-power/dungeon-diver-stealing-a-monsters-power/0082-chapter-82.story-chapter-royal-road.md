@@ -1,0 +1,247 @@
+---
+id: 16471dee-cf58-5d42-8d41-6ae735d4abc4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 82"
+slug: 0082-chapter-82
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 82
+ownLength: 1793
+unit: words
+ownProgress: 1793
+publishedAt: 2023-04-09
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1164081/chapter-82"
+royalRoadId: "1164081"
+markedReadAt: "2026-06-29T20:34:38.799Z"
+---
+
+[Test 1][Time Remaining: 40 Hours]
+
+“I...”
+
+Maria looks up at me with curious innocent eyes.
+
+I gulp.
+
+“I do… have another skill. You’re right.”
+
+She smiles wide, drops her sword, and starts jumping around with her hands in the air.
+
+“I knew it!! I knew it!!! Your sword is special too! And you-“
+
+I cut her off with a serious tone.
+
+“Let’s keep this between us, okay? The fewer people that know about it, the better. I have... a few skills… I trust you not to tell anyone, and to not ask too many questions.”
+
+Maria stopped jumping and looked me in the eyes with a serious stare.
+
+“Hmmph, of course, Jay. I’ve been waiting…. I can keep a secret, don’t worry!”
+
+She smiles again, picks up her sword, and turns to continue walking while bobbing her head side to side humming softly.
+
+I sigh with relief…
+
+It’s been weighing on me for a while now. I was trying to find the right time to tell her. The more floors we climb, I'm more likely to use other skills. I guess she’s known for a while and was also just waiting for the right time to say something…. Maybe I’ve been a bit careless about flashing my skills around lately.
+
+Either way, that was much easier than expected. Hiding my visible abilities from Maria is one less thing to think about.
+
+I follow her deeper into the dungeon and use enemy detection to locate the team I was tracking earlier.
+
+[900m]
+
+I call out to Maria and point at the mountain in front of us again.
+
+“The base of that mountain is less than a kilometer away, we’re getting pretty close.”
+
+The trees begin to thin out the closer we get. The team hasn’t changed its position yet.
+
+[500m]
+
+They still aren’t visible from this distance, and there are many trees and rocks in the way now. Our trek toward the mountain continues.
+
+[200m]
+
+Finally, as we step into an open clearing our next adversaries come into view. A pair of men are sitting on top of a large boulder. We begin approaching with caution. There isn’t much tree cover at all, so an ambush would be hard to pull off here. We walk at them straight on with our swords ready.
+
+[50m]
+
+The men see us coming but don’t seem alarmed at all. One of them waves and the other ignores us. At closer inspection, a large glowing white box is on top of the boulder next to them. They found a gift box too! As we get closer, the man that waved jumps down and yells out to me.
+
+“What do you want kid? Get lost if you know what’s good for ya. You’re already on the fifth floor, don’t make me send you two back to the start.”
+
+I grin and raise my sword while Maria begins to glow blue. As we do this, the other man on top of the rock jumps down.
+
+I use inspect on both of them.
+
+The first man is about 185cm, with a shaved head, heavy shining armor that only covers his vital points, and a large silver axe. He looks a lot older than me… Maybe close to 40. He’s pretty tan and very muscular for his height.
+
+[Lv. 303]
+
+Active Items:
+
+[High Ogre’s Axe] +350 Strength
+
+[Enchanted Steel Armor Set] +500 Defense
+
+[Stealth Boots] +300 Speed +300 Agility
+
+[Dragon’s Scale Pendant] +50% Magic Resistance
+
+[Serpent’s Ring] +70% Mental Strength
+
+[Rodrigo’s Silver Bracelet]
+
+Active Skills:
+
+Combat Magic [Lightning Summoning]
+
+The man approaching behind him is a bit shorter with dark black hair, but he makes up for it with his width. He’s one of the most muscular men I’ve ever seen… With a full suit of heavy armor as well, carrying a long silver sword.
+
+[Lv. 299]
+
+Active Items:
+
+[Steel Sword] +300 Strength
+
+[Enchanted Steel Armor Set] +600 Defense
+
+[Enchanted Leather Boots] +300 Speed
+
+[Dragon’s Scale Pendant] +50% Magic Resistance
+
+[Gargoyle's Ring] +60% Mental Strength
+
+[Rodrigo’s Silver Bracelet]
+
+Active Skills:
+
+Swordsmanship
+
+Extreme Defense
+
+I ignite my sword with flames and turn to Maria.
+
+“These two are very strong, and they’re packing some serious gear… Think you can handle them?”
+
+She nods and begins to glow even brighter.
+
+I turn my attention to the axe-wielding man and stare him directly in the eyes. He smirks showing me the right side of his crooked smile.
+
+“You asked for it, kid. Abe, you take the girl. Let’s make this quick.”
+
+His partner slowly walks over to Maria and raises his sword.
+
+“Got it.”
+
+Our brawl is about to begin…
+
+This should be a stressful situation but I’m grinning ear to ear. The excitement of a real fight is surging through me and it hasn’t even begun yet.
+
+The man in front of me begins to glow light yellow, then charges straight ahead with his axe raised. I activate Berserker and sprint at him to counter.
+
+*CLANGGGGG*
+
+Our weapons collide with equal force and we’re stuck at a standstill. I erupt into flames and the man begins exploding with electricity. He jumps back to avoid my flames, and I do the same to escape the discharge.
+
+Large bolts of electricity strike my sword as I retreat. The shockwave travels through my body and I let out a scream as I feel myself being cooked from the inside out.
+
+It’s one of the most painful things I’ve ever experienced…
+
+I drop to my knees momentarily with my skin covered in black sizzling burns. I use self-regeneration and stand to my feet as quickly as possible. My status reads 870/1455 HP and 1360/1455 MP.
+
+I grit my teeth and face the man as he laughs.
+
+“That wasn’t too bad, you’re strong for a youngster.”
+
+He smirks and raises his axe, then charges at me again. I erupt into flames, activate berserker and run full force at him too.
+
+“Intimidation.”
+
+I activate my skill and a pulse of energy hits him moments later. The man’s eyes open wide for a split second… but he keeps running forward. I let out a yell as our swords clash again with equal force. We both let out flames and lightning as we both jump back.
+
+I let out another yell as my sword conducts more electricity frying me to a crisp once again. My status reads 295/1455 HP and 1220/1455 MP. I regenerate and stand to my feet.
+
+He laughs and points his axe forward. The man lifts his hand to show me a shimmering red scale on a string around his neck.
+
+“Another good trick, but your magic won’t affect me. This is the end boy.”
+
+I’m breathing heavily and gripping my sword tight. Maria is less than 30m away in the middle of her own battle.
+
+She’s running circles around the large man, but her Ice magic isn’t doing much damage. He’s breaking free of her spells with ease. Maria is clearly in over her head… but managing to stay out of danger. Me on the other hand, I have to get my head in the game here.
+
+I gulp and reach into my item box to grab an HP potion. The man runs toward me glowing yellow as I rip the cork off with my teeth and chug it down.
+
+*CLANGGGGG*
+
+I manage to drink most of the potions and raise my sword in time to block his onslaught. The electricity flows through my body on contact as he ducks out of range again.
+
+I regenerate and let out a yell of frustration. I point my sword forward and glare at the man before me. My blade begins to glow bright red. This is the first time it’s done so since we entered the labyrinth.
+
+I let out a chaotic laugh and run straight forward. I’m starting to have some fun…
+
+My vision tunnels, my senses heighten, and my magic power becomes more focused surrounding the glowing sword as I sprint at my enemy.
+
+*SHINGGGGG*
+
+I land a hit and continue running past the axe wielder. When I look back I see the man turning toward me without hesitation.
+
+There’s a small gash across the front of his steel chest plate, it barely goes skin deep and the flame residue has almost burned out entirely…. He speaks up again.
+
+“You’re just full of surprises aren’t ya!”
+
+He points his axe in the air and glows brighter than before. Instantly, I drop to my knees and yell out in pain. A bolt of lightning comes down and shocks me to my core.
+
+I regenerate my charred skin and turn to run…. I need more time… He’s strong…
+
+My status reads 80/1455 HP and 940/1455 MP.
+
+I dart away while fumbling to grab an HP potion from my item box. I hear the man’s voice close behind me as I scan the area for my next potential plan.
+
+“You can only run so far! Come on kid!”
+
+I see Maria in the corner of my eye being cornered by the sword wielder. The round is covered in Ice from all of her failed attacks and she’s backed up against the boulder from earlier.
+
+The man facing her brings his sword down as Maria tries to block it with her own.
+
+*CRACKKK*
+
+My eyes open wide as I watch her sword shatter into metal fragments from a distance. She’s been completely overpowered… How could this happen…
+
+I turn my head back again to see the axe-wielder gaining on me. I rip the cork out of another HP potion and chug it down as he gets closer.
+
+“JAY! HELP!!! ME I-“
+
+I hear Maria screaming in the distance as static makes the hairs on the back of my neck stand straight up.
+
+I see the sword wielder readying his blade to finish Maria off…
+
+I let out a yell of frustration, visualize the area between them, then activate my skill.
+
+“Dungeon Walker.”
+
+A dark swirling portal forms in front of me and I leap through head first.
+
+Instantly, I’m teleported right between them. Without touching the ground, I fly through the air to grab Maria.
+
+I create another portal behind her, and we both fall through disappearing from the battle entirely.
+
+“J-Jay? What is this? It’s so… dark…”
+
+I focus for a moment, then teleport us back to the start point of this rocky mountain dungeon where we spawned in.
+
+The light shines down on us as my portal disappears I fall to the ground breathing heavily. Maria looks around with confusion.
+
+“H-How did you… Is that another?”
+
+I smile.
+
+“Another skill.”
+
+“…..”
+
+I slowly get up to my feet and let out a long sigh.
+
+“I guess we’re not the strongest ones here…”
+
+Maria replies in a shaky tone.
+
+“I guess… we’re not.”

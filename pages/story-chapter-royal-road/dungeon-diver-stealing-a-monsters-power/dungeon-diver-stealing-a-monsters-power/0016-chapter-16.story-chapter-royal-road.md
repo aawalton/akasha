@@ -1,0 +1,275 @@
+---
+id: 18ea1f0d-aee0-52a4-bb96-d958f935aac3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16"
+slug: 0016-chapter-16
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 16
+ownLength: 2290
+unit: words
+ownProgress: 2290
+publishedAt: 2023-02-05
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1106391/chapter-16"
+royalRoadId: "1106391"
+markedReadAt: "2026-06-29T20:32:20.955Z"
+---
+
+On my way to the dungeon this morning I grabbed 4 MP recovery potions. With my new rise in MP along with a level increase I'm able to take on 7 battles per full MP bar. The goal for today and tomorrow is to complete over 60 battles in total.
+
+As I got closer to the old theatre entrance I saw people lined up around it. There were small groups of people crowded around talking to each other and preparing to enter the dungeon themselves. It looks like the dungeon is finally open for public use.
+
+As I walked through the front doors a few groups eyed me curiously. It looked like there were no solo hunters here except for me.
+
+I unsheathed my sword and made my way directly towards the portal.
+
+"Excuse me sir!"
+
+I turned to see a young man in a grey suit with a white undershirt jogging towards me.
+
+"I couldn't help but notice you're a solo swordsman. Nice to meet you, my name is Jack."
+
+I shook his hand and smiled politely.
+
+"Hi, I'm Jay."
+
+He replied instantly.
+
+"You're aware the recommended solo level for this dungeon is 75. The boss is apparently a tough opponent. I haven't seen you around the other high level E Class dungeons, are you new to town?"
+
+"No I'm not new to town, just new to this level of dungeon I guess. I'm going to do some training on the wolves today."
+
+He eyed my sword.
+
+"Well, I won't pry for any more details. It looks like you know what you're getting yourself into. Here, please take my card. Maybe you'd like to test out our Orc dungeon. It's controlled by the Pace Guild. It's a high E Class just like this one. Swordsman are always welcome."
+
+I took the card and nodded.
+
+"Thanks, maybe I'll come visit when I'm done here. Nice to meet you man."
+
+Typical guild recruits, I've read about them. It was my first time actually being scouted like that, overall it does feel pretty good to be recognized. He didn't ask me to join or anything, but he did show some interest. I put the card in my back pocket as I jumped through the blue portal.
+
+_____________________
+
+The dungeon was a little crowded over the next 2 days, but the deeper I ventured in the less often I'd see any fellow hunters.
+
+I stayed in the dungeon for 12+ hours a day. I completed 62 total battles. It was becoming more troublesome to find wolves than to fight them. I gained a total of 4 levels and made 13 silver in net profit.
+
+[Status Open]
+
+____________________
+
+Name: Jay Soju
+
+Level: 56
+
+Hp: 285/285
+
+Mp: 285/285
+
+Strength: 140 [+50]
+
+Speed: 160
+
+Agility: 168
+
+Defense: 127
+
+Mental Strength: 140
+
+Skills:
+
+Absorption
+
+Swordsmanship
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]
+
+_____________________
+
+It's Wednesday morning, I'm level 56. Today I have to beat the boss...
+
+I looked in my bedside drawer to see 18 silver coins and a pile of bronze. I grabbed 8 silver and 3 bronze along with my sword and walked out the door.
+
+I got breakfast at a local shop and made my way over to the merchant's stand.
+
+"Hey old man, I need 4 MP and 4 HP potions today. Plus a small carrying pouch for my waist if you've got one."
+
+I placed the 8 silver on the counter. The merchant looked at me with an eyebrow raised as he rummaged through some drawers.
+
+"Big fight today?"
+
+He placed 4 pink, and 4 light green glowing bottles on the counter next to a small black pouch.
+
+I shoved them all in the pouch and tied it around my waist, then turned and waved.
+
+"Thanks old man, see ya soon."
+
+"See ya kid, careful out there today!"
+
+I made it to the dungeon entrance, it was a bit less crowded today. There were a few teams talking and waiting out front but I paid them no mind. I walked straight ahead to enter the dungeon... it's now or never.
+
+Once I entered the desert wasteland it felt more empty than usual, but it was just my imagination. I headed straight towards the back of the dungeon, wasting as little energy as possible.
+
+I came across 3 wolves on my 2 hour walk. I assumed this would be the case, my MP is was depleted to 200/285. I've become even more efficient with my MP usage, I'll wait until it gets lower to refuel.
+
+I made it to the light grey spinning portal. It's time.
+
+I took a deep breath in through my nose and out my mouth. I jumped in.
+
+I was alone in the boss room. No way to escape. It's either I kill the boss... or it kills me.
+
+Next thing I knew, 8 large wolves came creeping towards me. This is the first wave, I need to act fast before the boss comes out.
+
+I sprinted in and with a swift swing of my blade, waving my way through the wolf pack. About 20 seconds later they were all on the floor bleeding out. I stood there for a moment admiring my work while keeping an eye on my MP. It dropped to 140/285. I'll have to keep this window open for most of my battle with the boss.
+
+Then the room went deathly silent. I could feel a superior being's presence.
+
+"RUUUUUUAAAAAARRRRRAAA!"
+
+Flames burst out from the back of the cave. I jumped back and gripped my sword.
+
+The beast emerged. Standing over 5m tall, flaming from the arms and legs... the wolf man towered over me and showed its teeth.
+
+It charged forward. In this moment I could tell it was slower than me. The only problem was its fire power... literally.
+
+I sprinted to the right to avoid a full frontal attack, that would only end badly for me. It was focused forward, I lunged in to attack one of its legs.
+
+To my surprise, it was a hit! I grinned ear to ear as I sprinted past the monster. When I got a safe distance away I looked back and the smile left my face.
+
+I had hit.. but to the beast it was no more than a small wound on its leg. Maybe 5% of its HP if I was lucky... I froze for a moment in awe. This gave the wolf man enough time to counter with a flaming fist. As the fist drew near it registered in my peripherals and I jumped away from its trajectory as best I could.
+
+Unfortunately the attack still hit me. The whole left side of my torso had been singed through my shirt and I was blasted back into the depths of the cave about 15m.
+
+I quickly got to my feet checking my status while chugging both MP and HP potions. My side was dripping with blood, it hurt really bad. My MP had fallen to 100/285, and my HP fell to 55/285 in just a single hit...
+
+No more mistakes. I cannot be hit again.
+
+My MP and HP had fully recovered. The beast was staring me down like it's prey. It charged in at me again.
+
+I went for a zig zag pattern using my speed and agility to sneak in with an attack aiming for its left leg. Moments later, a hit! I zig zagged away in a similar fashion making sure to keep my eyes on the beast while keeping a safe distance.
+
+I have a weak attack, but it's definitely doing some damage. I can keep this up.
+
+The wolf man erupted with flames and charged at me again. I ran in the opposite direction. When it activates its magic it's much harder to get a safe attack in.
+
+A few seconds later the fire died down and I readied myself for an attack. I zig zagged along the ground closer and closer to the beast landing another hit on its left leg. I sprinted away in a safe direction. It tried to follow, but was out paced. The wolf man couldn't get in range.
+
+We kept up this game of cat and mouse for 3 more attacks. I landed 2 more hits on its left leg, and 1 more on its right. It definitely had some visible wounds now. There was blood dripping to the cave's floor. My attack plan was working, I just had to keep it up. Staying alert and going in for cheap hits was the only way I'd win.
+
+It's strength and defense had me completely outclassed. Its magic was strong too, but with low intelligence I could easily avoid its magic outbursts. My speed and agility were life savors. I drank an MP potion to restore my almost depleted stat bar and gripped my sword ready for more.
+
+I ran circles around the monster. Landing 6 more clean hits on its legs, it was physically slowing down now. My attacks were making it increasingly harder for the wolf man to more around. There were pools of blood on the battle field. I drank another MP potion and readied myself for another barrage of attacks.
+
+Another 6 attacks landed.
+
+"RUAUUUUARRRRRR!"
+
+The beast was crying out in pain. I kept inching my attacks higher and higher up its body as the monster got slower. Half of the 6 slices were direct torso hits. The monster was critically injured now. Barely walking on its broken legs and serious wounds in its mid section. 1 or 2 more good hits and this battle was as good as over. I smiled and drank my last MP potion.
+
+Then I felt a change in the air....
+
+"RUUUUAAAAAAAAAAA!!"
+
+The wolf man erupted into a crimson ball of fire.
+
+It emerged... but fully still fully engulfed with a layer of flames. It was a walking blast furnace, I couldn't get close... this must be its final form. A last-ditch effort, letting out all its remaining energy with a dying breath.
+
+I backed up and stared at the 5m tall flaming wolf man in awe. I had to admit, it was an incredible sight.
+
+I sprinted in the opposite direction, there's no way I can win 1 on 1. His previous magic attacks were only activated for a limited amount of time. Maybe if I run away for long enough, he'll burn out...
+
+I headed towards the back of the cave as fast as I could. To my surprise the beast followed with more speed than I remembered.
+
+It went for an attack straight at my back. I managed to dodge but I had to throw myself in the direction of the cave wall.
+
+The monster turned to face me, it's fire burned bright red and orange. I could feel the heat burning my eyebrows. It charge forward.
+
+I made a mad dash to my right to escape its oncoming attack. A blast of fire decimated the cave wall where I had been moments ago. I was hit with some of the debris.
+
+I ran to the back of the cave again. I had a 5-10m head start but the wolf man was close behind. His fire kept burning brighter and brighter.
+
+"RUUUUUAARAARRR!!"
+
+It let out an ear piercing roar and lit up the room behind me. I could feel the hot flames burning the shirt off my back. All I could do was sprint with all my might towards the back of the cave.
+
+The flames grew hotter and hotter. I heard the beast's roar and didn't dare look back. The fire was burning my upper back, I let out a yell I pushed my legs to their limits running faster than I ever have.
+
+"AHHHHHHHHRAAAAA!"
+
+Moments later I was hit with a blast of flames and heard the monster's final cry.
+
+I jumped forwards with all my strength avoiding as much of this final attack as I could. I had successfully outran the beast, but it's flames shot forward over 10m. I was able to avoid a blunt force attack, but was still hit with a deadly wall of fire.
+
+I was thrown against a wall and tumbled to the ground. After this explosive attack, the cave became eerily silent. The light of the flames disappeared leaving me in empty darkness.
+
+I heard a loud ringing in my head.
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+Before opening my status I noticed a faint blue glowing light in the darkness of the cave. It was about 15 meters from me. I limped my way over to it using my sword as a crutch.
+
+As I approached the wolf man's fried corpse I saw familiar glowing blue words.
+
+[Use Absorption]
+
+Skill: Combat Magic [Fire Summoning]
+
+[YES][NO]
+
+My eyes went wide. With a faint smile I chose [YES].
+
+The monster's body started disappearing. It dropped a large mana crystal and a shiny gold ring with a small wolf's head imprinted on it.
+
+I picked them both up. Put the mana crystal in my pouch, then curiously put the ring on my left hand's middle finger. It tightened to fit my finger perfectly.
+
+The white light appeared and transported me back to the dungeon's entrance.
+
+I stepped out back into the home world and stood in the theatre hall. My shirt had been burned off and I was bleeding from wounds all over my body. I just grinned and opened my status.
+
+[Status Open]
+
+____________________
+
+Name: Jay Soju
+
+Level: 61
+
+Hp: 37/310
+
+Mp: 265/310
+
+Strength: 152 [+50]
+
+Speed: 174
+
+Agility: 183
+
+Defense: 138
+
+Mental Strength: 152 [+30]
+
+Skills:
+
+Absorption
+
+Swordsmanship
+
+Combat Magic [Fire Summoning]
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]
+
+Golden Wolf Ring [+20% Mental Strength]
+
+_____________________

@@ -1,0 +1,209 @@
+---
+id: 23511ac8-511c-5e3f-a7ce-67821519a8ca
+page-type-slug: story-chapter-royal-road
+title: "Chapter 44: Magic"
+slug: 0044-chapter-44-magic
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 44
+ownLength: 2496
+unit: words
+publishedAt: 2026-07-15
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3681929/chapter-44-magic"
+royalRoadId: "3681929"
+---
+
+Keltor, the Oathsworn Paladin, traveled far and wide in search of demons who hid themselves amongst humans. Shapeshifters, Mind-Manipulators, and horrors beyond your imagining. Follower of Angel Levis, the Cloaked, Keltor’s name remained unknown for many years, defending us in the shadows until he died destroying the Remnants of a Devil that had hidden itself in a small town near Bollar.
+
+“Legends Of The Incursion” From The Archmage’s Library
+
+I set my book to the side, next to my bag. Most of the others are gone, leaving only Tanya nearby where she’s stirring some kind of mixture into a pot. She’s absorbed in her work, and far enough away that I’m not worried about her listening in.
+
+I motion for Eyla to move closer.
+
+While she moves, I reach into my bag, and pull out a notebook, “What’s the simplest spell you can cast?”
+
+She hesitates for a second, then speaks, “Level 10, Ice Spike.”
+
+I look up at her in surprise, I wasn’t expecting her to be so forthcoming.
+
+She smiles, “I’m giving you my trust too.”
+
+“Can you tell me how it works?” I look back down to draw into the notebook with a charcoal pencil, a simple circle with three symbols to it. Transformation, Ice, Spear. I don’t put any mana into it, so it lies there as a simple drawing.
+
+“Ice forms a spike from the ground, piercing what I want it to. If I have my domain active, it can strike from anywhere inside.”
+
+I pause, then look up, “Domain?”
+
+She nods, “Level 20, Ice Domain. A field of ice under my control. You saw Lorn and the necromancer fighting for their domains last time.”
+
+I absorb that information for later, then turn the piece of paper to face her, “When you cast Ice Spike, do these symbols appear?”
+
+She leans closer, then shakes her head. “That’s… close. I recognize the first two symbols, but the third one is different.”
+
+I hold the notebook out to her, and she draws the symbol for me.
+
+I look at it. It’s similar to spear, but different. Probably spike? “First circle just means that there’s only one circle.”
+
+“Oh.” She looks up at me with a smile, “So it’s just an apprentice spell. I’ve never called it first circle. Does that mean second circle would be a novice spell?”
+
+“I… yeah. It makes sense you’d recognize it.” I pause, looking at her as she leans closer to study the symbols.
+
+“Do you know what they mean? I’ve never seen someone copy my symbols without me showing them.”
+
+I blink, coming back to the conversation, I look down to point at them, “Transformation and Ice. The third one is spear, which was my best guess for what you do.”
+
+She studies the drawing for several seconds before realization hits her, “You’re making the spells manually, aren’t you? That’s how you’re casting magic.” She looks up at me, her face inches from mine. “I didn’t know that was possible.”
+
+A small smile comes to my face, “Exactly. I can only make first circle spells, but I’m getting better.”
+
+She looks at me for a long moment, before looking back down at the notebook. “Can you show me?”
+
+I hesitate for a second, then motion for her to follow me. “Don’t try this yet. Shar has told me that if you get a symbol even slightly wrong, it can have disastrous effects.”
+
+She nods seriously.
+
+I stand up, and give her a hand up, I hesitate for a second, then leave her hand in mine as I pull her out of the building.
+
+Tanya glances at us, but quickly focuses back up on whatever she’s working on.
+
+It’s night time outside, and I catch sight of the other mercenaries laughing and drinking it up with several Vishten as they play cards.
+
+I pull Eyla past it, into the forest. I keep my eyes open, predators and more dangerous monsters should’ve been pushed out by the Stronghold’s magic, but even prey animals can be dangerous if disturbed.
+
+We find our way to a clearing, moonlight shining down on us from the clear sky. The last of the snow on the ground adds to the effect, filling the night with light.
+
+I hesitate for a second before letting go of her hand to start the presentation on magic. I immediately feel the cold from where her touch used to be.
+
+“I’ve worked hard to memorize these symbols,” I start, holding my hand up as I slowly construct the spell circle. “I’ve read about other shapes, but circles seem to be the easiest and the most common. From what I’ve read, placement of the runes inside the shape matters a lot.”
+
+She sits in the snow, completely comfortable in the cold.
+
+I start to form the mana, first the circle, then the first symbol inside the circle, “I start with Transformation,” I form the symbol in the air as I speak. “The other option is Stillness. I’m still learning when it’s better to use both, but transformation seems to be better for spells that need a lot of movement or change. Stillness is better for walls, or holding something, as the name suggests. Second circle spells can use both somehow. Like I said, I’m still learning.”
+
+I form the second symbol in the spell.
+
+“You know this one. Ice. This is the identity. If I was casting a nature spell, I’d make the Nature symbol.”
+
+I focus hard to hold the spell as I talk and slowly form the third symbol.
+
+“Finally, my desire for the spell. This is the symbol I wrote down earlier. Spear.”
+
+The spell finishes, and a spear of ice forms in the air, before shooting forward into a nearby rock, and shattering into tiny pieces of ice.
+
+It’s smaller and weaker than the Ice Spikes Eyla casts, and I suspect that’s because of her alignment, plus the added effects of her domain.
+
+I lower my hand and look over to Eyla who stare wide eyed at the rock. “If I learned this, could I cast other spells? Wield fire, or air?”
+
+“I… don’t think so.” I answer slowly, “Your class aligns your mana with an element. When I was using gloves to give myself Nature alignment, I found things outside of that element difficult to cast. The farther away the identity was, the harder it became. I managed to cast a life spell during my battle with Brandon, but when I tried to cast fire during practice, I couldn’t.”
+
+“So fire is impossible for me.” Eyla smirks, looking up at me.
+
+“Unless you found an item to change your alignment.” I sit down in the snow next to her, the enchantments in my clothes working hard to keep me warm. “But things like Frost should come easy to you. I’m sure you could copy your Master’s spells with enough effort.”
+
+Her smile falls away as she looks at the shattered ice from my spell. She stares at if for long time, leaving us in the silence of the night.
+
+I find my gaze moving to the stars high in the sky. I used to be in love with those stars. They’re endless, free, unburdened by the dangers of our world. I’d learned to memorize their patterns, and when one fell, I felt the magic of it.
+
+“Leo,” her voice is quiet.
+
+I turn to her, and she bites her cheek as she hesitates.
+
+“Can you teach me? I want to learn your magic.”
+
+“You know, I’ve already spent a lot of time thinking about whether I should share this magic with you.” I lie down in the snow, my body falling into it. “I think I’d like to.”
+
+She lies next to me. I lay my hand next to hers, the sides touching. She moves, gently holding my hand with hers.
+
+“I’ve spent a lot of time not trusting people.” I say quietly, “My Mentor instilled that in me. As Delvers, we deal with items people will and have killed for. He faced betrayal all the more as a nonhuman working in our lands. We’ve laughed with people one day, only for them to turn on us the next. He was always ready for the turn, no matter how much it hurt.”
+
+Her hand tightens around mine, holding it tight.
+
+“Despite everything I’ve seen, I can’t live like that. I can’t live waiting for the blade in my back. That will hurt me someday, I know.”
+
+Her thumb circles the back of my hand, “It’s not the same,” She starts slowly, “but I grew up the only granddaughter of the Archmage after the return of magic. Everyone wanted to be my friend, but not for me. They wanted the power.” She holds up our intertwined hands, looking at them with a melancholic gaze, “I learned quickly, that I had few real friends, even in the De’Vereth. It wasn’t until I left the Stronghold, lived where nobody knew my name, that I found something real.”
+
+“It was strange, seeing the version of you that lives in the stronghold.”
+
+“What do you mean?” She shifts, turning towards me.
+
+I let out a small nervous laugh as I run my free hand through my hair, pushing it back with the wetness of the snow. “Just, guarded. Strong, and smart, but it didn’t feel like the ice witch I’d gotten to know during our delve.”
+
+She looks at me for a long moment, then laughs, “Yeah. Not many people get to see this version of me. Think of it as a special gift, only for people I trust.” She falls back into the snow, “The other me is pretty amazing though. She’s done a lot of impossible things.”
+
+“I believe it.”
+
+We both stare up at the stars, our hands held tight for a long time before heading back towards the house.
+
+***
+
+We leave the next day, starting our journey towards the prize at the end of Eyla’s map. A light rain starts, turning the snow to mush, and making all of us wet. Thankfully, everyone in the party is equipped with enchanted clothing from our last delve.
+
+I’ve traveled days through the rain without enchanted clothes, and it quickly can turn moods sour as everything gets soaked.
+
+We leave through a different gate than we entered through, and I manage to track down the remains of an old road by comparing Eyla’s map to the current geography. It’s long overgrown by plants, but it should help us stay on track and avoid some of the more impassable terrains.
+
+I look up into the rain, the hood of my cloak sliding back ever so slightly so that I can watch Shar as she flies through the gray.
+
+Something big moves through the clouds, drawing my attention to it before it disappears. It’s hard to tell size from this distance, but my guess is that it easily matched a smaller behemoth.
+
+I shudder at the thought of fighting something like that when it can fly.
+
+I turn my attention back to the group, where the others have paused to wait for me. Tanya has her hood down, a large grin on her face. The flower above her ear stands tall in the rain, and even her vines look more green. Keve and the three mercenaries all have their hoods up, rain sliding down the waterproofed cloth.
+
+Eyla’s in the middle of them, sticking close to Grildor in case we’re caught by an ambush predator of some kind.
+
+A quick glance towards Jasper shows the rock lizard also being super happy at the rain, the moss along his back glowing green.
+
+I turn towards the road, studying it, my eyes catch sight of large tracks, relatively fresh, and heading the same direction as us. Markings on one of the trees make me think a large predator has claimed the area.
+
+I don’t want to move off of the path, but continuing into a predator’s territory would be a bad idea.
+
+Shar swoops back down, and I hold my arm out for her.
+
+“We can turn north and meet back up with the road in an hour.” She shakes her feathers, water falling off of her to the ground.
+
+“Any creatures in that direction?” I ask.
+
+“A corrupted White Stag, but it’s protecting its herd, and didn’t seem aggressive.”
+
+“How large?”
+
+“Almost the height of that tree.” She points to a tree that’s nearly ten times my height, “But the other direction leads into a wasp warren.”
+
+I shudder in fear. A warren means hundreds of nests stacked on top of each other with individual wasps the size of my palm. Eyla might be able to get us through them with her area of effect spell, but I don’t want to take the time a battle like that might cost us.
+
+“We’ll turn. Any terrain?”
+
+Shar shakes her head, “There’s a small trail you can follow. And I spotted a mostly intact house further down. It could make for a good stopping spot.”
+
+“Thank you.” I hold up my arm, and she takes back to the sky. Then I motion for the others to follow me off the path north.
+
+We turn into the forest, quickly finding the small trail she mentioned and following it into the woods.
+
+I watch our step, keeping careful look out for any dangers Shar might’ve missed. Nothing bothers us, until Daron lets out a low warning whistle.
+
+I look up, and spot it walking through the woods, just past a small stream.
+
+The white stag is as large as she said, its antlers sharp and nearly doubling its height. It’s fur is completely white, and as I look at it, it turns to us, watching us from the distance.
+
+A herd of large white furred deer walk past it as it watches us. Then it turns, and continues along its way.
+
+I let out a breath, then motion for everyone to continue.
+
+Soon enough we come to the house she’d seen. She’s right that it’s in surprisingly good shape, an earthen wall covered in vines surrounds the house, standing just above my height.
+
+A small gate lays half off of its hinges. I pull my sword as I step past the gate, the others raising their weapons as well.
+
+Then I pause at the sight of a statue of an angel, time having weathered its features away. A garden surrounds the angel, several fruit trees providing shade.
+
+I sheathe my sword as I recognize the place for what it is.
+
+A Haven.
+
+I walk up to the angel, and bow my head, gently placing a coin at their feet. A sensation calls out to me, and I pause.
+
+The same call reaches for me again, asking for mana.
+
+I lower my hand, and send some mana into the statue.
+
+Nothing happens at first, then a fire ignites in the house, smoke rising from its chimney.

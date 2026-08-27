@@ -1,0 +1,255 @@
+---
+id: 03c9c8e8-7d7f-57ca-b42a-8d97aaabce6e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15: Corrupted"
+slug: 0015-chapter-15-corrupted
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 15
+ownLength: 2710
+unit: words
+publishedAt: 2026-06-02
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3484332/chapter-15-corrupted"
+royalRoadId: "3484332"
+---
+
+When the Devil Helfklik descended to the mortal realms, there was devastation. The city of Loklen was destroyed overnight, its defenders slain by the swarm that followed in the path of the Devil. The fifth oathsworn, Samde and his army were forced to descend upon the world, the energies flowing through him destroying the very land he walked on. The battle between the two divine beings and their armies tore ravines and toppled mountains. The sight of this devastation can be seen far to the north in the Loklen canyons where it’s said the battle of holy and unholy energies continues on.
+
+***
+
+The reaver’s body is crushed to the floor. Its legs spread out at odd angles. Whatever did this was brutal.
+
+The rest of the delve team spreads out as we enter the room. There are two other entryways into the room, one is a stairway that goes down to the next floor, and the other goes off to the side. Shar said that path should lead to the rooms of the servants and apprentices of the archmage’s home.
+
+Most of the slashed cocoons leak their grotesque contents to the floor, mixing with the contents of the broken eggs. My steps squelch with the gross mixture, but thankfully the smell isn’t actually too bad, being somewhat sweet and vinegary.
+
+Tanya steps past me to examine the dead reaver, her stride showing a surprising amount of confidence. The three mercenaries move to the entrances to the room.
+
+“Do you know what could’ve done this?” I ask Keve.
+
+He looks away from a cocoon to look me in the eyes. He shakes his head.
+
+One of the mercenaries waves to me. Daron points down the staircase to the next level. “Whatever it was, it came from down there.”
+
+The door at the bottom lies on its hinges, the webs at the bottom slashed through.
+
+I stare at the door for a moment before turning to the rest of the group. “We’re heading back up!”
+
+I want to get all the artifacts back to camp and rest before we face whatever did this.
+
+“Wait!” Tanya calls from the corpse. “I found something.”
+
+I walk over to where she’s slowly pushing away one of the reaver’s legs. I kneel down to help her shove the dead appendage. With a cracking sound, the leg breaks off.
+
+Tanya smiles widely at me as she points at what is barely peeking out from underneath the corpse.
+
+Unbroken eggs.
+
+“Can I have them? Please?”
+
+I hesitate for only a second before nodding. “Grildor!” I call out to the older mercenary who is staring down the stairs with Daron. “We need some help moving the corpse.”
+
+With the three of us, we manage to move the corpse and reveal roughly fifteen unbroken eggs.
+
+Tanya coos with excitement as she examines the eggs, the vine on her neck twisting slightly. She touches one of the eggs, and the vines on her body brighten as mana flows through them, into the egg and back into her body. Before my eyes, the eggs disappear one by one. A white tattoo engraves itself into the back of the hand she touches the eggs with, depicting a circle made out of said eggs.
+
+Tanya lets out a weary breath, then turns to leave. She freezes as she realizes that the rest of the party is watching her. “It’s my class.” She says.
+
+“I guessed as much. Let’s get out of here.” I say.
+
+The others seem just as eager as me to leave.
+
+I motion everyone through the door ahead of me, then take one last look at the monster’s corpse.
+
+I close the door slowly.
+
+The trip back up is eerie, our raised guard causing the webbed walls and dead cocoons to create an unsettling atmosphere.
+
+Still, nothing bothers us as we return to our camp. The shield from the artifact of protection snaps into place and Lorn steps out of his tent to greet us.
+
+His face is pale, but he’s already looking a little better. I nod to him in greeting as I walk over to the rock-lizards. We gather around as everyone drops their stuff off and I start noting down the haul in my notebook.
+
+The others move around, relaxing after the tenseness of the delve.
+
+I close the notebook with a snap. “Hey Shar.” I stretch my back, hearing a pop. “How confident are you that you can find whatever is blocking our path?”
+
+Shar lands in her crow form in front of me, tilting her head in question.
+
+“I want to know if we should find a way around it or attempt to take it down.” I continue.
+
+Shar nods, “I will see what I can do.” With that said, she jumps into the air and takes off back to the ruins.
+
+I let out a sigh.
+
+I wish we had the older mage with us to face whatever was down there.
+
+I let everyone rest as we take a quick lunch, then it’s back into the depths. Shar meets us at the entrance to the webs. She flies onto the arm I hold up for her, her wings flapping lightly as she settles in.
+
+“What’d you find?” I ask.
+
+“A Corrupted Scorpion.”
+
+There’s a collective gasp at the words, and my free hand moves to my sword.
+
+“Could you tell the alignment?” I ask, motioning for the mercenaries to step closer.
+
+“Earth is my best guess.” She answers.
+
+I’ve never encountered one myself, but corrupted creatures are monsters that have been warped by mana. They’ll usually take on an alignment of magic, able to use spells normally reserved for mages of that type. I know enough to say that certain alignments are more dangerous than others, but I don’t know anything about the Earth alignment.
+
+I look at Libby, “Can we kill it?”
+
+Libby glances over our delving crew. Grildor gives her a nod, and she smiles,“Grildor can hold our defences. I’m worried about its armor, or its escape. I don’t like being surrounded by its element.” Her gaze lands on Keve and our resident mage. “Do either of you have a skill that can get through earth aligned plating?”
+
+Keve shakes his head. “My flames are not strong enough.”
+
+Eyla purses her lips, then nods her head, “I think I can.”
+
+Libby shakes her head, “Mages.” She turns to me, “I’d feel more comfortable taking it head-on. I don’t want an earth aligned scorpion taking us by surprise.”
+
+I nod my head in agreement.
+
+Grildor takes point as we continue our path through the webs of the dead Reaver. We arrive at its cave, and walk past its corpse to the stairs leading to the next level.
+
+Grildor shares a look with the rest of us as he lowers his heater shield. We spread out in preparation and make our way down the stairs and past the busted door. A large hall greets us, filled with broken cocoons and disturbed webs.
+
+We’re greeted by an eerie rattling sound that fills the hall.
+
+I step back, activating Hide Presence so that I can watch the fight and help if needed. I wouldn’t be able to do much without revealing my second class, but I’m confident in my delve team anyway.
+
+What I’d first taken to be a mound of debris rises up, a nasty looking tail glistening with the tell-tale gleam of poison. The scorpion is larger than the reaver, and is covered in plates of hard rock.
+
+The earth rumbles with the rattling, shaking under our feet. Then it stops.
+
+The scorpion is fast as it appears before Grildor, but he’s ready for it as his shield meets the creature’s claws. A larger illusory shield covers our group, deflecting several spears of earth that follow up the physical attack.
+
+Keve jumps past the defences, his swords glowing with fire, as he seeks the chinks in the scorpions armor. The screech of metal hitting stone echoes out as his swords leave small cuts in the stone of the scorpion.
+
+The scorpion reaches for him, but he’s already gone in a streak of flames. There’s not much for me to do as Keve continues to attack the thing, Shar dives in and out of the shadows to further distract the scorpion, while Grildor holds position in front of us to stop the majority of its attacks.
+
+Our attacks do nothing to the creature, but there’s a reason mages are feared.
+
+Ice spreads over the ground from Eyla’s feet, covering the floor.
+
+The scorpion lunges at Keve, only for a spear of ice to rise out of the frost in its path. The ice shatters against the earth plate on the scorpion’s chest, and I hear an annoyed sound come from Eyla.
+
+The scorpion moves again, another spear of ice blocking its path.
+
+It screams out, as this time, the spear punctures through and it struggles to free itself.
+
+“Got you.” Eyla says. Spear after spear of ice form in the air around Eyla. They fire forward, each and every one of them aiming for the head of the scorpion. A wall of earth rises from the ground, blocking the first few before shattering under the onslaught. The ice punctures its eyes, digging deep into its brain.
+
+It cries out, then collapses as more spears dig into it.
+
+The battlefield goes silent.
+
+Eyla lets out a breath, “I’m low on mana.”
+
+I release Hide Presence, and nod. “Let’s move up.”
+
+***
+
+We make our way back to the room with the dead Reaver, and I have everyone rest there while I pull Keve to join me in my search through the other rooms.
+
+The first room opens to reveal a rotted bed, an ancient desk that appears to be more mushroom than wood, and a medium sized chest.
+
+“Don’t touch the desk.” I tell Keve as I step further into the room.
+
+First things first, I hold out my lightstone, further illuminating the room. Thankfully, nothing is hiding in the corners, a perk of the reaver’s nest being so close. I lay on the floor, and hold the stone out to light up under the bed.
+
+My eyes immediately catch a strange disturbance in the flatness of the stone floor.
+
+I reach out with my gloved hand and brush dust off, revealing a small metal box. I gently scooch it out from under the rotted bed, and hold it up.
+
+I twist it over in my hand, but it appears to be solid metal. I activate my Identify skill, and read through the following message.
+
+Ancient Lockbox
+
+Requires a key.
+
+“Shar, do you know where I could find a key for this?”
+
+The crow hops onto my shoulder, and peers closer at the box. “I don’t remember.”
+
+“That’s alright.” I reach up and scratch under her metallic feathers, then hand the box to Keve to place in his bag.
+
+I glance at the desk, but have no desire to disturb the multitude of mushrooms that have made the desk their home. When I’d delved with my mentor, he’d bring a druid with him that was obsessed with the strange organisms. I’d learned far too many ways that mushrooms could kill a man from that druid.
+
+Still, the key could be in the desk…
+
+I shake my head, and turn to the locked trunk.
+
+The lock is still there, and I lift it up to reveal that the inner workings are still clear of rust. My mana detector goes off, and I pull out some blue dust, gently applying it to the lock. Runes cover the exterior. Whoever lived here, they invested in security.
+
+I pull out my notebook and painstakingly copy the tiny runes down. After a minute, I close the book with a snap and place it back in my bag.
+
+Identify Runes tells me that the runes were placed to prevent tampering. Time to test that against the power of the system.
+
+Deactivate Runes.
+
+My mana moves on its own, scribing more runes into the already crowded space of the lock. The runes flare, then go dark.
+
+That should’ve done it.
+
+“Who lived in this room?” I ask as I reach into a side pocket of my bag, and pull out two long metal needles.
+
+Shar pads up next to me in her cat form, then sits on her haunches, “An apprentice.”
+
+I look at her, then turn back to the lock. No wonder the lock had magical protection, it was made for an apprentice to an archmage. I hope not all of the rooms are that well protected.
+
+I place a needle in my mouth, then lift up the lock, and carefully insert the one part of the lockpick in. Once it's in place, I grab the second needle and fiddle with the lock, listening for the sound that will tell me when I should twist.
+
+With a click, the lock pops open. I push open the trunk to reveal white robes with blue lines flowing down them.
+
+“A Journeyman Apprentice.” Shar says, looking at the robes, “They must’ve been on the verge of becoming a full mage.”
+
+I lift the top robe out and hold it up. The fabric feels soft and cool to the touch, completely undamaged from whatever enchantments rested in the trunk.
+
+Mage Apprentice Robes
+
+Enchanted to keep the wearer cool, these robes will withstand light magic attacks and repair themselves from damage.
+
+Underneath that one is another robe, and several smaller pieces of clothing. I dig for a moment before finding a small, intricately carved wooden case. I pull it out and open it to find a wooden stick with a small jewel inlaid to its base.
+
+Mage’s Wand
+
+Enhances the flow of mana that goes through it.
+
+I stare for a long moment, my brain stalling on the power that I hold in my hands. I’ve only seen two of these before, and one was wielded by the Arcanist Guild’s Archmage.
+
+I look over to Keve, but he’s distracted by something on the desk. I slip the wand into my personal bag, then put the robes into a large rucksack.
+
+I stand up, and walk over to the desk. I consider the mushrooms for a long moment, “Hey, Keve, can you grab Tanya? She might have some idea what these are.”
+
+Keve nods, then steps out of the room. He returns a second later with Tanya right behind him. The Lin girl looks at me, then follows my gaze to the mushrooms.
+
+Her expression brightens as she stares at the mushrooms, “These are perfect!”
+
+She leans closer, examining the skirt of the mushroom, then with a wide smile she plucks it.
+
+“Are they safe?” I ask.
+
+She shakes her head as she gathers more of them and carefully places them in a pouch at her waist, “Black-caps. They’re incredibly deadly to humans,” She scrapes away some of the wood of the desk. “But I have many uses for them.”
+
+I share a look with Keve.
+
+I turn back to the excited girl as she stands on her tiptoes to reach the back of the desk.
+
+“Can I look at the desk?”
+
+“Of course, just don’t touch any of the caps with your skin.”
+
+I open one of the drawers on the desk, with a mental reminder to clean my gloves later. To my surprise, several sheets of thick paper lie there undamaged.
+
+I pull the papers out. They’re written in another lost language, but I recognize the occasional word. Towards the bottom, several shapes are carefully drawn, looking somewhat like runes.
+
+“Shar, can you decipher this?”
+
+The golem hops onto my shoulder, her tail swaying against my back.
+
+“It’s lesson notes.” Shar says, “On the creation of a short range blink spell-circle.”
+
+A spell-circle? I’ve heard about them, but I’ve never heard of a modern mage successfully creating one.
+
+I wrap the paper in leather, then place the notes in my bag, and continue to search through the desk. There's some more documents that look like letters, and a notebook with the same thick pages that the notes were written on.
+
+After everything is in my bag, I motion for us to continue to the next room.

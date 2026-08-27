@@ -1,0 +1,303 @@
+---
+id: c31067ba-f042-514c-9bd2-6ee73f4ec446
+page-type-slug: story-chapter-royal-road
+title: "Chapter 75"
+slug: 0075-chapter-75
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 75
+ownLength: 1459
+unit: words
+ownProgress: 1459
+publishedAt: 2023-04-02
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1155890/chapter-75"
+royalRoadId: "1155890"
+markedReadAt: "2026-06-29T20:34:23.742Z"
+---
+
+The Demon looks me in the eyes as our swords clash.
+
+I grit my teeth and watch the sparks fly. I use plunderer while releasing a wave of flames through my blade toward the monster. It lets out a wave of intense intimidation as we test each other's limits.
+
+My flames glow hot illuminating the area around us. I burst into a massive ball of fire pushing the monster backward while burning its chest and arms. It lets out a roar and disappears into a dark portal behind it.
+
+I smirk.
+
+This is the first time during our battle I've had the upper hand.
+
+I sense a presence behind me and swiftly turn to block the incoming blade. We lock eyes again as sparks fly. I use its own mana against it. While refreshing my own MP up to full, I release another wave of flames and lunge forward.
+
+It gets slightly burned but disappears into a dark portal once again.
+
+We clash blades over and over for another full minute. I manage to land minor burns from my flames but our swordsmanship, strength, and speed are completely equal. One wrong move for either of us and the other will be critically injured.
+
+Every time the demon appears I block and attempt a counter, but it's too crafty... The moment my blade touches its skin, it disappears into a void of darkness.
+
+I scan the area around me and wait.... It's time to turn it up a notch. I'm going to try something different this time.
+
+I sense a blade appear behind me, but purposefully don't turn around to block it. The sharp metal sword slices deep into my back and out through my stomach on the other side. I would have definitely darted away or blocked in any normal circumstance, but this is part of my plan...
+
+"Body Hardening"
+
+Black crystals form around the exit and entrance wounds. I feel the monster attempt to pull its sword free, but it's stuck inside me.
+
+I grin and twist my body while swinging my sword at the Demon's neck. Its eyes open wide with fear.
+
+*SHINGGG*
+
+It's a hit! A deep fiery gash appears on the monster's throat and it shrieks while falling backward into a black portal.
+
+I rip out its sword from my stomach and fall to my knees... blood gushes out as my vision starts to fade. I regenerate and struggle to grab one more HP potion. While shaking my head and chugging the potion I slowly stand to my feet regaining full consciousness.
+
+A hand appears from the void and grabs the bloody sword off the ground while I regain my strength.
+
+Seconds later, it appears from a portal behind me.
+
+"This is it...."
+
+I stare down at my bright red glowing sword and concentrate every last bit of MP I can into the blade. Berserker is active, and my body is covered in dark red flames. With a yell, I spin my body toward the danger and go in for the kill.
+
+"ARHHHHH!"
+
+I feel its blade sink into my stomach as I turn... but I pierce its chest as well.
+
+My sword glows brightly as it releases all my flames deep into the Demon's heart. I suck it dry of mana using plunderer while burning its body to a crisp.
+
+Both of us let out a final battle cry as it attempts to lift its blade. Again, I use body hardening to stop it in its tracks while continuing to plunge my fiery blade deeper and deeper.
+
+A portal appears behind the monster, but It's much more transparent than before. The dark purple magic is beginning to fade. It can't escape.
+
+Moments later... our battle is finally over.
+
+I fall to my knees with exhaustion as the charred body of the demon falls to the ground in front of me.
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Use Absorption]
+
+Skill: Dungeon Walker
+
+[YES][NO]
+
+[Use Absorption]
+
+Skill: Intimidation
+
+[YES][NO]
+
+I choose yes on both, and open my status.
+
+[Status Open]
+
+____________________
+
+Name: Jay Soju
+
+Level: 290
+
+Hp: 375/1455
+
+Mp: 890/1455
+
+Strength: 702 [+597][+351]
+
+Speed: 836 [+502]
+
+Agility: 865
+
+Defense: 626 [+250][-157]
+
+Mental Strength: 702 [+140][+288]
+
+Skills:
+
+Absorption
+
+Swordsmanship
+
+Combat Magic [Fire Summoning]
+
+Inspect [Special Grade]
+
+Enemy Detection
+
+Body Hardening[Special Grade]
+
+Self Regeneration
+
+Spacial Magic[Item Storage]
+
+Plunderer
+
+Telekinesis
+
+Appraisal[Special Grade]
+
+Conceal
+
+Dungeon Walker
+
+Intimidation
+
+Items Equipped:
+
+Golden Wolf Ring [+20% Mental Strength]
+
+Cyclops Eye Pendant [+40% Defense]
+
+Dark Elf Boots [+60% Speed]
+
+The Flame Emperor's Sword [Fire Aspect][+85% Strength][+41% Mental Strength]
+
+Buffs:
+
+[+50% Strength]
+
+[Increased Endurance/Alertness]
+
+Debuffs:
+
+[-25% Defense]
+
+_____________________
+
+With a grin, I collapse forward onto the corpse of the demon. A white light appears before the body has time to disappear.
+
+I'm transported back to the dungeon's starting point.
+
+"Jayyyy? Hello?? Can you hear me?"
+
+I open my eyes to see Maria standing over me with a concerned look on her face. It turns into a smile as I sit up.
+
+"You disappeared all of a sudden!! Where'd you even go?? I had to fight the boss all by myself! I was... worried."
+
+She looks down at me.
+
+I sift through my item box to find another HP potion.
+
+"Well, it seems there was another boss in that room. I took care of it.... Barely."
+
+She watches me curiously as I drink my potion and sigh with relief while standing to my feet. There's no point in telling her what happened right now, I'll keep the details to myself.
+
+"Hmmph, I'm glad you're okay Jay. Anyways, I had a fun time beating that boss. It took me only 5 MP potions. I went up a ton of levels too!"
+
+I grin.
+
+"Yeah. I had a good time too, but I'm definitely done for the day... Let's get out of here."
+
+She nods.
+
+We leave the dungeon and start making our way down the mountain. I'm breathing heavily as we walk, my body is really exhausted.
+
+Half an hour later we make it back to the guild. Rei and Jack are both standing around talking with new guild recruits in a training room. We decide to pop in and say hi to report our results in training today.
+
+"We're back!!!"
+
+Maria jumps in the room and I follow close behind. Jack walks over to us.
+
+"How'd it go? Have any good loot for us?"
+
+We emptied our item boxes to dump out a pile of mana crystals and a few weapons onto the floor.
+
+Jack turns around.
+
+"Hey! Come take a look at these Arnold."
+
+One of the new recruits walks over and starts touching the swords. His eyes open wide and he looks up at us through thick-framed glasses.
+
+"These are borderline C-Class swords..."
+
+Jack grins, then looks at Maria and me.
+
+"Good work! I assume that means you two managed to surpass level 250 today? I've already sent out both of your applications either way."
+
+I nod. Maria smiles wide.
+
+"Yep! I'm level 264 now!"
+
+Rei does a double take, then leans in.
+
+"You two didn't fight the boss did you...?"
+
+Maria covered her mouth with her hands and blushes turning to me.
+
+I nod while grinning. I guess it would have come out sooner or later.
+
+"Yeah, we did."
+
+Jack and Rei look at each other, then back at us. They look concerned, but proud at the same time... Rei speaks up.
+
+"Well, as long as you can handle it. I'm impressed. That High Orc Commander is a tough one, that beast is huge. I guess you two don't need me for training anymore!"
+
+Maria nods while I think to myself.
+
+Her words confirmed my suspicions from earlier. My opponent wasn't the regular boss... It was an outsider... but how?
+
+I look up.
+
+"Are there any more dungeons like that around here?"
+
+Jack laughs.
+
+"I'm afraid not. That's our only loophole dungeon. Usually, it takes months to master that one... You two have some scary progress speed. You'll have to wait until you have C Class clearance to dive into any stronger dungeons. Sorry."
+
+"Ahhh, well okay."
+
+I look a the ground and a wave of fatigue hits me as my stomach gurgles. I'm hungry, tired, and need some alone time to think about what happened today....
+
+"In that case... I'll be heading out. See ya."
+
+I turn to leave and Maria speaks up.
+
+"Want to train again tomorrow?"
+
+I nod.
+
+"Sure, you know where to find me."
+
+She chuckles as I wave goodbye to everyone and walk out the door.

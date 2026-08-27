@@ -1,0 +1,231 @@
+---
+id: 834bab40-40a4-5de0-bfb1-200716c11471
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35: Mage's Journal"
+slug: 0035-chapter-35-mage-s-journal
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 35
+ownLength: 2106
+unit: words
+publishedAt: 2026-06-23
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3581113/chapter-35-mages-journal"
+royalRoadId: "3581113"
+---
+
+My father has long passed, and going through his things, I am once again reminded of this project of ours, recording the fall. It seems pointless in a world surrounded by death, and yet I find myself drawn to the small spark of hope that someday, our people will read this and know of our triumphs and our struggles.
+
+100 years after the fall, and an ability has done something beyond passivity.
+
+A level ten monk used Unstoppable Punch, and broke through the armor of a Rine, shattering its skull.
+
+It is monumentous, and yet I wonder if it's too late. Still, our perception abilities don’t work, and magic both external and internal is gone to us.
+
+Will active skills be enough? I hope to come here in another ten years to tell you that it is, but I don’t believe I will live that long. Perhaps my son will be able to continue this work.
+
+I stare at the statues for a long time. The Vishten are busy at work, clearing the forest, preparing to bring their people up, and all I can think about is the blue of her eyes, like the brightest of flowers.
+
+What did I learn?
+
+First, the Angels are capable of speaking with the world now. Second, Sehara is not human. I’d suspected, but it’s hard to deny the confirmation in front of my eyes.
+
+Third, something is coming, and I’m somehow finding the path through it.
+
+Ha.
+
+I sit down on the cold stone, the enchantments on my clothes working hard to keep me warm.
+
+She could’ve been a little bit more specific. Hells, even the message everyone saw was super vague. There’s always danger coming, anyone who lives outside of a stronghold knows that-
+
+I pause, a realization hitting me.
+
+I don’t have to live outside of a stronghold anymore. I could even make a home here if I wanted.
+
+While the initial thought appeals to me, in reality, it’s not what I want. It’s for the same reason I couldn’t be one of Angel Kiri’s reapers. I love exploring, I live for it. My first class chose me well, even if my second class wants to turn me into a tiny hermit, never leaving the library that always rests at the edge of my fingertips.
+
+Shar walks up to me in her cat form, sitting on her haunches in front of me, “Are you alright Leo? You’re distracted.”
+
+I look at the golem, holding her gaze. “Did you see her?”
+
+She tilts her head, “See who?”
+
+I shake my head, “Never mind.”
+
+Shar frowns, her eyes moving to my bag. “What’s that?”
+
+“What?”
+
+“Your bag. There’s magic in it.”
+
+I remember the strange motion that Sehar had made towards my bag, and hurriedly take it off, opening it.
+
+Nothing seems out of place.
+
+Shar pads over to me, and peeks inside. “That book, it’s glowing.”
+
+I look up at her, then look at the book she’s referring to. I reach down and pull it out. It’s a book of hard leather, and as I touch it, I remember pulling it out from under a bookshelf. The pages had been blank, and I’d thrown it into my bag last minute.
+
+I open it, then blink in surprise at the cramped handwriting inside.
+
+Shar steps around my bag to look at the book, and I notice her freeze as she looks at it.
+
+“Do you recognize it?”
+
+Shar nods, “It’s Mage Eridor’s handwriting.”
+
+“Eridor?” The name sounds familiar, but I can’t place it.
+
+She looks away from the book, “The Archmage’s student. They had a falling out a few years before… everything.”
+
+I peer closer, then blink in surprise, “I can read it.”
+
+“Eridor was from the Kaltick Desert.”
+
+I look at her, unsure how this clarifies why I can read it.
+
+She snorts, “You speak Southern Kaltick,”
+
+“Oh. Paladin Akashir mentioned that. I’ve always just called it common.” I look at the book in my hands, “But the pages were blank when I first grabbed it.”
+
+“The magic of the stronghold must’ve revealed them.”
+
+Or Sehara revealed it, but I don’t think that’s something I should say out loud.
+
+I glance at the top of the page, a date a year or two before the destabilization listed up there.
+
+I leave this here for my little sister, Mary. If someone else has found this book, please return it to her, these words are not meant for you.
+
+I pause, some part of me feeling bad that I’m reading something that’s clearly meant for someone else. Unfortunately, I don’t think Mary ever found this book, and it’s about five hundred years too late to give it to her.
+
+First things first, Congratulations! I knew you’d make an excellent mage. I deeply wish I could be there as you start your apprenticeship. Sadly, my duties as a Master Mage and… other things, require me elsewhere.
+
+When you’re ready, I’ve included a way to find me hidden in these pages. Please keep these details to yourself, as the Archmage has made a game of trying to find me, and I’d prefer that he accomplish it on his own.
+
+I’ve also included some of my own insights into magic. I sincerely hope you’ll find these notes useful on your journey.
+
+Finally, I hope you have fun. You’re just entering an amazing world, one that I absolutely adore, so don’t forget to make the most of it.
+
+I love you, and I’ll see you soon.
+
+Your Bestest Brother,
+
+Eridor
+
+“Leo?”
+
+I look up, meeting Keve’s gaze. I put the book away, and stand up. “Hey Keve.”
+
+“Seer Varia wanted to know how long we’d be staying.”
+
+I look up at the sky. It’s too late for us to make any distance towards Onder. “Tomorrow at the soonest. I’m going to head down and see if I can get any more of the golems functioning.”
+
+“Would you like me to accompany you?”
+
+I shake my head, then walk towards the entrance to the ruins. “No thank you.”
+
+He nods, and watches me as I make my way back down.
+
+***
+
+I float down through the hole in the webbed floor, alone with my thoughts as Feather Weight keeps me from falling to my death.
+
+I still haven’t encountered the barrier of the stronghold, which might mean that it’s protection covers the entirety of the Archmage’s Sanctum.
+
+Shar had already flown down, and waits for me at the bottom. I hold my light out, studying the shadows it creates.
+
+Why did Sehara want me to read that diary? I have two theories, one stronger than the other. The first being the help with magic that the book offers, and the second being the place he said he’d gone, hinted at in the book.
+
+Wherever that is, I think that’s where I’m meant to go next.
+
+My feet touch the ground, and I make my way down the long corridor to the blank wall which hides the Archmage’s private study. Shar walks ahead of me in her cat form, disappearing and reappearing from the the shadows until we arrive.
+
+I pull out the blue powder I use, and frown at how low it is. A quarter left in the bottle, maybe.
+
+There goes a large portion of my advance from the last delve.
+
+I pour some out, and blow it onto the wall, then I Deactivate Runes.
+
+It takes some time to finish my additions, at which point the wall disappears to show me a familiar room.
+
+Golems are stacked up against the wall, some hulking, others thin and human-like.
+
+“Which one will be easiest to fix, Shar?”
+
+Shar walks between them, before standing in front of one, this one is more humanoid, with vaguely feminine features. “Array.”
+
+I nod, and walk up to it. I feel awkward positioning the golem off the wall and in the center of the room.
+
+I kneel next to her, and hold my hand up as I gather my mana.
+
+Then I activate my first spell. Mana pools from me, forming hazel runes. Now that I’m paying attention, I notice that the runes are strangely made, small changes creating shapes within the runes themselves, from circles to pentagons.
+
+Wisdom Of An Ancient.
+
+The spell finishes, drawing a sizable chunk of my mana.
+
+“What wisdom do you seek?”
+
+“I would like to fix this golem.”
+
+The voice is gone for a long moment, then an answer reaches me, this one in a deeper voice than the first. “Repair is beyond your ability. Mana quantity too low. Mana precision too low. Mana alignment is too dangerous. Get better at your profession.”
+
+And the spell ends.
+
+I blink, caught off-guard for several seconds. I stare down at the unmoving golem. “Are you sure this one is the easiest to repair?”
+
+Shar pads over to me. “I’m sure.”
+
+I sigh, then stand up from the golem. “I didn’t have trouble with Geode.”
+
+“Geode had an issue similar to mine.” Shar walks over to stare at the sleeping golem. “Obstruction to his mana circuits. Array’s circuits need to be completely remade. That’s true for the others as well.”
+
+“Well, it seems I’ll have to do some more studying first then.” I lean down next to the inert golem, and strain to push her back to where she’d been resting against the wall.
+
+She shifts into place, and I cough as a plume of dust hits me.
+
+“Let’s-” Another cough, “I’m gonna grab the last of the Archmage’s books. Then we’ll head back up.”
+
+Shar nods, and leads the way to the second door. I open it to see it just as I left it.  A good portion of the books were taken on my last trip, but I hadn’t unlocked my Private Library at the time.
+
+I use the last bit of mana I’m comfortable with using to create the portal to the Private Library.
+
+Then I stuff the books into the portal as fast as I can.
+
+Most of them are in languages I can’t read, so there doesn’t seem to be much point in trying to organize them.
+
+Once that’s done, I consider the room, then think about the message I’d gotten just a few hours earlier. As a Lord, I have the ability to claim land, right?
+
+I pull out Eridor’s book from my bag, and get to reading as I wait for my mana to return.
+
+***
+
+I look up from the page, and glance over to where Shar is curled up on the nearby bed. My mana seems to be back to where I want it, so I put a string in the book to mark my spot, then stand up and stretch.
+
+It should just be the same as activating one of my class abilities.
+
+Claim Land.
+
+My mana drains from me, then spreads out in a pulse similar to the one the Cube had made.
+
+Nothing else happens.
+
+I frown, unsure if it worked like I expected it to. There’s no way to check that I can think of. Not that I’m even sure what it’s supposed to do.
+
+I walk out of the room. Even if it doesn’t seem to do anything, I’d like to do the same thing to the hidden room in the Archmage’s dungeon.
+
+Better I have claim to it before someone else does.
+
+Recreating the wall that hides the room goes faster than usual, and I’m starting to better understand some of the runes involved.
+
+Shar walks with me through the dungeon to the strange room, where I once again lay eyes on celestial artifacts I can’t touch.
+
+Claim Land sends out another pulse of mana, draining me to below half. Again, there isn’t any noticeable difference to the space. I’ll just have to hope that it worked.
+
+I take one last look around the room, desperately wanting to look closer at the items on display, protected by barriers I can’t pass.
+
+With a shake of my head, I leave the room, and walk past the pile of bones that was once a great guardian.
+
+Once more, the oppressive feeling of being alone on a delve starts to settle in. I don’t let my mind settle on it, instead focusing on the path ahead.
+
+The corpse of the undead bound by mana-shackles lays on the floor, its skin surprisingly pristine after all of this time. I comfort myself with the fact that there is still a giant hole in its head from where Keve stabbed it through.
+
+I step around it, keeping a careful eye out before continuing back up into Vishten territory.

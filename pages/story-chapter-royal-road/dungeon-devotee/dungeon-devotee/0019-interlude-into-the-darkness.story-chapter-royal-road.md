@@ -1,0 +1,161 @@
+---
+id: fbc9f4b3-4cf9-56b2-97e7-ab156a448729
+page-type-slug: story-chapter-royal-road
+title: "Interlude: Into the Darkness"
+slug: 0019-interlude-into-the-darkness
+partOf: dungeon-devotee
+position: 19
+ownLength: 2557
+unit: words
+ownProgress: 2557
+publishedAt: 2022-12-02
+link: "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1053683/interlude-into-the-darkness"
+royalRoadId: "1053683"
+markedReadAt: "2026-06-29T22:39:41.126Z"
+---
+
+Edmund stepped into a white room.  Its walls stretched no more than twenty feet apart, its ceiling hanging but three above Edmund’s head.  Across it stood the exit, already open, the darkness behind it already beckoning to him.  First, he had to get past the room’s sole occupant.
+
+Liam.
+
+The dungeon’s avatar sat at an ornate wrought iron garden table, a furnishing clearly designed for an outdoor space cluttered with nature.  In the plain, sterile white room, it felt out of place.  A second, bent metal chair sat unoccupied across from Liam.  Edmund didn’t move for it.
+
+Liam looked him up and down and let out a breath.  “Relax.  I come bearing gifts.”
+
+Edmund didn’t so much as twitch, continuing to stare down Liam in domineering silence.
+
+With an over-exaggerated sigh, Liam spoke again.  “You’ll suffer no physical harm in this room.”
+
+Edmund raised an eyebrow.  “Physical harm?”
+
+“Well I can’t very well promise you’ll take no emotional harm,” Liam said.  “There’s no telling what’ll happen inside that head of yours.  But then, emotional harm doesn’t always stay emotional with you, does it?”
+
+“Where are we?” Edmund pushed past Liam’s dig.
+
+“Between floors,” Liam explained.  “Still within the Depths, still bound by the accords, just no longer in a place for death and violence.”
+
+“Everywhere you are is a place for death and violence.”
+
+“That’s an interesting approach from someone who was barking orders at me a few minutes ago.”
+
+“I asked for a monster to fight,” Edmund said, a scowl growing on his face, “something you’re normally all too happy to provide.”
+
+“Oh, and I was,” Liam replied.  “But I figured now that we’re doing favors for each other, it’d be a good time for a chat.”  He said that word, favors, as if in invocation, as if the word carried power unto itself, and its utterance meant something.  Edmund wasn’t sure what.  “So come, sit,” Liam continued, patting a small golden chest that sat atop the garden table.  “I have a present for you.”
+
+Refusing to break eye contact with the dungeon’s projection, Edmund crossed the few paces between them and sat in the vacant chair.  Its angles were sharp and uncomfortable, but in his armor they didn’t bother him.  Without even looking towards the loot chest, he spoke.  “What do you want?”
+
+“First, to give you this,” Liam said, similarly maintaining eye contact as he slid chest across the table.  “I want you to know I’d be well within my rights to withhold this from you.  You left it behind, and the accords dictate no obligation to offer it again.  Technically loot has no owner.  It simply appears when a challenge is overcome and cannot be reclaimed until it leaves the dungeon and returns or none who’ve seen it remain on the floor where it does.”
+
+Edmund’s brow furrowed.  “But you’ve taken it back.”
+
+Liam sat back in his chair, his customary grin spreading across his face.  “The guards and delvers you left behind haven’t managed to open the chest yet.  Turns out in the absence of those who earned it, they’re having a hard time deciding who should get the loot.”
+
+“And it’s in the middle of the ring,” Edmund reasoned, “which means they’re fighting for it.”
+
+“It seems everywhere you humans go is a place for death and violence.”
+
+Edmund wanted nothing more than to knock the cocky smile from Liam’s face as he spat Edmund’s words back at him, but he knew there’d be no retribution here.  Not yet.  “But you swapped out the loot, because you want to give me something, because while loot as a whole technically has no owner, the item in that chest does, doesn’t it?”
+
+“Oh, very good.  You are a clever one.”
+
+“I’m alive, aren’t I?” Edmund asked as he reached his left fist over the table to deposit the piece of red finger armor he’d taken from Fyria’s corpse.  It dissolved into the table as the dungeon reclaimed it.  “The first finger came from a chest, not a corpse.”
+
+“Right again,” Liam acknowledged.  “You see, the distinction between loot you can keep from a chest and loot you can’t from a corpse—which I would call plunder—exists primarily so I can pit delvers against enemies who are better equipped than they are.  That’s the official story.”
+
+“And the unofficial one?”
+
+“I can’t just copy named artifacts all willy nilly,” Liam explained.  “Turns out they’re called that for a reason.  So delvers fight a simulacrum until they’ve proven themselves worthy of owning the real deal.”
+
+“But if you can’t copy them,” Edmund reasoned aloud, rubbing his thumb over the gauntlet piece he still wore, “then giving them away as loot means…”
+
+“That I no longer have them,” Liam said.  “All this to say,” he paused, spinning the chest around to face Edmund and opening it to display its contents, “that you should know the value of what I’m giving you here.”
+
+Edmund barely had a chance to blink before the smoke leapt from the artifact to spell out its name.
+
+Finger of The Crimson Hand
+
+The second of three minor pieces broken away from the Dread Gauntlet of Kor’Ilinesh and meted out as rewards by the Elven Queen Cyritha.  Belongs to Edmund Montgomery Ahab.  Provides major protection against all damage types.  Can be used to drain the life force from a target in direct contact to power the Blood Bolt spell.
+
+Edmund waved a hand through the air to dispel the smoke, happy with the description it’d displayed.  The parts about the elven queen and its defensive capabilities were unchanged from the first piece he’d found, but its use for life force it drained differed.  He thought back to the spell Fyria had cast, to the guard it’d slain in a single hit.  It was a powerful ability, likely more powerful than any of Edmund’s spells.  He wondered if Focus would double its damage too.
+
+Edmund slipped his prize over his ring finger, where it sat comfortably next to its twin.  He didn’t say thanks.
+
+“You’re welcome,” Liam said anyway.  “I figured you deserved some sort of reward after that show you put on with your princess.”
+
+“She’s not my princess,” Edmund snapped.
+
+“Oh, yes she is.  You kidnapped her, remember?  That’s what the guards will say anyway.  And that’s not to mention the… other way you’ve made her yours.”
+
+Edmund stilled.  He knew.  Of course he knew.  He’d probably arranged the whole thing.
+
+Liam chuckled.  “What I would give to watch the king’s face when they tell him who’s fucking his daughter.”
+
+Edmund batted the empty loot chest aside.  It tumbled from the table and crashed to the floor, one of its hinges breaking off from the force of the collision.  A moment passed.  The air quieted.  Liam grinned victoriously.
+
+“Now, the king doesn’t know what I know.”  Liam leaned in.  “He doesn’t know that this was Amelia’s idea, coming here, evading the guards, sleeping with you.  Even if he did know, he’d refuse to believe it, refuse to admit how far his daughter has strayed, how so much like her mother she’d become.”
+
+Edmund looked up from his fury to meet Liam’s gaze.
+
+“Oh, you didn’t know,” Liam continued.  “Even better.  You see, King Luther married outside his station, for love of some adventurer who’d earned her fortune looting the Eternal Depths.  She stayed with him long enough to bear two children, but the siren call of adventure doesn’t let go so easily.  She was seen on the fiftieth floor shortly before her title passed to your princess.”
+
+“Which is why Amelia wants to get there,” Edmund breathed.  “To prove she’s just as good.”
+
+“Or better,” Liam said with a tilt of his head.  “But I’m not here to talk about princesses.  I’m here to talk about you.  I assume you know what this all means.”
+
+“Until Amelia returns to the surface—and probably also after—I’m a fugitive from the crown.”
+
+“Not that that matters a great deal, of course.  It’ll make the hub floors more interesting, but they can only reach so far into the Depths.  I’d recommend you lay low for a while before going back up, but I think we both know you have no intention of making it back to the surface.”
+
+Edmund stilled.
+
+Liam continued.  “You’re uncertain now because this princess has given you something else to hope for, but allow me to be very clear.  There will come a time when you will have to decide between your hatred of me and your desire for her, and we both know which you’ll choose.  Step into the darkness enough times, and you forget what it means to walk in the light.  You may think your princess will remind you, but she’s down here too, walking through the same shadows you are.”
+
+Edmund met his taunting gaze with one of tired anger.  “You don’t know me, Liam.  You act as if you do, as if we’re friends, as if I care what you think.  I’ve learned to pay my enemies their due, but don’t mistake my respect for friendship.”
+
+“But I do know you, Edmund.  I made you.  It was your own strength that let you survive the crucible, but never forget whose flames lit the forge.  We’re all an amalgamation of the challenges we’ve overcome.  Imagine the power in the hands of the one who sets those challenges.”
+
+Edmund grit his teeth.  “I have flames of my own.  Flames of anger, flames of vengeance, flames of righteousness.  I’ve survived your crucible so far, but by the gods, devils, and icons, by Thrax himself, you will be burned.”
+
+“Flames of your own,” Liam said with an amused breath.  “Of course.  How could I forget the classic phrase?”  His grin widened to that of a predator.  His head tilted down and his eyes up to maintain his gaze.  His voice lowered, and he spoke the words as if they were a threat.  “Where there’s smoke…”
+
+Edmund stood.
+
+“Leaving so soon?”  Liam sat back in his chair and crossed his legs.  “I haven’t even had a chance to ask my question.”
+
+“Then ask,” Edmund growled, unmoving.
+
+“Why here?  Why me?  What is it I’ve done that’s angered you enough to throw your life at me like this?”
+
+Edmund leaned forward, pressing both palms onto the table.  “Do you have any idea what it’s like up there?  Of course you do.  It’s two hundred people every day waiting in line for their chance to die.  It’s mothers, fathers, daughters, sons, people the world will miss.  They’re up there right now, waiting patiently for their turn to be slaughtered, eager for the opportunity to win something for themselves rather than face their own empty bellies for another day, rather than face their children’s empty bellies for another day.  They know they don’t stand a chance.  They know their odds of survival aren’t high, but they march to their deaths anyway, because someone, somewhere along the line, convinced them the risk was worth it.”
+
+Liam paused and blinked and looked up at Edmund with a blank expression.  “Come now.  You’re not here for some peasants you’ve never met.  So tell me which of your friends was worth throwing your life away, because I’d know if it was family.  All it took was a drop of blood to know you’re not here for some dead relative.”
+
+Edmund bit his tongue.  He didn’t know.  How didn’t he know?  Liam knew everything.  Edmund considered telling him, revealing just what the Depths had taken from him, but he stopped short before he could part his lips.  It seemed like a trifle, but every gap in Liam’s knowledge was a weapon to be wielded.  For now, the dungeon would have to make do without knowing Edmund’s true motivations.
+
+A moment’s silence passed before Liam sighed and continued speaking.  “I offer them a deal, nothing more, nothing less.  If I recall, you keep a copy of the terms of that deal in your satchel there.”
+
+“You offer a deal to the Amelias of the world, to the Durnes, to the Dragon’s Claws, to the people with the resources and experience to face your challenges head on.  To the rest of us there’s only false hope and death.”
+
+“And yet here you are.”
+
+“Here I am,” Edmund snarled, “because someone has to stop you, and it sure as hells isn’t gonna be someone who came here to get rich.”
+
+“No wonder I’ve lived all these years.”  Liam smirked.  “I offer three things to those who step past my threshold: wealth, power, and death.  There isn’t a single person down here who isn’t after one of those three things.  As you’ve proven time and again, you aren’t here for wealth or power.”
+
+“We’re all here for death, Liam.  Some of us just haven’t realized it yet.”  Edmund shook his head.  “You said it best yourself.  Step into the darkness enough, and you forget how to walk in the light.  That’s what’s eternal about this place.  There’s always another floor, another challenge, another promise of wealth with a knife hidden behind it.  I keep asking myself, does it matter that these people got to hold a few shiny things for a bit before you killed them too?  The answer doesn’t change.”
+
+Edmund stood upright and grabbed his spear from where he’d leaned it.  “You’re right that I don’t expect to ever leave this place.  That’s not the problem.  The problem is that every single one of those drunken idiots in that tavern of yours do.  The problem is that hundreds of innocent people walk willingly to their deaths every day because they think they have a chance.  But they don’t.  I don’t.  Nobody does.  Even if they make it out, they all come back eventually.  They all feed the Depths.”
+
+Without stirring an inch from his seat, Liam looked up into Edmund’s eyes.  “Yes,” he said simply.  “They do.”
+
+“Maybe I will too,” Edmund replied.  “And maybe I won’t.  Maybe by the time I die there’ll be no Eternal Depths left to feast on my soul.  Who can say?  One thing’s certain, though.  You’re gonna know what it’s like.  You’re gonna know, Liam.  You’re gonna know.  You’re gonna know what those people go through every day for you.  You’re gonna know what it means to look death in the face with uncertainty.  Most of all you’ll know fear.  You’ll understand what happens in the seconds between the blade and the final breath.  Even if I can’t kill you myself, I’m gonna make you know what it is in which you deal.”
+
+Liam raised an eyebrow at him.  “Remind me, the next time we chat, to tell you what happened to the paragon of Death.  I think you’ll find the story interesting.”
+
+“I have nothing more to say to you,” Edmund said, stepping past the table to approach the exit.  “Go murder some more starving peasants.  I have work to do.”  He moved to leave, but Liam’s voice reached him before he could make the final step.
+
+“I didn’t starve those people, Edmund.”
+
+“No,” Edmund muttered without turning away from the exit.  “You only killed them.”
+
+He didn’t give Liam a chance to reply.  He didn’t pause, he didn’t falter, he didn’t breathe.  He simply said what he had to say and stepped into the darkness.

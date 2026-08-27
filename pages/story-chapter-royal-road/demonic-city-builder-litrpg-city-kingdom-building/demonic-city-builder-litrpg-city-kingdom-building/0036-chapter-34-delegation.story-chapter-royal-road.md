@@ -1,0 +1,277 @@
+---
+id: 9f7211d7-d601-5069-93dc-901473546d6f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34 - Delegation"
+slug: 0036-chapter-34-delegation
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 36
+ownLength: 2395
+unit: words
+publishedAt: 2026-06-23
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3577906/chapter-34-delegation"
+royalRoadId: "3577906"
+---
+
+Shiny stared after the new spawn.
+
+Today’s brood imp was assigned under Bean, rounding the farming squad out to five. He would ask him how his new worker did later. Bean was a good worker, but master said to check in.
+
+“Delegation…” muttered Shiny. The word tasted odd in his mouth. Like the dried jerky that was cooked too long. His master had explained this concept, and Shiny was starting to understand. He couldn’t watch the wood crew and the farm. Bean could watch the farm, and Shiny could watch Bean.
+
+“What that?” asked Clod, hearing the word.
+
+“FOOD!” chimed in Sing.
+
+“Yes! Tasty?”
+
+The other imps looked at him expectantly.
+
+“No. Forget it. By way. Any you notice? New one small,” Shiny remarked to his brethren.
+
+“You small!” squealed Sing.
+
+There were several tiny squeaks of laughter at that. It was a well-known fact that Shiny was a runt. The smallest of all the workers.
+
+Yet, as he saw more than one brood widen their eyes in horror at the jest, he consoled himself. The smallest, but the scariest.
+
+The little imp sighed. He loved his fellow brood imps. But they weren’t smart. Not like him or master.
+
+“He as small. Like me. Not normal,” explained Shiny, waving his claws in emphasis. The six other members of his wood squad shuffled in confusion. Shaking his head, he gave up. They’d never make the connection.
+
+It stood out to Shiny, though. The new imp was different. He had a black splotch on one claw, and he was almost as small as Shiny. He would ask Bean about that too.
+
+No. Add to agenda, he corrected himself. Master used that word too. Agenda.
+
+“Let's go! Ritual done.”
+
+Morning work had been postponed for the creation of the second spawning grounds. A fresh new circle of stones now stood in the brood district. Master said that their economic development had doubled with two brood imps spawning per day. Two! Shiny was thrilled, to say the least. More brood was always good.
+
+The same couldn’t be said for Vorathrex or Sythara. But who cared? Not Shiny.
+
+Leading the way, he marched through the city proper. His procession passed through the Wrath district, where more than twenty warriors trained.
+
+Jeers and grunts were exchanged from his brood to the wrath, but Shiny was having none of it. Not during work hours.
+
+“Eyes forward!” he ordered. “We work! Play later!” Clod, Sing, and the other broods huffed. But, they knew to listen. One night of missing meal time had been a strong lesson for those who didn’t.
+
+From the corner of his vision, Shiny caught Vorathrex watching. His hard frown split ever so slightly at the shout, a mildly impressed smile taking its place.
+
+Shiny waved.
+
+The smile went away.
+
+In the rear of the wrath district, one figure stood out. Mostly because they were refusing to even look their way. They, unlike the rest of the warriors, were spending training time without a partner. The stocky imp instead was doing a series of stretches. Each one made him gasp, gingerly rubbing clawed hands on bruised flesh.
+
+That made sense. Dueling was hard when you could hardly walk, after all. That was okay, though. Discipline was important. And, from what Shiny could tell, the night in the hole made the warrior better off!
+
+Marching through the rest of the city, they quickly exited the South gate and made for the trees. Master required wood. And Shiny would get it.
+
+***
+
+“This good?” inquired Bean.
+
+Around, various sticks sprouted from the ashroot plot. They’d spent yesterday carefully measuring and demarcating out four sections.
+
+To farm them, all the leftover skins, furs, and canteens from the dead soldiers were now being used as makeshift water carriers.
+
+Two sections had been watered the prior day, the others left dry. Similarly, half were left covered, the others left bare to the sun.
+
+Kairon was very curious about what would happen. In five days, he should have his answer.
+
+I should double check exactly how long. Shiny will need to plan for storing the ashroot.
+
+“That’ll put it right at about noon, which—” he stopped.
+
+It changed?!
+
+Kairon checked again. The same.
+
+I’m certain last night it was still 300. I assumed that meant the figure would be stagnant until harvest. But clearly I was incorrect.
+
+Kairon’s mind spun furiously. “So the estimated yield does change. And now our root yield was nearly cut in half,” he mused aloud.
+
+“Oh no!” said Bean, overhearing his master. “Less food!” The little gremlin’s brow furrowed in worry.
+
+The demon grinned. “No, no. This is good. Very good.”
+
+“How? Less food. Bad!” Bean argued.
+
+“Food!” cried another imp.
+
+“HUNGRY!” echoed another.
+
+“What we do?!”
+
+“Calm down, calm down. You are all correct that we do want the highest possible yield. But, do you remember what I said yesterday?” he asked.
+
+There were several moments of silence. And, to Kairon’s delight, one imp began to catch on.
+
+“Experiment,” replied Bean.
+
+“Precisely! Experiment. This is a learning process. We change variables, and evaluate if they increase or decrease our output. And, we’ve just found out that our system gives us a daily prediction of what that output may be.”
+
+“So… Why matter?” asked Bean. “Won’t mix?”
+
+“Bean. That’s a very good point. The mixed variables are now working against us. However, I have an easy solution. To hell with yesterday’s plan. We pivot!”
+
+“Pivot?”
+
+“Today, you will water all plots. In fact, remove those sticks. They’re no longer needed. We are going to treat this as one big piece of farm land again, and then each day alter a single major variable. By the end of the week, our farm will be fully optimal! We can test water, sunlight, and food. All in three days.”
+
+“Woah,” breathed Bean.
+
+Kairon held up one claw. “But here’s the important part. Everything else must remain the same. So remember those purple weed sprouts you found this morning?”
+
+“Yes.”
+
+“Do not touch them.”
+
+“But… you said bad.”
+
+“I did. But they were also there yesterday. True, it may compound, but I think leaving them for now is the best course of action.”
+
+“Why?”
+
+Some might balk at the questions. But Kairon? He reveled in it. It showed his workers were both engaged and thinking. Well, at least Bean was.
+
+“For us to accurately measure what’s actually causing the change in yield, everything else must remain the same. Else, we could come to the wrong conclusions.”
+
+“Ah!”
+
+Kairon peered down at the plot, once again inspecting the wilting purple weeds that had grown yesterday. The sickly things had tiny thorns, and some digging had revealed they were tangling in the ashroot. Clearly an invasive demonic plant species.
+
+He wasn’t certain if the growths were caused by his domain, or if they naturally accompanied corrupted demonic farmland. Kairon’s current theory was that corruption encouraged them, but some of what lay beneath the soil mattered most.
+
+“From now on, I’m going to leave the farming in your hands. I’ll provide my directions to Shiny on what variables I want changed. If you run into any issues or have any ideas, let him know. Got it?”
+
+“Yes! Experiment!”
+
+***
+
+As Kairon limped into the tower, he paused.
+
+“Sythara?” he called.
+
+A tent flap lifted, and she strode out. “Greetings, child! I’m so glad you came. I was just about to send for you. In order to continue, I require fresh materials to be requisitioned."
+
+The demon, however, was still staring at the green canvas setup in the back of the chamber. “What is that?”
+
+“Blood, purified water, essence, bone dust… or bone if you can’t find that, and as much gold as you’re willing to spend on your favorite human,” she listed.
+
+“No, not. Gold? Okay, we’ll circle back to that. I meant, what is that,” he clarified, claw pointing at the makeshift construction.
+
+“Oh this? I just had a few of the little ones bring some sticks and cloth. It's a privacy ward. To help maintain the condition of the subject.”
+
+“Veron?” called Kairon, stepping forward. “Are you alright?” Lifting the tent flap, he saw the hunter lounging against a bundled cloak. Around him, wood shavings were strewn about.
+
+“Yes,” he grunted. “Runnin out of sticks to carve.” As he watched, the hunter ran a dagger up and down a thin rod, shaping it.
+
+Seems happy enough.
+
+Kairon closed the flap and looked to the demoness, voice lowering. “Will he live?”
+
+“That depends. Can you give me those ingredients?”
+
+Cocking his head, Kairon thought. “The gold… will need to wait. But, I can give you the two essence. However, it will come from the two I promised you in return for saving him.”
+
+She was about to object, but the city lord shook his head. “No. I’ll hear none of it. You seem very invested in this process. It seems only fair you show it. The rest, though… Those I should be able to wrangle up. Will animal blood work?”
+
+“Sapient creatures have better organs and blood. But, if you must, common animal blood should be fine.”
+
+“Good, good. And the bone won’t be powdered. But I know we have plenty of charred ones leftover.”
+
+As he retrieved the two purple marbles of essence from the vault, the pulsing demonic script snagged his attention.
+
+It was blinking before? Right?
+
+Handing the essence over, he didn’t even stop to see the greedy look in Sythara’s eyes before limping back to the vault.
+
+The scripture on it was glowing. And not a single shape was blinking.
+
+Well that’s new. Why would you suddenly stop blinking… Then, Kairon had another thought. He’d been so busy with proceedings that he honestly wasn’t sure when the vault stopped blinking.
+
+Uh oh.
+
+He pressed one claw against the vault, poking at the illuminated shapes. Then, as if waiting for his touch, a glowing parchment appeared. It fluttered, floating downwards, before landing gently on top of the vault.
+
+“Oh! Just what do we have here..?”
+
+It appeared in the same fashion as Sythara’s pact. Kairon picked it up and began to read. This one was very short. Extremely, in fact. It only had a single line of visible text.
+
+As he watched, the countdown actually continued going down in real time on the paper.
+
+Some kind of magi-script?
+
+Regardless, that single line of text was it. There was no additional explanation, no pictures, nothing. Kairon frowned. This doesn’t seem right. If this is my true notice of being audited by the Demonic Plane, there should be more information.
+
+He’d assumed there would be some way to investigate and discern exactly what his city would be checked for. How else could he ensure compliance?
+
+Hmm. Perhaps the demonic plane doesn’t want me to be compliant.
+
+There would likely be penalties and worse to come of it. For him and his city.
+
+But that didn't seem… legal. Strictly speaking, Kairon didn’t know what law was actually like in the demonic plane. Yet, he knew that there had to be something in place. The pacts, his adjudications, the restitution. It all led him to believe the plane had its own form of bureaucracy. And with bureaucracy came layers. Legality included.
+
+So it should exist.
+
+If I was a lawyer, and I was required to provide something but didn’t want the applicant to know, what would I do…
+
+He pondered that.
+
+The sun’s always been odd. Perhaps…
+
+Kairon limped slowly to the entry of the tower. He didn’t bother with his walking stick. Then, ever so carefully, he held the glowing paper into the sunlight.
+
+The demon had expected some kind of reaction. Ideally, invisible ink or a secret script to be brought to light. Instead, the corner of the parchment began to burn.
+
+Shrieking, he hobbled back inside. He waved the paper back and forth, blue smoke wafting into the air before dissipating.
+
+“Not good, not good, not good.”
+
+By the time he managed to get the flame out, the top right corner was singed clean off.
+
+That was stupid.
+
+The more he thought about it, the dumber it seemed. Of course they wouldn’t require sunlight to reveal anything. Not all realms have suns. And, even if they do, many species are nocturnal.
+
+Cursing himself, Kairon took several breaths to calm down. He made certain to stand on the opposite side of the chamber next to the gemstone. Safely distant from the faintest hint of the golden rays flowing into the tower from outside.
+
+Think. Think… I shouldn’t be considering what a typical lawyer would do. I need to consider what a demon would do.
+
+He cocked his head, bit his lip, and reconsidered the problem.
+
+Demons are sly, volatile, and conniving. They play games, have hidden agendas, and mask their motivations. With that in mind, it didn’t take him long to have his answer.
+
+A demon would hide it in plain sight. Somewhere technically compliant, but practically invisible.
+
+But he’d already ruled out invisible ink. Which left…
+
+He held the parchment up, eyes roving past that one single line of text. Kairon flipped the page over.
+
+Careful eyes traced every inch.
+
+Nothing.
+
+Huh. I half expected that to be it.
+
+Frowning, he turned the paper back to the front and—
+
+Oh. You clever monster. You wouldn’t. You absolute…
+
+He ran one claw along the edge. There. So faint he could barely feel it. A ridge. The barest hint of one, but a ridge nonetheless.
+
+Kairon turned it sideways, angling it right against the gemstone’s light. And there, just visible along the bottom margin, so small that even his demonic eyes had to squint, was a string of text.
+
+He flipped the parchment again. Still blank.
+
+Of course it's blank. Because in demonic law, ‘overleaf’ probably doesn’t mean the back of the page.
+
+The demon thought for a moment. Then, feeling certain he was right, he set one razor-sharp claw against the edge and peeled.
+
+The single page became two. Then five. Then twenty. Each layer had been pressed so tightly together they appeared as one sheet.
+
+By the time he’d finished separating them, over a hundred pages of demonic regulatory code lay spread across the tower floor, each filled from top to bottom with flowing text.
+
+Kairon’s mouth split into a fang-filled grin.
+
+There you are.

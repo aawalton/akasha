@@ -1,0 +1,243 @@
+---
+id: b104051e-04d7-56e3-b5d1-18dc826fd414
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29"
+slug: 0029-chapter-29
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 29
+ownLength: 1707
+unit: words
+ownProgress: 1707
+publishedAt: 2023-02-15
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1114554/chapter-29"
+royalRoadId: "1114554"
+markedReadAt: "2026-06-29T20:32:47.808Z"
+---
+
+The giant one eyed monster came charging towards me with speed comparable to my own.
+
+I was not prepared to trade blows with this cyclops just yet. I need to scope out its full abilities before doing anything too rash.
+
+I activated my inspect skill and prepared to dodge the incoming behemoth. The light blue text appeared over its head in the distance.
+
+[Lv. 129]
+
+Pretty similar to my own level. That's good.
+
+The rushing stream was to my left and a slight incline leading up the side of the valley was on my right.
+
+I put my sword out in front of me and rushed towards the monster with no intention of actually making contact with it this time around.
+
+We both sprinted towards each other getting closer and closer. Once we were less than 10m apart I could smell a foul scent, this beast smelled worse than any monster I'd ever encountered.
+
+I instantly lunged to the right and ran up the side of the valley to avoid the monster's attack.
+
+"RRRRUUUUAAAA!"
+
+The cyclops kept running forward in a perfect straight line. It swung its club at me, but I was already well outside of its range. I'm mumbled to myself.
+
+"Interesting."
+
+I grinned and ran back towards the water and flatter ground. The cyclops turned to me and locked its eye on me again. We both charged towards each other.
+
+At the last second I dodged it again running up the mountain as the giant club narrowly missed me. The monster kept running forward in a perfect straight line.
+
+It looks like this monster has equal, if not greater speed than me... but it can't change directions very quickly.
+
+That's one up side. I'll possibly be able to use my agility to outsmart this beast.
+
+The big problem is the monster's club. Even when I dodged, the cyclops' timing was basically perfect. One second earlier and I would have been hit. It definitely has good intuition, and is VERY strong. That club is over 2m long and looks like it's make out of a very heavy metal. It can swing it with ease like a baseball bat.
+
+Let's see how this beast likes flames.
+
+I ran back down to flat ground and ignited into a fire ball as we both began our charge. The cyclops didn't seem to hesitate at all. It was the same result. I had to dodge at the last minute to avoid the trajectory of its club. That weapon is a great offensive tool, but it doubles as a defensive shield.
+
+This is going to be tougher than I thought.
+
+I decided to change up my strategy. I charged towards the monster from up above it on the valley's incline. I fully engulfed my body in flames I jumped in the air with my sword in full swing launching an attack. The cyclops countered with a swing of its club.
+
+"CLANGGGGGGG"
+
+Sparks fly and flames shoot from our clash of metal. At first it felt like an even exchange, but I was so wrong.
+
+The monster followed through with its charged and pushed me forward carrying me uphill with ease.
+
+"RUUUUUAAAAAAA!"
+
+It roared as I was thrown forward. I hit the rocky ground and looked up to see the monsters massive legs charging towards me.
+
+With every fast twitch muscle fiber in my body I managed to jump and spin out of the way as the beast cracked the ground as it rumbled past my head less than a meter away.
+
+I spit out a mouthful of dirt and got to my feet. In this moment of adrenaline induced clarity I saw an opening. I was right behind the cyclops as it was trying to turn around.
+
+I pictured every encounter we had so far. The battle highlights flashed before my eyes.
+
+There's a fraction of a second that the monster has to stop moving and adjust its positioning before charging again. This is my only chance.
+
+I erupted into flames.
+
+As the cyclops turned I focused all the fire magic into my blade and went for an all or nothing attack.
+
+"Shinnnnngggg"
+
+"RAAAAAAAUUUUUUAAAA!"
+
+I made a huge firey slash across the monsters back. It cried out in pain.
+
+The monster was hurt, but our battle was far from over. The cyclops snarled and charged back at me with its club raised.
+
+I waited and stared at the enormous creature bellowing towards me. It swung its massive club with a loud roar.
+
+In that same moment I shifted my stance and aligned myself perfectly for a counterattack. I swung my blade at the club hoping to use it as a bounce pad.
+
+I used the incoming club's momentum to throw myself to the ground. I let the monster hit me while strategically angling my sword to position my fall away from the monster's heavy feet.
+
+"CLANGGGG"
+
+Sparks flew and I was thrown to the ground as the cyclops stomped on by. I immediately erupted into flames and lunged towards the wide open backside of the monster.
+
+"Shingggggg"
+
+"RUUUUUUAAAAA!"
+
+I landed another hit. There was a fiery "X" on the monster's back. It was bleeding heavily, and the magic fire residue was burning bright. Jack had told me these Cyclops have a minor weakness to fire, maybe the leftover magic was doing some significant extra damage.
+
+After a series of pain filled cries the cyclops faced me with a murderous glare. It charged forward grunting and dripping blood. Its speed had changed, this charge was definitely slower than the last.
+
+I went for the same movement. I let the monster smack me to the ground while blocking most of the attack with my blade. The beast fell for it a 3rd time.
+
+Without hesitation I concentrated all my flames into the top of my blade and sprinted towards the monsters back. I yelled as I jumped through the air.
+
+"THIS IS THE END FOR YOU!"
+
+I stabbed the cyclops deep in the back of the head. It let out a cry of agony.
+
+"RUUUUUAAAAAAA!"
+
+I held on on tight releasing as much fire magic as I could into the creature. It struggled and cried but quickly came to its end. This was a very effective attack.
+
+With a final burst of flames the cyclops fell to its knees.
+
+"THUDDD."
+
+It dropped its club and fell to the rocky ground moments later.
+
+I gripped my sword and pointed it to the sky smiling and admiring my work.
+
+It felt great to defeat a new monster by myself without any higher level instructors or guides around.
+
+This is how I'll really get stronger.
+
+[Level Up][Level Up]
+
+____________________Name: Jay Soju
+
+Level: 128
+
+Hp: 390/645
+
+Mp: 185/645
+
+Strength: 309 [+50]
+
+Speed: 366
+
+Agility: 382
+
+Defense: 278
+
+Mental Strength: 309 [+62]
+
+Skills:
+
+AbsorptionSwordsmanshipCombat Magic [Fire Summoning]Inspect [Special Grade]Enemy Detection
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]Golden Wolf Ring [+20% Mental Strength]
+
+_____________________
+
+I stood next to the monster's corpse for a few minutes catching my breath and listened to the water move in the valley below.
+
+The air was still very thick. Maybe even thicker than when I entered this dungeon.
+
+Moments later the cyclops completely disappeared and dropped a large mana crystal. I tossed it up and down in my left hand before placing it in the item box.
+
+I walked back down to the flowing water and washed my face and arms in the stream. I was covered in small scratches and dirt after that fight, it got pretty brutal.
+
+I drank a potion that restored my MP back to full. I stretched my arms and pulled my sword out as I ventured off following the steady water source deeper into the dungeon.
+
+After about 10 minutes I could definitely sense a change in the air. It wasn't my imagination at all, something was definitely off here.
+
+As I kept following the river more carefully through the winding canyon another cyclops appeared. It used all the same tricks. I was much more accustomed to fighting it's kind now and defeated it in a very similar manor. I landed 3 attacks to its back while letting it land non-fatal blows on me for better positioning.
+
+I leveled up 1 more time. After the battle I drank an HP potion to restore it back to full.
+
+[Status Open]
+
+____________________Name: Jay Soju
+
+Level: 129
+
+Hp: 650/650
+
+Mp: 380/650
+
+Strength: 311 [+50]
+
+Speed: 369
+
+Agility: 385
+
+Defense: 280
+
+Mental Strength: 311 [+62]
+
+Skills:
+
+AbsorptionSwordsmanshipCombat Magic [Fire Summoning]Inspect [Special Grade]Enemy Detection
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]Golden Wolf Ring [+20% Mental Strength]
+
+_____________________
+
+I was feeling pretty good. I have 4 MP and 3 HP potions left for today, I'll be able to farm exp for a long time.
+
+I let the monster disappear and collected its mana. I kept walking further into the dungeon.
+
+The air was even thicker now. It felt like something was watching me through it. Again, it didn't affect my breathing but didn't feel right at all.
+
+My training for today just started, I didn't feel like overthinking it. This might just be normal for D Class Dungeons. I pushed it to the back of my mind and trekked forward.
+
+Another 10 minutes or so went by. I was walking along the river's edge when I heard massive footsteps.
+
+"THUDDDDD"
+
+"THUDDDDD"
+
+"THUDDDDD"
+
+"RUUUUUUUUAAAAAARRRRR!"
+
+I turned a corner to see an enormous creature about 100m from me charging with its club raised.
+
+It was definitely a cyclops... but was very different than the two I'd just faced. It stood almost 8m tall and had a pinkish red tint to its skin. It's club was much larger as well.
+
+I stared the monster down and readied my sword.
+
+I used inspect to see what I was dealing with and my eyes went wide.
+
+[Lv. 144]
+
+This is definitely a mutant. It's not the boss, it's a random mutant appearing out in the open. I've never see anything like this. This must be what Jack was warning me about this morning.
+
+"RUUUUAAAAAA!!!"
+
+The beast continued its charge with full killing intent. It looked much faster and stronger than me.
+
+I gulped and gripped my sword even tighter.
+
+This will be my strongest opponent yet.

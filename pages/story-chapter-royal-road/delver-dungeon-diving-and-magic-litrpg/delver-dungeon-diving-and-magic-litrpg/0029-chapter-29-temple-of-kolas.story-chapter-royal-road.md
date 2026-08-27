@@ -1,0 +1,199 @@
+---
+id: 04418db6-6a1e-5bbd-8cea-51fe13db4238
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29: Temple Of Kolas"
+slug: 0029-chapter-29-temple-of-kolas
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 29
+ownLength: 2166
+unit: words
+publishedAt: 2026-06-16
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3549034/chapter-29-temple-of-kolas"
+royalRoadId: "3549034"
+---
+
+The first ascendent spell-circle is the start of your journey in becoming a true mage. Simple, yet affective, it is a simple two layer circle with equidistant runes. These runes are placed following the linguistic structure outlined in the Karzian principle. Transformation or stillness into identity, and finalized by desire.
+
+A simple fireball is a prime example. Transformation (as fire always requires), into fire, and finalized by the modification of the projectile symbol. The circle gives these runes boundaries they must follow, creating an apprentice’s first fireball.
+
+Weak, yet effective.
+
+The second ascendent spell-circle is far more complicated. The mark of a Novice
+
+I look at the map created by my skill, turning us towards the doorway, and start walking.
+
+I pay careful attention to our position while Shar scouts ahead, making sure we’re avoiding as many undead hotspots as we can.
+
+Soon enough I find it.
+
+It’s a simple church, a mirror of the one in the frontier city, except this one has its windows shattered, its towers felled, and greenery growing through the ancient stone. My Find Ruins skill had told me that there was more to the place beneath the surface.
+
+I look at the sky, and frown. There’s only an hour or so of sunlight left, and we need to set up camp.
+
+I take one last look at the ruined church, then turn away and lead Keve towards a clearing I’d spotted about fifteen minutes away from the temple.
+
+I set up the angel statue under an ancient oak tree.
+
+Keve gathers wood and gets our fire started. Shar keeps an eye out for Keve as he gathers wood. I’m safe enough in the barrier.
+
+I pat Jasper on the nose, and hand him a large branch which he happily chews down on, then pull the tent off of his back.
+
+Keve returns, a rabbit in his hands, and we get started on our dinner. While he cuts and prepares the rabbit, I pull out the small wooden bird figurine he’d given me.
+
+I think I’m starting to understand how to work with mana circuitry, and the more I learn, the more grateful I am for the one profession ability I’ve earned so far.
+
+Inscribe Mana Circuits.
+
+The end of my finger glows as I trace it along the edge of the figurine. Where I touch, hazel lines are left, forming into something semi-solid, like a thick, dried ink.
+
+The books tell me that this creation process would normally be far more complicated, with the solidification of mana circuits taking years to master, and special tools being needed to help the process.
+
+I twist the figurine, following the basic pattern that I’d memorized from one of the books. I’m not sure how long I lose myself to the inscription, but it’s fully dark by the time I look up, and there’s a plate of charred meat and potatoes cooling on the ground in front of me.
+
+A wing moves, then the other one. The wooden figurine attempts to fly, then falls to the ground, and stumbles.
+
+Right, I still haven’t learned the circuits needed for something to fly, although I’ve seen mention of it.
+
+The wooden bird turns its head, and meets the blue eyes of Cat-Shar.
+
+The bird stumbles backwards.
+
+“Well done, Leo. You’ve made your first Automaton.”
+
+“I thought you were called golems.”
+
+“I am a golem.” Shar pads around the wooden bird, as it hops around on its feet, “I am alive. This is an automaton, it only follows the rules you’ve inscribed into it, and has no soul.”
+
+I look at the tiny wooden figurine, then shake my head and grab the plate of meat Keve had prepared.
+
+The Vishten warrior is watching the wooden bird with a small smile.
+
+I take a bite of the rabbit meat, and close my eyes in happiness. Keve had gotten some of the spices from our supplies, and seasoned it to perfection.
+
+I enjoy the food until the little wooden bird stops moving, the mana exhausted from its circuits. It’s not self-sufficient like Shar.
+
+I pull a book from the private library, and hold up one of the light stones. Keve stands and begins his evening practice, while I read.
+
+I stay up far too late reading.
+
+***
+
+The gates hang wide open, rusted and overgrown with brown vines.
+
+I walk through them, Keve a step behind me and Shar flying above us.
+
+The temple itself is mostly standing, the architecture having lasted surprisingly well for being abandoned so long. Architecture from before the mana disturbance was robust, even without the assistance of Angels.
+
+One of the walls is partially collapsed, and half of the roof is gone off the main building. We walk into the building, and I pull my mana detector out. The left half of the temple is covered in snow, while the right is shielded by the half of the roof still standing.
+
+It’s rare for temples to be trapped, especially in the upper levels. No, it’s underneath where we’re going to have to be careful.
+
+A statue stands half destroyed in the back of the temple. Time has weathered away many of its features, but I recognize the likeness of Angel Kolas. Two long daggers are at his waist, a quiver on his back, a book in one hand, a cube in the other. The runes that covered his arms are mostly gone, but looking closely, I can still see a few.
+
+I step closer to the statue, grateful for the other temple delve I’d made with my mentor.
+
+I’m hoping that the stairs down will be in the same spot.
+
+I place my hand against the daggers at the statue's waist, and my mana detector starts to vibrate. I grunt as I put force into it, and one of the daggers turns.
+
+A mechanism echoes out, and the stone at our feet rises ever so slightly.
+
+Thank the Angels. Last time we had to get an Earth Mage to break open the door.
+
+I step to the side, then motion for Keve to help me. Together we lift the stone door up, revealing a dusty staircase leading into darkness.
+
+I take off my backpack, pull out my light-stone, and the metal ball I use for detecting traps. Then I put the backpack on.
+
+With a flex of my mana, the metal ball drops onto the first step, then the next one. I watch it go until it’s deep in the darkness, loud “thunks” echoing out as it falls onto each stair. After a little bit, I step down, holding my light up to illuminate the everpresent darkness.
+
+Ancient sconces line the wall, their torches unlit. I decide against lighting the ones at the top. There’s no telling how good the ventilation is after all of these years.
+
+Shar flies down ahead of us, while Keve follows a step behind me.
+
+I carefully close the stone door, careful not to let it snap closed entirely. There’s no saying if the mechanism will work a second time.
+
+The staircase spirals for quite a while, the thunking of the ball echoing out ahead of us. I don’t like making this much noise in the darkness, but I’ve seen far too many pits lined with spears, or poison darts for my liking.
+
+Finally, the thunking stops, and a few seconds later, we see the bottom of the staircase.
+
+Shar waits for us there, her gaze piercing the darkness. “It splits into two. I didn’t look too far in either direction. On the left, there’s a room with many paintings of the angels. On the right, I saw several tombs. No sign of undead-”
+
+She stops as a rumbling sound echoes from the top of the staircase, a sound suspiciously similar to the one we’d made when we opened the stone door.
+
+My heart freezes. There’s no way the necromancer followed us. Shar would’ve seen them, and the snowstorm should’ve covered our tracks. Multiple feet echo against the stone floor, and I think back to what I know of temples from my studying. I have to make a choice. Where’s the best place to hide or fight?
+
+Several tombs, that’s probably a catacombs. The ancient people would make them spiraling, honoring their heroes with individual caskets that ended up in huge mazes for those who didn’t know how to navigate them. But ancient tombs also mean something else.
+
+Undead.
+
+I grab the metal ball and break into a run, Keve falling into step behind me as Shar flies ahead. I motion to her with my head, and we turn right.
+
+A large door blocks the way, and I pray as I reach for the handle, and shove it open. A loud creeeeeeeak echoes out behind us as it opens slowly. If those people didn’t know we were here, they do now.
+
+I open it large enough for us to slip through, and Keve follows me. Together, we shove the door closed.
+
+I look ahead, a headstone standing tall over a stone casket. Beyond it, the path splits into two.
+
+I choose right again, Keve running behind me as I lead through the catacombs. I take turns at random, trusting in my skill to map the path we’re taking.
+
+Behind us, the sound of the door opening creeeeaks again through the quiet halls.
+
+I turn left, and skid to a stop as I come face to face with a tall man, half of his head a skeleton. Dead eyes stare back at me in surprise as he reaches towards the blade at his waist. His eyes move down to the Builder’s sword.
+
+I grab Keve’s arm and pull us into another room, leaving the surprised undead behind us.
+
+Several seconds later, the sounds of battle echo out. I don’t stop our run for a few more minutes, waiting until we are deep in the catacombs. Surprisingly enough, we don’t encounter any more undead.
+
+Finally we stop in a room that looks so much like the others, a stone casket closed tight. A small tombstone stands above it, the symbol of the Angel of Afterlife, Po praying over it.
+
+I lean over, breathing heavily. Keve took the run better than I did, and he peeks out to look at the hall behind us.
+
+Shar flies past him, and swoops onto the tombstone. I hadn’t even realized that she’d separated from us.
+
+“There were six of them.” Shar says, “The undead forced them back, and killed two of them.”
+
+My breath catches, if the creature did that much damage to them, I don’t like to imagine what it could’ve done to us.
+
+I make my way to the corner of the room, and slide against the wall, “Did you recognize any of them?”
+
+Shar shakes her head, “Two warriors, a rogue, and a mage. Their scout and a second mage were killed.”
+
+“A mage? Not a necromancer?” I pause, my eyes widening. “It fought off two mages?”
+
+“Yes, no necromancers. One of them attempted a summoning and failed, the other one was weakened somehow.”
+
+“Which one died?”
+
+“The summoner lived.”
+
+A summoner, two warriors and a rogue. That’s not an easy combination for the three of us to face. If the summoner’s class is anything like my own, then that’s terrifying. Not to mention that the undead is still here somewhere with us.
+
+Keve steps into the room, “A group that large…”
+
+“We should’ve noticed them if they were following us.” I finish his thought.
+
+Maybe they weren’t following us. The dreams from the angels had been urging me to hurry. What if I wasn’t the only one that had found a map to this place?
+
+And if they happened to see us going for their prize, of course they would follow.
+
+“We need to-”
+
+I pause, the sound of a boot hitting stone echoing loudly as a familiar undead steps through the doorway. It steps through, standing tall, clearly having been a large man even in life.
+
+Keve leaps back, and draws his swords. I reach for the sword of an Angel at my waist as I stand up.
+
+The undead drops to the floor, the bone of his knee echoing sharply off of the stone. Then it bows its head.
+
+It bows its head to me.
+
+It speaks in a language I don’t know, the words filling the room with the power that lies slumbering behind them.
+
+Shar hops from the stone, and flies over to my shoulder.
+
+“It said: Oathsworn Paladin Akashir greets fellow Paladin in this time of upheaval.”
+
+I stare back, and the undead slowly raises its head, and continues, “Forgive me Brother, I realized not that Southern Keltick hath become the common language.”
+
+I blink, trying to parse the words of an ancient more formal dialect of common. Thankfully my reading of old holy texts gives me context for some of his words.
+
+The Undead bows his head again, “How may Paladin Akashir serve thy mission?”

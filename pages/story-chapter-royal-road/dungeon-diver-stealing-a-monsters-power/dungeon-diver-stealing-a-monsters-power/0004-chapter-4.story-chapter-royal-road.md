@@ -1,0 +1,179 @@
+---
+id: 965edc5b-8702-5611-bcc2-1f6ed1d39ac3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4"
+slug: 0004-chapter-4
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 4
+ownLength: 1937
+unit: words
+ownProgress: 1937
+publishedAt: 2023-02-05
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1106375/chapter-4"
+royalRoadId: "1106375"
+markedReadAt: "2026-06-29T20:31:55.081Z"
+---
+
+[Present Day]
+
+It's been 6 weeks since I took the job as porter on a team of 4 diving into the Alpine Square Starter Dungeon. I've learned a lot, gained a good amount of exp, but the one thing I'm lacking is money. I just paid my rent, two 2 silver coins and took 3 bronze coins to grab breakfast on the way to work. All I have left in my drawer back home in 33 bronze coins.
+
+I'm living a simple life, eating good food, diving into the dungeon, sleeping, and doing it all over again every day. My only goal at the moment is to learn more and get stronger, but to be honest I've plateaued.
+
+[Open Status]
+
+_____________________
+
+Name: Jay Soju
+
+Level: 21
+
+Hp: 110/110
+
+Mp: 110/110
+
+Strength: 56
+
+Speed: 63
+
+Agility: 67
+
+Defense: 52
+
+Mental Strength: 57
+
+Skills:
+
+Absorption
+
+Items Equipped:
+
+Iron Dagger
+
+_____________________
+
+Like the team leader said, getting to level 15 was fast. From level 10 to 15, it took about a week. 15 to 17 was another week. Week 3 I made it to 19 and on week 4 I hit 20. Unfortunately, it was followed by a depressing two weeks of slow growth. At the end of week 6 I hit level 21.
+
+I've been standing in the back watching the party fight the boss this whole time. Occasionally I've been helping to defeat the goblins in the boss room while the team takes care of the real threat. I feel like I've learned everything I can from this team and it's time to move on soon. I just need to find the right time to tell the leader.
+
+As I walk down the stairs of my apartment to the ground floor I wave to Maria one more time and make my way towards the village market. Another day as a porter diving into the dungeon.
+
+We all grouped up like usual and entered the dungeon no more than 10 minutes later. We made our usual trek through the tall grass today fighting off the occasional goblin. Today we made pretty good time, under 2 hours for sure. The leader looked pretty happy with us.
+
+"Let's get this done quick today, it's the first of the month. I'm feeling lucky."
+
+The woman spoke up.
+
+"Hey boss, isn't the portal a little darker than usual today?"
+
+I noticed that as well, but decided not to comment. It was a couple shades of grey darker than usual. The leader laughed.
+
+"Looks fine to me, what are we going to do about it anyway?"
+
+We all just shrugged and entered the boss room.
+
+It felt a bit eerie today, almost like we were being watched from all sides. From the back of the room a huge dark green figure appeared. It was so dark it almost looked black. The stench was worse than anything I'd ever smelled and its eyes were a deep red color. It felt like with each glare it was slicing into our souls. It towered over us, this hobgoblin was over 4 meters tall. It carried a long silver swords and grinned at us like we were its prey.
+
+"IT'S A MUTANTTTT!"
+
+The leader yelled, and the whole team got in formation. My usual duties were to eliminate any smaller threats, but there were none today. It was just us and this demonic creature. I stood by the wall and kept my eyes locked on the mutant.
+
+I've heard stories about mutant monsters before, but never saw one for myself until now. It's said that very rarely a mutant monster can spawn in a dungeon, or even as a boss monster. All of their stats are increased considerably, but the loot drop is also much more valuable.
+
+In our case the only thing that mattered right now was survival. The mutant let out a loud battle cry and charged towards the team of 4. The leader yelled and they all split off into their usual attack formation. The leader clashed swords with the mutant but was overpowered instantly. His sword was flung from his hands and he fell to the floor in front of the boss. This gave the speed type enough time to slash both the monster's legs.
+
+It barely reacted. The dagger's cuts were not deep enough to do any significant damage. The mutant was still focused on the swordsman. It raised it sword and made a mighty thrust down towards the leader. The tank jumped in at the last moment and threw his shield and himself in front of the attack. The massive sword broke the shield right down the center and the tank was sliced clean in half as well... right in front of our eyes.
+
+Time stopped for a moment. The whole team froze, realizing the situation we were all actually in right now.
+
+The mutant didn't flinch, it used its right foot to step on the leader's legs and finished him off with one slice of the sword before our eyes. The woman screamed and ran at the mutant with fists full of fire. The monster took 4 consecutive blasts of fire from her before it unexpectedly attacking directly through the flames and impaled her on the spot with no remorse. She was killed almost instantly.
+
+Lastly the speed type was in mid air going for a double dagger attack on the mutants neck. His attack landed, the mutant screeched a bit and started bleeding but it was far from a fatal blow. With unexpected speed and force, the mutant shook off the last fighter leaving the two daggers deep in its neck.
+
+The mutant took up its sword and faced off with the remaining fighter. He was weaponless and wide open for attack. The mutant lunged at him, he dodged and jumped high out of the way. Within a split second, the mutant lunged even further forward to use the wall in front of it to switch directions quick enough that the fighter was still in mid air. There was no where for him to run. Against a sword wielding demon like this, it was over in a flash.
+
+Then there was me. Witnessing all of this I was shocked beyond belief. The team that I had watched for over a month defeat boss after boss with a flawless strategy was destroyed in front of my eyes in a matter of seconds.
+
+The mutant turned its head towards me. I was petrified, but I knew I had to think fast. I muttered...
+
+"Think Jay... think... think..."
+
+Then I yelled to myself
+
+"THINK OF SOMETHING, YOU CANT DIE LIKE THIS!"
+
+The mutant reacted to my big mouth and drew its sword. I threw the big team bag on the ground in front of me and ripped it open with my dagger. Mana crystals fell out, swords clanged on the ground, an extra dagger rolled to my left foot, then 3 rectangular explosive charges fell next to my right.
+
+This is it... my only chance. I set my dagger on my waist and grabbed all 3 charges, 2 in my left hand one in my right.
+
+I remember back to one time our team leader talked about these charges. If you throw them at a target hard enough, it's enough to set them off. They're rated for Lv40. Meaning it can kill a monster that an average level 40 hunter would have an even fight with. In theory it was pretty dangerous carrying them around, but apparently they're pretty hard to set off by accident.
+
+The mutant was still just glaring at me with its sword drawn waiting for me to make the first move. It was about 20 meters in front of me, I decided to make my move and sprinted to the right. I did not want to get pinned against the wall, I decided fighting out in the open would be a much better move.
+
+The mutant reacted and followed my movements with its deep red eyes while quickly moving towards me. I locked my eyes on its torso while tracking the sword trying to guess its trajectory. The beast was 10 meters away now and not showing any signs of slowing down. Again, time felt like it had slowed down almost to a halt. The mutant was just over 5 meters from me, this is the only chance i'll get.
+
+I threw the charge directly at the mutant, it recognized my attack and almost stopped in its tracks. My eyes went wide as it swerved to my left almost instantly. The charge exploded the moment it made impact with the ground and blew chunks of rocks everywhere. I was hit by a huge chunk of stone in the gut, and another sliced open my right leg. It hurt, but I couldn't think about it because in my peripherals I saw the mutant coming towards me on the left. Avoiding the blast as best it could and wielding its sword angrily the mutant stared me down. The only thing I could think of was to throw the two remaining charges with my left hand, that's all I had time to do...
+
+If I threw them directly at the monster it would dodge again and Im as good at dead. The next half a second felt like hours had gone by, my brain was working harder right now than it ever had in my life. Every moment of the last two months flashed before my eyes, I needed to find the answer...
+
+Then... All of a sudden it seemed so clear.
+
+I turned my head to look the mutant in the eyes. I threw the two charges at the the ceiling above me while making a full 180 degree turn to sprint away from the danger zone. The mutant followed after me eyes locked on its prey just under 5 meters behind me. 1 second later I heard it.
+
+"BOOOOM"
+
+The two charges went off destroying a massive stalactite cluster hanging from the ceiling. I turned my head one more time as I ran, watching over a dozen 2-3 meter rock spears fall directly onto the mutant. One perfectly pierced its skull, it fell to the ground as 6 others pierced its back.
+
+"GRUUUAHHHHH"
+
+I heard it cry from under the rubble. Then silence...
+
+After about 10 seconds the rubble started to move again, my heart skipped a beat... but then its stopped moments later.
+
+I heard a familiar ringing in my head.
+
+[Level Up][Level Up][Level Up][Level Up][Level Up]
+
+I went to open my status, but a similar blue light was floating over the rubble where the monster fell. In light blue letters a message that looked like my status window read:
+
+[Use Absorption]Skill: Swordsmanship[YES][NO]
+
+Exhausted and dazed from the trial I just went through I clicked [YES] without hesitation not thinking much of it. The letters disappeared and I almost dropped to my knees.
+
+The mutant disappeared and a large mana crystal popped up out of the rubble along with a long shining silver sword. I thought to myself, "i'll have to get this checked out at the market" as a white light transported me back to the dungeon entrance.
+
+I stood there covered in blood admiring the mana crystal in my left hand and a long silver sword in my right.
+
+I took a deep breath in and out, then checked my status.
+
+[Status Open]
+
+_____________________
+
+Name: Jay Soju
+
+Level: 26
+
+Hp: 81/135
+
+Mp: 85/135
+
+Strength: 67 [+50]
+
+Speed: 75
+
+Agility: 80
+
+Defense: 62
+
+Mental Strength: 68
+
+Skills:
+
+AbsorptionSwordsmanship
+
+Items Equipped:
+
+Iron DaggerStainless Steel Long Sword [+50 Strength]
+
+_____________________

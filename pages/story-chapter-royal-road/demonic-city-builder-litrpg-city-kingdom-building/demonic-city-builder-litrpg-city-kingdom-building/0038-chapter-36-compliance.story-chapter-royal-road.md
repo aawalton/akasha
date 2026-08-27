@@ -1,0 +1,223 @@
+---
+id: 15dc1101-ee45-5e13-a92f-7cd89efde4a6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36 - Compliance"
+slug: 0038-chapter-36-compliance
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 38
+ownLength: 2308
+unit: words
+publishedAt: 2026-06-26
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3595957/chapter-36-compliance"
+royalRoadId: "3595957"
+---
+
+“DR?” asked Shiny.
+
+“Of course! Demonic Resources. Well, specifically, we officially would refer to it as our Demonic Resources Department.”
+
+Sythara and Vorathrex both gave him a concerned look.
+
+The demoness broke the silence first. “Child… I don’t necessarily know if treating the imps as resources is truly going to solve our issues.”
+
+“No, no. That isn’t what it means. Here, Shiny. Today is the first day where two new brood imps will spawn.”
+
+That got a bitter glare out of Vorathrex. “It could have been the first day two new warriors spawned,” he growled.
+
+Kairon ignored him. “Farming seems to be doing fine. Unless Bean’s told you otherwise, I am planning on assigning all new workers to timber for the time being.”
+
+Shiny clapped his hands together excitedly, but before he could reply Kairon held up one claw. “Except one. The second one from today will be the first member of our Demonic Resources, or DR department.”
+
+“You think one underling can keep the peace?” questioned Vorathrex. “Does that not seem overly optimistic?”
+
+“It would if DR was about enforcement. But it isn’t. It’s about listening. From now on, we will set up a post outside the tower. Nothing fancy. Just an assigned area that all the imps, brood and wrath alike, know they can go to.”
+
+“This imp does what… solves disagreements? You are still asking a lot. I’ve seen the little ones. They aren’t all as… articulate as that one,” Sythara mused, pointing at Shiny with one black tendril. “And, even that leaves something to be desired.”
+
+Shiny stuck his tongue out. “Talk means little. Words mean much. Choose carefully.”
+
+Kairon gave his little supervisor a reassuring nod before continuing on.
+
+“Like I said, the DR imp’s job is simply to listen. If an imp has an issue, they tell him. And, as Demonic Resources gets reports, they funnel them up to myself and the council. From there, we decide what items actually need attention, and which can be… swept under the rug, so to speak.”
+
+“What if imp not say? Just unhappy. But no tell?” asked Shiny.
+
+Kairon rubbed his chin, humming softly. “Good point. For that… We can incorporate some proactive surveying. Just to ensure any imps not visiting the DR department still have a chance to be heard. Say once a month?”
+
+Unlike Shiny, the other demons didn’t seem entirely on board. But they learned by now that the city lord thought in unique ways. So, they let it go.
+
+“Secondly, there is no question that we are building the camp as soon as possible. That repair ritual cost us a day’s worth of timber and stone, so we won’t be able to until… just a moment.”
+
+Kairon verified what remained with the stockpile.
+
+And then the camp cost…
+
+“If today’s crews are up to working a bit late, we could have enough timber by tomorrow night. Especially with the extra pair of claws. So, for one more day, everyone will sleep outside. And I do mean everyone,” Kairon stated, staring intently at Vorathrex.
+
+“I told you this plan of yours was madness,” commented Sythara. “Clearly you should have made more of those camps before you spawned so many little ones.”
+
+“It’s easy to say that in hindsight. And maybe, maybe not. There might have been other ways to mitigate this while holding off on the camp. Either way, a valuable learning experience.”
+
+No further argument followed that. Kairon was starting to feel like he was in a rhythm.
+
+“Finally, we are going to build another ashroot plot and then the ritual circle.”
+
+Unfortunately, that pronouncement didn’t go quite as smoothly.
+
+“WHAT?!” demanded Vorathrex.
+
+“You plan to make the circle after another farm?” asked Sythara, voice going cold. “I’ve been waiting a very long time.”
+
+He held up his claws. “I understand your concerns. But I’ve modeled this, if you recall—”
+
+“The sticks and rocks in the sand? That model blew away weeks ago!” hissed Sythara.
+
+It took Kairon a moment to register what she was referring to. “Well, I mean, yes. But that doesn’t mean the point doesn’t stand,” corrected Kairon carefully. “Let me explain my reasoning. Theoretically, each ashroot plot could yield three hundred food a week. If we process all that food in the feeding pit, that could feed almost two hundred imps sustainably.”
+
+Sythara threw her hands up in the air. “See? That is far more than we require.”
+
+“I said could. That each plot could yield three hundred food. Current testing is in progress and the results have been… variable. Bean and I are working on a way to maximize yields, but so far the estimate per day continues to fall even as we learn.”
+
+“I still fail to understand the issue,” remarked the demoness.
+
+“The issue is that at this rate, I’m concerned if we can expect much more than a hundred food on this first harvest. I expect each following crop to be better, but still far from the maximum. So my true worry is that we are going to have a sustenance issue, and this time our population is much larger.”
+
+“And growing,” chimed in Shiny.
+
+“Exactly,” he agreed.
+
+Everyone was silent, thinking.
+
+“Where I come from, we have a concept. It's called redundancy.”
+
+“Too many new ideas and words,” replied Vorathrex.
+
+“All it means is that while one is enough, more is safer. If something goes wrong or fails, you can often prevent bad situations by having extra,” clarified Kairon.
+
+The demoness glared. “Then perhaps we should have made the ritual circle before this mess like I originally suggested. Or, as you say, multiple circles. Would that not be redundant? In case one breaks?”
+
+Kairon sighed. “The concept really only applies to our case when it comes to critical constraints. Like eating. Look, this has been discussed before. There’s no use revisiting what can’t be changed. Besides, you hardly need a ritual circle with Veron’s treatment to worry about.”
+
+“As for you,” the city lord turned to Vorathrex. “I promise your warriors will have priority soon. Once we get food stabilized and research off the ground, additional efforts will go to war preparations."
+
+The big demon cracked his knuckles and sniffed. “Good. Because those humans are getting close.”
+
+“Excuse me? What humans?”
+
+***
+
+A troop three hundred strong paraded up the dirt roadway. The shoddy, poorly kept path wound upwards as it fed into the southernmost gates demarcating The Kingdom of Hallen.
+
+In the rear, the common soldiers walked. They lacked order and purpose, but headed forward regardless.
+
+But at the front, the real army lay. The paladins.
+
+Clomp. Clomp. Clomp.
+
+The rhythmic marching of armored boots resounded, audible for more than a league. Each footfall carried a weight, equal parts metal and devout. Every paladin’s step was taken in perfect unison.
+
+A hundred paladins. A hundred sets of golden armor. A hundred capes with the circle signet of The Solari.
+
+Wind blew, and the swaying cloaks waved in return.
+
+Ahead, a small contingent of Hallen guardsmen stood ready in front of the parapets. Behind them, mortared stone walls curved around the Kingdom’s border.
+
+Commander Ashlan waited, armored gloves clasped to attention behind his back. His weathered face nodded. “Good to see some paladins up here, I’ll tell you that. I’m Commander Ashlan. My garrison led the assault on those wicked creatures. Unfortunately, the evil abominations were more than we expected. I’d be happy to go into more detail and…” began the commander, only to stop himself. Something felt… off.
+
+The holy column had halted, each faceless mask staring emotionlessly at him. None spoke. Far to their rear, the enlisted footmen waited restlessly. Those men had faces, voices, and reactions. Ones Ashlan could read. But the paladins that led them? Nothing. Just divinity in metal form.
+
+After a minute of silence, a regal voice broke it.
+
+“Part!”
+
+The ranks of paladins split as one, like waves before a bow. A man of gold strode forward. Shining spikes flowed from his helm, coalescing into a golden crown of steel and iron.
+
+He walked with elegance, as if the ground before him was but a carpet. Step by step took him through the ranks. Once passed, they clasped back together.
+
+When he arrived in front of Ashlan, he paused. Even inches away, Ashlan could see nothing but black behind the eye slits in his helmet.
+
+“A soldier of duty. The Five grant mercy upon those who serve faithfully.” Brexin, recently anointed Lord Paladin of the Holy Land’s sixth, placed his golden gauntlet on the commander’s shoulder.
+
+“I do my duty, as do the rest of our garrison. We don’t shine like you, but we sure as hell fight like it.”
+
+“So you say. So you say…” In a quieter voice, one that only Ashlan could hear, he continued on. “Unfortunately, I’m not of The Five.”
+
+The commander’s heart sank. Not at what he said, but how he’d said it. This was not going as Ashlan hoped.
+
+In a new tone, one full of righteous fury, he spoke loudly. “I’ve seen the sightings and heard the reports. You traveled north, only to return empty handed. Either you’re a fool or a heretic. And, given what I’ve seen, I’m inclined to believe the latter.”
+
+Ashlan shook his head. He couldn’t believe what he was hearing. “Heretic? On what grounds? I bled for this kingdom. My sword has been at House Hallen’s disposal for longer than you’ve been alive, boy. And you think I’m unfaithful for it?” His tone of respect was gone, replaced with a bitter spite.
+
+He’d hoped this paladin would clean what Hector Hallen had tainted. Instead, he found another lordling. This one just had shinier armor.
+
+“I think a faithful man wouldn’t have returned until that scourge was cleansed. And, as you’ve just admitted yourself, it was not,” noted Brexin.
+
+“What? You expect us to fight to the death when retreat is better, both tactically and logically? Is that how paladins operate?” As he said it, Ashlan realized that yes, it likely was in fact how these golden soldiers did things. At the whims of The Five, with a devotion that rivaled none.
+
+Brexin sighed. “Words from the undevout. As I suspected. Granted by my power as a hand of his worship, I pronounce this man and any who object to The Five’s will as heretics.” He spoke the words gently, as if disappointed to have to say them.
+
+“Arnold!”
+
+From behind, two large paladins stomped up.
+
+“What? Me? I led the damn attack on those things. You can’t seriously be arresting me?” demanded Ashlan. “I may have survived but many of my men didn’t. For god’s sake boy, who else has witnessed the demons but us? How do you intend to do any better?”
+
+“With The Five’s will.”
+
+“Hey? What are you—” before more could be said, cloth was shoved in his mouth and golden chains around his arms and legs. Muted protests were the only sound that remained.
+
+“Take him away.”
+
+Several ranks back, a third paladin strode forward. His signet had the single ray of an apostle, the lowest rank still allowed to don the armor.
+
+“Allow me, Lord Paladin. I will see that this fool learns the error in his ways. By The Five, I swear it.”
+
+Above, a tiny glint shone, reflecting off his gleaming breastplate.
+
+The paladin paused, studying the apostle. Then he nodded. “Initiative is a valuable quality, apostle. I grant your request.”
+
+Bowing, the paladin snagged the bound garrison commander and began tugging him backwards.
+
+“Some advice. See that your initiative does not become hubris,” intoned Brexin.
+
+“Of course, lord paladin,” he replied. With haste, the duo disappeared behind golden troops.
+
+“Now! Forward! I wish to find this so called Lord. He has much to answer for before we head North.”
+
+As he was carried away, Commander Ashlan’s heart dipped even lower.
+
+He plans to talk to Neve?! You damn holy idiots! Every moment you delay is another those wretched demons grow stronger.
+
+For the first time in a very, very long while, Ashlan considered giving a prayer of his own.
+
+***
+
+Five foot soldiers shuffled uncertainly on their feet. They were from the most recent recruitment south of Vestri. Common folk with a debt to be paid and a lord that wanted Solari favor.
+
+“I need to continue on,” hissed a paladin. “Demetri demands it. You are to take this man, and head back. His worship needs to speak with him before Brexin gets any ideas about execution on the grounds of heretical inquisition. Losing his knowledge could be detrimental.”
+
+“But you told him—”
+
+“I know what I said. Just get him back to Demetri. Stop for no one else, hand him to no one else. Understood?”
+
+The other paladin nodded, took one look at the bound man, and then at the foot soldiers.
+
+“We head south!”
+
+***
+
+An hour from the city center, a towering red demon sat. All was quiet. Hellscape sand drifted in the wind, corrupted trees twisting upwards against the sky.
+
+And then it broke.
+
+“Shutup! Shutup, shutup, shutup!” came a roar.
+
+Four fists pounded into the ground, geysers of dirt and sand shooting into the air. The big demon’s fangs bared, and he glared, orange eyes closed tight.
+
+He needed to hunt. To fight. To consume. That was who he was. And that’s what he would do.
+
+And, despite that, images of that black-scaled fledgling continuously reeled through his mind. The tricks he used, the methods he employed, the strategies he pursued. They were not that of a warrior. But they cut just as deep as any claw.
+
+The spreading domain of corruption, stretching now even into the Spines in the distance, was evidence enough of that.
+
+Inside, an echo of a laugh cackled. But it was not his own.

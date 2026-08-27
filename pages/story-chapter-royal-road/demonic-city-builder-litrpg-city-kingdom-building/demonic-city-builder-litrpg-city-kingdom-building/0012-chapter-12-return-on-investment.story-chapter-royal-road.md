@@ -1,0 +1,137 @@
+---
+id: 2241c881-9d4b-5480-a6be-09edd6a7db48
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12 - Return On Investment"
+slug: 0012-chapter-12-return-on-investment
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 12
+ownLength: 1705
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3423716/chapter-12-return-on-investment"
+royalRoadId: "3423716"
+---
+
+Kairon headed with purpose to his morning council meeting. When he saw Vorathrex, he gave the big demon a wave.
+
+In return, not only did Kairon get a grunt but also something that almost resembled a smile. Is he warming up to me? Probably just the triple food rations I've been giving him.
+
+"Good morning! Can you tell how far the humans are?"
+
+Vorathrex tilted his head back and sniffed. "They are closer, but each day their pace slows. A week remains. Maybe more."
+
+Kairon's eyes widened. "Really? That's great news! I thought they would be here sooner. Something must have slowed them down."
+
+Vorathrex crossed his arms. "We still aren't ready. When are the training grounds going to be prepared?"
+
+Kairon grinned sheepishly. "About that. Have a seat, my friend. We need to talk."
+
+The big demon frowned, but sat against the spawning stones. Kairon did the same, sitting across from him. "So, we have a bit of an issue."
+
+"Yeah. These warriors may be from my world, but they learn slow."
+
+"Well yes. There is that. But..." Kairon sighed loudly. "Vorathrex, I'll be honest with you. You've been working hard to train our budding army of... Eleven wrath imps now with today's recruit. For that, you deserve my candor."
+
+He grunted.
+
+"By the end of tomorrow, we will have the stone and timber to make our next building." Vorathrex's mouth tightened, catching the word building, not training grounds. Seeing the look on his face, Kairon continued quickly. "Unfortunately, we are out of gold. And buildings need gold, you see."
+
+Vorathrex just stared flatly.
+
+"With no one but angry humans to trade with..." Kairon shrugged. "My hands." He coughed, correcting himself. "My claws are tied."
+
+There was a tense beat. "You knew this and still made the feeding pit?"
+
+Kairon breathed in, hissing as the air slid between his fangs. "Ah, you caught that. Yes. I did. I thought if I told you at that time..." He trailed off. "Well, I didn't think you would react well. And given how hard you were working at training the imps, I saw no reason to impede that."
+
+Vorathrex pointed with one of his big meaty arms. "See that." Kairon looked over, finding the gathered wrath imp squad, half holding spears and half holding broken wooden shafts, training for the day.
+
+"Yes."
+
+"How do you expect me to defeat a human army without real warriors? They need real training and more time. And battle experience."
+
+Kairon sighed. "Yes and, let us not forget that we can only house three more. So even if the humans do take ten more days to get here, we'll actually only have twenty wrath imps at most."
+
+Vorathrex laughed harshly. "You see? How are we to survive? Demons are strong, but I smell many humans. Too many. I'll be back in the demonic plane soon and you'll be dead."
+
+"Yes. Which I gather will be quite unpleasant for both of us," replied Kairon. The city lord took a careful breath, voice dropping to a conspiratorial tone. "You know... Vorathrex. What if we built a wall instead?"
+
+"Would that really help?"
+
+"If used properly. I know that war is your thing and all but... I expect our human friends are going to find our environment less than hospitable. And I myself have a few ideas in mind. If I could give you a wall, a strong wall, and a way to break the morale of the humans and... trim the fat of their numbers, shall we say. Do you think that you and twenty wrath imps could consume the rest of the humans? Or at least, could you consume enough of them to scare the rest away?"
+
+The giant cocked his head. "Thirty wrath imps would be better... Maybe it's possible if the humans were scared. But humans fight in formations. Ones that are hard to break."
+
+Kairon waved his hand. "Yes, yes. I think we can deal with that."
+
+"And this wall. It does not require gold?" asked the larger demon.
+
+"Actually, it does. A good measure of it too. As, again, does the camp we need to get more wrath imps next week. To do both, we need more gold than we have had since I founded this settlement."
+
+The frustration was evident on the giant demon's face. Two giant, meaty fists pounded the hellscape ground, dirt and sand exploding outwards.
+
+Kairon winced. He really does not want to go back home.
+
+"You know... Vorathrex, a thought did cross my mind."
+
+The big demon looked up suspiciously.
+
+"I was reviewing the pact the demon plane made between us, and it seems that after the... accident on the first day, we are entitled to something called restitution."
+
+Vorathrex just stared back blankly.
+
+"Basically, because you killed a brood imp, and since the demonic plane technically holds responsibility over you, I, as the city holder, am entitled to request recompense in the form of gold."
+
+The giant demon's eyebrows knit together. He grunted several times, trying to think through the implications. Kairon could see the wheels turning in his head. He's not dumb. Vorathrex just has a different kind of intelligence. A more natural, primal kind. Instinctual, perhaps. I can't stop that instinct, but I can push the results in the right direction.
+
+"I expected that the gold it might bring would be sufficient for both the wall and the camp we discussed."
+
+Those big, fierce eyes stared hard at Kairon. "And what will happen to me when you do this?"
+
+"Yeah... So this is the part I am not so certain on." Again, a tightening in Vorathrex's mouth.
+
+"Now, I should hasten to add that one thing I do know is that the pact cannot be broken as a result of any restitution to either party, that being me or you. This means that no matter what happens, you will not be sent back to the demonic plane."
+
+Kairon sat still, letting the big guy take all this in. Seeing that he was still unconvinced, Kairon continued. "From my understanding, and I must stress that this is just my best estimate from the pact reading, I believe that something will be taken from you. I'm not exactly sure what. But." The city lord held up one claw. "You will stay strong."
+
+"Do you know this to be true, young demon?"
+
+The black-scaled demon looked into Vorathrex's eyes and nodded once. "What I am sure of is that your fighting strength will remain strong. You will be able to consume." The demon chose those last words very carefully.
+
+"And Vorathrex. Without this gold, and from what you have said, I truly don't see another way for us to survive what's to come. Not unless you think these humans are bringing all those boots, horses, and iron to trade."
+
+Several more long, tense moments. Then the large demon's jaw tightened. He nodded once. "I see no choice. I agree."
+
+With one fluid motion, Kairon slid his vision into Sovereign Eye and found the blinking button on his pact with Vorathrex.
+
+He mentally tapped Yes.
+
+Although he had no true system, Vorathrex's eyes widened as something connected to him. Kairon didn't know what he said. It was in his head. But whatever it was, the system accepted it.
+
+A new notification appeared.
+
+Using the practiced mind of the clerk in him, Kairon outlined in a very specific manner the loss of his brood imp, the future costs he was eligible to claim for his settlement, and the importance of the willing agreement to fault by the pactee, Vorathrex.
+
+He read it over, making one final adjustment, before completing the form.
+
+That's interesting. So there is a similar bureaucratic layer even in the demonic plane. From what I've seen, I could even argue that the demonic plane is turning out to be even more corporatized than The System itself.
+
+Sent? Where...
+
+Kairon's eyes bulged. A glint of something underneath surfaced, and he had to steady himself with both clawed hands from toppling over.
+
+I just doubled my city's wealth, and all it took was lifting a single claw. Well. That wasn't true. It cost much more. But right now, the immense roar bellowing from Vorathrex yanked him from his thoughts.
+
+The massive demon was clawing at his muscled chest with all six hands. His amber orange eyes were streaked with red veins, and his fangs were bared.
+
+This is truly peculiar, Kairon reflected. From where he stood, he felt nothing. Not an overbearing demonic presence, no connection, nothing. Whatever was happening, it was specifically between Vorathrex and the demonic plane. The only evidence of anything at all that he could sense was a very slight flicker in Sovereign Eye. Nothing more.
+
+Patiently, he sat and waited. It took nearly ten minutes before the massive demon recovered. When he finally looked up, those eyes had a cold fire behind them. "Fledgling. Do you know what that cost me?"
+
+Kairon shook his head, sorrow on his face. "I do not."
+
+Vorathrex climbed slowly to his feet, eyes still locked to Kairon. He gestured at the black tower. "I hope, for your sake, that this was worth it." And then, without even a backwards glance, he stomped off towards the treeline. Northwest. Right in the direction of the last wolves.
+
+That night, Kairon stopped behind the tower. He stood, the darkness of the night wrapped taut around him like a cloak, as he stared at the singular grave in the hellscape terrain. The lithe city lord bent to one knee, placing a claw on the crude stone. In his mind, Kairon replayed not for the first time the moment Vorathrex had slain his imp. The imp following his order, at his own decree, with not even a question. Thank you, my friend. As promised I spent your life well. Wherever you are, I hope you bear witness to what it will allow us to grow into.
+
+As for you. Kairon stared up at the massive demonic eye in the sky. The one he was starting to associate with his connection to the demonic plane. We will need to have a discussion about bereavement. For the imp's family, of course.

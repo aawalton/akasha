@@ -1,0 +1,157 @@
+---
+id: 82ebbc35-d37e-5373-940b-1c7a85088065
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3 - Middle Management"
+slug: 0003-chapter-3-middle-management
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 3
+ownLength: 2098
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3423520/chapter-3-middle-management"
+royalRoadId: "3423520"
+---
+
+When Kairon had Sovereign Eye up earlier, there was a single, flashing menu button. Part of him hoped the SLA option would be tucked away here, but he knew that was very unlikely. What came next proved him correct.
+
+When Kairon read even the basic, information-sparse pop-up, a breath he hadn't realized he had been holding whooshed out. Well. No SLA option as I thought. But it's something.
+
+If Kairon was going to survive here, he needed to find the best way to develop his newfound settlement.
+
+So first... Let's unpack this. My dominion is based on some kind of ring-based structure. If I focus on this... Kairon focused on the word "Ring" and got the following message:
+
+He dismissed the popup.
+
+A plot-based system, with expansion. Though the ring-based concept is something I've not heard of before. Intriguing. Very demonic.
+
+Sustenance 100%? The little monsters could only talk about food, food, food. That's concerning. I'd hate to see how they act when it is low.
+
+While the stockpile is empty, knowing what resources I have to work with is a start. Wood is clearly plentiful. I'll need to see about stone and iron.
+
+Then his eyes came to the corruption metric.
+
+Five corruption a day...
+
+On instinct, Kairon used Sovereign Eye and looked outward, finding where hellscape met forest. Just as I suspected.
+
+The boundary had moved a few paces. He was sure of it. And where it touched, trees at the edge were starting to blacken. Bark curled off like paper near a flame. The corruption is growing my domain outwards. Is that a feature, or a liability?
+
+Nodding in satisfaction to himself, Kairon closed out the interface.
+
+A new button appeared. Building.
+
+He was just about to dive into it when the commotion inside the tower caught his attention. Breaking the connection, he quickly went to investigate.
+
+"Here!"
+
+"No. Here! Sticks for master!"
+
+"Idiot! Master doesn't want there!"
+
+Three imps holding bundles of sticks were arguing about where to place them. Come to think of it, Kairon himself hadn't seen a stockpile. Unless...
+
+"Now, now everybody. Great work on gathering up all those materials. Please. Follow me outside. We don't want to drag all that dirt in here, do we?"
+
+Three imps in tow, Kairon led them outside the tower and walked to the back. Sure enough, the hellscape had three cleared spaces. Two were circles. The building plots. And the other one was a square space. Four posts connected with thin twine serving as a boundary marked it off.
+
+Each of the crude wooden poles was demarcated with harsh, angular scripture. The symbols reminded Kairon of the script that had flared when he claimed the domain... Leaning forward, he dropped to one knee and got a closer look at them.
+
+He tried to make out anything he understood, but to him it was basically just cat scratches. The fact that he knew it had to be something more but he couldn't parse it left an unpleasant feeling in his brain. Later, he told himself.
+
+He turned his attention back to the imps. Being specific is very important. If System users have shown me one thing, it's just how important guardrails are when it comes to following instructions. At least, if the outcome is to be favorable.
+
+Using Sovereign Eye, he commanded the rest of the workers to join them.
+
+Once together, he looked over the bundles gripped tightly in each imp's arms. Most of them were just heaps of sticks, twigs, pebbles, and dead insects all smushed together.
+
+When his eyes landed on the last imp, Kairon realized it was the runt. Shiny. And what have you here? The little guy had two separate piles in both clawed hands. One had larger sticks, the other had smaller ones.
+
+Did I tell him to do that? No. Surely not.
+
+"Shiny, why did you sort the sticks by size?"
+
+"Made sense. Big stick, small stick."
+
+Kairon patted his head gently with a claw. "You just got promoted. From now on, you are on stockpile duty. Nothing goes in or comes out without your say. Understood?"
+
+The imp blinked slowly. "Shiny job?"
+
+"The shiniest."
+
+With that, Kairon watched delegation at its finest as Shiny stood, claws on hips, and evaluated each imp's haul before sorting it into the stockpile.
+
+The last piece of timber made Kairon pause. He watched, curiously, as an imp dragged a rather small stick. The city lord cocked his head. Odd. The other imps had brought larger wood chunks by the clawful. Then his eyes noticed that the wood itself was darker than the rest, almost black at its core, and judging by the imp's uncomfortable expression it was probably warm or even hot to touch. A faint orange vein ran through the grain, like something had fed on it.
+
+Kairon frowned. A similar-sized stick from deeper in the forest had registered +0.1. Why the difference? He went over, grabbed the dark stick, eyes widening slightly as he felt the weight. Way too heavy for something this size.
+
+He turned the wood over in his claws, but couldn't isolate anything beyond the color that was different. Humming thoughtfully, he set it in the pile. This darker wood may be worth more for whatever reason, but the weight just doesn't justify having the imps scavenge for it specifically. He put the thought out of his mind for now.
+
+More notifications continued to appear unbidden each time something was dropped that Shiny deemed worthy.
+
+Kairon pursed his lips. While the testing was moderately fruitful in terms of material, it did make some basic findings clear.
+
+Kairon held up two sticks of varying size in his hand. "We do not pick up anything as small as this stick," he pointed at the leftmost stick. "It must be at least as big as this stick," he pointed to the other one. "Understand?"
+
+Shiny nodded. "Big sticks better."
+
+"Yes. And the same goes for stones and rocks you may find," Kairon gestured between two of varying sizes. "Big rocks this size we keep. Little rocks this size you do not. Understood?"
+
+Shiny nodded.
+
+"And food?!" asked an imp who overheard their conversation.
+
+"Yes, yes. Food. Food will be coming next."
+
+Happy nods from all the imps this time. The irony of motivating the same villagers, whether it be in human or imp form, with food was not lost on him.
+
+"You four. You are going to find food. We are near a forest that is probably full of wildlife. Tasty creatures. You'll head that way," Kairon pointed at the eastern forest line, "for no more than 200 paces inside the trees. If you encounter anything scary or dangerous, you run back here. If you find anything else that is alive, that is food. You kill it, and you harvest it here. You do not eat it. Is that clear?"
+
+Several nods this time. Kairon could feel the mental connections tugging from him to the imps each time he gave an order, so he wasn't worried about the imps trying to gorge themselves on any prey they found without sharing.
+
+"And you six." The demon pointed at the rest, including Shiny. "You are going to be on scavenging duty. For now... Let's just focus on timber for today." Kairon glanced at the gleaming white fangs each imp had protruding from their mouths. "I want you to go to the trees right by the hellscape there." He mentally marked a spot just on the edge of the treeline and willed the orders through. "Chew the trees at the stump with your teeth, then pull it back to this spot. Listen to Shiny for what big sticks to bring."
+
+"Any questions?"
+
+None came.
+
+"Good! Let's get to work!"
+
+All ten imps scurried off to follow their orders. Kairon dusted his claws. I must say, being the one giving the orders is so much better. The satisfaction of knowing he was not only the one in charge, but that no supervisor was peering over his shoulder was a new feeling for the demon. One he was quickly becoming accustomed to.
+
+The sun was about halfway in the sky above, with high noon pouring its heat down. The imps didn't seem to mind it, being hellspawns and all. Yet, Kairon's new demonic body didn't seem to enjoy it. Already sweat was gathering, making his scales have a slick, moistened gleam. That's enough outside for now.
+
+Right as his body entered the dark tower, the natural shade inside brought instant relief. It felt nice and... Kairon cocked his head. The city lord's mind had become sharper, like there was a light fog over it minutes before. The low hum of the connection to Sovereign Eye in his mind, which was previously slightly muffled, snapped into focus.
+
+Hold on. He stepped back out of the doorway, and sunlight hit his scales. Immediately that connection dimmed, and his brain felt a little slower.
+
+More oddities. So my domain strengthens me, but the sun does the opposite. How... odd.
+
+Deciding he would stay inside for now, Kairon settled back into the cool shade, making himself as comfortable as he could. Above, the giant eyeball narrowed into focus.
+
+The timber collection was going about as well as he could have expected. Tree one was being gnawed apart by six sets of razor-sharp teeth, sending wooden shrapnel and dust in all directions. Shiny paused, seemingly feeling the pressure of the massive eyeball atop the tower peering at him, and looked up. He waved, grunted more than talked as a mouthful of sawdust was spat out, and then went back to chewing.
+
+You just keep surprising me, my new star employee.
+
+On the other side of his domain, he watched warily as the hunting party armed with nothing more than fangs and good intentions wandered into the treeline. They trotted at a fast clip, single file. Once they reached the massive oaks, he lost sight of them behind the black fog Sovereign Eye held at the boundary.
+
+For one frame, barely a flicker, the fog thinned. Behind it, he saw something. A massive shape and faint silhouette that outlined something grotesque. With a snap, the fog closed, black and solid as a wall.
+
+The demon tried to push through it again. Nothing. He made three more attempts, but each time the boundary held. Light distortion or refraction from the trees, perhaps? He didn't believe it, but chasing down the alternative seemed unproductive. Kairon resolved to question the hunting imps tonight when they returned.
+
+As much as he wanted to micromanage the imps, there was a nagging itch in his brain. One he couldn't ignore. He despised being in a framework or system of any kind that he himself still didn't fully comprehend. Time to remedy that.
+
+Kairon returned to his readout and reviewed everything from before. Happy nothing had changed, he finally allowed himself to open up the building menu.
+
+Stingy, stingy, stingy. Even this new greedy system is stringent on one rule. To make gold, you have to spend it. Kairon really disliked that attitude. He thought of it more as thievery covered in roses.
+
+To get a district, I need a ring. Rings cost far too many resources right now, but more than likely define the development of my city in more than just building type. And speaking of districts, there are five types of them, each clearly themed. Brood for food and growth, wrath for combat, forge for industry, void for research, and pact for intelligence and diplomacy. Right now each only has a single building option available, but likely more should follow.
+
+So... My starting two building slots are basically a cheat. A tutorial cheat, but a cheat. The only catch is the lack of a spawning grounds. In short, our population is limited until we can grow a ring and place a spawning grounds. Until then, I'll need to evaluate today's haul to decide on what to build.
+
+Kairon was tempted between two options. A forge for proper tool production, or a feeding pit for better food production.
+
+We'll see. The forge would make more sense as a sort of workforce multiplier, if it could make use of stone and wood. But then again, what forge did that? It would almost surely need iron, which he had none of. Maybe the hunting party would scout some out today.
+
+Suddenly, something caught his attention. In the corner of Sovereign Eye. People. Actual, living human people. And they were approaching his wood gathering crew.
+
+Oh my. Visitors!

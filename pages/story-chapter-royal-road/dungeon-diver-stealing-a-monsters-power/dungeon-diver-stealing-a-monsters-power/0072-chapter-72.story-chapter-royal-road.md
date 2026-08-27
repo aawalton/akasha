@@ -1,0 +1,277 @@
+---
+id: 53962eba-02ff-54c0-99f7-b2f24d3cecfb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 72"
+slug: 0072-chapter-72
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 72
+ownLength: 1881
+unit: words
+ownProgress: 1881
+publishedAt: 2023-03-30
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1152984/chapter-72"
+royalRoadId: "1152984"
+markedReadAt: "2026-06-29T20:34:17.546Z"
+---
+
+We walked for another 20 minutes or so.
+
+The terrain changed a little bit. There are much fewer rocks, less trees, and the ground feels a lot harder. It just seems like there’s unlimited flat ground surrounding us in all directions… it’s a bit eerie.
+
+Finally, a new monster appears up in the distance. Rei steps back.
+
+“Both of you should take this one on, High Orc’s this deep in the dungeon can be stronger than the ones you just faced.”
+
+Maria and I acknowledged her. We nod at each other, then ready ourselves for the approaching beast.
+
+It lets out a roar, I use inspect and appraisal.
+
+[Lv. 257]
+
+Active Items:
+
+[Steel Mace] +250 Strength
+
+[Steel Sword] +250 Strength
+
+[High Orc Heavy Armor] +300 Defense
+
+Active Skills:
+
+[Berserker]
+
+[Swordsmanship]
+
+“Interesting…”
+
+It looks exactly the same as any other Orc we faced charging toward us swinging its mace. This one has a swordsmanship skill, I wonder how differently it’ll fight?
+
+“Jay! I’ll distract it, then we’ll both attack!”
+
+Maria sprinted forward before I could get a word in. I followed close behind avoiding the path of ice magic she leaves behind in her tracks.
+
+She began to form a massive wall of ice in front of her while I veer off to the right side.
+
+Moments later the beast falls for her trap and shoots thousands of ice fragments into the sky making a cloud of snow. I use enemy detection and ignite my blade while diving into the heavy snow cover.
+
+*SHINGGGG*
+
+Both of us fly out from either side of the snow cloud. I leave a fiery gash across the Orc’s chest while she leaves shards of ice deep in the monster’s back. The snow dissipates and it lets out an ear-piercing roar. The mace flies out of its hand and the beast begins to glow dark red.
+
+Maria and I grin at each other while admiring our dual attack’s damage. The High Orc reaches for its sword and glares at both of us.
+
+Maria runs forward and glows bright blue. I follow and veer off to the right again. As she creates an ice wall, I see a shift in the monster’s eyes. This will be different… I change my trajectory and watch the events unfold.
+
+*SHINGGGGG*
+
+The High Orc slices the Ice wall in two with ease, it narrowly misses Maria as she dodges to the left. Her eyes open wide with fear.
+
+I ignite my sword with flames and run toward the beast as fast as I can. The sudden change in temperature as my flames burn bright catches its attention.
+
+“OVER HERE TOUGH GUY!”
+
+It grunts and turns to face me, then charges.
+
+*CLANGGG*
+
+I’m met with the overwhelming force of a much stronger opponent’s blade. This time I didn’t have much time to dodge, I’m more focused on distracting it from Maria.
+
+The monster follows through and pushes my sword back effortlessly, throwing me to the ground and landing a deep gash across my abdomen. I reflexively burst into a ball of flames and the beast shrieks while stepping back.
+
+I quickly regenerated the best I can to stop the bleeding and dart away. My status reads 655/1215 HP and 1040/1215 MP.
+
+I look around to see Rei still just standing by with her arms crossed and Maria getting to her feet glowing bright blue 20m behind the Orc.
+
+I grin.
+
+“Looks like I’ll get to test this out sooner than I thought.”
+
+Maria and I lock eyes and both start running toward the beast from both directions. Resilient, even after being totally overpowered she’s able to face off against this monster seconds later without hesitating. I like what I’m seeing.
+
+The High Orc lets out a roar and focuses its attention on me. Then begins to charge.
+
+I erupt into a massive ball of flames and follow its lead. With a thick wall of fire surrounding me on every side, I decide it will mask my next move perfectly.
+
+“Berserker.”
+
+The flames around me seem to burn darker as I activate my new skill. Power and intense energy surge through my body. It feels like I just took 10 shots of adrenaline mixed with Hudson’s strength buff.
+
+I feel incredible….
+
+I let out a yell and charge forward covered in a vale of dark flames. All I can see is the enemy in front of me, I have laser focus and feel like a killing machine. The closer I get to the beast the more tunneled my vision becomes.
+
+I jump through the air to let out an attack. Flames trail behind me as I travel faster than ever before. My blade flashes red for a moment as it slices through the High Orc’s Neck like butter.
+
+*SHINGGG*
+
+*THUDDD*
+
+[Level Up]
+
+I fly past the beast and land behind it. My flames die down and I deactivate my berserker skill. It’s all over so quickly, maybe that was overkill.
+
+“Well, whatever. That was rush….”
+
+I turn around to admire my work.
+
+The headless High Orc’s body still stands upright, with its entire lower body frozen solid.
+
+I see Maria 10m away breathing heavily and drinking an MP potion. She locks eyes with me and smiles.
+
+“11 more levels!”
+
+Rei walks over as well.
+
+“You two work well together, I wasn’t expecting it to go that well.”
+
+I turn to her.
+
+“Thanks? I think?”
+
+She laughed.
+
+The monster’s body disappears and drops a large mana crystal along with a large steel sword.
+
+I pick up the sword and use appraisal with two blades in hand.
+
+Active Items:
+
+[High Orc’s Sword] +250 Strength
+
+[The Flame Emperor’s Sword] Fire Aspect +77% Strength +29% Mental Strength
+
+It looks like my sword’s stats have been raised again. The mental strength went from 28% to 29%. Seems like it only levels up with me when it glows… Interesting.
+
+I hand Maria the Orc’s sword and grab the mana crystal off the ground.
+
+“Hey, try this one on for size.”
+
+She takes the blade and swings it around.
+
+“Looks like you can handle a heavy blade now huh?”
+
+Maria looks up.
+
+“Maybe, this strength boost makes it a lot easier to swing. I haven’t ever felt a sword like this!”
+
+She keeps swinging it around aimlessly with a grin ear to ear. Rei chimes in.
+
+“Well, any further and we’ll get pretty close to the boss room. I’m not sure if it’s a good idea to challenge it today. Maria, how much MP do you have left?”
+
+“Six more potions!”
+
+Rei turns to me.
+
+“What about you Jay?”
+
+“Uhh- I’m not sure, enough though.”
+
+“Okay… well, I think our best use of time and resources today would be farming around the dungeon’s start point. One or two more fights for Maria would be ideal, then I guess as many as you can handle Jay.”
+
+I nod.
+
+“Fine, makes sense. How tough is the boss though?”
+
+“Well, I don’t think you should face it alone. It’s definitely a C Class monster, a dungeon like this being labeled D Class would not slide in the capital. That’s for sure.”
+
+I smirk to myself.
+
+“Good to know. Maybe we can face it together sometime this week?”
+
+She looked at Maria and me curiously.
+
+“Maybe.”
+
+We all turn around and begin to walk back the way we came.
+
+Over the next 4 hours, we circled around the starting portion of the dungeon.
+
+Maria faced off against 2 high orcs and gained another 21 levels. She’s level 211 now. They both dropped mana crystals, but no weapons.
+
+The first fight took 3 MP potions and the second only took 2. Her speed of progression is pretty insane!
+
+I faced off against 5 more High Orcs. When fighting solo I can focus more on utilizing my speed and agility to land easier hits. I gained 5 more levels, I’m at 248 now. The Orcs all dropped mana, and one dropped a mace.
+
+I tried to give all my items to Rei, this is a guild-run dungeon after all… my contract is still valid. She let me keep the mace, apparently, this amount of mana is more than enough to compensate for today. I happily accepted her offer.
+
+We all left the dungeon as the sun began to set. Maria spoke up as we made our way down the mountain back toward town.
+
+“If I train here a few more days I could hit level 250 this week too!”
+
+Rei and I both turn to each other, then look at her. I reply.
+
+“Yeah… you’re right. I thought I leveled up fast, your progression is crazy… like… this has to be some kind of record.”
+
+Rei chimes in.
+
+“Yeah. Honestly, it’d be a good idea for both of you to train together this week. As long as you don’t face the boss, power leveling here would be the most efficient use of your time.”
+
+I turn to Maria.
+
+“I’m down. How about first thing tomorrow morning?”
+
+She nods.
+
+“Let’s do it!”
+
+With that, we walk back into town and report to the guild. There happens to be a class going on in a training room with new student recruits. Maria and Rei both step in to help out.
+
+I leave immediately, helping newbies just isn’t my thing… I’m not interested. Food is much higher on my priority list right now.
+
+The sun fully sets as I head into town and eat a big meal at a local diner. Next stop, the village market!
+
+The streets feel empty compared to the crowded chaos of the capital.
+
+As I near the trade area I hear a familiar voice.
+
+“Hey!!! Is that Jay??”
+
+My old merchant friend recognizes me from a distance.
+
+“It is! How’s business?”
+
+He nods.
+
+“Slow recently.”
+
+I pull out the giant mace from my item box.
+
+“Well, how about this? Can I speed things up for you?”
+
+The old merchant’s eyes went wide as he examines the mace.
+
+“Where’d you get this???”
+
+“Some guild-run dungeon around here. Pretty cool huh?”
+
+“It’s… Incredible. We don’t get many items like this around here. At the auction, I’m sure this could go for over 1 gold, but I-“
+
+I interrupt.
+
+“Name your price. I know it’ll be way under auction pricing. You have to make a profit too, especially around here. The market must be volatile.”
+
+He nods.
+
+“Appreciate it, would you take 45 silver?”
+
+I eye the items in the back of the shop.
+
+“How about 10 MP and 10 HP potions? D Class, if you have that much?”
+
+His eyes lit up.
+
+“Sure thing! Right Away!”
+
+The old merchant rummages through the shop’s storage and comes back with handfuls of potions.
+
+I place them all in my item box and shake the merchant’s hand.
+
+“Pleasure doing business with ya old man! Hope I see you again soon.”
+
+“You too kid! Thank you!”
+
+I wave and leave. I could have definitely gotten a much better price, but I just wanted to do a good thing. I don’t really need the money anyways, after farming Minotaur all week I’m pretty loaded.
+
+With a smile across my face, I make my way back home.
+
+Once inside I take a hot shower and collapse into bed. It’s been a long day.

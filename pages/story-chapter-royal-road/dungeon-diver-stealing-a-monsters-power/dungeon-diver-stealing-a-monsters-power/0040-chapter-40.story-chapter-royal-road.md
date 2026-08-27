@@ -1,0 +1,217 @@
+---
+id: dcbb3070-ba93-581a-94b7-efdced3bba2d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40"
+slug: 0040-chapter-40
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 40
+ownLength: 1535
+unit: words
+ownProgress: 1535
+publishedAt: 2023-02-26
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1123794/chapter-40"
+royalRoadId: "1123794"
+markedReadAt: "2026-06-29T20:33:11.269Z"
+---
+
+"Trolls can regenerate! Just cutting off their heads isn't going to kill them!"
+
+I looked over my shoulder at Talia as she yelled at me and rolled my eyes in return.
+
+"You know you could have briefed me on what kind of magic they actually had. That would've been pretty helpful."
+
+She nodded her head but I could tell she was focused straight ahead at the troll.
+
+Cori finally arrived too, he stayed back 10m or so just like the first time we encountered this monster.
+
+Talia grinned and nodded at him.
+
+"Alright Jay. Let's attack the same as last time. Immobilize the troll, and do not get hit. Cori will finish it off once we've done our job."
+
+I nodded and gripped my sword tight.
+
+"CRRRUUAAARR!"
+
+The troll already grew back the lower portion of its head. It was starting to shriek and crawl towards us.
+
+Talia took the lead this time, I could tell she wanted to show off a little bit too.
+
+She's very agile and quick, her sword looks light weight. She must have high speed and agility stats just like mine.
+
+Talia hopped around the swamp and got closer to the regenerating troll. I followed close behind positioning myself to land a secondary attack.
+
+We were less than 5m away now. The troll's head was almost fully reformed, it's amazing how fast its magic works.
+
+With a swift movement of her blade, Talia attacked the monster. It shrieked and tried to claw her as she made a deep gash in its mid section before dodging to the left.
+
+I was close behind and landed a powerful yet agile attack of my own. I dove in landed a clean slice on its left arm. My sword cut through it like butter, the arm fell in the swamp with a splash. I dodged to the right as the beast desperately tried to claw me with its remaining hand.
+
+I looked at Talia, she was on the opposite side of the monster and there were trees blocking its escape to the left or right. We both grinned at each other as we walked in closer cornering the troll from escaping.
+
+I lunged in and aimed for the troll's left leg. Talia went for the right arm.
+
+Both were sliced clean off after our dual attack. We charged in over and over until the beast was a pile of parts on the swarm floor.
+
+It was a bit gruesome, but what else can we do right now? I looked up at Talia.
+
+"It's immobilized. Now what? How do we kill this thing?"
+
+Talia grinned.
+
+"Cori you're up!"
+
+The pale man sprinted in glowing with a faint white light.
+
+He placed his hands in front of his body and opened up a light colored portal in the air.
+
+The moment he opened the portal a dark red light started to leak out. It looked and felt exactly like my fire magic.
+
+He drew closer to the troll's mangled body and opened the portal wider. Flames poured out and began to burn the beast to ashes.
+
+In a matter of seconds the troll was burned to a pile of ash.
+
+I heard a familiar sound ringing in my head.
+
+[Level Up]
+
+[Status Open]
+
+____________________
+
+Name: Jay Soju
+
+Level: 142
+
+Hp: 715/715
+
+Mp: 655/715
+
+Strength: 342 [+125]
+
+Speed: 406
+
+Agility: 424
+
+Defense: 308 [+123]
+
+Mental Strength: 342 [+68]
+
+Skills:
+
+Absorption
+
+Swordsmanship
+
+Combat Magic [Fire Summoning]
+
+Inspect [Special Grade]
+
+Enemy Detection
+
+Body Hardening[Special Grade]
+
+Items Equipped:
+
+Golden Wolf Ring [+20% Mental Strength]
+
+Cyclops Eye Pendant [+40% Defense]
+
+Stainless Steel Sword [+125 Strength]
+
+_____________________
+
+"Nice, a level up."
+
+I turned to Cori and Talia.
+
+"Anything else you two want to tell me?"
+
+Talia looked at me with a concerning look and grabbed her sword. Cori stood on guard and his white light started to glow brighter.
+
+My eyes went wide.
+
+"Hey, hey! Sorry! I just meant it would be nice if you told me how to kill these things before we entered the dungeon ya know!"
+
+Talia looked at Cori and shook her head as she put her sword down, he stopped glowing as well.
+
+That was kind of scary... why'd they freak out on me.
+
+Talia spoke up.
+
+"You didn't know how to kill a troll? For real?"
+
+I shook my head.
+
+"I didn't even know trolls existed in real life dungeons before today, I've only read about them in comics."
+
+Cori grinned a bit. Talia laughed out loud.
+
+"Wow. I though you were just playing dumb. With your battle technique I thought you were a more experienced hunter. My bad. Really."
+
+I nodded slowly. I guess it is pretty unheard of to randomly jump into D class dungeons without any research or knowledge of the monsters inside.
+
+"My bad, you're right. It's not your job to educate me. It would be nice to know a thing or two  about these monsters though, if you don't mind."
+
+She nodded politely.
+
+"Sure, sure. For starters this is a troll dungeon, it's a middle grade rating. You should definitely already know that. The regular trolls are around level 140 to 160. Their combat skill and stats are about 20% lower than their perceived level."
+
+"Yeah, I could tell. They were an easy fight."
+
+"Their skill is the tricky part. Trolls have a special kind of magic called regeneration. Even if you cut off its head they can still regenerate and survive to keep battling. If you cut it into pieces enough times you could technically wear down its magic power and HP, but I think that would take hours. The only way to nullify its magic instantly is with a strong acid or fire attack."
+
+I put a hand to my chin and thought to myself. I assumed it was something like that, I underestimated them and didn't even use my own fire magic. This battle could have been over even quicker.
+
+"Makes sense. Cori, what was that skill you used? Do you posses a fire magic combat skill?"
+
+He shook his head and started to glow with that same white light again.
+
+A small rectangular portal opened up in front of us and I looked inside.
+
+There was a dark red floating stone inside. The magic flames were coming out at an alarming rate, they felt much more powerful that my own the closer i got to the source. He closed the portal the moment I got a good look. Talia spoke up.
+
+"Cori has a rare spacial magic skill. We obtained that fire stone from a boss in the bedrock region a few months back. It was a high level D Class boss, we were on a 5 person raid team. It's a very rare item, it comes in handy."
+
+I eyed her curiously.
+
+"It doesn't run out? Ot need to be charged? Is it just unlimited fire magic? How's that even work? I've never seen or heard of a so called fire stone."
+
+"It would normally burn to ashes in a few hours. Cori's spacial magic works like an item box to store items. It can contain magic items and they wont be effected by the outside world, its like time stops inside of his mini pocket world. We've been able to use it many times while traveling. Neat skill right?"
+
+"Yeah. That is a good skill, along with an enemy detection skill as well?"
+
+Cori shook his head and pointed.
+
+He glowed white and a portal opened up 20m away from us. Cori spoke quietly.
+
+"I can sense magic in a large area surrounding my portals."
+
+I looked at him and he stopped glowing.
+
+"Ahh. Okay, makes sense again. Well, now that you've shown me your skill maybe this will help us out a bit too."
+
+I grinned and pointed one pointer finger up in the air igniting it into flames like a candle.
+
+They both stopped and stared. Talia spoke up.
+
+"You had a fire skill and kept quiet?? This would have been a whole lot easier ya kno-"
+
+"Yeah, yeah. I'm an idiot I get it. Now that we've actually made a proper introduction, let's do some hunting. I think we can make a whole lot more than 5 silver each today."
+
+I smiled. It was pretty funny. We all just kind of jumped into this dungeon without knowing a thing about each other.
+
+Talia sighed.
+
+"Agreed. All I have is a swordsmanship skill by the way. I'm not hiding anything else."
+
+Her voice quivered a bit when she spoke her last sentence. Not much, but enough for me to notice... I decided not to bring it up just yet.
+
+The troll's body disappeared and Talia picked up the large mana crystal.
+
+"One down. We'll count them all up and spit the crystals evenly after we exit the dungeon."
+
+We all nodded and started walking through the shallow swamp to look for more trolls.
+
+It was a rocky start, but I think it's going well.
+
+The only major thing that irks me is the fact that I couldn't absorb the troll's skill. Maybe I'm missing a condition? Or is it not even a skill? I'll find out by the end of today for sure.

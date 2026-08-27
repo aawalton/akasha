@@ -1,0 +1,129 @@
+---
+id: f82490b9-fb18-5c5b-8c38-deb86570f1df
+page-type-slug: story-chapter-royal-road
+title: "April Fools - The Wish: Part Five"
+slug: 0008-april-fools-the-wish-part-five
+partOf: dungeon-devotee
+position: 8
+ownLength: 1488
+unit: words
+ownProgress: 1488
+publishedAt: 2022-04-01
+link: "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/875406/april-fools-the-wish-part-five"
+royalRoadId: "875406"
+markedReadAt: "2026-06-29T22:39:17.180Z"
+---
+
+Edmund had grown mostly certain the genie wasn’t real.
+
+It stood to reason. No being could fathomably manipulate the Eternal Depths to such an extent other than the Depths itself. It had to be some trick of Liam’s, if not Liam himself. Besides, were the genie not of the Depths, they would’ve broken the party size limit. Edmund doubted even delvers of such obvious power could survive Liam’s wrath.
+
+That was, of course, assuming the four women he found himself surrounded by were real. Edmund wasn’t too sure. They looked like poorly-conceived literary characters, as if Liam had pulled them out of a two-copper adventure novel or from a song sung by a particularly drunken bard.
+
+The smoke billowing through the air around him supported that theory. Were four other delvers truly accompanying him, The Recluse would’ve left his Madness weak. As it was, the hallucinatory smoke seemed intent on spelling out a nonsensical message about Ikea closing down. Edmund had no idea who or what Ikea was, but apparently its manager was moving on to bigger and better things, and it made a lot of people very upset. It seemed like a strange thing to be upset about. Edmund didn’t particularly care. He had more pressing matters to worry about.
+
+Edmund tightened the loop of his rope around the little dragon’s maw, cinching it shut. Neither his arm nor the plain-looking rope he’d found in a hidden chest should’ve had the strength to restrain such a beast, but Edmund had seen enough magical bullshit in the past thirty minutes that he’d learned not to question it. Thrax, that Ariane woman was biting the damn thing.
+
+Truth be told, Edmund didn’t understand the urgency of their attack. Pinned down as it was, the beast clearly no longer posed a threat, yet the strangers continued to assault it with hungry desperation as if finishing off a lowly mob would drop loot. Everyone knew loot drops only occurred after bosses or at the end of the level, and Edmund couldn’t see anything even resembling an exit. Still the women struck.
+
+To his left, Cat, the bomb-happy samurai rained devastation upon the dragonling. To his right, Maud batted away its mighty attacks like they were nothing. Behind him, Elaine kept screaming something about the sky, which Edmund had to admit was the best false sky he’d seen in the dungeon thus far. If he hadn’t known any better, Edmund might’ve thought he wasn’t underground anymore.
+
+The two glowing orbs gave it away. The others had called them ‘moons’, but Edmund had never heard the term. Linaria certainly didn’t have such things.
+
+Whatever they were, they were getting closer.
+
+“Stop!” Elaine shouted over the chaos. “You have to stop! Lun’Kat is going to—”
+
+“What was that?” Cat perked up.
+
+“She said Lun’Kat, not Cat,” Maud corrected.
+
+“Oh, okay. Carry on then.” Cat looked away to return her focus to the fight.
+
+The panic on Elaine’s face gave Edmund some pause, enough hesitation, at least, to gaze back up at the two red moons with a critical eye. On cue, letters made of smoke drifted through the air.
+
+Lun’Kat, the Stygian Deceiver
+
+The letters glowed a familiar red, with an image of a crown sitting atop them.
+
+“It’s a rare boss!” Edmund yelled to the others. “We can fight it!”
+
+Elaine visibly paled. “You’re insane.”
+
+“So they keep telling me.”
+
+Ariane tore away from the young dragon’s throat, her chin dripping with its lifeblood as the creature finally died. “Yes,” she growled, drunk on stolen power.
+
+Relative quiet—as quiet as anything could be given the chaos around them—filled the air as that last of Cat’s explosions rang out. She looked skeptically up at the mother dragon. “Are you sure? That thing looks a bit—”
+
+“It’s a rare boss,” Edmund repeated. “By the fairness accords it has to be something we could feasibly kill.”
+
+Maud scowled. “I’m not sure that’s how it—”
+
+“That’s not how any of this works!” Elaine shouted. “Look at the moons! Lun’Kat is going to—”
+
+Ariane shrugged. “Sounds good enough for me.” She turned and charged into the darkness, leaving Edmund to wonder how exactly she planned on getting to the beast circling above them.
+
+That thought led Edmund to wonder how exactly he planned on getting to the beast circling above them. There had to be some way up; the dungeon wouldn’t have posed this challenge otherwise. He had to be missing something.
+
+Edmund rubbed at his temples as he wracked his mind for a plan, a strategy, some tool the Depths had given him to face this threat. Madness answered.
+
+The smoke from the burning dragonling swept in front of him, twisting and weaving itself into the shape of a staircase. Edmund placed his boot upon it and found it solid. “This way!” he yelled to the others as he darted up the steps.
+
+Maud looked up at him with a furrowed brow. “What is he walking on?”
+
+“Invisible stairs?” Cat offered with her head tilted in confusion. She watched as the strange man bounded up through empty sky. “Some kind of stairway to heaven?”
+
+“Hmmm,” Maud said, scratching her head. “Makes me wonder…”
+
+Elaine rounded on the two of them. “Wait, how do you know…” She trailed off as she noticed the confused looks on their faces. They had no idea what she was talking about. “Nevermind. We need to stop this.” She spun to face the genie that remained curiously nonchalant about this whole apocalyptic affair. “I still have one wish left.”
+
+“No wishes!” Edmund shouted from a thousand feet in the air, somehow hearing her over the cacophonous battle around them. He hadn’t spent his wish for a reason. The Eternal Depths gave away nothing for free; a genie granting wishes couldn’t have been more obviously a trap. The fact that thus far every wish had gone horribly for everyone involved further confirmed his theory, and yet Elaine wanted to make more wishes. Sometimes it felt like he was the only sane one in this entire gods-forsaken dungeon.
+
+“Good idea, listen to the madman running through the sky who wants to fight Lun’Kat,” Maud said.
+
+Elaine scowled. “We have to do something.”
+
+“Look out!” Ariane’s voice echoed through the sky.
+
+All eyes turned to see Lun’Kat overhead, some kind of rope hanging from a blade through her wing. From it dangled Ariane, hurdling through the air at mach one as the mother dragon flew about.
+
+Unfortunately, by the very nature of the speed of sound, Ariane reached Edmund before her warning.
+
+They collided midair, the force of the impact loosening Ariane’s grip and knocking Edmund from his stairway. They plummeted together.
+
+With an exasperated sigh, Maud waved her hand and the baby dragon leapt into action. Driven by Maud’s magic and the might of its unbeating heart, the dead dragon’s powerful wings bore it into the air. Edmund and Ariane landed unharmed upon its back. Together it carried them slowly and safely towards the ground.
+
+Until a chunk of moon the size of a particularly cheaply made outhouse crashed into its left wing.
+
+Again the pair plummeted, this time accompanied by half of a baby dragon.
+
+They landed comfortably on some kind of trampoline, delver, vampire, and dragon-corpse alike bouncing back up into the air twice before Edmund and Ariane jumped off. The baby dragon’s corpse continued to bounce, flailing limply through the air until its motion finally dispersed.
+
+“Best points I’ve ever spent.” Cat beamed at them. “I always wanted to try that.”
+
+Her smile only flattened slightly when another moon shard crashed into the dirt behind her, shaking the earth beneath her feet.
+
+“Enough!” Elaine cried. She rounded on the smirking genie. “I still have one wish left.”
+
+“You do.”
+
+“No!” Edmund shouted. “The wishes are a tra—”
+
+Elaine didn’t let him finish. This bad joke of a series of events had already gone on far too long. With neither hesitation nor uncertainty in her voice, she made her final wish.
+
+“I wish none of this ever happened!”
+
+“Ha!” The genie roared. “Same as last time!”
+
+With a blink it was all gone. The earth no longer quaked. Dinosaurs no longer roamed the land. Lun’Kat no longer raged above.
+
+Elaine was alone. She stood on the road beneath the evening sky. A lamb with golden fleece looked up at her.
+
+“Why hello there.” She approached the lamb, but it pulled away before she could stroke its head.
+
+The lamb’s mouth opened, and instead of bleating, it belched at her.
+
+Looking particularly pleased with itself, the golden sheep turned away and trotted off, kicking mud up onto Elaine’s shoes in the process. She could only gaze in confusion as she watched it leave, staring into the shadowy trees long after the last flash of gold disappeared behind them.
+
+“Huh,” she muttered to herself as she replayed the encounter in her mind. “That was weird.”

@@ -1,0 +1,129 @@
+---
+id: 62cdf337-7000-525c-bf09-9d34722972ac
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12"
+slug: 0012-chapter-12
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 12
+ownLength: 1086
+unit: words
+ownProgress: 1086
+publishedAt: 2023-02-05
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1106387/chapter-12"
+royalRoadId: "1106387"
+markedReadAt: "2026-06-29T20:32:12.584Z"
+---
+
+The sand felt warm.... My chest felt warm.... My leg felt warm.... Wait... Why is everything so warm?!?
+
+I tried to open my eyes but was blinded by a green light. As I slowly adjusted to the brightness I see Abby looking at me with a satisfied smirk on her face. Both of her hands were on top on each other hovering inches from my chest.
+
+I forgot she was here entirely. I was way too focused on my battle to think about anything else.
+
+I smiled and relaxed a bit, then thought about the situation again. I looked down at my torso. The large gashes on my chest were slowly disappearing, that's what the warm feeling was... WAIT....
+
+"Abby!! You're a healer????"
+
+She smiled and nodded.
+
+"Yeahh, I thought it'd be better to tell you after the battle so you wouldn't get yourself hurt... but it looks like you went all out anyways. To be honest I thought you were a goner. You definitely weren't ready for this dungeon. That wolf was wayy stronger than you."
+
+She grinned and shook her head back and forth in a teasing manner.
+
+"Heyy, what do you mean???? This is my life we're talking about!!"
+
+"You're alive aren't you? And now you're a lot stronger, good job. I'm glad I brought you today, now we can do it all over again!!!"
+
+With a concerned look on my face I just threw my head back into the sand and let her heal the rest of my wounds.
+
+About a minute later I stood up and stretched. My leg was completely fine and my chest had no signs of prior injuries. Her skill is pretty incredible.
+
+Abby threw me a mana crystal.
+
+"There ya go, you earned it. Let's keep moving."
+
+I caught the crystal, shoved it in my back pocket and followed her close behind.
+
+I was in a bit of a euphoric state. I just had the most intense life threatening battle of my life. All of my adrenaline and endorphins were still pumping full force through my body, it felt pretty good.
+
+I checked my HP and it was at a perfect 160/160, my MP was at 45/160.
+
+We walked for about 15 more minutes. As we passed another large boulder pile my stomach almost came out of my mouth when I heard a familiar deep growl.
+
+"Grrrrruuurrrrrrr"
+
+2 massive wolves stepped out from behind the rock eying us hungrily.
+
+Abby jumped in front of me without hesitating.
+
+"Let me at these guys, stand back and take a breather."
+
+I just nodded and stepped back.
+
+The ground began to rumble and I watched Abby run full speed towards the wolves. She was surrounded by a green light similar to the one she used on me a few minutes ago, but this light seemed different.
+
+This must be her 2nd skill...
+
+The ground around her started moving like it was alive. Two huge spikes made of rocky sand formed under the wolves and skewered them instantly. The materialized weaponry lifted their bodies way above the ground.
+
+The winner had been decided just like that. I was thoroughly impressed and too shocked to speak.
+
+She walked over to the mounds of rock and lowered the corpses down to her level while waiting patiently for them to disappear.
+
+"That was a good warm up, let's head over to the boss room before it gets too late in the day."
+
+"Hey wait a minute!!! What was all that!!!?? A warm up??? The boss room?? Are you trying to get me killed??!???"
+
+She laughed and picked up the two mana crystals.
+
+"Come on, you don't have to fight it. I just want to show you what you're missing out on. I get to fight some pretty strong monsters at the Hunters Association's private dungeons sometimes. It's the best way for you to get stronger!"
+
+"What do you mean?? Is this some big elaborate recruitment plan?? Or what..?"
+
+"No no noooo, don't think of it like that. Although I'd love for you to join the Association, I'm not just trying to recruit you. Mr. Raynard is always so serious, I never get to have funnnn."
+
+She pouted and puffed out her cheeks.
+
+"Ahhhh. Hm. Alright. I guess I get it."
+
+I actually did get it now. The more I actually thought about her situation the more it made sense. Abby's attitude wasn't a great match for the seriousness of the Association.
+
+I guess she really is just trying to blow off some steam today.
+
+Who am I to ruin her fun? Plus, I would like to see the boss for myself... even if I'm not going to fight. It may be good to gauge this new boss's strength and abilities for my potential future battles.
+
+She looked at me with a smile. I was zoning out thinking to myself again...
+
+"Well, let's keep going. We're less than 2km from the boss room. Come onnnn!"
+
+She pointed to a larger rock pile in the distance. Then we both started walking towards it.
+
+20 minutes went by.
+
+Abby defeated 3 more wolves with ease as we walked. I was still astonished by her amazing strength but decided not to comment on it anymore.
+
+"Hey uhhh, what's the boss like? A huge wolf or something? A-And how strong is it exactly?? If you had to put a level to it?"
+
+Abby grinned.
+
+"Hmmm a level? Maybe 70. You'll see, it's pretty much a wolf.... Plus it uses magic!"
+
+I stopped walking in place.
+
+"Level 70.... And it uses magic? W-What do you mean by that??? What kind of magic??"
+
+She just looked at me with that same grin again.
+
+"Just come on, we're so close. I won't make you fight it, don't worry. I just want to show you there is so much more out in this world than that playground of a starter dungeon you're stuck in. You can become a lot stronger!! I know it."
+
+She insulted me... but also encouraged me at the same time. I felt a bit confused.
+
+"U-uhm I'll take that as a compliment I guess."
+
+"Good."
+
+She smiled, nodded, and turned to keep walking towards the boss room.
+
+The thought of a level 70 monster was very overwhelming, but at the same time it was exhilarating. Abby had piqued my interest. I needed to see this boss for myself.
+
+I took a deep breath in through my nose and out through my mouth before following Abby deeper into the dungeon.

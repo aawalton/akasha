@@ -1,0 +1,253 @@
+---
+id: c13170f8-7858-58d6-9bb0-e82e27eb426b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43 - Showtime"
+slug: 0045-chapter-43-showtime
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 45
+ownLength: 2937
+unit: words
+publishedAt: 2026-07-14
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3673958/chapter-43-showtime"
+royalRoadId: "3673958"
+---
+
+“Child, what are you doing?”
+
+“Fixing the mess you made.”
+
+Mentally, he tried something. Something Kairon had attempted before with the Valdren militia. He grasped at his domain, the part of it that instinctively sensed his intent. Then, he funneled the emotions he kept tucked away in the back of his mind. Fear, aggression, disbelief, distress. Each was added into a concoction, distilled into a concentrate, and then dumped over the metaphysical intent Kairon had towards Hector and his guards.
+
+He didn’t want his domain seeing them as an enemy, but no longer as a neutral party. He needed to turn up the heat, so to speak. To impair judgement, and push for a quicker exit. Not so much that they’d become ill, but just enough…
+
+With a snap, something shifted. It was a hard feeling to describe. Like a new pair of lightly tinted glasses had been placed over his mental view with Sovereign Eye.
+
+Ever so subtly, a slight tugging grasped at the humans. It wasn’t one he could see. Not like the source energy with Elson had been. But it was something more… subtle.
+
+That will do. It’s the best I can manage. I need to make Hector want to depart, but without making him overly aware of the domain’s influence. Make him irritable. Sick. Hasty. And ready to believe the first rational thought that comes to mind.
+
+From outside, a stream of brood imps began entering the tower. At his mental orders, they specifically approached from the east side of the city, avoiding the line of sight from the west gate where Hallen was currently located. Twin columns of workers marched inside, filling the chamber with more and more red. Blood, imp, and haze alike meshed together.
+
+Despite that, it only took the city lord moments to identify the little supervisor in the crowd. “Shiny! I need every water skin we have. I’ve ordered the imps to scavenge for them near the farm. Check with Bean.”
+
+“Yes master!” replied Shiny before bolting off.
+
+“The rest of you, begin using anything you can—cloth, sand, claws—whatever it takes. We need this room scrubbed clean.”
+
+A chorus of acknowledgements ran through the scurrying workers. Several imps found the colored fabrics Kairon never got to, and began using them as makeshift towels.
+
+Others began inspecting and clawing at walls. One even leaned down, intent on cleaning the golden liquid in the channels.
+
+“No, no, no!” shouted Kairon. “Do not touch or attempt to clean the shiny energy in those stone grooves. It is volatile, and frankly I want it.”
+
+Hissing, the poor worker reeled back, the tip of his claw singed. “Ow!!! Hurt!”
+
+“See what I told you?” sighed Kairon.
+
+Shaking his head, he ensured the rest of the imps understood before re-entering Sovereign Eye. Once there, he drew his attention to the western gate. Lord Hallen was irritably arguing with his guards, arms crossed. A sort of standoff had formed.
+
+Time… I need more time.
+
+“Boney!”
+
+The squad leader pressed inside. “Master?” he asked hesitantly. “It bad?”
+
+Limping over, Kairon gave him a reassuring squeeze. “No, no. All is well. I need your help. Can you do that?”
+
+Licking his lips, the warrior glanced first at the clambering imps, sliding and cleaning the blood and gore, and then at his master. “Yes!”
+
+“Good. I need you to go to the west gate. Let the other warriors know not to escalate any more than absolutely necessary. That’s the last thing we need. Instead, I want you to lead Lord Hallen to…”
+
+He zoomed out, taking in the city. Where can I keep this curiously devilish lordling busy? What might keep his attention, but also allow operations here to continue?
+
+His gaze landed on the most outlandish structure the city had. The feeding pit.
+
+If I have the imps exit the tower immediately and go to the eastern gates for any drop offs, and come back the same way, the feeding pit should be just out of sight. While it was in the citadel district, it was positioned to the southwest of the tower.
+
+In fact, its proximity actually makes the line of sight even more obscured if we angle things just right.
+
+“Lead our guest to the feeding pit! He’ll be quite taken with it, I think. Let him see a few scraps of meat go in. Oh! And perhaps some corrupted water, too. That man should see the value in that.”
+
+“And if ask? About human?”
+
+“Tell him that I’m seeing to arrangements and will be with him shortly.”
+
+Boney banged claw on chest and dashed outside. Monitoring the situation through his eye, Kairon surveyed the city. Not far away, several wrath imps were gathering more cloth. They took whatever they could find from the east side of the wrath district and stockpile, before rushing back inside.
+
+Other imps were bustling out of the tower, dirty and bloodied wraps in their little arms. Just like that, two trains had formed.
+
+He directed the dirty contents out and clean in. Each was one less rag’s worth of goop on the tower’s dripping stone walls.
+
+Not a minute later, Boney reached the humans and eagerly escorted Hector and his guards to the pit.
+
+For several tense minutes, a frenzied dance began, with Kairon the conductor. Mentally ordering imp after imp, keeping the lines of sight within constraints, and ensuring nothing came to the humans’ attention. Not yet.
+
+It was only when Shiny and Bean showed up with water skins, several others in tow, that he paused to take stock and breathe. “Whew. Good work finding those! Make sure to be careful with them! No water is to spill into those gold channels,” spoke Kairon. “Bean. To me. I need you elsewhere.”
+
+Once the little guy ensured his brethren had the skins to aid in cleaning the blood, he approached. “Yes Master?”
+
+Kairon looked on in disapproval through one part of his mind, watching the proceedings. “The imps are just dumping the dirty cloth and furs outside the east gates. I need you to see to it that the dirty materials are buried in a hole near the farm. Can you do that?”
+
+“Ohhh! Of course! Dig!” he chittered excitedly.
+
+“Yes. Lots of digging. As fast as you can. Depth isn’t important here. Just coverage. And make sure to cover it up when you’re done. Now! Off with you.”
+
+Around him, water sloshed and cloths rubbed. The walls, floor, and pedestal were all scrubbed clean. A red tide began collecting, before other imps draped furs, cloth, and sand over them.
+
+With some gentle prodding from his master, Shiny took charge, melding the chaos into order. Things were going from bleak to hopeful. Slowly.
+
+“What do you think you’re doing?!” came an irate shriek.
+
+Now what?
+
+Turning, Kairon saw several workers tugging at the tent canvas.
+
+“Need cloth! Clean!” urged one.
+
+“Master say!” chimed in another.
+
+“Child! The little ones are defiling my research tent. If you do not stop them, I will.” Script began coming to life on her body, a sign that the demoness meant what she said.
+
+“Just a minute. Everyone calm down!” Hobbling over, Kairon rubbed one black claw under his chin.
+
+“Actually. The tent… With Veron’s new stone form inside…” he mused. “No, no. The tent won’t do. It hides Veron. Hector needs to see this. It's the only way this will work. You three! Take it all down, and use the cloth for cleaning. Quickly!”
+
+“What?!” hissed Sythara.
+
+“Yes master!” they squeaked gleefully. At once, the tent was demolished in a flurry of claw, fang, and imp.
+
+“What are you doing?!” she repeated, shadowy tentacles coalescing around her. “Child! This is my domicile! You are destroying it? How could you?!”
+
+“And everything inside too,” Kairon added. He directed several more imps to pack away anything inside. Bowls of bone dust, bundles of cloth, several rucksacks, blades, utensils, and other oddities were unceremoniously ferried outside and dumped near the stockpile.
+
+“Sythara, due to the situation you instigated, we are doing some… re-organizing.”
+
+“This is what you call re-organizing?! And where are they taking the blood? I wanted to study that. Child, this is not what we discussed!”
+
+“I think a great many things happened today that we did not discuss,” he replied. “Right now, my priority is ensuring diplomatic relations are maintained with Hector. He gives us access to trade, knowledge, and materials that not only the city, but you as well stand to benefit from. What do you give the city access to? Other than harming foreign dignitaries, that is?”
+
+“I… Harmed—dignitaries!?” she spluttered. The demoness launched into a rushed explanation of how it was simply unintentional treatment, but Kairon had enough. He put her ramblings out of his mind.
+
+Instead, he watched from the massive purple eye as the lord in question was poking at the giant stone maw with a sword. The imps around were showing him how it gulped down meat ravenously, teeth slamming shut.
+
+Interesting as that was turning out to be, it still wasn’t enough to appease the lordling. Not for long. Every few moments he shot impatient glances at the tower. Boney tried to regain his attention, but Kairon knew it was only a matter of time before matters would deteriorate.
+
+Hissing irritably to get his attention, the dark eldritch demoness slapped a tentacle on the wall, sending blood squelching. With a huff, she sat angrily beside him, eyes closed. “I can’t watch. You’re contaminating—no. Destroying such a perfect scene for study. The possibilities we could have learned from the human’s remains alone are staggering. And you’re just… just… erasing it!” she huffed.
+
+“Once we send good Hector on his way, we can discuss further matters. Such as your behavior today, Sythara.”
+
+She shrunk into the wall. “I tried my best,” said the demoness meekly. After a moment, one sapphire eyelid opened, looking at him. “Though if I can ask, just how do you plan to hide what happened to the human? Do you think this Hector to be a fool? As simple as the little ones?”
+
+“No. I think Hector to be a sharp young man. But, one with fancies for the dark and magical. That has become very evident in our discussions today. So, we are going to exploit that. The lordling’s not going to see a failed experiment and a murder. He’s going to come in here and see what he wants to.”
+
+“Which is what?”
+
+“Something dark, magical, and fanciful. Only, in a way that his mind can find familiar.”
+
+From behind, a wrath warrior scampered up, bent golden disc in hand. “Here master!”
+
+“Good. Thank you.” Shifting to Sythara, he showed her the golden medallion. “Do you know what this is?”
+
+She was about to dismiss it, then paused, nose scrunching in thought. “That's… That was in the chest of the human. When he fused to the grates. Hand it here,” she ordered, reaching out.
+
+“Ah, ah. This is something I’d categorize as a research material. And seeing that you are still in a period of onboarding, our pact clearly states that as the city owner, I alone decide how it will be distributed. In this case, it will be requisitioned to… set the scene, shall we say.”
+
+The demoness groaned in distress, arms and shadows covering her face. “What will I have left?”
+
+He paused, eyes going hard. “I am forgoing proper evaluations of your actions until our guest takes his leave. And, if you have not noticed, doing my best to remain under control and fix your actions. But do you know what our pact calls what you’ve done?”
+
+Sythara just stared, blue eyes trembling.
+
+“Negligence,” he said coldly.
+
+Leaving her to think on that, Kairon turned away and limped to the pedestal. Delicately, he positioned the bent golden coin next to the orange gemstone. He took a step back, frowned, and adjusted it. He angled it just right, so that the sun bleeding in through the entryway glinted on its metallic surface.
+
+“Perfect.”
+
+In his mind’s eye, he saw as Hector growled something at Boney. Time was almost up.
+
+Looking around, he nodded in satisfaction. The imps had managed to scrub away all the blood, and currently were cleaning up the bits of bone, flesh, and other debris that remained.
+
+The demon mentally ordered Boney to inform Hector he would speak with him soon, and to send him to the tower. But to take as long as possible. Seconds mattered.
+
+He watched, chewing his lip. It took one claw-biting minute, but finally Shiny’s crews managed to finish their business.
+
+What else? What am I missing? What is the last piece… Ah!
+
+“Bring that other human in here!” he called.
+
+From outside, three warriors dragged in the shivering, curled up, and whimpering servant. At Kairon’s direction, they dumped him near the pedestal.
+
+The city lord snapped his claws together, and just as the brood imps finished their final touches, he gave one last set of instructions.
+
+***
+
+Hector was livid. The black scaled demon had made for a wonderful host. At first. But now he wasn’t so sure.
+
+Instead of the promised personal tour of the fascinating walls, he’d spent a half hour just standing like a fool at the gate. All the while, two of his men were missing. Not just missing, but somewhere in the mysterious city currently amidst a commotion. One that he was certain was more than the minor inconvenience the demon would have him believe.
+
+At least he had the courtesy to show him this giant maw. It was rather impressive, all considered. Purifying water and consuming meat into a void. Apparently, after a time, the meat would be released and even multiplied.
+
+The Solari would certainly call this heretical. Will, actually.
+
+Either way, this outing was fun, and the sight was interesting, but his stomach churned and head hurt. This land felt wrong, and even Hector was ready to leave. The thought of shortening the promised tour left a bitter taste in his mouth, but the demon had promised he could return.
+
+Assuming there even is a city to return to after the paladins come.
+
+That left an entirely different sensation in his mouth.
+
+I just need to get Elson and that snake Aldous, and set out.
+
+Honestly, he was only mildly concerned with Aldous. Moderately with Elson. What prodded him the wrong way was the audacity.
+
+“If your lord has done something with Elson, you can consider our deals forfeit!” he snapped at the bone armored creature jabbering at him.
+
+His little eyes narrowed, but the warrior ground his teeth. Based on the anger in those little orange pupils, he was about to shout something back, when he stopped. The warrior went still for a moment, eyes glazing over. When they returned, all pretense of anger melded away. Instead, a resolute calm took its place.
+
+“Master see you now. You follow.”
+
+Hector frowned. That was… weird. Stuffing that away for later, he spat on the ground before following the warrior. The cocky little thing had already begun hobbling off.
+
+As he caught up to the warriors, his guards in tow, one of his escort spoke up.
+
+“My lord… The men. We’re starting to feel dizzy. And no one’s seen Aldous or Elson anywhere.”
+
+“Yes, yes. I know. We’re going to see them now. Aren’t we,” he stated, staring at the back of the imp in front of them.
+
+“Yes! We go!” it replied without bothering to turn around. Instead, it led the humans in a long circle. One that was far less direct than Hector would have preferred.
+
+***
+
+Seeing the lord approaching through Sovereign Eye, Kairon gave the trembling old man a shove. “Look up. Hey. Look.”
+
+Shaky, terrified eyes met his gaze.
+
+He pointed at the glowing medallion, then lowered his voice, speaking almost conspiratorially. “That medallion your lieutenant wore. It wasn’t just jewelry, was it?”
+
+Kairon watched carefully for his reaction.
+
+“W-what? The… The medallion?” Uncertainly, he studied it. “That… That's a Solari signet. Elson was a religious man…” he spoke quietly.
+
+He had seconds to sell this. In times like this, less was more. Kairon needed to let the man come to his own conclusion. When it came to a cover up, you were your own worst enemy. The voice in your head telling you that what you saw was what you wanted it to be.
+
+“Then I think you know what happened here.”
+
+The demon let that sit, moments ticking away. Only when the look in Aldous’s gaze shifted from uncertainty to disbelief did the human speak.
+
+“What… What are you implying?”
+
+Instead of replying with words, Kairon did so with silence. With a slight flicker of the eyes, a subtle movement from Aldous, to pedestal, to sigil, and back to Aldous. Then, like it was the most natural thing in the world, Kairon rubbed a claw over his chest. Like he was scratching an itch.
+
+Aldous breathed in sharply.
+
+“Chest… Chest! That’s where the signet lies! On the pass… I thought I saw Elson tugging at his chest… Thought I saw a glow and a warmth and…”
+
+Like watching a trap slam shut, Kairon gloated internally.
+
+Finally, Aldous took the expression he was after. That disbelief went away. In its place, something more insidious dawned. Terror.
+
+And that is how you convince a human they’ve seen the work of a divine power they’ve never imagined was actually real, only heard of.
+
+Quietly, Kairon left the human to ponder. The demon needed to take his place.
+
+It was showtime.

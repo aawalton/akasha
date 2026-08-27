@@ -1,0 +1,205 @@
+---
+id: 609f207a-d7a2-5129-a9e4-233872eaa6f1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33"
+slug: 0033-chapter-33
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 33
+ownLength: 1405
+unit: words
+ownProgress: 1405
+publishedAt: 2023-02-19
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1117906/chapter-33"
+royalRoadId: "1117906"
+markedReadAt: "2026-06-29T20:32:55.629Z"
+---
+
+There were a few distinct groups of hunters that I could make out. 2 were standing nearby and another 2 or 3 were walking over to the crowd in front of the recently collapsed portal.
+
+They were all wearing professional gear. Some carried long swords, others had daggers, and a few had massive shields.
+
+Each group was accompanied by 1 or 2 people in suits. These must be the teams sent out by each of the guilds nearby. It seems like some of them brought representatives as well.
+
+I looked further ahead. I couldn't help but stare with my mouth wide open.
+
+There were fallen buildings and flattened sections of city. It was still a horrible sight to behold.
+
+I guess there were some monsters that escaped. These guilds were the ones who attempted to stop them. It looks like they contained them in a fairly tight area, but they all disappeared when the dungeon collapsed so I couldn't tell for sure.
+
+"Hey kid! Was it you?"
+
+I looked up to see a man in a suit yelling and waving at me.
+
+Then another voice rang out from the crowd.
+
+"Yeahh! Was it you?? Who took out the boss?"
+
+I nodded slowly.
+
+The first man ran up to me with a card.
+
+"Hey come by the Arcane Guild if you're looking for some extra work!"
+
+"No come visit us at the Cora Guild, I'm sure we could help you reach even higher levels!"
+
+All of the suited men came towards me. Some of the hunters looked interested as well.
+
+"I- uh...."
+
+I was getting a bit flustered and honestly somewhat annoyed.
+
+"It's a pleasure to meet you, come by our Sentano Guild anyti-"
+
+They all started crowding around me asking me questions and handing me cards.
+
+I squeezed my way through the crowd answering politely until I heard my name get called out... this caught my attention.
+
+"Hey! Jay right? You okay??"
+
+Who knows me here?
+
+I looked up to see a group of 3 women. There was a tall brown haired girl waving at me.
+
+I was puzzled for a moment.. then it hit me.
+
+Those are the mages from Pace.
+
+This is a perfect.
+
+"Hey! It's you!"
+
+Once I replied the swarm of people slowly backed off. It seems they realized I was already associated with one of the teams that showed up.
+
+I put on a professional smile and walked over to the group of mages and whispered under my breath.
+
+"Thanks. Let's get outta here!"
+
+The tall girl looked straight at me with confidence.
+
+"No problem, my name's Rei by the way. I didn't get to introduce myself yet, I've seen you around the guild every once in a while. Maria talks about sometimes too, nice to officially meet you."
+
+"Oh! You're one of the mages training Maria? Nice to meet you too!"
+
+She nodded and smiled.
+
+Rei was wearing a light weight combat outfit. It was a dark black color that contrasted her olive skin nicely. I've never stopped to actually look at her before, she is beautiful.
+
+"Helllooo??"
+
+One of the other mages started waving their hands close in front of my face. I must have been zoning out.
+
+"S-Sorry. It was a hard fight, I'm a bit tired."
+
+They all giggled a bit and we walked off. I was pretty beat up from my fight, that wasn't a lie.
+
+We took the main road back into town.
+
+Once we got through the front doors the team of mages brought me to a training room and let me recover in the resting area.
+
+I'd never seriously checked out these training rooms. My main focus has always been to dungeon dive and level up...
+
+They seem to be isolated rooms with mana conductors in the walls and flooring. It'd be pretty difficult to damage it, that's why guild members spar here.
+
+It's expensive magic tech. I'm pretty sure only guilds and government building can afford equipment like these.
+
+Maybe it would be worth my time to actually train in here and learn some new moves.
+
+I finished examining all their equipment and went to go rest on a soft mat near the resting zone. The second I got comfortable I heard a few light knocks at the door.
+
+"You're crazy, ya know that?"
+
+Jack walked through the door with a smile on his face while shaking his head slowly.
+
+I couldn't tell if he was disappointed or impressed. I sat up a bit to hear what he had to say.
+
+"I have to thank you though. The team I sent out just filled me in on the whole situation. Without you defeating that boss on your own we would've had to deal with mutants rampaging through the city for another half an hour or so. It would have gotten pretty bad out there.
+
+I nodded and put my head back on the mat. I was exhausted.
+
+"No prob, just doing my job."
+
+"Here, catch. A thank you from the guild!"
+
+He threw me two small bottles.
+
+"They're D Class MP and HP potions. Drink up!
+
+I drank them and felt rejuvenated the instant they touched my lips. The muscle fatigue didn't fade though, I was still physically tired.
+
+"Keep the item box too, plus whatever's inside. You earned it! My gift to you."
+
+I stood to my feet feeling a lot better than I had moments ago. We shook hands.
+
+"Thanks Jack. I appreciate the warning you gave me this morning, I guess it's just good luck I didn't take it into consideration."
+
+We both laughed loudly and walked out of the training room together.
+
+Once we got into the lobby Jack spoke up.
+
+"I couldn't help but notice your sword is missing. Feel free to use any guild equipment when you're in the dungeons, but I assume you'd like to buy your own."
+
+I nodded. He was right, I didn't like the idea of a borrowed sword to fight my battles. I needed a new one.
+
+Then I saw a familiar face.
+
+One of training room doors flew open and Maria came running down the hall followed by a few of the mages that helped me get back to the guild. They must have told her what was going on.
+
+"JAYY! I was worried?!?! Are you okay???"
+
+"Haha yes Maria, I'm okay. Thank you for being so concerned."
+
+Jack raised an eyebrow.
+
+"Oh yeah! This would be perfect."
+
+I looked over at him with a confused look on my face.
+
+"What would be perfect?"
+
+He grinned.
+
+"Maria is going off to the capital tomorrow with Rei. They're going to get some new equipment for our guild and some personal items as well."
+
+Maria looked over to jack and me curiously.
+
+"Uh yeah we are. What about it?"
+
+"Why don't you bring Jay along? He needs a new sword after all."
+
+Maria's eyes lit up.
+
+"You want to come to the capital with us tomorrow? It would be really fun!"
+
+I was thrown off a bit by the sudden forced invitation. It seemed like a good idea though.
+
+I need to take a breather, a day off shopping in the capital may not be such a bad idea.
+
+"Sure, I'm in."
+
+She smiled.
+
+"Awesome! It's settled. I'll see you here first thing tomorrow Jay. Right when the sun comes up, don't be late!"
+
+I nodded in agreement.
+
+"Perfect, see you then!"
+
+Jack and I continued walking towards the front door. I was exhausted, just by looking at me it was very clear.
+
+Jack opened the exit door.
+
+"See ya. I have a few things I want to talk about, but they can wait for another time. Looks like you need some rest."
+
+"Yes, thank you. I'll see ya."
+
+I walked home quickly. It was really only mid day, but I needed a nap. This is the most battle fatigued I've ever been.
+
+I felt horrible, but oddly satisfied with today's results.
+
+I walked up my apartment steps about 10 minutes later. With a twist of the key I walked in and thew all my clothes on the floor.
+
+After a long hot shower I crawled into bed and fell into a blissful sleep. I drifted off into dreamland with a lot to think about.
+
+I wonder what the capital is like now? The last time I've been there was in my childhood.
+
+It'll be a peaceful day off... I hope.

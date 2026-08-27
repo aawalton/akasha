@@ -1,0 +1,291 @@
+---
+id: 6ae9172e-9d6d-5c53-8757-41bbb65473a7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 50: Training Rooms"
+slug: 0052-chapter-50-training-rooms
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 52
+ownLength: 2798
+unit: words
+publishedAt: 2026-07-31
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3752417/chapter-50-training-rooms"
+royalRoadId: "3752417"
+---
+
+Alright, so you should know the basics of how a novice spell works. Two circles, transformation, stillness, two identities, any desires you want, blah blah blah. Knowing you, I’m sure you’re top of the class.
+
+If, however, you are having some trouble, I would like to remind you that you are the little sister of the best mage in the world (the archmage is a candle next to a bonfire). Magic is a long journey, one that I know you will excel on. Don’t rush things, and remember…
+
+Everything is connected. Each spell circle connects to the other somehow, creating something more than the sum of their runes. It is not addition, it’s multiplication.
+
+Eridor’s Journal to his sister
+
+I kneel down to look at the web, then follow it to the nearby wall. Now that I’m paying closer attention, I can see a few more thin strands around.
+
+Pulling out my lightstone, I shine it down the hall, the extra light reflecting off of the webs. I don’t like using the light, but I’d rather see the webs than walk through the darkness in its territory.
+
+There, towards the back, there’s a struggling cocoon. I carefully step over the web that my little figurine had gotten caught in, then keeping careful watch on the ceiling and walls, I make my way to the cocoon.
+
+The hallway splits again, so I turn of my light and grab another talisman to put in my mouth, then reach for my wand. I hate burning through money like this, but there’d been ten of the talismans, and there’s no way I’m leaving Shar here.
+
+Hide Presence is still active, but I doubt it’ll do much if I touch one of these webs, so I step with caution as I approach the cocoon.
+
+A glance down the hallway to the left and I see it’s shape in the shadows.
+
+The reaver hangs from the ceiling, all twelve of its sharp legs holding to the webs it’d made up there. It’s smaller than the ones I’d seen in the Archmage’s dungeon, but that doesn’t make it any less of a threat. It’s hard to tell in the lowlight, but I’m pretty sure it’s coloring is a little different as well.
+
+I wish Tanya were here. The Lin girl might be able to talk the reaver out of eating me.
+
+The moment I cast a spell, my Hide Presence is going to fade, and leave me with an angry reaver. Cutting through the cocoon is likely to do the same thing.
+
+The reaver starts to move along the webs, and I step to the side as it walks past me towards the automaton at the end, still trying to walk forward despite the webs its trapped in.
+
+I let it go, then once it’s close to the figurine, I cut through the webs of the cocoon with my sword. Shar tumbles out, sputtering from a strange goo that surrounds her..
+
+The spider spins around, but I’m already casting.
+
+Transformation, Fire, Projectile
+
+The circle forms in a second, and the fireball flies forward, hitting it in the face, and making it screech as it sprints across the webs towards me.
+
+Shar transforms into a crow, and flies towards it, her talons scraping at the burnt face of the creature. It attempts to cut her with its legs, but she disappears into the shadows, and reappears behind it.
+
+I run towards them, my brain focusing. A first circle spell barely affected the creature. I’m wary of trying a second circle spell now, but I’m not sure I can actually kill the thing without it. There’s still another trick I haven’t used.
+
+I point to the ground, and cast again, still first circle, but five runes long.
+
+Transformation, Space And Earth, Spike
+
+A spike of earth shoots from the ground, puncturing the body of the distracted reaver with surprising ease as the two identities of the spell empower it.
+
+Again.
+
+Transformation, Space And Earth, Spike
+
+Another spear from the ground, pinning it.
+
+It screeches, but I don’t care as I plunge my sword forward.
+
+The blade sinks deep into the thing's face.
+
+It stops, then its legs curl in as it dies, the spikes of earth holding it upright.
+
+I pull my blade from its face, then spin around as I pull my lightstone out and send it out fullblast.
+
+No more reavers come barreling around the corner, and I keep the light high for a second before lowering it and looking at the angry golem currently pecking the dead reaver.
+
+I take the talisman out of my mouth, and put it in my pocket, “How’d you get caught?”
+
+Shar stops, then hops down, “I must’ve flown through a web on my way through. It was waiting for me, and wrapped me up tight before I could use a skill. No need to worry, it’s venom didn’t do much aside from messing with my mana.”
+
+I look back up, studying the walls cautiously as I slip the lightstone into it’s pocket, “Think there are more?”
+
+Shar joins me in looking down the hall. “I don’t know,
+
+I run my hand through my hair, then look down at the golem with a frown, “Messing with your mana? Are you alright?”
+
+Shar shakes her feathers, and slowly transforms into a cat. “I’m fine. My skills were just gone for a moment.”
+
+I pick up the golem, and put her on my backpack. She stares at me in confusion.
+
+“Stay with me for a bit.”
+
+She doesn’t argue as I activate Hide Presence and slowly walk past the reaver, instead curling up in the spot I usually keep for my metal ball. She must be more spooked than she’s letting on.
+
+Which is understandable. She can literally disappear into the shadows. It must be rare that something gets the jump on her.
+
+I wipe my blade on the fur of the reaver, then continue walking, retrieving my little automaton and taking a different turn on the way back.
+
+Several turns later, and past a couple more webs, I reach a rather imposing opening, the door that used to fill it long gone.
+
+I step through cautiously, and find myself in a rather large room with several old training weapons on the wall.
+
+A human-sized golem stands in the middle of the room, and only a single door waits on the other side of him.
+
+The golem is completely still, his head lowered. He looks to be made out of wood, but is surprisingly well kept for the amount of time he’s been here. Identify Artifact brings up an interesting screen.
+
+Lvl 5 Training Golem
+
+This golem was used to train new recruits hundreds of years ago.
+
+The golem doesn’t react to the identification, and the closer I look, the more I realize that his mana circuitry is inactive.
+
+Shar hops from my bag to study the golem.
+
+I look over the golem “Do you think I should repair him?”
+
+Shar shrugs, then hops back onto my backpack, curling back up. “You want to improve your profession, right?”
+
+She’s right. But it’s not a priority, right now.
+
+I walk past the golem, and over to the door. It’s already partially open, having warped out of its frame. It doesn’t budge when I push it, and I’m forced to kick it a few times to get it fully open.
+
+Beyond is a mostly empty room, a single table off to the side with broken chairs beside it. Three doors rest on the walls of the room, two straight ahead, and one to the left.
+
+I stare in interest as I take in one of the doors, it’s made almost completely of ivory. The other is equally as interesting, being of a purple stone I don’t recognize, red mineral veins moving through it. The third door is relatively normal, but the two interesting doors tug at my explorer’s heart, begging me to see what’s inside. I make my way into the room, then pause as the mana detector at my waist goes off.
+
+A quick circle around the room, and I find the spot that seems to be making the detector go off.
+
+I pull the vial of blue dust from my pack, and blow it onto the wall to see a sequence of runes. Identify Runes tells me that they’re hiding a fourth door.
+
+Deactivate Runes works quickly, adding several lines and revealing the fourth door to me.
+
+It’s a simple door, surprisingly untouched by time.
+
+I look it over, trying to make sure there aren’t any traps on it. Once I decide it’s safe, I take a step back and find a corner to sit in.
+
+The jerky in my bag is easy to find. I rip the piece in half with my teeth as Shar walks out of my bag in her cat form.
+
+“How long have we been down, you think, Shar?” I rip another piece, and offer her a piece without thinking.
+
+She doesn’t even look at the offering, instead studying the strange doors of the room. “Six hours.” she pads around the room.
+
+“You sound pretty confident.”
+
+The cat lifts her head, and gives me a side eye, “I have a great sense of time.”
+
+The corners of my mouth lift, and I quickly try to hide the smile by taking another bite.
+
+She gives me an unimpressed look, then continues her pacing of the room.
+
+“Any idea what could be behind those two doors?” I ask in a more serious tone.
+
+She stops in front of the ivory door. “If it fits with the theme, something related to demons and the undead.”
+
+“Yeah, my thought exactly.” I reach into my pack and pull out the box I’d taken from the talisman room. “Remind me to send a prayer to whoever left these.”
+
+I grab a talisman of Holy Fire, one of Sealing, and the whole set for the corruption barrier. I suspect they’re all needed for the barrier.
+
+Then I put the different talismans into different pockets of my jacket, “You have much experience with demons, Shar?”
+
+“Only the ones chained in the Archmage’s dungeon,” she answers.
+
+I look at the golem, who’s sitting on her haunches in front of the ivory door. “He kept demons in his dungeon? I’m glad we didn’t see any of those.”
+
+“They didn’t live long.”
+
+“Yeah, that makes sense.” I put everything back in my pack, then stand back up, slipping it over my shoulders. “Let’s see what’s behind the hidden room first.”
+
+Shar nods, then pads over to me,
+
+I walk over to the normal door, grab the nob, and open it.
+
+A smile spreads across my face as I take in the room of weaponry. “I love how paranoid the old world was.”
+
+The golem at my side gives me a look.
+
+I ignore it as I pull out my notebook and begin cataloguing the equipment in the room. Most of the more standard weaponry is at the front, mostly being swords and daggers. I do notice symbols of the owls etched into the blades. Past the weapons, there’s several chests against the wall. At the far end of the room, a table sits with more ornate and smaller boxes resting on it.
+
+Sword Of The Owls
+
+Enchanted to channel lifeforce, this blade cuts through corrupted energies with ease.
+
+Fifteen of these blades hang individually against the wall, nondescript sheathes next to them. I identify those too.
+
+Sheath Of The Owls
+
+These sheathes prevent others from seeing the true nature of the blades within.
+
+I turn to the daggers next. There’s a long row of daggers with the same description as the blades, fifteen exact. I grab one, attaching it to the other side of my waist for emergencies. Below that are three daggers individually displayed. I identify them.
+
+Demonic Dagger
+
+Enchanted to protect the user from the corruption of demonic energies. Mana that travels through this dagger takes on a demonic alignment.
+
+Death Dagger
+
+Enchanted to protect the user from the corruption of death. Mana that travels through this dagger takes on a death alignment.
+
+The two daggers are twisted things, their handles made of bone, and their blades twisting with a bloody sheen. The sheathes next to them have the same enchantment as the other sheathes.
+
+Finally, I look at the last dagger.
+
+Dagger Of Reaper Sol
+
+This dagger contains a portion of Reaper Sol’s Energy. Dealing damage with this blade will create Sacrificial aligned mana.
+
+I make my way past the scary looking daggers, and over to the chests. I carefully check the first one for traps, then pick the lock to open it.
+
+Inside I find several folded up cloaks.
+
+Cloak Of The Owls.
+
+Enchanted to keep the wearer warm, repel water, and repair themselves from damage. These cloaks can be used to hide from the sight of the corrupted.
+
+I grab one of them, and unfold it, studying the cloth. It’s a very dark brown, with a large hood. It feels warm to the touch, and I find several pockets sown into it.
+
+Sehara had warned me that a demon was searching for me, and this seemed like a pretty good solution.
+
+I take off my pack, then empty the pockets of my own lightly enchanted cloak. Then I switch out my cloak, throwing the cloak of the owls over my shoulder as a replacement.
+
+I close the chest after that. I’ll have the others switch as well when they accompany me down here.
+
+The other chests open to reveal more cloaks, and black leather armor with the same enchantments as what I’m currently wearing.
+
+Finally, I make my way to the back, with the smaller boxes. I do my same check for traps, then open the first box. Inside is jewelry artfully arrayed. I go through these slowly.
+
+Undead Illusion Amulet
+
+The wearer takes on the energy and appearance of an Undead.
+
+Demonic Illusion Amulet
+
+The wearer takes on the energy and appearance of a Demon, or Corrupted cultist.
+
+One necklace has a claw at its end, while the other has a symbol I don’t recognize, made of obsidian. I draw their appearance next to my entry in the journal, curious if it has some meaning.
+
+Connected Earrings
+
+Each earring can communicate with it’s counterpart.
+
+There are five pairs of these earrings, all of them having a green stone set into them. I think it’s jade, but I’m not familiar enough with it to be sure.
+
+Eavesdropping Stones
+
+These stones can be made to hold conversations that a skilled mage can listen to.
+
+The stones are by far the most innocent looking of the set, looking like normal rocks. I gently touch it, searching for any kind of runes or inscription. Nothing marks them.
+
+Sound Barrier Bracelet
+
+Can be activated to prevent conversations from being overheard by both physical and magical means.
+
+The bracelet is a single piece of stone in the shape of an oval. I suspect that it will work similarly to most enchanted items, adjusting to the size of the wearer.
+
+Retrieval Ring
+
+Will destroy itself to teleport the wearer to the Owl’s teleportation gate.
+
+I study the rings intensely. There’s twelve of them, with three more missing. They’re simple metal bands, with nothing giving away their purpose.
+
+I take one of each item, placing them in my pack. Only the sound barrier bracelet goes around my wrist. The others are a little too risky.
+
+The last box in the room is without traps as well, and as I open it, I find fifteen collars made of light chain.
+
+Soul Anchor Collar
+
+This collar is enchanted to disappear when worn. It anchors the wearer’s soul, preventing necromantic tampering, or demonic corruption. Those who die while wearing the collar can be saved with 5th circle healing magics.
+
+I hesitate for only a second before putting one around my neck. It disappears a moment later, fading from my sight. I can still feel it around my neck, and when I reach towards it, I can feel the chain against my fingers.
+
+I look at Shar who is giving me a strange look.
+
+“What?”
+
+“You just put a collar around your neck.”
+
+“And?”
+
+“Nothing. I’m not wearing one.”
+
+I ignore the cat, instead turning back to the other room. I close the door behind me, and erase the runes I’d created, allowing it to fall back into illusion.
+
+Delver Level Up!
+
+That’s nice, bringing me up to level 31. I check my status real quick, but nothing seems to have changed.
+
+Next up, is the door made of ivory.
+
+I make my way over to the door, studying it for a long moment, then gently push against it.
+
+It opens without resistance.

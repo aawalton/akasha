@@ -1,0 +1,305 @@
+---
+id: eab63e37-69ee-5625-892e-51447ad75189
+page-type-slug: story-chapter-royal-road
+title: "Chapter 95"
+slug: 0095-chapter-95
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 95
+ownLength: 2677
+unit: words
+ownProgress: 2677
+publishedAt: 2023-04-22
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1189413/chapter-95"
+royalRoadId: "1189413"
+markedReadAt: "2026-06-29T20:35:05.762Z"
+---
+
+We make our way down toward the final mountain.
+
+Maria continues to lead the way, freezing the forest solid while Bruce happily smashes the fragile Ice sculptures to bits. It’s a waste of energy in my opinion, but they both seem to be enjoying themselves.
+
+Abby, Nessa, and I take the rear. Abby speaks up.
+
+“Ya know, I really didn’t expect to see you here. It feels like just yesterday I forced you through those E-Class Dungeons.”
+
+She lets out a laugh, I roll my eyes.
+
+“Hey! I’ve been training really hard since then. I was equally as surprised to see you here!”
+
+She looks up at me for a few seconds, then smiles.
+
+“You look really different Jay. A lot… older.”
+
+“…. Thanks.”
+
+Abby blushes and hits me on the shoulder.
+
+“It wasn’t a compliment! I-I’m just stating the obvious..”
+
+Nessa grins and turns to me.
+
+“Oh yeah? So Abby was your trainer?”
+
+“Uh- Yeah. Something like that. It’s more like she was trying to get me killed back then.”
+
+I smirk thinking back to the few dungeons we raided together, then look over to Abby. We both let out a laugh… but I was being serious… She was basically trying to kill me back then.
+
+30 minutes of Ice smashing and old “training” stories later, we make it to the base of the third mountain. Maria turns gleaming with a smile ear to ear pointing upwards.
+
+“Almost there!”
+
+I look up, then nod firmly.
+
+“Lead the way. Everyone stay sharp.”
+
+I use enemy detection and scan the final mountain. It’s covered in moving targets. No matter what path upward we take, we will eventually run into danger, especially near the peak.
+
+No more than 10 minutes into our trek upward the loud screech of another Griffin appears. With a look back for confirmation, Maria takes care of the monster in one fell swoop. The same magical display of ice fragments showered down on us as we continue upwards.
+
+Over the next 30 minutes, another 2 creatures attack. Maria takes care of them with ease as well. I speak up as we approach the mountain’s top.
+
+“Careful up ahead. We have company, and a lot of it.”
+
+My enemy detection skill is showing over a dozen enemies all clumped together about 100m in front of us. One of them is way too high-leveled to be a monster, so my guess is these are all hunters.
+
+Maria replies with a thumbs up but doesn’t slow her pace.
+
+“Got it!”
+
+We continue through the ice-ridden dense forest until the distinct sound of human voices comes through the tree line. Maria stops freezing the wilderness and we all draw our weapons approaching with caution.
+
+As soon as I make my way through the heavily wooded clearing, I see four groups of hunters all standing in an orderly line at the center of a small grass-covered clearing.
+
+To my left, the trees part wide open to look down on the other two mountains in the distance. To my right, there’s a light grey twisting portal with a test supervisor watching hunters enter one by one. He speaks up as we approach.
+
+“Get in line! Or don’t, I couldn’t care less. Fight to the death if you really want. The only rule is, you all have to fight the boss solo. This room resets every 30 seconds for a new challenger to fight it. Multiple people may technically be fighting at once, but they’ll be in alternate boss rooms. Of course, you’ll all be fighting the same boss, just in different copied boss room pocket dimensions.”
+
+I look at him with an eyebrow raised, then he continues.
+
+“Have a problem with that? That’s just how dungeon magic works, don’t blame me for it.”
+
+He raises both of his hands in the air defensively.
+
+“Anyways, I’m here to make sure you don’t slip multiple people into the same room. Once you enter, you either lose or move on. Got it?”
+
+We all grip our weapons tight and nod hesitantly. I step forward and lead the way for our group to stand in line behind about 16 other hunters. The three people in front of me look like they just went through a war… they’re covered head to toe in blood and their gear isn’t looking too fresh either.
+
+“Next!”
+
+The monitor speaks up again and the line moves forward a bit. There’s some murmuring from the crowd up front that I ignore. I look back and get my team’s attention.
+
+“Everybody ready?”
+
+Maria grins and nods.
+
+“So ready.”
+
+Abby concentrates intensely on the boss room portal.
+
+“Yeah, I got this.”
+
+Bruce and Nessa both stand side by side nodding reading their weapons.
+
+“Next!”
+
+The monitor speaks again and the line moves forward. A small woman without any combat gear enters the portal nervously, her team pushes her forward. She must have been their healer or something…
+
+Around 20 seconds pass, and the glowing grey portal darkens. The monitor speaks up.
+
+“Would you look at that, another one down! We have a mutant up next, who wants it?”
+
+A well built swordsman steps up with a confident look on his face and walks through. I murmur under my breath.
+
+“What was that all about…?”
+
+The blood-covered man in leather armor carrying a silver sword turns around with a pale face and answers me in a shaky voice.
+
+“A-Apparently, every time a hunter loses to the boss, It takes in their mana and grows stronger. I-It’s happened a few times while we’ve been waiting here.”
+
+I nod slowly.
+
+“Interesting. Appreciate it.”
+
+He nods back and looks forward again.
+
+“Next!”
+
+The monitor yells out again as the portal goes back to normal. It looks like that swordsman took care of the mutant pretty quickly.
+
+The line continues to move along, and my anticipation grows steadily.
+
+“Next!”
+
+The first man in the group of 3 before me jumps into the portal. Both his teammates wish him good luck. 30 seconds pass, and the monitor calls out for the next man to enter. As he walks closer, the portal begins to turn dark just like before. The entire first half of his body is already through before the monitor lets out a chuckle.
+
+“Well, he’s in for a surprise!”
+
+He looks at the man’s teammate in leather armor right in front of me.
+
+“Looks like your friend took on a mutant, think he’s up to it?”
+
+I hear a loud gulp, and he doesn’t reply. 30 more seconds pass and the monitor motions for him to enter the swirling dark portal.
+
+“You don’t have to enter you know, can always quit now.”
+
+The man in front of me just stares forward. I look back at my teammates with a shrug as the terrified hunter walks forward into the twisting darkness.
+
+I turn back around and look directly at the mass of swirling energy in front of me as it instantly darkness indicating that Hunter must have already been defeated… The monitor speaks up as a wide grin appears on my face.
+
+“You’re up. Seems like… you’re ready…”
+
+I jump through without another thought.
+
+The transfer magic activates and I step out onto a massive wooden structure. I look down at my feet and feel the hardwood beneath me. With a quick glance to my sides, all I see is blue sky… At the bottom of my field of vision, I see green leaves and sprouting branches.
+
+I look out into the distance and see a massive Griffins nest… We’re on top of an enormous tree, but all that’s below is an endless void.
+
+“SCREEEEEECHHH!!!”
+
+A dark shadow appears from behind me as an ear-piercing screech dulls my senses. An incredibly huge birdlike creature swoops down to attack.
+
+I activate my fire magic, bloodlust, berserker, and intimidation all at once to dart out of the way before meter-long talons glide right by my face.
+
+I sprint along an enormous flat wooden branch downward to secure cover while turning my head to get a view of my opponent.
+
+It’s a beautiful sight. With a wingspan of nearly 10m, the white feathered wings of a mutant Griffin flap gusts of wind in my direction forcing me to stop in my tracks and brace myself. Its golden hide and long lion’s tail sway in the breeze as it hovers over me.
+
+I use inspect and appraisal while smirking with delight.
+
+[Lv. 317]
+
+Active Items:
+
+[Griffin’s Talon] +40% Mental Strength
+
+Active Skills:
+
+Combat Magic [Wind Summoning]
+
+Buffs:
+
+Special[Lion’s Pride] +25% All Stats
+
+My sword begins to glow bright red as I stare down at the monster in front of me.
+
+“Finally, I get to fight a worthy opponent.”
+
+I run up the long tree branch in front of me while leaving a fiery mess in my wake. The monster lets out another screech as it dive bombs toward me.
+
+I let out my own yell, focusing fire magic into the center of my blade. While jumping in the air, I release a fiery slash to officially begin our battle. The crescent of dark fire magic leaves my blade and hurdles toward the incoming creature.
+
+It glows with a golden aura keeping its laser-focused glare directly at me. The moment my wave of fire approaches, the beast twists its body and flaps one wing.
+
+I feel the air pressure change and a massive gust of wind forms pushing my ultimate fiery slash off course missing its body completely.
+
+This is the first time I’ve seen anyone or anything dodge, or even better, deflect that attack….
+
+I grit my teeth and get ready for its incoming strike.
+
+The eagle in the sky twists its body again to get back on track and locks its eyes on me glowing even brighter with that golden light.
+
+I ready my sword and reinforce my wrists with body-hardening crystals to brace myself for impact.
+
+“CLANGGGGG”
+
+The beak of the elegant beast clashes with my fiery sword. Sparks fly and I stare into its wide-open bowling ball-sized eyes. They’re a deep yellow color, and full of wisdom… with a side of murderous intent.
+
+The monster flaps its open wings pushing me backward as it retreats from our equal exchange. No damage was dealt to either side, but our physical strengths were measured.
+
+I take this moment, to get to higher ground. As the bird flies high in the air, I run up to the top of a wide curved branch about 5m thick at the top. With a blast of flames, I incinerate all of the loose leaves and branches within a 10m radius giving me a much better view of the surrounding.
+
+The Griffin lets out a screech and dives at me again. I feel the air pressure change as it stares down at me with its wings outstretched. My sword flickers with flames as I stare it down ready for its incoming attack.
+
+*SHICKK* *SHICKK* *SHICKK*
+
+I feel three sharp pains in my torso, left arm, and right leg. Out of nowhere, I cough up blood and fall to one knee scanning the area around me attempting to see where that attack came from. The air pressure drops suddenly.
+
+*SHICKK* *SHICKK* *SHICKK*
+
+Two more sharp pains in the back, and another in my left leg this time around. I cough up another mouth full of blood as the beast hurdles toward me.
+
+The air pressure drops yet again…
+
+I immediately cover all my vital points with a thick layer of body hardening to watch the black crystals immediately explode as they’re impacted by an invisible force.
+
+“It’s.. the wind…”
+
+I regenerate the flesh around my wounds and continue to cover my body with hard crystals as I stand to my feet. The Griffin makes its move. It falls out of the sky at an incredible speed with its front talons at the ready.
+
+*CLANGGGGG*
+
+The monster clashes its sharpened claws against my fiery blade in an explosion of sparks and flames once again.
+
+I grit my teeth and activate stealth to dart out of its way.
+
+I reach into my item box and pull out my daggers.
+
+“You want to throw invisible weapons? Two can play that game.”
+
+I throw the two daggers in the air, activating Telekinesis, and aiming for the creature’s head.
+
+The moment the daggers left my hands, they became visible to the beast and it twists out of the way letting the shining black blades whiz by its head.
+
+With this distraction, I swing my glowing red blade to release the same dark crescent of fire energy it previously dodged.
+
+With a deafening squeal, the flaming attack makes a direct hit with the Griffin’s side, searing a large fiery wound into its feathers, hide, and flesh.
+
+The beast flaps its massive wings and rises high up into the sky.
+
+I feel the air churn and twist all around me while I bring my daggers back to my left hand placing them back into my item box. Simultaneously, I grab two mana crystals and plunder their MP to bring myself back up to nearly full.
+
+I attempt to run along a large open branch to change my position. The monster knows where I last stood, regardless of my stealth skill.
+
+The leaves flap and the branches creek as the wind picks up all around me. I hear the monster’s murderous cry as it plummets toward me.
+
+“But… how…?”
+
+Its eyes are locked on me and its talons are sharp and at the ready.
+
+*CLANGGGGG*
+
+Its claws and my blade collide again. My stealth skill deactivates as I concentrate on blocking its brutal attack. With a burst of flames, I twist my body to the side again, narrowly avoiding its sharpened claws.
+
+The monster flies up into the sky once again, and I reactivate my stealth skill to plot an attack from the comfort of invisibility once again. The air pressure drops and a gust of wind comes through the trees right before the beast makes its move.
+
+It finally clicks. This bird knows its tree better than anything. It’s using the air displacement in its wind patterns to find my exact location…
+
+I grit my teeth and run back up the way I came. The Griffin appears, diving toward me with its eyes locked straight ahead. I grin ear to ear as an idea comes to mind.
+
+I sprint up the enormous branch on a direct path to clash with the monster once again.
+
+Less than 10m for our collision, I launch my attack.
+
+“Dungeon Walker.”
+
+A swirling black portal appears in front of me and I run through without hesitation. The Griffin continues to hurdle at my last known location.
+
+I create a new portal about 5m behind and above the charging winged beast facing the opposite direction so I come flying out towards it.
+
+As it claws at where my body should be as I step out to diving in at its backside.
+
+My blade burns bright begging me to destroy the prey beneath my feet. I let out a yell and another flaming crescent slash of pure dark ego-filled fire magic. It makes contact with the beast’s wings, slicing large gashes through both of them.
+
+It lets out a cry and tries to twist around to see its attacker.
+
+I don’t give it the pleasure of doing so and land on the back of its lower neck, driving my burning blade deep inside.
+
+While releasing an intense wave of intimidation, I plunder its MP and let out enough fire magic to kill it ten times over.
+
+The monster falls to its knees admitting defeat while I reduce it to a flaming pile of ash.
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Use Absorption]
+
+Skill: Combat Magic [Wind Summoning]
+
+[YES][NO]
+
+I lift my blade from the defeated monster and choose yes to absorb its skill.
+
+The ashes dissolve and it leaves behind a huge mana crystal. I place it in my item storage as the white transfer magic brings me to floor 12.

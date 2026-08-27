@@ -1,0 +1,135 @@
+---
+id: 2b7bb77a-191d-5054-915f-db59978758dc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11 - Arbitrage"
+slug: 0011-chapter-11-arbitrage
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 11
+ownLength: 1213
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3423713/chapter-11-arbitrage"
+royalRoadId: "3423713"
+---
+
+Kairon whistled. He'd forced the imps to go hungry last night, promising them an extra large meal today. The massive jaw of the city's new feeding pit had delivered a four to one ratio.
+
+Four hunters can provide a consistent thirty-two food. Good enough, for now.
+
+When the city lord reviewed the interface later that evening, a sly grin pressed at his lips.
+
+Fervor had shot up ten percent, and sustenance was capped. They even had a little extra food leftover, allowing the imps to gorge themselves and giving Vorathrex three units' worth.
+
+Their squad of wrath imps had reached ten. Not as much as Kairon wanted, but it was getting there. Each day he had, his city grew stronger.
+
+He glanced over, watching the imps rub their full bellies and chitter about. They seemed happier, and far more energetic.
+
+"FOOD GOOD!"
+
+"Tasty!"
+
+"Give back rock. Mine!"
+
+"Shiny!"
+
+Tomorrow, yields should go up. I'd even bet the training for the wrath imps should go smoother.
+
+Nodding to himself, Kairon tried to drift off for an early night's rest. But he couldn't. Gold was a serious issue capping his expansion. I do have a short-term solution, but... Something was nagging at his brain.
+
+The city lord poked and prodded around his interface, trying to figure out what. In his mind, that orange symbol thrummed back to life. He watched it hover, spinning in a lazy arc in his head. Then it hit him. The feeding pit... Kairon called up the building status.
+
+There was hardly anything to go on. I've always found system instruction manuals to tell you far more from what wasn't said. What's missing? What is it that's nagging my brain... Something should be here but isn't...
+
+Food! It doesn't say food. Or meat. Or anything.
+
+Did that mean...
+
+With little regard to the heaps of passed out imps, Kairon strode away from the tower campsite and found the stockpile. He retrieved several items before making his way to the feeding pit. Overhead, there was still plenty of light from the moon and stars. They cast an eerie spotlight down upon the scheming clerk below. With each step, the lord's scales glinted.
+
+Let's just hope demons don't have auditors. I have a feeling what I'm about to try is the equivalent of a big no-no back home.
+
+First, to get a baseline, Kairon tried dropping a fist-sized stone into the feeding pit.
+
+It clattered into the maw of the feeding pit, bounced off a tooth, and toppled downwards into the purple void. A moment later, the jaws snapped shut.
+
+There was a violent hacking sound, the mouth opened, and the stone shot out. Somewhere in the distance, it thudded against the hellscape terrain.
+
+The city lord repeated the experiment, this time dropping a healthy log from the timber crew's area.
+
+Again, the maw wouldn't accept it. Kairon nodded. As expected.
+
+Lastly, he took out the final log. It was a corrupted piece of wood. The piece had that same unnatural heaviness and warmth he remembered from the first day. Bright orange veins ran through it, gently pulsing in the night. Let's see if you'll eat this.
+
+Kairon opened his claws, letting the heavy chunk of corrupted wood drop into the maw. The grotesque demonic mouth closed greedily, and this time it did not open.
+
+"Hah! I knew it!"
+
+A low, resonant hum echoed through the clearing. The maw, it seemed, was feeding. Kairon sat, cross-legged in front of the feeding pit. He wasn't sleeping tonight.
+
+When morning came, Kairon stood. Arms crossed, he gazed intently at the maw.
+
+Three, two, one...
+
+With a click, the massive mouth opened. Holding his breath, the clerk leaned forward and peered inside. What he saw made his demonic eyes go wide and throat vibrate.
+
+"It worked! By the System, it worked! This is lovely. So, so lovely! The best. The truly, truly best day I've had in this world!" Kairon called out, laughing in cheer.
+
+The waking imps looked over from the tower, uncertain what had made their city lord so happy.
+
+"He got food?"
+
+"FOOD!?"
+
+"No. Got shiny. Stupid."
+
+I can hardly believe it. It actually worked. Gold. Real gold.
+
+He reached inside the maw, collecting the three gorgeous coins and rubbing them between his claws. Looking up, he traced the corrupted treeline. As his domain had expanded, so too had the number of darkened trees and corruption. Already, Shiny had to have the timber crew haul further and further each day to focus on the lighter and more ample non-corrupted timber.
+
+But even if we only harvest a small amount of corrupted timber each day... And if we found a way to haul heavier loads faster and further... His mind was already turning, doing the new math.
+
+It's a loop. A closed economic loop that we control. And the best part, the more we grow, the faster we corrupt the land. Meaning that in the very near future, my city is going to experience an exponential increase in gold revenue. Kairon just had to make sure it stayed intact to get there.
+
+When Kairon made his way back to the stockpile, he found Shiny already there. He hadn't noticed it last night in the dark, but now...
+
+"Shiny, have you been sorting the dark wood from the light wood?" In front of him, a large pile of normal maple timber was on one side. To the other, three dark pieces of corrupted wood lay sorted.
+
+"Yes."
+
+"Why? I didn't tell you to do that."
+
+"Different. Heavy. Worth more."
+
+Kairon was once again reminded why he promoted the little guy.
+
+"Splendid! Just splendid. At the end of each day, I want you to start taking the dark wood to the feeding pit. Do it at night, so it doesn't interfere with the meat."
+
+To keep meals fresh, Kairon would then have the hunting party leave their haul by the pit each night to be processed at daybreak.
+
+"Why?"
+
+The demon's eyebrow arched. He's curious?
+
+"It turns into gold. I can use that gold to help us grow."
+
+"Shiny?"
+
+"Yes. Lots of shiny." Kairon gave him a fang-filled grin. "How many corrupted logs do you get per day?"
+
+"Two or three. They are heavy, so hard to get. Light wood easier."
+
+The city lord pursed his lips. "I want you to try and get at least five dark wood pieces per day. Can you do that?"
+
+Shiny thought for a moment, and nodded. "More shiny."
+
+Which meant maybe 15 gold or so per day. For now.
+
+"Good! And Shiny. Keep this between us. Understand?" He nodded.
+
+Leaving the imp to organize the morning work crew, the city lord went to the vault and deposited his new gold. As he did, Kairon frowned.
+
+Did it just... stutter?
+
+Right as the coins crossed the threshold to the vault, it was like it blinked. When he checked his interface, however, he had the three gold showing up right and true. The demon shrugged. As long as it spends. I have a trickle of gold now. One that eventually can become a true revenue stream. As happy as that made him, Kairon was aware that the settlement didn't have forever. They needed gold now.
+
+What I need is a windfall.

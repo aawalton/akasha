@@ -1,0 +1,193 @@
+---
+id: fabe2949-240b-5deb-a691-3565ce352b31
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34"
+slug: 0034-chapter-34
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 34
+ownLength: 1491
+unit: words
+ownProgress: 1491
+publishedAt: 2023-02-20
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1118763/chapter-34"
+royalRoadId: "1118763"
+markedReadAt: "2026-06-29T20:32:57.658Z"
+---
+
+I woke up very early the next morning. It wasn't even light out yet. I checked my clock.
+
+"Half past 4, just great."
+
+With a sigh, I hopped out of bed and decided to go for a morning walk. I have the energy for it, hopefully there's a store open for some food. I'm beyond starving.
+
+I grabbed a handful of bronze and almost half my silver. All the coins fit in my item box as I tied it around my waist. Then, reflexively I tried to grab my sword.
+
+"Ahh. Thats right. It's gone."
+
+Walking out through the front door felt off without my sword, It made me feel pretty vulnerable. That'll all be fixed today though.
+
+I took a stroll down the center of town towards the village market. Most of the lights were out. People should be asleep around this time, it makes sense.
+
+I went to a less residential area in search for a bite to eat.
+
+Finally, I found a 24/7 corner shop. This'll do.
+
+I went inside and purchased a big bottle of water along with a bacon egg and cheese bagel. A breakfast of champions.
+
+As my walk continued I made my way towards a park area as the sun began to rise. I couldn't help thinking about my adventure yesterday.
+
+Was it catastrophically idiotic? Or was this the type of thing I had to do to get stronger?
+
+I wouldn't have unlocked the new capabilities of my fire magic without that fight. Plus, my combat experience has gone through the roof. I'm much more confident fighting stronger monsters now.
+
+I also obtained a very valuable new magical item. My defense stat is finally not a major weakness, It'll be fun to test that out. Best of all, I absorbed a new skill.
+
+Body hardening. It's a special grade skill as well. A rare class of skill like my inspect skill, not many people have this type of body hardening. It will be very beneficial.
+
+I've definitely become stronger. I need to be more strategic about my battles in the future. I need to level up a lot more, but I also have to start farming valuable skills as well.
+
+The sun started to rise and I decided to make my way over to the Pace Guild.
+
+"Morning Jay! You're up early."
+
+The tall blond woman greeted me in the lobby. Does she never sleep?? They must work her like a horse.
+
+"You are too. Anyone here yet? I'm meeting Maria and Rei today."
+
+She shook her head.
+
+I nodded and continued walking forward.
+
+"Alright. When they come by, tell them I'm in the training room."
+
+I walked back into the white walled training room. I was too tired yesterday to get a good look at everything in here.
+
+I felt the walls and the flooring with my fingers. They were smooth to the touch and I could hear a light hum when I put my ear next to it.
+
+Odd. It must be some kind of magic barrier. I've read about advanced magic training tech in some news articles but hadn't paid it much mind. I never thought I'd be able to use it myself.
+
+About 30 more minutes passed as I sifted through old swords and shields. Nothing else too special in here. Most of the gear is pretty messed up. I guess thats why they're sending Rei off to restock.
+
+*Knock *Knock *Knock
+
+"Jay!! Ready to go to the capital today??"
+
+Maria came running in the room with a smile on her face.
+
+"Yeah! I haven't been since I was really young. It should be cool."
+
+Moments later Rei walked in.
+
+She was much taller and proportionately built than I recollected from yesterday's meeting.
+
+Her dark brown hair fell down to her waist and she stood around 180cm. It was kind of intimidating, she was basically my height.
+
+"Ready to go? The train to the capital leaves in 30!"
+
+Maria and I nodded and followed her out of the guild towards the train station.
+
+"Hey, uh Rei. You're a C Class Hunter right?"
+
+"Yeah."
+
+"How long have you been with Pace Guild?"
+
+"It's been about 4 years now. I've been with them ever since I graduated college."
+
+"Hm. Okay. I was just curious."
+
+She nodded.
+
+"What about you? Jack seems to have grown a liking to you. I looked at your file, but he hasn't written down much of anything. What's your deal? Why'd you join Pace?"
+
+"I'm just here to get stronger. Jack is letting me use the Pace dungeons in exchange for the resources I gather."
+
+She nodded but held eye contact with me for a little too long...
+
+"Alright. If that's it for now I won't pry."
+
+We made it to the train station and waited by the platform.
+
+"Screeeeech."
+
+A train arrived and we all got in through the closest door.
+
+Rei motioned us to follow her when we got inside.
+
+"This way. Pace has a private area, this ride will take 2 hours or so. It'll be much more comfortable there."
+
+We followed and watched Rei scan her Guild pass after talking to an employee.
+
+We walked through 3 train sections and made our way to a private room with two couches.
+
+Maria and I sat on one side, Rei sat on the other with her legs crossed.
+
+The train started moving and I looked out the window watching the buildings fly by.
+
+I zoned out into deep thought. Trains always put me into a daze, sometimes even straight to sleep.
+
+There are 8 main regions in our country.
+
+We live in a region located at the south east portion of the country.
+
+Our region is called the "Vice Region". We are considered average. There's nothing too special about us. We have a great economy and a medium sized guild system. Most smaller towns and cities have their own smaller guilds and populations that trickle down from the capital's booming economy.
+
+Our direct trade partners are located in the southern center part of the country. This region is called the "Bedrock Region". We work well together because we are similar in economic and military power. Overall we are both still in the bottom 4 regions of our country.
+
+Although all 8 regions in our country work together to build a strong nation, there is still friendly competition between us.
+
+Today we will be venturing into Vice City, the capital of the Vice Region. I'm excited to see what kind of gear and facilities they have here.
+
+While watching the sun fully rise and the buildings get bigger and bigger the closer we came to the capital our train eventually made it to the station.
+
+"Screeeeech"
+
+"Last stop! Vice City. We have arrived at the capital."
+
+I heard the announcement come through some kind of loud speaker in our train car.
+
+I shook my heart and started to get up but my right shoulder felt heavy.
+
+To my surprise Maria had fallen asleep on me. I guess it was a pretty long ride, and rather early in the morning.
+
+"Hey. Time to wake up we're here."
+
+I poked her and chuckled a little bit. Rei had already gotten up, she watched with an amused look on her face.
+
+"Huh? We made it here alrea- oh!"
+
+Maria went red in the face and got to her feet.
+
+"I fell asleep, oops! We're here already!"
+
+I just smiled. I didn't even notice, I wonder how long she was sleeping for.
+
+"Haha it's fine. We're here let's check this place out. Time for some shopping."
+
+We all nodded in agreement and stepped out of the train.
+
+I stood there in awe on the platform outside.
+
+This is nothing like the village market.
+
+A huge trading center was right in front of the station.
+
+There were tall silver buildings as far as the eye could see. At their bases were all kinds of white walled shops and neon signs.
+
+Bikes and cars were everywhere moving in all directions. Many hunters were buying and selling large mana crystals and handling weapons in the streets.
+
+I could see groups of businessmen in suits going up to the higher floors in the sky scrapers as well as talking to hunters on the streets.
+
+It was pretty overstimulating for me. I couldn't keep track of everything in front of me. I just stared in disbelief.
+
+Maria was the same. She was taking in the view of the busy city with wide open eyes.
+
+We both stood there for a solid 30 seconds.
+
+"Come on!!! Let's get a move on."
+
+Rei was unfazed. I guess she came here often, at least she let us enjoy the view for a little while.
+
+"We need to get a few things for the guild, then we can do whatever you two want. This won't take long. Follow me."
+
+All three of us walked into the busy town center together.

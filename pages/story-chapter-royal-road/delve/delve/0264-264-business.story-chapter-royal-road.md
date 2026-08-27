@@ -1,0 +1,281 @@
+---
+id: 26cb81fb-be92-5641-8ef4-682831ecfd9e
+page-type-slug: story-chapter-royal-road
+title: "264: Business"
+slug: 0264-264-business
+partOf: delve
+position: 264
+ownLength: 3822
+unit: words
+publishedAt: 2024-05-27
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1652253/264-business"
+royalRoadId: "1652253"
+---
+
+Velika strolled along the cliff edge, twirling the closed depth gauge by its chain as she watched the swirling mists below. She didn’t need the instrument to tell her that this was a soft place. The shelf had been carved into the frozen rock along the descent at the point just before rank nine gave way to rank ten. A training ground was what it was—free for anyone to use who found it unoccupied. Those who’d carved it were likely dead, and nobody else had stepped up to administer it or charge a fee. Why would they bother, with the rich hunting grounds below?
+
+That’s where she would be if she wasn’t babysitting.
+
+Not that she minded, particularly.
+
+She was earning Ascension credit, and her charges were doing well enough.
+
+Abruptly, she stopped in her tracks, and the snarling Frost Hound that had pounced at her anticipated location gave a startled yelp. In midair, it had no way to abort its leap, and she rolled her eyes as the dumb thing plummeted over the edge.
+
+“Why’d you let it go over?” Gigs panted as he arrived, bending over to plant a fist on one knee, awkwardly clutching the mace held in it.
+
+Velika sniffed, turning to face the winded Tortugo. “Why’d you let it get away from you?”
+
+Gigs grunted, squeezing his eyes shut. “Damn things. Taunting Shout hardly works at all.”
+
+“You’re not supposed to be using the shout,” Velika said, giving the depth gauge an extra vigorous twirl and letting the chain wrap around her finger until the metal body slapped into her palm. “You’re supposed to be using your new skill. What was it called again?”
+
+“Toothsome Scent,” Gigs puffed. “Frost Hounds don’t go for it at all. You’d think hounds would, being hounds, but you never know with monsters. The name doesn’t always match behavior.” He straightened, firming his grip on his weapon and checking the shield strapped to his other arm. “Say, you’ve been around. Do Hounds target the highest threat, or do they go after the perceived weakest enemy?“
+
+“That’s the kind of thing you should ask your Diviner,” Velika said flatly. “Targeting predilection is one of the things Behavioral Insight’s made for.”
+
+“But you know, don’t you?”
+
+“I wouldn’t want to spoil his training.” Velika smiled, watching Ruce sprint by in a panic, no less than three of the blue-furred canines pelting after him. She nodded in that direction. “Though really, do you even need to ask if they go for scent? They seem to like his just fine.”
+
+“Damn it!” Gigs swore, hustling back toward the fray.
+
+With a snort, Velika slipped the depth gauge into a pocket of her Ascension cloak. Unlike Ascension’s other notable Turtle and her former fling, Carten, Gigs spread his points across multiple trees rather than focusing on one until he chose his class. As a monolith, he had that luxury, and Tallheart’s equipment compensated for the lack of single-tree specialization. The broad skillset made him arguably more useful than a traditional Turtle at the cost of being entirely dependent upon his teammates.
+
+It was such an Ascension thing to do.
+
+Other than that, though, the man was just so bland. It was no wonder the Hounds weren’t tempted. At least Carten had had some spice—not that it had stayed interesting for long.
+
+Smirking, Velika paused to adjust the blunt blades hanging from her waist. She presently wore only two swords, the first and second. Her other weapons—the two larger blunt blades and her sole remaining sharp one—were over with the supplies. Not even on the chasm floor, where the damage limit rose to something respectable, would those be called for. Even the second sword was overkill. The monsters here were just too weak.
+
+Her smirk became a full smile as she traced a finger along the first sword’s hilt. Tallheart had outdone himself. The blunt blades had withstood every torture she’d put them through, though in the case of her strongest skills, ‘withstood’ meant ‘survived and recovered from’.
+
+The monsters she’d been using as target dummies, not so much.
+
+“Hey!” came a distant cry from Meloni, at the complete opposite end of the shelf, away from the fracas of ongoing combat.
+
+Glancing that way, Velika saw the older woman duck behind the flat boulder she’d been using as a worktable. The Firebolt that went zipping by a moment later came nowhere close to where she’d been standing, roughly splitting the distance between her and their piled supplies.
+
+Sloppy.
+
+Dust whinnied something that might have been an apology, making Velika glance aside to see the horse easily outpacing the Frost Wolf trailing after it. Stint stood atop the horse’s back, windmilling his arms with his longbow gripped in one hand and an arrow in the other. It was clear he didn’t have the stats for the ‘technique’ she’d shown him, his balance and reaction speed insufficient to cope with the monster’s erratic movement, especially with his weak leg.
+
+Hilarious.
+
+What he needed was a shorter, more powerful bow that could be used from the saddle without resorting to such showy nonsense.
+
+Not that the nonsense wasn’t to an end, mind. She’d spent her fair share of time working on similarly unpractical displays herself. They were just the thing for getting used to your new body after a leap in strength. Both Stint and the horse had invested in their physical stats, rounding out their foundations, and the horse had further dipped into the Physicality tree according to his planned build. The practice would do them good.
+
+Velika shook her head, wondering again how it was she’d ended up giving a two-hour lecture on skill selection to a farm animal.
+
+The build they’d settled on was workable, supposing the creature stuck to it. Even without a rider, the combination of high-speed movement and ranged magic would make for an annoying combatant, able to harry opponents while remaining untouched.
+
+With Stint and his bow thrown into the mix, she couldn’t think of a single thing that would be more infuriating to deal with for anyone unable to run the pair down. The Warden’s ghost had even coughed up an obscure class suitable for the animal, Vigor Mage, which let stamina stand in for mana under certain circumstances, though again, whether the ridiculous, fire-obsessed beast would be able to stick to the plan long enough to unlock it was an open question.
+
+“Sixty percent right!” Ruce cried out of nowhere.
+
+Velika turned, seeing the three Hounds still after the Diviner. Ruce dove left in accordance with his call, and seemingly to spite him, the lead Frost Hound darted the same way at the same time. Its teeth were stopped from snapping shut on the Diviner’s neck by a rippling distortion in the air—though not completely. Rain had his magic set to let some damage through.
+
+“Ahhhh!” Ruce cried, punching at the animal latched onto him.
+
+Gigs finally arrived, bowling over the Frost Hound with a shield rush, only to be swallowed in a spray of icy flakes as one of the other Hounds released its breath attack over the whole area.
+
+Velika shook her head.
+
+The horse wasn’t much dumber than the others, really. You never committed unless you were sure. Six in ten was not sure. And now Gigs needed saving too.
+
+Fingering the hilt of her first sword, she turned calmly in that direction, but Val and Mereck got there first. Val spread his fingers, and webs of sticky white light sprayed over the literal dogpile, the threads anchoring themselves to the ground. Light Web was the spell name, as she recalled.
+
+Mereck spread his hands too, blasting the whole area with Healing Wave. The magic manifested as a wind of green sparks, erasing lacerations and returning color to frozen flesh.
+
+The Hounds were healed too, of course.
+
+The AOE spell was notorious for its unsuitability for melee combat. Here, though, that was likely what Mereck was after. There were only four wolves left now, after the fifth had gone toppling over the edge, and she wasn’t about to get them more.
+
+By the rules, the mission was already over. She should have been taking them back already so she could pick up another group.
+
+Velika smirked, watching as Val and Mereck attempted to free their companions from the pile, aided by the Light Magic threads dissolving in contact with Gigs’ armor.
+
+Ascension would get its silvers. It just wouldn’t be these eight. Not anytime soon. They’d have to wait their turn again.
+
+Sharing sucks.
+
+Nim anxiously worried the hem of her shirt as she stared up at the banners hanging to either side of the door. Each bore the same symbol on a field of white, the crown of a planet below a stylized arrow seeking the heavens.
+
+“Thank you for visiting an Ascension Outpost!” a young girl’s voice came from within, making Nim jump.
+
+Urgently, she smoothed her tunic, stepping aside as a middle-aged man in Baffalon green exited, wearing an expression she’d best describe as befuddled disbelief. Her anxiousness gave way to amusement. She’d made that face herself more than once on her adventure in the depths with Ascension’s leader.
+
+What am I even worried about?
+
+Once the way was clear, she glanced over her shoulder and cursed before determinedly stepping through the entrance. Her hesitation had nearly sabotaged her self-set mission. She now had less than thirty seconds to deliver her warning.
+
+Inside, she found the space lit by warm white light—not from the inactive light plates set into the walls, but a pair of standing lamps set into the corners behind the counter. They were strangely manaless to her admittedly amateur eyes. There was a blue-eyed girl behind the counter too, no older than eight by Nim’s guess. And yet she wore a fitted white jacket that would have marked her as an Entente trainee if not for her hair being brown instead of snowy.
+
+“Hello!” came the girl’s voice excitedly as she waved.
+
+“Hello,” Nim said. “I—“
+
+“Welcome to the Ascension Outpost of Xiugaaraa!” the girl interrupted, beaming at her. “My name is Ava! How can I help you?”
+
+Nim cocked her head, given pause by more than just the girl’s strangely rigid accent. From her features, she was an islander, a rare sight in the city, but that wasn’t what had caught her attention. The true shock stood out on the girl’s collar in the form of three golden pips. Those marked her as Entrusted, Ascension’s highest rank according to the pamphlet.
+
+Is...she wearing someone else’s pins, or...?
+
+An unexpected voice came from her right. “Nim? Is that you?”
+
+“Estez?” Nim asked, her shock equaling that which she’d heard in the familiar voice. She turned to see both bearded Entente brothers staring at her over the card game laid out on the table between them.
+
+“What are—?” she began, only to shriek as an enormous, furry head slammed into her backside.
+
+Mission failed, she thought to herself, stumbling forward as Pitterpatter wiggled her way in through the door behind her. The bulky cattipede—she couldn’t help but use Rain’s name for the beast—meowed in annoyance, her claws scrabbling against the immaculate floor as she negotiated pair after pair of legs through the narrow opening. A solid thunk came next as her rider’s forehead slammed into the top of the door frame. The girl behind the counter exclaimed something in a delighted tone, but it was in Common, so she couldn’t understand. Henton, meanwhile, began to laugh.
+
+“Oh, no,” Estez said, his smile falling to a glower. “He’s here too, isn’t he?”
+
+“Confounded pluripedal feline!” Legruz cursed, dusting himself off and rubbing his head as he followed the enormous cattipede into the Ascension outpost. It was a lot more crowded than it had been a moment ago, for sure, the bulk of the space before the counter occupied by the cattipede’s coiled body on one side and the table on the other.
+
+“Ava! What’s going on?” called a concerned man’s voice from the rear hallway.
+
+Two more figures appeared, rushing forward. One was bald with the same complexion as the girl, wearing another Ascension jacket with three pips. The other looked much less exotic. He wore a plain tunic with no house colors, and Nim would have bet her breakfast he was from the city, and yet, something about him seemed out of place.
+
+“Greetings!” Legruz boomed before anyone else could speak, shoving Pitterpatter’s head aside as he strode toward the counter. “I am here to inquire after the whereabouts of Captain Rain. I must speak with him.”
+
+“Illuminator Legruz, I presume?” the bald man said, laying a hand on what had to be his daughter’s shoulder as he took her place behind the counter. His accent was much better than the girl’s. “I am Mlemlek Ko-Latti, Entrusted of Ascension, at your service.” He snapped his fingers sharply. “Steeve, please see to the comfort of our most fluffy and excessively limbed guest before anything is damaged.”
+
+“But—“ the other man began, only to be cut off with a look.
+
+Nim covered her mouth to hide her smile, walking over to stroke the cattipede’s silky fur. “Sorry, I meant to warn you,” she said, pushing hard against the beast’s side. “Here, I’ll help. Don’t worry. She’s harmless.”
+
+“Harmless?” Legruz said with a sniff. “We have spoken of this. You will hurt Pitterpatter’s feelings. She can be quite proud.”
+
+Pitterpatter meowed indifferently.
+
+“Legruz, what the hells are you doing here?” Henton asked.
+
+“It is as I said,” Legruz snapped.
+
+The bald man raised a hand, seeming to be taking all of this in stride. He spoke as he lowered it to stroke his curled mustache. “Captain Rain is not here, though I would be happy to relay a message.”
+
+“I expected as much,” Legruz answered, waving a hand dismissively. “You may tell him that I am coming to see him as soon as you reveal to me his location. I have received special permission to leave the city, along with my most promising apprentice here. There is much that my organization wishes to discuss with your leader.”
+
+“Seriously?” Estez asked in disbelief. “They’re letting you leave? As their representative? How’d you pull that off?”
+
+“I don’t like your implication,” Legruz said, narrowing his eyes at Estez before shaking his head and addressing the bald man again. “Now, Mlemlem or whatever your name was, where did Rain and Ameliah scamper off to after leaving me so rudely behind? Much of what we would speak of is time-sensitive.”
+
+“I can’t tell you where they are,” Mlemlek said. If he was upset about the mispronunciation of his name, he didn’t show it.
+
+Legruz, on the other hand, was much less reserved in voicing his discontent. “Excuse me?” he demanded in a huff, looking Mlemlek up and down. “No, in fact, excuse you. Clearly, you do not appreciate just how rare of an opportunity this is. You know my name, but do you know who I am?”
+
+“I know exactly who you are, but the location of our headquarters is classified,” Mlemlek replied, spreading his hands. “I can contact Rain and arrange a meeting in a less sensitive location, but—“
+
+The abrupt halt of the Entrusted’s words called for no explanation as an enormous weight settled over Nim. She stumbled forward, Pitterpatter recoiling against the wall and knocking over a display of fabric with a crash. The cattipede’s fur puffed up in alarm as her feet scrabbled against the bare stone.
+
+The lights seemed to flare, their brightness growing to painful intensity as an armored colossus ducked through the door. Unlike Rain and Ameliah, with their tight-fitting, battle-worn armor, this man’s armor was gargantuan and resplendent. The massive suit was enameled a flawless white, blinding with shimmering energy swirling below the surface, and set with blue gems that shone like stars. One of those, set into the chest, was so monstrously large and dense with power that it couldn’t be anything other than the full heart of a lair. It had been faceted like a gemstone and inscribed with the symbol of the Bank and the thin, four-pointed star emblem of Lightcore. The man wore no helmet, his head more than sheltered by the armor’s mountainous pauldrons. He had ash-gray hair and a nose sharp enough to be described as a beak, but it wasn’t by his features by which Nim recognized him.
+
+Lord Jien Initi.
+
+Her forehead hit the stone floor so hard as she threw herself into a groveling bow that she saw stars.
+
+“This is it?” a dry male voice asked, shattering the stunned silence. “Two bronzes? One of them a child?”
+
+“I—“ Mlemlek began.
+
+Nim had no idea how he’d managed even that much through the suffocating weight bearing down on them, but it didn’t matter. Lord Jien spoke right over him. “You will leave this city now. This holding and all materials therein are now the property of the Lightcore Foundry.”
+
+“I think not.”
+
+Nim couldn’t help but inhale sharply at Mlemlek’s flippant reply.
+
+This was it. She was going to die. The thing she did not expect was a laugh.
+
+“Impertinence,” Jien said with clear amusement. “You have no idea how refreshing that is. It brings me back to my youth.”
+
+“We are here with express permission from the Entente,” Mlemlek said. “Respectfully, the Foundry has no authority to demand anything from us.”
+
+There was a rustle of paper before Jien spoke again. “It is by the will of the Entente that you are expelled.”
+
+Mlemlek spoke, paper rustling again. “What is this?”
+
+“The way business is conducted,” Lord Jien replied. “Leave.”
+
+“We have a team in the Delving,” Mlemlek said sharply. “We can’t just go. Furthermore, you have no legal basis to force us, let alone claim our property. How in Dystees’ name do you claim to justify—“
+
+“I owe you no justification,” Lord Jien interrupted. “I came here personally only to take the measure of the organization which has appeared to annoy me.” There was a long pause. “I am...disappointed.”
+
+“You can’t do this,” Mlemlek said.
+
+How is he still speaking? I can barely breathe.
+
+“Another phrase I have not heard in a long time,” Lord Jien said with amusement.
+
+Without warning, the pressure bearing down on her doubled, crushing the air from her lungs and paralyzing them in place.
+
+“Out. Now.”
+
+Not a shred of levity remained in Jien’s tone. There were a number of thumps as others in the room collapsed under the unfathomable weight.
+
+“Lord Jien, please,” Legruz said, his own voice strained. “How do you expect them to go if they cannot even move? Look at them!”
+
+“Silence,” Jien said. “You should not speak when you are the one who brought this upon them.”
+
+“Me?” Legruz said, incredulous.
+
+Nim tried to whimper, stars returning to her vision as she desperately strained for air.
+
+“The Illuminators operate in this city at the pleasure of the Great Houses, as does Lightcore,” Jien said over the rising ringing in her ears. “Your unauthorized dealings threaten the tenuous balance we have achieved, and you will be called to account for that soon enough.“
+
+“ENOUGH!” cried a new voice, and hope exploded in Nim’s heart.
+
+First Mora!
+
+In an instant, the pressure was gone, and Nim inhaled, sprawling bonelessly on the floor as blessed air rushed into her lungs. She heard the others similarly gasping, but it was the wave of heat that washed over her that made her open her eyes.
+
+“Asshole!”
+
+Nim stared agog, seeing the young girl standing atop the counter with her finger pointed accusingly at Lord Jien. Then, to leave no doubt as to what had just happened, another Firebolt began forming at her fingertip before Mlemlek caught her arm.
+
+“Ava, stop!” he shouted urgently, the magic shooting off to scorch the floor as he wrestled her down from the counter.
+
+Lord Jien blinked—utterly unharmed, of course—then a predatory smile spread across his face. “Ha! Perhaps I am not so disappointed after all.”
+
+“Lord Jien, you are WAY out of line!” Mora yelled from behind Jien’s bulky form, unable to enter the crowded room past him. “You got what you wanted, but this is an Entente matter now! Why are you even here?”
+
+“He tried to take their stuff,” Estez interjected, standing by the counter. He waved a scrap of paper in the air. “This doesn’t say anything about property. It bars them from operating a facility in the city, but that’s it.”
+
+“Come on, get up,” Legruz said, hooking a hand under Nim’s armpit. “You’re stronger than this. You’re embarrassing me in front of the people.”
+
+Pitterpatter meowed behind her as she accepted her mentor’s help.
+
+“Fine,” Jien snapped after working his jaw in annoyance. He turned, practically walking over Mora as he negotiated his way through the too-small door. “I leave this business with you, First. It now bores me.”
+
+“Kid’s right,” said the uniformless Ascension employee. His voice trembled, and he spat, his crimson blood spattering the stones. “Fucking asshole. Made me bite my tongue.”
+
+“I’m sorry about this,” Mora said, entering the room.
+
+Now that Jien had gone, the space felt dim. The Light Plates looked burned out, though they hadn’t even been active. The two strange lamps might have been dimmer than they’d been before, or it could have just been her eyes. That they’d survived when the plates had failed was impressive, regardless.
+
+“It is not your fault, First Mora,” Mlemlek said tiredly. “Steeve, there is a healing potion under the counter. It’s yours to use.” He turned to Mora again. “How long do we have?”
+
+“Until nightfall,” Mora said. “I’d say less if you don’t want him to show up again with explicit permission to steal all your stuff. Don’t worry about your team. We know they’re down there, and we’re already looking for them. Again, I’m sorry.”
+
+“I must consult with our captain,” Mlemlek said. “Please excuse me.”
+
+“Consult how?” Legruz asked with sudden excitement. “You have a way to speak with him from here? Marvelous!”
+
+Having regained a measure of her strength, Nim reversed her grip on the arm supporting her. “Stop. Let’s get out of their way.”
+
+“But they clearly need my—“
+
+“You’re making it worse,” Nim interrupted. “The asshole was right about that much.”
+
+Legruz looked at her like he’d been slapped. “Excuse me?”
+
+“You heard what I said,” Nim replied. “If you want them to take us with them when they go, shut up. Just shut up. For once.”
+
+Pitterpatter meowed in agreement, then, surprising even Nim, headbutted Legruz back before grasping him in her mouth.
+
+“Hey!” Legruz protested as the cattipede wormed for the door, taking the squirming Illuminator with her. “Ow! Ow! Ow! You’re tearing my jacket! Gah! The drool!”
+
+Hundreds of kilometers away, Rain leaned forward to bridge his hands.
+
+“Oh, it is on.”

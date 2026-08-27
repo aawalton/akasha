@@ -1,0 +1,159 @@
+---
+id: 53cc6881-61c9-5b12-9e0c-720d0ae922c8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 45"
+slug: 0045-chapter-45
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 45
+ownLength: 1514
+unit: words
+ownProgress: 1514
+publishedAt: 2023-03-03
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1128082/chapter-45"
+royalRoadId: "1128082"
+markedReadAt: "2026-06-29T20:33:21.833Z"
+---
+
+Daniel spoke up.
+
+"You ever think about joining up with the Association?"
+
+I shook myself out of a day dream.
+
+"U-Uh no not really. What are the benefits? It just seems like a lot of work."
+
+Daniel and Kenji both started laughing.
+
+"Yeah, yeah. I guess maybe you're right. It is a lot of responsibility, especially here in the city. The upside is we get access to the private dungeons and rare gear to fight with. It's basically everything you'd expect."
+
+"Hmm, understood. I think I'll stick with the public dungeons for now."
+
+Daniel nodded slowly, he clearly wanted to ask me something.
+
+"I looked at your file earlier, for some reason there's a lock on some of your data. Someone must have done it manually at the Association building you applied for your D Class rank. I was a bit curious, all the file shows is your rank and that you have 2 skills. They're Swordsmanship and some kind of Combat Fire Magic I assume?"
+
+"There's a lock on my data? Hmmm, I-uh yeah those are my skills. Why?"
+
+"You'd definitely get a great position if you want to join us. Two skill members tend to get special treatment. Feel free to stop by this building anytime. Here take a card."
+
+Daniel handed me a card and I thanked him. The three of us continued a bit more small talk for 30 minutes or so. With nothing left to say I decided it was time to go.
+
+They walked with me down to the elevator and out the front door. We shook hands and agreed to see each other in the future some time. I don't know if it'll really happen, it's just the polite thing to say.
+
+The sun was setting now, I made my way towards the market center.
+
+It's time to see how much all this loot is worth. I think it'll be a significant amount.
+
+After a solid 20 minutes of walking through the crowded streets under the setting sun I finally made it to the market.
+
+"Hey kid! Good to see ya, what can I get for you?"
+
+I grinned.
+
+"Good to see you too Roger. I have a ton of mana and a few items I'm looking to sell. You buying?"
+
+"Of course let me see what you have."
+
+He took out a mana scale and I reached into my item storage. I pulled out a pile of mana and placed it on the counter next to the scale. Most of it was from today's hunt but there was some extra from my old pouch and Cori's old storage system. Next, I took out a pile of potions. There were 4 MP and 3 HP. Lastly, I pulled out the large axe and Talia's old sword."
+
+"Let's start with the mana."
+
+The old merchants eye's went wide. He pushed all the mana onto the scale. Moments later the large black numbers read out 3176.60MU.
+
+"Now that's a haul. I gotta make some money off it too ya know, I'll give you 30 silver for the whole stack."
+
+"Yeah, understood. Works for me. How about these potions, can you tell me what grade they are?"
+
+The man took a close look at the potions and raised an eyebrow.
+
+"These are just your average D Class MP and HP potions. You want to sell these?"
+
+"No, I keep those. I was just curious what exactly they were."
+
+He nodded and started examining the axe and sword on the counter.
+
+"Hmmm alright. This is a 150 strength boost axe. A really good item for auction, you'll make much more there. It'll easily go for over 40 or 50 silver, maybe even more if you find the right buyer."
+
+I thought back to my last auction experience and shuttered a bit.
+
+"How much for it right now?"
+
+The merchant looked down at the axe again.
+
+"You'd really get a better price at auction, I don't want to rip ya off. I can give you 30 silver for it today."
+
+"Hmmm maybe. How much for the sword?"
+
+"Its a 125+ strength sword, and its lightweight too. Not a bad item. Again, it'd go for much more at auction but I can give you 20 for it right now."
+
+"Lets do 90 silver for everything. I'm sure those two items will make you a profit, you know it too."
+
+"90? I guess the axe will sell sooner or later for a good price. I can do that, deal."
+
+"Great."
+
+We shook on it and both walked away happy. I made 90 silver profit in a day, the merchant definitely got some good items for a price well below the market. I don't mind that I could have sold them for more, I'd rather have more time to dive back in the dungeons.
+
+The merchant counted out 90 silver and I placed them in my item storage.
+
+"Thanks old man! By the way, what are the best dungeons around here for leveling? Are there any monsters with unique abilities? Mid to Upper D class preferably."
+
+"Hmmm. The best D Class dungeons huh? Well, if you're looking for a basic fight for levels you can check out the Minotaur or Lizard-Men Dungeon."
+
+"The Minotaur sound cool, what are they like?"
+
+"They have no specific skills, they're just big humanoid bull creatures. The normal monsters are around level 150 to 200. They're one of the go to leveling dungeons for people trying to rank up to C Class. The monsters travel In groups and have a wide range of level possibilities so teaming with a party is recommended."
+
+"Okay. Interesting. Anything else? I'm looking for monsters with interesting skills. Stuff I've never seen before ya know? Plus, I hunt solo."
+
+I'm trying to get the old man to give me some info so I can search for some useful skills.
+
+"Ahh, you're a solo hunter huh? Lets see.. There's a slime dungeon, they have some odd abilities. The snake dungeon's monsters have a poison skill. Hmmm... uhh There's the advanced ogre dungeons, they have all kinds of magic skills. Definitely stay clear of the advanced ogre dungeons for now if you're all alone though. Trust me."
+
+"Alright.. noted. No advanced ogres right now. What about the slimes?? Aren't those weak starter monsters? How hard could a slime really be?"
+
+"You'd be pretty surprised. They may be in the lower levels of D Class Dungeons but they're tricky to kill. Unless you have some kind of long range magic its hard to attack them without being sucked in."
+
+"What would happen if you were sucked in?"
+
+"Well, you definitely don't want to find out. I've heard stories of the slime boss sucking hunter's dry of MP in seconds."
+
+My eyes lit up at the sound of that. A skill that absorbs MP? This could be exactly what I'm looking for.
+
+"I like the sound of that. Thanks a lot! I'll see ya soon, you've been really helpful!"
+
+I waved the old man off and left with a wide grin on my face.
+
+"Gurrrglleeee"
+
+I'm starving....
+
+Did I even eat this morning??
+
+I walked quickly towards the food district area Rei brought me yesterday. I need a good meal and a drink right about now.
+
+After a few minutes of walking I could smell the sweet scent of meat and spices in the air.
+
+I searched around for a few minutes and found a nice looking open bar. I ordered two of the large meals my bar tender recommended and a tall cold beer.
+
+There was music playing and people laughing and talking all around me.
+
+I was content to drink, eat, and let my mind wander on its own.
+
+I have some good insight on where to get a very valuable skill. I'll be heading to the slime dungeon first thing in the morning to check things out.
+
+If I can potentially absorb MP from my opponents, I'll basically have an endless supply. This would solve the majority of my fighting and money problems.
+
+Things are about to get very interesting.
+
+I finished my meal in peace and paid the bill. I had to break a silver coin, now I'm carrying around an extra 80 or so bronze in my item storage.
+
+I spent around half of the leftover bronze buying a few pairs of clothes on my way back to the Inn. Just a few standard black jeans, shirts, underwear, and socks. I needed to wear something this week, I didn't exactly pack for a long trip.
+
+After my leisurely walk I finally made it back. The Inn keeper nodded at me and I remembered there was a key to my room.
+
+I walked passed him into the elevator and frantically sifting through the miscellaneous junk In my item storage. With a sigh I found my key, I was scared I lost it out in the dungeon. The elevator dinged at floor 10 and I twisted the key to my door moments later.
+
+After a nice hot shower I crawled into bed.
+
+I survived another day.

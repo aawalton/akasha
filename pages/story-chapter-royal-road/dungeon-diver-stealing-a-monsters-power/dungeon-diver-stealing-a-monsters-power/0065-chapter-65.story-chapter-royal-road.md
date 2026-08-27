@@ -1,0 +1,195 @@
+---
+id: 27018041-b238-5b0e-a7f9-646b2c7b5c0a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 65"
+slug: 0065-chapter-65
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 65
+ownLength: 1922
+unit: words
+ownProgress: 1922
+publishedAt: 2023-03-23
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1146543/chapter-65"
+royalRoadId: "1146543"
+markedReadAt: "2026-06-29T20:34:03.367Z"
+---
+
+Xavier stared me down with a cold look as I continued to shoot flames high up into the air through my sword.
+
+The announcer's voice rang out again. I brought my sword down and let the flames go out slowly as I listened.
+
+"Everybody knows the rules! There is no time limit in the ring, all tricks, magic items, and abilities are allowed! The winner will be decided by knockout, forfeit, or death. We will begin at the sound of the bell."
+
+I brought my sword forward and pointed it at Xavier, he did the same with his own.
+
+The cage around us rumbled and the crowd whispered and pointed.
+
+*DING*
+
+The sound of a bell rang and cheers came out from the crowd.
+
+The white-haired swordsman scanned the arena for movements, but I was doing exactly the same. Each of us was waiting patiently for the other to make the first move and show weakness.
+
+I used inspect.
+
+[Lv. 217]
+
+He sprinted to the left a split second after I activated my skill... almost like he could sense it. I reacted by jumping backward and to the right watching his movements.
+
+Xavier is pretty quick on his feet, but I definitely have him beat in that department with these new boots. It's his eyes I'm more worried about. Every time I take a step in any direction or move my sword the slightest bit he tracks it like a hawk.
+
+We basically ran around in a full circle for a few seconds as we examined each other's body movements.
+
+This is getting boring.
+
+I gripped my blade tight and ignited it back into a fiery display. I plant my right foot and lunge in to begin an attack.
+
+Still expressionless, Xavier plants his foot and turns to face me with his sword by his side.
+
+I lift my blade high in the air and aim it directly at his wide open body in front of me.
+
+*CLANGGGG**SCRAPEEEE**THUD*
+
+The moment I brought my blade down Xavier gracefully lifted his own sword and used my momentum to block my attack, but also curving his blade around my own to add speed to the swing. I was sent flying forward into the cage behind him.
+
+As a defense mechanism, I erupted into flames to cover my full body the moment I lost balance. The exact moment I did, Xavier jumped backward to avoid being burned.
+
+I smashed into the side of the cage but didn't take on any real damage. I got to my feet and let my body's flames go out, but keeping them lit around my sword as I pointed it at the white-haired knight.
+
+He has an interesting fighting style. From what I see so far... Xavier isn't exceptionally fast or strong. He almost entirely relies on figuring out how to use his opponent's strengths against them. Probably... I'll have to do some more testing.
+
+The crowd is oohing and awing trying to figure out which of us is their new favorite.
+
+I'm not too worried about pleasing the crowd, winning the fight is my only concern.
+
+I ran back in with a very similar attack, it produced a very similar outcome though.
+
+Again, my attack was easily countered and the momentum of my brute-like swing was used against me.
+
+Great... Looks like I'll have to use my brain, a little bit at least.
+
+We squared up on opposite sides of the ring getting ready for our third clash. I initiated the charge and sprinted forward with my flaming blade in hand.
+
+The moment we came within striking distance I let go of my sword and activated telekinesis. The blade shot off the left as I sprinted to the right cornering the swordsman on both sides.
+
+His eyes finally changed. Those dull never-changing focused eyes opened wide, but it wasn't at the moment I expected. They opened moments before the sword left my hand... like he knew it was coming.
+
+*CLANGGGG*
+
+With an elegant twist, he blocked my blade while keeping an eye on me. I motioned to bring my sword back and ran towards him. It flew in my direction and Xavier readied his own blade to counter.
+
+Moments before we collided I caught my sword and began to swing it down at his head. He positioned to counter. At the last second, I twisted my own body to prevent our blades from colliding. There's just one issue, Xavier's blade is pointed straight at my stomach, and mine is pointed way off to the right side of his body.
+
+*CLANGGGG*
+
+The white-haired knight's eyes opened even wider than before as a thick layer of black crystals covered my abdomen blocking his sword's impact. I twisted my body again and landed a fiery slash on the side of Xavier's right leg through a gap in the lightweight armor.
+
+We both jumped backward after this exchange and I heard him let out a cry of pain. His stance and movements remained the same, but his eyes had changed. The cool and calculated stare from before is nothing like it used to be, now there's fear in those eyes.
+
+I heard him speak up for the first time in a deep, yet young-sounding voice.
+
+"How... how do you have so many skills? It's impossible."
+
+I pointed my sword at him and it began to glow light red for a few seconds then returned back to black. I could feel it watching for a moment...
+
+Xavier seemed to notice it too, his eyes opened even wider as he held out his own sword.
+
+I grinned and ran forward igniting my blade. It's now or never, the best time to attack a genius is when he isn't right in the head.
+
+I covered my full body in flames and ran in like a charging bull. Xavier went fully offensive and stabbed me in the chest, then again in the neck. I hardened the areas of impact milliseconds before every attack. He must have been professionally trained, these attacks would have definitely been fatal without my skill... such precision it's almost scary.
+
+In the swordsman's angry confusion, I managed to land a hit of my own deep into the left side of his upper abdomen through another small gap in his armor.
+
+We jumped backward after this exchange and he burst into flames. I left a good amount of excess fire residue behind. He burned bright red.
+
+The crowd roared and the arena shook even more.
+
+I grinned and pointed my sword toward him. He gritted his teeth and scowled while pointing his blade back at me. Again, my blade glowed a faint red color then faded back to black.
+
+Xavier ran straight at me. He's frustrated, injured, and tired. If I didn't have so many wildcards up my sleeve he could easily beat an opponent much stronger than himself. Too bad he was paired with me today.
+
+We ran at each other with our swords held out in front of us. Mine began to pulse red again as we ran forward. I felt an incredible surge of energy flow through me and erupted into dark red flames.
+
+Xavier instinctively put his sword up to block my attack like all the others, but it did not go quite the same as it had before....
+
+I charged forward and his shining silver sword clashed against my fiery glowing crimson blade.
+
+*CLANGGGG**CRACKKKK*
+
+Xavier attempted to maneuver my blade to the side like he always had, but there was much more force behind my blow this time. No matter the technique, not much could be done against this raw power.
+
+My blade collided with his instantaneously shattering it into pieces. I followed through and cut his chest plate clean in half throwing the white-haired knight flying back against the cage wall.
+
+The crowd erupted into even more cheers and some threw food and trash up into the air. They were eating up the savagery taking place before their eyes.
+
+Xavier sat against the cage covered in flame residue and a bloody gash across his chest attempting to get up to his feet.
+
+He looked me in the eyes. I pointed my glowing sword directly at him with a serious look on my face.
+
+He yelled.
+
+"THAT'S IT. YOU WIN! I FORFEIT!"
+
+I nodded slowly and started to turn away.
+
+Then....
+
+My sword glowed even brighter, I could feel a presence seeping out of it into myself calling for me to finish the battle. It felt like a primal urge to hunt and kill the prey in front of me.
+
+I ignited into a dark ball of fire and drove the sword into his chest letting out an explosion of flames.
+
+[Level Up]
+
+I crowd roared even louder.
+
+It was all over before I realized what happened.... It was like I was in a trance....
+
+"There you have it, folks! Never a dull moment in the Rumble Dome!!! Our U250 winner today is the one and only..... FLAME EMPEROR!"
+
+I shook myself out of an adrenaline-induced daze to look around and see the crowd making a horrible mess outside the cage and chanting in unison.
+
+"WE WANT THEODORE!"
+
+"WE WANT THEODORE!"
+
+"WE WANT THEODORE!"
+
+They kept saying this over and over as I looked around the ring to understand what exactly just happened.
+
+I looked down at my feet and saw a blue light hovering over a few pieces of armor in a pile of ash.
+
+[Use Absorption]
+
+Skill: Appraisal[Special Grade]
+
+[YES][NO]
+
+I gulped and chose yes while looking around nervously.
+
+The announcer's voice rang out again.
+
+"It looks like the crowd is ready for another fight! We will give it to you shortly! Please take your seats and place your bets. Our new prospect The Flame Emperor will be facing off against our proud U250 defending champion Theodore The Destroyer! Please allow our fighters to rest and heal up, the main event will begin in half an hour. We will have a quick performance in the meantime."
+
+The lights began to dim and a few workers came into the area to escort me out. I nodded and followed them out. Another team of workers disposed of the remains in the ring. One of them spoke to me as we stepped out of the cage.
+
+"Hey, great show but don't you think you overdid it a bit? That was the trade commissioner's son ya know..."
+
+I ignored what he said and scanned the crowd until I finally saw Bri slowly walking toward me through an ocean of screaming fans.
+
+She had a huge grin across her face.
+
+"Good fight, exactly as I hoped for. Come with me, let's get you healed up for the main event."
+
+She put her arm around my shoulder and we started walking up to the VIP booth.
+
+Dancers in provocative clothing piled into the Dome and started entertaining the audience.
+
+I'm still in a bit of shock. The crowd parted all around us as we walked, I'm still holding the sword that killed a man moments ago with... I understand their concern.
+
+We walked up the bleachers and into a small private room with a window to view the show.
+
+I rested my sword up against the wall, sat down in a padded chair, and took off my mask.
+
+I took a long deep breath in and out, looked over at my sword, then at Bri, and finally grinned.
+
+"So, is there anything I should know about this Theodore guy? I'll be fighting him soon."

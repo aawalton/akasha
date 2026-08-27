@@ -1,0 +1,165 @@
+---
+id: 9d49117b-bf7d-501e-8c80-5370712ffb32
+page-type-slug: story-chapter-royal-road
+title: "Chapter 63"
+slug: 0063-chapter-63
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 63
+ownLength: 1528
+unit: words
+ownProgress: 1528
+publishedAt: 2023-03-21
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1144613/chapter-63"
+royalRoadId: "1144613"
+markedReadAt: "2026-06-29T20:33:59.141Z"
+---
+
+The underground market seemed to go on forever. We walked for about 20 more minutes, every new merchant stand looked the same to me. Every 100m or so there were doors and hallways that lead off of the main path, but they all either lead up to the surface or were private property.
+
+Bernard finally stopped in front of another small merchant shop and smiled at an old bald man that was half asleep sitting on a small wooden crate.
+
+"Morning Tom!"
+
+The old merchant shook his head and stood to his feet immediately in a startled fashion.
+
+"O-hoo! It's you! Good morning to you too Bernard. How can I help ya?"
+
+"Have any extra lives in stock? The kid needs at least a D grade for his fight today in the Rumble Dome."
+
+The old man grinned.
+
+I just looked at them both in confusion for a few seconds and spoke up.
+
+"An... extra life? What do you mean by that?"
+
+They both ignored my question.
+
+The old merchant started to dig through a box full of junk items for a bit longer than I had the patience for.
+
+I became antsy and started looking around his small shop examining random items that I had no intention of buying. Most of the stuff in here is just old E Class potions and used gear... Honestly, every shop looks like this down here. I guess you really have to get to know your sellers to find the good stuff.
+
+Finally, Tom pulled a small cube-shaped piece of metal with a long black string tied around it from under his pile of scrap items.
+
+"Here she is. It's probably got a day or two left on it, a mid-level D Grade I reckon. You know I make em' cheap, but it'll definitely save your life in a pinch. 3 silver and it's yours."
+
+Bernard nodded and turned to me.
+
+"You heard him, 3 silver."
+
+I squinted my eyes and looked at the cube of metal on the end of a ragged string.
+
+"3 silver for what? A good luck charm? What am I even buying here?"
+
+Bernard rolled his eyes.
+
+"Just buy it. I'll explain on the way back."
+
+I'm really getting pushed around here... It's starting to get annoying.
+
+"Fine."
+
+I handed the old merchant 3 silver coins and he took them while handing me the odd magic item.
+
+"Pleasure doing business with ya! Try it on kid."
+
+I let the metal cube sit in my hand for a few seconds. A very light hum came off the item. The only reason I even noticed is because of the slight vibrations it gave off in my hand.
+
+Without much thought, I tied the cube around my neck with the long black sting and let it hang next to my cyclops pendant. I didn't feel any change in my abilities.... Bernard nodded at me.
+
+"Great, I think that'll be enough for now. You're not much of a shield user are you?"
+
+I looked at him in disgust. Sure, it might help me out a lot in close combat battles but It would slow me down a lot. Speed is my number one stat that I take advantage of. Plus, just picturing myself with a shield makes me laugh. None of the main heroes in comics use a shield. It may be a pretty childish thought, but I think going into battle without a shield looks so much cooler.
+
+"Nope, you're right. Definitely not a shield user."
+
+He sighed.
+
+"What a shame. Well, I hope luck favors you today. We're heading back."
+
+I followed him close behind while we walked back the way we came.
+
+"Hey! So, what did I just buy anyways? You said you were going to explain!!"
+
+Bernard didn't turn around, but he replied.
+
+"It's a pretty unique item actually. Tom has an interesting skill that lets him merge potions with certain magic metals. This one in particular, he coined as an "extra life". He said it's around middle D grade, so it'll add an extra 500 or so HP to your stats temporarily."
+
+I raised an eyebrow.
+
+"Really? He said it lasts a few days...Couldn't I just get a ton of these and wear them whenever the old one wears out?"
+
+"Yes and no. It's called an extra life because they're mostly used for life-or-death situations. Yes, it's a 500 HP stat boost, but that just means it'll absorb the next 500 HP worth of damage you take on. Once it has taken in all the damage it can, the necklace will break and you'll be on your own. In a Rumble Dome match potions aren't allowed, so this will just give you an extra edge in HP. Does that make sense?"
+
+"Okay. Yeah, it does."
+
+I guess for 3 silver, you can't really go wrong. Although I was a bit annoyed at Bernard earlier, this made up for it. A one-time-use item like this could be the difference between life and death in a 1 on 1 fight. Wait a minute... that reminds me...
+
+"Hey! Bernard! How do you win one of these cage fights? It's not a straight up death match is it?"
+
+He turned and grinned.
+
+"The winner is decided when their opponent is either knocked out cold, falls asleep, admits defeat, or is killed."
+
+"Okay. That's uhm, good to know. So, anything goes in these matches?"
+
+"Yep. Anything goes. There's no dirty trick in the book that can't be used. All magic items and gear are allowed except HP and MP potions, which would just make matches never-ending. The only other rule that's set in stone is the level class system. You'll be fighting in the U250, or better known as the Under 250 class. This ensures a more fair fight."
+
+"Okay. Hmm. Good to know. Thanks for the help today."
+
+"Of course. If it's Bri's wish, then it's my command."
+
+We continued to walk back toward the building we came from. I watched the merchants and outcasts buy and sell their gear all around me. It really made me wonder what other treasures I might find down here if I search for long enough.
+
+"All right! Here we are!"
+
+Bernard opened the heavy metal door and we started to make our way back upstairs. We've been underground for a little over an hour. I spoke up.
+
+"Could the sword really be done already?"
+
+He nodded while we approached the first floor.
+
+"Probably yes, but we will not enter the office until I'm given the signal. Please follow me, I'll entertain you on the 2nd floor while we wait."
+
+"Oh, okay."
+
+Once we climbed the staircase to the 2nd floor I noticed the two women working on either side of the room again. I didn't get a close look at them before. They're both plugging away at some busy work in silence. Bernard stepped forward into the room motioning for me to follow.
+
+"These are my assistants. Please introduce yourself."
+
+They looked up from their seats and both stared me in the eyes. I couldn't tell them apart at first glance. They both wore light blue dresses, had matching blue eyes, tied up their bright blond hair in a bun, and stood around 160cm.
+
+"Nice to meet you, I'm Jay."
+
+The two of them both got out of their seats and simultaneously bowed while replying.
+
+"Nice to meet you, I'm Chloe."
+
+"Nice to meet you, I'm Zoe."
+
+I blinked twice and rubbed my eyes then looked at them both again. They smiled and bobbed their heads back and forth before going straight back to work in unison.
+
+Bernard walked over to his desk and offered me a seat in a flimsy-looking wooden chair he must use for guests.
+
+"They're great aren't they?"
+
+I looked at him with a bit of concern.
+
+"Uhh, yeah I bet they are."
+
+Bernard sat down and pulled out a book from the small pile on his desk.
+
+"It shouldn't be too long now, please pick any book you'd like in the meantime."
+
+He crossed his legs and adjusted his glasses before opening the book to where he'd left off previously. I began to sift through the pile to see if there'd be anything worth reading. They're all old science and math books... These look like they were written before the dungeons even showed up over 80 years ago. I guess he enjoys the classic fundamentals. I for one, get bored out of my mind reading books like this.
+
+I kept awkwardly shuffling through the books and reading the back covers for a solid 20 minutes. I couldn't find a single fantasy, or even a history book of some kind to cure my boredom for the time being.
+
+I just decided to give up and stare at the ceiling.... After just 5 minutes of counting the specs of dirt I saw an orb of white light sink through the solid floor above me. Looks like I've been saved by the bell!
+
+Bernard looked up from his reading.
+
+"That's our cue. Ms. Briana is ready for us."
+
+I grinned with excitement.
+
+"Finally! I get to see my finished sword!"

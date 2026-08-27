@@ -1,0 +1,205 @@
+---
+id: d451ff49-ead0-5c76-8001-bef0ccac6522
+page-type-slug: story-chapter-royal-road
+title: "268: Foreigner"
+slug: 0268-268-foreigner
+partOf: delve
+position: 268
+ownLength: 3233
+unit: words
+publishedAt: 2024-09-22
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1814246/268-foreigner"
+royalRoadId: "1814246"
+---
+
+When faced with an unknown monster, striking first was a time-honored and proven tactic.
+
+And so, Jamus chose violence.
+
+Arcane Bolt!
+
+He’d come a long way since joining Ascension, and while he hadn’t progressed in the traditional sense—via cap-ups and additional skills—there was simply no comparison between the him of then and the him of now.
+
+Part of it was equipment, but more than that, it was conditioning. Through renting accolades to train his synchronization; work with stat-rings, first, then the Malleable Earring later; and endless hours spent under Winter’s influence, he was a changed man. As such, when he released the quick-fired blast of purple-blue energy, he did it with the benefit of Guide Sending. Using the metamagic was as easy to him now as breathing, whereas before, even attempting to do so would have promised a crippling headache for days to come.
+
+It was to his complete shock, then, that his magic found the enemy.
+
+Ascension had changed him in other ways. His target had not been the monster, but instead a patch of sand at its feet. He’d intended to warn it off on the outside chance that it was an animal—or a Shifter, for that matter. Direct assault tended to preclude diplomacy.
+
+Instead, the alien creature had leapt forward the moment it saw his shot, jumped, then snapped it out of the air with another resounding clack of its mandibles. The projectile detonated on impact, of course, but to little effect. The beast simply landed and shook its head, mandibles clacking again and again as if it was trying to rid itself of a foul taste.
+
+“It’s a tough one!” Jamus yelled as those vertical eye slits locked onto him once more.
+
+His Focus wasn’t boosted right now—the Accolades he’d bound and left in Ascension’s armory being more of a defensive nature—but that bolt should still have done north of three hundred damage. More than enough to kill an unawakened animal of that size outright.
+
+Naturally, he fired again, but not before wafting himself higher with Levitation and dumping fifty points into Focus. He didn’t take them from anywhere; he used unallocated points to push himself over the limit. Tallheart’s earring was fit for a silver, after all.
+
+The bone cat—for he had to call it something—calmly hopped aside in response to his second shot, seemingly having judged Arcane energy not to be to its taste. Unfortunately for it, Jamus hadn’t planned on taking a warning shot this time. A swift flick of his fingers was all Guide Sending needed to send the projectile hooking into the creature’s flank.
+
+The impact and detonation against the monster’s bony armor caused it to twitch—hopefully in pain, but realistically just surprise—and then it was sprinting at him faster than a horse could run, still with that same eerily smooth movement.
+
+“It’s going to jump for me!” Jamus predicted. “Be ready!”
+
+Realistically, only Staavo would be a factor against something like this, at level ten, with both melee and magic capabilities. Tarny had a sword but no skills to back it up, only hours spent in Samson’s lessons. He’d bound the Ice Bolt accolade for this mission, but it was likewise unsupported, and despite being level nine, he was still a Logistics Beacon and thus completely unsuited to combat. The biggest liability by far, though, was Shu at level four. While he had Hard Light and some metamagic making it versatile, he was not a fighter. Jamus had never once seen him attend combat practice. He was a specialist, not a combatant.
+
+The time for worrying after others ended as the creature leapt, the force of its launch kicking up a plume of sand. Jamus loosed yet another Arcane Bolt, raised himself with Levitation, then, not willing to leave to chance that it couldn’t alter its flight midair, reached for a different piece of magic.
+
+Arcane Bulwark!
+
+Unperturbed by the lack of support, the spell’s translucent barrier hummed into being in midair. It was just as rigid and rectangular as it would have been on the ground but angled to rest between him and the creature’s razor jaws.
+
+Jamus got a great view of the impact as the whatever-it-was piled face first into the obstruction, its segmented body collapsing into itself like Rain’s telescope. The Bulwark flared, static radiating out from the point of impact, the entire construct twisting and wobbling in a way Jamus had never seen before. But then, it snapped back to normal in a similarly unprecedented manner.
+
+What was that?
+
+At the same time, an explosion of frost against the creature’s belly told him that either Staavo or Tarny had taken the chance for an easy shot. The creature rebounded, falling away, and not to be left behind, Jamus grabbed his hat with one hand as he canceled Levitation. Were he alone, staying in the air would have been the smart choice, but there was no way he would leave his allies alone with this thing, not when his barrier had proven effective.
+
+Landing first with a heavy whump ahead of him, the bone cat whirled toward Staavo only to take a second Ice Bolt right in the face.
+
+The old man stood with his falchion in the high guard of 9th Sparrow, his other hand thrust forward after having launched the magic. Ninety degrees from him, Tarny loosed a similar bolt, taking the creature in its side, forcing it to divert its attention for a moment. A second hit from Staavo made it whip back around, settling its aggression on the one-legged Spellsword.
+
+Recency targeting, perhaps?
+
+The creature launched itself forward, and Jamus loosed another Arcane Bolt despite knowing the slow-flying magic wouldn’t get there in time.
+
+Staavo didn’t panic, though, sweeping his toe in an arc across the sand in front of him before he dove to the side. As the bone cat landed where he’d been standing, it encountered Frozen Slick. Disappointingly, it didn’t go down on the patch of treacherous magical ice, but the sudden slip of its clawed forelimbs forced it to scramble for traction.
+
+Jamus flicked his fingers as his Arcane Bolt caught up. Guide Sending wasn’t true homing, merely allowing manual control of a projectile in flight, but long hours of practice had perfected his timing.
+
+The translucent ball of energy found the back of the creature’s knee, where there was a notable gap in the plating. As before, the detonation didn’t appear to do much, but the bony head whipped around, ignoring Staavo struggling back to his feet nearby in favor of returning its slitted glare to its latest attacker.
+
+“Recency targeting!” Jamus called, reasonably sure of it as the beast hurtled toward him. “Someone else take aggro!”
+
+Arcane Bulwark
+
+The bone cat slammed into the barrier that appeared before it even harder than the first time, the strange static and distortion returning before the barrier snapped back.
+
+Seriously, what is that about?
+
+As the monster picked itself up, Jamus took a closer look at it through the translucent magic protecting him, not finding its eyes within the vertical slits in its armored skull. What he saw instead was darkness. Just unbroken black.
+
+Tarny’s Ice Bolt struck then, and though it made not a sound, the monster’s head whipped around.
+
+Jamus pushed down on the unease growing in his stomach, taking solace in the fact that the monstrous thing was following one of the basic patterns. It looked like they’d be able to keep it bouncing between them, though its speed would make that difficult.
+
+And now Staavo takes it.
+
+True to form and clearly on the same page, the seasoned old man had already loosed. His masterful cast sent a razor-sharp and nearly invisible spike of ice into the joint between the monster’s first and second segments. It wasn’t an Ice Bolt this time, but a full Glacial Nail.
+
+Like Fireball over Firebolt, the tier-two Ice spell was a direct upgrade over its foundation-tier equivalent, shifting some of its power to Force and adding a piercing effect instead of an explosion.
+
+And the monster plainly noticed the difference, stumbling and grinding to a halt, though it remained eerily silent. Bending back on itself, it bit at the ice lodged between the plates of its armor, pulling it free with a spurt of dark blood, then flinging it away.
+
+“Well, that did something,” Staavo said, panting. “Shame I don’t have many of those in me.”
+
+And then, the uneasy feeling in Jamus’s stomach exploded into dread as the monster took a long, angry look at Staavo before returning its alien gaze to the nearer foe.
+
+Shit.
+
+“Shit!” Tarny yelled in chorus with the thought, turning tail and taking off.
+
+“It’s faster than you, you idiot!” Staavo yelled, hurling more ice, though just an Ice Bolt this time. The spell went wide, missing as Tarny swerved to try and shake his pursuer, which was doubtless why Staavo hadn’t bothered with the more expensive magic.
+
+Jamus let loose too, arcing the shot up and over his Bulwark, though he knew he was too late for it to matter. Compared to all the Ice magic zipping through the air, Arcane Bolt flew as quickly as an overburdened bumblebee. And so he found himself standing helplessly behind his barrier as the bone cat adjusted its course, closing the gap to its prey faster than his magic could make up the distance.
+
+But then, out of nowhere, Shu appeared in the monster’s path.
+
+In his arms, he held a white spear of hardened light, which he planted in the ground as he braced for impact. Questions of where the weapon had come from paled before the horror of what was about to happen.
+
+No!
+
+The shining spear point found the creature’s open mouth, the shaft bowing as the momentum of its charge forced it to impale itself. True to Jamus’s fear, it shattered almost instantly, but Shu was ready, dropping to the sand and forming a dome of light over himself. Recoiling from the impact and off balance, the creature tripped over the sudden shining hill, its own speed sending it flying far past its mark.
+
+Shu’s barrier, though, didn’t survive the encounter. Like Jamus’s magic, it twisted weirdly on the impact, only shattering rather than snapping back. As for Shu himself, from where Jamus stood, it looked like the former soldier escaped getting a few new breathing holes by no more than a hand’s breadth.
+
+And a former soldier he was, no mistake. Before the bone cat found its feet, he had already found his own and was distancing himself from the recovering beast.
+
+Jamus apologized in that moment for ever thinking of him as a non-combatant.
+
+Was that just Barrier Shaping? I didn’t know Hard Light could bend so far.
+
+Recovering from the rapid series of unexpected developments, Jamus brought his fingers down, sending his still-flying magic at the neck joint at the base of the bone cat’s skull. The monster’s movement prevented a clean hit, the Arcane Bolt splashing harmlessly off one of the plates, but he doubted it made a difference. He needed more power.
+
+“We need a new plan!” Staavo yelled, loosing another Ice Bolt as Jamus called on Overcharge.
+
+Ten seconds would be an eternity, but Staavo had proven the beast could be hurt. The magic at his fingertips seemed to swell with each frantic throb of his heart. With his other hand, and knowing he was going to regret it on account of his boosted Focus, he began calling a Lightning Whip. It would be five seconds for that one. There was no restriction on using the two disparate spells together save the fortitude of one’s mind.
+
+“Group up!” Tarny yelled, diving behind the still-standing Bulwark, which had maybe three seconds left on its duration.
+
+Jamus’s eye twitched, but he couldn’t spare the bandwidth to give warning without jeopardizing both his casts. If it came to it, he’d unleash the Arcane Bolt early and recast the barrier. Ideally, they’d be able to use the monster’s ability to learn against it. He personally wouldn’t be keen to slam his face into a suddenly appearing wall of magic for a third time.
+
+“What’s our plan here?!” Staavo yelled, he and Shu sprinting toward them from alternate directions as the monster rose from its tumble. There was a dark smudge on one of its extended mandibles that had to be more blood. Shu’s strike had apparently done some damage as well.
+
+“Turtle and snipe!” Tarny yelled. “If we get it close, you can— Shit!”
+
+Jamus’s barrier had shattered as its time ran out, and the bone cat charged immediately. With little choice in the matter, he loosed the partly Overcharged Arcane Bolt and clung to the building cast of Lightning Whip in his mind as he split his attention further to drag a replacement Arcane Bulwark into existence.
+
+If there was a difference in damage from the Overcharge, it wasn’t apparent, the slightly larger orb of energy detonating off the charging beast’s skull. It did, however, change direction, darting to the side in an attempt to get around the obstruction.
+
+Lightning Whip crackled into being, but Jamus didn’t lash out with it, instead summoning yet another Arcane Bulwark to defend them from the new direction. Unfortunately, there was an unwritten limit to the spell in that only a single barrier could be out at one time, leading to the previous one dissolving with no recoup of mana. With several thousand points in his reserve, that wasn’t a concern. Yet.
+
+“Oh look, it’s close,” Staavo said, huffing and puffing as he arrived behind the Bulwark. “Shu, you mad bastard, didn’t you see the claws on that thing?”
+
+“You know, I did,” Shu said flatly.
+
+“It seems to have some disruptive ability,” Jamus said, struggling to keep up with the creature’s rapid zigzagging. “Fortunately, it also seems to have acquired a distrust for my Bulwark.”
+
+“What in the hells was that spear?” Tarny asked.
+
+“A very long, very thin barrier,” Shu said. “It should not have pierced its defense. I suspect Staavo removed its Health buffer.”
+
+“No, that’s not it,” Jamus said firmly, wincing as the thing abandoned its attempt to get around and charged straight into his latest Bulwark. As before, the construct fuzzed and twisted, threatening failure before snapping back into place. “I hit it after Staavo, too, and it did little.”
+
+“Weak to light, huh?” Staavo asked, twirling his falchion.
+
+“I know what you’re thinking, and don’t try it,” said Tarny. “Light Cut will get you killed. Just use another Glacial Nail.”
+
+The beast once more struck the barrier, this time with a claw, and was repulsed. When the magic snapped back, cracks spiderwebbed its surface, more like what Jamus would have expected had it been damaged traditionally.
+
+“Be ready!” Jamus shouted as the monster reared back, exposing rubbery purple flesh. Seeing Staavo’s rise to point in the correct direction, he summoned a new Bulwark directly above them. The one in front vanished just as the beast brought its taloned claws down to smash through the barrier that was no longer there.
+
+“Gotcha!” Staavo yelled triumphantly, launching another razor-sharp icicle to punch into the creature’s chest. Tarny followed this up with an Ice Bolt for good measure, the beast falling back to all fours and sending the icy spike deeper into its innards. Still, it did not cry out, and Jamus was quick to summon a new Arcane Bulwark before it as it furiously surged forward.
+
+“Huh,” Staavo said. “Thought that would do it. Nailed it good, though. Nailed, get it? Maybe one more to seal the deal?”
+
+“No, look,” Shu said urgently, pointing. “Its side. It’s already healed.”
+
+“Oh, that’s just great,” Tarny moaned.
+
+The beast faked a charge, then darted left before Jamus placed another Bulwark in its way.
+
+“What is this thing?” Staavo asked in frustration.
+
+“How long can you continue, Jamus?” Shu asked.
+
+“Not indefinitely,” Jamus said, his voice clipped with concentration and the pain of a growing headache. His boosted Focus was taking a toll, and the beast was clearly Arcane-resistant. Acknowledging that fact, he shifted half the extra points to Clarity and uninvested the rest. That way, he might actually make it to the point where his mana ran out.
+
+“Can you Levitate us away?” Tarny asked.
+
+“Possibly, but—“ Jamus cut himself off, forced to summon a Bulwark in midair as the creature attempted a leap. Rather than crash into it, it bounded off, the barrier fuzzing as it soared over them. The instant it landed, it propelled itself forward only to stop short as he placed yet another wall of Arcane energy in its path. He took a deep breath, then shook his head as he continued. “As I was saying, possibly, but the effort to keep us aloft would drain my mana even more quickly than this. I do not think it will simply give up should we float away.”
+
+“So, what then?” Tarny asked, switching to Winter. “We play this game all night?”
+
+“Winter won’t be enough for that,” Jamus warned, though the illusory chill was welcome. Despite having done less running than the others, the heat had him drenched in sweat.
+
+“Just ‘cause it heals doesn’t mean it heals forever,” Staavo said, arm raised. “Give me another opening, Jamus, and this time use the whip. We grind it down, or it grinds us down.”
+
+“It won’t fall for that again,” Jamus said, watching as the beast tried pressing its way through the barrier rather than recoiling as it had after every previous collision. The Arcane magic hated this, but held. “It’s learning. Trying new techniques. Whatever this thing is, it’s no monster, not without the system giving it a name.”
+
+“Oi, ugly bone shit,” Staavo said. “You’re not people, are you? If you’re people, would you kindly fuck off?”
+
+“We surrender!” Tarny called, waving his hands. “Back off if you accept!”
+
+The beast didn’t so much as look at either of them.
+
+Jamus couldn’t quite say why, but he was beginning to think the thing was deaf. It had no ears that he could see, and though it was hard to tell with its armored body, it didn’t appear to be breathing. “We all know where this thing came from,” he said, raising his whip in preparation. “Barrier down in three. Two. One!”
+
+Staavo and Tarny both loosed their spells as Jamus lashed out, but the creature merely hunkered down, anticipating the strikes. Ice shattered against bone, finding nothing to dig into, and the whip fuzzed with impotent static. It wasn’t even clear if the system had accepted the bone cat as a valid target.
+
+And then, as the beast prepared to lunge and Jamus prepared to summon another barrier, there was a deafening thump accompanied by a loud, sickening crunch. The bone cat appeared to vanish, replaced by a tidal wave of dark blood, sand, and shards of bone that failed to reach the party before they were blasted backward.
+
+“Apologies,” said a familiar woman’s voice. “Not a bad effort, but I’m afraid you weren’t making much progress.”
+
+“La—“ Jamus began as he whirled, only for the name to freeze on his tongue. There stood not just Lavarro, bedecked in full Adamant regalia, but a dozen soldiers as well.
+
+“Hello,” Lavarro said, smiling sweetly. “I’m Dominus Anya, and I have...questions.”

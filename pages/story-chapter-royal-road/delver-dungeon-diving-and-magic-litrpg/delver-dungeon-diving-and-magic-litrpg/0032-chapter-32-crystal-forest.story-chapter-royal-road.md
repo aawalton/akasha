@@ -1,0 +1,175 @@
+---
+id: 839cf0e6-84e4-5d85-9056-46f1153088c5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32: Crystal Forest"
+slug: 0032-chapter-32-crystal-forest
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 32
+ownLength: 2096
+unit: words
+publishedAt: 2026-06-19
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3563013/chapter-32-crystal-forest"
+royalRoadId: "3563013"
+---
+
+The Destabilization was not alone in our destruction. With our power gone to us, we turned to our servants, the Twisted to defend us against the undead that rose across our cities.
+
+They turned on us. Slaughtered us when we were at our weakest with their Internal Mana, forcing the end of our Empires where we might’ve held strong.
+
+They pay for their betrayal now, exiled from our strongholds to face the wilds on their own.
+
+Curse those traitors.
+
+We leave the camp at first light.
+
+Part of me had wanted to leave with Jasper in the night, but it’s far too dangerous in territory I don’t know. With any luck, the demon worshippers will be just as scared of the darkness, as they should be. Terrifying things stalk the night.
+
+I take a different path than the one we took to get here, heading straight east away from the city of the dead.
+
+Shar watches the sky, and I do my best to increase Jasper’s pace. I know that I can’t push the rock-lizard too hard, but I bribe him with some particularly delicious cedar branches and he matches our pace of a light jog.
+
+I’m watching the sky when I stumble onto a surprisingly open path winding the same direction we’re going.
+
+There are no roads maintained by the strongholds, but there are ancient paths from hundreds of years ago, the materials they built them with preventing the forest from completely blocking the path. A statue of Lumin rests beside the road, covered in moss, but clearly playing his lute.
+
+I immediately change course to follow the road. It isn’t marked on any of the maps I’ve seen, but we need speed, and fighting our way through the underbrush is more dangerous than following an open road.
+
+Shar swoops back overhead, then lowers herself to land on my arm. Her metallic feathers shift as she adjusts herself on the leather of my bracer.
+
+“I didn’t see them.” She says.
+
+I let out a breath, the air misting in front of me. Unfortunately, our path is all too easy to follow if one of them finds our old camp. We either need a fresh snowfall, or for the snow to melt to fully cover our tracks.
+
+I look down the path, then over to Keve, whose breath is misting even heavier than mine. He looks completely unbothered by the cold. I shift, grateful for the enchanted clothes and cloak I wear, keeping me warm with only a small drain on my mana.
+
+“Focus on the path ahead.” I decide, my gaze returning to the broken road we follow. “If you haven’t seen them, then we still have time before they catch up. Better to not run into a reaver nest, or another group of undead.”
+
+The golem nods, then hops off my arm to take to the skies again.
+
+I shoulder my pack, then whistle for Jasper to start up again. The rock-lizard dislikes the cold, but he’ll be fine until we make camp.
+
+We keep moving, and I keep my eyes peeled for anything dangerous. Not many creatures travel in the cold, but that just means that the predators we do encounter are more likely to be hungry.
+
+The snow crunches underfoot, but the occasional statuette of Lumin put me at ease. Beyond being guides, they imply that the path is safe.
+
+I pull some jerky on my bag, hand a piece to Keve, then chew on it while keeping watch. My enhanced perception helps me notice the slow change in the foliage as we walk. The brown bark of the trees turns sharper, more crystalline.
+
+Light reflects strangely off the snow, shining through the crystal-like trees and making the forest off the road hard to see.
+
+Soon, the normal trees are completely gone, replaced by brown and blue crystal-trees. My steps slow.
+
+I glance up to see Shar dodging away from a larger bird. I move towards my bow, but the golem swoops lower and the larger bird gives up on its chase.
+
+“Shar!” I call in the softest, loud voice I can. I don’t want to alert anything living here.
+
+The golem hears me, and flies back, landing on one of the crystalline branches.
+
+“How far does the crystal forest go?”
+
+“It changes back in roughly two miles, the river cutting it off.” Shar tilts her head.
+
+I look around, “Is there anything noticeable in the center?”
+
+“I can look.”
+
+I hesitate, then shake my head. Instead I take off my glove and place my hand in the snow.
+
+Two miles means that it might be outside of my range, but I don’t think so. I close my eyes.
+
+Mana flows through my body, then leaves my hand in a pulse that extends through the earth, searching for manmade structures with the aura of time attached to them.
+
+Find Ruins pings something, a large house to the north.
+
+Then it hits the river, and portions of it return to me as manmade. Finally, I find what I think I’m looking for.
+
+North-East, there’s a ruin extending into the earth, an entrance close to the river.
+
+I open my eyes, and stand up. It’s off our path, and we don’t have time to stop for it. Still, I pull out my notebook, and start to write in the location. My map skill has marked it as well, so it shouldn’t be too hard to find.
+
+Another trip, for another time.
+
+The cracking of crystal makes me freeze, then I hurriedly put my book away, and activate Hide Presence.
+
+Keve drops to the snow, disappearing into it by pulling his white cloak over himself, Jasper sits there like a pile of rocks.
+
+A giant humanoid creature lumbers through the crystals. Its body is completely black, except for the crystals that poke out from its limbs at odd angles.
+
+It searches the road, its gaze passing over where Keve is hiding, and skipping right over me, before it continues its way through the crystal forest, the occasional crystal-branch breaking in its path.
+
+I wait with baited breath for another minute before deactivating my skill.
+
+I motion for Shar to take back to the sky, and she does so. We quietly continue down the road.
+
+The crystal forest shows more oddities as we travel through it. The birds that I see all have crystalline features, and the larger monsters all too often have armor-like plates.
+
+We have to leave the road briefly to avoid a reaver nest, and I see one of the large-spider like creatures from a distance with an onyx exoskeleton.
+
+All the same, I’m happy when we return to the road, and reach the river, and normal forest growing on the other side.
+
+It’s a large slow moving river, with portions frozen over. There are remnants of a bridge, but it’s long been washed away by the river. We have to travel down it for a good while before we find a shallow enough portion to cross.
+
+Normally I’d jump across with the help of feather-weight, but this river is too wide for that strategy, so I’m forced to take my boots and socks off, the freezing cold of the snow hitting me immediately.
+
+I roll up my pants, as Keve removes his own boots. I take a breath, then step into the freezing cold stream. Jasper is well-trained enough to follow me through the water, but there’s noticeable resistance in his gaze.
+
+Keve steps into it last. I look back to see steam rising from where he steps, the crinkle at the corner of his eyes tell me that the cold is finally getting to him.
+
+I hide a smile, and focus on the water.
+
+It’s shallow and cold enough that none of the more dangerous creatures should be swimming around, but I know better than to trust “should”. Danger sense doesn’t go off, and we make it to the other side without issue, beyond the worry of frost bite.
+
+I immediately dry my feet, and put my socks and shoes back on, Keve doing the same.
+
+I glance back at my map, judging how far we are from Onder, then comparing that to where the Archmage’s ruins are. We’re taking a more direct route then the one we took to the temple, so I’d guess another two days if we were heading to Onder. There might be another haven on the path, but we’re too far from the main roads for me to know for sure.
+
+But we might need to skip Onder, which means we’d want to adjust our path soon. That would mean…
+
+I trace my finger along the map only I can see. Five days if we make a good pace. Seven, if we encounter too much trouble or have to deviate from the path near the old town of Bollar.
+
+I let out a sigh, then grab the water bottle tied to Jasper. I make my way to the river, and fill it up. Keve senses that we’re stopping and does the same with his water.
+
+We don’t have the food for a journey that long, which means we’ll need to hunt something, or rely on a haven to restock.  I’m confident we can hunt something, but blood always draws danger, and it’ll be even worse with the winter. All the predators that still stock the snow are hungry.
+
+I finish filling the water, and we set off again to refind the road where we’d left the broken bridge.
+
+Once we find the road, I decide it’s dark enough to find a clearing and set up camp.
+
+***
+
+We make better time than I expected, following the old road increases our pace.
+
+Three days pass without trouble. As I thought, we have to deviate when we get close to Bollar, a smaller town that still has more than its fair share of undead.
+
+That’s when Shar discovers someone following us. Her new skill, Sense Magic, finds a trace that’s been placed on Keve and I. Later that same day, she spots a party following us through the wilderness, about a day behind us on foot.
+
+I stop at the first shelter I can, and with Shar’s help, search through my library for some way to remove the trace.
+
+I walk through the shelves of my private library, hurrying past books on ancient magic until Shar leads me to a section on runes, and wards.
+
+I know of wards, of course, but they’re complicated arrays of runic magic, none of which I can confidently cast at my level.
+
+Still, I pull the book, and return to the shelter, where Keve waits. Shar claims that a basic magical barrier should block the trace, and once its blocked, it should naturally dissolve over the course of a day.
+
+So I rifle through the book on wards, until I find something that I think I can cast with some confidence.
+
+Keve loans me one of his statues, and I carve the runes into it as we walk. Our pace is hurried. Even once the magical trace is gone, they’ve still found our trail, which means we’ll have to lose them somehow. More snow has been lazily falling, but I don’t think it’s enough to cover our tracks.
+
+I finish the minor-ward, and power it with my mana.
+
+I feel the air shift, and a small, invisible bubble surrounds our group. I have to constantly power it with my mana as we walk, which means I lose focus on our surrounding, and have to fully trust Keve to guide the way.
+
+By the end of the day, the trace has dissolved, but the group has gotten closer, just a few hours behind us, according to Shar.
+
+I consider my options, there’s a stream we could lose them on, or we could try to make our way towards Ballor.
+
+We’re two days away from the Archmage’s home.
+
+No, leading them straight to the ruins is a bad option.
+
+We could fight.
+
+My summoning skill is ridiculously strong, but if that was the plan, we should’ve done it before trying to get rid of the trace. My mana has been drained from holding the ward, I’m not sure I could summon a legend right now, and if they refused the summon, we’d be damned.
+
+I hesitate for a long moment, then turn towards Ballor. Hide Presence doesn’t always work on the undead, but the Angel Statue always works.
+
+I glance up at Shar, flying high above us, as a plan forms in my head.

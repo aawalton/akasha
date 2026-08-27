@@ -1,0 +1,321 @@
+---
+id: 851fb7b9-5343-56df-9692-5095bef4150d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 0: Deadliest Day"
+slug: 0001-chapter-0-deadliest-day
+partOf: dungeon-devotee
+position: 1
+ownLength: 4676
+unit: words
+ownProgress: 4676
+publishedAt: 2022-02-12
+link: "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/844164/chapter-0-deadliest-day"
+royalRoadId: "844164"
+markedReadAt: "2026-06-29T22:37:02.146Z"
+---
+
+Four queues stretched across the unimaginatively named Dungeon Square, one for returning adventurers picking up where they left off, one for the gatherers come to reap the plentiful herbs and ores from the upper levels, one for the well-equipped, wealthy newcomers under the watchful eye of an experienced guide, and one for everyone else.
+
+Edmund Montgomery Ahab stood in the fodder line.
+
+Edmund, or ‘Ed’ as he was known to absolutely nobody, wore what amounted to little more than rags, the last of his clothes sold just over an hour ago. Where he was going, the nice linen shirt and leather pants would offer no more protection than the filthy rags, and every extra bit of coin might just be enough to keep him alive. As his eyes gingerly scanned those in line around him, he saw he hadn’t been the only one to take such a deal. Apparently, buying the clothes off of would-be delvers’ backs made for lucrative business.
+
+To say he placed a hand on the comforting weight at his hip would be dishonest, for truth be told he’d never once let go of the dull sword since he’d bought it for every bit of copper he’d managed to scrounge up. The blade hung freely from the rope around his waist, the only approximation of a belt the ragmonger’d had on offer. Still, Edmund reeled at how quickly his worldly possessions had vanished in pursuit of the slightest bit of protection. It would have to do.
+
+“So,” a voice pulled Edmund from his reverie, “what brings you to the desperate idiots queue?”
+
+Edmund blinked, turning to find the speaker in front of him in line. The boy—a term Edmund defined as anyone younger than his own nineteen years—flashed a sly grin and answered his own question before giving Edmund a chance to speak. “Me, I’m here for my ma. She’s got the gray lung, she has, can hardly get out of bed, let alone work. Can’t afford a health tincture if you can’t afford to eat, so here I am.”
+
+Edmund furrowed his brow at the lad. “You seem awfully glib for someone who’s starving.”
+
+“And you seem dead set on not enjoying what’s likely to be your last two hours on this earth.”
+
+“If I die, it won’t be because I didn’t give the dungeon the respect it deserves.”
+
+“Oooh,” the boy made a show of sounding sarcastically impressed by Edmund’s words. “You’re one of those serious types.”
+
+Edmund grunted.
+
+“I’m Liam, by the way.” He held out a hand which Edmund promptly ignored. “Look, we may as well get to know each other. Odds are we’ll be put in the same group, and a bit of teamwork goes a long way.”
+
+Edmund flashed a look from the pre-made group of five standing ahead of him in line to the one standing behind him in line. He’d hoped by queuing up alone they’d have let him go in alone. Apparently not. With a sigh, Edmund shook the offered hand. “Edmund.”
+
+Liam smiled. “That wasn’t so hard. So tell me, what kind of desperate idiot are you? Starving? Homeless? Sick? Orphaned? All of the above?”
+
+“The kind that’s none of your business.”
+
+“Then what brings you to the Eternal Depths?”
+
+Edmund spoke his next words with the sort of simple nonchalance generally reserved only for the very powerful and the very stupid. “I’m going to destroy it.”
+
+Liam snorted. “Oh, I get it. You’re not a desperate idiot at all, are you? You’re a determined idiot.”
+
+“I’m not sure calling me an idiot over and over again is the best way to make me want to be your teammate.”
+
+“Fool, then?” Liam asked. “Or how about lunatic? Is that more to your liking?” He let out a laugh. “We’re all idiots here. Idiots with no other choice, but idiots nonetheless. You think any man in his right mind would walk into the mouth of the most dangerous predator on the planet with only a few rags and a dull sword to protect him?”
+
+Edmund grit his teeth. “Then why don’t you leave?”
+
+“I told you, my ma is dying, and without her my little sisters will starve. Just ‘cause I’m not as deluded as you are about what’s about to happen doesn’t mean I haven’t thought this through. The odds are bad, but they’re the best odds I’ve got.”
+
+Edmund sighed, putting aside his annoyance at Liam’s prattling in favor of sympathy for his situation. For all his pessimism, the boy was right about one thing. “Alright, let’s get to know each other, then. What can you do?”
+
+Liam grinned, patting the hilts of the twin daggers at his hips. “My Aspects are Blades and Agility, with their confluence Knives. I know three isn’t a lot, but they’re all geared towards combat, and my mind’s sharp enough to use ‘em.” He paused looking down at Edmund’s own weapon. “I take it from that sword of yours that you’re more of a frontline fighter?”
+
+“Something like that.”
+
+“Good, good, keeping it simple. That’s smart.” Liam nodded in approval. “You know, before he passed, my old man used to say it was overcomplicating things that got you killed. Now, he wasn’t a delver, mind, and I’m not really sure how complicated fishing would have to get for it to be lethal, but he did have a solid head on his shoulders. In fact, one time when he was walking down to the docks…”
+
+Edmund whiled away the following hour listening to whatever thoughts and stories crossed Liam’s mind as the queue inched inexorably towards the dungeon mouth. Every once in a while he injected a comment of his own, but Liam seemed perfectly happy to keep talking with or without Edmund’s input.
+
+The Eternal Depths didn’t keep its entrance at the base of a towering cliff or deep within a treacherous gorge, but as a simple hole in a grassy hillside, perhaps an ode to the dungeon’s humble beginnings all those thousands of years ago. Of course these days, while the hill itself remained untouched out of respect for the dungeon, the wilderness surrounding it had long given way to the bustling thoroughfares of Harrowed’s Hearth.
+
+The city itself, named for the faces of those who emerged from the adjacent dungeon, had developed over the years into a messy sprawl in all directions surrounding the square. Dungeonfront property struck the perfect confluence between exorbitantly expensive and deeply seedy, owing mostly to the type of individual who chose to risk his life in the Depths.
+
+Gorgeously designed four-story luxury inns rubbed shoulders with dingy brothels which charged far too much for what they offered neighbored a dozen services selling information or guidance through the early levels of the dungeon.
+
+City regulation mandated the square be kept clear of permanent buildings, but the various buyers and sellers toed that line as close as they could with expansive carts and awnings, anything to take up as much space as they could in an effort to bring fresh delvers or returnees to their store.
+
+Dungeon Square had even been paved all the way up to the entrance itself, the land so heavily trodden by delvers and the businesses that supported them that the only alternative to the manmade cobbles would’ve been a field of mud. Edmund appreciated the paving stone, his boots worn enough that any amount of mud would’ve left his feet wet.
+
+Each of the four queues across the square came to an end at a desk with a clerk and a ledger, the one brief moment of equality the four classes of citizen would enjoy before stepping into the jaws of the beast. Edmund spared a glance at the veteran’s line, where groups of men and women in glimmering armor or glowing robes laughed and joked as if today were any other day. He supposed to them, it was.
+
+In contrast, even the rich youths who could afford high end starting gear and an experienced guide bore gaunt and pale expressions. Rich or poor, there wasn’t a man, woman, or child in Harrowed’s Hearth that didn’t have a friend or family member that had fallen victim to the Eternal Depths. Still they came, pursuing the same promise of power and wealth that had so entrapped the minds of men for all of time.
+
+It was disgusting.
+
+Edmund couldn’t tell which he despised more, the beast that offered this foul bargain or the greed of humanity that so readily fed it.
+
+But these were thoughts he’d had before, thoughts he’d known and shaped and been shaped by in turn for the better part of a year. They were, in their own way, part of the reason he stood in that very queue. He could hardly believe it’d been almost a year.
+
+A voice pulled Edmund away from rehashing the same thoughts and memories for the thousandth time. He looked up to see Liam had made it to the front of the line.
+
+“Group of two? Name and Aspects, please,” the clerk droned.
+
+“Liam Evandreth. Blades, Agility, and Knives.”
+
+After a bit of scribbling, the clerk looked up from his ledger and jerked his head to the left. “Go wait by Mr. Ilian until your party is full. Next!”
+
+“Edmund Montgomery Ahab. Perseverance.”
+
+The clerk looked up at him. “And?”
+
+“Just Perseverance.”
+
+The clerk let out a tired breath, but didn’t comment further on Edmund’s lack of Aspects. “Go wait by Mr. Ilian until your party is full.”
+
+Edmund followed the instruction, disappointed to find himself partied up with yet more strangers. He walked over to stand by Liam and two girls under the watchful eye—singular—of a gray-haired man in worn armor. When the fifth and final member of their impromptu party arrived, the man, presumably Mr. Ilian, spoke.
+
+“Alright,” he said with a deliberately uncaring tone to his voice, “I’ve got another two hundred of you to get through today, so let’s keep this quick. My job is to make sure you lot have some idea of what you’re getting yourselves into, so listen up. Most of you are going to die.”
+
+Five pairs of eyes blinked in surprise at the immediate severity of Ilian’s words. He didn’t care.
+
+“Data shows fifty-nine percent of dungeon casualties occur on the delver’s first day. For those of you who don’t know their numbers, that’s over half. Over. Half. Now, I’m not going to go into the numbers for delvers as unprepared as you are, but rest assured, they’re grim. The good news is, those of you who survive your deadliest day might go on to have long careers plundering the Eternal Depths, but that’s neither here nor there. Your concern is today.”
+
+The fifth member of their party, a man Edmund hadn’t met, raised his hand with a question. “What can we do to survive?”
+
+“I’d say fuck off to anywhere but here, but I think we both know I’m not convincing anyone to leave. Barring that, I could give you a whole lecture on tips and tricks for surviving down there, but as I said, I have two hundred more of you to get through, and ‘guide’ isn’t in my job description. The best I can do is remind you that today is the deadliest day of your life and that your every thought from the moment you step into that cave to the moment you leave it should be about how you’ll survive. Any more questions?”
+
+Both Liam and one of the girls raised their hands.
+
+Ilian ignored them. “No? Good. In you go.”
+
+As the rest of his party stared, gaping at the man’s speech, Edmund took the initiative and moved for the dungeon entrance. The gateway into the legendary Eternal Depths was no more than a particularly well-traveled hole in a hillside, the only unnatural element to it the veil of shadow that obscured the inside from prying eyes. It was into this looming darkness that Edmund, with neither pause nor hesitation, led the way.
+
+He found himself alone in what appeared to be a large cellar, already separated from the other parties that had entered the dungeon before him. As he took in the packed-earth floor and wood-lined supporting walls, the other members of his group trickled in behind him.
+
+“Alright,” one of the girls said once everyone had arrived. “I’m going to need everybody’s names and Aspects so we can come up with a battle plan. I’m Amanda, Intelligence, Spirit, and Elements with two confluences unlocked so far, Wisdom and Magic.”
+
+“Laura,” the other girl offered. “Strength, Blades, War, and all three base confluences they make.”
+
+Liam went next, introducing himself and his three Aspects in as many words as the others had patience for. The other man followed.
+
+“I’m Paul. I’ve got Strength, Endurance, and Life. Also with all three basic confluences unlocked.”
+
+“Edmund. Perseverance.”
+
+Amanda gaped at him. “You came in here at level fucking one?” she railed, using the familiar shorthand for the number of Aspects one had unlocked.
+
+Edmund simply nodded.
+
+“Alright,” Amanda sighed, running a hand across her forehead. “You’ll cover our rear, then. Laura and Paul will take the front while I support them at range and Liam takes whatever opportunities he can get from the flanks.”
+
+Edmund was starting to like this girl. Ignoring that she had literally just cursed him out for his relative weakness, Amanda’s straight-to-business attitude had already whipped the group into some semblance of a team.
+
+“Who died and left you in charge?” Paul protested.
+
+Nevermind.
+
+“I think we should put the weakling in front,” Laura added. “At least there we can use him as a meat shield.”
+
+“I think you should shut the fuck up,” Amanda snapped back. “Just ‘cause he’s grossly under-leveled doesn’t mean he can’t watch our backs. As a meat shield he’ll only be useful once.”
+
+Edmund nodded along. “She’s right, you know.”
+
+“That’s enough from you,” Paul said. “I’m not gonna die in here because you thought you were special enough to come here with one fucking Aspect.”
+
+“Everyone!” Liam called the argument to a halt with a grandiose voice and dramatic raising of his arms in a gesture copied directly from the ringmaster of a cheap circus. “I would like to make a critical announcement now that we’ve arrived at this junction. We’re all going to die.”
+
+Four sets of eyes looked askance at him.
+
+“That is—” he leaned forward like a tavern bard deep in the crux of a story— “unless we start behaving like a team. Amanda’s plan makes sense. Paul, Laura, you both have Aspects suited to frontline fighting. Amanda has range. I have Agility. Weak as he is, Edmund isn’t going to be useful on the frontlines, but instead of resenting him for it, we can find a way he can be useful. Watching our backs is a good option.”
+
+Liam turned to gaze into the eyes of each party member in turn as he continued his speech. “From all the delvers I’ve spoken to, and I’ll admit that number is small, the one resounding truth about this place is that it isn’t skills or Aspects or brains or even luck that keeps you alive. It’s teamwork. So what do you say we put aside these squabbles about who’s leading whom and who’s weaker than who, and work together to clear this Thrax-damned floor?”
+
+“Fine,” Paul grumbled, drawing a gnarled wooden club and stepping forth. “We’ll do it her way.”
+
+Three sets of judgmental eyes were all it took to get Laura to similarly give in, drawing a one-handed axe and joining Paul in front. Amanda fell in behind them as Liam and Edmund took up the rear.
+
+“Nice speech,” Edmund whispered, truthfully impressed the boy had finally turned his skill at prattling towards something useful.
+
+“I should hope so,” Liam muttered back. “I spent hours practicing it.”
+
+Opting not to humor him any further, Edmund drew his sword and followed the others deeper into the dungeon. This first floor really did look the spitting image of a cellar, only absent the barrels and shelves one might expect to find. Smokeless torches burned along the walls, casting flickering shadows along the wood-lined walls. It was to these Edmund paid particular attention.
+
+“First floor, alright,” Paul snorted from up ahead. “If that’s not the most obvious trap I’ve ever seen…”
+
+Edmund followed his gaze to find a foot-sized flat piece of granite embedded in the floor, directly adjacent to a rather suspicious inch-wide hole. The gray stone stood out like a beacon against the brown packed-earth floor, calling even more attention to its threatening nature.
+
+“I guess anything less obvious on the first floor would break the fairness accord,” Laura said.
+
+“Just don’t step on it,” Amanda snapped, “and pay attention.”
+
+Liam spotted the mobs first. “Guys!” he hissed, calling the party to halt. “In the corner.”
+
+Six chittering forms stood huddled together in the shadows of the chamber’s far left corner, each no smaller than a large dog. It wasn’t until a wormlike tail swished out into the light that Edmund knew what they were.
+
+“Rats in the cellar,” Liam said. “Original.”
+
+“Giant rats in the cellar,” Amanda corrected, her voice echoing just a little bit too loudly against the wooden walls.
+
+Six ferocious hisses rose up in response.
+
+“Shit,” Amanda swore. “Weapons up!”
+
+“My weapon is up!” Laura yelled over her shoulder.
+
+The rats charged.
+
+Amanda threw out her hand, and a bolt of ice shot through the air to meet the stampeding beasts. It missed. “Shit,” she cursed again.
+
+Everything went wrong at once.
+
+The two rats in front both leapt at Laura, baring their six-inch incisors with a threatening hiss. One of them collided with the blade of her axe, cleaving its own skull in two with the force of its momentum.
+
+The other didn’t.
+
+The force of the collision knocked Laura on her back, the giant rat landing on top of her as its claws dug into the rags she wore and the skin beneath. By the time Liam plunged a knife into its left eye, it had already sunk its incisors into Laura’s throat.
+
+Paul, meanwhile, managed to survive the initial charge by wildly swinging his club back and forth, warding the rats away for a precious moment. Held at bay for a brief second while they pondered the deaths of their two mates, the four remaining rats fanned out in a threatening semicircle, pounding their tails into the packed earth menacingly.
+
+They stood still just long enough for Amanda to finally land a hit, her ice bolt burrowing deep into the neck of the nearest rat. It collapsed to the floor with a gurgling hiss.
+
+“Hey!” Edmund stepped forward, brandishing his sword as he tried to divide the rats’ attention. It worked. One of the creatures leapt over the rapidly dissolving corpse of its compatriot, bounding across the dungeon floor to leap at the under-leveled Edmund.
+
+He caught it on the tip of his blade.
+
+All thoughts of triumph lasted less than a second as the dead rat’s momentum carried it forward, knocking Edmund backwards and pinning him beneath its weight. In his fall, the hilt of his sword slammed into his ribs, and a horrifying crack echoed through the floor. Dull agony spread through him in waves, mercifully muted by the adrenaline coursing through his veins.
+
+As Edmund struggled to get out from under the weight of the dead rat, Paul and Amanda warded off the other two. Twice Liam tried to get in to land a blow, but twice the beasts rounded on him and forced him back. Still, the rats failed to break through Paul’s defenses, and it was only a matter of time until Amanda stopped missing her Thrax-damned ice bolts.
+
+When she finally did land another hit, it wasn’t one she wanted.
+
+The budding mage threw her ninth ice bolt at a leaping rat in the same moment Paul stepped forward to swing his club. The spell struck him in the back of the hand.
+
+Paul dropped the wooden club with a bloodcurdling scream, an agonized cry that lasted only long enough for the two rats to overwhelm the now-unarmed adventurer. He hit the dirt in a whirl of fur and fury, thrashing about for a scarce few seconds before his cries too were silenced.
+
+“Shit,” Amanda cursed. “Shit shit shit shit shit.” Panic took over. Extending both hands, she launched a flurry of ice bolts at the two rats. What few projectiles from the wild volley actually hit struck bone and muscle, wounding the nearest rat but failing to deal lethal damage. Two seconds later, the barrage came to an end. Amanda’s voice quaked with primal terror as she yelled, “I’m out of mana!”
+
+She turned to run.
+
+The rats were faster.
+
+By the time Edmund managed to wriggle his way out from under the dead rat covered in blood and matted brown fur, he found the two surviving rodents tearing into Amanda’s back. She died screaming, face down in a pool of her own blood.
+
+Liam took the opportunity to dart in, landing his second killing blow of the fight as he planted his knife in a rat’s neck while it brutalized their dead party member.
+
+Only one remained.
+
+It hissed in unbridled fury, swishing its tail and baring its fangs at this upstart that had dared slaughter its kin.
+
+Edmund jerked his head back and forth in a panic, searching desperately for a weapon. His sword still sat buried in a corpse, its hilt trapped beneath the giant rat. Laura’s axe and Paul’s club had both already dissolved to feed the dungeon, along with the bodies of the delvers that had brought them.
+
+The last surviving rat snarled a deadly threat at the two adventurers.
+
+Liam laughed.
+
+“C’mon then!” he jeered. “By my count it’s five kills us and three kills you.” He twirled one of his daggers in his hand. “We’re winning!”
+
+Unarmed, Edmund could only watch in heart-pounding terror as the rat leapt at Liam, but the boy darted to the side, lashing out with the knife in his left hand. A line of red appeared along the rat’s side.
+
+Again the rat pounced and again Liam dodged away, landing a superficial hit in the process. At the back of his chest, somewhere behind the throbbing of his broken rib, Edmund felt a glimmer of hope begin to take shape.
+
+“You’ll have to be faster than that!” Liam taunted. Once more the beast leapt, and Liam drew blood and laughed and danced back.
+
+Directly onto a foot-sized slab of flat granite.
+
+Edmund watched it all with his heart in his throat, the events unfolding as if in slow motion before him. He tried to warn him, tried to cry out, but the words died on his lips. It was over the moment Liam set off the trap.
+
+The stone sank an inch into the earth as Liam’s weight hit it. Behind him, a wooden spear, little more than a long, sharpened stick, shot from a small hole ground. It struck him at the base of his skull.
+
+Edmund gazed on in abject horror as Liam’s body twitched twice and then stilled for good. His face still held the thin smirk and taunting gaze it had in life.
+
+The rat snarled in victory.
+
+Edmund’s heart froze.
+
+His sword still lay trapped beneath a dead rat, and without a weapon he bore no chance at defeating even a lone, injured rodent. In a bid of desperation, he dashed for Liam’s corpse, hoping to grab the boy’s daggers before the dungeon claimed them.
+
+He was too late.
+
+The two blades dissipated into a puff of smoke, followed shortly by Liam’s body.
+
+Most of it.
+
+The dungeon left his head impaled upon the spike, his mouth turned up in that mocking grin and the remnants of laughter glimmering in his lifeless eyes.
+
+The Eternal Depths was taunting him.
+
+It was there, with a giant rat still hissing at him and the derisive eyes of his friend staring into his very soul, that something deep within Edmund, something that in retrospect had never been quite right to begin with, finally snapped.
+
+For a brief, terrifying moment, he stood beyond fear. Beyond doubt. Beyond even the unending rage he felt towards the Eternal Depths. For those few seconds, his ribs didn’t hurt, his heart didn’t race, his lungs didn’t burn, his tears didn’t fall.
+
+Taunting the dungeon had been Liam’s last mistake.
+
+Taunting Edmund would be the dungeon’s.
+
+Even as it thought to deprive him of weapons, in its jeering it’d provided him with exactly the weapon he needed. Edmund’s hand shot forward, grasping the wooden pike just below where it entered Liam’s head. He held it tight as it was slick with blood.
+
+He gave it a sharp kick, breaking the spear at its base and freeing it from whatever mechanism had propelled it from the floor. With a swift and brutal swing, he sent Liam’s head flying from the tip and rolling across the cellar floor.
+
+The rat charged, sluggish from its wounds but still backed by more than enough force to take down a level one adventurer with a broken rib.
+
+But Edmund was ready.
+
+Painful as it was, his injury had taught him a lesson. Instead of holding the spear out in front of him, he braced its butt against the cellar floor, holding the shaft close as the rat drew near. It wasn’t until the beast was airborne and thus unable to change its path that Edmund tugged the spear into position and jerked aside.
+
+He dodged the brunt of the rat’s pounce, but even as it impaled itself on Edmund’s spear, the beast’s claws raked across his chest, tearing through his ragged shirt and drawing three red lines where it passed.
+
+Edmund collapsed.
+
+As he hit the ground, an invisible bell chimed a single time, signaling the floor had been cleared.
+
+Edmund paid no attention to the door that swung open on the other side of the cellar. He ignored the worn wooden chest that rose from the floor. He didn’t read the message behind his eyelids alerting him that he’d unlocked a new Aspect.
+
+He leaned over on his hands, and he retched.
+
+Every dry heave sent fresh waves of agony from his broken rib as his empty stomach tried and failed to conjure up anything to expel. For uncountable torturous moments he sat there, the stench of the blood and fur that covered him sending him into a new cycle of retching whenever he tried to catch his breath until at last it overtook him and he fell onto his back.
+
+The pain of his ribs and his clawed-up chest washed over him, mingling horrifically with the churning of his stomach and the maelstrom of emotions that assaulted him now that adrenaline had finished its work and left him exposed. He stared, with eyes unblinking, up at the dirt ceiling as he breathed in and out in short, shallow breaths.
+
+He lay there for some time as his one ability, the pittance of health regen from his Aspect of Perseverance, began its work. It would take hours, but he’d be in fighting shape soon enough.
+
+On this deadliest day, the dungeon had reaped four young souls before their time, but hard as it’d tried, it hadn’t reaped his. And now, however long it took, whatever tricks and traps unfathomable monsters it threw at him, nothing would stand in his way.
+
+He would have his vengeance.
+
+The Eternal Depths, greatest and most powerful dungeon in all of Linaria, keeper of the lost Book of Dranicath, host to the Eighth Infernal Legion, slayer of Indleroth the Dread, would at last feast upon its just desserts.
+
+Edmund Montgomery Ahab, injured, alone, and newly level two, was coming for it.
+
+Edmund Montgomery AhabAspects Unlocked: 2Tier 1 Aspect: Perseverance - Gray Resonance Level 1 - Gain limited health regeneration.

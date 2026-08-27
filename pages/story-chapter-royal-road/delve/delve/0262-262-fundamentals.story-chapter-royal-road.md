@@ -1,0 +1,241 @@
+---
+id: 2670a4ec-bb5d-5f9c-9f43-0914cb1723d0
+page-type-slug: story-chapter-royal-road
+title: "262: Fundamentals"
+slug: 0262-262-fundamentals
+partOf: delve
+position: 262
+ownLength: 2816
+unit: words
+publishedAt: 2024-03-03
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1539772/262-fundamentals"
+royalRoadId: "1539772"
+---
+
+Recorded Global System Announcements prior to 3061-08-08
+
+Compiled by Reece
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+⠀
+
+“Really?” Rain asked, glancing at the sheet Reece had just handed him. “Why waste paper? You just had to say it was unprecedented.”
+
+“That word is overused,” Reece said, crossing her arms and leaning back in her chair. She looked much as she did on her first visit to his office almost a month ago; in other words, just as old and cranky as ever.
+
+“My point remains,” Rain said, recycling the sheet. He heightened his focus on Detection for a moment to check on the away team in Sadiir. The blue Velika had found was still a good distance away from the party, but the anxiety of having his wards off wouldn’t let him just trust his macros to alert him when combat began. If all went to plan, they’d have seven—perhaps eight—new high bronzes, but if not...
+
+“I told you the system was on its last legs,” Reece said.
+
+“We don’t know that,” Rain countered, returning his attention to his surroundings. “I agree, it’s ominous, but at least five of us in Ascension were actively using skills when the warning appeared, including me. Nobody felt so much as a flicker.”
+
+“That’s because it was a warning, not a message of failure, you dolt. When it fails, you’ll know.”
+
+“Negativity and doomsaying aren’t helpful,” Rain said, giving her a pointed look. “We need to find out more, and we can’t afford to keep waiting. I’m going to see Nem. Tell me how to find Vigilance.”
+
+“I can’t.”
+
+“Bullshit.”
+
+“Truth,” Reece snapped. “The island is warded, and it moves. Maybe, maybe, I could help you track it down anyway. The best I see that going is your ship getting shot out of the sky, you getting captured, and the entire organization learning of my existence through your subsequent interrogation.”
+
+“Oh, of course the island moves,” Rain said. “I should have expected that. Does it fly now, too?”
+
+“Not currently, no,” Reece said.
+
+Rain blinked. “So it used to?”
+
+“Stay focused,” Reece said. “I’ll bet you Nem responds to your letter within the week. The warning will have lit a fire under him, and he’ll be just as hungry for information as we are. In the meantime, there are two things I need from you.”
+
+“Oh?” Rain arched an eyebrow. “Making demands, are we?”
+
+“First, we need a look at what’s going on in the Empire,” Reece said, ignoring him. “Have someone—not you—take the airship, fly over, and look down.”
+
+“That sounds absurdly dangerous,” Rain said. “Shu says—“
+
+“Fly above their defenses,” Reece interrupted. “Flight and Airwalk have a hard ceiling of one league. Aeromancers can get higher, but they need to carry their medium with them, and air is surprisingly heavy. Trust me, their Diviners won’t be searching the stratosphere.”
+
+“The strato— It’s a prop plane!”
+
+“Now you’re just being difficult. You wouldn’t be arguing if it was your idea. How high have you gotten, hmm? Don’t tell me you haven’t tested it. I won’t believe you.”
+
+“Between ten and twenty kilometers,” Rain said. “I don’t exactly trust our janky altimeter. That’s not the point, though. We’d have to sustain that altitude, and there’s the issue of—”
+
+“Bah,” the Warden interrupted with a wave of her hand. “Don’t pretend breathing is an issue after Tallheart made those tanks for the Breathless Wasteland. Did you forget about those?”
+
+“No, but there’s temperature to worry about, too.” Rain sighed, running his hands through his hair. “But we can install a heater. Fine. Solvable problems. It’ll be risky, but it’s probably worth it.” He fixed her with a pointed look. “You know, it’s possible to be right without being annoying about it.”
+
+“Where’s the fun in that?” Reece asked. “Okay, the second thing I need you to do is to learn how the system works.”
+
+“Finally!” Rain said, throwing his arms wide. “Are you going to answer my questions now?”
+
+“No,” Reece said, getting to her feet to stretch. “I’m going to talk. You’re going to listen. Once you’re qualified to ask a question that isn’t completely moronic, I’ll consider allowing you to do so.”
+
+“Now who’s being difficult?” Rain said, looking up at her but not getting to his feet. “You know I can revoke your movie privileges at any time, right?”
+
+“Come with me,” Reece said with a snort, turning for the door.
+
+“What—“
+
+“True Runes and the things the system calls Runes are different things,” Reece said, walking through the door as it hissed open. “Surely you’ve noticed the differences between the Runes Tallheart and Romer use and those employed by your Illuminator friend. In truth, calling them both by the same word is...”
+
+Rain vaulted over his desk rather than go around, scrambling after her as she continued speaking while retreating down the hall.
+
+“...would be more accurate to think of skill-granted Runes as system calls, if you will forgive the pun. A Sharpness enchantment placed upon a sword forms a link to the system’s Sharpness function. The very concept of Sharpness is also a construct, defined in terms of collective meaning and encoded in the language of the system.”
+
+They turned a corner into the transit station, and Reece marched straight on toward the waiting pod, barely pausing for air. “There could be a physical structure defining all of this, down at the planet’s core, or there could be no physical structure at all. It could be a self-sustaining substrate of True Runes so unfathomably complex that you have no hope of understanding the mechanism short of ascension in the godly sense. And yet, you must fix it.”
+
+Rain snorted as he followed her into the pod. “Oh, so you want me to become a god. Is that all?”
+
+“If that’s what it takes,” Reece said, punching a button. The doors closed after their programmed delay, and the pod accelerated smoothly into motion. “In all my years collecting wrinkles, I’ve only managed a glimpse of the system’s workings. I’m going to need you to go further than I ever did. I’ll teach you what I know, but I obviously don’t have all the answers. If I did, I wouldn’t be living in your head.”
+
+“Okay then,“ Rain said. “Can we skip the preamble and cut straight to it? When I was looking at the lair’s membrane, I saw—“
+
+“Something too advanced for you to understand,” Reece said sharply as the pod doors whisked open. She stomped through, waving a hand. “You’re trying to write before you can read. A caveman would have better luck assembling a smartphone out of sand.”
+
+“Hey, I think I’ve done pretty well for a caveman,” Rain said, gesturing at the pristine white walls. “This station didn’t build itself, you know.”
+
+“Yes, yes, very impressive,” Reece said. “Learning to see and manipulate essence is the bare minimum. You’ve discovered electricity. Good. Now, work out transistors, photolithography, digital logic, and operating system design all on your own, except you’ve never heard of any of those things.” She stopped just before crashing into a fortified door when it didn’t open for her, the sign above proclaiming ‘Skill Sector.’ With a frustrated grunt, she pivoted and slammed her hand against the unyielding barrier. “Open this.”
+
+“Why?” Rain asked, taking it as his turn to cross his arms. “You don’t even know what’s actually in there.”
+
+“I read the sign, dingus, now open up. Don’t you want me to tell you why your spell popsicles aren’t working?”
+
+“Obviously I want you to tell me,” Rain said with a sigh, the door opening as if by the sound. Beyond it was another door, much heavier, though it too began to move at his command. “I just want you to stop jerking me around.”
+
+“Respect me, and I’ll respect you,” Reece said, walking through the heavily fortified entrance and taking a moment to look around before storming toward the Magical Utility wing.
+
+“Doubt,” Rain said as he followed her inside.
+
+“Take the bone out of your beard and listen,” Reece snapped. “The spells you’ve stored in here aren’t the whole spells. They’re system calls, remember?” She stopped in front of the skill cradle for Mana Manipulation and pointed at the glowing patterns of meaning swirling within the glass orb. “That junk’s just what it’s installed on your local hardware so it can do what it needs to do. It’s still linked to the greater system.”
+
+“If you tell me I’ve got a problem with my license server, I’m going to scream.”
+
+“Scream, then,” Reece said. “I can help you recognize the authorization sequences. If you can preserve them, you’ll get your ‘spellbook’ idea working more reliably. Not a new idea, by the way. I was taught to do it by my predecessor. It’s useful, but limited. Even if you do things perfectly, each skill will only work once. The system requires a new key for each use, and it will only give you one if it feels you are authorized to have it. Why it doesn’t take away the previous key it gave you when you lose that authorization is beyond me. Could be a bug. Could have been left like that on purpose to encourage exploration within the boundaries it’s painted for us. I don’t know.”
+
+“I see,” Rain said. “So how—“
+
+“Later,” Reece said. “One weird trick won’t save the world. Work with me for a day on what might, and I’ll spend some time helping with your little side project. Prove to me that you can follow instructions, and I’ll consider, consider, telling you how to push past your cap. This system warning changes things. I’m willing to consider a bit more risk in the name of getting you where you’ll need to be.”
+
+“I’ll hold you to that,” Rain said, feeling that he’d already proven himself several times over. It wouldn’t be wise to push her.
+
+“I know you will,” Reece said. “Now, what is mana?”
+
+Rain glanced at the glowing pattern of Mana Manipulation in the cradle as he considered how to phrase his reply. He didn’t take too long, as he’d spent a good deal of thought on the topic already. “Well, I don’t know for sure, but it seems to be a ‘real’ phenomenon, not something purely system-defined like experience. Entities have it, but it’s stored in the body, not the soul. Focus and Clarity are also ‘real’ and relate to the bridge between soul and body regarding mana’s generation and use. Let’s see, mana exists in the environment, but only in the physical world. It interacts with essence, but it also interacts with physical forces like gravity and electromagnetism—something essence doesn’t seem to do outside its ability to be bound in things like Tel and lair matter. The runes Legruz uses are made of essence, but they shape mana to produce their effects. If I had to describe it simply, I’d say mana itself is a mediator, connecting the physical to the metaphysical. Health and stamina are like that too, but where mana is about influencing or changing physical forces, health is about ownership and resisting that change. Stamina falls somewhere in the middle. What else? Oh. Mana has flavors in that it has elements, which I also think are real. Sub-elements, not so much, but—“
+
+“Stop,” Reece interrupted. “The rambling, I expected, but not you being completely right.”
+
+“Wait, completely?” Rain asked.
+
+“As much as anyone, alive or dead. You’ve reached the same conclusions as me, anyway.” She nodded once. “Good. We can move on.”
+
+“But—“ Rain stopped on his own.
+
+Reece arched an eyebrow. “Yes?”
+
+“I was expecting you to interrupt me. Sorry. Please continue my education, teacher.”
+
+“Thank you, pupil,” Reece said with a smirk. “Sensing essence alone isn’t enough anymore. I need you to learn to sense your mana without leaning on this thing as a crutch.” She gestured at the cradle behind her. “Turn it off. Disconnect it. Do whatever you need to do to cut yourself off from its influence. I’ll wait.”
+
+Rain waved a hand, and there was a mechanical clunk. The umbilical that descended from the ceiling to the top of the glass sphere disengaged with a hiss as the bolts holding it in place unscrewed, and then the cord snaked smoothly back into the ceiling. Various indicator lights around the cradle’s base flicked from green to red, but there was no apparent change to the swirling motes within.
+
+Reece gave him a curious look. “You already had it set up to do that?”
+
+“Yes,” Rain said. “The cradles are modular, reconfigurable, and mostly self-contained. Ameliah said it was a good idea.”
+
+“Smart of her,” Reece said. “I need to stop underestimating you people. When you can read minds, you quickly realize idiocy is the norm. It’s hard to give people the benefit of the doubt once you’ve come to terms with that truth.”
+
+“Apology accepted,” Rain said flatly.
+
+“You won’t be feeling so clever soon, I guarantee it. Try to feel your mana. Don’t go outside to do it. Do it from here.”
+
+“Well,” Rain said, flicking on his HUD to see his mana bar. “I’m still using it as we speak. I can see the system’s accounting of how much I’ve got available to fuel my active auras as well as my rate of regeneration. I take it that’s not what you mean. My sense of it pooling inside my body’s gone. I can feel potential getting consumed in my reactor, but after that...”
+
+“As I expected, you’ve got an uphill battle ahead of you,” Reece said. “If you’d done it immediately, I’d have uninstalled myself on the spot. Now, I recommend you disconnect everything. Set aside time each day and tell your people there’ll be no colon cleansing, no endless mana spring, and no big brother watching over them in case they stub a toe. The more of the system you leave touching you, the harder it will be. You’re listening for a buzzing gnat while sitting in the orchestra pit.”
+
+“That will take a while to set up,” Rain said with a shake of his head. “Velika’s scheme with the blue is going to come to a head pretty soon here, and I need to be ready in case something goes wrong. Should I try this with stamina in the meantime? I can shut that one down right now.”
+
+“No,” Reece said. “The system helps us as much as it holds us back. All the mana that’s flowed through you as a Dynamo has increased your soul’s sensitivity to the stuff beyond natural reason.” Reece rubbed her chin. “It’s been tried, you know? Teaching unawakened to sense their mana without the system’s guidance.”
+
+“Oh?”
+
+“Yes,” Reece said matter-of-factly. “Not once has it worked. They can master essence, even increase their level in a way, but it’s all locked inside. Spiritual strength without the ability to touch the world in any meaningful way. And then they top out, unable to progress further, unable to survive in the places they’d need to go to gather essence of a higher level. No, there is some missing step we don’t understand. Some hidden barrier or gate or stage of enlightenment that must be overcome. That is why we’re here. We need to know how this works. Whoever built the system did it with these tools.”
+
+“How far did you get, exactly?” Rain asked. “Could you do magic without the system?”
+
+“Once, I lit a candle without setting myself on fire,” Reece said with a snort. “All my years, all my work, all my power and ample motivation to progress, and the best I could manage was basic elemental emission with the bare minimum of control. Unshaped mana influences the world according to its type. I could make things hotter, colder, lighter, darker, and what have you. Significantly so, as a platinum, but not in a way anyone could call safe. True Runes are needed to go further, to build upon that foundation and refine those effects into something as well-behaved as a Firebolt. That’s where I left off, and that’s where you’ll continue.” She wagged a finger at him. “But first, you need to sense your mana without the system holding your hand.”
+
+“Right,” Rain said.
+
+Reece made a shooing motion. “Go talk to your people. Set up your quiet time and the surveillance mission, deal with whatever the ex-Citizen wants, and then come back here ready to work. The sooner we get started, the better, though I suspect we’ll be at this for a while. Possibly the rest of your natural life.” She clapped her hands sharply. “Chop chop, Custodian. World’s ending.”

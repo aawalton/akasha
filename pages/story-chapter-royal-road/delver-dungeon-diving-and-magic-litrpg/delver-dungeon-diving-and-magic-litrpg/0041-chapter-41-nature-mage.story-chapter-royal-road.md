@@ -1,0 +1,259 @@
+---
+id: 4d6d4de7-7aa1-5f3b-a104-504379e840b5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 41: Nature Mage"
+slug: 0041-chapter-41-nature-mage
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 41
+ownLength: 2663
+unit: words
+publishedAt: 2026-07-10
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3659312/chapter-41-nature-mage"
+royalRoadId: "3659312"
+---
+
+A novice spell-circle is made by having two concentric circles of runes. So then, you might ask, what happens when we include more than three runes in an apprentice’s single circle? “It’s impossible”, your average mage might say.
+
+They’re lying.
+
+The Karzian principle of Transformation/Stillness, Identity, Desire, is not the absolute they pretend. So what would a fourth rune look like, you might ask. Well, a connection of course. This is my gift to you, little sister, the gift that will turn you into an Archmage some day.
+
+Below, I give you the symbol:
+
+And
+
+This will require practice, but here’s a simple spell, set to the corners of a diamond spell structure. Transformation, Ice And Space, Pierce.
+
+A semi-novice spell, for your perusal. Please practice this in a private safe space.
+
+It will take practice.
+
+I make my way to the front of the line of slaves, and come to a stop under the shade of a large tree where the head of the caravan is stopped. The slave-merchant  is currently talking to the pair of guards I’d seen pass by on their horses earlier. All three of them stop, turning to me as my boots crunch through the snow.
+
+“Hello, honored…?” The merchant is put off by my clothes, but keeps a differential look on his face when he sees the color of my hair.
+
+“Sorry to disturb, my name is Leo. I’m a mage from Kolas’s Stronghold.” My eyes flicker to where Lyla is keeping her head down.
+
+The merchant bows low, “Honored Mage, what can this one do for you?” He glances over to the two guards, who haven’t left.
+
+I paste a smile onto my face, trying my best to not turn it angry, “I’m interested in your merchandise.”
+
+“Ah, I’m sorry sir, but my wares are already spoken for.”
+
+“By who?”
+
+“The Archmage.”
+
+I blink in surprise, reassessing my already low impression of the current leader of the Arcanists. I frown as I force the following words out of my mouth, “I’m only interested in one. A Leifen girl with a torn ear.”
+
+The slave-merchant shakes his head, “I apologize Honored Mage, only a Lord can take a slave that is bought and paid for.” He glances at the guards, and they give reluctant nods.
+
+I perk up at his words, “What do you mean by that?”
+
+One of the guards, an older gentleman, steps forward as the other holds onto his horse. He shoots the merchant a look, as if he’s a piece of dirt that he’d rather not deal with. He turns to me with an understanding look, and places his hand on my shoulder, “I’m sorry kid, you’d have to petition for their citizenship. No lord is going to go against the Archmage here.”
+
+I turn to the guard, who has his hand on my shoulder, “If they’re a citizen, then…”
+
+“That’s what my partner and I were just checking. No citizen is allowed to be in chains.”
+
+I turn back to the twenty or so enslaved people. “No citizen? Even of another Stronghold?”
+
+The guard gives me a strange look, then nods.
+
+I hesitate for a long minute as I stare over the dirtied and beaten slaves, considering what I’m doing. Lyla waivers where she stands, nearly falling if it weren’t for the chains holding her to the others.
+
+“Grant Citizenship.” I say the words out loud for their benefit as I mentally offer every single slave citizenship. It’s a stupid, overly dramatic move, that’s making me way too enemies.
+
+Angels damn ‘em.
+
+Every single slave accepts my offer of citizenship, and I bring up my Lord Screen to see the Citizens (Kolas) list, 21 names long.
+
+I turn to the two guards, forcing my best noble persona to the surface, “Honorable guards, this merchant currently holds twenty one citizens in chains. Please assist me in fixing this tragedy.”
+
+The two guards look over the gathered slaves, some kind of identification activating, then they slam their fists to their chests and turn to the merchant. “Merchant Sylvo Darton, you are under arrest for holding twenty one of Lord Leo’s-?” The older guard turns to me for confirmation, and I nod, caught off guard by the arrest. “Lord Leo’s citizens in chains. You have the right to a Scholar’s defence.”
+
+The merchant sputters, completely caught off guard, then is forced to his knees as a supernatural force weighs down on his shoulders. A weak magical signal leaves him as he activates a small rock with runes carved into it.
+
+I identify runes on the rock.
+
+It’s meant to communicate with a paired rock, sending a simple vibration.
+
+That could be bad.
+
+He looks up at me from where he’s kneeling, the guards clamping his wrists together, “Do you have any idea who you’re angering?”
+
+I let out a sigh, “Yeah, I think I do. Enjoy the chains.” I pat his shoulder, then grab a set of keys from his belt, as I walk over to the extremely surprised slaves.
+
+“What are you doing, Leo?”
+
+I look over to the Leifen girl who is watching me with confusion. “Akashir said it well. A debt owed is a debt repaid.” I look over the rest, “I’m here to help, give me a second as I undo your chains.” I kneel next to her, grabbing the chains around her arms and unlocking them with practiced movements. Legs are next. I hurry, worried about the runes the merchant had activated.
+
+“I had this under control.” She mutters to me.
+
+“Really? Cause you look like you’re barely standing.” I look up at her, noticing the bruises that cover body, and the shadows under her eyes. “You couldn’t use a skill if you wanted to, could you?”
+
+She narrows her eyes at me, “Nonhuman slaves have been disappearing, their husks thrown out of the stronghold to be eaten by the wilds or taken by necromancers.”
+
+I pause in my unlocking, and look up into her tired eyes. “Why are you here then?”
+
+“To kill whoever’s doing it. I had an escape plan.”
+
+“But you can’t use your skills.”
+
+Her lips move into an annoyed line, “Things didn’t go as planned.”
+
+“Then it’s good I got you out of here while I can.” The chains fall with a thump, softened by the snow. I move onto the next one. “Keep an eye out, the merchant called someone, I don’t know who, but it’s not good. Actually…” I finish unlocking another set of chains around someone’s wrists, then let out a long, loud whistle.
+
+Seconds later, a bird swoops out of the sky, landing on the branch of the nearby tree.
+
+“Someone’s coming. Keep an eye out for them.” I tell Shar, turning back to continue my unlocking. Angel-damned merchant made these chains hard to take off.
+
+I pause, then hand the keys to Lyla and reach into my pocket to pull out a pair of lock-picks.
+
+Lyla understands quickly, and starts unlocking the others, as I get to work with the familiar tools.
+
+Surprisingly enough, they work faster than the actual keys. Crazy that.
+
+Snow starts to fall again, the merchant and the guards long-gone.
+
+There’s two people left in chains, when Shar swoops down next to me.
+
+“A Mage and two warriors.”
+
+I pause, and look up to see a familiar mage with red hair swaggering through the snow. A swordsman, and a spearman follow a few steps behind him.
+
+I stand up fully, someone’s leg-shackles falling to the snow, “Shar, lead them to the inn, then see if you can get the others here. I’ll try to hold out.” The inn should only be a couple streets away, and hopefully I can talk my way out of this one.
+
+I have my normal sword at my waist, the builder’s sword is at the inn, not that it would do me much good here.
+
+Pulling my gardener’s gloves tight, I step towards the mage. I haven’t tried both the wand and the gloves at the same time, I’m curious how much it’ll boost the effectiveness of my spells.
+
+The scarlet mage looks us over with an imperious gaze before his eyes land on me.
+
+“Leo, so you were more important than you let on.” Brandon, son of Archmage Kram, says without much emotion. “I had a small chat with Merchant Sylvo, on my way here.”
+
+The slaves start to leave, following Shar towards the inn. Lyla hesitates for a second, but I motion for her to go. Her abilities are powerful, but she’s barely standing, and a mage has resisted her strange powers once before.
+
+I turn back to the mage, “Really, I’m not that important, just a travelling mage.”
+
+“My father paid well for those slaves.”
+
+“I’m happy to reimburse him.”
+
+“I don’t think that’ll work.” The young mage turns his head, studying me, “Normally I’d say return them all, and all is forgiven, but seeing as you hold such high station, I’d be willing to compromise. Return half of them to us, and we’ll call it even. You can even keep the Unique Leifen girl.”
+
+I shake my head, “That won’t work. Like I said, I have money, if that’s what you need.”
+
+We stare at each other for a long moment, then he motions with his hand, and the two men around him step to the side, flanking me. “I don’t think you realize what position you’re in, Lord Leo. You’re far from your territory, and whatever power you think you have, it’s nothing compared to what my family has.”
+
+I step closer to the tree, and put a hand to it.
+
+I’m against a real mage here, and the two warriors won’t give me time to cast, but the power of alignment is the speed it’s supposed to give you.
+
+Direct control.
+
+I send nature-aligned mana into the tree, and the other Mage’s eyes narrow.
+
+A voice comes from the tree, sleepy and questioning. I try to send a message through the mana, hoping that I’m right in how this is done.
+
+“Hey, sorry to disturb you. I don’t know exactly how I’m supposed to do this, but I might need your help here in a second.”
+
+A strong feeling of ascent hits me, followed by the power of ancient roots, deep into the earth.
+
+“What are you doing?” Brandon asks, stepping forward as the warriors draw their swords.
+
+I look into his eyes, my hand still on the tree. “That sounded a lot like a threat from you. I’m just preparing in case you decide to do something stupid.”
+
+“It was a threat. No one is going to disturb us, and I can get away with killing you, if I need to. Give them to us.”
+
+For a moment, I consider the deal, after all, things had spiraled farther than I’d meant them to. But then Lyla’s words hit me. If I say yes, I’m basically agreeing to the deaths of ten people. I can’t do that.
+
+“No.”
+
+No more words are said, as the two warriors, a swordsman and a spearman, run towards me.
+
+Mana channels from me into the tree, and roots rip from the ground, destroying the cobbled street, and throwing the spearman. The second warrior cuts through the large root, invisible blades surrounding him to cut through several more roots that come at him.
+
+I pull a twig from my pocket, and throw it forward as I cast.
+
+Transformation, Nature, Spear
+
+The spear stabs forward, only for the spearman to appear in front of the swordsman and knock it into the earth, where it stabs deep into the ground.
+
+Behind them, the mage pulls out a knife, and cuts his hand. A spell circles appears behind him, and the blood transforms into several sharp rain drops hanging in the air. Blood magic? That should be illegal, not that I have much time to consider it.
+
+I touch the tree again, calling for its help as the rain of blood shoots forward.
+
+A large root rises from the earth in front of me, bark shredding off of it as the blood hits it. Seconds later, the root shatters into splinters, as a spear punctures it.
+
+The swordsman jumps over the shattered root, his sword swiping down.
+
+Fire covers the ground as a Vishten warrior appears between us, his tattoos glowing red-hot with his internal mana.
+
+His swords meet the enemy’s blade, and a loud roar echoes from behind me as Grildor runs towards us.
+
+I focus on the mage, who is taking his time on a two-layered spell circle, blood dripping down his arm.
+
+I grab the wand from my pocket, and hold it up as I focus on the symbols inside his spellcircles with my enhanced perception.
+
+Whatever this skill is, it translates to a novice spell-circle, above what I can cast comfortably, and it should finish in the next couple seconds, which doesn’t give me time.
+
+My brain moves quickly in the two seconds I have, blades and fire flashing around me.
+
+His interior spell-circle has transformation, but the external spell-circle has stillness in it. Identity for both is blood. I don’t recognize the desire runes. What’s the opposite of blood? Soul. But I don’t know that rune. My brain goes back to the children’s book Shar had made me read. The symbol for death is similar to the rune he’s using for blood, which hopefully means that life shares the similarity to soul.
+
+Novice magic is beyond me.
+
+Still, I can attempt something Eridor mentioned to his sister.
+
+One spell circle, for the inner layer of his.
+
+Stillness, Life, Nothing
+
+A second spell circle in my other hand for his outer layer.
+
+Transformation, Life, Return
+
+My mind strains with holding both of the spell circles to completion, but I manage it, my mana traveling through my wand and making up for my lack of knowledge.
+
+Our magics hit the world at the same time, and his blood rises to the sky, only to come crashing back down.
+
+Brandon’s eyes widen in surprise, but I’m already casting, as I point at one of the plants near him.
+
+Transformation, Nature, Grab
+
+The wand and nature alignment empower the simple spell, enveloping the plant, as it enlarges at an insane speed, encompassing the mage and pulling his limbs apart as it tightens around him till he can’t move at all.
+
+I grab a stick from my pocket, then hesitate for the smallest of moments as the spell forms in my brain.
+
+If I kill him here, there’s no going back from that.
+
+So instead, I reach out with my nature mana, touching the plant.
+
+“Choke him. Don’t kill him.”
+
+The plant responds gladly, one of its stalks wrapping around his neck and choking the entitled mage.
+
+I wait a few seconds after his eyes have closed, then have it stop choking him.
+
+I focus on the other two warriors, one of whom is missing an arm, as he faces Grildor and Keve.
+
+The spearman is on the ground bleeding out, his eyes closed as he takes in shuddering breaths.
+
+I look around, my gaze landing on Libby who is watching the whole battle from a few feet to my right. She meets my gaze with a readiness that makes me smile.
+
+“See if you can save him.” I tell her.
+
+Then I turn to the armed man, his wound burnt closed.
+
+I raise my wand, targeting a small plant near him.
+
+Transformation, Nature, Grab.
+
+The spell completes, wrapping him as he struggles. Keve and Grildor step back as the plant chokes him and he goes quiet.
+
+“Shar!” I call to the bird, who swoops down to land on my arm. “Tell Eyla that I’ll be outside the gates tomorrow, but I can’t stay.”
+
+Shar nods, then takes to the sky.
+
+I turn away from the battle, and the others fall into step behind me as we leave the burnt and defeated men.

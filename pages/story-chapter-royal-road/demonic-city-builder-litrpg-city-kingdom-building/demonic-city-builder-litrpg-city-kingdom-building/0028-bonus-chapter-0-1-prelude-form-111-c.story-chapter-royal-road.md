@@ -1,0 +1,249 @@
+---
+id: 76808c58-dd35-54d2-9438-dad45601eca5
+page-type-slug: story-chapter-royal-road
+title: "Bonus Chapter 0.1 - Prelude - Form 111-C"
+slug: 0028-bonus-chapter-0-1-prelude-form-111-c
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 28
+ownLength: 2176
+unit: words
+publishedAt: 2026-06-07
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3506608/bonus-chapter-01-prelude-form-111-c"
+royalRoadId: "3506608"
+---
+
+“Ticket 48,843!” called Kairon.
+
+In an unending large chamber, thousands of beings waited. A myriad of races, levels of power, and states of dress. Some strong, others weak. It didn’t matter. Only the ticket did.
+
+Each second, a dozen teleportation circles flashed intermittently. Fresh traffic exited, stale traffic entered.
+
+But no matter the stature, every entrant stepped in and made their way to the ticket lines. Twisted, arching pathways that traversed the stone jungle loosely called The Atrium.
+
+“Oh for system’s sake,” he muttered. “Ticket 48,843!” he shouted again. The magic symbols nearest him lit, echoing his voice throughout the massive waiting area.
+
+In the distance, a mountain of a man stood.
+
+“I bear ticket 48,843.” Kairon just made the words out with the hearing infused scripture at his side.
+
+He wore a set of golden armor that flexed and bulged. Each piece gleamed in a way that made his already impossibly large chest seem even more so.
+
+Most impressive, however, was the six-foot sword strapped to his back. A tool of destruction incarnate.
+
+The clerk couldn't care less about any of that nonsense. Instead, his eyes searched for one thing.
+
+He found it clasped in the figure’s left gauntlet. A tiny scrap of yellow paper. The ticket.
+
+With heavy footsteps, the lumbering giant made his way through rows of seats.
+
+“Watch yourself!” hissed a spindly man in a purple cloak.
+
+“Go around!” barked a stocky man in armor.
+
+“Oversized giant! Don’t they have special lines for brutes like you?”
+
+The man stopped and peered down, towering form going perfectly still. The stark white of The Atrium made his divine appearance seem unnaturally real. As if he was the only true existence in this room, and everything else was a simulation.
+
+“I am Adrian World Breaker. Move,” came a deep, bottomless voice.
+
+That one proclamation was enough. Apologies were grumbled and seats squeaked as they shifted in order to make a path. When Adrian World Breaker said move, you moved.
+
+***
+
+“Please, sit, sit.”
+
+Stepping into Kairon’s afforded cubicle, the massive form that was Adrian sat in a gray plastic chair. His tall stature stuck out more than a meter above the flimsy cubicle walls.
+
+While The Bureau was very specific in what furnishing was deemed acceptable, they knew their clientele varied greatly. Despite their appearance, the tiny office chairs were nearly indestructible. The enchanted material didn’t even shake as the demigod sat upon it.
+
+Unfortunately, the same couldn’t be said for Kairon’s belongings. Nearly half of his neatly organized desktop toppled over from the quaking. Pencils, magi-calculators, and apparatus-a-plenty clattered to the floor.
+
+More than several shouted complaints came from the clerks with adjoining spaces. Many now staring at their entire setups in disarray.
+
+“Don't… worry about that. I’ll clean it later,” he muttered. “Anyway, just a moment… let me pull up your file here…” Agile fingers typed, querying the system database until it identified the identity.
+
+“Here we go! Adrian World Breaker. Oh! Why, thank you Mr. World Breaker for being a platinum realm member. Truly, your patronage means the world to all of us here at The Bureau.”
+
+The warrior stared back flatly.
+
+Before Kairon could continue, something in the man’s gaze stopped him. Kairon prided himself on knowing when his clients needed a little something extra to help their day. This was one of those times.
+
+“Mr. World Breaker, how is your day going? You seem… Distraught.”
+
+“My neighbor, Langmore Sea Bearer, advanced their divine rights. The increase in water was so profound it flooded an entire realm. My realm. Every soul drowned. Not because they couldn’t swim or fly. Because there was so much water everything was crushed from the sheer weight. From the elders, to the parents, and the children. All that’s left of friends and memories is water.”
+
+“Ah. I’m terribly sorry to hear that.”
+
+“It is fine. I broke his world. Langmore Sea Bearer now lives in a desert. The only thing he bears is sand.”
+
+Pausing, Kairon licked the inside of his mouth. He leaned back, studying the deity speculatively.
+
+“It sounds like you’ve had a tough day.”
+
+“Yes.”
+
+“Tell you what. I’ll help you out here. How does that sound?”
+
+Adrian World Breaker did not look convinced. Kairon noticed this too. That didn’t bother him. Overachieving was his specialty.
+
+He coughed lightly. “So… Let’s see here.”
+
+A flashing orange icon came up on the man’s bio.
+
+“Ah hah. I assume you’re here due to this… Hmm. Mandatory tax flag. Form 111-C filed with a higher than expected tribute rate. Not the worst problem to have.”
+
+Adrian brightened.
+
+He hesitated, clicking his tongue. “Also not the best.”
+
+Adrian darkened.
+
+“Never fear! Let’s see what we can do…”
+
+Golden light flashed in Adrian’s eyes, causing wards hidden in the ceiling tiles to come to life, ebbing off the divine magic with the pressure of something even more powerful. The system.
+
+The clerk didn’t even look up. “None of that. Let me see what I can do. You just enjoy the accommodations for a moment.”
+
+Several minutes later…
+
+“I see…Mr. World Breaker, when you were first registered, and by this I mean when you originally integrated into The System, what was your classification?”
+
+He thought. “Mortal. That’s what the notification said.”
+
+“And now?”
+
+“I break worlds.”
+
+“Right, right. But what did the new notification refer to you as? The one that flagged you and made you come in here?”
+
+“Enhanced demi divine human.”
+
+“And if I were a simpler man, who just wanted to know what you still were at your core. Without all the fancy wish-wash…?"
+
+“... A human.”
+
+Kairon clapped. “Exactly! Now, I need to stress I’m not suggesting anything,” he gave a meaningful look at the golden sigil in the corner. The same one that every cubicle had floating inside of it.
+
+“But, hypothetically, if you were to submit a racial class inquiry, the system would have to evaluate if enhanced human was still accurate. And, if it deemed that it was in fact not…”
+
+“The rate changes?”
+
+“Well now Mr. World Breaker, you sound like a clerk.”
+
+Golden lips turned upwards. Just slightly.
+
+Hastily, Kairon continued on. “But! I didn’t mention a rate change. You did. I only said the system would evaluate,” he corrected. “Whatever the System does with that knowledge is between you and it. I am simply an advisor, here to solve your ticket.”
+
+A small, rumbling noise came. Then a slow nod of understanding. “How do I submit this inquiry?”
+
+Kairon opened a drawer, tabbed through the dividers, and withdrew a parchment. He slid the small form forward. “Three checks. And, at the end, a short description. I recommend being very specific. We’ve had issues with… wording when it comes to the review teams. Due to budget constraints, much of the process is becoming automated. I know, I know. But at least a platinum member like yourself gets me!”
+
+***
+
+As the giant stood to leave, Kairon made to close out the ticket.
+
+Right before he hit that attractive, neon green button, he noticed something. “Wait! Please, just a moment… Adrian. Can I call you that? Good. Listen… I see a flag on your profile stating that you are the registered sovereign and sentinel of fourteen realms. Is that correct?”
+
+“Seventeen. One was added last cycle, and two before that.”
+
+Kairon blinked. “You’ve been protecting seventeen realms, and no one told you that each one reduces your tribute by a percentage?”
+
+No reply.
+
+“Adrian, has any clerk actually reviewed your full file?”
+
+“It does not seem one has.”
+
+“No. It does not. Again, I must reaffirm that this information is purely from an advisory role. Whether or not you act or take conclusions from this is up to you.”
+
+“Can you fix it?”
+
+Kairon winced. “Unfortunately… No. But if you would be so kind as to go back in line and get a new ticket, the next clerk can. Just tell them you want to update your realm protection registration.”
+
+He thought for a moment. “And you could consider reminding them to look at that 111-C form from last cycle and make sure any… updates to your tribute are considered retroactively.”
+
+The large giant crossed his arms. “This is helpful.” A pause. “You are wasted here. I suggest you leave.”
+
+“Oh! Thank you, thank you. You are too kind Mr. World Breaker, too kind… However, I love my job! How else could I work with such prodigious beings as yourself? Now, if you’ll follow me this way, I can escort you to the kiosk. Perhaps we can put in a priority flag to move you up the queue…”
+
+As they walked, Kairon did feel a little bad.
+
+The next clerk to deal with this guy might be a tad overwhelmed. Someone without my open mind could mistake Mr. Adrian as a violent man.
+
+***
+
+Three Cycles Later…
+
+Kairon was satisfied. The screen in front of him was this cycle’s performance report. As usual, he passed with flying colors.
+
+Perhaps tonight, I’ll visit Tavaran and celebrate with a tidy meal. His noble friend always loved an excuse to treat him.
+
+Thoughts of lavish dining and well-mannered conversation were shattered by a stiff knock on his door.
+
+“Kairon!”
+
+Without waiting for permission, a green, tentacle-covered insectoid slithered into his newly awarded office. His manager often did that ever since he got the ten by ten personal work room. He took it as a form of excitement. To talk to him, of course.
+
+“Hello Ms. Maren!” he called cheerfully.
+
+“Did you help a…” she glanced down at her clipboard. “Form 111-C with a client recently?”
+
+Kairon rubbed his chin, then swiveled his chair and typed a few queries.
+
+“Hmm. Well, three cycles ago, I did file one with a single individual, yes.”
+
+“Was it this one?” A tentacle held up a white slip, a form 111-C with the initials A.W.B. on the bottom.
+
+“I can’t be sure… but it does have my insignia on the notary. And the date matches… So, unless our documents have been compromised, I would assume so.”
+
+“Yeah. Seems so,” she replied dryly. “And, would this A.W.B. happen to be an…” she trailed off, flicking open a new page. “Adrian World Breaker.”
+
+Kairon paused, thinking back. There had been that interesting golden man. The one with the bad day.
+
+“Oh! I think so!” he said happily.
+
+“Mmm. I see. And did you tell him anything off the usual scripting guide?”
+
+“Not that I recall… Though sometimes, my more exotic clients do have fascinating inquiries that even our script can’t answer.”
+
+Her tentacles quivered.
+
+“Kairon. Did you specifically state that the number of worlds Mr. Adrian is the sovereign protector of grants a percentage based tax write-off?”
+
+“I… can’t be exactly sure. But, if my recollection is correct…” he thought for a moment. “It does sound familiar. I’m sure I wouldn’t have put it quite like that. If I had to guess, I would bet we discussed the implications of the number of realms he is registered to.”
+
+Ms. Maren gave him a deadpan look. With an exasperated huff, she slid over to one of the plastic chairs, collapsing in a heap on it. Behind her, a thin trail of green goop caked the carpet.
+
+“Kairon. You are a hard worker. A good one. System be it, I don’t think I can find anything you’ve done wrong in your fifteen cycles with us.”
+
+“Thank you!” The clerk beamed. His hands reached down, brushing his uniform and straightening his collar.
+
+“But.” She held up one tentacle. “You have this knack for causing me headaches.”
+
+The clerk deflated slightly.
+
+“Ah. I’m very sorry Ms. Maren. As my supervisor, I look to you for guidance. What can I do better?”
+
+She gave him a hard look, all eight of her eyes studying him.
+
+“Do you know what this is?”
+
+She flicked the pages up on her clipboard, ending with a red piece of paper.
+
+“That… appears to be a formal complaint. And, being it is handwritten and not one of the robots, I’d say it was from someone fairly influential.”
+
+“Anything else?” she prodded.
+
+“Well, being that’s a red form, I’d assume this to be a pressing issue. One that has that critical designation of time sensitive.”
+
+That was a big deal here. The System loved taking its time. For something to be worth having it…
+
+“I have a formal complaint against an Adrian World Breaker. It seems that in order to maximize his tax write-off, he saw fit to conquer, break, and bind all thirty-two neighboring realms in his sector.”
+
+“Oh. That… seems a tad excessive. Are you sure it's thirty-two? Maybe that was just bad hand… No. No, I see it too. That’s definitely a thirty-two.” He whistled.
+
+Silence.
+
+“Kairon. What do you have to say about this?”
+
+The clerk pursed his lips. “I would say… we may want to consider offering a job to Mr. Adrian. He seems to have a very practical understanding of our Bureau tax laws and regulations.”

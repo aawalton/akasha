@@ -1,0 +1,921 @@
+---
+id: 98464b76-f53a-54d7-9c3c-a22f98ad9f3d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25: An Introduction, a Reunion, and a Deal"
+slug: 0029-chapter-25-an-introduction-a-reunion-and-a-deal
+partOf: dungeon-devotee
+position: 29
+ownLength: 10738
+unit: words
+ownProgress: 10738
+publishedAt: 2023-10-02
+link: "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1360943/chapter-25-an-introduction-a-reunion-and-a-deal"
+royalRoadId: "1360943"
+markedReadAt: "2026-06-29T22:40:03.547Z"
+---
+
+Edmund burst from the darkness between levels to the crunch of leaves beneath his boot.  Through the slots in his helmet he glimpsed little more than twilit gloom and a few barren trees before a bored voice pulled his attention away.
+
+“Congratulations on reaching the twenty-fifth floor hub.  Before you move on, we’d like to ask you some questions abou—by Thrax.  It’s him!”
+
+“Quick, use the—”
+
+Edmund didn’t wait for the kingsguards to use whatever countermeasure they’d prepared to ensnare him.
+
+He Broke Through.
+
+The whir of magic and the snap and crunch of something striking against the forest floor rang out as Edmund shot past the startled soldiers onto the uneven cobblestone path beyond.  Half-buried in leaves and soil, its cobbles splitting apart at odd angles where erosion took its toll, the way wound delicately through the dark woods, lined every few yards with lampposts spitting black smoke through the cracks in their glass enclosures.
+
+“After him!”
+
+He didn’t keep to the path for long.  He knew it would lead to whatever marketplace defined this hub, right into the waiting arms of the entire garrison.  The ones already sprinting after him were enough of a problem.
+
+Edmund waited until a bend in the road placed a tree between him and his pursuers to adjust his course, gaining an extra second or so over the guards as their own turn lagged behind.  Still, without fear, they followed him into the forest.
+
+Four, Edmund realized as he counted the voices and the footsteps behind him.  Four was a good number.  The accords set the party limit at five, so the soldiers could at most receive a single man as reinforcements, but that’d mean sending someone wandering through the woods alone.  No guard would ever do that.
+
+Edmund would.
+
+A thick moisture hung in the air, pervading the senses to near stifling.  His eyes watered with the winter-like chill as the fog grew thicker, wrapping the world in a once-white blanket turned sickly gray with the smoke that entangled it.  Breath came slowly to his nose and mouth, a viscosity in the atmosphere that seemed to coat his throat in a layer of ichor.  It even colored the sounds that reached his ears, ever so slightly softening each noise, rounding out their rougher edges and smothering their reach, leaving Edmund with the distinct impression that if he made it far enough from the settlement at the floor’s center, nobody would hear him scream.
+
+With every droplet of water suspended in the air came the essence of rot.  The almost pleasantly earthy scent of decomposing leaves, the mosses and the lichens eating away at dying logs, fallen or otherwise, the fungal funk of mushrooms and their kin breaking once-mighty trees into their most base components all reached Edmund’s nose, all played across the air upon his tongue.  Here was a place of endings.  Here, decay ruled.
+
+The guards were gaining on him.
+
+As effective a fighter as he’d become, Edmund had invested little into speed.  Solitude offered a lesser increase to celerity, but lesser was exactly that.  His most critical passive movement ability came from the path of the azure fox, but as useful as increased agility was for maneuvering within the context of a fight, it did precious little in an outright sprint.
+
+The guards, in contrast, clearly had something.  Whether they’d invested into the confluences of Agility itself or wielded some enchantment or potion or simply ran less encumbered than Edmund, they grew closer with each passing moment.
+
+He needed a monster, something to which he could Reckless Charge, something that would allow him to bring his superior maneuverability to bear.
+
+None came.  Liam, for some reason, chose that particular moment to stop trying to kill him.
+
+The soldiers drew nearer.
+
+Okay, new plan.  If Edmund couldn’t run any faster, he’d have to make the guards run slower.  He had just the tool.
+
+A brief moment of rifling through his satchel later, Edmund, still running, twisted his shoulders back towards the guards with a slingshot in one hand and a transparent orb in the other.
+
+He fired.
+
+The first kryax balloon flew long, sailing over his targets’ heads.  The slingshot, apparently, packed more of a punch than he’d expected.  Edmund adjusted, grabbed another glob of resin, and tried again.  This time he fell short.
+
+He cursed, wishing he’d trained more with the tool.  The trouble was, he only had a total of fifteen kryax balloons, a limited resource he’d dared not expend on target practice.  Then again, it wasn’t like he’d had much opportunity.  His last chance to breathe since obtaining the slingshot had been Vlaevia’s lair, and he couldn’t exactly have been shooting weighted projectiles around in there.
+
+It was the fifth shot that finally hit, a bull’s eye right onto the leader’s left knee.  He tumbled as the resin solidified, locking the joint in place.  One of his compatriots stayed back with him.  The other two pressed on.
+
+It took three more attempts to land another hit, but when he finally did the resin washed harmlessly against the guard’s chest, solidifying in a place that failed to impede their forward motion.  Another four tries later, he got one in the ankle, sending a second soldier tumbling to the forest floor.
+
+Edmund kept running another few paces, stopping just close enough to watch the unharmed guard help the other up silhouetted in the fog.  He exhaled, stashing his slingshot and tying up the sack with his three remaining kryax balloons.  They wouldn’t chase him alone, and they certainly wouldn’t abandon a temporarily crippled comrade to fend for themself.
+
+Edmund turned, ready to vanish into the mist, when a sudden chill ran down his spine, and the dungeon itself reasserted its presence.
+
+His challenger’s mark burned.
+
+Shit, Edmund cursed, assembling his spear and spinning back to back to eye the two guards still within view.  They’d yet to notice anything was wrong as one supported the other as she avoided standing on her locked-in-place ankle.
+
+Edmund had lured them out here.  Edmund had ruined their mobility.  And now, Edmund had empowered the coming monster.
+
+He couldn’t leave them.
+
+He inched closer, assembling his spear and pulling his shield from his back as he eyed his surroundings.  The air grew cold, moisture crystalizing upon Edmund’s armor.  He thought, for a moment, to don the swelter ring before deciding against it.  He dared not further incentivize the beast to target the vulnerable soldiers over him.
+
+The guards started moving, limping awkwardly back the way they’d come.  From a safe distance, Edmund followed.
+
+A flash of motion caught in his periphery, little more than a shadow in the smog passing between two trees.  Edmund stared at the trunk in question for several tense seconds, his heart pounding in his chest as he waited for any sign of whatever lurked behind.  None came, at least none before he had to avert his gaze.  It wouldn’t do to leave the guards unwatched, nor to leave his flank exposed for long.
+
+Edmund and the mystery predator stalked the guards together, the former hanging back in the mist and the latter lurking within the trees.  He caught glimpses every once in a while, the edge of a billowing cloak here, a blurred silhouette there.  Edmund couldn’t quite figure if there were several of the things or only one that moved frighteningly quickly.  He’d get his answer soon enough.
+
+The reason for the creature’s delay in its attack struck him the moment the other two guards came into view.  It smacked of cheating to Edmund, of gaming the system to ensure a deadlier encounter, but when had he ever expected better from Liam?
+
+The accords limited encounter power based on group size.  With four guards and Edmund fighting together, they’d count as a full party, face the deadliest base monsters the level had to offer, all with two immobilities, the fundamental desynergy of Edmund working with others, and his challenger’s mark empowering their foes.
+
+Instinct screamed at Edmund to leave, to abandon the soldiers to their fate and set off once more on his own.  Alone, he could overcome anything the floor could throw at him.  Besides, these guards had known what they were getting into.  They’d set themselves against him, and chased of their own volition off the beaten path.  What real courtesy did Edmund owe his foes?
+
+He caught himself.
+
+Those were Liam’s words.  Those guards were human beings just doing their jobs.  To their minds they hunted a dangerous fugitive guilty of kidnapping the heir to the throne.  They’d hurt no-one, at least not to Edmund’s knowledge, and here he’d lured them into a deathtrap.
+
+He couldn’t leave them.  He couldn’t let the bitter rot that infested this place corrupt him so.  Not yet.
+
+As if on cue the smoke responded to his thoughts, thinning and softening as he rejected Liam’s rhetoric and moved to defend his pursuers.  The Recluse piled on, brightening the fog to alabaster sheen as the guards shifted from enemies to allies, if only temporary ones.
+
+A crack echoed from Edmund’s chest, joined by a burst of light that swiftly faded.  His heart raced as he glanced down at its source.
+
+His Frostfang Talisman had gone on cooldown.  He hadn’t even seen the spell it’d blocked.
+
+He did see the one that flew for the guards.
+
+From the trees flew an icy blast, invisible to the eye but for the way it cleared the fog around it, flash-freezing the moisture into a puff of snow that rained down to the forest floor.  One of the uninjured guards caught it on his left forearm, a flash of golden light repelling the brunt of the projectile even as its chill continued on.  Before Edmund’s eyes the man’s hand grew purple.
+
+Rebuffed or not, the supercooled air didn’t stop when it struck the guard’s defenses, bouncing back and onto the forest floor where it blew up a flurry of leaves and frost, within which, at last, their foe materialized.
+
+Human in shape but not in spirit, it stood some five feet tall, skeletally thin and pale as the fog around it beneath the ebon cloak it wore.  Wispy threads of black and gray sprouted from its head, a thin and unstyled mess of hair that inflicted a ragged, windswept appearance.  Most important to Edmund’s eyes, however, were the claws upon its fingertips and the two fangs that hung from its mouth as it hissed its outrage at the group of guards.
+
+Even weakened under The Recluse’s influence, the smoke still offered a name.
+
+Feral Vampire
+
+Edmund ran in, disassembling his spear as he ran through everything he knew about vampires.  His bracers and Rebellion would protect him from its hypnosis, leaving its strength, speed, and magic to contend with.  Its transfiguration seemed to be that burst of supercooled air, something his frostfang talisman had already repelled but wouldn’t again.
+
+He slipped on his swelter ring.  The guards would sweat, but that was better than freezing.
+
+Edmund drew his sword.  As the folklore went, vampires died one of two ways: a wooden stake through the heart, or decapitation.  For lack of wooden weaponry, Edmund would have to aim for the latter.
+
+Only once he’d swapped weapons, donned his ring, and crafted a battle plan did Edmund mark his Target and activate Reckless Charge.
+
+The beast transformed again.
+
+Edmund’s cutlass found only empty air.
+
+He skidded to a halt as he charged right through it, craning his neck to watch the path of frost shoot away from the party and up into a tree.  It rematerialized up in the branches.
+
+“Where’s the bat?”  One of the guards cursed.  “For Thrax’s sake, there’s supposed to be a bat!”
+
+Edmund didn’t offer an answer.
+
+“What’re you doing here?” Another guard, the one with the resined knee, pressed him.  “Where’s the princess?”
+
+“I’m saving your lives,” Edmund growled back, eyes fixed on the vampire up in the tree.  It stared back at him.
+
+“It’s just a vamp,” the other unhampered guard insisted.  “We can handle it.  Where’s the princess?”
+
+“Not this one, you can’t.  Two of you are down, and I promise you that’s no ordinary vampire.  And her name’s Ameli—”
+
+The vampire burst into action, rocketing down from the tree at blistering speeds for the bickering fighters.  It spun through the air around them, forcing the impromptu party into a defensive ring to cover all sides.  The tactic implied it hunted alone, searching for an opening rather than depending on a partner to create one.
+
+One of the guards caught the ice blast on his arm, the same defensive enchantment repelling the strike as Edmund’s swelter ring fended off frostbite.  The guard swung, but the vampire transformed again before cold steel could meet its flesh.
+
+Again and again it came at them, sweeping through the air at speeds beyond Edmund’s ability to track, seeming to pop up out of nowhere to spread its chill, to draw blood with razor claws or threaten to break through even the slightest gap in their defense.  Again and again Edmund and the soldiers repelled its attacks, hemorrhaging health, stamina, and precious mana in each exchange, only for their retaliation to find naught but frigid air already arcing away.
+
+Every few strikes it’d stop in one of the trees, snarling at them as it evaluated the damage it’d done and plotted its next attack.  Edmund took each opportunity to lob Firebolts at it, particularly pleased to find himself against an enemy actually weak to his slew of fire-based attacks.  None of his spells struck true.
+
+The guards, similarly, failed to land hits.  They’d come better equipped than Edmund, wielding crossbows and enchantments against ensorcellment and whatever holy barrier on their bracers repelled the beast’s repeated attempts to ram them.
+
+The thing was just too fast.  It reacted with inhuman speed, vanishing into a puff of air before any projectiles could find purchase.
+
+For a time, they stood at an impasse.  Neither side could deliver a decisive blow as the vampire consistently outsped them and the party’s defenses held firm.
+
+But there was no escape.  There were no reinforcements.  And piece by piece, it whittled away at them.
+
+Nearly ten minutes had passed before the first guard fell.
+
+Exhaustion and blood loss from a dozen cuts drained upon him, raising his reaction time by but a handful of milliseconds.
+
+A handful of milliseconds proved too much.
+
+Before the swipe of a sword could force the beast back, its claws raked across the guard’s throat.
+
+Edmund didn’t see it happen, his eyes focused ahead, ready to repel an attack of his own.  He didn’t need a sightline to hear the muffled scream echo into the fog.  He didn’t need his eyes to interpret the desperate gasp, the curse from a comrade’s mouth, nor the telltale gurgle of air escaping from an unnatural route.
+
+The dungeon hadn’t even claimed his corpse before they closed the hole in their defensive ring.
+
+Edmund’s mind raced.  They couldn’t hold forever, especially not dripping blood onto the forest floor.  Much as he lamented the soldiers’ involvement, he needed them.  They’d started this fight as a group of five, and it’d remain at that difficulty level until it ended, one way or the other.
+
+There’d be no winning it alone.  It could circle him faster than he could turn around.  With nobody to watch his back, he’d fall just as surely as the others.
+
+He met the beast’s gaze as it perched again in one of its trees, tried to parse through its thoughts, scrambled, desperately, for a weakness.  Hunger stared back.
+
+As surely as that guard had fallen, they would lose this war of attrition.  They needed to end this.  As the next barrage of attacks concluded and the creature paused once more, Edmund realized what he had to do.
+
+“Cover me,” he muttered to the kingsguards beside him.  “I need to get something from my bag.”
+
+“No way,” a man barked.  “I’m not getting between that thing and you.  For all I know it’s on your side.”
+
+“Yeah,” another scoffed.  “It’s not like any vamp I’ve ever fought.  Three months down here and I haven’t seen anything like it.”
+
+“Do you think I’d be here helping you if that thing belonged to me?  I could’ve just left you to die.  You want to end up like your friend?  Cover me.”
+
+“Grima didn’t get a breather and neither will you,” the first guard insisted.
+
+“What do you have?” the second asked, trepidatious hope coloring his voice.
+
+“No,” Edmund said.  “It can hear us.  You’ll have to trust me.”
+
+The conversation devolved into a series of grunts as the vampire returned to its assault.  Its claws snaked around Edmund’s shield to score two deep gashes across his left wrist.  One of the guards let out a sharp breath as a claw found him too.
+
+“Alright, fine,” the third guard broke her silence.
+
+“No, not fine,” argued the first.  “He’s a dangerous fugitive.  We can’t just—”
+
+“Go,” the second guard interrupted.  “I’ve got you.”
+
+With a nod Edmund sheathed his sword and stepped back, keeping his shield up to cover as much area as possible as the kingsguards braced for the next volley.  It came within seconds.
+
+Edmund raced through his satchel, splitting attention between it and his shield as he fought to help cover his temporary allies from the ongoing assault.  One of the guards reeled back into him, but Edmund’s footing was stable, offering a solid base to help keep the guard on her feet.
+
+When at last Edmund pulled out the small vial of amber liquid, the first guard—the one to his left—scoffed at him.
+
+“A potion?  All this for a potion?  Thrax, if you have any stamina potions we all need them.”
+
+Edmund ignored them.  He sliced through the wax seal a pointed finger of the crimson hand, popped the cork, and downed his entire supply of heartwood sap.
+
+The world cried out in agony.
+
+All around him pestilence and decay did their horrid work, eating away at bark and branch and root, feeding upon the little spark of life that dwelt in torment within.  It was wrong.  It was wrong.  It was wrong.  Rot unchecked, insidious and pervasive in its hunger, stifled any chance at recovery, at healing, at growth.
+
+Edmund felt it.  He felt the worms burrowing through his trunk, mycelia spreading its inexorable web, poison flowing through his xylem.
+
+But even in their suffering, the trees rejoiced.  Hope had arrived.  A Strethian had come.
+
+And vengeance, or at least some tiny fragment of it, could be claimed.
+
+The vampire continued his assault, grinding further into the soldiers’ defense, whittling and whittling the next one inevitably fell.
+
+Except this time, when it pulled back to reevaluate its foes, when it stopped what it believed to be a safe distance away, perched in the canopy like a leopard, it’d find no escape.
+
+Edmund called, and the forest answered.
+
+The vampire rematerialized among the branches only to find life where it’d been certain of death.
+
+A thorn, stiletto sharp and as long as Edmund’s forearm, burst from the tree and pierced the creature’s heart.
+
+A scream, agonized and sharp and feral as its source, resounded through the fog, sending the very leaves upon the ground dancing with resonant motion.  Moments later, the beast dissolved into a pile of ash, before that too disappeared to feed the dungeon.
+
+“Don’t move.”  A blade pressed against Edmund’s throat.
+
+“I just saved your—”
+
+The sword dug in, hard enough to silence Edmund’s protest, yet soft enough to avoid drawing blood.  “By order of His Majesty Francis Gluhmbridge Morathian, High King of Linaria, the Songwalkers, and the Southern Cities, I am apprehending you on charges of kidnapping, violence against members of the kingsguard, and treason.  You will return with us to his majesty’s court for interrogation followed by a trial and your prompt execution.  Any attempts to resist will be met with lethal force.  Do I make myself clear?”
+
+“If I kidnapped Amelia, why isn’t she with me?” Edmund asked.  “I could’ve left you to die there.  Instead I came back, put myself at risk, and expended a valuable resource saving your lives.”
+
+“A fact you’re free to bring up when you beg for leniency at your trial.” the man snarled into his ear.  “That vamp only found us because we were out here chasing you.  Grima is dead because of you.”
+
+“Grima is dead because the Depths are no place for manhunts,” Edmund countered.  “Nor are they a place for captives.  You think I could’ve made it this far with Amelia at knifepoint?  What about you?  How far do you think you’re going to make it with a sword at my throat?  Two of you can hardly walk, and I’m out of heartwood sap.  I can’t repeat that trick.  Do you really want to have a captive in tow when the next vampire shows up?”
+
+“Reese, maybe he’s right,” another guard argued.  “He came back to help us.”
+
+“We should leave him,” the third added.  “That special vamp didn’t show up until he did.  I vote we cut him loose and get back to the path before another one shows up.”
+
+The mean one—Reese, apparently—looked back and forth between his two squad mates.  “You can’t be… He’s the whole reason we’re stuck down here.”
+
+“Amelia’s the reason you’re stuck down here,” Edmund said.  “That and her father’s need to assert control over both her and this place.  He has neither.”
+
+Edmund’s confidence grew as the fog around him darkened, turning brown and then sickly gray as the guards turned on him.  Even divided, the sword at his throat declared their intent.  No more did Edmund stand surrounded by allies.  He stood amidst his enemies.
+
+And against them, he stood alone.
+
+Edmund focused on it as the kingsguards bickered, their conversation falling on deaf ears as he tuned them out to revel in the smoke, to return to its warm embrace.  When he heard the first cough echo behind him, he knew he’d already won.
+
+“What’s—cough—what’s going on?” the second guard rasped.
+
+“There’s something in the air,” said the third.
+
+“Cool it,” the first guard kept his demeanor steady even as he fought back coughs of his own.  “It’s a trick of some sort.  Come on.  We’re getting him back to camp.”
+
+Despite his words, he didn’t move.
+
+Edmund kept the victory from his voice.  “Could it be a monster poisoning the air?”
+
+“No,” Reese wheezed.  “There are no such monsters on this floor.”
+
+“Just like there aren’t any vampires that powerful?”
+
+The guards fell silent, at least as silent as three coughing soldiers could manage.
+
+“How about this,” Edmund offered.  “You let me go, and in return I’ll draw the monster away so you can make it back safely.  Does that seem fair?  Your lives for mine.  Thrax, there’s even three of you and only one of me.  You can tell your commander I escaped.  I am a slippery one.”
+
+He hated how much he sounded like Liam.  Never in a million years would he’ve thought to refer to himself as “a slippery one.”  He supposed that’s what happens when one goes for weeks on end with only a bloodthirsty dungeon with a middling wit to talk to.
+
+“Reese, come on,” guard three spoke in a sharp whisper.  “You know we can’t fight like this.”
+
+A moment passed.
+
+Reese coughed.
+
+Edmund faked a cough of his own.
+
+“Fine.”
+
+The sword lifted from Edmund’s throat.
+
+“But only because my compatriots are wounded,” Reese said.  “Know that we will find you, and you will be brought to justice.  Maybe not today, but you’re going to have to leave this place sooner or later.  The Depths may not be the place for manhunts, but the surface is.”  He sheathed his sword and spun on his heel.  “C’mon.  Let’s get the hells out of here.”
+
+Edmund lingered for a few heartbeats as he watched them disappear into the smog, the echoes of their coughs the final trace of their presence before they too faded.
+
+Edmund let out a breath as the exhaustion caught up to him.  He wished, against all hope, for a place he could rest, but he knew the only safety to be found within the hub would be near the market, near the garrison.
+
+Unless, of course, he had a portable camp.  Such things previously had been, of course, well beyond his budget, but with the mithril coins he’d won on the twenty-fourth floor, perhaps that possibility had opened up.  That still meant, unfortunately, venturing into the market, where doubtlessly a hundred pairs of eyes all searched him out.  Now that those guards knew he was on the floor, any hope of slipping in undetected had dried up.  They’d be on high alert.
+
+That left one option.  Edmund may’ve had no camp of his own, but he knew someone who did, someone who, according to her message, was hiding out on the northeast bank.
+
+Now Edmund just had to figure out the northeast bank of what.  He’d seen no rivers on the floor thus far, though presumably the moisture in the air came from somewhere.  Come to think of it, Edmund had no idea which direction was northeast.  Compasses proved of dubious value in the generally confined floors of the Eternal Depths, and that was when they worked at all.
+
+So in practice, all he had was a tree hollow on the water somewhere.  It wasn’t exactly the best of instructions, but he’d take what he could get.  At the very least, he had a destination in mind.
+
+First things first, Edmund took stock.  His mental map put him somewhere close to the left wall, well off the beaten path.  From the way the guards had returned, he had a rough estimate of where they were garrisoned, or at least the cobblestones that led there.  It stood to reason Amelia had hidden out on the opposite side of this supposed river from the garrison, so all Edmund had to do was find the river, cross it, and walk the bank until he found the right tree.
+
+Oh, and stay alive.  That was a given.
+
+He’d little hope of taking on another feral vampire with neither the guards to watch his flank nor the heartwood sap to take the kill, but theoretically any such encounter should be significantly easier engaged solo compared to with a full party.  Theoretically.  Edmund hated the uncertainty, hated not knowing how different the next vampire would be from the first.
+
+Well, as Liam would say, there’s no fun in being certain.  Edmund wasn’t quite sure what fun had to do with any of it, but he set off nonetheless.
+
+With far more care than his mad dash from the kingsguards, Edmund turned ninety degrees from the way they’d left and began his trek.  He didn’t bother poking and prodding at every little thing—there were far too many to even consider the possibility—but he kept a close eye on both the smoke in the air and the leaves upon the ground.  It was among the latter that he found his first trap.
+
+A ring of mushrooms, pale in stalk and gray in cap, perfectly encircled the five foot gap between two trees.  Edmund walked around.  The folk tales told of at least six different ways a mushroom circle could trap and or kill, and Edmund had no intention of finding out which one Liam had gone with.  In case the trap hadn’t been obvious enough, the air above the mushroom ring hung completely clear, untouched by the ever-present smoke.
+
+Odd or otherwise, Edmund made the intelligent decision not to mess with it.  If even the smoke refused to enter, neither should he.
+
+He counted three more of the fairy rings in under ten minutes as he walked on, concluding in their plentitude they probably weren’t hiding anything of value, yet to Edmund’s mind they made little sense as traps.  This far into the Depths, Liam was under no obligation to make his traps so apparent.  No delver who’d survived this far would ever fall for it.
+
+It wasn’t until his challenger’s mark tingled once more that Edmund realized their true purpose.
+
+Edmund dove the moment he felt the slightest chill pierce the aura of his swelter ring, hitting the ground hard and rolling on his side as the burst of super-chilled air flew overhead.  He pushed himself to his feet in time to spot the vampire.
+
+It was thinner, ragged and more feral than the other one.  It returned to its humanoid form on the ground, more exposed than its predecessor in its perch, and it lingered far longer—not long enough for Edmund’s Firebolt to strike true, but longer.
+
+The smoke slowed it down, a gray morass in the air that helped hinder its flying form, slowing it down just enough that Edmund could raise his shield in time.  That didn’t help him get the kill, but it helped him move, kept him upright as he advanced towards his target.
+
+Nearly three full minutes of blocks and dodges and narrow misses, Edmund reached the nearest fairy ring.  He turned his back to it, raised his shield, and waited.
+
+The vampire obliged.
+
+As little more than cold air, it shot right at him.
+
+Edmund ducked.
+
+A furious screech echoed from behind him.
+
+Edmund stepped forward and turned to find the vampire, fully corporeal, beating against an invisible wall just above the ring of mushrooms.  He took a satisfied breath.  “It’s not a trap for us,” he muttered to himself.  “It’s a trap for them.”
+
+Seemingly unable to transform, the ensnared vampire caught like dry kindling from a single Firebolt.  Within moments, but a pile of ash remained.
+
+Edmund continued on.
+
+Twice more he encountered the wild bloodsuckers amidst the haunted forest, and twice more he lured them into a fairy ring and dispatched them with ease.  Some half hour later, the leafless trees came to an abrupt end as Edmund reached a stony shore.  Ahead, mirror-still water stretched as far the eye could see—or at least as far as the fog would let it.
+
+Tendrils of steam wafted off the lake, thin wisps that danced about like so many spirits on Remembrance Day.  Though the mist concealed it, the sounds of civilization betrayed its presence, the voices and laughter and merchants’ cries carrying across the unmoving water.  To Edmund’s ears, they came from his right, precisely where the path would’ve led had it kept fairly straight.
+
+Edmund went left.  Amelia’s hollow had to be around here somewhere, and the further he got from the king’s garrison, the better.
+
+At long last, it was poking and prodding time.
+
+Edmund progressed at a glacial pace along the shoreline, keeping a safe distance from anything that might’ve been lurking in the water as he stopped to circle each and every tree large enough to hide a person.  It was, as per usual, an excruciatingly slow process, but a level of thoroughness to which Edmund was long accustomed.
+
+It proved to be for naught when he found the tree in question.
+
+Nearly two hours of travel along the lakeside, Edmund spotted the remains of what must’ve once towered above the landscape.  The rotting trunk stretched nearly twelve feet across yet only eight tall, jagged at its tip where it had broken.  The log that’d once made up this mighty behemoth was nowhere to be found, long decayed to little more than dust.  Only this shell remained, covered in moss and fungal shelves and somehow still sprouting a handful of narrow shoots from its top.  No doubt that little spark of life was the only reason the trunk yet remained.
+
+A narrow gap on the side facing the lake allowed Edmund passage into the hollow, wherein he found an open space, a bed of moss, and wooden door standing freely.  He removed his helmet and his swelter ring, stashed them in his satchel, and knocked.
+
+Before he could even blink there was a dagger to his throat.
+
+“Edmund!”  Amelia’s eyes widened as she withdrew her weapon.  “Sorry.  I didn’t know you were coming.”
+
+He shrugged.  “I’m getting used to blades at my throat.  Yours isn’t even the first of the day.”
+
+Amelia’s gaze hardened.  “The guards found you?  They didn’t follow you here, did they?”
+
+“No, but they know I’m on the floor, and they’re looking for me.  They didn’t seem to know you’re here though.  How’d you manage that?  They had the entrance pretty locked down.”
+
+She smiled that teasing smile of hers, the one that seemed to cut clear through the smoke in the air.  “I have my ways.”  She audibly sniffed.  “You stink.”
+
+“My last bath was in saltwater.  At depth.  Surrounded by rotting sailors.”  Edmund shuddered.  “Is the lake safe?”
+
+Amelia shook her head.  “Not remotely.  Come on.  I have a wash basin inside.  Just take your armor off so you’re not tracking grime into my tent.”
+
+Edmund narrowed his eyes at her as she leaned smugly against the doorframe, blocking his way in as she crossed her arms and looked straight at him.  From the look of it, her insistence had little to do with “tracking grime.”
+
+He didn’t complain.
+
+Piece by piece he stripped away his armor, handing it over to her to deposit on some designated space for later cleaning.  Even once at last he stood bare in the hidden hollow, the soft moss against his feet and cold air raising goosebumps across his skin, Princess Amelia Morathian, heir to the throne of Linaria, didn’t let him in until he planted a kiss, warm, firm, and full of longing, upon her lips.
+
+And somehow, after all the running and the fighting and the long search for this particular hollow, Edmund found the energy for just a bit more physical exertion before he could finally fall upon the pillows and claim not only the sleep, but the rest he so desperately needed.
+
+“Wait, he really tried to arrest you?  You’d just saved his life!”
+
+“That’s what I said,” Edmund chuckled.
+
+The two of them lay together in Amelia’s luxurious bed, Edmund on his back and Amelia on her side as they held each other close, a full hour after they’d finished their breakfast of fruit and pastries and two full hours after they’d awoken.
+
+“I’ll have to talk to my father,” she replied.  “Can’t have kingsguards going around acting like that.  It’s so… rude.”
+
+“I don’t think your father much cares how polite his guards are.  He wants you.”
+
+“Well, he’s not gonna get me.  I’m not his to have.”
+
+“No.”  Edmund pulled her in tight.  “You’re mine.”
+
+That earned him a kiss on the neck.
+
+“So,” he changed the subject, “I have a bit of a dilemma I was hoping you could help me solve.”
+
+“Let me guess: you have money to spend and no way to spend it with my father’s men after you?”
+
+“That about sums it up.  Any ideas?  You said you have your ways.”
+
+“Nothing that’ll work long enough to get you in and out.  Especially not if you want to actually talk to whomever you’re trading with.”  She let out a breath.  “I’m sorry.  It’s my fault they’re after you.”
+
+“Apology accepted.  I knew what I was getting into.”  He planted a kiss on her forehead.  “I guess I could always give you up.  You think they’d offer a reward?”
+
+She smacked him gently across his chest.  “Don’t joke about that!  They’d probably take you off in chains.”
+
+“That sounds like them.”  Edmund sighed.  “I guess there’s nothing for it.  What about the rest of the floor?  Find anything interesting?”
+
+“Other than this hollow?  Only the most important thing.  I found our exit.”
+
+“That’s great!  The sooner we get away from all these guards, the better.  Where is it?”
+
+“The bottom of the lake.”
+
+“I take it that’d be the lake you referred to as ‘not remotely safe’?”
+
+Amelia grinned.  “That’s the one.  There’s a small cave with an air pocket and everything.  Just have to get past the rusalka.”
+
+Edmund furrowed his brow.  “Rusalka?  Like the spirits?”
+
+“Exactly the spirits.  Malevolent tempters that lure the lonely and the naive to their watery deaths.”
+
+Edmund blinked.  “Isn’t it temptresses?”
+
+“The ones you see probably will be.  They change forms.  Anyway, all you need is a way to breathe underwater, a way to stay warm in the icy lake, and something to fend off their magical influence.  I have potions for all three if you need them.”
+
+“No, I’m… actually all set.  Do they pose any sort of non-drowning threat?”
+
+Amelia shrugged.  “They have teeth like any other predator, but from what I hear you’re an old hat at underwater combat by now.”
+
+“That sounds like a challenge.”
+
+“Race you to the exit?”
+
+“No,” Edmund said sharply.  “We go slow, we do it right.”
+
+“You’re no fun.”
+
+“The fun stays in here.”  Edmund gestured to the spacious camp.  “Out there, it’s about survival.”
+
+“Well then,” Amelia leaned over to whisper into his ear, “I guess I’ll just have to wring as much fun out of you as I can.  You know, while we’re here.”
+
+Edmund didn’t falter.  The rusalka, the exit, the Thrax-damned Eternal Depths could wait.  For a rare, precious moment, Edmund had something less important to worry about.
+
+Two hours later, Edmund emerged from the portable camp fully equipped in a sparklingly clean set of armor, only to find the hollow no longer as empty as it’d once been.
+
+It took scarcely a handful of heartbeats before Amelia somehow darted past Edmund, around the wooden counter and sizzling grill, to raise a dagger to the new arrival’s throat.  “Move and you die.”
+
+The one-eyed man, kebab in hand, seemed entirely unperturbed by her immediate threat of violence.  “Edmund!  Fancy meeting you here.  Your lady friend seems fun.”
+
+“William.”  Edmund nodded courteously.  “Amelia, you can let him go.  He’s harmless.”
+
+A sharp and familiar laugh wafted in from outside the hollow.  Liam peeked his head through the entrance.  “You have no idea how funny that is.”
+
+Edmund glared at him.  “Are you going to tell me?”
+
+Liam looked to William.  “Should I?”
+
+William idly spun a kebab in his hand, drips of sauce flying off in all directions.  “What’s that about my eye?”
+
+Amelia, her blade still to William’s neck—if now lightly dusted in a few droplets of kebab sauce—flashed Edmund a confused look.  Edmund shrugged in reply.  She took that as her cue to pull away.
+
+“Hello again, Amelia,” Liam said.  “How are those earplugs I gave you?”
+
+Edmund furrowed his brow.  “Earplugs?”
+
+“Oh, I forgot to introduce you,” Liam changed the subject.  “How rude of me.  Amelia, this is William, the kebab king himself.  William, this is… Amelia.”
+
+Somehow William’s title of kebab king took precedence over Amelia’s as crown princess, exactly the sort of twisted Liam-logic that somehow made perfect sense to Edmund.
+
+Edmund dug through his satchel for a handful of coppers and stepped up to the counter.  “I’ll take two.”
+
+Amelia gaped at him.  “You’re just gonna… buy some?”  She rounded on William.  “Who are you?  How did you get here?  Why are you here?”
+
+William flashed a crooked-toothed grin.  “Well, I believe my esteemed colleague has answered that first question.  As for the others, I got here by walking, and I’m here to sell kebabs.  Two coppers.”
+
+Amelia stared.
+
+Liam materialized a pair of coins from thin air and waltzed right up to claim a kebab of his own.  For some mysterious reason, he waited until his mouth was full before he spoke again.  “You really should get one.  They’re the best.”
+
+Edmund nodded, polite enough to keep his mouth shut as he enjoyed the panoply of spices and sauces upon the juicy kebab.
+
+Amelia flashed one last trepidatious look at Edmund and Liam actually agreeing on something before reaching into her pocket for a few coins of her own.
+
+“Alright, Liam,” Edmund said as he put down his second empty skewer, “what do you want?”
+
+“Why do I have to want something?  Can’t I enjoy the displeasure of your company.  Those glowering expressions of yours are truly something special.”
+
+“And here I’d thought I’d finally gotten rid of you.”
+
+“No you didn’t.  It’s not my fault we haven’t had much opportunity to chat lately.  Do you have any idea how difficult it is to snark while underwater?  I do.  The answer is ‘very.’”
+
+Edmund groaned.
+
+Liam snapped his fingers.  “You know, now that you mention it, I do have something for you.  A warning, of sorts.”
+
+Amelia scowled.  “What kind of warning?”
+
+“I’m so glad you asked.  In about… a week or so, the Eternal Depths will be shutting down for maintenance.  All delvers, merchants, and gatherers within ejected and unable to return for a period of twenty-four hours while I touch up a few of the public floors.”
+
+Edmund froze.
+
+Amelia dropped her kebab.  “Twenty four hours?”
+
+“You can do that?”
+
+Liam smiled.  “It’s something I do every few decades or so.  You know, whenever things start to get stale.  You two will just have to make do on the surface for a day.  I’m sure you can manage it.”
+
+Edmund blinked.  “In Harrowed’s Hearth?  The guards will find us.”
+
+“Oh, it’s not the guards you need to worry about.”  Liam paused then looked to Amelia.  “Well, you need to worry about the guards.  He has bigger concerns.”  He turned back to Edmund.  “There are a handful of… entities, out there, that have taken an interest in you.  Down here, you enjoy my protection, but—”
+
+Edmund interrupted.  “Enjoy?”
+
+“Sorry.  Down here, you suffer through my protection.  Better?”  Liam chuckled.  “Since you’ve thus far refused to sign a pact, once you return to the surface, you’ll be… up for grabs, as it were.  I can smooth things over as best I can, but it may fall to you to convince an extradimensional being or four that you aren’t worth killing.”
+
+“I—what?”
+
+“Best of luck.”  Liam picked up another kebab, gesturing with it through the air as he spoke.  “The good news is, in my benevolence, I’ve given you time to prepare.  Better yet, I have a deal for you.”
+
+Two squares of translucent film appeared in his hand, each bearing a matching image of a dark hooded cloak.  Liam slid them across the counter towards Edmund and Amelia.  “These’ll only last the week, so you’d best make use of it.”
+
+Thin as it was in Amelia’s presence, Liam’s somehow thickened the smoke enough for it to offer a description.
+
+Delver’s Mark of the Shrouded Gauntlet (Temporary)
+
+Rewards loot of the Shrouded category based on the number of floors cleared while the mark is worn.  Prize to be granted at dissolution of mark.
+
+Time Remaining: 7 days.
+
+Amelia pulled a glass lens from her pack and peered through it, presumably finding the same information Edmund had.  She looked up at Liam.  “What’s the catch?”
+
+Liam looked to Edmund.
+
+Edmund sighed.  “The timer is the catch.  He wants us to rush, clear as many floors as possible as fast as possible, in the hopes we slip up.”
+
+Amelia shrugged.  “Sounds fine with me.”  Without hesitation she snatched one of the marks from the countertop and pressed it to the back of her left hand.  Within seconds the film dissolved to nothing, leaving only the image upon her skin.
+
+Liam grinned.  “I like her.  She’s way more fun.”
+
+Edmund grumbled and followed suit, similarly opting for the back of his hand, more for convenience’s sake than anything else.  With the guards already on his tail, a visible mark couldn’t possibly draw more negative attention, and he preferred to avoid stripping off his armor again just to hide the mark beneath it.  This way, he could more easily track how much time he had left.
+
+“Good.”  Liam clapped then rubbed his hands together.  “Now that that little piece of business is taken care of, I believe you have some shopping to do.”
+
+“Yeah, but I can’t…”  Edmund trailed off, his eyes sliding from Liam over to William.  “You wouldn’t happen to have…”
+
+The one-eyed man’s knuckles rapped against the countertop as he deposited a single item, a wooden carving, about an inch long, of a single-pole field tent.  It wasn’t the solid gold replica of a massive command tent Amelia kept, but cramped quarters of a foot soldier, ragged and uneven in its build, lending the implication that the slightest breeze might knock it over.
+
+“One military-grade portable camp, complete with a cot, washbasin, and enough dry rations to last a year.  Taking into account procurement costs, travel expenses, my own personal fee, less of course the discount for repeat customers, the total comes to…”  He paused and looked up with his good eye while his glass one remained level with Edmund.  Moments later, as if finished with some complex calculation, he spoke again.  “Three mithril.”
+
+Edmund flashed his best glare, making sure to share it evenly between William and Liam.  “You two planned this?”
+
+Liam placed a hand on the nape of his neck as if deeply offended.  “Me?  Planning?  How dare you!”  Edmund noted how Liam hadn’t actually answered the question.
+
+William snorted.  “I figured you’d have a hard time procuring supplies after the stunt you pulled.  Friend of mine told me you’d been asking after portable camps, then Liam here let slip your budget.”
+
+Edmund glanced down at the figurine.  “And how much would you’ve charged for this if Liam hadn’t given me three mithril a floor ago?”
+
+“For this?  Three mithril.  If you’d only had two and a half, I would’ve brought you something worse.”
+
+Amelia raised an eyebrow at the worn-looking tent.  “It gets worse?”
+
+“Oh, lass, it always gets worse.”
+
+Edmund didn’t like the sound of that.  He especially didn’t like the way Liam and William had clearly conspired to force him into this deal.  He leveled with Liam, trusting he, at least, couldn’t outright lie.  “Is this a trap?  Is this a bad deal?  To your knowledge, is there a reason I shouldn’t accept this?  I want a straight answer or I’m leaving.”
+
+Liam counted on his fingers as he rattled off answers.  “That’ll be no, not especially, and several.  You could purchase exactly this for half the price if you went to the right place.”
+
+Edmund blinked.  “And that right place would be…?”
+
+“Patchy’s Portals in Revarsted.”
+
+“In the capital?”
+
+Liam turned up his palms.  “Hey, you asked where the right place was.”
+
+Amelia raised an eyebrow.  “What about Harrowed’s Hearth?  If we’re going to be there next week anyway…”
+
+“Ooh, good idea!” Liam chimed.  “Shop for supplies in the same twenty-four hour window that every other delver is in Harrowed’s Hearth.”
+
+“With the guards after us?”  Edmund shook his head.  “No way.”  He turned to William.  “This is all you have on offer?”
+
+“Unless you want a few thousand kebabs.”
+
+Edmund mulled it over.  He would’ve preferred to spend the money on something with actual combat utility, but if didn’t take this deal, there was a real chance he’d never get to spend it at all.  While there certainly was quantifiable benefit to getting consistent rest, he more so had eyes for the storage and rations.  At long last, he could replace his rootmother’s sigil.
+
+“Alright.  Fine.  Better something I can actually use than three coins wearing a hole in my pocket.  I’ll take it.”  He handed over the precious mithril and snatched up the wooden tent.
+
+William collected his fee and offered a hand.  “Pleasure doing business with you.”
+
+Edmund shook it.  “Thanks.”
+
+He spun around and flipped the figurine onto the ground, from which sprung a ramshackle doorframe with a worn door that sat angled in its hinges.  Edmund pulled it open.
+
+The space within just barely accommodated a six-foot-long cot, a single chair, a washbasin, and barrel presumably stuffed with the aforementioned dry rations.  Edmund deposited his satchel on the chair, stepped outside, and promptly recollected the wooden carving.  The door vanished.
+
+William raised a bushy eyebrow.  “All good?”
+
+Edmund nodded, pointedly ignoring Amelia’s disappointed look.  She had different standards.  “It’s perfect.”
+
+“Great.  Can I interest you in a kebab for the road?”
+
+“No, thank you,” Amelia said, collecting her own portable camp from the bed of moss.  “We have a swim ahead of us.”
+
+Edmund nodded.  “Apparently we’ve got a date with some rusalka.”
+
+“A word of advice,” Liam said, “don’t date the rusalka.  They might look good, but they’re crazy.  Every last one of them.”
+
+Edmund blinked at him.
+
+Liam snapped his fingers.  “Right.  You’re crazy too.  Maybe you’d be perfect for each other.”
+
+Edmund ignored him.  “Well, it was good to see you, William.  I imagine it’ll be a while before we run into each other again.”
+
+“Oh, I wouldn’t count on it.”
+
+Edmund didn’t bother trying to unpack that one.  Instead, he turned to Amelia.  “Ready?”
+
+“Ready.  Nice to meet you, William!  Goodbye Liam.”
+
+“No, no, no.  Don’t say goodbye.  I’m right here.  I’ll always be here.”
+
+Amelia faltered.
+
+Edmund just left.
+
+She followed.  Only once they were both clear of the hollow did she speak again.  “The dungeon is closing for maintenance?”
+
+“I’ve given up on calling Liam on his bullshit.  It’s either some scheme, or a deal he’s struck with someone.  Maybe your father’s behind it, though I’m not sure what he could possibly offer Liam.  The steady stream of kingsguards coming down here is already exactly what Liam wants.”
+
+“Maybe it has to do with you?” Amelia offered.  “He mentioned an extradimensional being or four.  Seems like an oddly specific number.”
+
+Edmund shook his head.  “Don’t read into it.  That’s what he wants.  He can’t lie, so he misleads you with subtext.  You can only take the literal meaning of the words he says as truth.  Anything else is a game.”
+
+“If it’s a game that means it can be won.”
+
+“Not against him it can’t.  He’s been playing longer than any of us.”
+
+Amelia exhaled.  “Anyway, rusalka.  They’re simple enough.  Stab them if they swim at you.  Waterbreathing and mental resilience take care of the rest.”
+
+“Not if my challenger’s mark has anything to say about it,” Edmund said as he followed her to the shoreline.  “Expect surprises.”
+
+“Always.”  Amelia smirked.  “Right this way.”
+
+She downed a potion, tossed the vial off to the side to be reclaimed by the dungeon, and dove into the frigid waters.  Edmund donned his swelter ring to fight off the chill and promptly joined her.
+
+Amelia led him down along the lakebed, shoving the odd piece of seaweed aside as she swam.  The water grew dark as they descended, the eternal twilight of the forest above failing to pierce fog and water alike.  Even his lesser darkvision made little more than silhouettes out of his surroundings.
+
+It didn’t take long for the first rusalka to appear.
+
+She hovered in the water, somehow hauntingly lit despite the gloom around her.  Jet black hair drifted in the current.  A sheer white gown clung to her form.  She held out a hand, palm up and open in a welcoming gesture, a look of longing in her eyes.
+
+Edmund’s mark burned.
+
+The rusalka vanished.
+
+Edmund blinked.  He’d expected some sort of projectile.  It was always some sort of projectile.  Invisibility?  Teleportation?  Those weren’t so easy.
+
+“Edmund!”
+
+He spun to find Amelia entangled in a web of grass.  Cordlike stalks bound her arms and legs as she flailed for freedom, reaching desperately for the vine tightening around her throat.  She screamed and thrashed and looked to Edmund with wide and frightened eyes, lip quivering in an expression of sheer, unfathomable terror.
+
+Edmund almost laughed.
+
+Without its mind-altering effects at work, Edmund could practically count the ways the illusion fell flat.  It was too well lit for the dark environment, she’d somehow shouted his name while underwater, and he could still see Amelia’s silhouette in front of him.
+
+Worst of all, Edmund knew Amelia.  He’d seen her fight.  He’d seen her flee.  He’d seen her hanging a ring in the ceiling as shadowhounds devoured her party mates below.
+
+He’d never seen her terrified.
+
+They swam on.  The rusalka didn’t follow.
+
+It didn’t take long before the pair surfaced in a torchlit grotto, the splash and rush of air of their entrance nearly drowning out the faint chime that rang.  More interestingly, the temporary mark on his hand tingled.
+
+Side by side, Edmund and Amelia climbed the shallow incline onto the dull brown stone.
+
+As with the other hidden exits Edmund had found, the space contained little more than an open exit and a chest upon the ground.  Amelia gestured towards the latter.
+
+“All yours.  I’ve been here before.”
+
+Edmund nodded, realizing she’d probably had an even safer swim than he, given she’d technically already cleared the floor.  He moved for the chest, a strangely ratty-looking thing constructed of soft, rotting wood and rusty hinges, a poor appearance but for the golden trim that still shone in orange torchlight.  It left the distinct impression of something once grand lost to time and disrepair.  Edmund opened it.
+
+Within he found a basic jug, crafted of plain brown clay and lacking decoration beyond its simple handle.
+
+Everflowing Ewer
+
+Conjures potable water.
+
+“Oh nice,” Amelia said from over his shoulder.  “I have one of those.  It’s a lifesaver.  Really expensive too.”
+
+Edmund picked it up and inspected it.  “It’s also useless,” he grumbled.  “I could fill my basin here and it’d last for weeks, and until I replace my rootmother’s sigil, I don’t even need water.”
+
+Amelia shook her head.  “You can’t just fill your tub.  Plunder rules, remember?  Setting it down in your camp still counts as setting it down.  Dungeon will take back anything you try and store that way.  As for your sigil… I don’t think Liam would give you this if he wasn’t about to give you a chance for a new sigil.”
+
+Edmund groaned.  “You’re right.  It’s bait.  Between this and the portable camp, I want a new sigil especially much now.  So far today he’s incentivized me to rush, and to take risky fights for hope of a new sigil.”
+
+Amelia blinked at him.  “You know, you really are incredibly cynical.”
+
+“I’m careful.  That’s why I’m still alive.”  He stepped away from the chest and conjured the door to his camp, depositing the ewer safely within before recollecting the enchanted carving.
+
+Amelia’s eyes fell to the mark on his hand.  “Did it count this floor?  You technically cleared it after receiving the mark.”
+
+“It did.  I felt it.”
+
+She scowled.  “That’s not fair.  I got mine after clearing this floor.”
+
+“I just got something you entered the dungeon with as a piece of loot, and you’re talking about fairness?”
+
+“Good point.”  She stepped up to him.  “Guess I’d better get started on the next floor as soon as possible.”
+
+Edmund matched her motion, moving in until they stood nearly chest to chest, his head tilted down to meet her gaze.  “I guess you’d better.”
+
+She kissed him.
+
+He pulled her into the kiss, one last embrace, one frantic moment of affection before they inevitably separated and walked once more into the darkness.
+
+Edmund was the first to pull away.  “Be careful.”
+
+“You too.  Try not to die.”  She stepped back, moving towards the exit but not yet turning towards it.  She held up her left hand, calling attention to the ring on her finger.  “Stay in touch.”
+
+“I will.  I promise.”
+
+She smiled.  “Perfect.  I’ll see you upstairs.”  With that she spun, looked to the exit, and left Edmund alone.
+
+He let out a breath.  In her absence, the smoke billowed in, wafting from the torches on the walls and hanging thick in the air.  Edmund welcomed it.
+
+He too needed to move on, to get started on the level rush before time ran out, but not before he claimed his other prize.  Without bothering to sit or lean or otherwise move from where he stood, Edmund shut his eyes and envisioned his constellation.
+
+Edmund knew he wanted to combine Wrath with another of his tier fours, of which The Fissure and The Tactician came to mind.  The Fissure was slightly higher resonance, but it was already level three, and Edmund had found Magma Fissure, while powerful, to bit a bit too situational for his taste.
+
+The Tactician, in contrast, synergized well with his careful nature, while also offering an opportunity to level up The Philosopher.  The tier three had proven entirely useless thus far, but Liam had promised it became remarkably powerful once leveled up.  Loath as he was to invest in future strength at the cost of much needed immediate power, if he never leveled up The Philosopher, he’d be left with a dead Aspect forever.
+
+Driven by curiosity perhaps more than he’d have liked to admit, Edmund focused on Wrath and The Tactician, and formed his new Aspect.
+
+Tier 5 Aspect: The Guerrilla - Bronze Resonance
+
+Level 1 - Take reduced damage while executing a non-conventional pre-crafted battle plan.
+
+Edmund grimaced at the vague description, only for his disappointment to fade as he noted the Aspect’s resonance.  Wrath and The Tactician should’ve created something tin-plus  or lower.  His challenger’s mark plus some affinity for the Aspect must’ve raised its power.
+
+Even better, three Aspects changed descriptions.
+
+Tier 4 Aspect: The Tactician - Bronze+ Resonance
+
+Level 2 - Deal double damage when executing a pre-crafted battle plan.  Gain lesser mana regeneration while executing a pre-crafted battle plan.
+
+Lesser mana regeneration wouldn’t change his life, but Edmund certainly appreciated it.  He couldn’t have expected much more from a single level.  The other two differences were more noticeable.  The Philosopher, for the second time, changed entirely.
+
+Tier 3 Aspect: The Philosopher - Silver+ Resonance
+
+Level 3 - Glimpse the alternatives.
+
+Edmund, not actually being a philosopher, had no idea what that meant.  He did know, however, exactly what his other new description meant.
+
+Tier 1 Aspect: Madness - Prismatic Resonance
+
+Level 20 - They’re coming for you.
+
+That one, at least, made perfect sense.  Of course they were coming for him.
+
+The other affected Aspects, Wrath, War, The Recluse, Elements, and Solitude, all increased in level without any complex changes to their abilities, gaining power in whichever, unquantifiable way they tended to.
+
+Rather pleased with his latest upgrades—if not with his loot for the floor— Edmund closed his constellation and set his sights on the path ahead.
+
+Seven days, Liam had given him, seven days before he fell once more into the kingsguards’ hands.  It wasn’t long, but it was something.
+
+The ploy was obvious.  Liam wanted Edmund to rush, to take risky fights, to forgo training and practice for the sake of speed.  Worse yet, if Edmund didn’t hasten on, he’d be sent to the surface without the tools to stay hidden, exposed to soldiers who’d remove him from the Depths, remove him as a threat to the dungeon’s continued existence.
+
+Either way, Liam won.
+
+But not forever.
+
+With every floor he cleared, Edmund grew more powerful, his skills more refined, the smoke more pervasive.  Each time he stepped into the darkness, he inched closer to the day the Eternal Depths, the day Liam, would finally lose.
+
+So Edmund did just that.
+
+With a target in mind and a threat looming on the horizon, Edmund left the twenty-fifth floor hub behind, and stepped into the darkness.
+
+Hivemaster Edmund Montgomery Ahab, The Crimson Hand
+
+Aspects Unlocked: 26
+
+Tier 1 Aspect: Wrath - Red Resonance
+
+Level 5 - Provides access to the Brutalize active ability.
+
+Tier 1 Aspect: War - Gray+ Resonance
+
+Level 12 - Provides a lesser increase to all damage dealt.  Provides a lesser decrease to all damage taken.
+
+Tier 1 Aspect: Elements - Gray Resonance
+
+Level 10 - Provides access to the Firebolt spell.
+
+Tier 1 Aspect: Solitude - Red Resonance
+
+Level 12 - Provides a greater increase to constitution while fighting alone.  Provides a lesser increase to celerity while fighting alone.  Provides a lesser increase to perception while alone.
+
+Tier 1 Aspect: Perseverance - Gray Resonance
+
+Level 12 - Gain health regeneration.  Gain greater health regeneration outside of combat.
+
+Tier 1 Aspect: Madness - Prismatic Resonance
+
+Level 20 - They’re coming for you.
+
+Tier 2 Aspect: Vengeance (Madness and Wrath)  - Silver+ Resonance
+
+Level 1 - Reveals all enemies that have damaged you in the past two minutes.  Provides a lesser increase to all damage dealt to such enemies.
+
+Tier 2 Aspect: Fervor (Madness and War) - Gold+ Resonance
+
+Level 1 - Empowers the effects of Madness and War for each consecutive second spent in battle.
+
+Tier 2 Aspect: Sorcery (Madness and Elements) - Gold Resonance
+
+Level 2 - Provides access to the Smoke Lash spell.
+
+Tier 2 Aspect: Obsession (Madness and Perseverance) - Gold Resonance
+
+Level 4 - Gain strength and agility for each consecutive day spent pursuing your obsession.  Gain mana for each consecutive month spent pursuing your obsession.
+
+Tier 2 Aspect: The Recluse (Madness and Solitude) - Gold Resonance
+
+Level 5 - Empower the effects of Madness while alone.  Lessen the effects of Madness while accompanied.
+
+Tier 2 Aspect: The Island (Solitude and Perseverance) - Gray Resonance
+
+Level 7 - Grants greater resistance to over-time effects while in groups of two or fewer.
+
+Tier 3 Aspect: Focus (Elements and Obsession) - Silver Resonance
+
+Level 2 - Doubles spell damage when attacking a single target.
+
+Tier 3 Aspect: The Challenger (War and The Recluse) - Silver+ Resonance
+
+Level 1 - Provides access to the Challenge active ability.
+
+Tier 3 Aspect: Artillery (War and Sorcery) - Silver+ Resonance
+
+Level 1 - Provides access to the Firestorm spell.
+
+Tier 3 Aspect: The Warmonger (War and Obsession) - Silver+ Resonance
+
+Level 1 - Provides a greater increase to all damage dealt and a greater decrease to all damage taken while engaged in combat you initiated.
+
+Tier 3 Aspect: The Philosopher (Elements and The Recluse) - Silver+ Resonance
+
+Level 3 - Glimpse the alternatives.
+
+Tier 3 Aspect: The Rift (Madness and The Island) - Gold Resonance
+
+Level 6 - Provides access to the Savage Rend active ability.
+
+Tier 4 Aspect: The Tactician (War and The Philosopher) - Bronze+ Resonance
+
+Level 2 - Deal double damage when executing a pre-crafted battle plan.
+
+Tier 4 Aspect: The Target (War and Focus) - Bronze+ Resonance
+
+Level 1 - Allows the marking of a single enemy as the target.  The target takes increased damage from all sources.
+
+Tier 4 Aspect: The Fissure (Elements and The Rift) - Silver Resonance
+
+Level 3 - Provides access to the Magma Fissure spell.
+
+Tier 4 Aspect: Rebellion (War and The Rift) - Gold+ Resonance
+
+Level 2 - Grants resistance to mind controlling effects.  Deal bonus damage to enemies above your level.
+
+Tier 5 Aspect: The Guerrilla (Wrath and The Tactician) - Bronze Resonance
+
+Level 1 - Take reduced damage while executing a non-conventional pre-crafted battle plan.
+
+Tier 5 Aspect: The Breach (War and The Fissure) - Bronze+ Resonance
+
+Level 1 - Provides access to the Break Through active ability.
+
+Tier 5 Aspect: The Insurgent (Wrath and Rebellion) - Silver+ Resonance
+
+Level 1 - Provides access to the Collateral Damage active ability.
+
+Tier 6 Aspect: The Reckless (Wrath and The Breach) - Tin+ Resonance
+
+Level 1 - Provides access to the Reckless Charge active ability.
+
+Delver’s Mark of the Challenger
+
+Empowers nearby dungeon monsters.  Significantly increases the value of loot chests you open.  Slightly increases the resonance of Aspects you unlock.
+
+The Crimson Hand
+
+Grants minor resistance to piercing damage.  Bestows ownership of the Dread Gauntlet of Kor’Ilinesh.
+
+Hivemaster
+
+Grants lesser tremor sense.  Bestows the right to challenge other hivemasters for control of their hives.
+
+Trailblazer’s Sigil of the Azure Adept
+
+The fifth step on the Path of the Azure Fox.  Increases agility.  Grants two windsteps.  Grants ten feathersteps.  Increases positional awareness.
+
+Trailblazer bonus: Sharpens hearing.
+
+Trailblazer’s Sigil of the Rootmother
+
+Non-intelligent Strethian lifeforms will treat you as an ally.  Gain the ability to draw water and nutrients from fertile soil.
+
+Trailblazer bonus: draw water and nutrients from all soil.
+
+Sigil of the Slumbering Deep
+
+Gain greater health regeneration.  Gain immense health regeneration while sleeping.  Gain water breathing.  Gain lesser dark vision.  Gain lesser subaquatic sonar.

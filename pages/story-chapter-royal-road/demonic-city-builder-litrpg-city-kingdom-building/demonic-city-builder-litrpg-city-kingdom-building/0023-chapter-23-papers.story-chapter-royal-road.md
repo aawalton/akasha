@@ -1,0 +1,117 @@
+---
+id: 579a0310-adee-5785-8531-f2bc714e857f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23 - Papers"
+slug: 0023-chapter-23-papers
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 23
+ownLength: 1694
+unit: words
+publishedAt: 2026-05-30
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3470571/chapter-23-papers"
+royalRoadId: "3470571"
+---
+
+“So if I’m hearing you correctly, commander, you not only lost a quarter of my garrison but failed to even get past the front gate?” demanded Lord Hallen. The damp cobbled walls didn’t keep the morning chill out, but they did wonders to carry an irate lord’s tone.
+
+“Yes, my lord. That would be correct. There is more to why that happened.”
+
+The commander waited, hands clasped behind his back. His eyes remained forward, set on the top of the modest throne where Hallen resided. A cold, frustrated rage sat in the soldier. One that only Aldous noticed. The servant stood behind Hallen’s chair, scrutinizing that anger.
+
+“One would hope so. With losses like these, you’d think that you’d at least have gotten the damn wall down. Isn’t that what you brutes are good at?” asked Hallen.
+
+The nearby guards by the entry hall fidgeted at that comment. They respected their brethren, and their commander more so. Hearing such words from their lord did not go unnoticed.
+
+Still, they were silent. Spears held, eyes level, posture straight.
+
+Ashlan glanced at the guards. Alric and Bren. Two men that could have been on the expedition to the demonic tower. Two men that could have been part of the thirty nine charcoal marks missing from his leather-bound charting book. The thought made the grizzled man squeeze his hands like they were wringing a towel.
+
+Gritting his teeth, the soldier forced his body to remain calm. “The letters for the deceased are already prepared for their families. I’ve sealed them and written each myself. They’ve been left with your stewards for your review.”
+
+Lord Hallen waved dismissively. “I don’t care about the dead. They’re gone. I really don’t know why you yourself bothered with those notes. Aldous could have seen to them. What I want is to understand how this entire mess is even possible? My god, man. I gave you thorough intelligence from our patrol, eighty fighting men, armor, weapons, supplies, everything you asked for. I even included all the siege pitch I could find. Do you have any idea what that cost to get?”
+
+The big soldier’s eye twitched. This time, the guards by the door shifted uncomfortably.
+
+Ashlan bit down hard, stopping the military general in him from breaking out. Calm. Keep calm.
+
+Hallen, either blissfully unaware or not caring, continued on. “Answer this. How am I meant to explain what happened to the Solari? To the other lords who surely noticed the pyres of smoke visible for leagues away? We could smell the stink from here, you know. From all reports you must have set off the entire load of pitch in one go.” He snorted. “What do I say to the other lords? That my commander made a bonfire fit for The Spines themselves and threw half his men in for good measure?”
+
+Commander Ashlan’s eyes darkened. “Those men fought and died for you.” He said the words slowly, carefully. He could feel his mask slipping, but just couldn’t help letting a bit loose.
+
+“And to be frank, we wouldn’t have lost so many men if the reports Captain Breck provided had any semblance of accuracy. Seven demons?” Ashlan spat, his voice rising. “Seven, he claimed. There was a god damned army! A fucking army! And not of men, but nightmarish beasts. Not in all my years of service to you nor Valdren have I seen anything like it. Was there any mention of that in the intelligence?” The burly commander's arms hadn’t moved, but his eyes blazed.
+
+Aldous stepped forward. “Ashlan! You forget yourself!”
+
+“Oh off with it Aldous. I shouldn’t have accepted this last minute crusade you put together. I don’t know how you let this child do this. I expected this much from Hallen. But you? Not you, Aldous. Not you.”
+
+Lord Hallen’s face had been getting redder and redder. Ashlan could sense the storm brewing in the boy, but pushed on anyway. His restraint was gone. The commander inside was in control.
+
+“And what’s more? That army? They were led by a tough son of a bitch bigger than five of our best together. I’d stake my life that he weighed more than an ox cart. He waded through our lines like it was nothing. Lost half a squad to that alone. And if that isn’t enough to show just how worthless that intelligence was, Captain Breck also managed to leave out the entire fucking wall which breathes flame like some kind of wyvern. I fear the good captain must have visited a different tower entirely!”
+
+That last sentence echoed in the small throne room, loud enough that the stewards in the outer halls could likely hear. Both the guards had given up on duty, staring open-mouthed at their commander.
+
+Shoulders tight and fists clenched, Ashlan paused, taking a deep, measured breath. He straightened his vambraces and adjusted his ruffled collar.
+
+“So when you ask me what you should tell the other lords, boy, I’d explain to them how we’ve got a nest of unholy demons growing in our backyard. And you might bother to mention we’ve just pissed them off. I think the question you need to be asking yourself is what the hell you are going to do about that.”
+
+Turning on heel, the big man stormed from the throne room. He passed the guards without a word. Neither raised a hand to try and stop him. Instead, their focus was set on their lord.
+
+Hallen was seething. Ashlan turning around and outright leaving before even letting his lord address him was too much for him to take. Shivering with unbridled fury, he was about to stand and tell the incompetent man just that when he felt a firm hand push down on his shoulder. It squeezed.
+
+“My lord. Sit still and do not move. I know you are thinking about dressing the commander down, perhaps removing him from his post. But I must implore you to consider the consequences of that. The garrison is as loyal to Ashlan as they are to you. This house may answer to your crown, but the garrison follows the sword. And the men are listening.” The servant discreetly bobbed his head in the direction of the house guards.
+
+“The garrison would do well to remember who pays their wages and owns the very land they live on,” he hissed.
+
+“My lord…”
+
+“I know. I get it! I get it! Let go!” he commanded, shaking free of Aldous’s hand and glaring after the disappearing commander. “You two. Stop looking at me like that. Get out! Leave and find somewhere to be.”
+
+Without a word, two armored forms gave slight bows and retreated from the throne room.
+
+Once they were out of sight, he let out a furious growl. “The sheer gall of that man! My father kept far too lax a hand on him. And look what it’s done? It's gone right through the man’s head. Did you see him, Aldous? He didn’t even wait for me to dismiss him. Just shouted at me like some boy in need of scolding.”
+
+The servant said nothing. He’d learned at times like this, it was best to let the young lord get it out of his system. And despite his temper, the boy wasn’t as stupid as Ashlan and many thought. If anything, the intelligence and deviousness that hid underneath was the boy’s true fault.
+
+Hallen pressed his palm to his head and groaned. “What am I to tell the paladins? They’ll be here in a week if that messenger’s to be believed. I don’t know how much support that crazed man Demetri sent from the south, but if he arrives with an army at his back… Wait.”
+
+A thought hit. As the anger ebbed and his mind turned over what Ashlan said rather than how he’d said it, his eyes snapped open.
+
+“Aldous… fetch all the maps we have of Greensward!”
+
+“My lord?”
+
+“And fetch me… what was Ashlan’s second’s name?"
+
+“Elson, my lord. Elson Bredford.”
+
+“Good. Get me Bredford. Tell him it's for an evening meal to discuss his recent mission. I want to hear everything. And don’t let that fool get wind of it. He’s already made enough of a mess for me to clean up.”
+
+Edward glared down somberly at the parchment in his hands. Summer wind pulled from the west, grasping and tugging on the slip. Almost like it was encouraging him to just let go.
+
+“You’re sure, son?”
+
+“I am. Commander, I haven’t even been able to sleep since… since that place. My dreams.. They’re..”
+
+He cut himself off, aware that the barracks training yard was in use. Around him, guards lounged, ate, and drank. No drills were going on, they seldom did now, so it was more cheer than duty.
+
+“I know, son. I know. A word of advice from an old bear? Take that paper and think on it. At least for the next day or two. You never know what-”
+
+His words stumbled to a halt as the ground started shaking. Both men looked up, glancing around wildly. Edward with resigned fear and Commander Ashlan with a calculated calm.
+
+Weapon racks shuddered, field tables shook, and cooking fires sputtered.
+
+“Commander!”
+
+“What’s going on?!”
+
+Screams, shouts, and questions filled the morning. Around the barracks other townsfolk were reacting much the same.
+
+The old church copper bell rang unbidden, the earth shaking enough to make even its massive frame shudder.
+
+A feeling of dread blanketed the clearing. There was a sense of wrongness. Corporal Edward glanced up instinctively towards the direction of The Spines, mountains that once looked so beautiful but now seemed so terrifying. He saw it.
+
+A beam of purple far, far in the distance. From here it was but a tiny speck reaching for the sky, climbing upwards between two of the snow frosted peaks. But it was there. And as it rose so too did an unnatural violet hue tainting the horizon.
+
+Just for a moment, he thought he could smell sulfur and iron.
+
+Corporal Edward slammed his discharge papers down on the field desk. “I thought about it. I’m done.”

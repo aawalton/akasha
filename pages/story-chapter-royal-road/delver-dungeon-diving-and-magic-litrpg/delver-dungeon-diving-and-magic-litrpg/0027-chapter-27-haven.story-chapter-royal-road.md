@@ -1,0 +1,127 @@
+---
+id: 64721224-dc90-50dc-8c7c-883b880aba84
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27: Haven"
+slug: 0027-chapter-27-haven
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 27
+ownLength: 1693
+unit: words
+publishedAt: 2026-06-14
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3539370/chapter-27-haven"
+royalRoadId: "3539370"
+---
+
+Mei, the youngest Arch-reaper in history. Her power was said to be such that necromancers trembled at her very name. Mei’s story started out in tragedy, her village destroyed by Necromancer Baal, and subsequently taken in for unholy experiments. The Order Of Angel Yoko rescued her during the raids of Mertok in 783, and took her in as one of their own. She spent years hunting down Necromancer Baal, and finally succeeded in the Battle Of Dawn where she fought through a horde the size of a city to claim his head and destroy his heart.
+
+A birdcall echoes through the forest, before going silent.
+
+I hold my hand up, and Keve stills. Hide Presence activates, while Keve lowers himself into the snow, practically becoming invisible.
+
+I watch the path ahead, waiting for several minutes, before I see it. The creature walks through the forest at a slow pace, light seemingly absorbing into its dark skin as it languidly crosses the path. I send a thank you to the angels that we’re downwind of the large panther-like creature.
+
+It disappears into the forest, and I wait for a minute before motioning us forward. The danger of walking off the main road is that the trees are closer together, hiding dangers from both my sight, and Shar’s above. If I didn’t have my Basic Map skill marking the path in relation to the main one, I would be worried about losing our way from the amount of times we’ve had to detour.
+
+Thankfully, we’re close to our resting point tonight.
+
+I step through the snow, my boot sinking several inches before I take another step. The snowfall wasn’t stopping, and within the hour, any signs of our passage would disappear under the coming blizzard.
+
+And it was going to be a blizzard. I could see the clouds on the horizon, what little sunlight we had disappearing despite it being midday.
+
+That’s why I’d pushed us farther than normal, heading towards one of the few safehavens along the path.
+
+Snow falls heavier, blocking my sight as we trudge through the cold. Shar flies down, landing on my pack and keeping her head on a swivel.
+
+Through the growing flurry, I spot the light of a lantern, hanging in the darkness. I motion towards Keve, then tap Jasper’s side, and we hurry our pace. Soon enough, the place becomes visible.
+
+Concentric rings of stone surround a small cabin, smoke coming from its window and moving towards the sky. As soon as we pass the first ring of stones, the wind stops, and the snow turns into soft flakes, gently falling.
+
+I duck under an archway and pass into the second ring of stone. The cold leaves, a soft warmth filling the place as snow-turned-water gently falls onto a garden of carefully curated plants and a row of fruit trees leading to a cracked marble statue of Sehara.
+
+The doorway to the cabin is open, a fireplace lit beyond it.
+
+Keve follows me into the warm ring of stones, and looks around at the surroundings in surprise.
+
+“A haven.” Shar says quietly.
+
+I nod, then walk over towards the statue of Sehara. I kneel in front of it, my pants soaking from the wet ground as I bow my head. I reach into a side pocket of my backpack, and pull out a small piece of jewelry I’d found in the last delve.
+
+I set it at Sehara’s feet.
+
+I stand and motion for Keve to follow me. When he’s closer, I speak to him “Be kind to this place, it can and will kick you out.”
+
+”A spirit lives here?” Shar asks, padding around in her cat form.
+
+“Your guess is as good as mine,” I say as we walk into the warm cabin, a small bed made in the corner with the sheets made, and the fire burning merrily with logs. “But monsters never go past the rings of stone, and I’ve seen men kicked out of here faster than lightning if they do something to anger the place.”
+
+Keve makes a symbol with his hand, and makes a gesture from his head to his chest while saying something in his language. I don’t know the words, but I’ve been around the Vishten warrior long enough to recognize a gratitude prayer of some kind.
+
+I make my way towards a small door in the back, “I’m going to change. We’ll stay here until the storm passes, then turn north.” I open the door and turn to my two companions, “Hopefully it’ll pass quickly.”
+
+Keve nods, and I step into a small bathhouse attached to the side. While a hot bath sounds amazing, I want to change quickly and plan ahead while we have free time. The storm should hopefully push anyone off of our trail.
+
+***
+
+That evening, as Keve does his morning exercises in the raining garden, I continue my lessons with Shar on the bed inside the cabin..
+
+Once more, we make our way through the children’s book, and I prove that I’ve memorized every symbol inside.
+
+The cat watches me as I finish, and stares at me for a long time. “You are dangerous.”
+
+I blink, “I’m sorry?”
+
+Shar huffs, then pads around in a circle before sitting back on her haunches, “That trick you pulled against the warlock. How’d you do it?”
+
+I think back to the fight, where I’d pulled the sword of the Builder and used the wand. ”The wand did most of the work.”
+
+”No. It did not. I’ve seen mages use wands, it does not allow them to perfectly create symbols in a second. It can only amplify magic, nothing else.”
+
+I frown, trying to remember what I’d done in the heat of the moment. “I’m not following. I created symbols when I used my class spell just as fast.”
+
+Shar is silent for a long moment, “What the system does, it is hard. Instantly crafting symbols in seconds that would take master mages ten times as long. The system did not assist you in your life-stillness construct, did it?”
+
+I shake my head. “No, I don’t think so. What do you mean by construct?”
+
+“You didn’t cast a spell. A spell is multiple carefully designed symbols inside a dimensional shape.” Shar stands, and paces back and forth on the bed. “You created a construct; a magical work with unknowable effects. It was dangerous, and foolish. Still, to perfectly craft two symbols in the span of a second on your first try. That is…” The cat-golem’s eyes flicker to me before looking away, “Not easy.”
+
+I look at the golem, trying to read her. The way she’d phrased that made me think that there is a lot more to it than she is letting on. But I have the feeling that if I pushed too much, she wouldn’t answer.
+
+“You said it was dangerous. What should I have done then?”
+
+“Find a book called Ik’thar, Lav’sun.”
+
+I actually recognize that language, even if I don’t know it well. Some mercenaries from the mountains had spoken it on a delve with my mentor. I call upon the private library, and reach into the small portal that forms to pull out a thick leather tome.
+
+Shar nods at the book, a toothy smile forming on her face. “You have the symbols memorized. Now it’s time to learn how to put them into spells. We will start with a simple spell, one meant to spin a leaf in the air.”
+
+***
+
+I look out at the gray sky from behind the outermost circle of stones. Snow still falls from the sky in a thick sheet, and it piles up on the ground a foot high, if not more.
+
+I’m anxious to get a move on, but I’ve learned my lesson on the power of nature. It won’t stop for me, and so we must wait for it. The blizzard will pass.
+
+Something large moves through the snow, towering over the trees, but it avoids the haven, continuing on whatever path calls to it.
+
+Keve steps up beside me.
+
+We stare out in silence for many minutes, the only sounds coming from the rustling of leaves, and our breath.
+
+I look over to the Vishten, noticing the tattoos that light up with fire when he uses his internal magic.
+
+Keve turns, meeting my eyes, “What is heavy on your mind?”
+
+I sigh as I look back out at the storm. “I’m worrying about the frontier city. When I was a child, we were forced to abandon it three times, leaving it to whatever calamity had chosen to travel through our town. A necromancer, well that could be enough to force them to leave again.” I snort and give a forced smile, it fades as I speak, “This storm is just a reminder of how powerless we are against the forces of this world. Our greatest warriors, our most powerful mages, they are nothing in the face of true horror.”
+
+Keve stays silent.
+
+I look over to see Keve looking out at the blizzard, a sad and tired look in his eyes. “Yes. That was a lesson I learned too. I respect you Delver for it.”
+
+I look at him in surprise, ”What do you mean?”
+
+He looks down, and chooses his words with deliberate care, his accent shining through.”You face those terrors with strong legs and steady hands. I have not seen you fall. It is something that calls respect. I find my legs strong, and my hands steady, because how could I not, when I stand next to you?” Keve pauses, then tilts his head towards me, “Do you understand?”
+
+I smile, this time for real. “I think I do. Thank you.” I turn back to the storm, “We will weather this storm too. And when it is over, we will be ready for whatever is next.”
+
+“The storm cannot take us.” Keve laughs, a surprising outburst from the reserved warrior. “For how could it?” He turns around and makes his way towards the cabin.
+
+I look out for another minute, then turn to follow him back into the cabin.

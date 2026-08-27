@@ -1,0 +1,703 @@
+---
+id: 4d4decc0-b60c-5374-b027-6ef472742d5a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20: Clear the Air"
+slug: 0024-chapter-20-clear-the-air
+partOf: dungeon-devotee
+position: 24
+ownLength: 8024
+unit: words
+ownProgress: 8024
+publishedAt: 2023-05-01
+link: "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1199148/chapter-20-clear-the-air"
+royalRoadId: "1199148"
+markedReadAt: "2026-06-29T22:39:51.957Z"
+---
+
+Edmund emerged to false sunshine and a warm breeze and the rhythmic crash of lapping waves.  His boots sank into loose sand.  His eyes glimpsed a dark cliff to his right, a calm sea to his left, and a golden haired girl with fierce green eyes in front of him.
+
+“Edmund!” Amelia Morathian, crown princess to the kingdom of Linaria, greeted him with surprise and joy on her face.  Before Edmund got a chance to appraise her growth since last they’d parted, before he could check her for injuries or get any more sense of the floor on which they found themselves, she pulled up his helmet, and a dangerous and disturbing distraction occurred.
+
+Their lips met.
+
+Shock gave way first to acceptance then to enjoyment as Edmund leaned into the kiss, his soul breathing in the brief respite from the dungeon’s endless hostility and exhaling it back out in warmth and desire.  He placed a hand upon the small of her back and brought her in, their bodies pressing together as they shared this moment of precious reunion.
+
+The kiss dragged on for an eternity yet ended far before its time as the two delvers separated to gaze into each other’s eyes once more and fully gauge their state of being.
+
+Amelia smirked.  “Good start to a floor, huh?”
+
+“I’ve had worse.”
+
+She stepped just far enough out of their embrace for them to get a good look at each other.
+
+She looked good.  The bald spot where some trap or monster had torn her hair out had grown over, and while her face bore a new scar along her lower lip, the wound had long since healed into little more than a pale line.  Gone was the harrowed and haunted look he’d seen on her face in the past, replaced with one of cool confidence and graceful lethality.
+
+Edmund counted two pieces of unfamiliar loot upon her person, an iron ring around her right middle finger and a wicked-looking black dagger on her left hip.  He supposed, given her rank, he shouldn’t have been surprised it took her almost twenty floors to find a piece of loot better than the gear she’d come in with, but Edmund doubted he’d ever fully grasp the scope of her wealth.
+
+As he felt her gaze travel up and down his form in turn, Edmund breathed a silent thanks for the icy eighteenth floor.  He hadn’t exactly scrubbed, but his swim in the frozen lake was at least bath-adjacent, right?
+
+Except rather than his probably-unpleasant scent or unwashed, tangled hair or otherwise remarkably disheveled state, Amelia’s attention fell upon something Edmund himself hadn’t even realized.
+
+“Your eyes are red.  Are you okay?”
+
+Edmund rubbed at them.  “Yeah, it’s just the smoke.  It dries them out.”
+
+Amelia’s brow furrowed.  “What smoke?”
+
+Edmund pulled his hand away from his eyes and blinked them back into focus.  He inhaled, breathing deep the warm and humid and salty air like a balm to his ragged throat.  He exhaled, eyes returning to meet the princess’s gaze.  “Last floor I had to climb a burning tree.”
+
+“Ooh.”  Amelia winced.  “That doesn’t sound fun.”
+
+“Actually, it wasn’t so bad.”
+
+Edmund couldn’t believe it.  The smoke was gone.  The smoke was gone!  Even with the Durne brothers, Thrax, even with the entire fucking tavern of people, there’d always been faint trails of smoke in the air.  The last time he’d breathed this freely had been… come to think of it, it'd been the night he’d spent in Amelia’s tent.
+
+He kept the scowl from his face as he mulled over the realization.  He knew The Recluse lessened his Madness’s effects whenever other people were around, but he’d never considered that different people might cause different outcomes.  All it took was one dangerously motivated princess and Edmund found himself breathing his first lungful of fresh air in months.
+
+It felt amazing.  It felt relaxing.  It felt humanizing.
+
+It felt weak.  It felt wrong.  It felt vulnerable.
+
+Amelia clapped her hands together and brought his attention back to his immediate surroundings.  “Okay, first things first.  I’ve been here an hour so far, and the floor seems to be a straight shot along the beach to the exit.”
+
+Edmund raised a hand to his forehead to shield his eyes from the false sunlight as he followed her gesture.  The sandy beach stretched along for some distance before the cliff on the right curved to abruptly cut it off.  Right at the shore’s end, an open door awaited, beckoning them onward to the next floor, if only they could reach it.  No diverging paths made themselves apparent, the cliff face sheer enough Edmund got the impression Liam didn’t want them climbing it, and the ocean was, well, the ocean.
+
+The Eternal Depths, of course, didn’t contain an entire underground ocean just for one level.  By Edmund’s best guess, the water stretched out for roughly a mile before reaching a sky-colored back wall that did a damn good impression of a clear horizon.  Some hidden mechanism formed the waves and the wind, but Edmund had long grown accustomed to such environmental effects.
+
+The beach’s only visibly artificial feature was a netted hammock that hung from two carved posts near the exit.  More so than any monster, the hammock practically screamed danger in Edmund’s ear.
+
+“I count three potential avenues of attack,” Amelia rattled off.  “The water’s the most obvious, but monsters could just as easily descend over the cliffs or bury themselves in the sand.”
+
+Edmund hadn’t gotten that far, his mind still struggling with the very concept of the level before him.  “It’s a walk along the beach.”
+
+“Yes, that’s… certainly what it looks like.”
+
+He cursed.  “He’s up to something.  He’s gotta be up to something.  First you and now—” he gestured wildly at the floor as a whole— “it’s too nice.”
+
+Amelia cocked an eyebrow at him.  “Oh, is this the part where you tell me who Liam is?”
+
+Shit.  Edmund froze, thoughts racing as he realized he’d called Liam’s name in the process of rescuing Amelia from her father’s men back on the fifteenth floor.
+
+“Liam is…”  He sighed.  “Liam was one of the delvers in my group when I first started out.  We met in the walk-in line.  His ma had the gray lung, and he came to the Depths in a last-ditch bid to afford medicine for her.  He was under-leveled, untrained, and unprepared, yet knowing full well what he was getting himself into, he came anyway.  Any hope’s better than none, I guess.  Even starving and desperate risking his life, he cracked jokes all the way up to the entrance.  Thrax, he died with a fucking smile on his face.”
+
+Edmund hadn’t been prepared to share so much, nor for the moisture beading in his eyes, yet still he talked.  “Not long after his death, Liam came back.  He talked and joked and followed me around as if nothing had even happened.  At first I thought I was hallucinating, but he knew things that I didn’t, things about the dungeon.”
+
+Amelia’s eyes shot open.  “Sandy hair, freckles, and eyes that look like he’s teasing you?”
+
+“You’ve seen him.”  It wasn’t a question.
+
+“Once,” she confirmed, pulling up her left sleeve to reveal a familiar image tattooed on her inner wrist.  “He gave me this.”
+
+“But he still looked like Liam; he didn’t appear as one of your dead party members or your mother or anything.”  Edmund scowled.  “I guess he really does like the mischievous glint in his eyes.”
+
+“Or changing forms is harder than he lets on.”
+
+Edmund blinked.  “Good point.  Actually, if you’ve already seen him, I wonder if…”  He trailed off, tilted his head to the fake sky, and bellowed, “Hey, Liam!”
+
+There was no response.
+
+Amelia cocked an eyebrow at him.  “Does that usually work?”
+
+He shrugged.  “When I’m alone.”
+
+She let out a breath, her face growing pale as Edmund’s words sank in.  “The dungeon comes when you call him?  How often does he show up?  What does he tell you?  What do you tell him?”
+
+“As little as I can, and I get the impression he’s not satisfied with that.”
+
+Amelia scowled.  “What are you—”
+
+“Look at where we are.  Look at where you and I arrived, alone, within an hour of each other.  For Thrax’s sake he’s given us a fucking hammock.”
+
+“So what?  He wants us to distract each other until we slip up and fall into some trap?”
+
+“No, no, he’s not that stupid.  He knows I’m not gonna fuck up and die like that.  He either knows I talk to you and wants information, or he thinks if I fall in love with you I’ll change my mind about him.”
+
+Amelia exhaled sharply, visibly taken aback.  “This isn’t necessarily about you.”
+
+Edmund shook his head.  “It isn’t about you, either.  It’s about Liam.  It’s always about Liam.  He’s been pushing us together since we met, maybe even before that.  Maybe because he knew I’d keep you away from the guards and in the dungeon, but there’s always more to it.  He says he follows me around because I’m entertaining, but I think it’s also because—”
+
+“You want to kill him.”
+
+“Among… other reasons.”  Edmund nodded.  “It’s possible he’s just setting us up for fun.  It’s possible he thinks if we’re a couple, once one of us dies it’ll be easier to kill the other.  It’s possible he’s trying to give me something to live for so I leave him alone.  Knowing Liam, it could be all three, plus eight other reasons I haven’t even thought of.”
+
+“Maybe we should give him what he wants.”
+
+Edmund rounded on her.  “Are you kidding me?  He’s a mass murderer that’s actively manipulating us so he can have an easier time killing us both.  The last thing we should do is give him what he wants.”
+
+“Well, let’s see.”  Amelia counted on her fingers as she spoke.  “We’re both too smart to let this distract us from staying alive, so that’s out.  I don’t know about you, but I have no intention of dying down here, so my death compromising your emotional state also isn’t a problem.  That leaves changing your mind and entertaining the dungeon as potential motives, right?”
+
+At Edmund’s nod, she continued.  “I don’t particularly care what the Eternal Depths does or does not find entertaining.”  She stepped in close, the warmth of her breath washing against his face as she trailed a finger over his chest armor.  “And maybe having something to live for wouldn’t be the worst possible outcome.”
+
+He froze.  “I-I’m sorry.  I didn’t mean to imply you—”
+
+She smiled up at him.  “I’m just saying, if the dungeon wants to give us more long walks on the beach and fewer…”  She glanced at his still-red eyes.  “…Burning trees, maybe we should let him.”
+
+“I don’t trust it.”
+
+“You don’t trust anything.  I know, because I don’t trust anything, and I learned it from you.  You can be suspicious and still enjoy a walk on the beach.  Here, I’ll prove it to you.”  She pulled away and redirected her focus down the narrow shoreline, repeating her earlier analysis.  “Three potential avenues of attack, out of the water, over the cliffs, under the sand.  Unless you see something I don’t, ambush rules eliminate the sand as an option.  You watch the water, I’ll watch the cliffs?”
+
+“I’ll take the cliffs.  Leaves you more room to maneuver and me more opportunity to check for traps and passages.”
+
+Amelia smirked at him.  “What makes you think you’re better at finding traps and passages than I am?”
+
+Edmund opened his mouth to reply before realization of what a reply would entail sunk in.  He wasn’t sure he was ready to explain his Madness to Amelia, especially when The Recluse made it useless around her anyway.  “Alright,” he said instead.  “I’ll watch the water.”
+
+They set off together, taking slow, shuffling steps through the sand to avoid stepping on anything that may’ve been hidden within.  Edmund’s eyes flitted back and forth across the water, scanning for any sign of bubbles or ripples or disturbances in the sapphire waves.  Every few steps he glanced right at Amelia, confirming she continued on at the same pace he did before returning his vigilance to the false ocean and the shoreline ahead.
+
+The crabs came all at once.
+
+Five pale-shelled forms erupted from beneath the waves just a few yards from the shore, far enough to give Edmund time to react, yet close enough to leave him wondering how he hadn’t seen them.  He opened his mouth to call Amelia’s attention to the threat, but the princess’s voice outpaced his own.
+
+“From above!”
+
+Edmund’s gaze darted up over Amelia’s head to spot four more of the giant crabs that’d come over the top of the cliff and now descended down its face.  Before Edmund could even find a moment to decide between drawing his sword and his spear, the sand ten yards ahead and ten yards behind them exploded into the air, as eight more of the monsters burst from below.
+
+They were surrounded.
+
+Each crab stood some four feet tall and seven wide, with hard, flat shells on top and hopefully-weak underbellies below.  Their legs speared through the sand, providing both unparalleled traction in the loose terrain and deadly weapons if needed.  Edmund got the impression they weren’t.
+
+From each sprouted two massive, meaty claws, each no smaller than Edmund’s entire torso and doubtlessly strong enough to snap him like a twig.  Evading those would be step one.
+
+“When I listed off the potential avenues of attack, I wasn’t expecting all three at once!” Amelia shouted as she drew her daggers, spinning the more mundane-looking one in her palm.
+
+“That’s Liam for you,” Edmund replied, willing the pieces of his hyper-magnetic spear to levitate from his body and assemble in his hand.  “Any ideas?”
+
+“Seventeen of them,” she reasoned aloud, pressing her back to his to keep an eye on all the incoming enemies.  “Got any AOE?”
+
+“One, but it’s untested.”
+
+“You didn’t test it?”
+
+“I had to leave the last floor in a hurry.”
+
+Amelia groaned.  “Alright.  Let’s get past them and build some distance, then.  Forward or backward?”
+
+“Back.  Fewer unknowns.”
+
+“Seaside crab’s on firmer ground.”
+
+The pair shared a nod and took off, darting across the sand back the way they’d come.  They angled their charge towards the shoreline, distancing themselves from the cliffside crustaceans to make for their intended target.
+
+The wetter sand nearer the sea made an astounding difference, as suddenly Edmund’s boots went from wildly flinging sand around to solidly digging into the ground and propelling him forward.  Amelia didn’t seem to speed up at all, some item or ability of hers already overcoming the loose terrain.
+
+Just before he stepped into striking range of the giant crab, Edmund’s shoulder seemed to erupt into flame as his challenger’s mark took effect.  Before his eyes the beast doubled in size, growing to a towering eight feet tall and fifteen wide as a second pair of spine-snapping claws sprouted from its midsection.
+
+Edmund didn’t stop.
+
+He leapt and windstepped into the air as a claw swung for him, catching it on his shield and slamming it down.  His action did little to redirect the claw, but it did plenty to redirect Edmund.  His body swung up and over the beast’s limb as he tucked his legs and leaned into the flip.  Momentum carried him onto the crab’s upper shell, where he landed on his shoulder and rolled across it before retaking his feet near its backside.
+
+On instinct he moved to plant his spear in the creature’s back, but Amelia’s leather clad form slid out from under it before he could deliver the blow, a sheen of blue blood coating her daggers.
+
+Edmund leapt off of the thing just as it collapsed.
+
+Together they sped away, the horde of now sixteen giant crabs scrambling across the sand in hot pursuit.  They skidded to a halt as they reached the entrance, turning to face the oncoming cast.
+
+“Good news is, at twice the height it’s easier to get under ‘em.”  Amelia grinned and flicked the blood from her knives.  “Just got another set of claws to deal with.”
+
+“With any luck, we won’t have to,” Edmund replied, handing his spear off to his shield hand to prepare the spell.  He grit his teeth and brought his focus inward, pouring it down the newly-carved channel in his mind.
+
+Nothing happened.
+
+He poured and he poured and he poured, but Artillery drank its fill and more, draining Edmund of every drop of mental energy he had to give before, at last, the spell took shape.
+
+The Firestorm erupted.
+
+Blindingly hot flames surged through the air, blossoming into an explosive maelstrom at the center of the oncoming swarm.  Edmund squinted as steam and smoke and fire filled the air, blocking his view of the damage he’d dealt.  A cacophony of high-pitched squeals echoed down the shoreline as moisture within the crabs boiled and escaped their shells.
+
+Black spots grew in Edmund’s vision, crowding out his perception of the beach ahead.  His ears rang.  His thoughts slowed.  He swayed where he stood, only keeping upright as Amelia caught him.  He panted, taking quick, shallow breaths as his mind failed to process the information around him.  A moment passed.  Another.
+
+Something lifted his helmet and pressed something cool and round to his lips.  Edmund allowed it entry, and moments later an icy liquid poured from the vial and into his mouth.  He coughed and sputtered as the tincture took him by surprise, but enough of it made it down his throat that the black spots faded from his vision and his mind returned to coherence.
+
+“This is why we test our spells,” Amelia chided him as she pocketed the empty vial.
+
+Edmund swallowed and blinked as the mana potion took effect, opting to remain silent and direct his focus to the results of his Firestorm.
+
+Not a single crab had fallen.  He’d overexerted his mana pool to nearly devastating consequences, and not a single crab had fallen.  Edmund groaned.
+
+“We need to move,” Amelia said.  “They won’t be stuck for long.”
+
+Edmund blinked as his sluggish mind realized the meaning behind her words.  His eyes widened.
+
+While his Firestorm had done little more than blacken the outer shells of the beasts themselves, the ground on which they stood hadn’t been so lucky.  No longer did loose sand readily accept their pointed limbs, the terrain melted away and replaced with a smooth and reflective surface.
+
+The crabs stood fixed within a field of molten glass, glass the cool ocean breeze solidified into a transparent shackle around their legs.
+
+Edmund gave Amelia a nod, and in they charged.
+
+With a thought, he bid his spear disassemble and return to its place in pieces attached to his various limbs, drawing his short sword for the close-quarters combat he knew was coming.  As they neared the field of glass, Edmund and Amelia split ways, each taking on a crab of their own to better finish off as many as they could before the beasts freed themselves.
+
+To Edmund’s surprise, the hardened sand didn’t so much as crack beneath the weight of his boots, the foggy glass clearly far thicker than he’d thought.  Apparently Firestorm’s absurd mana cost actually meant something—just less than the thick shells that protected the crabs.
+
+His first target lashed out in a threefold attack, keeping one of its claws in reserve as it swung at Edmund from left, right, and above.  He stepped into the leftward strike, catching it on his shield and slamming against it to propel himself past the other two claws and under the crab.  Two of its legs broke free, skittering desperately but failing to find purchase on the smooth glass.
+
+Edmund spared the extra moment to line up his shot before plunging his sword up through the beast’s underbelly and through its brain.  He darted out before it could collapse on top of him.
+
+One by one they executed the trapped monsters, thinning out the cast until Edmund and Amelia finally met in the shadow of the final crab.  Edmund gave her a wink.  She smiled back.  He took the opportunity to land a lethal blow, claiming the final kill for himself.  They escaped the falling crab with laughter on their faces.
+
+“That’s still only seven for you!” Amelia taunted.  “I got ten.”
+
+“The first one doesn’t count!  I distracted it for you.”
+
+“Seven to nine then.”  She smirked.
+
+“Not fair.”  Edmund shook his head.  “You have Agility; of course you finished faster than I did.”
+
+Amelia raised an eyebrow.  “Oh?  Is someone a sore loser?”
+
+“Someone is still mana drained from immobilizing them in the first place.”
+
+“That reminds me,” Amelia said with a teasing grin.  “You owe me a mana tincture.”
+
+Edmund responded with the most incredulous ‘no way’ look he could manage.
+
+Amelia snorted, turning away to gaze along the beach.  “First attack came roughly a third of the way down the beach.  That’d imply there’ll be another one.”
+
+“I don’t take implications at face value.  Liam can’t lie outright so he makes you assume things.”
+
+“It feels safe to assume we’ll have to fight more monsters.  Worst case I’m pleasantly surprised.”
+
+Edmund exhaled sharply with amusement.  “Fair enough.”
+
+Though neither of them had taken any injuries in the melee, if more crabs were to appear, Edmund at least wanted enough mana for a few Firebolts and a Smoke Lash if not a full Firestorm.  Whether or not trapping the beasts as he had was worth the mana tincture he’d needed to stay conscious remained to be seen.
+
+The couple spent the downtime exchanging stories.  Edmund told Amelia of his rootmother’s sigil and the burning tree, and she in turn described a convoluted puzzle involving hidden keys and color-coded locks all while the level had slowly filled with water.
+
+Edmund wondered how come he’d never had a puzzle floor.
+
+Things turned more solemn as the conversation moved to matters of the celestial.
+
+“You turned it down?”  The shock carried clearly through Amelia’s voice.
+
+“What was I going to do?  Sign a pact only for it to revoke its side a year down the line?”
+
+“Oblivion was willing to weaken its church for you!  Do you have any idea how valuable churches are to these beings?”
+
+Edmund shrugged.  “Valuable enough to be worth weakening me once I’d signed with it?”
+
+Amelia sighed.  “Keep rejecting these and you’ll stop getting good offers.”
+
+“That’s what Liam said.”
+
+She shook her head.  “I’m just happy I got the deal I did.  Selicath doesn’t have any other followers, and I don’t have to let him open a church until I’m queen.”
+
+Edmund scowled.  “Risky bet to assume you’ll make it out of here alive.”
+
+“That’s true of any pact they sign down here.  Besides, the archangel of alacrity has faith in me.”
+
+“Get anything useful at least?”
+
+Amelia winked at him.  “That would be telling.”
+
+Edmund nodded, opting not to press any further.  Giving his unwillingness to reveal his Madness quite yet, he couldn’t exactly pressure her into revealing her Aspects to him.  A few were obvious, of course.  Agility made itself apparent in her fighting style, and the fact she’d signed with an archangel fundamentally meant she’d taken Divine.  Blades and Talents seemed likely given her choice of weapons, but fighting with daggers didn’t require either.
+
+They set off once more the moment Edmund declared his mental energy replenished enough, returning to their slow shuffle along the sand.
+
+Edmund eyed the sand before them and the water to their left with unceasing vigilance, hoping that this time he could spot the crabs before they appeared.  He knew the task would’ve been easier in Amelia’s absence, that the smoke would’ve revealed the hidden beasts in a heartbeat, but a foolish part of him felt grateful to have the princess by his side.  At the very least, he could practice spotting enemies without relying on his most fickle Aspect.
+
+He sensed Amelia tense as they reached the two-thirds mark, a foolish gesture by his reckoning, if an understandable one.  Edmund’s stance remained unchanged, his stance as ready for attack as possible since he’d first set foot on the floor.
+
+None came.  No giant crabs burst from beneath the waves, no sand erupted as beasts emerged from behind them, no arthropods crested the rocky cliffside.  Edmund and Amelia simply walked up to the floor’s end, and a chime rang out.
+
+“Huh,” Amelia vocalized as the exit swung open and a loot chest arose from the sand.
+
+Edmund scowled.  “It’s too easy.”
+
+“Or,” Amelia offered, “we’re too good.”
+
+He snorted.  “You think we’re better than the Eternal Depths, with challenger’s marks?”
+
+“I think if the dungeon’s capable of giving us a pleasant floor, it’s just as capable of giving us an easy one.  Like you said, it’s too smart to think we’d distract each other and die.  Maybe it wants us paranoid and second-guessing each other.”
+
+“Trying to figure out what Liam wants is a quick and easy way to go insane.  More insane.  Maybe he thinks we’ll owe him now that he’s done something nice.  Maybe you’re right and he wants us paranoid.  Maybe he genuinely thought the crabs would be tougher than they were.  There’s just too many things he could potentially want, and the only one I know of for certain is that he wants us dead.”
+
+“I thought you said he wanted you to entertain him.”
+
+“Sure.  He likes playing with his food.”  Edmund shook his head.  “Floors are never this simple, not this far down.  Either the pleasant atmosphere is meant to be part of the challenge, or…”  He trailed off, his eyes sweeping out over the waves.  “How’d you like to go swimming?”
+
+“Hard no,” Amelia said with no uncertainty.  “Pretty much anything can and will outmaneuver us out there.  It’d be suicide.”
+
+“That’s the problem with you Agility fighters.  Can never fight anything that’s faster than you.”
+
+“Nothing’s faster than me.  Nothing the accords would allow for, anyway.”
+
+Edmund simply replied by looking pointedly at the false ocean.
+
+Amelia deflated.  “Point taken.  What makes you so interested in the water, anyway?”
+
+“That’s where I would put the hidden boss, you know, the kind delvers go looking for when a floor is too easy.  If you make ‘em feel they haven’t worked hard enough, they’re more likely to go chasing some secret boss they can’t beat.”
+
+“Except you think you can beat it.”
+
+Edmund sighed.  “Not with you here.  Like you said, you won’t be much help underwater, and without my Solitude Aspects I wouldn’t take on a boss in adverse conditions.”
+
+“Wait, you seriously think you can solo a rare boss underwater?”
+
+“Yeah, of course.  Two floors ago I killed a leviathan under a frozen lake, and I didn’t even have water breathing then.”
+
+Amelia gaped.  “You know, every once in a while, I forget how absolutely insane you are.”
+
+“You don’t know the half of it.”
+
+“Then tell me,” she said, leaning back against one of the hammock’s two posts and crossing her arms.
+
+Edmund paused for a moment to ponder strategies before ultimately landing on stalling.  “Aspects and loot first, then we confirm we’re actually safe here, then we can do story time.  Alright?”
+
+At Amelia’s nod Edmund moved for the loot chest, swinging open the strangely glassy container to reveal six gold coins and a pair of silver rings.  He gulped.
+
+A sound somewhere between a nervous laugh, a stifled yelp, and a high-pitched squeak rang out behind him as Amelia laid eyes on their loot.
+
+Edmund grimaced.  “He gave us rings.”
+
+“Matching rings.”
+
+“He thinks he’s being funny,” Edmund said, squinting at the faint trails of smoke coming off their new loot to confirm the rings served the same function.
+
+Ring of Twinned Souls
+
+One of a pair.  Provides a 30% bonus to all damage dealt while fighting with the wearer of its twin.  Once per day, send a message that transcends distance to whomever wears the second ring.
+
+Sure enough, the other ring’s description was identical, confirming the intent behind the loot drop.  The rings shattered the last of Edmund’s doubts.
+
+Liam wanted him and Amelia together.  Edmund couldn’t begin to guess at which of the myriad potential reasons drove the Depths’s decision, but the decision itself stared him in the face, plain as day.  The only question was what to do about it.
+
+With an air of stunned solemnity, Edmund withdrew the two rings, noting that despite their identical design and purpose, one was slightly smaller than the other.  He handed that one over to Amelia, whose more slender fingers would fit it perfectly.
+
+Edmund tried his on as many fingers as he could, but it only rested comfortably on his ring finger.  With the pieces of the Dread Gauntlet of Kor’Ilinesh occupying his right hand, Edmund reluctantly slipped his newest acquisition over his left ring finger, precisely where a wedding ring might’ve gone.
+
+Amelia broke the uncomfortable silence, handing the ring back to him.  “I’m not marrying you.”
+
+“Tell that to Liam.  He seems to have gotten the wrong idea.”
+
+She tilted her head to the sky and shouted, “I’m not marrying him!”
+
+“Just put on the ring.  Thirty percent damage is too much to ignore, and a way to keep in contact across floors is valuable in its own right.”
+
+“But people will think—”
+
+“Half the kingsguard watched me abscond with you on the fifteenth floor.  They already think we’re sleeping together.”
+
+“But we are.”
+
+“Exactly.  At least this way they’ll think we’re being proper about it.  Just take the damn thing.  Or would you rather I got down on one knee?”
+
+Amelia scowled and snatched the ring back, slipping it over her right ring finger.  “There’s nothing proper about this.”
+
+Edmund blinked at her.  “You snuck out with three guards and a priest, broke into one of the most dangerous places in the world, lost your entire party, kept going despite repeated attempts to bring you home, and you’re worried about being proper?  Ames, I think you threw propriety out the window months ago.”
+
+She kissed him.
+
+It came out of nowhere.  One moment they were standing several feet apart arguing over the awkwardness of the twin rings, the next his helmet was up, her arms were around him, and her lips pressed tightly against his.  Edmund couldn’t have reacted quickly enough if he’d wanted to.  Damn Agility fighters.
+
+She pulled away.  “Call me that again.”
+
+“What?  Ames?”
+
+She kissed him again.  “Nobody’s ever called me that.  Always my full name or ‘highness’ or ‘princess’ or ‘my lady.’  Even my father calls me Amelia.”
+
+Edmund kissed her back.  “There are no princesses down here.  Just suicidal lunatics and deadly monsters.”
+
+“Oh?”  She grinned.  “Which one are you?”
+
+“Don’t you know?” he growled, pulling her body against his.  “I’m both.”
+
+“What does that make me?”
+
+Warmth coursed through Edmund’s body as a normally dormant part of him stirred.  He leaned in and whispered in her ear.  “Every monster worth its salt needs a fair maiden…”  He let himself trail off for a moment, allowing the tension to build before he finished the statement, “to ravage.”
+
+Amelia’s face flushed as she pulled away and looked up at him with wide eyes.  For a horrible moment, Edmund thought he’d pushed it too far.  His fear lasted a paltry second before she licked her lips and spoke her reply.  “If everyone’s going to think we’re married anyway…”
+
+Edmund kissed her.  And he kissed her.  And he kissed her.  He kissed her softly and slowly on the lips.  He kissed her sharp and fiery up and down her neck.  He kissed teasingly on the cheek, flirtatiously on the nose, lovingly on the forehead.  Above all he kissed her longingly, longing for an hour’s peace, longing for absolution, longing for her.
+
+He didn’t notice when she reached into her pack to grab the key to her tent, nor when she flipped it through the air to conjure the wooden doorway.
+
+By the time the door closed behind them and the first pieces of armor clattered against the carpeted floor, all thoughts of dungeons and monsters and Aspects had left Edmund’s mind.  He had something more important to focus on.
+
+Edmund was screaming again.
+
+Amelia sat up and rubbed her groggy eyes.  She groaned.  Madam Pelch’s etiquette classes hadn’t covered the proper protocol for a bedmate with nightmares.  She glanced down at his sleeping form, her heart swelling with pity as she noted the sheer terror and desperation on his face and in his voice.
+
+She couldn’t wake him again.  Twice already she’d pulled him from his slumber, offered comfort and reassurance that she was there and everything was alright, and twice he’d fallen back asleep and back to the nightmares.  Perhaps she ought to have let him sleep, let him face his fears and come out the other side.  At the very least, a full night’s rest had to be better than waking up a dozen times throughout the night.
+
+Amelia slipped out of the bed and pulled a fresh set of underclothes from her armoire, donning first them and then her armor in complete silence, unbothered by the gloom in the tent.  Whatever Edmund may’ve thought about Agility fighters, she had to admit that Shadows in particular had its upsides.
+
+She spared another sorry glance at Edmund’s restless slumber before she stepped from the tent, leaving the door just barely cracked.  He wasn’t the only one who needed rest.  With any luck, she could get some sleep on the hammock.  The floor was considered cleared, so as long as she didn’t go poking around in places she shouldn’t, she’d be safe.
+
+It came as some surprise, then, when Amelia turned away from the entrance to her camp to find a man already lying on the hammock, his hands folded behind his head as he gazed up at the false sky.
+
+Amelia froze, a hand instinctively reaching for the dagger at her hip.  “It’s you.”
+
+“It’s me,” the man replied.
+
+“Liam, right?  That’s your name?”
+
+“That’s a name,” the man replied.  “I’ve had a few, in my time, but I suppose Liam is as good as any.”
+
+“What do you want from me?”
+
+Liam paused, holding up a silencing finger as Edmund’s screams echoed from within her tent.  “You realize you do that to him, right?”
+
+“Excuse me?”
+
+“The nightmares, the screaming,” Liam explained.  “He doesn’t do that when he’s alone.”
+
+Amelia gulped.  “Is that why I’m here?  To torment him?”
+
+“Yep.  I sent you two on a long walk down a sandy beach to torment you.”  Liam laughed before stopping abruptly.  “For legal reasons, I need to clarify that was a joke.”
+
+“Why, then?  If you’re trying to destabilize the kingdom, you should know I’m not marrying him.  If you’re hoping I’ll birth a bastard out of wedlock, I have serums to prevent that.”
+
+Liam sat up, swinging his legs around and off the hammock to finally meet her gaze.  “My dear, it’s time it sank through that pretty royal head of yours that Edmund might be more important than you.”
+
+“I figured that,” Amelia said.  “You’re dressed up as his friend, not mine.  What I can’t figure out is why.”
+
+“You know, he was just about to tell you before you got all distracted boning each other.”
+
+Amelia raised a judgmental eyebrow at him.  “So if this is all about Edmund, and you’re not trying to torment him, what’s the play here?  You’re hoping that I’ll distract him?  That he’ll forget why he’s here or slip up somehow?”
+
+Liam chuckled to himself.  “No, no, you’ve got it all backwards.  I’m not interested in what you’ll make him forget.  I’m interested in what you’ll make him remember.”
+
+“He knows something you don’t?”
+
+Liam let out a long, drawn out breath, folded his hands together, and leaned on his knees.  “Before he set foot in here, something happened to Edmund, something he refuses to talk about, yet for which he clearly blames me.  I want to know why.  Most of the time he hides from it, wraps himself up in all that smoke until the bad memories go away, but when you’re around…”
+
+“The nightmares,” Amelia breathed, “you said I caused them.  That’s why I’m here, isn’t it?  Thrax, this isn’t about distracting him.  You’re after his trauma.”  She blinked, her mind racing as she fought to make sense of everything Liam had told her.  In the end, only one explanation fit.  “You’re scared of him.”
+
+A faint smile crossed Liam’s face.  “No, actually.  I should be.  My friends all are, and believe me, they don’t scare easy.  If you knew what was good for you, you’d be scared of him too.  I guess we have that in common.”
+
+“I’m not the one he’s sworn to destroy.”
+
+“No,” Liam said, “but I’ve lived long enough to know that vengeance is a one-way road, and passengers don’t generally survive the trip.”
+
+Amelia gulped.
+
+“I’m glad we had this talk.  When he wakes up, you should ask him about that smoke of his.  Should make for a riveting conversation.”  He stood, patted the hammock affectionately, and flashed a predatory grin.  “Sleep well.”
+
+Then he was gone.
+
+Amelia realized then and there that the hammock had never been meant as a romantic spot for her and Edmund to share.  From the outset Liam had put it there so she’d have a place to sleep while Edmund dreamed.  He shouldn’t have bothered.
+
+She’d be getting no sleep that night.
+
+Edmund awoke to false sunlight spilling through the cracked door of the tent.  Outside he heard the telltale grunts of combat training, most likely Amelia running through forms.
+
+His first order of business was to collect the Aspect Amelia had so rudely distracted him from the prior night.  He envisioned his constellation and made the obvious choice—the only remaining one now that he’d completed his other tier threes.  He selected The Recluse and War, and formed his newest confluence.
+
+Tier 3 Aspect: The Challenger - Silver+ Resonance
+
+Level 1 - Provides access to the Challenge active ability.
+
+Edmund blinked at the description, wondering what exactly Challenging something would accomplish.  He’d have to find a chance to test it out.
+
+The upgrade brought The Recluse to level four, War to nine, and Solitude to nine, all without changes to their descriptions.  Madness felt like it’d changed, but no matter how Edmund focused in on it, he couldn’t pin down the difference.  At least its level had gone up.
+
+Shutting his constellation, he rubbed his eyes and pushed himself upright, the evening’s nightmares already fading from memory.  With all the dignity and grace of a naked man who’d been awake for all of two minutes, he slid out of bed and went about collecting his various pieces of armor from where they’d haphazardly fallen.  He was half-dressed when Amelia, fully armed and armored, stepped in.
+
+“Good morning,” she greeted him.  Her voice was cheery, but there could be no denying the bags under her eyes.
+
+Edmund paled.  “I didn’t keep you up, did I?  I’m so sorry.”
+
+“No, no, it’s okay.  You needed the rest.”
+
+Edmund swallowed and nodded and bent over to grab his belt from the floor.
+
+“I-um,” Amelia said, “I had a chat with Liam last night.”
+
+“What did he want?”
+
+“He said I should ask you about that smoke of yours.”
+
+Edmund froze.
+
+“Your eyes weren’t just red from the burning tree last floor, were they?”
+
+“No,” Edmund muttered, sitting on the bed.  “They weren’t.”
+
+Amelia sat at his side.  “Do you want to talk about it?”
+
+Edmund exhaled.  “Apparently Liam wants me to.”
+
+Amelia winced at that.
+
+They sat in silence for some time as Edmund collected his thoughts.  He supposed Liam was right.  She deserved the truth.  His heart raced as he opened his mouth to explain, the words on his tongue somehow more nerve-wracking than the life-or-death skirmishes he’d grown so accustomed to.
+
+“Liam thinks I’m something called the paragon of Madness.”
+
+“Thrax,” Amelia cursed under her breath.  “You are more important.”
+
+Edmund cocked an eyebrow at her but didn’t question the statement.  “All I know for sure is that my Madness is extremely high resonance.  It’s why I thought I was hallucinating when I saw Liam for the first time.”
+
+“But Liam wasn’t a hallucination,” Amelia said.  “The smoke was.”
+
+Edmund nodded.  “It shows me things, things I shouldn’t be able to know.  Monsters’ names, descriptions of loot, where secrets are hidden.  It changes things, too.  I never know for sure, but I think it reshapes the world around me.  Once, when a man was holding me at sword point, the smoke choked him to death.”
+
+“Can you control it?”
+
+“No,” Edmund put it plainly.  “It seems to mostly work in my best interest, though, or at least what I think is my best interest.  I have another Aspect, The Recluse, that weakens it when I’m around other people.”
+
+“That’s why you always fight alone,” Amelia reasoned aloud, pausing before the second realization sunk in.  “It’s not just me, then.”
+
+“It is and it isn’t.  Other people weaken it too, but even back at the tavern, even surrounded by people, the air has never been clearer than it is right now.  Anybody can thin it out, but you’re the only one who makes it go away entirely.”
+
+“That explains the nightmares.  Without the smoke to protect you…”
+
+“Yeah.”  Edmund rubbed the back of his neck.
+
+“You should know, they’re what Liam is after.  At least, that’s what he told me.  He wants us together because he thinks that’ll help him learn about your past.”
+
+“The fact he doesn’t already know mea—”  Edmund cut himself off.  “Nevermind.  I don’t want to risk giving him what he wants.”
+
+“Okay.”  Amelia nodded, taking the excuse at face value.
+
+The conversation faded at that, the two sitting in quiet companionship as the complexity of it all washed over them.  Edmund was the first to push off the bed and break the silence.  “So, how about that sea monster?”
+
+“There isn’t one.”
+
+Edmund faltered.  “What?”
+
+“I went looking for it last night.  The water’s empty.  Maybe Liam actually wanted us to just… go for a swim.”
+
+Edmund snorted.  “He probably thought I’d need another bath before you let me in your tent.”
+
+“Hey!  In my defense, you hadn’t bathed in how long?”
+
+Edmund grabbed the last of his gear and stepped outside, squinting as his eyes adjusted false sunlight.
+
+Amelia followed.  “So… about that swim?”
+
+“I want to go another round with the crabs, without Firestorm this time.  If they’re worth it, we can stay and train against them for a while, otherwise, it’s time to move on.”
+
+“Straight back to business, huh?”  Amelia didn’t hide the annoyance in her voice.
+
+“I have to keep moving.  Obsession won’t punish me for a few hours’ rest, but every day I lose, more people die.”
+
+“Those people have agency, Edmund.  They make their own choices.  They’re not your responsibility.”
+
+“Thrax, you sound like Liam.”
+
+Amelia froze.
+
+“I’m sorry.  That was… that was harsh.”  Edmund exhaled.  “Maybe I should go, give you a chance to rest and… think everything through.”
+
+“Edmund, that’s—”
+
+“Yeah,” he cut her off, his eyes drifting aimlessly over the water.  “Come to think of it, I’ve had enough of this fucking beach.  It’s simpler when everything’s trying to kill you.”
+
+“You don’t have to—”  Amelia sighed.  “Okay.  I understand.  Take as long as you need.  I’m sure we’ll run into each other again.”
+
+Edmund paused to plant a single kiss on her forehead before turning to the exit.  “Try not to die.”
+
+“Yeah, you too.”  Amelia let out a slight chuckle and raised her hand to call attention to the silver ring on her finger.  “And keep in touch!”
+
+Edmund stopped for a moment and tapped the ring on his own finger.  He flashed a thin semblance of a smile, said “I will,” and stepped into the darkness.
+
+Edmund Montgomery Ahab, The Crimson Hand
+
+Aspects Unlocked: 21
+
+Tier 1 Aspect: War - Gray+ Resonance
+
+Level 9 - Provides a lesser increase to all damage dealt.  Provides a lesser decrease to all damage taken.
+
+Tier 1 Aspect: Elements - Gray Resonance
+
+Level 8 - Provides access to the Firebolt spell.
+
+Tier 1 Aspect: Solitude - Red Resonance
+
+Level 9 - Provides a greater increase to constitution while fighting alone.
+
+Tier 1 Aspect: Perseverance - Gray Resonance
+
+Level 10 - Gain health regeneration.  Gain greater health regeneration outside of combat.
+
+Tier 1 Aspect: Madness - Prismatic Resonance
+
+Level 16
+
+Tier 2 Aspect: Fervor (Madness and War) - Gold+ Resonance
+
+Level 1 - Empowers the effects of Madness and War for each consecutive second spent in battle.
+
+Tier 2 Aspect: Sorcery (Madness and Elements) - Gold Resonance
+
+Level 2 - Provides access to the Smoke Lash spell.
+
+Tier 2 Aspect: Obsession (Madness and Perseverance) - Gold Resonance
+
+Level 4 - Gain strength and agility for each consecutive day spent pursuing your obsession.  Gain mana for each consecutive month spent pursuing your obsession.
+
+Tier 2 Aspect: The Recluse (Madness and Solitude) - Gold Resonance
+
+Level 4 - Empower the effects of Madness while alone.  Lessen the effects of Madness while accompanied.
+
+Tier 2 Aspect: The Island (Solitude and Perseverance) - Gray Resonance
+
+Level 5 - Grants resistance to over-time effects while in groups of two or fewer.
+
+Tier 3 Aspect: Focus (Elements and Obsession) - Silver Resonance
+
+Level 2 - Doubles spell damage when attacking a single target.
+
+Tier 3 Aspect: The Challenger (War and The Recluse) - Silver+ Resonance
+
+Level 1 - Provides access to the Challenge active ability.
+
+Tier 3 Aspect: Artillery (War and Sorcery) - Silver+ Resonance
+
+Level 1 - Provides access to the Firestorm spell.
+
+Tier 3 Aspect: The Warmonger (War and Obsession) - Silver+ Resonance
+
+Level 1 - Provides a greater increase to all damage dealt and a greater decrease to all damage taken while engaged in combat you initiated.
+
+Tier 3 Aspect: The Philosopher (Elements and The Recluse) - Silver+ Resonance
+
+Level 2 - Question the concept of truth.
+
+Tier 3 Aspect: The Rift (Madness and The Island) - Gold Resonance
+
+Level 4 - Provides access to the Rend active ability.
+
+Tier 4 Aspect: The Tactician (War and The Philosopher) - Bronze+ Resonance
+
+Level 1 - Deal double damage when executing a pre-crafted battle plan.
+
+Tier 4 Aspect: The Target (War and Focus) - Bronze+ Resonance
+
+Level 1 - Allows the marking of a single enemy as the target.  The target takes increased damage from all sources.
+
+Tier 4 Aspect: The Fissure (Elements and The Rift) - Silver Resonance
+
+Level 2 - Provides access to the Magma Fissure spell.
+
+Tier 4 Aspect: Rebellion (War and The Rift) - Gold+ Resonance
+
+Level 1 - Grants resistance to mind controlling effects.  Deal bonus damage to enemies above your level.
+
+Tier 5 Aspect: The Breach (War and The Fissure) - Bronze+ Resonance
+
+Level 1 - Provides access to the Break Through active ability.
+
+Delver’s Mark of the Challenger
+
+Empowers nearby dungeon monsters.  Significantly increases the value of loot chests you open.  Slightly increases the resonance of Aspects you unlock.
+
+The Crimson Hand
+
+Grants minor resistance to piercing damage.  Bestows ownership of the Dread Gauntlet of Kor’Ilinesh.
+
+Trailblazer’s Sigil of the Azure Journeyman
+
+The fourth step on the Path of the Azure Fox.  Increases agility.  Grants two windsteps.  Increases positional awareness.
+
+Trailblazer bonus: Sharpens hearing.
+
+Trailblazer’s Sigil of the Rootmother
+
+Non-intelligent Strethian lifeforms will treat you as an ally.  Gain the ability to draw water and nutrients from fertile soil.
+
+Trailblazer bonus: draw water and nutrients from all soil.
+
+Sigil of the Slumbering Deep
+
+Gain greater health regeneration.  Gain immense health regeneration while sleeping.  Gain water breathing.  Gain lesser dark vision.  Gain lesser subaquatic sonar.

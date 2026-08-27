@@ -1,0 +1,213 @@
+---
+id: 990bcc6a-5121-5e03-bb62-6a6e5cc7c5df
+page-type-slug: story-chapter-royal-road
+title: "Chapter 53 - Training"
+slug: 0014-chapter-53-training
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 14
+ownLength: 2461
+unit: words
+publishedAt: 2026-08-15
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3816074/chapter-53-training"
+royalRoadId: "3816074"
+---
+
+At Kairon’s initiation of the ritual, half the brood imps paused in their work. Demonic magic taking hold, a mob of them began flooding into the citadel district, expressions blank. Tiny clawed hands picked up stone, gold, and timber. Without preamble, the ancient ritual willed them to transfer the required materials to the newly glowing ritual in minutes.
+
+As that finished and they moved to chanting, Kairon checked what remained in the stockpile.
+
+One batch of gold had finished this morning, and about half the workday had passed. Meaning by tonight, timber would be thirty or forty greater. Enough for the camp he wanted.
+
+Good. Progressing as planned.
+
+The city lord turned his attention to the ritual. In his head, he began reflecting on all the buildings he’d created so far. Loosely, they could be categorized by district. The universal ones, such as the camp and spawning grounds, were quite… mundane. Functional, plain, and normal. Mostly.
+
+Yet, the other district specific buildings such as the feeding pit and ritual circle had been an entirely different category. They were massively impactful, and had unseen problems and effects. It made the universal structures seem odd. Out of place, almost.
+
+If that trajectory rang true, the training grounds should end up being quite the treat. As if the plane heard his words, the ground within the ritual circle began to tremble. Like the research basin, the training grounds too went downwards instead of up.
+
+The crimson stone of the wrath district’s final building slot transformed into a perfect, circular shape. By the time the violet light began to fade, a four meter fighting pit had been made.
+
+Unlike the totems, the pit didn’t have an overbearing presence.
+
+“Huh.”
+
+Kairon stepped closer to investigate. The moment he touched the boundary, he felt something. The faintest hint of primal energy. Of that same anger and desire for violence he’d experienced from the wrath obelisk.
+
+Along the walls of the pit, demonic script gleamed. It shone a red-hued purple. And through it…
+
+“Vorathrex, what are those?”
+
+For once, his general didn’t have a reply ready. No sarcasm, no retorts, no insults. Instead, the big demon simply stared at the pit.
+
+Is that… recognition? Sythara mentioned Vorathrex was forged in the pits. Was this what she was referring to?
+
+“Vorathrex?”
+
+Shaking his head, the towering warrior looked at him. “Scars.”
+
+Kairon peered back at the walls, and saw he was right. Great, gouging rents ran along the walls. There was no pattern or reason. It was as if a ferocious battle had already taken place here. Between beasts and beings the city lord didn’t want to think about. Yet.
+
+As the surface quieted, steam dispersed, and the ground settled, one final change took place. A set of bone weapon racks and benches snapped into shape along the pit’s edges. Their stark white stood out in the red of everything else. Unfortunately, no weapons came with them. Just a place to store them.
+
+The brood imps cut off their chanting, regained their sapience, and looked around.
+
+“Back to work!” barked Shiny. “We have competition.”
+
+“Competitors,” corrected Kairon. “We have competitors coming.”
+
+“Yes! Back work!”
+
+“They steal food?!” shrieked Clod.
+
+“NO!” answered Sing.
+
+Still squabbling, the imps began to scatter back to their assigned duty. In their wake, the wrath warriors and Vorathrex remained.
+
+Turning, Kairon put his claws on his hips. “Well? How about a demonstration? How do we use this thing?”
+
+Vorathrex took a heavy breath, his chest filling with fresh air. He motioned at two warriors. “Boney. Wolf. Get into the pit.”
+
+Without hesitation, the two warriors slid down into the ring, wooden staves held firm. The moment their clawed feet touched the ground, there was a slight give. It was soft, and warm.
+
+“It’s not stone. It’s… Dirt?” asked Kairon aloud.
+
+“It is of the plane. Most called it the belly. I was not sure if it would be here… But it is. Just as I remember it.”
+
+Around, the script along the walls of the pit began to pulsate. Like a heart, it beat. Every few seconds, the walls lit, and a gentle thump sounded.
+
+As the two warriors made eye contact, the thump got louder. Faster.
+
+Without being told, the duo took fighting positions. Training from Vorathrex’s weeks of drills kicked in. Boney angled his conditioned form, one foot sliding diagonally from the other. Wolf took a more aggressive stance. Crying out, he swung. Boney deflected with his stave, returning a precise hit to the knee.
+
+It began. A flurry of blows. One to the other. To Kairon, it looked fierce and impressive. Vorathrex, however, frowned.
+
+Seeing the dissatisfaction clear on his face, Kairon decided to ask why. “Is something wrong? The warriors look fearsome, but not barbarically so. They fight with purpose now. Your training has clearly had an impact.”
+
+Instead of answering, his general stepped up to the edge of the ring and crossed his massive arms. “Your master witnesses. I witness. Is this the best you can do? You have learned to fight with your mind. Show me you have not forgotten to fight with your body. Your claws. Your fangs. Show me you are true warriors!” he bellowed.
+
+The two imps paused, taking a momentary respite as they absorbed their teacher’s words. Then, slowly, a new fire lit in them both.
+
+When they resumed, this time, the battle was different. A mess of wood, claw, and tooth met in a whirlwind of violent combat. One that even Kairon found distasteful.
+
+In just seconds, a number of cuts appeared on both duelists’ arms. Cuts that oozed fresh orange blood. First it fell in droplets, then splatters onto the soft flooring of the pit.
+
+The pit responded. It drank the blood, its script growing even brighter and pumping even faster. The aura, the one that felt so faint, grew. As more blood was drawn, something new entered the arena. An unseen beast.
+
+It filled the souls of his warriors, altering their paths. Foot placement was adjusted, grips changed, and combat prowess rose.
+
+Over the next few minutes, Kairon watched two very apparent alterations. First, his warriors were taking more and more damage. Their wounds grew, their bruises darkened, and their bodies trembled.
+
+Second, the way they battled changed. Fundamentally. It was like before they were following a guided set of moves. Now… Now they were fighting with an underlying style as their master.
+
+Vorathrex turned, looking at Kairon. “You see now, fledgling? The pit consumes blood and violence. It returns skill.”
+
+Kairon did see. Two warriors had entered this pit as hardened barbaric imps. Now, they were being forged as something different.
+
+“Is this… sustainable? The wounds they are getting, even for your standards… This seems extreme.”
+
+“It is not something the same warrior will do often. Not like this. Fighting as they are, giving the pit your blood and your opponent your all, is the most rewarding. But each time, it helps less. The first time is always the most changing. And… There are more subtle ways to use the pit. Ways that you can do each day.”
+
+“Such as?”
+
+Vorathrex bobbed his chin, and Kairon returned his focus to the fighting.
+
+The pit was… shifting. Its soft surface began subtly making new terrain. New footholds, inclines, and descents. Boney went sprawling when he moved for a forward strike, only to find that the ground beneath him was no longer the same.
+
+“The pit’s belly is always changing. It forces adaptation. And that adaptation feeds newfound skills to be instilled in the warriors. No matter the battlefield, no matter the terrain, they will learn to use it as their own.”
+
+Thoughts of the mountainous terrain in The Spines south of the city came to mind. That… could be quite valuable.
+
+Settling down on one of the bone benches, the city lord allowed himself to watch his warriors. Over the next hour, each warrior took their baptism by blood in the pit. And each warrior came out different.
+
+Kairon assumed that tomorrow, training would be light or cancelled. But today, he’d given his warriors a valuable tool. One that he hoped would serve his city for the battles to come.
+
+***
+
+That night, the fourth camp was built, raising the city’s population capacity to one hundred twenty-five. Kairon had it placed in the void district, using the slot nearest to the wrath side. While the brood imps had a dozen without beds, the warriors needed the rest more. Especially after tonight.
+
+Besides, with what he was about to do, there would be plenty more warriors tomorrow.
+
+He had tested this before, but part of him wasn’t entirely certain what would happen. With no small amount of apprehension, Kairon placed his frozen foot against the altered brood spawning grounds.
+
+Diving into his mindspace, he instinctively reached for the source. Easier than ever, it answered. A golden thread of it streamed from the tower, winding around his body, and entering the brood building. He focused on the 1 and with an effort of will, pulled.
+
+It slid out from the brood district, leaving the text behind as it originally was.
+
+Removing it was free to do so. No source cost. Also to his relief, there were no rumblings or blasts of light. It seemed that reality altering to its original form was, in a sense, as it should be. Like the world desired to revert to its original state.
+
+Nodding, Kairon traversed the city proper to the wrath district. Around, several groups of imps wandered the area, ashroot being munched on and jeers being shared.
+
+He heard the clatter of stones as two imps on either side of a demarcated zone played the sport. Shouts and laughter came from them.
+
+Boney and several warriors nursed their wounds, but appeared cheery. As if the day’s training wasn’t brutal, but inspiring. Their backs looked straighter and eyes harder.
+
+To their side, three brood imps were on maintenance duty. Shiny had made a temporary rotation that switched each night. They were using fresh clay dug from the riverbed, patching several holes found in one of the brood camps. Ensuring it all remained up to code, of course.
+
+A city. A real, living city.
+
+Hobbling past, Kairon was left with a warm, buzzing feeling inside. Not just from the dark sigil back in his head. But from… a goal. One that he set for himself before that first city charter. To run his own real city. For the first time, it truly felt like that’s what he was doing.
+
+Now it’s time to make sure we aren’t all smited and devoured by divine judgement.
+
+Walking up to the wrath spawning grounds, he repeated his prior actions. Frozen foot to stone. Still connected, the source flowed, and reality bowed to its will.
+
+A notification appeared in yellow lettering.
+
+The same cost. Interesting. I wonder what determines it. Either way, he shrugged. This would leave Kairon with twelve source left. Meaning if he wanted to use it again, he’d likely need to identify a method of getting more.
+
+Events willing, I might just have a fresh shipment of tasty golden energy delivering itself to my doorstep soon!
+
+He selected ‘Y’.
+
+Golden liquid drew from the reservoir under the citadel, flowing into him, and then gushing into the menu of the spawning grounds. A flicker, a change of color, and then…
+
+Kairon wasn’t as ecstatic… More reassured. That his plan still worked, and no new hiccups surfaced.
+
+Then, for the second time this week, a jet of violet light exploded upwards. The sonic boom it made this time sent Kairon’s walking stick flying.
+
+Oh dear. Vorathrex is not going to be happy. Of course, the demon wasn’t the only one that could sense these comings. Kairon was relatively sure that so too could his enemies.
+
+In fact, he was counting on it.
+
+***
+
+Senna was at the center of the clan when it happened again.
+
+She was wading through the press of bodies that always gathered in the center of the sprawling village. It was busy today, as the clan was largely focused on preparations. Just in case.
+
+Craft, supplies, trade.
+
+The elder passed several wood workers, their calloused hands shaping a new set of crude oaken shields. Already, a pile of them sat bundled next to their shed. Three warriors gathered nearby, inspecting them.
+
+Walking further, she saw several of the massive earthen supply depots the clan kept. Even now, smoke curled from outside, jerky and hard bread being made, judging by the smell. Inside, stacks of burlap and furs held weeks of food fit for travel. It’d last.
+
+To many, the preparations were a comfort. A way to prepare for the worst case scenario. And, proof that the clan leadership wasn’t idly sitting by with everything happening.
+
+Yet, for Senna, it brought her uncertainty. It added fuel to the battle in her mind. Between supporting Rosk, and his impulsive directive to attack Valdren. And Gael, with her logical but cautionary nature. The nature that for so many years had served their clan so well.
+
+Lately, though, Senna wasn’t sure if it did anymore. The taint was growing. The leaves were restless and…wrong. The forest was dying. She could feel it.
+
+The elder was just considering if she should mingle with the nearby crafters when a foreboding sense of wrongness overcame her. It burned and sizzled like a hot brand, pressing its molten hot edges into her thoughts. Breathing in sharply, she craned her neck. Just over the supply depots, the western skyline waited. It looked normal. No signs of—
+
+An eruption of violet flared in the distance, stopping her thoughts cold. Senna’s eyes widened in absolute horror.
+
+“Again! Again?! No, no, no. Not so soon. How! What is happening?!” she shrieked aloud.
+
+“Elder Senna? Are you quite alright? You…” began a worried clans woman, only to cut off as she followed her gaze to find the taint in the sky. A clattering sounded as the firewood in her arms was dropped into the dirt.
+
+Around her, others stopped what they were doing, turning, and joining to watch. The familiar terror that had plagued them all earlier this week returned with a vengeance.
+
+Moments later, the sound wave made it to them.
+
+BOOM.
+
+A rumbling of thunder blanketed the forest. Buildings shook, trees trembled, and clans people shuddered.
+
+Deeper in the village, where the strongest warriors resided, a deep roar of defiance rose.
+
+“Valdren!!!”
+
+Rosk was livid.
+
+For perhaps the first time, so too was Senna. Some of that fear was starting to morph into anger and hatred. She wasn’t convinced Valdren could do what they witnessed. But the proof was there. And frankly, who else could it even be?

@@ -1,0 +1,189 @@
+---
+id: a11c0bfb-585f-5027-9457-4c894af005e7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24 - Obligations"
+slug: 0024-chapter-24-obligations
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 24
+ownLength: 1952
+unit: words
+publishedAt: 2026-06-01
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3476175/chapter-24-obligations"
+royalRoadId: "3476175"
+---
+
+Kairon strolled through the wrath district. From beyond it, the walls stood bare. Forty meters of empty space lay between the end of the wrath district and the city barrier.
+
+Not for long…
+
+Brood imps bustled back and forth carrying hunks of meat from the stockpile and feeding pit. Every chunk was slid onto a stick and then held at a distance above several smoky campfires.
+
+“Shiny! I want to start the second ring ritual in two hours! Let’s do our best to get this finished up before please.”
+
+“Yes master! Last batch almost done!”
+
+“Good. Don’t rush it. Yes, yes. Don’t give me that look. I know I’m contradicting myself. But if we have to wait another hour, I suppose we can. Make sure we keep the flames at low burn. We want these smoked slowly to get all the moisture out and leave a protective skin on the meat,” instructed Kairon.
+
+The charred and crude form of jerky it made wasn’t the tastiest in the world, but it would keep. The demon was following his recollection of a survival training program The Bureau required all employees to take. Something about potential field duty.
+
+“I know. You said twice.”
+
+He realized that he was, once again, micro-managing. “Sorry. You’re right. It's just I learned this over fifty cycles ago. So… I’m a bit uncertain if we did this right.”
+
+“It's fine. No worry,” consoled Shiny.
+
+Nearby. the warriors were back to running drills. More than a few unhappy glances were thrown their way, clearly not pleased about the smoke drifting into the wrath district.
+
+Vorathrex had already raged about it earlier. Kairon had pitched it as a dash of realism.
+
+Battles had smoke, yes? At least he’s back to himself again. Or so it seems.
+
+After yesterday, Kairon had cleared him to be put in charge again. Vorathrex took back to training with a vengeful fury. One that the two newest warriors were taking the brunt of in the form of merciless practice duels. It was very clear just who those two were.
+
+“Weak!” shouted Boney. In front of him an imp was smashed into the ground. It glared up, scrambling to its feet only to be knocked back down.
+
+“Humans would trample you! Weak!” he repeated, winding up his stave overhead for another blow. The stocky warrior brought it down hard, beating the feeling of combat into his new comrade.
+
+Two pairs down, today’s newest wrath imp was kicked for the third time in a row. It wasn’t getting up.
+
+Kairon walked over, seeing the unperturbed look on his wrath councilor’s face. “Are you sure this is truly necessary? I will default to your judgement, but I don’t want my warriors wasted. We only have one a day right now.”
+
+“Who fault is that? I've told you that you should make more spawn.”
+
+“When we can, I will.”
+
+“That is only half the issue. The new ones are weak without a training grounds or real combat.”
+
+A squeal sounded, the downed imp crumpling and clawing at the hard district flooring.
+
+“That sounded rather painful… Vorathrex, I must admit this seems a bit cruel.”
+
+“Yes. Pain teaches strength. They may hurt now, but it will make them stronger later. It is important to know the feeling of an enemy's weapon. You will see.”
+
+Shaking his head, Kairon decided to show faith in his general. At least outwardly. “I see. Well, Vorathrex, I have every confidence that your training regimen will prepare these warriors properly.”
+
+“What does the fledgling need?”
+
+“Hmmm? Oh yes. The ring ritual will start soon. We’ll need to halt training during it. Before it does, I’d like you to meet with me and Veron.”
+
+“The weak human?”
+
+“The weak human has some very valuable knowledge. It paints a picture I’d like your help with.”
+
+“Fine. Boney!”
+
+The imp looked up, one foot on the downed imp.
+
+“Take charge! Make sure teach the new warriors to fight.”
+
+A cruel grin spread over the scarred imp’s face. Kairon cringed internally.
+
+I really hope he doesn’t break them. In terms of time, these new warriors are rather costly.
+
+The morning sun had grown uncomfortably warm, again making that unnatural drain on the black demon’s scaly form. He’d opted to host the impromptu meeting on the side of the tower, where its looming form cast a comforting shadow between the city and its walls.
+
+With Veron’s help, he’d drawn a crude map displaying the general lay of the continent. “So you see,” Kairon indicated the impromptu display made of sticks, stones, and dirt.
+
+“We are here. From what I can tell, we have about five leagues or so of diameter from here to the Spines in corrupted domain. Our land, so to speak.”
+
+“Yes. I already know this. Do you think I've had my eyes closed?” Vorathrex crossed his four massive arms. The remaining two stumps were growing back very slowly.
+
+“Well the rest of this you won’t. Veron shared much with me that I think you need to know. For example, we don’t have two enemies as we originally assumed. We have three. The first is the Greenswardian tribes who are sporadically spread about our east, north, and west.”
+
+“Actually,” cut in Veron. “The biggest concentration of tribes that I know of lies to our east. That’d be The Wardens. Think of them like a tribal capital. I wouldn’t be surprised if more than three quarters of all tribes folk reside in that region. More than a thousand.”
+
+“Hmm. And these Wardens. Are they strong?”
+
+Veron gave the big demon a cold look. “What? You want to battle them? Like my village?”
+
+“Only the strong ones. Warriors can deal with weak.”
+
+An ugly look came over Veron’s face. “So what’s your plan? Kill every human until only you remain?”
+
+“No. Just the strong ones.”
+
+“Vorathrex, please bear in mind that we need customers. And corpses don't pay well,” chimed in Kairon diffusely.
+
+He snorted. “Why don't we just take what we want?”
+
+“What happens when someone you try to take from is too strong?” snapped Veron.
+
+“What happens to human when their home is gone? Where do they go then? Perhaps under a fledgling's wing?”
+
+“Both of you! Please,” insisted Kairon. “I understand there are some differences.”
+
+“Yes. In strength.”
+
+“And the desire to massacre people!"
+
+A quiet pause as both seethed.
+
+Kairon looked at the ranger, still wearing his sand smeared forest green cloak. Since yesterday the man seemed to understand he wasn’t going to be killed. That terrified mind had melded into something different. The city lord was hoping to use that.
+
+He rubbed his burned claw over his face.
+
+“For the time being, I will ask that grievances be kept to a civil standard. Vorathrex, Veron is our guest. Treat him as such. Veron, Vorathrex is our councilor of wrath. Please keep that in mind.”
+
+The merchant’s face colored.
+
+Before the argument could resume, Kairon hurried to continue.
+
+“Good. Now, Vorathrex, pay attention. Five leagues to our south, just where our domain ends, is the Spines. They separate us from the mainlands of this realm. Beyond that lay our other two enemies. Of these, Veron only had significant knowledge about one.”
+
+“The armored humans I presume?”
+
+“Yes. The ones that attacked before. These are from North Valdren, apparently. It's an area of fractured kingdoms, one of which assaulted our city.”
+
+“I don’t see why this matters.”
+
+“Let me finish. Far, far south of Central and South Valdren lies The Holy Lands. This is where our third and largest enemy resides. The Solari.”
+
+Veron sighed. “Yeah that there’s your biggest problem. I don’t know much about them. But what I do know is that they have some nasty paladins. And if what Kairon said is true about you turning that army on its tail, they’ll be sending them your way.”
+
+“Paladins?”
+
+“Strong warriors. Many much stronger than our warriors. And rumors are they carry a holy magic.”
+
+The large red demon cracked his knuckles. “I would like to face them.”
+
+“As Veron said, we likely will whether we want to or not. If I had to guess, at least some will be on their way. For the time being, our goal is to grow so we can face The Solari. But we can’t do that if we are surrounded by the tribes on all fronts and the Valdren from the south pass to The Spines. So we need to remove at least one.”
+
+“Consume? Good chance for new warriors to train.”
+
+“No. We are going to make them the enemies of our enemy. If we can get the tribes off our back, we only need to worry about the pass.” Kairon stuck a claw in the triangles demarcating the boundary. “And they may just blunt Valdren’s sword so that we can focus on the true threat.”
+
+Veron gave Kairon a skeptical look. “You do realize that eventually, someone is going to go looking for my village. Usually one of the other western tribes comes by every month. And a caravan from The Wardens each year.”
+
+It was surprising how fast Veron was becoming helpful. While Kairon was taking the shared knowledge with a grain of salt, the fear of what happened to his village mixed with his greed made the demon’s gut believe he was being genuine. For now.
+
+“That’s what I’m counting on. Vorathrex, while we are doing today’s ritual, here is what you are going to do.”
+
+“Master!” Shiny’s little crimson legs were a whirlwind as he sprinted through the wrath district and into the tower. “Master! Missing things! Thief!”
+
+“What? Oh. Do you mean the weapons?”
+
+“Yes! Was checking stockpile. Many missing weapons. And more things.”
+
+“That’s quite alright. I authorized Vorathrex and the warriors to take them.”
+
+“You. Oh.” The little red creature deflated.
+
+He rubbed the top of the little guy’s head. “I should have likely told you first, but you’ve been doing such a good job with finishing drying all the meat.”
+
+“Yes. All done!” Behind him, brood imps were dragging the last fur covered bundles of food to the stockpile. Each was being neatly stacked in an orderly fashion. Shiny’s eyes kept swapping between Kairon and his stockpile.
+
+“HEY! Sorry master. Must go.”
+
+The little imp shot off, furiously squabbling at an underling that was putting meat in the wood section.
+
+Kairon paused, minimizing his city interface to double check his instructions had been followed. Like last time they conducted a ring ritual, all the brood imps had been gathered in the spire. The little workers sat, backs resting against hard stone. The afternoon heat had become dry, and the imps were eagerly enjoying their respite.
+
+Unlike last time, all the warriors and Vorathrex were missing. They had left earlier on a trek to the ransacked village. Or what was left of it at any rate.
+
+One hand held on the stone of the tower, Veron spoke up hesitantly. “Kairon. I know you demons are tough. But even if you somehow do keep peace with the tribes, do you truly believe you can stand against an army of paladins? Hundreds or even thousands of them?”
+
+“No. Not as we are now. But watch closely, my friend. We demons have a way of growing quite quickly.”
+
+Veron’s face was skeptical. He’d seen the little city, full of thirty or so demons. The walls and the modest buildings. And of course, Vorathrex. But none of it was enough to convince him this demonic settlement could stand against the wrath of The Solari.
+
+Kairon gave him a playful wink. The demon took a single, short, measured breath of the hellscape air. Then he selected “Yes.”

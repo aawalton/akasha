@@ -1,0 +1,197 @@
+---
+id: 640f21b5-19c9-526a-881d-29d5c7dd36a5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 55: Master Delver"
+slug: 0057-chapter-55-master-delver
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 57
+ownLength: 2199
+unit: words
+publishedAt: 2026-08-22
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3851193/chapter-55-master-delver"
+royalRoadId: "3851193"
+---
+
+The first Oathsworn, Kolas, rose during the first incursion, a time when humans feared to leave their walled cities, because demons roamed the land. A powerful warrior in his own right, Kolas searched the world for the Angel Sehara, through desert, across oceans, and into the darkest of forests, he searched.
+
+When he found her, she had lost all care for the world. “The reapers,” she said, “They are your guardians now. Lumin guided them through the land of the dead, so they might defend you from true darkness. Go to them, so they might save you.”
+
+Kolas was not satisfied with her answer. For even the reapers had fallen to the temptation of the demons. He needed a different kind of power, one that did not see him so immersed in the endless river of souls. He needed power that would not falter in the face of corruption.
+
+For twenty years, Kolas came to Sehara every day. He would lay himself before her, and tell her stories. He would remind her of the compassion and kindness that mortals held in their souls. She refused him, every day, for she had faced horrors that no mortal could comprehend. She had seen men kill for a drop of water. She had seen women betray those they loved for the smallest coin. The Angel Sehara had lost her love for humanity.
+
+One day, Kolas did not come to her, and so she went to him. She found him, in the burning home of a family, breathing his last breath as he sacrificed himself for those he did not know.
+
+She saved him, and carved into his skin his oath, so that he may never forget it, even when the greatest of temptations put themselves before him.
+
+The Infernal, by High Priest Storm, Chapter 1 Page 1
+
+My plate hits the ground as the Dralk man looks past the statuette. He can’t see us, but he knows we’re here.
+
+I stare at the man, as he waits for us to let him in.
+
+He wears his gray furs, coming from one of the great wolves of the northern mountains. His wooden mask has green lines running through it, marking him as a traveler to his people. A plain looking sword rests at his waist, and he has a large backpack, filled to the brim with the various tools and equipment required for a delve.
+
+I step forward, leaving the fire and entering the dimming light outside the barrier.
+
+His yellow eyes eyes snap to me, sharp as ever. We stare at each other.
+
+He looks tired, and he favors his right arm, an old injury acting up from the cold.
+
+“You’ve grown.” His voice is soft, hesitant. “You carry the weight of a man well.”
+
+I step forward, and wrap the old man in a hug.
+
+He stiffens, then returns the embrace. “You are not angry?”
+
+I pull away, and let out a small laugh, “Believe me, I am. Get in here, and meet my delve team.” I move over to the statuette, and open the hole in the illusion so that the both of us might step through.
+
+The group around the campfire stand, all of them small in comparison to the tall Dralk man. He bows his head to them as I introduce the group.
+
+He bows his head to the mercenaries as I go through through them. When I introduce Eyla, his eyes flicker between us for a brief moment, before turning to Keve and Tanya. “I have had many good dealings with the Vishten and the Lin. It is an honor to meet you both.”
+
+I give my mentor the spot I’d been sitting, then sit on the other side of the fire. Eyla sits down beside me, and the rest of the team returns to where they’d been sitting, taking bites of their dinner.
+
+He takes off his backpack, setting it on the ground, then looks over all of us, before his gaze settles on me “I heard of your encounter with Commander Vakar. You are lucky he is the man you met. He is one of the few who sees the outside world with unclouded eyes.” His eyes are unwavering as they meet mine across the fire, “Is it true you’ve delved into the ruin?”
+
+I nod.
+
+“That is good. Can your team handle the dangers within?”
+
+“As long as we don’t go too deep. There are cells in the lower depths that hold creatures we don’t want to disturb.”
+
+He leans forward, and I see a familiar curiosity in him. “Is it what I think it is? A home for the Owls?”
+
+I nod slowly, “You’ve heard of them?”
+
+He taps his claws against his leg as he moves back, “Yes. I have delved an outpost of theirs. Nothing like this.” His eyes move to his hand as he thinks.
+
+“Can you convince your people to let us finish the delve?”
+
+His eyes snap back up to me, “Perhaps. My word still holds some weight… but things are not as simple as they may seem.”
+
+“What do you mean?”
+
+He hesitates, glancing at the delve team who stay quiet around the campfire. “Forgive me, but these are words best said in private.”
+
+I glance at Libby, who gives me a small nod.
+
+The older mercenary stands up, and stretches before clapping her hands. “We need to prepare for the delve. Grildor, clean the weapons and armor, I want as little noise from that plate as possible. Tanya, get some more of those potions ready. Daron, check your fletchings. Keve, Eyla, please join me to discuss how we’ll handle those reavers.”
+
+Tanya opens her mouth, “Everything is already-“
+
+“Tanya.” Libby’s voice is sharp, but not harsh. She tilts her head towards me and my mentor.
+
+The Lin girl seems to catch on a second later, and blushes in embarrassment before hurrying to follow the mercenary.
+
+Everyone moves quickly, leaving just me and my mentor. I feel bad stealing the warmth of the fire, but they all have enchanted clothes, they’ll live.
+
+I channel mana through my newest bracelet, and the air around us stills, the crackling of the fire muting, “they shouldn’t be able to hear us now.”
+
+The Dralk man leans closer, studying the bracelet at my wrist with interest. I suspect he’s using his own identification skill on it.
+
+“I am sorry for leaving.” He says.
+
+I blink, caught off-guard with the apology. “I know you had to go home.”
+
+He looks up, then shakes his head, “It hurt you, I know.”
+
+“I’m used to being alone.”
+
+His eyes crinkle in a smile, “Your friends here say something different. You are not as good at hiding away as you pretend to be.”
+
+“You’re changing the subject.”
+
+“And you avoid your true emotions well, but they are as clear as ever.”
+
+I pull a stick off the ground and poke the fire, “What are you trying to say?”
+
+“That I am happy you are not alone.”
+
+I pause, my stick catching on fire. It burns so beautifully. “Me too,” I say softly.
+
+“That human mage is quite beautiful.”
+
+I point the burning stick at the old Dralk, “Don’t even start.”
+
+“I approve of your match, if that is what you desire.”
+
+I snort, “You don’t even know her.”
+
+“Yes, but you don’t look at any woman like that. Your little ones would be terrifying warriors.”
+
+I hold a hand to stop him, trying to hide a laugh. I know he’s messing with me, but it still makes my cheeks heat. “We’re nowhere near that point.” I shake my head at him as I toss the stick into the fire, “Anyway, it won’t work. She lives in Arcanist politics.”
+
+He laughs, “You’re not one to give up that easily.”
+
+“You’re stalling.” I point at him accusingly, “What’s going on?”
+
+The humor leaves his eyes as they go hard. “Human slavers and worse grow bold. They hunt us with a furiosity they never would’ve dared before. They use necromancy and demonic magics to kill us, and take our children.”
+
+“Do these slavers have a crow tattoo on their bodies by any chance?”
+
+He tilts his head, “You know of them?”
+
+“I don’t know much,” My gaze moves to the fire as I lean back on my hands, “Some of them hunted Eyla because of the map that led to this ruin. In the ruin, I heard them called the Order Of Crows, a pre-destabilization cult.”
+
+“Then the ruin becomes even more important.”
+
+I nod, my eyes flicker up, trying to read his expression just through his eyes. The wooden mask doesn’t give away much.
+
+“I will use that. The Crows are more important than anything.” He pauses, then lets out a sigh, “Leo, I may need you to meet them so that they can hear the truth of your words themselves.” He stands, his tall visage covering the sky, “I will return in the morning. It is polite to prepare a gift when meeting the council. Bring something valuable.”
+
+I stand across from him, and nod. “I will.”
+
+He steps around the fire, and places his hands on my shoulder. “I worried how you would fare without me. I am glad to see you standing so strong.”
+
+“You prepared me well.”
+
+I swear he smiles behind his mask.
+
+I deactivate my bracelet, then walk him to the exit of the barrier. He gives me a nod, then steps through, disappearing into the night.
+
+I watch him go, my brain empty of thought as I watch his back disappear.
+
+“Are you alright?”
+
+I glance over to Eyla, then quickly look back to the lightly glowing forest. “Yeah, just… I wasn’t expecting to see him for a while.”
+
+“You two seem close.”
+
+“He’s the closest thing to a father I have.”
+
+“He must be a good man then.”
+
+I look over to her, and find myself lost in her eyes, a soft smile playing at her lips. I nod without thinking, “he is.” She is beautiful in the lowlight, her blue eyes holding mine in a way that moves all thought out of my head.
+
+“Is something wrong?” She asks, a playfully innocent look on her face.
+
+“Oh, no. I lost myself there for a second.”
+
+“Hm?”
+
+“In thought. Lost myself in thought.” Oh Angels, I’m so terrible at this. And now his words are filling my head with stupid thoughts. Curse you, old man. Just cause you want to be an adoptive grandpa doesn’t mean you can mess with me like this.
+
+She laughs, “I can see that. I was hoping to ask you some things about magic. Should I wait?”
+
+“No, I’m happy to help.” I motion towards the rock we’d been practicing at. “What are you wondering?”
+
+The next Morning, I’m waiting at the edge of the barrier as my Master walks out of the forest. He still looks tired, but better rested than the night before.
+
+I step out, Shar walking beside me in her cat form.
+
+My Master looks down at her with curiosity, but doesn’t comment beyond that.
+
+We travel together in a comfortable silence as we make our way through the forest. Slowly, the plant life starts to change again. Trees become replaced with large mycelium, veins of light traveling through them in a network of connected plants that I’ve only heard about. As I step past an invisible barrier, I feel as something watches me. Not a creature, but the forest itself.
+
+It’s called the living forest for a reason, and the deeper I go into it, the more I notice it. In the distance, a large tree takes up the sky, wider and taller than all of its brethren. The mycelium also grow in size, towering over us. The Dralk take care of this forest, and they take care of the Dralk in turn, protecting them from the dangers of the world.
+
+An opening in the ground becomes visible, and my mentor leads me down, into the earth. Here roots, and mushrooms become even more abundant, glowing with mana and lighting the way down in a kaleidoscope of colors. Dralk people watch me from their homes in the earth, staring at the human as we walk through. I wonder how long it’s been since a human has walked down these tunnels. It’s entirely possible that one of my people has never been here.
+
+The homes of the Dralk themselves are carved into the stone with the help of the plant life. It has a beauty to the architecture that I could find myself lost in if I wanted to.
+
+The tunnel opens up into a large cavern, bright with the light provided by the plant life. There, sitting on large thrones, are twelve Dralk men and women, staring out from behind wooden masks. Some of the masks have gold lines going through them, while others have silver. I’m not clear on the differences, but I know they mean something.
+
+My master bows low, then motions towards me, “Greetings …, This is my student, … who I claim as my own, Leo Grayson.”
+
+Every gaze in the room focuses on me.

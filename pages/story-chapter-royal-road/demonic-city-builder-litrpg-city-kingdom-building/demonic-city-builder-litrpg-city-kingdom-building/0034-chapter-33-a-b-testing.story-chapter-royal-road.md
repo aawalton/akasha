@@ -1,0 +1,295 @@
+---
+id: 56c254b2-1455-55d4-91ec-87a93c1ada10
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33 - A/B Testing"
+slug: 0034-chapter-33-a-b-testing
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 34
+ownLength: 2853
+unit: words
+publishedAt: 2026-06-20
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3564402/chapter-33-ab-testing"
+royalRoadId: "3564402"
+---
+
+The citadel tower was morphing into an impromptu office and city center of sorts.
+
+Shiny had barely made his way out of the door when Sythara came barreling through, striding purposefully to where he sat.
+
+“We were just about to go check on the farms if you’d—” he started, only to be interrupted.
+
+“I found iron ore by the riverbed,” she snapped.
+
+Her tone seemed slightly out of place for the news, but Kairon knew she’d been having a tough time adjusting lately.
+
+“Iron ore? Fit for mining?” Kairon clarified.
+
+“Yes, child. Why must you always make me repeat myself?”
+
+“It’s important to be clear on these things. And, how much did you say?”
+
+She eyed him unhappily. “I didn’t. But, not a lot. What’s there seemed like enough for some rudimentary crafting, but who knows? I’m not a metalcrafter. It's a nasty trade I suggest you avoid. I knew one who claimed to be a master metal shaper, you know. Havoc, he was named. The wretched demon always reeked of soot. Looked like it too.”
+
+And then it clicked into place. Ah. She’s adhering to our pact. I’d wager that without it, she’d have simply kept this from me. I wonder what Sythara would even want iron for?
+
+“Of course, of course,” he said quickly. “Nice guy, I’m sure. Anyway, let me see if I can find the location of the deposit…” He activated Sovereign Eye, traversing a short distance outside the gate until he found the riverbed Sythara had described.
+
+“Oh! The same one we gathered stones from! This is rather exciting. You may not realize this given how recently you onboarded here, but iron ore has been a bit of an enigma until now. We’ve had none. But with this, some new possibilities are within our grasp!”
+
+“Do these possibilities help make my ritual circle faster?”
+
+“No, not directly. But this does mean we can make tools. Real tools. And those could allow for faster harvesting and production. Not to mention more industrial pursuits. Oh this is just wonderful—huh.”
+
+He paused, studying the exposed riverbed.
+
+That ore looks… odd. Fully zooming in, he could just make out glowing purple veins running through submerged rock.
+
+Iron ore… but.
+
+Kairon wasn’t an expert on metals and ores, but he was certain it shouldn’t look like that.
+
+It must be corrupted from the influence of my domain.
+
+As his foothold grew, the corruption must have peeled back the riverbed and grounds above, but left the ore. And not just left it, but altered it in some fashion.
+
+I wonder how that would impact forging and smelting. It must. Maybe demons have special uses for corrupted ores?
+
+When he thought more on that, other considerations surfaced. Such as the amount of corruption and where it was located.
+
+Sythara drew him from his thoughts. “And you can melt these ores into usable iron?”
+
+Kairon frowned, the steam in him being let loose. “Hmm? Oh. Unfortunately, no. We aren’t in a position for a smelting operation. Yet. But, we could be soon. Ultimately, we just need to make a third ring with at least one forge district.”
+
+Veron grunted from the side. “Yeah. That iron could be valuable. The clans around here don’t do any smelting. And you know, even that small deposit could get ya started. A few basic tools alone would be enough to jumpstart a new operation. If ya want more, I’d bet you could find some in The Spines.”
+
+“And a way for those little brats to carry it five leagues,” drawled Sythara.
+
+Kairon waved dismissively. “A problem for another day. One we’ll surely have a solution for.”
+
+He was about to brainstorm some more when he caught the shadowed demoness studying Veron. “Sythara? Did you want to… inspect our friend’s condition? Maybe ensure he’s healthy?”
+
+Rolling her eyes, she flowed over to the prone man.
+
+As she walked over, Kairon’s mind went back to the exposed iron ore. What other resources has the corruption in my domain exposed? What else has been un-earthed that we haven’t looked for?
+
+He added in-depth surveying to his to-do list.
+
+Veron spoke up. “Honestly, I feel better. Drinking the purified water really helped. My veins even look lighter,” he claimed.
+
+“Shush. Let me see… Oh my. Human, your description left much out. This… This is…”
+
+“Yes?” asked Veron, apprehension clear on his face.
+
+“Incredible!”
+
+Kairon clapped. “Good. So he’ll live?”
+
+“What? No, I have no idea. I don’t care if the human lives or dies. I simply find this… infection fascinating. Corruption transmuted through the blood? Penetrating the host at the biological level? And, despite that, he isn’t a husk?” She moved closer, eyes nearly touching Veron’s skin. “Fascinating, very fascinating. This…” Sythara paused, a shape glowing to life on her wrist. She pressed it firmly to Veron’s forehead. Her prismatic eyes flared. “That much corruption, and he’s still alive. It shouldn’t be possible, but here it is! By all logic, the human should be a shriveled vegetable. Instead, he’s a walking contradiction to demonic science!” Sythara’s breath quickened more and more until she was practically panting. Her lips parted into a manic grin, wide enough that Kairon was sure the demon was practically salivating.
+
+Unfortunately, Veron wasn’t nearly as excited. Each comparison made him turn paler and paler. Kairon caught on, steering the conversation back to safer waters.
+
+“Ah, Sythara. I can see the… scientific value of such a subject…” Kairon’s brain wheeled, considering the best way to frame this for the outcome he wanted.
+
+“Wouldn’t this be a fascinating study? A living subject, corruption teeming in their veins? And, provided you were to advise on the best methods to stabilize their condition, maybe even one willing to take part in some foundational experimentation?”
+
+Sythara turned, staring at him. As if truly seeing Kairon for the first time. “Child, we may be more alike than I feared. This… This is an absolutely wondrous idea. I shall halt my supervision of the rock dwellers immediately.”
+
+“Rock gatherers,” he corrected. “And that is fine. I will speak with Shiny about it. We are actually hoping to find a new assistant tonight anyway.”
+
+“What? Why would we need to do anything?” cut in Veron. “I feel like I'm already getting healthier. This all seems like an unnecessarily risky idea.”
+
+Sythara snorted. “No, you are not getting better. You aren’t even truly stabilized. My guess,” she said, turning to place her pale fingers on his cloak, “is that the corruption has simply receded deeper into your body to hide from the purified water. It naturally does not let itself become diluted. So…”
+
+She pulled up his cloak, rolled up his tunic, and nodded. “See this?” she said, tracing a particularly dark vein. The nail followed it, from torso, to ribs, under the arm, and.. When she had Veron lift up, he gasped.
+
+On his left armpit, there wasn’t just black veins. There was a pulsating mass of sooty flesh, dark as night. Tiny vines spread from it. Like an epicenter of an insidious volcano.
+
+“My god! How.. My… Just what is that?!” he shrieked.
+
+“That is what happens when you go to a child for medical advice.”
+
+“Sythara, while I admit my talents certainly don’t lay in the medicinal realm, I hardly see how purifying Veron’s water could have possibly made his condition worse,” defended Kairon.
+
+“Tsk, tsk. You don’t see. That is precisely the problem. Stick to your little books and numbers. Let me handle this one.” She was already cocking her head, taking measurements with her nails, and removing the rest of the man’s cloak.
+
+Kairon stared, uncertain how to proceed. Should I let her just… experiment on Veron? I mean, from the sounds of it she is the professional in this domain. Truly, what’s the worst that can happen? The poor man will likely die either way, judging by that horrific spot on his underarm.
+
+“Okay! Thank you. Veron, be polite. Sythara is kind to offer her services to us in this manner. Sythara, if you are to keep Veron healthy, I shall consider it a favor. Maybe we could discuss those vacation days you desired.”
+
+“Five essence and I will stop the mortal from perishing.”
+
+“Two essence, and five vacation days.”
+
+“Deal.”
+
+Veron looked on in absolute horror. “Test subject,” he muttered bitterly.
+
+Neither demon heard him.
+
+***
+
+Kairon was exhausted.
+
+It took him ten minutes of hard walking, just to travel from the tower to the new ashroot plot. All because of his wretched foot. A foot which, still, had not paid a return on its investment.
+
+“Forgive my tardiness. It seems I’m in high demand.”
+
+Five brood imps stared at him.
+
+“FOOD!”
+
+“Precisely! That’s the aim of today. Food. Before we begin, which of you is Bean?”
+
+“ME!” said one imp, stepping forward eagerly.
+
+Looking closer, Kairon noticed that he had claws more purple than the others. In fact, the tint went from claw all the way to forearm. “Bean, why are your arms that color?”
+
+“Dig. Sand warm.”
+
+“Mmm. I see. Interesting, very interesting. We will come back to that. For now… Let’s see. Okay. You.” Kairon pointed at one of the others. “You are going to join Shiny for wood. Go!”
+
+Repeating the order with Sovereign Eye, he watched as the tiny imp scurried off.
+
+“Everybody else, you are now farmers. Isn’t that exciting?”
+
+The imps stared back blankly.
+
+“It should be, because this is how we make food.”
+
+At that announcement, all the imps looked far happier.
+
+“Great! Let’s get to it.”
+
+Approaching the red soil, Kairon hobbled a few paces in. Dropping his walking stick, he sat. “Join me.”
+
+The imps followed.
+
+Kairon knew barely anything about farming. Nothing, in fact. But what he did know was methodology. Testing. Experimentation. Learning.
+
+So they tested.
+
+Taking a heap of the warm soil into his claws, he felt it. It was warm. Hot, actually.
+
+“What we are growing is called Ashroot. So where’s the root…Hmm. It must be in the soil. Help me find it, would you?”
+
+Behind, the other imps had gathered around Kairon. Three of them poked at the dirt aimlessly. Kairon was about to direct them otherwise when he noticed Bean up to something. Peering closer, he saw the imp using measured, intentional scooping motions with his claws.
+
+They all just watched.
+
+In moments, the little dirt lover had excavated a small hole.
+
+“Found!” exclaimed Bean.
+
+“Splendid work! Remind me to thank Shiny for your glowing recommendation."
+
+Sliding over, he looked into the hole. Bean glared at the dirt, curiosity in his eyes. “See! Special dirt!”
+
+Beneath the surface, the foot deep hole morphed from red soil to a dark brown, almost peaty layer. There was a network of thick white roots, which Kairon assumed was Ashroot.
+
+Below, however, was another tier. Like he’d seen during the ritual. Like before, it was what must have been before the corruption. Compressed leaf shapes, tiny insect husks, bits of bark fiber, and thin root filaments showered down as Bean dug more. Red claws pried loose more and more dirt, making the hole more of a ditch.
+
+Kairon didn’t stop him. His curiosity was piqued.
+
+The little imp had plopped into the hole for a better vantage point. His red claws whirled furiously, the others watching from above. A small mound around the hole formed as dirt, sand, and debris were tossed up.
+
+At two feet down, the layer of brown compact in the hole morphed again. Thick, arm sized roots from a time past snaked from the soil. Between, pulsing veins of violet corruption were revealed. As the hole widened, it was clear that while life had died, geology hadn’t.
+
+Several cavities and channels where large roots nested remained. Even now, the ashroot was already burrowing into those nooks.
+
+“Food!” chirped Bean. He finally stopped digging, several purple, grubbish bits glowing on his claws.
+
+Kairon waved it away. “Focus, Bean. Focus.”
+
+Internally, however, his thoughts were thrumming. The corruption pushed a layer of hellscape on top of the soil. But everything underneath is still there. Every leaf, root, insect, corpse, and layer of terrain remains.
+
+And that conclusion chained to a theory.
+
+What if the ashroot’s growth isn’t based on corruption, but what it's feeding on from below. What remained.
+
+He cocked his head.
+
+“Bean. How long would it take you to dig a hole like that, but big enough for an entire plot of farm?”
+
+The little creature trembled. “So much! Don’t know. But fun!”
+
+“Yeah. Probably a blast for you, little guy. Once we get a few of these plots up and running, we’ll see about it.”
+
+He scooted back and looked at his farmers. “So, let’s consider. What are the simpler variables we control? The ones that don’t require a week of digging?”
+
+“FOOD!”
+
+“EAT!”
+
+“SAND!”
+
+“Yes, a few of those. I can think of several others. What we want to identify is which are most likely to influence growth speed and yield, while still being changed easily enough.”
+
+Kairon held up one claw.
+
+“For example, water. And, not just water. But the type. Does it need to be corrupted water, soaked in hellscape. Or, should it be purified?”
+
+“Oh!” cooed Bean. “Good.”
+
+Kairon nodded. “What else… Oh! Sunlight. Does it help? Does it hurt? Perhaps these ashroots need it to grow, but since they are underground, I’d wager it might actually hurt them.”
+
+He gazed out over the rows of red dirt mounds.
+
+“There are other variables, namely food. But here’s the problem. Every combination needs tested. Ideally in parallel. The issue is that if we use two variables, we need four sections for each possible set. Sounds easy enough, right? But if we increased that to three variables, it doubles to eight. And I worry that eight divisions is too small of a sample. It's simple! Like marketing, you can only compare so many creatives at once.”
+
+Silence.
+
+Kairon was about to try and simplify his words when Bean chimed in.
+
+“Four section.”
+
+“Hmm? What's that, Bean?”
+
+“Four section! Not eight.”
+
+He cocked his head. Did he comprehend my example? He decided to test that theory.
+
+“Well, if we moved it to four variables, we could do sixteen sections.”
+
+“No. Two variable. Four areas. Nine too many.”
+
+Kairon beamed. “Yes! My friends, this is what we call collaboration. Bean, you are officially our new farming manager.”
+
+The tiny imp’s eyes went wide. “What? Me?!”
+
+“Yes! You! To be clear, you will still report to Shiny. But, when it comes to farming, all workers will run through you first. How’s that sound? Great.”
+
+Clapping the little critter on the back, Kairon grabbed his walking stick and climbed to his feet.
+
+“Alright master farmer. Help me find some sticks to demarcate the soil. We need to get this ashroot ready for testing!”
+
+***
+
+On his way back to the citadel that evening, Kairon took a detour. The more he learned about the geology his corruption morphed, the more questions he had.
+
+And this time, it was water.
+
+Since he’d come here, almost every puddle near the city, from the riverbeds to the organically spaced ones, were constant. And it hardly ever rained.
+
+So where’s the water coming from? And why isn’t the heat of my domain stopping it?
+
+Pausing at a large hellish puddle, he set down his staff and squatted. Kairon let one claw drag through the murky water, sloshing it around. His eyes traced it to the edge where, when he peered ever so closely, a dark line formed.
+
+On closer inspection, it turned out to be a channel. Sticking his charred talon in it, his eyes widened.
+
+Deep. Much deeper than I'd expected.
+
+The channel ran nearly a foot down in some places. And, now that he was specifically looking for it, he was able to use the massive purple eye atop the tower to follow it.
+
+The dark, brown channel ran from puddle to the south. It snaked and wound from his domain, following a slight incline in elevation.
+
+On and on it went. One interesting observation was that the further he followed it, the lighter it became. As if the water was darker and darker inside that channel the further it traversed the demon’s lands.
+
+By the time he reached its source, he found the pathway ran all the way to the mountains.
+
+So even with the corruption, the water table remained largely intact. For our city, it means that we have a source of water coming from The Spines snow melt. And, even with the altered landscape, it still flows here.
+
+That was Kairon’s working theory, anyway.
+
+Making his way back to the city, future ideas of water sourcing and potential uses whirled through his mind. Many archaic civilizations harnessed water for industry, luxury, and even energy. He could potentially use this to revolutionize his demonic settlement. Eventually.
+
+As he was pondering that, at the very back of his mind, something else wormed its way in. Something telling him that he’d just gained a clue. One that could change everything.

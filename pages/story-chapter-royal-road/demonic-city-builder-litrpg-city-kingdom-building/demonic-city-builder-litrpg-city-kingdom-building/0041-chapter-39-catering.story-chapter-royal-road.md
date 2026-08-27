@@ -1,0 +1,269 @@
+---
+id: 948feb3e-f6c7-5d92-98ad-cfb876a9e0f7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 39 - Catering"
+slug: 0041-chapter-39-catering
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 41
+ownLength: 2950
+unit: words
+publishedAt: 2026-07-04
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3629733/chapter-39-catering"
+royalRoadId: "3629733"
+---
+
+It had taken the party nearly four hours of hard riding to get through the thick of the corrupted treeline. The horses had left a trail of hoofprints in the ground, drawing a path from the mountains to the demonic city. Any tracker would have little trouble figuring out the route they took. Not that it mattered.
+
+The closer they got, the more worked up Lord Hallen was getting.
+
+"What are those?" he called, pointing at the black mass ahead.
+
+Riding up to his side, Elson shouted over the clatter of hooves. "Those would be the walls, my lord! The ones that I told you of. I was indisposed for much of the battle. But I still saw the inferno. It was… Terrifying. And that stone swallowed it whole. All of it." The lieutenant stared on, face pale. He reached inside his shirt as he rode, rubbing the gold-fused flesh hidden within. A faint wisp of steam wafted upwards.
+
+"Swallowed, you say. How interesting… I wish to see these walls! Say, Aldous. How do you think they did it?" called the lord, looking back at his servant.
+
+"Probably something barbaric," muttered Aldous. "I, for one, firmly believe that whatever trickery or unholy magic is at work here is best left alone."
+
+"You know, that sounds like something a Solari would say."
+
+His servant said nothing to that.
+
+"And besides, old man, you mean to tell me that barbarians built that?" he added.
+
+Ahead, the dead trees were giving way. A clear view of the walls came into focus. And above them, a tower visible even from here.
+
+That wasn't what Hallen was referring to. It was what lay atop it.
+
+At its apex, a horrific purple eye flared to life. The moment they crested the gently sloping terrain, it shifted. The pupil dilated, making eye contact directly with Lord Hector Hallen and his guards.
+
+Several gasped, Elson glared, and Aldous nearly fell from his mount.
+
+"It's looking at me!" Hector shouted. “Right at me! And just look at the size of it! Bigger than a house!” He turned to his contingent, surprised that they weren't similarly fascinated. Their faces were a sharp contrast to his own. A pale, horror-filled emotion sat on each.
+
+"We aren't alone, my lord," said Elson, breaking the moment.
+
+"Obviously. There's an entire city—"
+
+"No. Look." The soldier nodded to their right.
+
+Two bone-armored forms were visible several hundred paces distant. They made no move to get closer. Instead, they ran silently, orange eyes tracking them carefully.
+
+"I told you. Just look at those hideous protrusions. Barbaric," spoke Aldous.
+
+"I disagree. Barbarians don't use patrols," countered Elson.
+
+Hallen considered that. He looked at the creatures, before pulling on his reins. "Course change! Let's go around."
+
+The column shifted west. For a moment, the two creatures fell behind. Then, without urgency, they adjusted. Matching the new heading exactly.
+
+"They're shifting too, my lord!"
+
+Growling, Hector spat to the side, urging his horse faster. While he was excited to meet the creatures, he preferred doing it on his timetable. Not theirs.
+
+"Again! More to the west! Let's avoid an intercept!" Hallen called.
+
+The pursuing creatures adjusted too, but this time less drastically. Red legs dashed over the orange sand. Despite their bulky forms, they moved like ghosts, flitting from corrupted tree to tree. For them to keep up with horses at a trot, especially in this terrain, spoke of hard conditioning.
+
+Elson's jaw tightened. "My lord. They aren't trying to catch us. They're keeping distance."
+
+"So? That's good, isn't it?"
+
+"No. It's what predators do. Stalking prey.”
+
+Lord Hector Hallen was about to call for a sharp left on their course, when another guard spoke.
+
+"And there, sir!"
+
+To their left, another pair of patrols appeared, pushing closer.
+
+"Maybe we should just turn around, my liege. Approach again at dawn?"
+
+"Behind us!" hissed a soldier in the back of the column.
+
+Turning his head, Hector spotted it too. Four forms trailed their horses. Each gripped a spear. Human-made, with iron heads.
+
+"God save us. Just what have you dragged me into, my lord…" whimpered Aldous in distress.
+
+Hector swore. "These creatures. They weren't patrolling or stalking. They were herding. And we were the sheep."
+
+“But where to? The city?”
+
+“No. To that,” said Hector, pointing one gloved finger straight ahead.
+
+Just visible at the top of the next hellscape slope, a gathering waited. One they had no choice but to attend.
+
+“What was the point of all this? To keep us away from the city?” asked Elson. “Tactically, those walls would be more threatening. I’d know.”
+
+“To show us they could,” mused Lord Hallen. “To show us they could...”
+
+***
+
+Kairon deactivated Sovereign Eye, letting the purple sphere above the tower in the distance go dormant.
+
+“Like sheep, they come. All of you! On your best behavior. I won’t tolerate any repeats of last time.”
+
+He brushed claws down his scales, clearing any sand that ruined their polish. “Is that clear?”
+
+“Yes master!” came a chorus of gathered warriors.
+
+Satisfied, he turned, facing the oncoming party. His stern demeanor shifted into one of generosity.
+
+I’m impressed those mounts can push so well through the hellscape. As he watched, each hoof sank into the sand, slowing their trot considerably. Still. For a horse, they were going quite slow. Evidence that strong or not, the beasts had their limits. A good thing too. It let our warriors keep up without too much challenge. That and Vorathrex’s training.
+
+When they were five hundred paces distant, they tried to slow. To gently veer away. Kairon simply had the wrath imps close together, pushing his customers to the market. They obeyed.
+
+Now for the carrot.
+
+He waited until they were within a hundred paces, and then took three steps forward before slamming down his staff. Lifting his free arm, he waved cheerfully.
+
+Uncertainly, the humans made to stop.
+
+“Whoa, woah now!” shouted a few guards, yanking back on the reins and rearing up. The clattering of hooves dissipated as they finally managed to coax their steeds. They stayed grouped, subconsciously pressing closer together.
+
+Seeing this, Kairon tried to defuse some of the tension. Some. Not all. A bit would be helpful.
+
+“Please! Join us! We mean no harm, and would love to have open discussions.” He very specifically did not say they were free to leave. While Kairon didn’t really intend on violence, the unspoken nuances would do wonders at the negotiation table. He wanted to approach from a seat of power. A diplomatic seat, but still one of power.
+
+The soldiers stared, taking in the full scene. Military eyes scanned the dozen bone-armored wrath imps at his rear, then the massive giant directly behind Kairon, and finally the pursuing warriors holding position at their back. Far enough not to scare, but close enough if need be.
+
+Of all the glances, the ones in the direction of Vorathrex held the most hesitation. Even missing two arms, Kairon’s councilor of wrath made an imposing sight. His frame and muscles were relaxed, but his eyes spoke of violence. And the soldiers knew. One far more vividly than the rest.
+
+Finally, when the demon judged the moment just right, he spoke.
+
+“I am city lord Kairon. May I express just how happy I am to meet you all?” He smiled, pearl white fangs gleaming. “Please! Join me. We’ve prepared a neutral meeting area for both parties.”
+
+He motioned to the logs serving as benches in front of him. Kairon had the imps prepare small greeting grounds of sorts. A small fire, five log benches, and some cleared space. Not exactly a proper embassy, but it would do.
+
+The noble at the front dismounted.
+
+“My lord! What are you doing?! We—”
+
+He waved his guard away, muttering something behind his back Kairon couldn’t make out. Whatever it was, the guard’s eyes bulged, but he stilled. The rest of his party did the same—waiting, swaying on their horses.
+
+And, to Kairon’s surprise, he returned his smile with one of his own before striding forwards.
+
+This one is not another brute. The decision to join me alone, and wear that smile…
+
+Those were purposeful actions. To offset the herding he’d experienced and attempt to regain some power.
+
+Turning his head, Kairon looked at his general. “All of you. Watch closely. If you see anything out of place, tell me. But only act if you feel my life is at risk.”
+
+Another chorus of “Yes master!” came from the wrath imps. Vorathrex, for his part, simply grunted.
+
+Good enough.
+
+Taking several careful steps, Kairon slid onto one of the logs. On the side opposite, the noble approached, before pausing.
+
+“Kairon you say? Well, you have no idea how long I’ve waited to meet you.” He held out one hand, and Kairon took it, claw to flesh. They shook, each firm. He let his black claws just prick into the noble’s skin, drawing the faintest hint of blood. Several tiny specks of crimson dropped into the sand below. A faint wisp floated in the air, before they disappeared.
+
+However, he didn’t look at that. He stared directly into the noble’s blue eyes. Kairon watched them, holding the handshake for a moment longer than the human wanted, before breaking it.
+
+“That tickles me to hear. Truly, it does. And you are…?”
+
+Wincing, Hector rubbed one palm over the minuscule cuts along his forearm. “I…” He coughed, clearing his throat. “I am Lord Hector Hallen of The Kingdom of Hallen.”
+
+“Lord Hallen,” the demon repeated. “We’ve been expecting you. Sit, sit.”
+
+He sat, eyebrows raised. “Expecting? You knew we were coming?”
+
+Kairon pointed one claw at the floating purple eye, clearly visible from the prepared seating. They’d chosen this meeting spot very carefully.
+
+“We knew the moment your boots, well, hooves in this case, touched our domain. We’ve been watching you for oh… about four hours,” he replied warmly. “I apologize for making you wait, but we wanted to let you… settle in.”
+
+From behind, an older human slid off his horse and joined the gathering. Hallen turned, and for just a moment Kairon caught an air of dissatisfaction, but quick as it had come it was gone. Back to that natural smile. “Ah! Aldous. Come, join us. Kairon, this is my most trusted servant. I presume you won’t mind if he joins us?”
+
+“No, no. Not at all. In fact, we’ve prepared some refreshments.” He motioned to the fur blanket spread over the nearby ground, freshly roasted meat resting in a pile. Behind, the fire crackled, sending gray smoke skyward. “I’m told the pass isn’t kind to travelers this time of season. Please, eat. Recover. Rest.”
+
+Without hesitation, Hallen took a piece of meat, and began eating it. Just like the imps at dinner time. No silverware, no utensils, no plate. Just a man and his meal.
+
+One more check on your resume. Impressive, thought Kairon.
+
+The old servant gawked, mouth opening and closing several times. “My lord, perhaps we should—”
+
+“Oh for god’s sake. Sit down, Aldous. Our host went to all the trouble of cooking,” scoffed Hallen between mouthfuls of meat.
+
+Aldous did not sit. He just stood, a most unpleasant expression on his face.
+
+Kairon took a small roast himself. Something suitably appropriate for the occasion.
+
+After passing around the food to soldiers on both sides of the meeting, more of the tension dissolved. Just a little. Wrath imps ate greedily, the fresh meat a treat compared to the jerky. Behind them, Vorathrex had two drumsticks in each hand. At Kairon’s earlier instructions, they ate as usual. Savagely.
+
+On the other side, the humans, save Hallen, barely touched their food. They watched, mouths agape, as the barbaric feast was devoured by the imps. One gasped when Vorathrex crammed three servings in his mouth at once. Kairon smirked at that.
+
+“What’s wrong with your soldiers? Are they not hungry? Or, perhaps the food wasn’t prepared to their liking? I apologize if so. But, I wanted to give them a proper demon’s meal. A taste of the local cuisine, if you will.”
+
+He noticed the noble perk up in interest when he said ‘demon’, but chose to ignore it. Instead, Hallen turned and gave a sigh.
+
+“I… keep my guards well fed. It seems they have little room in their stomachs.”
+
+“Really? I didn't see you stop at all during your trek in my domain. You know, by the time you got here, I almost thought you were running. It made me rethink my generosity as a host.”
+
+Hallen snorted. “Maybe we were just excited to meet you.” Polishing off the bone he was gnawing on, he pointed it at the walls in the distance, steering the subject away.
+
+“Anyway, I’ll be honest with you, Kairon. My first man told me you had seven creatures and a black tower. My second told me twenty and a wall. And now, here I am. And I count at least thirty here alone. With more, I presume, in that tower of yours. A proper lord might be… concerned at what that holds for the future. What am I to make of that?”
+
+“Oh? So you sent those men to attack our domain?”
+
+Hallen paused, studying the demon. “I thought you knew… That this was a peace talk, of sorts…” he trailed off.
+
+Gotcha. Internally, Kairon smirked. You’re a clever man, Hector. But you’re a child where I come from. Much to learn. Much to learn…
+
+“Hector. Can I call you that? Good. Until now, every human I’ve met but one has been quick to draw conclusions and come to threats and violence. I’m thrilled to finally be able to sit down with a leader of your race, and begin true discussions. However, I did not know which of your leaders sent the… exploratory force that happened upon our walls. Until now. So it's good to know whom I need to request reparations from.”
+
+For a moment, the lord said nothing. He gave a cough, wiping his mouth, and tilted his head back, and laughed.
+
+“That was an exploratory force to you, was it?”
+
+Kairon shrugged. “I assumed it had to be, given how easily we dealt with it.”
+
+Hallen's face darkened at that. “Yes. I suppose you would think that,” he muttered.
+
+“Now. Back to the topic of reparations. I was thinking—”
+
+From behind, a scream cut through their chatter. The lead soldier clawed at his chest, his neck, his torso. “It burns! It burns! Stop, please, make it stop! I can’t bear it anymore, I—”
+
+Then, his eyes rolled back and he toppled from his mount, body thudding into the sand.
+
+For a long moment, nobody moved. The change in behavior was so sudden and out of place, it was jarring.
+
+Kairon’s inner demon sighed. Right before we could get to reparations. Although, maybe I can spin this to our advantage. He spoke up. “Oh my. I think the heat may have been a little much? Is he quite alright?”
+
+Like his voice broke the dam of silence, several soldiers flung themselves from their horses and rushed to their lieutenant's side. In moments, armored hands roved atop the man. Checking his body, his chest, his forehead.
+
+“My lord! He’s burning up!” One guard took a water skin, spilling it atop him.
+
+Lord Hallen pursed his lips, climbing to his feet and walking over. He knelt down, inspecting his guard.
+
+“He is quite warm. Say, Kairon. Do you have any shade around here? Somewhere more cool?” He looked around again at the wasteland, nothing more than corrupted dark trees devoid of any leaves or brush in all directions. Then at the blazing sun in the sky. “This one’s served me well. I’d hate to lose him to the heat. It would be a favor to me, personally.”
+
+Kairon put his claws on his hips, considering. It would also taint our lovely meal. A corpse is not what I want our new customers to remember us by.
+
+“The only shade we have is in the citadel… I suppose there are the camps too, but my workers are a bit… territorial.” He sighed. “Frankly, I’m not willing to allow an entire squadron in our walls. Not until we’ve finished our discussion. But, as a sign of goodwill, I will permit your injured man and perhaps one other if they leave their weapons behind.”
+
+Hector thought for a moment. “And you guarantee his safety?”
+
+“I guarantee that no imp will harm him,” intoned Kairon, giving his troops a meaningful look.
+
+“And the big one?”
+
+“Vorathrex? Will you abide?”
+
+The big demon huffed, a small pile of charred bones at his feet. “I do not consume the weak.”
+
+“See! You have nothing to fear. Let this be a… sort of olive branch. From my claw, to your hands.”
+
+“Alright. Aldous! You take him.”
+
+“My lord? I hardly—”
+
+“As my most trusted servant, who better could I ask to go?”
+
+The old man stuttered, before wiping the sweat from his forehead. “O-of course, my lord,” he said, gaze locked on the imp warriors.
+
+“Good! It's settled.”
+
+Kairon slid away, before kneeling down next to Boney. “I want you and… say half a dozen warriors to go as escort. Remember, the vault can only be opened if I will it, but I still want you to watch these humans very carefully. Understand? If they try anything, subdue them,” he said only loudly enough for the warrior to hear.
+
+“Hmph. Yes master!”
+
+Minutes later, Kairon and Lord Hector Hallen watched the limp form of Elson being carried away atop a horse. In tow, seven warriors and one very distraught human followed.

@@ -1,0 +1,2019 @@
+---
+id: 4dae8ec4-7129-5a5c-bd11-90f8f683653d
+page-type-slug: story-chapter-royal-road
+title: "238: Maintenance"
+slug: 0238-238-maintenance
+partOf: delve
+position: 238
+ownLength: 5391
+unit: words
+publishedAt: 2023-07-23
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1286257/238-maintenance"
+royalRoadId: "1286257"
+---
+
+Pivoting at the ankles like a vampire, Rain rose from his cloud-soft bed. He took with him a cape made not from bat skin, but from his decadently poofy comforter, charged with the spiritual weight of Ameliah’s arms. Soft, fluffy slippers formed around his feet as he floated down to the floor.
+
+With a yawn so large he needed to enlist Snek’s help, he wrapped the blanket tight about himself and shuffled toward his desk. Once the tiny avatar had rehinged its jaw, it slithered across the desk to greet him as he settled into the chair.
+
+Good morning, me.
+
+In response to a thought, a steaming mug of hot cocoa sprouted from the desk like it was being 3D printed in time-lapse. Poking a hand out from under the blanket to grab the handle was almost a physical pain, but the warm, rich liquid immediately soothed the discomfort away. Rain released a satisfied sigh and set the mug on a coaster as three wide-screen monitors flickered to life. Tethering his interface to the workstation, he opened a fresh document and began to type.
+
+To-Do 3061-06-01
+
+Tree unlock
+
+Essence exchange
+
+Figure out how much time I have before Ameliah wakes up
+
+Core Maintenance
+
+Unity prep
+
+Read zone codices
+
+Update minimap utility
+
+Status report to the high council
+
+Check on Ascension
+
+More and better ramscoops
+
+Armor and shields
+
+Learn how to be a musical Tesla coil?
+
+Pattern 22
+
+Finish to-do list
+
+Rain smirked as he typed the last item, which had become traditional.
+
+He reached for his mug, finding Snek curled around it for warmth. Unwilling to disturb even the smallest cozy part of himself, he simply summoned a fresh beverage. Taking a long pull—of black coffee this time—he surveyed the roughly prioritized list, decided it was good enough, then jumped straight in. After spending the requisite experience to unlock a tree, a new dialog obediently appeared on his rightmost monitor.
+
+Arcane Mysteries
+
+...
+
+Tier 4
+
+Mass Teleport (0/10)
+
+Instantaneously transport yourself and all targeted entities/objects to a previously visited location
+
+Target Range: 1 m
+
+Destination Range: 10 km
+
+Cost: variable Arcane mana, based on weight, distance, Focus, and environmental factors
+
+Cast Time: 1 min
+
+Requires 84 ranks in Arcane Mysteries
+
+Requires 42 ranks in Arcane Utility
+
+Requires 10 ranks in Flash
+
+Requires 10 ranks in Flight
+
+“Tch,” Rain said, reading. When his interface gave up on presenting a formula, it typically meant one of the underlying variables wasn’t quantifiable. Here, that would be the ‘environmental factors’. From lightly grilling Glavin—the as-yet-missing-and-thus-probably-dead-though-possibly-chillaxing-in-a-tropical-paradise-somewhere Translocationist—Rain had already known as much, but he’d dared to hope.
+
+Taking another sip of his coffee, he opened a new document and copied in the text, starting his report to the council. Jamus would be interested in the skill description, or at least the requirements, if nothing else. Getting Flight, Flash, and Elemental Refinement would be pretty easy for him, supposing they found him a decent blue sometime this century. And supposing he even wanted it. Jamus hadn’t exactly been slacking recently, but his priorities had clearly shifted away from earning credits. If he was happy spending time with Meloni and reconnecting with his family, who was anyone to judge?
+
+He’s not the one with a ticking timebomb in his head.
+
+Rain’s eyes glazed over as he extended his senses and triggered an essence exchange.
+
+Progress Report
+
+marker_1: city_of_lights [3061 Light 32 10:00]
+
+marker_2: threecore [3061 First Harvest 01 09:15]
+
+Span: 23.2 hours
+
+Character
+
+Total Exp: 5,436,316 -> 6,136,316 (+700,000)
+
+↳Mana Use: 700,000
+
+Skills
+
+Prismatic Intent: +16,863 exp, 9 -> 10 (+1)
+
+Returning with a series of rapid blinks, Rain released a small sigh that had nothing to do with the dialog. As expected, the system had barely fed him a trickle of essence. The four or so minutes it had been in the real world since his last exchange—triggered before engaging in ten subjective hours of sleep—hadn’t been enough for the environment of Threecore to meaningfully recover. Not that he’d expected any different. Like in the city above, the essence here was thinned thanks to all the awakened around.
+
+Nevertheless, it was better down here, particularly in the tunnels. Over the course of his run, he’d more than kept even on his essence balance through repeated exchanges and the improving efficiency of his ramscoops. He was ahead of schedule on tree unlocks, able to justify liberal mana usage—and thus experience gain—thanks to his increased chaos intake. His refinement stack could keep up, so there was no need to mess with it for the moment.
+
+Ramscoops before refinement cells. That’s the bottleneck. Even if I figure out the next pattern, I’ll need more essence before I can do anything with it.
+
+Rain got to his feet and stretched. Feeling more awake, he split his mind a bit further, tasking Snek to start composing the report for the council. Keeping the blanket, he moved away, and keys began pressing themselves as Snek dragged the warm mug to the center of the desk.
+
+Finishing his own drink, Rain disappeared the mug and walked to the elevator. He could have warped himself where he was going, but he wasn’t in a rush. Exactly how not-much-of-a-rush he was in, he calculated as he walked.
+
+With her latest accolade setup and all four rings, Ameliah has 693 in each stat. She can’t do that all the time, no matter what she says, but she had all four on when she went to bed, so that’s the number I’m using. That makes her time acceleration around 2.6x. Same as her Jack multiplier. Nice coincidence. She sounded dead, so assuming she sleeps at least as long as I did, I’ve got four real-time hours plus thirty-eight minutes for her to take Unity.
+
+The better part of a month, relative...
+
+No way I can wait that long. I’ll finish what I need to, then sleep normally.
+
+Hell yes, Unity, let’s go!
+
+Grinning, Rain paused, catching sight of his electric blue eyes reflected in the chrome elevator doors as they closed. He’d willed his irises brown before he’d gone to bed, but they’d already reverted.
+
+“Reactor,” he muttered, and the lift started moving.
+
+The reversion was expected at this point—confirmation that his soul considered blue to be the correct color for his eyes, just as it considered absolutely shredded to be the correct state for his body. His Strength sync drove the latter, but there was nothing he could clearly point to when it came to his eyes.
+
+I mean, I don’t mind. They look cool, and Ameliah says she likes them. I just wish I knew WHY. My Focus and Clarity sync have been maxed for ages. Is it because I split them out of my core? Because my soul is basically pure now? Because of Reading? Did I earn some mana-spending achievement?
+
+The doors opened with Rain no closer to an answer. He stepped out into a cavernous room, humming from the power coursing through the tangled network of conduits that connected the various machines. The remains of his original core were off to one side, the remnant of the gemstone plumbed in along with all the rest. There were still functions tangled up inside it that he’d yet to extract.
+
+My cable management...needs work.
+
+Feeling his slippers were inappropriate, he changed them to work boots, leaving his blanket alone as he ventured out into the mess.
+
+In Vatreece’s model, the heart represented the linkage between the soul and the body. In his model, the main reactor filled that role. He’d gone for a modular design, hundreds of tiny cores humming in parallel. As for what each core was doing, the answer was creating flow. The motion was important. Without moving potential nearby, higher-tier soul constructs would eventually break down. Further, the potential had to circulate through the link to his mind, where it could be charged with his will.
+
+Physically, each reactor core was a cylindrical plug of machinery, a quarter-meter across and a full two meters long. They were slotted in banks into a monolithic block of metal that held them in place and connected them to his ever-growing plumbing network. At the moment, most of the sockets were dark—some because they were empty and others because the cores within had cracked, the tell-tale tang of chaos lingering in the air.
+
+That was fine. Planned for.
+
+The burned cores were all low rank—some of the first he’d made from lower grades of essence. Needing his hands, he shifted the blanket to hang from his shoulders like a heavy cape. One by one, he began pulling them out, effortlessly manipulating the massive cores by their handles and tossing them into the recycler. Once finished, he drew rank essence from a tap on the wall and began constructing a replacement. Just one, though, and only from tier-fifteen potential. That was all he could spare.
+
+Naturally, he would upgrade everything to max eventually. This reactor would be his primary source of essence in rankless places, for in addition to driving circulation, each core also output a tiny trickle of essence according to its rank. Unfortunately, ex nihilo generation was orders of magnitude too inefficient to solve his current problem.
+
+Working on the new core’s decomposer—required to degrade its high-rank outflow to something his also-due-for-an-upgrade plumbing could handle—Rain found that despite Snek still typing away upstairs, he still had some spare mental bandwidth. With it, he turned his thoughts to the rest of the room.
+
+When mining his original core, one of his discoveries had been shards charged with the flavor of each attribute. As a direct consequence, the largest bit of machinery in here besides the reactor itself was the housing for his Clarity. It was a converter, amongst other things. Essence went in, and mana came out. From there, his pipes carried it to the reactor and out to his body, where it hung out until he recalled it to fuel a skill.
+
+Naturally, that was an oversimplification.
+
+Like his paling, system-stuff was threaded all through the Clarity machine in ways he didn’t understand and was afraid to modify. He had the feeling that once he had the time to really dig into it, sync and tolerance would become solved problems, but there were only so many hours in the accelerated day. For now, the machine was a literal black box. He’d added connections to his other constructs and pretty colored lights that lit up as he slid his stats around with the Malleable Ring, but that was it. The inside was solid preframulated amulite.
+
+Buttoning up the new core’s housing, Rain decided his spare thoughts would be better spent on something more immediately relevant.
+
+Accolades. Inventory. Status. Resistances.
+
+31/31 Slots
+
+Accolade
+
+Total Bonus
+
+8 [4x2]
+
+The Icy Cellar
+
++2,000Health
+
+6 [2x3]
+
+Jakon’s Pride
+
++600All Res
+
+6 [2x3]
+
+We Can’t Just Call It‘The Lair’
+
++400Force Res
+
+3
+
+Ulla’s Hope
+
++5,000Health
+
+3
+
+The Lair of Embers
+
++1,000Heat Res
+
+2 [2x1]
+
+The Halls of Corruption
+
++20Focus
+
+2
+
+Southshore Rat Warren
+
++1,000Health
+
+1
+
+Everdeep Fortress
+
++10Perception
+
+Slot
+
+Item
+
+Charge
+
+Saturation
+
+Durability
+
+Head
+
+Chest
+
+Legs
+
+Hands
+
+Feet
+
+Offhand
+
+Myriad Plate
+
+Bound
+
+Durability
+
+Hardness [12,047]
+
+500 Heat Resistance
+
+500 Cold Resistance
+
+375 Chem Resistance
+
+350 Force Resistance
+
+5,000 Arcane Resistance
+
+Lightness
+
+Compression
+
+Thermal Regulation [ON]
+
+Tactile Transference [ON]
+
+Facade [ON]
+
+Obfuscation [ON]
+
+Arcane Regeneration [OFF]
+
+Kinetic Conversion
+
+185,500 / 185,500
+
+0 / 154,209
+
+602,044 / 602,044
+
+Ring[0]
+
+Grand Malleable Ring
+
+Bound, Unity
+
+300/300 Attributes [˃]
+
+500 / 500
+
+0 / 4,270
+
+903 / 903
+
+Ring[1]
+
+Grand Malleable Ring
+
+Bound, Unity
+
+300/300 Attributes [˃]
+
+500 / 500
+
+0 / 4,271
+
+902 / 902
+
+Ring[2]
+
+Grand Malleable Ring
+
+Bound, Unity
+
+300/300 Attributes [˃]
+
+500 / 500
+
+0 / 4,269
+
+908 / 908
+
+Ring[3]
+
+Grand Malleable Ring
+
+Bound, Unity
+
+300/300 Attributes [˃]
+
+500 / 500
+
+0 / 4,247
+
+901 / 901
+
+Ring[4]
+
+Grand Malleable Ring
+
+Bound, Unity
+
+300/300 Attributes [˃]
+
+500 / 500
+
+0 / 4,271
+
+911 / 911
+
+Ring[5]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [ON]
+
+500 / 500
+
+0 / 4,272
+
+813 / 813
+
+Ring[6]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [ON]
+
+500 / 500
+
+0 / 4,278
+
+814 / 814
+
+Ring[7]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [ON]
+
+500 / 500
+
+0 / 4,273
+
+816 / 816
+
+Ring[8]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [ON]
+
+500 / 500
+
+0 / 4,274
+
+813 / 813
+
+Ring[9]
+
+Aura Collector’s Ring
+
+Bound, Unity
+
++1.12 Aura Synergy [ON]
+
+500 / 500
+
+0 / 4,271
+
+814 / 814
+
+Amulet
+
+Magewell Amulet
+
+Bound, Unity
+
+Mana Well
+
+100% Import Efficiency
+
+100% Export Efficiency
+
+50,000 / 50,000
+
+0 / 39,211
+
+313 / 313
+
+Mainhand
+
+None
+
+NA
+
+NA
+
+NA
+
+Underwear
+
+Forceweave
+
+Mundane
+
+NA
+
+NA
+
+NA
+
+Overwear
+
+Sadiiri Wrappings
+
+Mundane
+
+NA
+
+NA
+
+NA
+
+Richmond Rain Stroudwater
+
+CLASS
+
+LVL
+
+CAP
+
++STAT
+
+Engine of Change
+
+30
+
+30
+
+0
+
+EXP
+
+NEXT
+
+TOTAL
+
++SKILL
+
+130,422
+
+130,423
+
+6,136,316
+
+1
+
+Vitals
+
+CUR
+
+MAX
+
+RGN
+
+Health
+
+18,200
+
+18,200
+
+100/d
+
+Stamina
+
+5,163
+
+5,200
+
+100/d
+
+Mana
+
+231,500
+
+231,500
+
+6.6/s
+
+Attributes
+
+1,500/2,690
+
+EFF
+
+TOTAL
+
+BASE
+
+ACCLD
+
+MISC
+
+SYN
+
+STR
+
+510
+
+510
+
+10
+
+0
+
+500/530
+
+20.6(206%)
+
+RCV
+
+10
+
+10
+
+10
+
+0
+
+0/770
+
+11.5(115%)
+
+END
+
+260
+
+260
+
+10
+
+0
+
+250/500
+
+31.3(313%)
+
+VGR
+
+10
+
+10
+
+10
+
+0
+
+0/1,140
+
+11.6(116%)
+
+FCS
+
+280
+
+280
+
+10
+
+20
+
+250/2,000
+
+50(167%)
+
+CLR
+
+820
+
+820
+
+320
+
+0
+
+500/2,500
+
+330(103%)
+
+PER
+
+20
+
+20
+
+10
+
+10
+
+0/0
+
+47.1(236%)
+
+SPD
+
+9.6
+
+10
+
+10
+
+0
+
+0/18
+
+9.6(96%)
+
+Resistances
+
+TOTAL
+
+END
+
+ACCLD
+
+MISC
+
+HEAT
+
+2,126.0 120%
+
+26
+
+1,600 0%
+
+500 120%
+
+COLD
+
+1,126.0 0%
+
+26
+
+600 0%
+
+500 0%
+
+LIGHT
+
+626.0 0%
+
+26
+
+600 0%
+
+0 0%
+
+DARK
+
+626.0 0%
+
+26
+
+600 0%
+
+0 0%
+
+FORCE
+
+1,376.0 120%
+
+26
+
+1,000 0%
+
+350 120%
+
+ARCANE
+
+5,626.0 120%
+
+26
+
+600 0%
+
+5,000 120%
+
+CHEMICAL
+
+1,001.0 120%
+
+26
+
+600 0%
+
+375 120%
+
+MENTAL
+
+626.0 120%
+
+26
+
+600 0%
+
+0 120%
+
+Mmmmm, numbers.
+
+Rain smiled. Other than the freedom of the Cervidians, the accolades were the best thing to come out of the Menoviks by far. The accolades of Jakon’s Pride were the cream of the crop, and they’d gotten four of them. Ulla’s Hope was great, too, as was Not Worth It, which Ameliah was using at the moment. The name probably had to do with it coming from an Arcane lair. Whoever had broken the core clearly hadn’t cared about the danger and, in so doing, had proved the lair’s namers wrong. A skill-granting accolade was SO worth it.
+
+And a tier-one skill, too. The Menoviks must have paid a fortune.
+
+Dismissing his status, Rain summoned Ameliah’s instead.
+
+32/32 Slots
+
+Accolade
+
+Total Bonus
+
+10 [5x2]
+
+Blackfoot Trench
+
++10All Attributes
+
+6 [2x3]
+
+Jakon’s Pride
+
++600All Res
+
+2 [2x1]
+
+The Fire Well
+
++10Recovery
+
+2 [2x1]
+
+Deepwater Grotto
+
++20Endurance
+
+2
+
+The Scorch
+
++30Clarity
+
+2
+
+The Ice Cavern
+
++20Strength
+
+2
+
+Mello Tinn Da
+
++10Recovery
+
+2
+
+Not Worth It
+
+Empowered Mainhand
+
+2
+
+The Forbidden Reach
+
++20Vigor
+
+1
+
+Enderwood
+
++20 Focus,-10 Clarity
+
+1
+
+Everdeep Fortress
+
++10Perception
+
+Slot
+
+Item
+
+Charge
+
+Saturation
+
+Durability
+
+Head
+
+Chest
+
+Legs
+
+Hands
+
+Feet
+
+Myriad Plate
+
+Bound
+
+Durability
+
+Hardness [31,225]
+
+850 Heat Resistance
+
+850 Cold Resistance
+
+640 Chem Resistance
+
+600 Force Resistance
+
+8,500 Arcane Resistance
+
+Lightness
+
+Compression
+
+Thermal Regulation [ON]
+
+Tactile Transference [ON]
+
+Facade [ON]
+
+Obfuscation [ON]
+
+Arcane Regeneration [OFF]
+
+166,950 / 166,950
+
+0 / 274,154
+
+1,441,869 / 1,441,869
+
+Ring[0]
+
+Grand Allstat Ring
+
+Bound, Unity
+
++150 All Attributes [ON]
+
+500 / 500
+
+0 / 4,103
+
+1,802 / 1,802
+
+Ring[1]
+
+Grand Allstat Ring
+
+Bound, Unity
+
++150 All Attributes [ON]
+
+500 / 500
+
+0 / 4,417
+
+1,814 / 1,814
+
+Ring[2]
+
+Grand Allstat Ring
+
+Bound, Unity
+
++150 All Attributes [ON]
+
+500 / 500
+
+0 / 4,202
+
+1,823 / 1,823
+
+Ring[3]
+
+Grand Allstat Ring
+
+Bound, Unity
+
++150 All Attributes [ON]
+
+500 / 500
+
+0 / 4,222
+
+1,799 / 1,799
+
+Ring[4]
+
+Ring Ring
+
+Bound, Unity
+
++3.36 Empowered Rings [ON]
+
+500 / 500
+
+0 / 4,103
+
+1,841 / 1,841
+
+Ring[5]
+
+Ring Ring
+
+Bound, Unity
+
++3.36 Empowered Rings [ON]
+
+500 / 500
+
+0 / 4,417
+
+1,828 / 1,828
+
+Ring[6]
+
+Ring Ring
+
+Bound, Unity
+
++3.36 Empowered Rings [ON]
+
+500 / 500
+
+0 / 4,202
+
+1,813 / 1,813
+
+Ring[7]
+
+Ring of Equipping
+
+Bound, Unity
+
++3.36 Equipment Mastery [ON]
+
+500 / 500
+
+0 / 4,109
+
+1,800 / 1,800
+
+Ring[8]
+
+Ring of Equipping
+
+Bound, Unity
+
++3.36 Equipment Mastery [ON]
+
+500 / 500
+
+0 / 4,284
+
+1,812 / 1,812
+
+Ring[9]
+
+Ring of Equipping
+
+Bound, Unity
+
++3.36 Equipment Mastery [ON]
+
+500 / 500
+
+0 / 4,217
+
+1,789 / 1,789
+
+Amulet
+
+Magewell Amulet
+
+Bound, Unity
+
+Mana Well
+
+100% Import Efficiency
+
+100% Export Efficiency
+
+100,000 / 100,000
+
+0 / 39,403
+
+313 / 604
+
+Mainhand
+
+Various Arrows
+
+To-Do: List
+
+-
+
+-
+
+-
+
+Offhand
+
+Irony
+
+Bound
+
+Durability
+
+Hardness [21,202]
+
+Lightness
+
+Flexibility
+
+Arcane Regeneration [OFF]
+
+Draw Weight: ~200 kgf
+
+75,000 / 75,000
+
+0 / 47,203
+
+324,801 / 324,801
+
+Underwear
+
+Forceweave
+
+Mundane
+
+NA
+
+NA
+
+NA
+
+Overwear
+
+Sadiiri Wrappings
+
+Mundane
+
+NA
+
+NA
+
+NA
+
+Ameliah
+
+CLASS
+
+LVL
+
+CAP
+
++STAT
+
+Uncertain Savior
+
+31
+
+31
+
+2
+
+EXP
+
+NEXT
+
+TOTAL
+
++SKILL
+
+0
+
+Vitals
+
+CUR
+
+MAX
+
+RGN
+
+Health
+
+36,036
+
+750.8/h
+
+Stamina
+
+36,036
+
+750.8/h
+
+Mana
+
+36,036
+
+53.9/s
+
+Attributes
+
+EFF
+
+TOTAL
+
+BASE
+
+ACCLD
+
+MISC
+
+SYN
+
+STR
+
+693
+
+63
+
+30
+
+600
+
+RCV
+
+693
+
+63
+
+30
+
+600
+
+END
+
+693
+
+63
+
+30
+
+600
+
+VGR
+
+693
+
+63
+
+30
+
+600
+
+FCS
+
+693
+
+63
+
+30
+
+600
+
+CLR
+
+693
+
+63
+
+30
+
+600
+
+PER
+
+20
+
+10
+
+10
+
+0
+
+SPD
+
+10
+
+10
+
+0
+
+0
+
+Resistances
+
+TOTAL
+
+END
+
+ACCLD
+
+MISC
+
+HEAT
+
+1,630.2 120%
+
+180.2
+
+600 0%
+
+850 120%
+
+COLD
+
+1,630.2 0%
+
+180.2
+
+600 0%
+
+850 0%
+
+LIGHT
+
+780.2 0%
+
+180.2
+
+600 0%
+
+0 0%
+
+DARK
+
+780.2 0%
+
+180.2
+
+600 0%
+
+0 0%
+
+FORCE
+
+1,380.2 120%
+
+180.2
+
+600 0%
+
+600 120%
+
+ARCANE
+
+9,280.2 120%
+
+180.2
+
+600 0%
+
+8,500 120%
+
+CHEMICAL
+
+1,420.2 120%
+
+180.2
+
+600 0%
+
+640 120%
+
+MENTAL
+
+780.2 120%
+
+180.2
+
+600 0%
+
+0 120%
+
+Rain smiled at the color of the panels, which he’d set to roughly match Ameliah’s soul. The display wasn’t live or anything, just a collection of documents. He was sure he’d made the odd error here or there, and there were plenty of things he wasn’t tracking, not wanting to pester Ameliah with constant requests for the latest numbers, but ’close enough’ was something he was learning to deal with.
+
+I should update this after that run. Later. I know what’s changed.
+
+Chuckling at himself, Rain plugged his completed reactor core into its slot, smiling as it lit up with a satisfying glow. Dusting his hands, he returned his attention to the panels as he headed for the elevator, feeling the power of the new core spreading slowly through the entirety of his being. It wasn’t much compared to the single rank-twenty-one core he’d made, but it more than made up for the ones it had replaced.
+
+Rain smiled, feeling stronger than ever, though still a little squishy for the depths. Between him and Ameliah, there was no question who would be on the front line when things got real. Her Myriad Plate had the same enchantments as his, and while it didn’t integrate the shield slot and was thus slightly weaker to start, its resistance buffs, hardness, durability, and max saturation were all multiplied by her passive skills. Likewise, her Magewell could store twice as much mana as his, thanks to the strange way Empowered Amulet worked on the Well enchantment.
+
+Rain scratched at his beard as the elevator doors slid closed.
+
+I didn’t ask what skill she’s dumping for Unity. Since we’re sticking together, she doesn’t need the extra fifty thousand mana, so yeah, probably Empowered Amulet. I’m surprised she hasn’t dumped it already, actually.
+
+“Skill deck,” he said, waving the windows away. As the elevator hummed, he couldn’t help bouncing on the balls of his feet with excitement. There was a lot of uncertainty around which skills Unity would actually work with, and it was limited to tier two unless they somehow managed to get Ameliah above 3,846 Focus, but even so...
+
+The list was stacked.
+
+Skills
+
+Aura Metamagic
+
+Tier 0
+
+Amplify Aura (15/15)
+
+Multiply aura intensity by 250%
+
+Multiply aura mana cost by 400%
+
+Extend Aura (15/15)
+
+Extend aura range by 15 meters
+
+Multiply aura mana cost by 400%
+
+Tier 1
+
+Aura Focus (15/15)
+
+Focus on an aura to boost its output
+
+Multiply aura intensity by 400%
+
+Multiply aura range by 400%
+
+Multiply aura mana cost by 400%
+
+User loses all external senses while focusing
+
+Aura Synergy (20/15)
+
+Increase all aura output by 2.0% for each rank in any aura
+
+Effective boost: 480.0%
+
+Tier 2
+
+Aura IFF (15/15)
+
+User may exempt entities from direct aura effects at will
+
+Selected entities receive -50.0% aura output
+
+Prismatic Intent (10/15) Exp: 2,712/18,400
+
+User may maintain 11 auras simultaneously
+
+Tier 3
+
+Aura Compression (15/15)
+
+Compress aura output, reducing range to boost intensity
+
+Increase intensity by 3% per meter of compression
+
+Ethereal Aura (15/15)
+
+User may exempt the aura from environmental effects at will
+
+Aura gains 75% resistance to environmental occlusion and absorption
+
+Environment receives -50% aura output
+
+Tier 4
+
+Anchor Aura (9/15) Exp: 34,900/59,200
+
+Allows for the creation, binding, and use of aura anchors
+
+Aura anchors are attuned to a single aura at the time of creation
+
+Aura anchors act as additional emission points, irrespective of distance
+
+User may project any aura through 0-9 anchors simultaneously
+
+Aura range is distributed across the user and any selected anchors
+
+Anchor Creation Cost: 100 + 100^x
+
+Anchor Creation Time: 1 hour
+
+Anchor Durability: 100 + 100^x
+
+Anchor Hardness: 28 (fcs)
+
+x must be a whole number greater than or equal to the tier of the attuned aura
+
+Aura use through an anchor damages the anchor
+
+Anchor damage is proportional to the mana flux, mitigated by Hardness
+
+Defensive Auras
+
+Tier 0
+
+Heat Ward (15/15)
+
+Increase heat resistance by 261% for all entities
+
+Range: 87 meters
+
+Cost: 1 mp/dmg mitigated
+
+Tier 1
+
+Arcane Ward (15/15)
+
+Increase arcane resistance by 261% for all entities
+
+Range: 87 meters
+
+Cost: 1 mp/dmg mitigated
+
+Chemical Ward (15/15)
+
+Increase chemical resistance by 261% for all entities
+
+Range: 87 meters
+
+Cost: 1 mp/dmg mitigated
+
+Mental Ward (15/15)
+
+Increase mental resistance by 261% for all entities
+
+Range: 87 meters
+
+Cost: 1 mp/dmg mitigated
+
+Tier 2
+
+Force Ward (15/15)
+
+Increase physical resistance by 261% for all entities
+
+Range: 87 meters
+
+Cost: 1 mp/dmg mitigated
+
+Tier 3
+
+Suppression (15/15)
+
+Increase mana costs for all entities by 2088 mp (fcs)
+
+Range: 87 meters
+
+Cost: 15 mp/s
+
+Magical Utility
+
+Tier 0
+
+Intrinsic Clarity (15/15)
+
+Multiply base mana regeneration by 400%
+
+Intrinsic Focus (15/15)
+
+Multiply base mana by 400%
+
+Tier 1
+
+Channel Mastery (15/15)
+
+Allows intuitive control of channeled skill intensity and tick rate
+
+Minimum skill intensity: 0%
+
+Maximum skill intensity: 200%
+
+Maximum skill tick rate: 2.0s
+
+Minimum skill tick rate: 0.0s
+
+Skill mana cost modified by intensity adjustment
+
+Skill intensity per tick modified proportional to tick rate
+
+Mana Manipulation (15/15)
+
+Allows internal control of mana
+
+Allows expulsion of mana to environment
+
+Allows transfer of mana to and from capacitive items with direct contact
+
+Maximum transfer rate 9900.0 mp/s (fcs)
+
+Tier 2
+
+Magical Synergy (15/15)
+
+Enables limited synergistic cross-coupling of magical attributes
+
+37.5% of Focus contributes to mana regen
+
+37.5% of Clarity contributes to mana
+
+Offensive Auras
+
+Tier 0
+
+Immolate (15/15)
+
+1461.60-1670.40 heat (fcs) damage per second to entities and environment
+
+Sufficient damage causes ignition
+
+Range: 87 meters
+
+Cost: 75 mp/s
+
+Refrigerate (15/15)
+
+1461.60-1670.40 cold (fcs) damage per second to entities and environment
+
+Sufficient damage causes slow
+
+Range: 87 meters
+
+Cost: 75 mp/s
+
+Tier 1
+
+Radiance (15/15)
+
+1461.60-1670.40 light (fcs) damage per second to entities
+
+Brightens environment (fcs)
+
+Range: 87 meters
+
+Cost: 75 mp/s
+
+Shroud (15/15)
+
+1461.60-1670.40 dark (fcs) damage per second to entities
+
+Darkens environment (fcs)
+
+Range: 87 meters
+
+Cost: 75 mp/s
+
+Tier 2
+
+Fulmination (15/15)
+
+1461.60-1670.40 arcane (fcs) damage per second to entities and environment
+
+Sufficient damage causes paralysis
+
+Range: 87 meters
+
+Cost: 75 mp/s
+
+Utility Auras
+
+Tier 0
+
+Purify (15/15)
+
+Purify poison, corruption, and contamination
+
+Range: 87 meters
+
+Cost: 150 mp/min
+
+Winter (15/15)
+
+Boost M.Regen by 870% for all entities
+
+Range: 87 meters
+
+Cost: 15 mp/hr
+
+Tier 1
+
+Detection (15/15)
+
+Sense selected items of interest
+
+Not occluded by mundane materials
+
+Resolution: 0.48 mm
+
+Range: 87 meters
+
+Cost: 15 mp/s
+
+Essence Well (15/15)
+
+Transfer mana to all entities within range, including user
+
+Transfer Rate: 87 mp/s
+
+Efficiency: 20%
+
+Range: 87 meters
+
+Velocity (15/15)
+
+870.00% boost to speed for all entities
+
+Range: 87 meters
+
+Cost: 15 mp/s
+
+Free Skill Points: 1
+
+Skills
+
+Aura Metamagic
+
+Tier 2
+
+Prismatic Intent (4/10) Exp: 1,302/2,800
+
+User may maintain 5 auras simultaneously
+
+Equipment Use
+
+Tier 0
+
+Deep Durability (10/10)
+
+Durability of equipped items is multiplied by 2.0
+
+Tier 1
+
+Empowered Amulet (10/10)
+
+Numerical enchantment boosts from the amulet slot are multiplied by 2.0
+
+Empowered Mainhand (10/10) - Granted
+
+Numerical enchantment boosts from the mainhand slot are multiplied by 2.0
+
+Empowered Offhand (10/10)
+
+Numerical enchantment boosts from the offhand slot are multiplied by 2.0
+
+Tier 2
+
+Empowered Armor (10/10)
+
+Numerical enchantment boosts from armor slots are multiplied by 2.0
+
+Empowered Rings (20/10)
+
+Numerical enchantment boosts from ring slots are multiplied by 3.0
+
+Tier 4
+
+Equipment Mastery (20/10)
+
+Decreases strain on equipment by 100.0%
+
+Heavy Armor
+
+Tier 1
+
+Thickened Plate (10/10)
+
+Multiply durability of heavy armor by 2.0
+
+Tier 2
+
+Deep Plate (10/10)
+
+Multiply saturation limit of metallic armor by 2.0
+
+Tier 3
+
+Heavy Armor Inventory (10/10)
+
+Gain a soul inventory for up to 100 (fcs) pieces of heavy armor
+
+Equipped heavy armor may be dismissed to the inventory at will
+
+Stored heavy armor may be recalled to the appropriate open slot at will
+
+Cost: 200 mp/kg
+
+Mana Vent (10/10)
+
+Desaturate heavy armor by venting accumulated mana
+
+Rate: 18118.0 mp/s (fcs)
+
+Cost: 1000 sp
+
+Hurling
+
+Tier 3
+
+Ranged Arsenal (10/10)
+
+Gain a soul inventory for up to 100 (fcs) ranged weapons
+
+Equipped ranged weapons may be dismissed to the inventory at will
+
+Stored ranged weapons may be recalled to the appropriate open slot at will
+
+Stored ammunition-tagged weapons may be recalled directly into an appropriate launcher-tagged weapon
+
+Cost: 200 mp/kg
+
+Magical Utility
+
+Tier 1
+
+Channel Mastery (10/10)
+
+Allows intuitive control of channeled skill intensity
+
+Minimum skill intensity: 0%
+
+Maximum skill intensity: 200%
+
+Skill mana cost modified by intensity adjustment
+
+Mana Manipulation (10/10)
+
+Allows internal control of mana
+
+Allows expulsion of mana to environment
+
+Allows transfer of mana to and from capacitive items with direct contact
+
+Maximum transfer rate 37036.0 mp/s (fcs)
+
+Tier 3
+
+Mana Sight (10/10)
+
+Passively perceive mana within the environment
+
+Resolution is 100% of that of mundane optical sight
+
+Activate to perceive mana within entities
+
+Active Cost: 10 mp/s
+
+Compatible with other sensory skills at 100% resolution while activated
+
+Physicality
+
+Tier 2
+
+Airwalk (10/10)
+
+Step on air as if it were stone
+
+Cost: variable sp, depending upon rank and applied force
+
+Restoration
+
+Tier 0
+
+Healing Word (10/10)
+
+Invoke a word of healing to restore health to touched entity
+
+Healing: 1001-2002 hp (fcs)
+
+Cost: 10 mp
+
+Sharpshooting
+
+Tier 0
+
+Drilling Shot (10/10)
+
+Shoot an arrow that spins, dealing increased damage
+
+Multiplies base physical damage by 11.01 (str)
+
+Cost: 10 sp
+
+Seeker Shot (10/10)
+
+Shoot an arrow that tracks its target
+
+Turn speed: 9009.10 deg/s (fcs)
+
+Tracking effect expires after 100 meters
+
+Cost: 10 sp
+
+Tier 1
+
+Piercing Shot (10/10)
+
+Shoot an arrow that ignores 50.0% of target’s hardness
+
+If physical damage is dealt, arrow pierces through target
+
+After piercing, physical damage to any secondary target is reduced by the hardness of the primary target
+
+After piercing, magical damage to any secondary target is reduced by the appropriate resistance of the primary target
+
+Effect can recurse indefinitely
+
+Cost: 25 sp
+
+Strong Draw (10/10)
+
+Bow draw weight multiplied by 2.0
+
+Toggleable
+
+Tier 2
+
+Endless Quiver (10/10)
+
+Conjure a copy of any arrow in your possession
+
+Copy persists for 10 minutes
+
+Cost: 10.0 sp
+
+Additional mp cost for enchanted arrows
+
+Sharpened Arrowheads (10/10)
+
+Multiply physical damage of arrows by 2.0
+
+Sniper Shot (10/10)
+
+Fire a powerful charged shot with extreme range
+
+Multiply physical damage by 57.1 (str)
+
+Arrow is not affected by gravity or wind within 1 km
+
+Cost: 100 sp
+
+Charge time: 10 s
+
+Tier 3
+
+Bleeder Shot (10/10)
+
+Shoot an arrow that drains the target’s blood
+
+Effect only activates if physical damage is dealt to health
+
+Target bleeds freely for 10 minutes until wound is sealed
+
+Cost: 200 sp
+
+Multishot (10/10)
+
+Fire an arrow that splits into 20 projectiles
+
+Each projectile deals 10% of the original damage
+
+Arrows fly in a fan up to 45 degrees wide, equally spaced
+
+Cost: 100 mp
+
+Tier 4
+
+Stacked Shot (10/10)
+
+Up to 11 Shot skills may be combined
+
+Cost: additive
+
+Utility Auras
+
+Tier 1
+
+Energy Well (10/10)
+
+Convert mana to stamina and transfer to all entities within range, including user
+
+Transfer Rate: 10 sp/s
+
+Efficiency: 20%
+
+Range: 10 meters
+
+Tier 3
+
+Empire of Brawn (10/10)
+
+Boost Strength by 100 for all entities
+
+Range: 10 meters
+
+Cost: 200 mp/s
+
+Empire of Grit (10/10)
+
+Boost Endurance by 100 for all entities
+
+Range: 10 meters
+
+Cost: 200 mp/s
+
+Empire of Will (10/10)
+
+Boost Focus by 100 for all entities
+
+Range: 10 meters
+
+Cost: 200 mp/s
+
+Empire of Drive (5/10) Exp: 1,193/8,800
+
+Boost Recovery by up to 50 for all entities
+
+Boost Vigor by up to 50 for all entities
+
+Boost Clarity by up to 50 for all entities
+
+Maximum Recovery boost is capped by the active Strength boost from Empire of Brawn
+
+Maximum Vigor boost is capped by the active Endurance boost from Empire of Grit
+
+Maximum Clarity boost is capped by the active Focus boost from Empire of Will
+
+Range: 5 meters
+
+Cost: 100 mp/s
+
+Free Skill Points: 0
+
+It took a gentle hiss from Snek to shake Rain out of his stupor. He looked around in startlement, shifting the windows aside to find the tiny avatar staring at him from outside the elevator. Unlike an actual elevator, this one’s doors had remained obediently open for him while he’d been lost in thought, drooling over possibilities. Embarrassed, he coughed, updating Empire of Drive to show as maxed before dismissing the windows and stepping forward to greet himself.
+
+The memory synchronization process wasn’t jarring, not like he’d expected it to be when he’d first started experimenting with splitting his mind. Between one footfall and the next, he discovered everything he’d written in the report for the council as well as Ascension’s status, which Snek had checked through Detection. ’Discovered’ was perhaps the wrong word. It was more like remembering something he’d been deliberately not thinking about than getting new information. He didn’t need to digest it. He already had.
+
+“Speaking of digesting, any chance you feel up to reading the zone codices?” Rain asked.
+
+Snek, who’d floated up to his shoulder and was busy wriggling under the blanket-cape, took a moment to settle himself, then shook his head, his tongue flicking out to tickle Rain’s neck.
+
+“I know; they looked so dry,” Rain replied, his boots clomping on the white deck plating as he made his way down the well-lit hallway.
+
+The atmosphere here felt electric. Charged—as if with possibility. He’d come to believe it was the invisible potential of his unspent skill point lingering in the air, not having found a physical manifestation. Doorways on either side of the hall were labeled with the names of his skill trees in golden text, but the skill cradles within were blocked from view by heavy security bulkheads.
+
+The Warden had stopped him from using his abilities once. She’d also told him that the mind followed the soul. Bolstering the station’s security was a step to stopping such funny business.
+
+Like everything else, it was a work in progress.
+
+Passing the last labeled room and reaching the end of the hallway, Rain stopped in front of a doorway that was as yet without a door. One of his essence-tank backpacks rested nearby, still partially full of potential leftover from yesterday’s construction. Drawing some out, he formed a simple nameplate bearing the word ’Miscellaneous’, then fixed it above the entryway using black text. While the other rooms were threaded through with system stuff coming from his specializations, this one was not. It was built of plain, low-rank essence, colored a flat white. The two skill cradles inside were dark, though not empty. The scant shards of meaning within the glass orb were very much there, just inactive. The plates below read ’Ice Bolt’ and ‘Soften Steps.’
+
+There was also a small table to one side, upon which sat a metal frame holding a skill shard under a magnifying lens—a shard that liked to light up when he talked to Dozer.
+
+“Right,” Rain said, clapping his hands, then rubbing them against each other. “Let’s get ready for some Unity.”

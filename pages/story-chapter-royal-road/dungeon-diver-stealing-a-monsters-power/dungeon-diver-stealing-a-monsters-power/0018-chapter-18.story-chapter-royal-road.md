@@ -1,0 +1,239 @@
+---
+id: a6d1a57a-fa17-5b7d-b75e-8ee7ceb62f3a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18"
+slug: 0018-chapter-18
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 18
+ownLength: 1925
+unit: words
+ownProgress: 1925
+publishedAt: 2023-02-06
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1107027/chapter-18"
+royalRoadId: "1107027"
+markedReadAt: "2026-06-29T20:32:25.462Z"
+---
+
+It's been 5 days since I beat the wolf boss for the first time. It's Monday morning now, I'm level 77. After beating the boss 16 more times I've gone up a total of 13 levels. The efficiency of leveling up is getting slower, it takes about 2 boss kills to level up and will only get worse from here. I'm able to defeat the boss while using only 1 MP potion, sometimes none at all. I can face it up to 5 times a day if I spend the whole 12 hour day trekking up and back through the desert. It takes me about 3 hits with a fire sword to subjugate the wolf man now. I've profited almost 30 silver in the last 4 days.
+
+[Status Open]
+
+____________________Name: Jay Soju
+
+Level: 77
+
+Hp: 390/390
+
+Mp: 390/390
+
+Strength: 190 [+50]
+
+Speed: 220
+
+Agility: 231
+
+Defense: 172
+
+Mental Strength: 191 [+38]
+
+Skills:
+
+AbsorptionSwordsmanshipCombat Magic [Fire Summoning]
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]Golden Wolf Ring [+20% Mental Strength]
+
+_____________________
+
+I got dressed and readied my sword in its sheath. As I went to reach in my drawer for a few coins to fuel todays hunt I saw a card I'd placed in there last week. It was the "Pace Guild" card. I remembered the scout offered to show me around their advanced E Class dungeon... it may be worth a shot today.
+
+I put all my gear together including a few leftover MP and HP potions and stepped out the door. I grabbed breakfast at the corner store and made my way in the direction of the Pace Guild. I'm curious how powerful their private dungeon really is.
+
+About 15 minutes later I found the guild. It was a large brick building, maybe 5 stories tall. They're a small guild, but in a town like this... what else can you expect.
+
+I walked right through the front door and was greeted by a tall blond woman.
+
+"Hello sir, welcome to the Pace Guild. Please show me your Hunter's license. How may I help you today?"
+
+"Oh sure, here. I- uh- I met a scout of yours by a dungeon last week. Jack? Could I talk to him?"
+
+She took my card and examined it.
+
+"3 months as an E Class Hunter? What's Jack doing scouting a rookie like you? Sure. I'll call him."
+
+I was thrown off by the rude remark. Her tone completely changed the moment she saw my license. I guess I can't blame her, my growth is rather fast. A regular 3 month old non-affiliated E Class would most likely be around level 20-25.
+
+I decided not to provoke her further, I patiently waited as she went off into a back room.
+
+Minutes later she came out with the familiar man by her side.
+
+"Hey! Jay the swordsmannnn! What a surprise. What can I do for you today?"
+
+"Hi Jack! Well, I came here to see the Orc Dungeon. The one you mentioned your guild privately ran. Is that possible?"
+
+He smirked, the woman looked annoyed.
+
+"Could I see your status to confirm some info? It's recommended to be above level 70 for soloing the main dungeon area. Plus level 100 is recommended for the boss, this is where we train most of our upper E Class as they get ready to cross over into D Class dungeons."
+
+"I- I would rather not show you my status if that's alright. I'm able to easily defeat the Wolf Dungeon boss solo. That should be enough confirmation for you right?"
+
+Jack looked at me curiously, the woman wore an even more disgusted look on her face. She definitely didn't believe me. Jack spoke up before she could say anything.
+
+"Yeahh, I guess that's fine. I have a few hours free this morning. I'd be happy to train with you a bit. Only one rule, all mana drops and loot are property of the Pace Guild. You're a a guest today, as our D Class representative I'd be happy to show you around."
+
+I nodded.
+
+"Works for me."
+
+He smiled.
+
+"Well, follow me. The dungeon is just out back, a 3 minute walk."
+
+I followed him out the back of the building and through a small park area.
+
+Moments later we came upon a large white fair tent. Outside were two guards. Jack smiled and said something to them and they let us enter.
+
+Inside there were racks of armor and weapons leading up to a big blue glowing portal. Without any words I drew my sword. Jack grinned and grabbed a sword from one of the top racks, it was bigger and shined much brighter than mine. We both jumped through the portal.
+
+When we got to the other side I took in the view for a minute. It was a very rocky landscape, but it had big red trees with dark green leaves scattered every 20 meters or so. There were small hills in front of us, and a big mountain in the distance.
+
+It felt like we were in a huge mountain range. The air was a bit thin and it was chilly. Overall, a very cool dungeon. I smiled.
+
+"Neat dungeon, how strong are the Orcs in here really...?"
+
+Jack turned to me.
+
+"They're pretty strong. About the same as the wolf boss, minus the fire. So they're a bit easier to subjugate. The boss here is a tough one though. We call it the D Class right of passage. Beat that boss alone and you're a D Class in the eyes of the Pace Guild."
+
+"Cool, let me at a few Orcs to warm up. Maybe we can take a crack at the boss today."
+
+I grinned with excitement. I'd get the chance to level up a lot today... plus I'd get to face a new overpowered boss. We started walking into the dungeon.
+
+"Hey, by the way... what's your skill Jack? Are you a swordsman?"
+
+He was visibly pleased I asked.
+
+"Yep, you guessed it. I have the swordsmanship skill and have a natural edge with my strength stat. This sword is a plus 100 strength as well. I rely on power and my swordsmanship skill.
+
+My eyes lit up.
+
+"Plus 100 huh? Nice sword."
+
+"Yeah it's more than enough for this dungeon. Our guild provides us all kinds of training gear. For the D Class dungeons I usually get a stronger sword, but it's not needed today."
+
+I nodded. Jack was still looking at me curiously.
+
+"What about you? I assumed you were a swordsman, but never got the chance to ask. What's your skill?"
+
+I grinned as I gripped my sword.
+
+"Yeah, I'm a swordsman. I have the swordsmanship skill, plus a natural boost in speed and agility. This sword has plus 50 strength."
+
+Jack nodded. He still looked at me with that curious gaze.
+
+"There's more isn't there..."
+
+I assumed he was onto me. Might as well let the cat out of the bag now, just a little.
+
+"Yeah, I have 2 skills. If the opponent is tough enough maybe you'll get to see it. Just keep it between us, I'm not trying to air out the fact that I'm a double skill user ya know?"
+
+I smirked. A little white lie was all I needed to keep him hooked.
+
+Jacks eyes widened.
+
+"I knew it. You were too confident of an E Class to just be a normal swordsman. I can't wait to see it."
+
+We kept walking further into the dungeon.
+
+After about 20 minutes we finally came across an opponent.
+
+"GRRRRRRUUUUUAAAAAR!"
+
+A large green man appeared from behind a tree in the distance. He stood about 3 and a half meters tall carrying a long silver sword. It had a bald head and pointy ears. Its 2 bottom teeth came out of its mouth looking like small tusks.
+
+It wore brown boots, a brown vest that looked like simple armor, and light brown wraps around its wrists. This is the first time I'd seen a monster wearing any special gear.
+
+It started charging towards me. I could tell the beast was much slower than me... but it clearly had enormous strength. Every step it made created ruptures in the stone ground. I could see each part of its quad muscles ripple as it took lunges forward.
+
+I gripped my sword and charged forward as well. I'd have to play this smart, I have speed on my side.
+
+I used my zig zag strategy right off the bat. It was what I know works. With blinding speed I ran circles around the green man. It swung its sword with deadly power, but I managed to gracefully doge it with ease. I sliced its right leg first.
+
+"GRUUUUUAAAAAAA!"
+
+I circled back and made a slice in its left as it was crying out in pain. They were deep cuts, the beast was dripping with blood. I could tell it was panicked and angry. The monster turned and charged towards me with a wide swing of its blade. I zipped out of the way as it sliced a tree in half where I was moments ago. I made my way around its backside and plunged my sword in its back through the tough leather armor.
+
+"GUAAAAAAAARRRRR!"
+
+As it threw its head back in pain I took my sword out and jumped the the ground behind the beast. It's back was still turned to me. I went in for my final strike as the Orc raised its sword and attempted to position its next attack.
+
+It made its move, swinging its sword while turning towards me. The attack had power, but not much thought was put into it. I tracked its trajectory and jumped over the blade directly moving towards the Orcs head. I plunged my blade into the Orcs open neck and heard it let out its last muffled breath. It fell to the floor with a thud and I stood there admiring my work with a smile.
+
+[Level Up]
+
+____________________Name: Jay Soju
+
+Level: 78
+
+Hp: 395/395
+
+Mp: 225/395
+
+Strength: 192 [+50]
+
+Speed: 223
+
+Agility: 234
+
+Defense: 174
+
+Mental Strength: 193 [+39]
+
+Skills:
+
+AbsorptionSwordsmanshipCombat Magic [Fire Summoning]
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]Golden Wolf Ring [+20% Mental Strength]
+
+_____________________
+
+"Nice work. You're definitely a speed type swordsman. My fighting style is wayyyy different."
+
+Jack smiled and watched the monster disappear. It dropped a large mana crystal and a long silver sword. Jack motioned for me to hand him the loot, I agreed.
+
+He took the loot and but it by his right side, before my eyes both of the items disappeared.
+
+"W-What was that??? Where'd they go?"
+
+Jack laughed.
+
+"Hahah- you've never seen an item box?"
+
+I looked at him with a confused look on my face.
+
+"An item box..?"
+
+"Yeah, this is a D Class item box. You can store up to about 10 swords worth of mass in it. Pretty handy magic item."
+
+"I've never seen one!!!? How much are they??"
+
+"About 40 silver for one this size. Definitely worth its price at this level. I'd recommend you get one for yourself if you're going to be solo raiding dungeons of this level in your near future."
+
+I nodded.
+
+"You're right. Wow."
+
+Jack nodded back.
+
+"That was an impressive fight, but I still didn't get to see your second skill. What do you think about facing the boss?"
+
+"I'm ready when you are."
+
+Jack smirked.
+
+"Off to the boss room then, this way!"
+
+We both ventured off further into the dungeon.

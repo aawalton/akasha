@@ -1,0 +1,409 @@
+---
+id: bfeec296-4374-58e7-afac-511eceecf4c0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9: Don’t Fall"
+slug: 0011-chapter-9-don-t-fall
+partOf: dungeon-devotee
+position: 11
+ownLength: 6181
+unit: words
+ownProgress: 6181
+publishedAt: 2022-06-01
+link: "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/918659/chapter-9-dont-fall"
+royalRoadId: "918659"
+markedReadAt: "2026-06-29T22:39:23.160Z"
+---
+
+Immediate relief washed through Edmund’s mind as he felt the soft scratch of loose soil beneath his boot. He exhaled. It’d been some time since he’d stepped onto a floor and known he’d have a way to use his rootmother’s sigil. Not having to worry about how he’d find his next meal or drink of water freed that portion of his mind to focus on the things that mattered, like not dying in the next ten minutes.
+
+A strong breeze swept across his face, decidedly unnatural in its consistency—lacking the normal gusts and moments of quiet calm that so characterized wind above ground. Edmund appreciated the fakeness of it, accepting it as a reminder of where he stood, of whose domain in which he intruded.
+
+Edmund took a breath and surveyed his surroundings. He stood on a rocky path, the dirt beneath him loose and sparse, littered with gaps in which the granite beneath peeked through. It made for a deceptively slippery surface, with the sections of bare rock distinctly more stable places to stand than the loose soil. Edmund made a note of that.
+
+To the left, a vertical cliff towered above him, its sheer face disappearing into a layer of gray clouds. To his right, the path dropped off into a cliff of its own, gently curving down over a stretch of a foot or so until it too turned vertical. A blanket of white fog obscured what lay beyond the first few yards, but already Edmund knew that was a fall he didn’t want to make. Between the clouds above and the fog below, Edmund’s path seemed to be the only spot where the air was clear. That had to be on purpose.
+
+He was on a mountainside, or some simulacrum of one. Flat, shadowless light shone down from above, casting the place in shades of gray. Though the clouds above roiled dark and gray, no thunder clapped. No rain fell. Either the dungeon was saving that for later, or the brewing storm existed solely as decoration. Edmund’s pessimism argued for the former.
+
+It was as Edmund squinted forward at the spot where the path ahead curved left behind the mountainside that Liam appeared beside him.
+
+“Ahh, the great outdoors.”
+
+Edmund didn’t look away from his surveillance. “We’re still underground.”
+
+Liam snorted. “Of course you’re still underground. You’re in a dungeon.”
+
+“I’m in your dungeon.” Edmund paused, blinking dryness from his eyes as he took a breath and reentered himself. “Any advice?”
+
+Liam tilted his head and walked over to the drop-off on the right side of the path, placing his hands on his hips as he stared over the ledge and into the fog below. “Don’t fall.”
+
+“Thanks,” Edmund grunted. He readjusted his helmet and lowered his grip on his spear, readying himself for the fight he knew would be coming. He didn’t stop to wonder if Liam’s warning implied that enemies would try and knock him off the cliff or if the annoying avatar thought he was being funny. Wasting mental energy trying to parse out what Liam meant was an exercise in futility.
+
+Instead, he paid Liam no heed, setting off down the path before him at a careful pace.
+
+He kept near the center of the road, rejecting his instinct to maximize distance from the cliff for fear of attack from the left. It would’ve been just like Liam, he reasoned, to place such obvious a danger as a fall off a cliff as a distraction from the true danger. If the average delver would’ve stayed as far from the drop-off as possible, Edmund wouldn’t.
+
+Four steps down the path he reached the first lapse in dirt coverage, a foot-wide oval of exposed granite. He didn’t set foot on it, prodding at it with his spear to test for pressure plates before maneuvering around it anyway. It probably wasn’t a trap, especially given its lack of reaction to his probing spear tip, but that didn’t mean he’d step on it without good reason. For the time being, the comparatively slippery dirt would do.
+
+Edmund similarly kept an eye out for any irregularities in the cliff face to his left, knocking on the stone with the butt of his spear at regular intervals. If there were any hidden doors or secret compartments or well-camouflaged monsters, he’d find them.
+
+The floor’s first monster proved not so devious.
+
+He spotted it the moment he rounded the first bend, following the leftward curve of the cliffside to reveal yet more treacherous path ahead. It stood some thirty yards down the trail, back turned to Edmund as it stooped over as if grazing on nonexistent grass.
+
+The beast stood on four hoofed legs, its stubby tail and white-furred rear end in sharp contrast to the shale gray coat of its legs and body. The only other thing Edmund could glean without seeing its head was just how large the thing was, easily a match for his own height even while it stooped to the ground. Madness gave him a name.
+
+Stonehorn Ram
+
+Edmund stepped forward, his shadowhide boots muffling the impact of his feet against the ground but failing to stop the dry earth and loose pebbles from rolling around beneath his boot.
+
+Slowly, casually, without the typical flightiness of a prey animal, the ram raised its head and turned to face Edmund.
+
+Two massive curved horns sprouted from the top of its head, curvy parallel lines running along their mineral surface. It chewed slowly in a circular motion as it stared at Edmund, dust and pebbles falling from its mouth as it crushed rocks between its teeth. It snorted.
+
+Edmund lowered his spear.
+
+The ram swallowed, lowered its head, and charged.
+
+Edmund’s mind raced as the beast bore down on him, a dozen strategies playing out in his head. He couldn’t meet the creature’s charge, that much was clear. Spear or no spear, that thing would bowl him over, and at his current spot standing at the curve in the path, a collision with the ram would send him right over the edge of the cliff.
+
+He needed another option.
+
+He started by raising his right hand to launch a Flame Dart at the charging ram, watching with interest how the weak projectile washed harmlessly over the beast’s chest. Whatever gray material coated the creature, it certainly wasn’t just fur.
+
+Edmund cast Smoke Lash.
+
+Tendrils of ashen smoke coiled around his wrist, building and building as his focus drained into the spell. He waited as long as he could, counting the seconds as the beast drew ever nearer.
+
+One. Two. Three.
+
+He swung, whipping his arm about in a low forehand motion. The Smoke Lash flew.
+
+It didn’t whip against the beast’s stony hide. It didn’t wrap like a noose around its musclebound neck. It swept low, almost scraping against the dirt of the path, before striking where he’d needed it most: the ram’s front left leg.
+
+Edmund waited. He knew the beast would be unable to feel the smoke around its ankle until it acted, so Edmund held off. He willed the cord of smoke to tautness, but didn’t tug on it, not just yet.
+
+He waited for the latest possible moment.
+
+He leapt to the left, his back colliding painfully with the cliff face as the ram shot past. Even as he fell, Edmund knew he’d won. Without a second thought, without a moment’s pause to breathe or allow the ram a chance to slow its momentum, Edmund yanked.
+
+As he slid down the cliff face to land hard against the dirt path, Edmund couldn’t see precisely what happened to the ram, but he heard its footsteps falter, jumping from the rhythmic pattern of control to the chaotic syncopation of a stumble. He heard the crash of stone against stone and the jumble of pebbles rolling off a ledge. By the time he looked up, the ram was gone.
+
+His Smoke Lash trailed off behind him, following the path up until it reached the bend in the road and led off the edge. It dissipated as he released the spell.
+
+Liam was waiting when Edmund finally stood. “You’re getting better at this.”
+
+Edmund glanced at him sideways. “Is that all you’ve got?”
+
+“That’s never all I’ve got.” Liam winked. “But if you keep rolling through the required fights, I might have to spike the difficulty.”
+
+Edmund’s glance turned to a glare. “Is that allowed?”
+
+“Not explicitly,” Liam said, fiddling with his fingernails rather than looking Edmund directly in the eye. “I can’t change how hard a floor is just to mess with particular delvers, but I do have an awful lot of floors. Floors like that second one, phased out for being too hard. Those I can still give you.”
+
+Edmund’s eyes narrowed. “But for harder challenges you have to give better rewards.”
+
+“Oh, so I have your permission then?” Liam clapped his hands together. “Excellent.”
+
+Edmund opened his mouth to protest, but before a single word could escape his lips, Liam vanished. Edmund cursed. Just as he’d started to get the hang of things, Liam was already looking to make them harder. He hoped he hadn’t accidentally signed off on the change, but if the accords really required the delver’s consent for such a thing, Edmund figured the response he’d given didn’t count. He didn’t bother leafing through his pocket guide to confirm it one way or the other. He already knew the relevant passage.
+
+Targeted Changes
+
+The dungeon may not, under any circumstances, actively change the layout or difficulty of a floor to target a particular delver or group of delvers. See accord 8532.09 for further details.
+
+Liam was right. As far as Edmund could tell without a complete copy of the legal text, the dungeon couldn’t change its floors for him, but nothing seemed to stop it from delivering him to already-made floors previously deemed too difficult for other delvers. He sighed. At least the difficulty to reward ratio worked in his favor.
+
+Edmund shook the thought from his mind, putting it off as a problem for another day. At the very least, his current floor would be no harder, and with a hub floor up next it too couldn’t spike too hard in difficulty.
+
+Collecting his spear from where it’d fallen, Edmund set his gaze back on the path ahead and resumed his trek.
+
+He made it another twelve steps before he spotted the trap, the first he’d seen in some time. He’d wondered, of course, if Liam had purposefully diverted him from trap-oriented floors knowing Edmund’s propensity for caution, but realized such thoughts were an easy way to lose that caution.
+
+The tripwire ran at an angle, from some mechanism hidden in the cliff face to an anchor point a few feet into the path. Walking as he was down the trail’s center, Edmund never would’ve triggered it, but any adventurer seeking to keep as much distance between themselves and a deadly fall might’ve stumbled right into it.
+
+Edmund kept some twenty feet back and severed the line with a Flame Dart.
+
+The mountainside itself burst into action, an eight-foot-wide portion of it leaping away from the rest of the cliff as some mechanism propelled it forward. Any unwary delver in its path would’ve found themselves launched right off the trail into the long fall below.
+
+Edmund watched with wide eyes as the massive slab of stone reset, retreating back into the cliffside to seamlessly rejoin the sheer stone. He reminded himself that past the fifth floor, deadly traps just had to be visible, not apparent. His paranoia doubled down then and there.
+
+With a quiet gulp and a determined nod, Edmund set off once more, keeping a careful eye for more traps, monsters, or as of yet unknown dangers. He called Madness twice to try and guide him, but without knowing what exactly he was looking for, the Aspect didn’t reply.
+
+He spotted three more such traps as he walked the mountain path, each triggered differently but the core mechanism the same. None successfully catapulted him over the cliff.
+
+The stonehorn rams made repeated appearances along the trail, grazing upon the rocks. Alone, they posed little threat to Edmund, a single swing of his Smoke Lash enough to send them tumbling, if not to their death, then to the ground with their soft bellies exposed to his spear. He confirmed their horns weren’t the only part of them made of the hard stone, as each hair in their dense coats rigidly repelled any attempt to puncture them. Their bellies made good targets, though.
+
+Some forty minutes into the level, the rams started appearing in twos, then threes.
+
+That was around when Edmund discovered that the traps built into the cliffside launched stonehorn rams just as well as unwary delvers. All he needed to do was wrap a Smoke Lash around the tripwire and give it a tug at the right moment to send the giant sheep catapulting to their deaths.
+
+Maybe Liam was right. Maybe these floors had gotten too easy. The further Edmund progressed along the mountainside trail, the more he grew to relish the idea of greater challenges for greater rewards. He thought back to the previous floor, how easily he could’ve slipped right past Urliel and continued on. He wondered if more difficult floors would mean more difficult hidden bosses.
+
+The end of the level seemed to sneak up on him. He’d almost absent-mindedly swept for traps, eliminated stonehorn rams, and watched for secrets, finding the floor’s basic enemies simple enough that he felt no sense of escalation or mounting danger. He simply turned a corner and the door swung open before him, its familiar chime ringing out as a silver chest arose from the ground.
+
+Edmund would have none of it.
+
+He knew, of course, it wasn’t trapped. The accords contained very strict rules around floor exits and entrances, protecting especially the chime that marked a floor’s completion. It felt like he’d just arrived, and already a new Aspect and piece of loot awaited him.
+
+He had to have missed something, some secret passage or hidden boss that held the level’s true challenge. The more he thought about it, the more it made sense. Liam had even commented about the floor being too easy, as if he’d wanted Edmund to let its simplicity lie. Edmund tried to make a point of not doing what Liam wanted.
+
+He went for the loot first.
+
+Inside the silver chest he found two pieces of armor carved of plates of the same dark stone with lines running through it as the ram’s horns. It took a bit of squinting to figure out how, exactly, the two-foot-long piles of stone and straps were designed to be worn, but by process of elimination Edmund arrived at his upper arms—one of two remaining unprotected parts of his body.
+
+Serpentinite Rerebraces
+
+Provides major protection against piercing damage.
+
+Edmund had to remove his shoulder guards to properly strap the rerebraces on, but found the rockjaw pauldrons sat comfortably on top of them. A few testing swings of his arms proved he’d lost nothing in terms of mobility for the added protection, though the plate that guarded his elbow only extended past his vambrace on the outside. With his arm fully extended, his inner elbow would remain exposed. He’d take that small vulnerability in exchange for the full range of motion any day.
+
+He paused for a moment there, looking down on himself for lack of a reflective surface. He supposed he looked a little ridiculous. His black leather vambraces mismatched the greenish dark gray of his rerebraces, which again clashed with shale gray of his rockjaw pauldrons and the much paler tone of his widow’s cuirass. The earthen brown of his barkbreeches capped off the chaotic ensemble, painting him the absolute picture of the desperate scavenger. In a lot of ways, he was.
+
+Shaking the thoughts from his head, Edmund sat back against the cliffside and envisioned his constellation, heart already racing with the promise of a new confluence to be formed. He knew, going in, he wanted to make a tier four. It made sense. Higher tier Aspects were generally more powerful, and their creation would provide more upgrades than low-tier alternatives.
+
+He had two options.
+
+Combining Elements with The Rift was the obvious path, taking his highest-tier Aspect and combining it with his newest base. Alternatively, he could combine Sorcery and The Island. Both recipes consisted of the same four base Aspects—his only four base Aspects—and both combined a gray Aspect with a golden one.
+
+Edmund wasn’t sure if the two potential combinations would yield the same result. As far as he knew, the rules for such things held little in the way of consistency, and until he could speak with someone who’d charted out the various lower-tier combinations, he had no real way of finding out.
+
+The only difference Edmund could know for certain was which Aspects would upgrade upon forming the confluence. Other than Madness itself, The Rift was his most powerful Aspect. Upgrading it was sure to yield more immediate strength than choosing Sorcery in its stead. From there, the decision was clear.
+
+Edmund combined his Aspect of Elements with The Rift, and watched with his mind’s eye as their confluence flared into existence, glowing in resplendent silver.
+
+Tier 4 Aspect: The Fissure - Silver Resonance
+
+Level 1 - Provides access to the Magma Fissure spell.
+
+Before closing his constellation to test out his newest spell, Edmund diverted his attention to his other Aspects, many of which had grown in level.
+
+Elements, upon reaching level three, no longer listed Flame Dart as its reward, the clearly more powerful Firebolt taking its place. Solitude showed no change, but Perseverance no longer labeled its health regeneration as ‘minor.’ Madness remained unaltered beyond its level increase, but The Island, of all things, changed drastically.
+
+Tier 2 Aspect: The Island - Gray Resonance
+
+Level 3 - Grants resistance to over-time effects while in groups of two or fewer.
+
+Edmund blinked. He’d expected a new effect or an increase in over-all power level, not a loosening of the restriction. It felt, not wrong but somehow off, for an immediate derivation of Solitude to allow him a person’s company. But then again, he figured islands appeared in chains. Or was he supposed to be on the island? In which case, multiple people could fit on the same island, right?
+
+Edmund decided trying to logic his way through the symbolism of his Aspects wasn’t going to get him anywhere. The change would be useful if he ever ran into Amelia or some other lone delver again, though with Solitude itself still requiring he fight alone, he didn’t see grouping up in his long-term future.
+
+Blinking his constellation away, Edmund turned his attention to something far more exciting: trying out his newest spell.
+
+In comparison to Smoke Lash and his newly renamed Firebolt, the channel in his head for Magma Fissure felt like a gaping maw, hungry for mana. Edmund gave it all it asked for, feeling a cloud descend upon his mind as his mental energy depleted itself. He wouldn’t be casting more than one of these in a fight. Thrax, he wouldn’t be casting this and any other spell, not if he wanted to be able to stand up afterwards.
+
+But as Edmund felt the ground quake beneath him, he knew the cost was worth it.
+
+Some two dozen feet ahead of him, where his gaze had fallen as he’d cast the spell, the earth opened up with a horrible crack. A jagged line as long as the trail was wide appeared as the ground split itself open. The gap itself stretched only two feet wide, but that wasn’t the point.
+
+Angry red light radiated from the fissure, a familiar hue Edmund remembered from the magma pools on the sixth floor. He didn’t have to get that close to see it for himself, bubbling and popping just a few inches below the surface.
+
+Anything that fell in there wouldn’t live long. Edmund nodded. Anything that so much as misplaced a foot in there wouldn’t live long, not in a fight.
+
+He stepped away from the crack in the earth, leaning against the cliffside and sitting down to rest. It took some time for his mental energy to recover, a period over which he noted the angry glow of the lava faded but the fissure remained. When at last he decided himself ready to move on, he found the base of the fissure coated in porous black rock, just a foot or so short of filling in the hole completely.
+
+Happy with this newest addition to his arsenal, Edmund spared a single glance at the exit before turning back to face the mountain trail. There was a secret here, somewhere. He would find it.
+
+He set off at a glacial pace back the way he’d come, walking in a zigzag back and forth across the road as he constantly poked and prodded at both the cliffside on his right and the drop-off on his left. In the cliff he scanned for secret doors, analyzing every inch of the solid rock for cracks or hidden mechanisms. Over the ledge he checked for landings, hidden platforms onto which he might’ve safely jumped.
+
+He found nothing.
+
+He triggered and retriggered every trap he came across, searching for ways to slip inside whatever machine powered them. Again, he found nothing.
+
+Newly respawned stonehorn rams gave him curious looks as he passed by, unable to attack without provocation thanks to the accords. Edmund didn’t bother with them. He’d get some practice taking them down with alternate methods once he’d completed his search.
+
+But he hadn’t found so much as a rock out of place by the time the level’s entrance came into view.
+
+Edmund sighed, his thoughts turning to the third floor, where Madness had found a secret door for him. He tried to invoke the Aspect, but it refused to heed his call. There were too many types of secrets, he reasoned, to be found on the cliffside, too little certainty there was even something to find without Liam’s wager egging him on.
+
+So he turned around and traveled the path again.
+
+He didn’t search for anything in particular this time, keeping his eyes open for any hint of any way to possibly move outside the two dimensions of the trail. About three quarters of the way through the level, he found something.
+
+It wasn’t much, a spot in the path where the trail swerved right a bit more sharply than the smooth bends elsewhere. Edmund stopped, turning his gaze up the cliff face at the layer of storm clouds above.
+
+He stepped up to the corner, placing a tentative palm against the cool stone. On the other edge of the corner, he placed another. A rare grin stretched across Edmund’s face.
+
+He could climb this.
+
+He tugged on the handle at the base of his spear, hooking the tip and slinging it around his neck to free up both hands. With a deep breath, a determined gaze, and a brief moment to wipe the sweat from his palms, Edmund mounted the cliff.
+
+With one palm and one foot on either side of the acute corner, Edmund wedged himself into the tight space. He paused there, but a few inches off the ground, to test the security of his hold. When enough time had passed with neither a slip nor a fall, he began his ascent.
+
+It was a slow and awkward process, aided, thankfully, by Obsession’s boost to his agility.
+
+The layer of clouds didn’t so much suddenly surround him as fade into existence, the world outside his immediate vicinity slowly obscuring until he could see no further than his own hands. Still Edmund climbed.
+
+Moisture in the air worked against him, his hands and the bare granite both growing slick with it. Still he climbed.
+
+His wrists began to ache, rebelling against the constant strain of pressing his flat palms against the stone. Still he climbed.
+
+The top came almost as a surprise, a sudden lack of surface where there should’ve been one. At first, Edmund’s fingers refused to curl over the edge, stiffness from the climb working against its end. He forced himself past it, reaching first a hand, then an elbow, then a leg over the ledge. He didn’t stop to catch his breath. He didn’t allow himself the chance to rest. Not here.
+
+Edmund pushed himself to his feet, unhooking the spear from around his neck and straightening its tip as he surveyed his surroundings. They weren’t much.
+
+Wherever he was, he hadn’t managed to climb past the clouds. Dark, frigid fog hung in the air, a gray curtain that walled him off from everything more than a few feet away. Before taking a single step, Edmund gathered what information he could.
+
+He stood upon a flat surface, whether a massive plateau or a small ledge, he couldn’t say. He inched slowly across the stone, eyes and ears peeled for signs of threat. The fog itself would be his greatest foe. At any speed beyond a cautious shuffle, he’d never see the cliff before it was too late. Edmund’s skin crawled. This landing, its pervading silence, the moisture in the air itself exuded danger.
+
+Laughter rang out in the distance.
+
+It didn’t echo through the air like some great guffaw. It didn’t pierce the mist or taunt him with its grandiosity.
+
+It danced upon the wind, high pitched, careless, and free as it weaved through the clouds to deliver itself unto his ear. As quick as it had come, it ceased.
+
+Edmund squinted. He lowered his spear, casting his cautious gaze about in all directions. There. He spotted it, or at least, something, to his left, a spot in the fog darker than its surroundings. He lunged.
+
+His spear swept clean through it, the clouds around it whirling in tiny vortices with the motion. It slipped away to the left, unperturbed by the spiderleg through its center, and disappeared once more.
+
+The laughter returned, more energetic and giggly than before. Edmund cursed.
+
+Frigid pain erupted in his left thigh. He glanced down to find an icicle falling from the wound, its tip melted by the warmth of his blood. Thanks to his barkbreeches, it’d only penetrated a half inch into his flesh.
+
+Edmund didn’t hesitate, lunging for the origin of the attack without even looking up to confirm the presence of the dark spot. Again, his spear passed clean through the three-foot-tall smudge in mist, and again the figure retreated unharmed.
+
+Edmund dropped his spear, halting its motion with a foot to keep it from rolling away. Two tries was enough to prove the weapon ineffective against this particular enemy.
+
+Another icicle flew at him, this time bouncing cleanly off his chitin cuirass. Edmund retaliated with a spell of his own, launching a Firebolt at the projectile’s source.
+
+His flame burned away at the fog as it traveled, carving a tunnel of clear air through the mist. For the first time, Edmund laid eyes on his foe.
+
+It was humanoid in shape, but only just. Its nearly spherical head stretched as wide as its narrow torso, white wisps in lieu of hair floating from its scalp and melding with the fog. The thing’s left arm ended in a stub but a few inches from where it began, while its right arm reached out further than its entire three-foot height.
+
+It smiled wide, its close-mouthed grin stretching unnaturally far across its childish face. More particular still was the etherealness of it all. The thing floated just a few inches off the ground, and as Edmund’s Firebolt passed clean through it, he could’ve sworn he saw his spell through the monster as it continued on.
+
+His Madness registered just in time for the unreal smoke to appear in Edmund’s vision before the fog swept back in and the world shrunk once more.
+
+Cloudkith Conjurer
+
+The name glowed red, an image of a golden crown floating above it—a rare boss, then, absent the skull that’d marked Urliel as unique or whatever the warden had been. Either way, Edmund had gleaned important information.
+
+Spells didn’t hurt it either.
+
+The next icicle crashed into the side of his head, the impact carving a small dent in his ebonsteel helm. His ears rang. His vision flashed black, then returned, cloudy but functional. Edmund blinked the moisture from his eyes and whirled around to find the dark shape of the conjurer once again.
+
+He waited, mind racing frantically for a plan as he stared down the shadow in the fog. Another icicle struck, ricocheting off the crest of his forehead and passing overhead. He couldn’t take much more of this. Sooner or later they’d find a weak spot in his armor. Already an ice bolt had come dangerously close to his eyes.
+
+Edmund sped through his arsenal. He eliminated physical attacks outright, trusting neither his spear nor Rend to deal any real damage. Firebolt, similarly, had proven ineffective. While the consistent heat from Magma Fissure might’ve helped burn away the mist for some time, he had no illusions it would deal any damage to an enemy that could levitate. He couldn’t justify the mana expenditure for a non-lethal blow.
+
+An icicle slammed into the top of his chest, skidding up the curve of his cuirass towards the gap between it and his helm. The tip of it scraped at his throat before its taper wedged against the base of his helmet. Edmund gulped. He had to act.
+
+His options running thin, Edmund conjured a Smoke Lash around his right wrist and swung for the conjurer. He hoped it, of all things, could counter the beast’s ethereal nature with its own.
+
+It failed.
+
+Again the creature laughed, and again it rang in Edmund’s ear as if from right beside him.
+
+Edmund charged forward, dashing along the mountaintop for the taunting figure in the mists. Just as its features began to peek through the fog, the worst happened.
+
+His boot caught only air.
+
+Edmund reacted on instinct, plummeting only a foot off the cliff before spending his windstep to solidify the air beneath his boot. His hand lashed forward, wrapping around the conjurer’s throat. It was squishy, soft beneath his fingers, but distinctly tangible.
+
+Where his spear and his magic had failed, Edmund’s own hand found purchase. However ethereal, incorporeal, or unreal the creature was, it didn’t matter.
+
+Edmund could touch the unreal.
+
+He leapt back before his windstep could time out, yanking the monster with him back onto terra firma. He slammed it into the ground, pressing down upon its throat with an iron grip. It struggled to free itself, but the conjurer wasn’t built for physical conflict. Ice bolts slammed into Edmund’s cuirass, rattling his ribcage with every blow, but he didn’t flinch.
+
+A minute later the creature stilled. Three more and the dungeon reclaimed its monster.
+
+The clouds parted around Edmund as he finally stood, revealing his surroundings to be a wide ledge halfway up the cliff. He peered over the edge to find he stood some fifty feet above the trail below, a challenging descent still ahead of him. It could wait.
+
+Against the mountainside, a golden chest arose from the ground. With victory ringing through his mind, Edmund swung it open. A leather satchel, pale as the clouds on a summer’s day, sat within.
+
+Cloudkith Satchel
+
+Applies greater weight reduction to its contents.
+
+Edmund didn’t hesitate to slip the white strap over his shoulder, rooting through the various pockets and spots in his armor where he’d tucked the pocket guide and the assorted coins he’d collected over his journey thus far. It was nice to finally have a proper way of carrying things.
+
+Items secure, he sat back against the cliffside and brought up his constellation once more. Sure enough, a simplified image of the conjurer appeared beside those of the rootmother and azure fox.
+
+Cloudkith Sigil
+
+Cloud-based lifeforms will treat you as an ally. Gain enhanced perception through vision-reducing effects.
+
+Edmund immediately noted two things. The first was that unlike his other two sigils, the cloudkith sigil didn’t come with a trailblazer bonus. Someone else had defeated this boss before. Second, he wondered what exactly was and was not a cloud-based lifeform. The conjurer itself hadn’t been—it’s name had marked it a friend of the clouds. Edmund supposed he was too, now.
+
+His rewards gathered, Edmund turned his focus to the trail below. With the storm clouds retreating, his path down the mountainside revealed itself. For safety’s sake, Edmund waited until his wounds had fully recovered and his windstep came off cooldown before lowering himself over the ledge.
+
+He moved slowly and cautiously, keeping himself wedged as tightly in the corner as he could while sliding a single palm or foot down an inch at a time. His muscles ached angrily by the time he jumped off and fell the final two yards, but it was nothing his Perseverance couldn’t handle.
+
+Edmund walked almost casually back along the trail, giving the rams as wide a berth as the path allowed. He traveled all the way back to the exit, where he deposited his satchel securely between the empty loot chest and the wall. Comfortable his belongings weren’t going anywhere, he turned his attention to the pacified rams.
+
+Just because he’d killed them easily before, didn’t mean he couldn’t glean valuable training from them.
+
+He started with a lone ram, aggroing it with a Firebolt before dropping his stance to meet its charge. His spear struck it cleanly through the eye.
+
+Edmund spent no more than a few days training against the rams, experimenting with various combinations of spells and abilities to take them out. Magma Fissure, he discovered, could eliminate two of them at once with a single cast if he timed it right. Two well-aimed Firebolts could blind one. Smoke Lash, of course, could trip them up. Rend split them in twain.
+
+The more he trained, the more he felt like he’d outstripped the dungeon, like the resonance of his Aspects and the thoroughness of his training and the completeness with which he stripped each floor of resources had overpowered the dungeon’s ability to grow in difficulty.
+
+He left the stonehorn rams behind, finding little to learn from their repeated deaths. Perhaps the future floors would have more to offer.
+
+Liam remained curiously absent through it all, a fact from which Edmund took no small amount of joy. He knew he’d have to deal with the avatar’s prodding soon enough. For the time being, he looked to the future with tentative optimism. He looked forward to the challenges ahead of him. He looked forward to the chance to buy gear and information at the upcoming hub floor. He looked forward to his next encounter with the azure fox, to using his newest sigil, to taking a bath.
+
+It was with an eye towards the future, confidence in his stride, and, at the back of his head, an unfamiliar glimmer of something that might one day pass for hope, that Edmund approached the end of the ninth floor and stepped into the darkness.
+
+Edmund Montgomery Ahab, The Crimson Hand
+
+Aspects Unlocked: 10
+
+Tier 1 Aspect: Elements - Gray Resonance
+
+Level 3 - Provides access to the Firebolt spell.
+
+Tier 1 Aspect: Solitude - Red Resonance
+
+Level 5 - Gain increased constitution while fighting alone.
+
+Tier 1 Aspect: Perseverance - Gray Resonance
+
+Level 5 - Gain health regeneration.
+
+Tier 1 Aspect: Madness - Prismatic Resonance
+
+Level 6 - See beyond reality. Touch the unreal.
+
+Tier 2 Aspect: Sorcery - Gold Resonance
+
+Level 1 - Provides access to the Smoke Lash spell.
+
+Tier 2 Aspect: Obsession - Gold Resonance
+
+Level 1 - Gain strength and agility for each consecutive day spent pursuing your obsession.
+
+Tier 2 Aspect: The Recluse - Gold Resonance
+
+Level 1 - Empower the effects of Madness while alone. Lessen the effects of Madness while accompanied.
+
+Tier 2 Aspect: The Island - Gray Resonance
+
+Level 3 - Grants resistance to over-time effects while in groups of two or fewer.
+
+Tier 3 Aspect: The Rift - Gold Resonance
+
+Level 2 - Provides access to the Rend active ability.
+
+Tier 4 Aspect: The Fissure - Silver Resonance
+
+Level 1 - Provides access to the Magma Fissure spell.
+
+The Crimson Hand
+
+Grants minor resistance to piercing damage. Bestows ownership of the Dread Gauntlet of Kor’Ilinesh.
+
+Trailblazer’s Sigil of the Azure Novice
+
+The second step on the Path of the Azure Fox. Increases agility. Grants a single windstep.
+
+Trailblazer bonus: Sharpens hearing.
+
+Trailblazer’s Sigil of the Rootmother
+
+Non-intelligent Strethian lifeforms will treat you as an ally. Gain the ability to draw water and nutrients from fertile soil.
+
+Trailblazer bonus: draw water and nutrients from all soil.
+
+Cloudkith Sigil
+
+Cloud-based lifeforms will treat you as an ally. Gain enhanced perception through vision-reducing effects.

@@ -1,0 +1,225 @@
+---
+id: c29bcbd0-78c3-50c8-8618-c0ae03a18d84
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10 - Onboarding"
+slug: 0010-chapter-10-onboarding
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 10
+ownLength: 3019
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3423607/chapter-10-onboarding"
+royalRoadId: "3423607"
+---
+
+Kairon waited expectantly near the spawning grounds in the Wrath District. The imps were already on morning duty, and Vorathrex still hadn't returned. He was about to head back into the shade of the tower when he caught movement through Sovereign Eye to the northwest.
+
+It didn't take long to identify the source. Trees shook, branches parted, and leaves fell. Moments later, a muscled red form emerged.
+
+With the expanded corruption, Kairon could see him nearly a hundred meters into the rotting tree line, so it still took him several minutes to make his way over.
+
+He approached Kairon before sitting with a weary sigh across from him.
+
+A long, dark gash ran diagonally across Vorathrex's chest, and a multitude of smaller scratches were visible along his biceps and forearms.
+
+"Good morning. I was beginning to wonder if I should send the imps in to check on you. How'd it go?" Kairon asked carefully.
+
+Despite the gashes, Vorathrex actually grinned. An ugly, toothy thing. "It was a good fight. I found a pack of wolves. Big ones. I'd keep the imps clear."
+
+That imp had a wolf tooth? How'd he manage that?! He asked Vorathrex as much.
+
+The big demon snorted. "You think like a human. Beings from my plane are born as fighters, fledgling. Even the little ones."
+
+"Didn't you call the imps weak?"
+
+Vorathrex shrugged his shoulders.
+
+Okay. Moving on.
+
+"So. Where were these wolves? Are they all gone?"
+
+Vorathrex gestured with his head back to the northwest. "Maybe an hour walk that way, but many still remain. After I rest, I will return. I'm eager to consume more."
+
+An entire pack on our doorstep. Great. Too bad they weren't to the south. It would have made for a great welcome gift to our neighbors. But... He said he killed some. That means corpses of wolf meat.
+
+"How many did you kill?"
+
+Vorathrex thought. "I'm not sure. Three... Maybe four. I'm not certain if the injured one survived."
+
+"And where, pray tell, are these three dead wolves?"
+
+"Same direction I came from. It was a half hour walk. Though, the ones I slew were just scouts."
+
+Starting tomorrow, he would send the hunting squad towards the west or east. He didn't want to chance an angry pack of wolves running into them.
+
+For now, he connected to Shiny through Sovereign Eye and willed his orders. Shiny was to let the cutters build up more wood and take the haulers to find the corpses. If any predators were near, they were to return immediately. He was very certain to order the take no risks bit several times.
+
+They just sat for a while then. Vorathrex nursing his wounds, and Kairon watching. He breathed a small sigh of relief when he saw Shiny and his crew come back, dragging three large wolves behind them.
+
+Good. The pack won't last forever, but while it does, that source of food is critical.
+
+Kairon's focus was interrupted by a flash of purple light. Before him, a tear was opening right in the middle of the spawning grounds. Moments later, a stocky imp somewhere between the height of a normal imp and Kairon's stature strode out.
+
+Unlike its naked brethren, a natural bony armor covered the crux of its chest. It looked as if the white material was grown directly from the imp's skin, not worn. On either shoulder, protrusions stuck out, with smaller tusks coming from its elbows, knees, and forearms.
+
+So this is a wrath imp. All told, it was more impressive as far as looks went than the city lord was expecting. Thirty of these would make quite the sight...
+
+The demon was about to greet it, but before he could move the wrath imp locked eyes with Vorathrex and snarled. Is it... Challenging him?
+
+It puffed its bony chest plates and squared up to the demon, not even fazed by the fact it was more than five times its size.
+
+Vorathrex didn't even look down. One of his six arms shot out, pinned the wrath imp to the ground by its skull, and held it there thrashing.
+
+Kairon held himself from interceding. Demons, just like humans, had a pecking order. It is rather unorthodox, but Vorathrex is going to be its supervisor. This is simply how he informs a new subordinate of that. As long as he doesn't injure or kill him, I won't interfere.
+
+The next three seconds, the imp screeched angrily and squirmed under that one meaty hand. With a resigned gasp, the imp went limp, then scrambled upright the moment the hand lifted.
+
+This time, it stayed low. Eyes down.
+
+Brood imps never did that. The workers cowered, obeyed, or occasionally wandered off. Beyond a gentle resistance due to the low fervor, which was still an issue, they never directly challenged Kairon. This one however... It came out of the circle ready to fight for rank. There is a substantial difference in caste. That's going to matter, especially as we grow. In fact, it might already cause issues with the worker imps.
+
+The city lord made a mental note to check in on how the interactions went.
+
+Approaching the cowed creature, Kairon inspected it. Not only was it taller and armored, but it was stronger and sported far larger muscles. Speaking of, the armor it did have definitely was natural. It wasn't fully covering, nor would it stop a competent foe, but it would certainly offer a degree of protection.
+
+Not to mention... There is something to be said for a primal fear factor this could instill. Just seeing it is quite unsettling.
+
+Kairon glanced at his military councilor. "So? What do you think?"
+
+Vorathrex only grunted.
+
+Seeing as the general already made his greeting in the form of smashing the imp's face into the ground, Kairon decided a softer measure was in order.
+
+"Good day, wrath imp. Welcome to the human plane of existence. You are going to be under the command of Vorathrex, here. He is our military leader and, in your case, your supervisor. What he says, you do. You do a good job, you get fed. You do a really good job, you get fed more." That is assuming we can get more food to feed you with.
+
+"Oh and one more thing. We have a group of angry humans fast approaching, so work hard, okay? Great. Off with ya." Clapping his hands, the city lord turned, gave Vorathrex a nod, and then went to find some numbers to crunch.
+
+On second thought, I'll need to sit that oaf down and discuss the proper way to greet a new subordinate. Doing that every time might not be the best way to greet new employees.
+
+Several days later, Kairon was considering if these morning meetings between him and his military councilor were truly needed. They were my idea after all. And as we grow, they'll become more important.
+
+His reticence mainly stemmed from the foreknowledge of what the big demon was going to ask for. Again. Though. The demon asking this was an important piece of his plan. He needed him to get riled up about it after all. Maybe by the end of the week, it would be time.
+
+"Good morning, councilor."
+
+Vorathrex grunted. Getting him to be more formal was a work in progress. Before Kairon could speak, the general lifted his head and sniffed. A long, deliberate pull. Air flowed through his nostrils, making them flare up.
+
+"I smell many humans. The scents of boots, horses, and iron are on the wind. And it's getting stronger each day..." He breathed again. "Something chemical too. I don't recognize it from my world."
+
+That chemical smell is likely some crude siege powder. Pitch, perhaps.
+
+Kairon's stomach tightened. "So my fears were true. How many? How far?"
+
+"All I can tell is that there are lots. I would guess two weeks away. Maybe less. It's hard to tell since the currents keep changing." The demon shrugged with four of his six arms. "I will know more when they pass the mountains."
+
+"Vorathrex, when they clear the mountains they'll be five leagues north. At that point any warning is nearly a moot point." Closer than I hoped.
+
+Sighing, Kairon eyed the spawning ground where his fourth wrath imp had already spawned, and was doing some morning spear training with his comrades.
+
+Those spears were one piece of good news that helped to lighten the city lord's mood. The corruption had spread enough that the treeline rotted away, revealing the gleaming weapons in the distance. Vorathrex was only mildly interested, but the wrath imps were more energetic about the prospect.
+
+Kairon wasn't so sure. The shafts were far too tall, even for the larger wrath imps, and in effect limited them to making awkward stabbing motions.
+
+"So what do you want us to do, fledgling?"
+
+Kairon gave up correcting his name to Vorathrex. The demon was relentlessly stubborn when it came down to it. "First, tell me this. Do you actually expect the wrath imps to be able to use those spears we found? I know this was my idea, but I must say... They don't seem particularly well suited for weapons of that size."
+
+"I do. They just need more practice. You could help with that by getting me my training grounds."
+
+Kairon smirked internally in satisfaction. There we go.
+
+"Yes, yes, I know. But for the third time, we just don't have the food stores to do it. If I build the training grounds, we delay our feeding pit. Already we're struggling to meet our daily food take. And that's with the wolf corpses."
+
+Vorathrex crossed four arms. "The training pit could triple improvement. For the warriors, three weeks could become one. Do you want soldiers or meat?"
+
+"And if those soldiers starve before the humans arrive? Dead soldiers are worse than slow ones." Kairon pulled up his interface. "The Feeding Pit multiplies our food output. That means I can potentially reassign hunters to other roles. Including building your training ground after."
+
+"After is going to be too late."
+
+"After is alive." Kairon held the demon's gaze. "We build the Feeding Pit first. When we have gold again, you get your training ground. That is my decision."
+
+Kairon again glanced at his interface:
+
+They'd been able to hold their fervor and sustenance at slight increases, each up a few percent, mainly due to the extra meat the haulers scavenged from the wolf kills. But that wouldn't last.
+
+From what the general said, the pack was nearly gone. Either Vorathrex would have to hunt full time, which he adamantly refused, or they needed the feeding pit. And soon.
+
+Unfortunately, with the missing hauler, Shiny hadn't been able to keep up with demand. Even with the city lord hauling for an hour or two per day, their timber yield had dropped back to around six to seven per day.
+
+Which meant... They were going to need maybe another five days to get the wood and stone they needed.
+
+Kairon was set on using a universal slot on it. He saw no other way out of this cycle. Not just for survival, but to deal with what occurred last night. During supper, a wrath imp had snatched a chunk of meat directly from a brood imp's claws, shoving the poor thing aside in the dirt. The brood imp, one of Shiny's haulers, just stood there, shaking.
+
+He'd tried to intervene through Sovereign Eye. The connection had caught, and a flicker of some kind of static-like interference surfaced. He had gotten past it, but it further showed the difference between managing brood and wrath imps. Kairon theorized it all came back to that fervor rating.
+
+"You know, if you let the men train on their own and help the timber crew gather faster, maybe we could build the training grounds."
+
+Vorathrex snorted.
+
+"Then I have no choice," Kairon said, exasperated.
+
+I could also enlist the wrath imps as workers, but that would probably mean a drop in fervor. And judging by last night, I'm not even sure they'd listen.
+
+The city lord went back to watching the spear practice. Seeing those long sticks again, a thought struck him. One that was so obvious, he nearly slapped himself. "Say... Vorathrex... How many spears do we have in total?"
+
+"We recovered seven. All of them are in good condition, despite humans leaving them behind. They have good wood and sharp iron."
+
+"Forgive me if this is a stupid question but... it seems to me a sensible course of action would be to just cut the shafts of the spears in half. That way, our wrath imps would be able to wield them much more comfortably."
+
+Vorathrex opened his mouth to protest, as was his normal inclination, but stopped and closed it. He looked at Kairon, then at the wrath imps, and then back. "That... could work..." came a muttered reply.
+
+"Yes, I think it could. Do that, would you? I need to see about preparations for the feeding pit."
+
+With that, Kairon climbed to his feet and headed for the tower.
+
+At the end of the week, Kairon stood, for the third time in this world, gazing at the new building he was about to construct. He had a feeling that no matter how many times they did this, that ritual would never feel right. And neither will that satisfaction go away. Seeing all of this come together... He shook his head.
+
+It wasn't without cost. All of his gold, each log from the last week but two, and ten hastily gathered stone in the form of thrice as many smaller rock pieces were assembled.
+
+With a pain that tore at his soul, Kairon selected yes. My gold... All gone... A sour taste filled his mouth. He watched with bated breath as the last of his coin melted into the ground. And just like that, one of his two universal building slots outside the tower proper was gone too.
+
+The moment the vault hit zero, something changed. A low vibration pulsed from the tower. Kairon thought maybe it was from the ritual, but with each rhythmic pulse he grew more certain it was originating from the pedestal.
+
+It hadn't done this with gold in it. But now that it was empty, something was happening.
+
+In his experience, an empty account was a trigger condition. In the System, zero values were a major flag.
+
+Is it the same here? Does it matter?
+
+The hum wasn't getting any faster, but neither was it going away. He mentally tucked it away to be looked into as soon as this was dealt with.
+
+After the imps began their chanting, Kairon activated his eye. I want to understand what is happening during the ritual. With everything going on, he still needed to finish those scripture sketches.
+
+Unfortunately, all he learned was that staring at the purple tears that appeared in space left him with a headache. The more he tried to brute force past it, the harder his head hurt. Blasted thing.
+
+Maybe I need a less direct approach. The edges, perhaps?
+
+Kairon tried peering just at the very boundary where tears met reality. Right at the spot where the demonic scripture melded with the rend in space.
+
+There. One character. Angular, two strokes meeting at an acute point. He held it in his mind, pushed everything else away, and burned it into memory.
+
+Pain lanced through his right hand. He jerked back, gasping. The tip of one claw had blackened and charred like it had been dipped in acid. A single scale beneath it peeled away, orange flesh exposed underneath.
+
+The city lord hissed, rubbing his claw. Knowledge has a cost, where these symbols are concerned. That fact didn't scare Kairon off from studying the scripts. It just made him reassess. Like his worker imps, everything had a price. And the more expensive the cost, the more valuable the prize.
+
+He went back in his memory. Inside his head, a brilliant orange symbol now stood. A lopsided "V", curved to meet at one point. When he focused on it, it thrummed.
+
+The city lord felt a gaze on him and broke the connection. Behind him, Vorathrex was watching. His eyes were locked on Kairon's damaged claw. The big demon's expression was unreadable, but he didn't look away.
+
+Suddenly, as if waking from a dream, his concentration broke. Kairon realized the ritual was done and his new feeding pit was complete. Shaking his head, he tried to retain that mental state he held for just a moment but couldn't.
+
+I have more claws... For the right price, I might be willing to part with them... Yet, no matter how hard he focused, he couldn't. This must only work during the ritual. For today, I have a new feeding pit for my imps.
+
+Walking over to the finished structure, Kairon was a bit uncertain what to make of it. Structure was not the right word. Instead, what sat before him was a single stone circle, fifteen paces wide. In the center a purple demonic maw sat open, a set of wicked stone teeth curving inwards.
+
+When Kairon peered inside the maw, he saw nothing but a faint purple light and empty void. Around its outside, elaborate scripture faintly pulsed.
+
+He placed a claw on it, getting a notification.
+
+It was morning, so there was no food. Or there wasn't supposed to be. From behind his back, Kairon discreetly pulled out a chunk of rabbit meat he had purposefully saved from last night and tossed it into the maw. With a snap, the jaw closed. Then, a moment later, the mouth reopened.
+
+I'll check tonight and see what the results are once the processing is complete.
+
+A massive palm landed on his shoulder. "Can I leave the wolf pack be? They are weak now. I desire stronger challenges. Consuming the weak does not please me." He pointed at the big maw. "It seems you fixed the food problem?"
+
+"That's the idea. I'll let you know tonight."

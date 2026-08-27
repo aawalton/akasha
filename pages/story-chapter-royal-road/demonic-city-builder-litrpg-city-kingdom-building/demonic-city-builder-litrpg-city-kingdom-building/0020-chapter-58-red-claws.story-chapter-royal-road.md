@@ -1,0 +1,211 @@
+---
+id: 446f44b3-785d-5c5e-8cf7-381ea8ca5562
+page-type-slug: story-chapter-royal-road
+title: "Chapter 58 - Red Claws"
+slug: 0020-chapter-58-red-claws
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 20
+ownLength: 2481
+unit: words
+publishedAt: 2026-08-26
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3867382/chapter-58-red-claws"
+royalRoadId: "3867382"
+---
+
+As the city pressed on, it had begun experiencing a massive influx in both infrastructure and population. Two days had passed, and with it, two more uninterrupted cycles of growth had taken place.
+
+With giddy anticipation, Kairon looked at the latest population readout.
+
+A soft whistle blew through his scaled lips. Almost a hundred warriors. They nearly filled their allotted space between the camp in the citadel district and the rookery in the void. Tomorrow, he planned to make a second rookery for them. That would hold their numbers for a week yet.
+
+Having those stats shown on the population screen made the clerk in him happy. But the city lord inside him wasn’t satisfied with that. He needed to see it.
+
+Kairon activated Sovereign Eye. The massive purple, fleshy eyeball above the tower widened, and he gazed down upon the wrath district. Breakfast had just finished, with dozens of crimson imps headed towards the training grounds. Several still had root and jerky in their claws, munching idly as they traveled over the stone ground.
+
+Another group came from the north, returning from morning patrol. Yet a third not far behind them, these coming from the rookery, having chosen to take their morning meal inside.
+
+Once they all melded together, Kairon felt for the first time that not only had their city grown. So too had its guard. No. No longer is it just a guard. What we have now more closely resembles the makings for an army.
+
+His army. Waiting for them, Vorathrex’s hulking stature stood. Orders were barked, and training began in earnest.
+
+And that’s only a little more than half the warriors!
+
+The rest were on missions. Two days ago, Kairon had put his claws down. They were done going on the defensive. It had long since come time for contingencies to be executed.
+
+Zooming out, Kairon altered his awareness to the hellscape sands and corrupted wastelands.
+
+Leagues away, a fist of six warriors were trotting out of the eastern forest. Each had a green arm-band tied around their bicep, seasoned muscle stretching the rough fabric. A single claw mark slashed each.
+
+Green one.
+
+The first scout groups, sent two days ago. “Shake, green one returning. Eastern forest. Full fist accounted for.”
+
+“Understood.” Shake was the second Demonic Resources member, on loan from Nod to help manage the clay war table. Using one claw, he moved the green rock with a numerical one demarcating the imps until it was on the edge of Kairon’s domain. The demon glanced over briefly, then shook his head. “Slightly more south. Half a league.”
+
+“Yes master.” A pause. “Green two?”
+
+“Still in the forest. If they followed directions, the warriors would have made contact yesterday, and then moved on.” While the first imps had been sent with reconnaissance in mind, the second had a more… claws-on mission. His answer for The Wardens’ reluctance to the west.
+
+As for The Paladins…
+
+While the assistant fine-tuned their position on the board, Kairon drew his attention south. As far south as he could manage. “No sign of gray one...” They’d entered the pass over a day and a half ago, under strict instructions. The first imps to travel onto the snowy mountains. So far, none had come back. That was within estimations. Kairon expected to see them in perhaps a few days. If all was going to plan, that was.
+
+“That’s within our timeline. We’ll continue the relay.” Then, within his domain of Sovereign Eye, he spoke on instinct. On connection. In a way that only he, the holder of the domain under the gaze of the purple pupil could. Something he’d recently discovered possible—likely due to the increase in fervor. Or so he theorized.
+
+“Gray three. Remember, you are relay three. Your orders are a go. I want you to rendezvous with gray one, assess their condition, and then proceed as planned onto your primary mission. You should hit gray two about a day later. Then, the target. Once you finish, you are to return. Follow guidelines for asset salvage.”
+
+Kairon had worked out quite a detailed plan, including rules and processes for what to do in any given situation. In the last two days, he’d focused on fine-tuning it. Ensuring that this time, there would be no repeat of prior… snafus.
+
+Visions of Reina returned unbidden to his mind. He shuddered.
+
+Not doing that again. Just look at the situation that’s spiraled into.
+
+Far in the distance, the six wrath imps of gray three nodded in unison. At their head, their interim fist leader banged claw to chest.
+
+A bubble of excitement foamed in Kairon’s chest. Memories of that first battle with the humans resurfaced. Of feeling like a battle general. Only this time, it was much more in tune with his pace. Longer timelines, bigger fields, and larger stakes.
+
+It felt… familiar nearly. Like being back at The Bureau and moving numbers on a computer, each representing lives and species on countless worlds.
+
+Rubbing his claws in glee, he shifted his attention to the final squad waiting. They were packing the rudimentary supply packs, no more than a slung fur and basic provisions. Again, he spoke through Sovereign Eye. Under its gaze, the imps heard. “Gray four. Prepare to depart. You will be relay four tomorrow. Ensure you have provisions for the week’s travel.”
+
+“Yes master!” shouted their squad leader. Five other imps raised their staves in acknowledgement. They went back to packing. At his behest, Vorathrex had excused them from today’s training. Extra rest and time to get ready was more important for them.
+
+Instructions seen to, he took a handful of minutes to relax. Watch the movements. Observe. Like a hive of bees, his imps had taken to action. From this view, it became even more apparent just how much his domain was changing the realm itself. He estimated that it reached nearly ten leagues in all directions, including a healthy dose of the lower elevation area directly south of The Spines.
+
+I would have preferred to have the entire mountains under my domain, but as it stands now… Kairon had approximately a day’s worth of sight into the mountainous terrain.
+
+That offered an incredible tactical advantage. One he planned to make brutally efficient usage of. Above the tower, Sovereign Eye’s pupil constricted as Kairon pushed it to the limit. His mental vision filled with the upwards snowy trail heading into the first mountains of The Spines.
+
+Demonic corruption had started shifting the colors of rocks. Turning them from gray to a dirty brown, splotches of violet grainy speckles interlaced throughout. More interestingly, the snow had begun to melt. Even now, the bottom of the trail had turned from frozen dirt to mud and muck as the increased flow of water took hold.
+
+So corruption, like we’ve seen before, has a warmth. But why… At the peak of the first mountain, the one his domain had just passed, was black. Like a blind spot in his domain. Where the elevation became too high, he lost sight. His corruption simply swam around it, taking hold in what it could.
+
+A voice from the tower’s entryway suddenly sounded.
+
+“Master! Reporting!” came a tired, impish tone.
+
+He broke the connection, blinking to clear his sight. In front of him, a sand-stained warrior had his arms crossed tiredly.
+
+“Oh? Boney! So good to see you. Pass my congratulations on to your squad. Last night was your second success, was it not?”
+
+An exhausted, yet fiercely proud grin filled the little warrior’s face. “Yes! Half league! We found easily!”
+
+“I knew you could. I just knew it! Vorathrex thought it was a fluke that nearly all of you found the meat at a quarter mile on your second try, but I told him. I did. I said that if anyone could do it, it’d be the Red Claws!”
+
+His soon-to-be elite task force had been named as such. Red Claws. A reward for their commitment to their nocturnal training. And, another weight on the scales Kairon was trying to tip.
+
+From imp, to demonic.
+
+So far, the little monsters had gone above and beyond their squad namesake. All twelve members had chosen to cut and brand four marks on their cheeks, making it crystal clear as to what they represented.
+
+Kairon found the practice somewhat horrific and barbaric, but Vorathrex assured him the value in allowing it. It stood out. A true testament to what they were becoming. And a rite of passage for any that might join their ranks in the future.
+
+When they walked, even other warriors stepped out of the way.
+
+“We are stronger! Listened to Vorathrex! We saw more. Not just with eyes... But with more. It let see what gone. What missing.”
+
+“Oh? You know, I wanted to ask. How did our resident general take it when you told him that?”
+
+“Mouth open. Wouldn’t close. I think broken.”
+
+Kairon gave a small chortle. “Ah, I bet he did. I bet he did…” He shook his head. “Well, again I’m very…” he trailed off, frowning.
+
+Is that..?
+
+“Boney, come here.”
+
+“Master?” Despite the question, the exhausted imp obeyed. He stepped inside the citadel, before standing at attention.
+
+“Don’t move. What is that…” Hobbling behind him, Kairon knelt down. A flicker of gold energy stretched from the ground to Boney. It looked… morphed. Like source energy was mixing with demonic. Strands of crimson were clear throughout a string of gold.
+
+“You said you learned to see what was gone. What did you mean by that, Boney?”
+
+The warrior puffed his chest, taking the question as another compliment. “Too dark for eyes! So… Closed them.”
+
+“You closed them?!”
+
+“Yes! First, used ears. Then, nose. Then, claws. Sand. Dirt. Wind. It has feel. Smell. Taste. And when… Thing there. It change!”
+
+“And when that change happens, what do you see?”
+
+This time, the little imp hesitated. “Not… see. More… know. Know something missing. Gap! Vorathrex say it gap!”
+
+“Interesting, very interesting,” muttered the city lord. He waved a claw through the mixed energy, but nothing happened. He simply felt a feeling of rage and violence, like the wrath totem, interlaced with the golden press of source.
+
+And, based on the little imp, no one but him could see it. As usual.
+
+This experiment is becoming more and more fascinating!
+
+What had been a training regimen based on several special task forces he’d reviewed from The Bureau had morphed into something more… delicious.
+
+A tiny, muted yawn managed to escape the warrior. He tried to hide it. To stamp down. But it still squeaked out.
+
+“Ah, forgive me Boney. Get some rest. You’ve been out all night. I expect great things from you and the other Red Claws.” Drawing his gaze back to the map, where several locations were marked with red crosses, he grinned savagely. “Great things indeed.”
+
+The demon almost felt bad for the amount of paperwork it was going to cause. Not for him, of course.
+
+***
+
+Evening came quickly.
+
+The brood imps were resting after a hard day’s work, sweat-coated backs heaving.
+
+The warriors weren’t much better. Vorathrex had trained the ones not on missions to the bone, drilling them in formation, conditioning, and combat.
+
+Now, the large demon was impatiently sitting with Kairon, having an impromptu meeting.
+
+“Our first green scout fist returned from the eastern forest near The Wardens. And, what they said was hardly surprising.” The black-scaled demon waved at the battle board. “Several deserted camps were found to the east. Evidence and traces of a large gathering of humans were spotted deeper in. No signs yet of a mass movement getting too close, unfortunately.”
+
+At the word ‘unfortunately,’ Vorathrex glowered.
+
+“However,” continued Kairon, “I do expect The Wardens to move soon after green two.”
+
+The big demon flared his nostrils. “Fledgling, what did you do?”
+
+“Oh, nothing. Yet. But… I did send a second fist of warriors with some rather… creative instructions that way.”
+
+“Creative? What does this mean?”
+
+“Suffice it to say, The Wardens won’t be sitting around for much longer. Not if I have anything to say about it! I give them a week at the most. Probably less.”
+
+A meaty palm smacked the general’s face.
+
+“Now, now. None of that. You trust me, do you not?”
+
+Taking a deep breath, the big demon dropped his palm and studied the scheming lord. “I… Know that what you do has a purpose. And I know that you consider that purpose carefully.” Then as if he forgot, he rushed to go on. “But I do not like it.”
+
+There it is again. The big guy thinking.
+
+His wrath councilor peered at the war table, going quiet for a minute. His pupils narrowed. “What are they doing? The brown ones.”
+
+“Oh! That’s brown fist.”
+
+“Yes, fledgling. But what are they doing? Why are they in the middle of nowhere?”
+
+The group he was pointing out was a very special one. “Ah. That’s… complicated. They are making some additional preparations.”
+
+“Do these preparations have to do with playing in the sand? They are between these mountains you like so much and the forest. Just empty land. Why? Does it have something to do with what the green fist brought back?”
+
+Kairon smirked. “You know, you’re pretty sharp for a big oaf.” Deciding to reward his observation skills, and figuring his councilor of war should know, the demon gave in. “Well, green one brought some goodies from the forest. In fact, I actually expect green two will come back with more if they are successful. More boots, armor, camp supplies. Lots of little bits I requested.”
+
+His general said nothing, just staring expectantly.
+
+“So… just think of what we did with the village. This is a sort of… continuation of that.”
+
+“More tricks.”
+
+“Tactics,” corrected Kairon.
+
+He grunted. “I… Do not like some of these tricks. They feel wrong. But I can not argue with the results. Just… Do not forget that at some point, blood will need to be spilt. No number of tricks can solve that.”
+
+“I know.” He did. The thoughts of such kept him up late into the night.
+
+They stood there silently after that. Both just gazing at the battle board, the howl of the night’s wind cooling the tower’s dry interior.
+
+Eventually, Kairon spoke. “The city will be relying on you, Vorathrex. Get some rest. We need you ready.”
+
+“The city relies on you too, fledgling. I think you may need to rest more than I.”
+
+“Yes, yes. I will. I just have one last agenda item to cross off.”
+
+Grabbing his staff, he set off into the evening before his wrath councilor could convince him otherwise. It was time to find a certain demoness. Unlike both of them, she’d certainly had more than enough time to relax. There was research to be done!

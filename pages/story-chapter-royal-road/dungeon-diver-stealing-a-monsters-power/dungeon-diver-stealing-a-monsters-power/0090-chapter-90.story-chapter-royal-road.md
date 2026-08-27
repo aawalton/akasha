@@ -1,0 +1,325 @@
+---
+id: 4dd5e686-f870-50a2-a37a-61d19247f744
+page-type-slug: story-chapter-royal-road
+title: "Chapter 90"
+slug: 0090-chapter-90
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 90
+ownLength: 2114
+unit: words
+ownProgress: 2114
+publishedAt: 2023-04-17
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1183735/chapter-90"
+royalRoadId: "1183735"
+markedReadAt: "2026-06-29T20:34:55.464Z"
+---
+
+[Time Remaining Until Test 2: 17 Hours]
+
+We walk over to sit across from Bruce and Nessa at a long wooden table. I scan the area to see more and more unfamiliar faces. Some smile while others glare. A few seem to be in the private closed-off areas resting as well. Maria keeps her left arm under the table.
+
+Nessa speaks up first.
+
+“So what happened? You took so long we thought- “
+
+I smile and interrupt.
+
+“We came to an agreement with that stubborn orange-haired brute. It just took a while, long story.”
+
+I turn to Maria and sigh. She nods and blinks a few times, then we both turn our heads forward again. Nessa just smiles.
+
+“Well, that’s a relief. Maybe I can manage to get some sleep after all.”
+
+She turns to one of the open curtains of a private resting area, then looks back at me.
+
+“Say, uh, Jay. Could I take a peek at your Fire Magic before the start of the next test?”
+
+I nod while scoping out the resting areas for myself. We have plenty of time before our next test, a nice long sleep would be nice.
+
+“Sure, just remind me.”
+
+She smiles as Bruce interjects.
+
+“Yeah, I’ll be getting some rest too. I need a shield for the next phase of this exam though, hopefully, I’ll be able to make a trade. I’m sure some of the less skilled hunters will be arriving as time ticks down. They’ll surely need a leftover potion or two for a sword right?.”
+
+He scans the crowds looking for anyone willing to give up their shield. I can see a bit of fear in his eyes.
+
+Most of the items being traded are just potions and dropped loot from the floors below. Not many people are giving up their weapons. I do feel kind of bad…. I completely forgot about his shield. With the adrenaline from battle, and the mission to get Maria back, retrieving their lost gear totally slipped my mind. I speak up and look Bruce in the eyes.
+
+“Well, I’m sure you’ll find the right person willing to trade eventually.
+
+He nods slowly.
+
+“Thanks.”
+
+I survey the crowd one last time and decide there’s not much else I want to do right now but sleep. It would be the most productive thing right now…. Unless…. I turn to Maria.
+
+“Hey, I’m going to get some rest. Could you come with me real quick?”
+
+Her eyes perk up as I point to an open curtain of a resting room nearby. She quickly agrees and we both stand up. Nessa speaks.
+
+“Well, that was fast. See you in a bit I guess, rest up.”
+
+We leave moments later with a wave.
+
+Upon entering the small curtained-off room, I look around. There are 3 small cushioned beds on all of the walls not counting the entrance. The room is about 3m long and 3m wide. As I shut the white curtain, the room stays softly lit with a white glow. I turn to Maria.
+
+“Do you need anything? I’ll be out for a while?”
+
+She stares at me with a confused look.
+
+“You’ll be… out for a while?”
+
+I grin and turn to the back wall of the room.
+
+“Dungeon Walker.”
+
+A large black swirling portal appears in front of us and Maria’s eyes open wide.
+
+“Oh-Oh. You can… leave?”
+
+I nod with a slight grin.
+
+“The only rules were no fighting, and no entering floor 12. He never said we can’t leave the exam site and come back later.”
+
+She shakes her head.
+
+“No! I meant you can physically leave a dungeon with that transport magic?? C-Can I come with you?
+
+“Oh- uh- You can also come, sure.”
+
+I pause, then continue.
+
+“We’ll just need to be back before anyone notices, I guess with the curtains closed no one will enter for a while…..”
+
+Maria smiles wide.
+
+“All right! Let’s go!”
+
+Without another thought, I take Maria by the hand and step through the black swirling portal moments later letting the multitude of past dungeon images fly through my mind until I find the one I’m looking for.
+
+The oh-so-familiar starter dungeon back in our hometown is our destination.
+
+We step out moments later and I feel a wave of mana leave my body. I open my status instantly to see what just happened.
+
+[Status Open]
+
+____________________
+
+Name: Jay Soju
+
+Level: 299
+
+Hp: 1245/1500
+
+Mp: 360/1500
+
+Strength: 724 [+630]
+
+Speed: 862 [+517][+259]
+
+Agility: 892
+
+Defense: 646 [+258][+226][+162]
+
+Mental Strength: 724 [+145][+333][+290]
+
+Skills:
+
+Absorption
+
+Swordsmanship
+
+Combat Magic [Fire Summoning]
+
+Inspect [Special Grade]
+
+Enemy Detection
+
+Body Hardening[Special Grade]
+
+Self Regeneration
+
+Spacial Magic[Item Storage]
+
+Plunderer
+
+Telekinesis
+
+Appraisal[Special Grade]
+
+Conceal
+
+Dungeon Walker
+
+Intimidation
+
+Dagger Mastery
+
+Stealth
+
+Bloodlust
+
+Equivalent Exchange
+
+Items Equipped:
+
+Golden Wolf Ring [+20% Mental Strength]
+
+Cyclops Eye Pendant [+40% Defense]
+
+Dark Elf Boots [+60% Speed]
+
+The Flame Emperor’s Sword [Fire Aspect][+87% Strength][+46% Mental Strength]
+
+Ring of Protection [+35% Defense]
+
+Griffin’s Talon [+40% Mental Strength]
+
+Enchanted Silver Ring [+30% Speed]
+
+Ring of Protection [+25% Defense]
+
+[Rodrigo’s Silver Bracelet]
+
+_____________________
+
+My MP dropped around 1000 points… I guess long-distance travel carrying another person is even more costly than I predicted it’d be. Noted.
+
+I take a few mana crystals from my item storage and use plunderer to bring my mana back up to full.
+
+As I do so, Maria looks around the grassland dungeon in awe.
+
+“T-This is…”
+
+I interject.
+
+“Yup. We’re back home.”
+
+Her eyes open wide.
+
+I just nod and start walking toward the dungeon exit. She takes in the view for a few more seconds, then runs after me as we jump out into Alpine Park.
+
+The trees are swaying in the breeze and the lake in the distance shimmers reflecting yellow light from the low evening sun.
+
+A few minutes later we walk into the village market without saying another word. This isn’t exactly what I thought we’d be doing today, but I’m not complaining.
+
+I grab a handful of silver and a few gold from my item storage and throw them in my item box on the way over.
+
+We walk through the middle of the market and I hear an old familiar voice.
+
+“Hey, hey! If it isn’t Jay! How ya doing kid!”
+
+My old merchant friend greets me with a smile.
+
+I look through all of his gear, but nothing special stands out. The only thing worth buying here is every last one of his MP and HP potions. The merchant only has up to D class in stock. Unfortunately, they only heal 1250 points each. I’ll have to keep that in mind.
+
+Maria takes the MP potions along with a few HP. I hoard the rest of the glowing green bottles for myself.
+
+With a pair of friendly waves, we leave the town center and sit down at a local family restaurant. Our food comes soon after. We feast as the sun begins to set slowly below the horizon.
+
+Once we finish with the well-deserved meals a wave of exhaustion hits both of us, but Maria especially. I can see her eyes struggling to stay open as we wait for the bill.
+
+I chuckle a little, then leave a silver coin at our table. We set off before the waiter comes back, hope he enjoys the tip.
+
+With tired eyes and heavy limbs, the 30 hours of dungeon diving finally catches up to us as we walk up our long apartment building steps. I speak up while my door clicks open.
+
+“10 hours. Then we go back.”
+
+Maria nods, then tries to open her door. She’s sifting around in her item box for a little longer than normal… then I remember her key must be in her old pouch back in the capital.
+
+Maria squats down and reaches under her doormat to pick up a spare, then clicks the door open moments later.
+
+“Night Jay. 10 hours, got it.”
+
+I let out a long quiet sigh as she closes her door, then turn around and walk back down the apartment stairs. There are a few more things to do tonight… sleep can wait.
+
+I stop by the corner store and buy a large case of water, some fruits, and dried meats. Anything that looks similar to the items in our “gift box” from earlier. I put them all in my item storage and make my way back to the dungeon as the sun fully sets.
+
+“Dungeon Walker.”
+
+I walk through my swirling black portal to a dungeon I know very well. The Minotaur dungeon in the capital.
+
+While plundering MP from another mana crystal I walk out and take the underground train back to the main Dungeon Hub. There are huge crowds of hunters out today just like any other. It’s rush hour in the city.
+
+I walk to the market and hear the voice of my other old merchant friend. This is the first time I’ve seen both of them in such a short amount of time… they do seem oddly similar. I wave as I approach.
+
+“How are ya old man?”
+
+“Not too bad, what can I do for ya today kid?”
+
+I look around his shop for a moment eyeing the swords, shields, and various magic items hanging on the walls.
+
+“Show me all your best items. Let’s just say, I’m getting ready for a big battle.”
+
+He grins and looks me up and down, then starts sifting through the hidden underside of his counter.
+
+“Oh yeah? You’ve already got a lot of items on ya there. Make sure you don’t hit the limit!”
+
+I raise an eyebrow and look at him with a bit of confusion.
+
+“The limit? What do you mean?”
+
+The old man places two gold rings on the table, one of them has a small blue gem on the face of it, the other one is solid gold. After that, he places a heavy steel shield, a silver long sword, and a pair of black daggers on the counter as well. He grins.
+
+“Unless you’ve ranked up or have a special skill, most hunters can only handle stacking 10 magic items at once.”
+
+Again, I look at him with a confused stare.
+
+“Ranked up?”
+
+He nods, then points at the items on the counter.
+
+“Yeah, mostly nobles and high-ranking government types go through the rank-up process eventually. I’m not exactly sure how they do it, I just know it’s possible. Anyways, take your pick, this is the cream of the crop!”
+
+I just nod and use appraisal.
+
+[Ring of Protection] +30% Defense
+
+[Enchanted Gold Ring] +30% Mental Strength
+
+[Enchanted Steel Shield] +300 Defense
+
+[High Ogre’s Sword] +300 Strength
+
+[Enchanted Dagger Set] +300 Strength +300 Agility
+
+I examine the items while thinking quietly to myself for a while, then speak up.
+
+“How much for the shield and daggers?”
+
+The merchant looks at me curiously.
+
+“Really? I never would have guessed you’d jump on those two.”
+
+I nod slowly, then place 2 gold coins on the counter.
+
+“Will that do the trick?”
+
+The merchant’s eyes light up.
+
+“Most definitely.”
+
+I push the coins forward and throw the shield and daggers into my item box.
+
+“Appreciate it. I’ll be back soon with some items to sell, so get ready to give me a good selling price on those too.”
+
+The merchant takes the coins and smiles.
+
+“Of course, I’ll be waiting. Have a good rest of your night Jay!”
+
+With a wave, I leave.
+
+Sure, the price could have been haggled down a little. Well, more like a lot… I’m just not in the mood, he can keep the change.
+
+The city’s night sky is beautifully clear tonight. I stroll around admiring the world, enjoying my taboo freedom as I should still be in the labyrinth. With a grin, I eventually make my way back to the Dungeon Hub. The early stars shine white in the slowly darkening sky. There are even more hunters lined up outside the closer I get. It’s usually pretty crowded around this time, but this is crazy….
+
+A loud voice calls out from the crowd.
+
+“All high-level D Class teams and C Class Hunters! Calling all high-level D Class teams and C Class Hunters! There’s been a break in the Lizardman Dungeon. We need immediate help eradicating the monsters! I repeat!”
+
+A blond-haired young man in a Hunters Association uniform stands in front of the gates yelling over and over about a dungeon break. The closer I get, the more and more it makes sense. The association must be understaffed because of the exams….
+
+Most hunters are avoiding eye contact with him, but a few stand by his side.
+
+I approach with a curious grin.

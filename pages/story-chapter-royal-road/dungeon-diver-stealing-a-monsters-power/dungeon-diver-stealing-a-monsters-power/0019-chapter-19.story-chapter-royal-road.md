@@ -1,0 +1,259 @@
+---
+id: fa238776-7cd6-54e6-b15b-f7556f165e66
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19"
+slug: 0019-chapter-19
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 19
+ownLength: 2009
+unit: words
+ownProgress: 2009
+publishedAt: 2023-02-07
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1107912/chapter-19"
+royalRoadId: "1107912"
+markedReadAt: "2026-06-29T20:32:27.570Z"
+---
+
+Jack and I walked for about an hour until we made it to the base of the mountain at the back of the dungeon. I battled against 2 more Orcs. It was a similar battle both times gaining 1 level for each victory. After the last battle I drank an MP potion.
+
+[Status Open]
+
+____________________Name: Jay Soju
+
+Level: 80
+
+Hp: 405/405
+
+Mp: 405/405
+
+Strength: 197 [+50]
+
+Speed: 229
+
+Agility: 240
+
+Defense: 178
+
+Mental Strength: 197 [+39]
+
+Skills:
+
+AbsorptionSwordsmanshipCombat Magic [Fire Summoning]
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]Golden Wolf Ring [+20% Mental Strength]
+
+_____________________
+
+"Alright the boss room portal is just up this way, come on!"
+
+There was a narrow rocky trail that lead up the side of the mountain. It led up to an overlook where we could see the entire dungeon.
+
+After admiring the view we turned one more corner and there is was.
+
+The grey spinning portal. I looked at it curiously... it wasn't as light as they usually are, but wasn't as dark as the portal of the mutant boss I had previously faced.
+
+"Hey Jack.. this portal is a little dark isn't it?"
+
+He took a closer look and smiled.
+
+"Looks like it's our lucky day, a mutant is in there. It's not tooooo strong, the portal isn't very dark yet. The black portals are what you have to look out for. My guess is this one will have a 20% increase in power or so. So roughly level 120 if I had to guess. What do ya say? Ready?"
+
+I unsheathed my sword and stared at the grey spinning portal.
+
+"Let's make a deal. I show you my skill and defeat this boss... in return I get it's loot drop."
+
+Jack raised his eyebrow and smirked.
+
+"Oh yeah? Fine, deal. That means I won't step in to help you."
+
+"Perfect, just what I wanted."
+
+It's been a while since I've fought a powerful opponent. I've been craving a good fight ever since I defeated the Wolf Boss for the first time. Now, I had a lot more battle experience and tricks up my sleeve.
+
+We both jumped through the portal.
+
+It was a similar setting to all the boss rooms I'd previously fought in. I saw a wide open cave about 200m long, 100m wide, and 20m tall.
+
+3 large Orcs carrying long swords came charging out from the back of the cave. Jack turned to me.
+
+"I got these guys, you just focus on the boss. Let me see what you can do."
+
+I nodded. Within seconds Jack charged towards the monsters and overpowered each one of them with a single blow. It was impressive. He moved the corpses with ease and backed up to give me room to face the boss when it came.
+
+Then the Erie silence kicked in. The boss was watching.
+
+"GRRRRUUUUUUUAAAAAAAAAA!"
+
+A huge greenish blue Orc came stomping out from the back of the cave. It was almost 6m tall. All the muscles in its arms and legs were striated and rippling with every movement it made. It had on large boots, a vest, and wrist wraps.
+
+To my surprise, this Orc was wielding an axe. From the handle to blade it was easily 2.5m, much longer than my body. It's blade was different than a normal axe, it was elongated making its weapon almost sickle like.
+
+It was a truly terrifying sight. All I could do was stare at the creature in awe and excitement. Finally, I get another real battle. I always get grow significantly stronger when I face a foe superior to myself.
+
+The beast eyed me down, then made its move. The Orc charged forward and readied its axe for a frontal attack.
+
+It was surprisingly fast, maybe equal to my speed... and it's strength definitely tops mine. My only advantages are my agility and fire magic. It's time I put them to use.
+
+The beast came forward, I matched its speed with a charge of my own raising my blade in front of me.
+
+As our steel was about to meet I activated my fire magic. My whole body erupted in flames covering my sword with fire as well.
+
+I used my agility advantage to narrowly dodge the axe's trajectory as it crashed to the ground.
+
+The sudden burst of light in a dimly lit cave alarmed the monster and it froze for a quarter second.
+
+As I dodged the axe I planted my right foot and jumped up towards the beast. I landed a hit! A clean slash on its lower abdomen where it's armor was lacking.
+
+"GRRRRRUUUAA!"
+
+The beast grunted and took a step back as I zipped out of the way as well.
+
+We stood facing each other 10m apart. Its wound was dripping blood and was flaming with magic residue. It definitely felt it, but my attack was far from a fatal blow. At this rate, I'd need 4 or 5 more of those in vital spots. This was going to be a long battle.
+
+The monster charged back in at me. I had no openings so I ran to my left as quick as I could to avoid the attack. The beast's eyes tracked me like a hawk. It used the cave wall as a bounce pad to follow me.
+
+Now I was out in the open, I had much more space to work with. The Orc came charging towards me with intention to kill.
+
+I decided to mimic my last attack. I ran in and pretended to match its frontal charge. Once I got close enough I locked my eyes on its abdomen wound. I twisted my body and planted my right foot to jump up again.
+
+"CLAAANGGGG"
+
+"Agggghhhh"
+
+The monster wasn't as dumb as I thought... it learns quick. As I tried to turn my body it swung its axe sideways like a baseball bat and sent me flying 20m into the cave wall.
+
+I gripped the rocky dirt and spat blood on the ground. I used my sword for leverage to lift myself off the ground. My HP fell to 135/405, my MP was at 275/405. That was a powerful attack, and it wasn't even a critical hit. I cannot be hit again. I chugged an HP potion and checked my inventory. I had 1 MP, and 1 HP potion left. Time to really think..
+
+I got up with a restored HP bar and faced the beast again. It began to charge.
+
+As the Orc approached I readied my sword. It swung its massive axe directly at me with an angry glare.
+
+I waited for the for last moment and jumped swiftly to the left. I watched the axe pierce the ground less than a meter from my side. From there, I jumped up with all my might to get level with the monsters head. As I flew up in the air I activated an intense burst of flames around my whole body and sword.
+
+"RRUUUUUUUAAAAA?!??"
+
+I was less than a meter from the Orcs line of sight. It was thrown off by the bright flames again. This was definitely not a natural sight for its dark rocky mountain environment.
+
+The beast squinted and threw its head back in surprise. I took the chance to make a clean slash across the underside of its neck, then another on its right arm while i was falling back to the ground.
+
+"GRUUUUUUAAAAAAAARRRRRRRR!!!"
+
+Dripping blood from 3 fiery wounds the Orc lifted its axe from the rock and looked at me menacingly. I could tell the beast really hated fire.
+
+I took a deep breath in through my nose and out through my mouth to ready myself for the next attack. I opened my status to see my MP at a dangerously low 35/405. I sprinted backwards about 20m letting the monster chase me as I chugged an MP potion.
+
+Once I was fully restored we faced off again. I needed a new trick. This Orc won't fall for the same thing twice.
+
+We charged full speed at each other. Once I was 5m away facing its heavy axe above my head I erupted in flames. This time I chose not to change my trajectory. I doubled down and ran forward as fast as my legs could take me.
+
+"Faster.... Faster.... FASTER!!!"
+
+In a ball of flames i blew past the imposing axe by millimeters. I felt it's wind cut through the flames on my back.
+
+I was directly under the Orc now. In a rapid spinning motion I slashed its right and left legs on the underside of its knees. I kept my speed up and made it out from under the monster as it fell into a kneeling position.
+
+"THUDDDD"
+
+I planted my right foot to turn and focused all my fire into my blade. The fire surrounding my body crawled towards my sword and surrounded it in a crimson red vale.
+
+I jumped towards the fallen beast and with a final victory yell I plunged my sword into the back of its neck.
+
+"ITSS OVERRRRRR!"
+
+"gruuaa..."
+
+"THUDDDDDDDDD"
+
+[Level Up][Level Up][Level Up][Level Up][Level Up][Level Up][Level Up][Level Up][Level Up][Level Up][Level Up][Level Up]
+
+____________________Name: Jay Soju
+
+Level: 92
+
+Hp: 465/465
+
+Mp: 105/465
+
+Strength: 225 [+50]
+
+Speed: 263
+
+Agility: 276
+
+Defense: 203
+
+Mental Strength: 225 [+45]
+
+Skills:
+
+AbsorptionSwordsmanshipCombat Magic [Fire Summoning]
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]Golden Wolf Ring [+20% Mental Strength]
+
+_____________________
+
+"Bring it onnnnnn. Let's go!!"
+
+I swung my sword in the air with a fiery victory yell admiring my work. That was an exhilarating battle. I outsmarted it, plus had a magic skill that it was clearly weak against. I just beat a level 120 monster like it was nothing!!!
+
+"Clap* Clap* Clap*"
+
+Jack walked over to me slowly clapping.
+
+"Damn that monster never stood a chance.. you did use a lot of potions, but still... that sword and fire magic combo is gnarly. Good battle, I'm impressed an E Class can handle a mutant like this."
+
+The monster disappeared slowly.
+
+"CLANGGGG"
+
+The Orc's Axe dropped to the ground along with a mana crystal.
+
+I ran over to it with my eyes wide. I sheathed my sword and picked up the axe. It shrunk a bit to fit my stature.
+
+"Haha I get the axeeee, I get the axeee."
+
+I teased and grinned as I swung it around in the air.
+
+Jack laughed as he saw me awkwardly handling the massive axe.
+
+"Yepp, a deals a deal. The axe is yours."
+
+The white light appeared and we were back at the dungeon exit. We jumped out and started walking through the park back to the Guild's building.
+
+"Hey Jay, would you like to join the Pace Guild? I'm sure we could work out a pretty good deal."
+
+I looked at him with a blank face while slinging the giant axe over my shoulder.
+
+"I'm not really looking to commit to a guild right now. Just testing out the waters."
+
+Jack looked at me with a curious but concerned look.
+
+"Maybe you could sit down in my office for a bit, I can show you what we have to offer at least. Plus they're about to serve lunch, it's good trust me."
+
+He grinned.
+
+"Sure, lunch sounds good. I'm starving."
+
+We walked into the guild's front doors a few minutes later and were greeted by the tall blond woman.
+
+"How was the hunt? I can see the new kid didn't die."
+
+Jack laughed.
+
+"He actually took down a mutant boss by himself."
+
+The woman's eyes went wide as we kept walking past her.
+
+A door opened as we were making our way to the back rooms. It looked like one of their training rooms. 4 people came out... then I saw a familiar face.
+
+A short blond haired girl with blue eyes was chatting and laughing with 3 older looking girls. She looked up and met eyes with me.
+
+"Jayyyyy??? What are you doing here???"
+
+I stopped and stared for a moment.
+
+"Maria?? I could ask the same for you... W-What a surprise!"

@@ -1,0 +1,199 @@
+---
+id: 7b2496c6-8a64-5483-b4d7-7e6fd913a492
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13 - Org Chart"
+slug: 0013-chapter-13-org-chart
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 13
+ownLength: 2220
+unit: words
+publishedAt: 2026-05-21
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3428002/chapter-13-org-chart"
+royalRoadId: "3428002"
+---
+
+The camp went up two days later. From the purple void rose a small building made of timber frames, hellscape clay, and a canvas roof. Kairon thought the size was exactly perfect to snuggly house twenty-five imps.
+
+Modest as the design was, his workers were thrilled.
+
+"Front!"
+
+"FOOD!"
+
+"Brood imps. To front!" called Shiny.
+
+"Fine with us. We take back," replied a wrath imp.
+
+"Window bunk mine!"
+
+"Stop. Put feet there."
+
+"Ow!"
+
+Rustling and scampering filled the living quarters as the imps made it their home. The wrath imps lounged on their bunks in the back, while the brood imps tossed and squabbled in their section near the front.
+
+Ducking his head in the short doorway, he saw Shiny climbing into the very front bunk. The little creature had three rocks, each glimmering. All were placed atop his wooden bedframe.
+
+Our art collection grows.
+
+Stepping back, Kairon reviewed the city interface.
+
+640 gold. The city lord whistled. Not only had Kairon cashed in on restitution for Vorathrex, but he had also sent a request to adjudication for bereavement last night. It went through with little fanfare, marking an additional 150 gold. That fact he kept very quietly to himself.
+
+Combined with the trickle of gold Shiny was now earning from corrupted timber, the settlement's balance sheet was drastically more encouraging. If they had the stone, they could have built the wall today.
+
+As far as the humans go, we have maybe a week. A week to get fifty stone to build a wall, spawn as many wrath imps as we can, and make our preparations.
+
+Using Sovereign Eye, Kairon surveyed his domain. From the spiral black tower, outlined by a stone circle fifty paces out. A line of sandy hellscape marred the border where the stone ring stopped. Beyond, the corruption had sprawled outwards with no regard for what lay before it.
+
+Taking a top down view, he moved to where the tree line originally started. Around one to two hundred paces from the tower itself, depending on which side. His domain had felt like a speck in a sea of green. Now, it seemed like an island. A big island.
+
+It had more than tripled in size, the corrupted terrain eating up forest and leaving only scorched ground behind. Kairon's vision flew by dead trees, abandoned animal dens, rubble, and strewn earth.
+
+Three quarters of the way through his search and he'd marked out three separate suitable locations for stone collection. Two places where what appeared to have been a riverbed was now laid bare, with the flats of rock and stone glinting in the morning sunlight. There was also one massive stone, but that he'd save for later. Without proper tools, the riverbeds would have to do.
+
+Satisfied, he broke the connection and ordered Shiny to meet him at the stockpile.
+
+"Good morning, Shiny. I'm pulling your five man crew off timber today."
+
+"Find shiny?"
+
+"Sort of. We need stone. A lot of it. And we need it fast, or the humans I spoke of before are going to have free rein of our shinies. And we don't want that."
+
+The little imp bared his teeth, tiny fists balling. Kairon nodded in approval.
+
+"How help?"
+
+"I'm going to have your crew stop getting timber for the time being. I need you to just focus on stones. The bigger you can haul, the better."
+
+"Heavy." Shiny pointedly looked at the enormous form of Vorathrex off in the distance near the wrath imps. "They help?"
+
+Every time I speak with Shiny, his intelligence keeps ticking up. I wonder what's causing that? I haven't seen anything like that from the other imps.
+
+"You know what, Shiny. That's a splendid idea. How about this. I'll see about wrangling up a few of the wrath imps to hand you some help. Does that sound good?"
+
+Shiny visibly brightened at this.
+
+Is it just me, or is Shiny more excited at the prospect of commanding the soldiers than the actual help that represents? That sent a flicker of amusement through Kairon's veins. Though it does raise some concerns. That type of attitude generally stems from systemic problems. Have I been missing something?
+
+Kairon made a mental promise to himself to watch how the brood and wrath imps interacted from now on. If there was a societal problem, he needed to nip that in the bud now.
+
+With his mind's eye, he picked out what he felt were the five strongest of the wrath imps and ordered them to meet him in front of the tower. He watched as they trotted away from the loosely defined practice area and the others, single file, and grouped up where directed.
+
+The stocky imps stood single file, all looking at him expectantly.
+
+He gazed at each and kept his instructions short.
+
+"We need to get this wall built. For our city to survive, it is absolutely imperative. I hesitate to pull you from your training, but you're our best and strongest. I'm assigning you to assist the brood imps in gathering stones for the next several days."
+
+The five wrath imps shuffled uncomfortably. Several of them narrowed their eyes, and one looked about ready to speak. None did.
+
+"Oh come now. You may speak freely. I'm not a dictator." Not exactly, anyway.
+
+"Lord Kairon... The brood imps are weak. Why help them? We are warriors!"
+
+Hearing their fellow speak up, the rightmost imp joined in. "He's right! We want to fight," another agreed.
+
+Kairon held up his claws in a calming motion. "I know, I know. I wouldn't do this if it wasn't absolutely necessary. When the humans arrive, you'll have your fight. In the meantime, I will be authorizing each of you extra food rations tonight for your civil service. Understand?"
+
+"Vorathrex says that strength is above all," grunted another. This one, the city lord noted, had a bent bone on his left shoulder. "You say we are the strongest, but then why wouldn't you leave us to guard the village?"
+
+Kairon gazed back. "The humans won't arrive for a week. Who are you guarding us from? And, consider this. The other soldiers, those I did not call for, have not been here as long as you. Any of you, for that matter." His eyes swept over the five. "They need to train. To grow stronger. You do not."
+
+"Can't we always grow stronger?" Again, the one with the bent bone.
+
+"A good point. What I should have said is that the others are weaker than you, and need training more than you. If they are not as strong, would you want them at your back when it comes time to fight?"
+
+This time, they looked hesitant. Not entirely convinced, but hesitant. Kairon thought that would be enough to prevent outright rebellion. He clapped his claws together.
+
+"Good. I'm counting on you. No. We're all counting on you."
+
+Despite the discussion, he still sent formal orders through the eye for the five to work collaboratively with Shiny, carrying the biggest stones they could manage.
+
+***
+
+"FLEDGLING!!!!" a bellow carried across the clearing, echoing so loud that even Kairon heard it on the opposite side of the tower.
+
+He set the piece of bark down, a half-finished sketch of his first go at copying down the symbols near the stockpile, and calmly stood. It didn't take long to find the furious giant. He stood in front of the tower, all six meaty hands balled into fists.
+
+"Vorathrex. You called? Quite loudly, in fact. You know if you want my attention, you don't need to yell."
+
+"Where. Are. My. Soldiers?"
+
+Ah. "Forgiveness. With everything going on, informing you over their reassignment slipped my mind."
+
+"Reassignment?"
+
+"For the wall. The brood imps can't get the stone we need in time, so I decided to take the wrath imps that had the most training time and send them to help." Kairon glanced at today's stone yields, nodding in appreciation.
+
+The day wasn't even half over and already seven stone had been collected and hauled over. Most of it seemed to be medium, imp-head sized river stone.
+
+Vorathrex glared. "They are warriors. Not workers. This is not what they are meant for. You are dulling my weapons. You expect me to fight with an unsharpened sword?"
+
+Kairon was touched. He called them warriors.
+
+The lithe demon cocked his head. "I expect you to fight with the tools at your disposal. And I have a feeling that one of those tools being a massive stone wall might be worth more than, as you put it, a sharper sword."
+
+Vorathrex shoved a hand in the demon lord's face, his oversized finger jabbing Kairon's black-scaled nose. "You should have asked me!"
+
+"Perhaps." Kairon sighed, crossing his arms. "Vorathrex, even if I had, would you honestly have reacted much better?"
+
+"I don't know. But this is wrong. You will see." With that, the big demon stomped off to rejoin the remaining soldiers for today's training.
+
+***
+
+That evening, Kairon was mulling those same words over in his head. You will see. Did Vorathrex truly know this would happen, or was the big oaf just spouting whatever flew into his head?
+
+"So tell me again what happened."
+
+Shiny stood on his tippy claws, nostrils flared, glowering at the wrath imp standing opposite him. "He shoved workers. Thrice. And won't carry big rock. Only small. Then call us weak!"
+
+The wrath imp's eyes narrowed into tiny slits, staring right back at the little fireball that was Shiny. "You are too weak to order us around. Stick to your digging."
+
+The bickering continued, but Kairon had heard enough. This was bound to happen. The issues I was worried about earlier are fundamental. Imps and demons, just like humans, have societal tiers. They naturally and instinctually are going to only respect authority from those at or above their station. I can understand that.
+
+"Okay, okay, okay. That's enough!" The two were nearly about to come to blows, and while the city lord understood the importance of allowing the imp culture to progress on its own legs, he couldn't afford any injuries right now. Plus, he had a soft spot for Shiny.
+
+In one swift motion, he placed a clawed hand on each of their heads and yanked. Both were held apart at claw's length.
+
+"You. Boney boy," he said to the wrath imp. "Meet me in front of the tower tomorrow." Kairon gestured by the stockpile. "I want you and the four other wrath imps from today to bring the biggest stone you can carry from the stockpile. Now off with you." He didn't wait to watch him go.
+
+"Shiny, starting tomorrow, you will only go to either of the riverbeds. Do not talk to the soldiers unless needed. Do not give them orders. If there is an issue, find me. Understand?"
+
+"So now no help? They go to fight?"
+
+"No. They will help. But I have a different idea in mind."
+
+What Kairon needed to do was make sure he kept the wrath imps working in parallel, but not in a way that would conflict with the brood caste. It was basic segmentation. The same way you'd never mix a crew of frontier system spawnees with core world ones. No matter the intentions, that just was going against the grain.
+
+***
+
+Kairon led the five wrath imps towards the third stone deposit. Every step he took left footprints in the hellscape sand, each over twice the size of the muscled wrath imps. A reminder of stature even in that.
+
+Looking over his shoulder, he confirmed each imp held a large flat stone. His orders were to find the biggest, flattest, and hardest stone from the stockpile. Those should do.
+
+Kairon stopped.
+
+"Alrighty. You tell me you are strong, yes?"
+
+The five grunted.
+
+"Yes!"
+
+"Warriors!"
+
+Kairon motioned at the stone deposit. "This is where you will be working. Boney," he pointed at the wrath imp with a bent shoulder bone. "You're in charge. Any imp have an issue with that?"
+
+There were a couple of jealous glances, but a snarl from Boney was their only reply. The four wrath imps stared, undecided between violence and subservience. But, after a tense few moments, the tension passed.
+
+"Good. He is your, let's call it your... Shift manager. Vorathrex will still oversee your training, and of course I'm your lord, but for this work detail you answer to Boney and he answers to me."
+
+That cleared up, Kairon moved on. "I want you to break this stone apart. The brood imps are too weak. Something tells me that you, however, might just be able to do it. You can use other stones, your armor, or anything you see fit to get the job done. Any questions?"
+
+"Just break the big stone. That's it?"
+
+"That's it. When the sun is three quarters of the way through the sky, I want you to haul any of the larger stones you managed to pry off back to the stockpile. Make a separate stack so you do not interfere with Shiny's brood imp section. Got it?"
+
+Before he finished talking, five sets of fists were pounding against the massive rock. Or just use your fists.
+
+The city lord decided to see it as a form of initiative.

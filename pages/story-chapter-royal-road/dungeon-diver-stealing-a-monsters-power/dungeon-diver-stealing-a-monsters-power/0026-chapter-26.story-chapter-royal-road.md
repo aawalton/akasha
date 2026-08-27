@@ -1,0 +1,321 @@
+---
+id: 8df440b0-6001-5f4b-8d74-1dd347d2bbc4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26"
+slug: 0026-chapter-26
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 26
+ownLength: 1974
+unit: words
+ownProgress: 1974
+publishedAt: 2023-02-12
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1112022/chapter-26"
+royalRoadId: "1112022"
+markedReadAt: "2026-06-29T20:32:41.862Z"
+---
+
+I didn't sleep well last night. My mind was too caught up in all the mayhem that happened yesterday. Plus, I didn't get to go all out in the dungeons even once. I always get fidgety and have a hard time sleeping when I don't get a good workout in these days.
+
+"Yaaaawwwwn"
+
+I stretched and got out of bed. My floor was still covered in silver coins, I decided to clean up and count them.
+
+102 silver coins and 24 bronze... not bad at all.
+
+I grabbed 6 silver and 3 bronze while getting dressed for the day. I threw my sword on my back and walked out the door.
+
+The morning sun was just coming up as I made my way towards the village market.
+
+"How ya goin old man?"
+
+"Hey kid, what can get for you today?"
+
+I placed 6 silver on the counter.
+
+"The usual, I need need 3 MP and 3 HP potions."
+
+He rummaged through the drawers and handed me 6 small bottles. I nodded and waved goodbye.
+
+"See ya kid, careful out there today!"
+
+"See ya old man."
+
+I made my way over to the station and took the first train to the Association office building.
+
+Abby was waiting outside for me, I didn't even have to talk to that lady in the lobby. Great!
+
+"Ready Jay?"
+
+She was a bit more serious this morning. Still smiling, but definitely in a serious mood. I should get in a battle mood too... this will be my first day in a D Class Dungeon.
+
+"Yep. All set. Where to?"
+
+She nodded.
+
+"Great, follow me! Today we're taking on the Grayson Bat Dungeon. It's a good D Class for you, I assume the regular monsters here will be much different than anything you've ever fought before."
+
+I looked at Abby with curious excitement.
+
+"Can't wait. I've been itching for a challenge."
+
+The mood for this morning was set the second I saw Abby. Serious dungeon mode... even though she wanted to have "fun" today, I guess D Class dungeons are no joke. I decided to play my role and not make light of the situation.
+
+We walked for about 10 minutes into another part of town I hadn't ventured to yet. Abby turned to me.
+
+"It's right over here. Under this bridge."
+
+She pointed to a dark metal colored bridge that stretched over a small river with slow moving water. On the edge of the river there was a medium sized brick building with two guards out front. There was a huge sign on the side of the bridge that read out "Grayson Bridge". I guess that's where they got the dungeon name from.
+
+We approached the two guards and I saw Abby reaching for her ID. I went to grab mine as well. We handed them to the guards at the same time. They looked our ID's over for a few seconds and wrote something down before nodding to let us pass.
+
+We entered the brick structure through the security checkpoint. It was an empty room with reinforced walls. At the back there was a large blue floating portal. It's time to enter the dungeon.
+
+"Alright. Let's do it."
+
+I drew my sword and kept walking forward. Abby nodded and stayed right next to me. We jumped through the portal together.
+
+On the other side I couldn't help but stand there in awe of this new world. It was... a giant cave.
+
+There was a ceiling about 100m high with giant stalactites. The dungeon itself stretched further than my eyes could see in the dim light. It felt like it was dusk, but there was no sun or any light source at all. My visibility was not great. Abby spoke up.
+
+"We can't venture in too far yet. This dungeon gets much more difficult the closer we get to the boss room. I recommend we stay within 500m or so from this entrance portal today."
+
+I looked at her curiously but nodded in agreement.
+
+"Alright. You know best."
+
+We slowly walked forward into the cave. The ground was hard and wet. The cave was filled with an eerie silence with an occasional drop of water from some unknown water source.
+
+There were occasional small rock mounds and stalagmites that we had to navigate around. I couldn't shake the feeling we were being watched...
+
+*Click *Click *Click
+
+"Whoooooshhhhh"
+
+I heard a series of odd clicking sounds and a dark figure soar passed me from the corner of my eye way too close for comfort.
+
+I turned with my blade pointed in its general direction and scanned the room. I saw nothing... Abby yelled.
+
+"Our first Bat Monster appeared!!! I'll let you fight it, I'm here if you need help."
+
+I nodded in agreement while frantically scanning my surroundings to find this so called "Bat Monster".
+
+*Click *Click *Click
+
+"Whooooosh"
+
+"Aaaaghhhhh! Where did that come from!?"
+
+The dark shadow flew passed me again, this time slashing my torso with something sharp. It wasn't a bad wound, but it sure was annoying.
+
+A few drops of my blood hit the cave floor.
+
+*Drip *Drip *Drip
+
+*Click *Click *Click
+
+"Whoooooosh"
+
+"Aghhhhhh! Again!?"
+
+Another small slash to my abdomen. Blood started dripping faster. I quickly checked my status, my HP had fell to 475/570.
+
+I can't see my opponent. This is the first time a monster has had a significant speed and agility advantage on me. What can I do..?
+
+*Click *Click *Click
+
+"Whoooooosh"
+
+I fell back receiving another small slash to my ribs. This thing, whatever it is... it's not dumb. I need to find its location, and fast! It's clearly weaker than me, I just need to get a clean shot or two on it.
+
+*Click *Click *Click
+
+"Whoooooosh"
+
+"Agghhhhhh where are you????"
+
+Another hit. I need to think of something fast.
+
+*Click *Click *Click
+
+I got it... fire can fight this cave up in a second. On the third click I ignited into a fiery ball of flames.
+
+"CRUAAAAAAA"
+
+I heard an odd cry but didn't see anything.
+
+"It flew away this quickly?! To where??"
+
+I kept my flames ignited lighting the cave up all around me about 10m in diameter. There wasn't a single enemy in sight.
+
+This monster is smarter than I thought, it avoids me when I use magic that could hurt it. I guess D Class dungeons are on another level than what I'm used to.
+
+I was burning through MP at an alarming rate. After about 20 seconds I let my flames die down. My MP dropped to 370/570.
+
+The moment the cave became dark I heard that damn clicking again.
+
+*Click *Click *Click
+
+"Whoooooosh"
+
+"Mannn this is starting to piss me off! Come out!!?!"
+
+I was getting frustrated. This must be how all those boss monsters felt when I would run around them in circles taking cheap shots. My HP is at 335/570 now, I started talking to myself.
+
+"Think Jay. Think."
+
+*Click *Click *Click
+
+"Whoooooosh"
+
+"Think... Think..."
+
+*Click *Click *Click
+
+"Whoooooosh"
+
+"THINK OF SOMETHING."
+
+*Click *Click *Click
+
+"Whoooooosh"
+
+"Aggghhh!!!"
+
+I ignited in flames again with a frustrating yell swinging my sword and activating every skill I had.
+
+Then I saw a glimmer of hope.
+
+Little blue letters and numbers appeared in the corner of my vision before disappearing behind a rock pile.
+
+[Lv. 117]
+
+It's the Monster's Level...
+
+That means... not only humans have levels. Could it be? All monsters have levels too? I've just never been able to see them without my inspect skill.
+
+I shook my head after zoning out into my moment of clarity.
+
+I smiled and gritted my teeth as I let my flames dissipate.
+
+*Click *Click
+
+"Inspect"
+
+After the second click I muttered my skill's name while repeating it in my head and looking around vigorously.
+
+I caught a glimpse of the blue letters and numbers in my peripherals. I turned with my sword and blindly swung in the direction of the moving dim blue light.
+
+"CRUUUUUAAAAA!"
+
+"I felt a hit! I hit something! It wasn't much... but I definitely made contact! Haha! Take that!"
+
+I couldn't help getting excited, I figured out a way to damage this creature while playing its own game.
+
+*Click *Click *Click
+
+"Whoooooosh"
+
+"Aghhhhh Come on!!!!"
+
+During my victory dance the shadow came back with vengeance and slashed my back with a pretty clean blow.
+
+I got back into battle stance and turned my inspect skill back on. I said "Inspect, Inspect, Inspect" over and over in my head.
+
+I saw the dim glow of a blue text hovering in the air moving spastically back and forth. It would disappear every time a rock structure got in its way. Then, it'd appear again dangerously close to me in my blind spots.
+
+*Click *Click *Click *Click *Click *Click
+
+It was clicking frantically as I kept positioning myself to face it. The monster wouldn't attack unless it thought it could get a safe hit in. Makes sense.
+
+I turned my back and let the shadowy figure position itself. Maybe it'd take the bait...
+
+Moments later I heard exactly what I wanted to hear.
+
+*Click *Click *Cli-
+
+"Shinnnnnggggg"
+
+I used inspect while simultaneously swinging my sword directly into my blind spot. It was a gamble, but it paid off.
+
+"CRUAAAAAAA!!"
+
+I landed a clean hit. My sword sliced through the right wing of the Bat and tore it wide open.
+
+It cried out in pain, and tried to change directions. To the monster's surprise its wings didn't work the same as they did moments ago.
+
+Its left wing overpowered its right making for an odd flight path. The Bat creature hit a stalagmite at its base and let out a defeated cry.
+
+I ignited myself and ran over to the monster to finish it off.
+
+It was an ugly creature...
+
+The bat stood about 1.5m tall, its wingspan was closer to 3.5m. The creature's underside was a gross wrinkly pink skin tone. It had a human sized head with bat features. Its wings were black and purple but the edges seems sharp as knifes. That's what it must have been slashing me with...
+
+I nodded and grunted a little. With a fiery slash I ended the Bat Monster without hesitation.
+
+[Level Up]
+
+I smiled as I heard the status system's voice ring in my head.
+
+Then I looked down to see a happy surprise.
+
+[Use Absorption]Skill: Enemy Detection[YES][NO]
+
+I chose [YES] the second the option popped up.
+
+I muttered to myself.
+
+"Echo location... enemy detection... same thing I guess. Makes sense, I take it."
+
+I was dripping blood all over the ground, I took a lot of hits. The bat creature may have been much faster than me, but I outsmarted it with my extra skills and brute strength in the end. Overall, a great battle.
+
+I nodded again to acknowledge my opponent while opening my status.
+
+[Status Open]
+
+____________________Name: Jay Soju
+
+Level: 114
+
+Hp: 115/575
+
+Mp: 165/575
+
+Strength: 276 [+50]
+
+Speed: 326
+
+Agility: 341
+
+Defense: 249
+
+Mental Strength: 277 [+55]
+
+Skills:
+
+AbsorptionSwordsmanshipCombat Magic [Fire Summoning]Inspect [Special Grade]Enemy Detection
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]Golden Wolf Ring [+20% Mental Strength]
+
+_____________________
+
+Abby walked over to me as the Bat started to disappear.
+
+"Good job! You did better than I expected on your first one. These guys are fun right?"
+
+I looked up and grinned.
+
+"You're right, this is an interesting dungeon. D Class monsters seem to be pretty intelligent, I can't wait to fight more."
+
+I grabbed the mana crystal and put it in my pouch.
+
+Abby smiled.
+
+She was definitely more relaxed than when we first entered the dungeon.
+
+That relaxed me a bit too. I chugged an MP and an HP potion to restore myself back to full health.
+
+Abby and I nodded at each other then ventured off further into the dungeon.

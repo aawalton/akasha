@@ -1,0 +1,171 @@
+---
+id: 82a3fd0c-c3fb-5e49-a135-9e94edd43024
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20 - Can I Talk To The Manager?"
+slug: 0020-chapter-20-can-i-talk-to-the-manager
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 20
+ownLength: 2095
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3455262/chapter-20-can-i-talk-to-the-manager"
+royalRoadId: "3455262"
+---
+
+Kairon took careful, measured steps. It was a bit unsettling, seeing real, living trees again. In the aftermath of the battle and the vast expansion in corrupted land, there was hardly any plant life left within several leagues of the settlement. The fresh smells of pine, dirt, and wildlife actually felt wrong now. He'd hardly noticed the sulfuric and iron scents of the sands anymore. In contrast, the forest almost smelled... dirty.
+
+"Well? Is she with you? Did you brutes do something with her?"
+
+The city lord gave a small bow. He decided not to answer that question just yet.
+
+"Good afternoon! I am Kairon, owner of a new nearby city. We're rather new to the area but are excited to meet our neighbors! May I ask what brings you wonderful folk here?" He gave a cheery nod.
+
+A man spoke up. "What do you mean a city? Greensward was already barren before you came here. Do you-"
+
+"Cylus! Hold your tongue." The woman gave the man a hard look, before turning back. "I don't care what city you came from, where you're going, or whatever hell you did to the forest. Where is my sister?"
+
+Kairon opened his mouth, made an oh gesture, closed it, and opened it again. He tried adopting the look his manager had given irate nobles that came into The Bureau to register complaints.
+
+"Ah... Reina? Of course, of course. Lovely girl. We'll get back to her in just a moment. Before that, could I have the pleasure of knowing your name?"
+
+Again, the man behind her growled. "Answer Lira's question or-"
+
+"Great! Lira! It's wonderful to make your acquaintance. May I also ask where you come from?"
+
+Lira glared daggers at Cylus, and then at Kairon. "You may not. Tell me where my sister is. Now." With each word the woman's eyes thinned just a touch more.
+
+He held up one claw. "I just want to make it clear that, despite the claws and scales, we are friendly. Let me start by sincerely apologizing for any... inconveniences," he said the word delicately, "my companions may have caused. Know that as their supervisor, I will do all in my power to ensure you leave happy."
+
+All five humans looked at him suspiciously. "Okay..." Lira trailed off, a bit thrown off. "We will leave happy once Reina is back with us."
+
+Kairon's brain spun, wheeling through possible scenarios and trying to filter which left him with customers and not enemies.
+
+"If I could just table the matter of Reina for a moment... Is there anything else we might add to the agenda? Perhaps another matter I could also assist with? For myself, I might mention that my own preference... No. I should say our preference from this meeting would be to open diplomatic channels and plant the seed for a fruitful relationship. Our city can offer unique goods that are, and I mean this literally, out of this world."
+
+The humans just stared at him.
+
+"Fuck your relationship and to hell with your tainted goods. We don't want it. Our people live out here for a reason, and it's not to make diplomatic channels with whatever unholy abominations you are. Our agenda is Reina. Either you give her back, or this gets ugly."
+
+Kairon's shoulders slumped. This was clearly one customer he couldn't sway. Looking at the other humans his gut told him three were also in that bucket. But one... One might be worth further pursuit. It was a shorter man in the back. He, unlike his friends, didn't look absolutely furious. Rather, his eyes had changed in a very recognizable manner. Greed.
+
+Lira took a step forward, her tone dropping quieter. "So, just give me back my sister, and maybe, just maybe, I won't let all the clans in Greensward know about you. Otherwise, news of a horde of unholy abominations kidnapping innocent folk will spread like wildfire. I'll make sure of that."
+
+Kairon cocked his head. Vorathrex you absolute fool. What to do, what to do... "You said that there are clans like yourselves... out there?" He gestured at the forest beyond to the north.
+
+Lira snorted. "You could say that. Far more of us than you could deal with."
+
+She seemed to think that made her threat more real. To Kairon, however, he only saw more opportunity.
+
+"You just told us you'd help however you can. Show us you mean it. Tell us where Reina is."
+
+Kairon cleared his throat. He considered lying, hiding what happened, playing it off. But the civil and managerial part of him just couldn't. If he wanted these people to do business with him, lying would never be acceptable.
+
+Plus... If any of them take one look at Vorathrex's hands...
+
+"Of course, of course."
+
+He paused momentarily, considering the best way to do this. Back when I had managers giving me bad news, they'd often phrase it as a question. Give me the logic and chain of events, and then let me come to my own conclusion. So...
+
+"Let me ask you this," he said calmly. Encouragingly, almost. "What do you think happens when, as you put it, a horde of unholy abominations appears out of nowhere and, due to some unforeseen difficulties, the forest feeding them for five to six leagues in every direction suddenly up and dies?" He looked behind him at the corrupted hellscape, emphasizing the point.
+
+She bit her lip, struggling to keep her voice from rising. "Don't know. And frankly, don't care. What's your point?"
+
+Sighing, he shook his head. "While I have a measure of civility, I can't say the same for... all of my friends." This time, the pointed look he gave was aimed at the lumbering giant still sitting not far away. "Now, before you say anything, we've already gotten some feedback on this."
+
+He thought back to the more than thirty dead corpses currently churning in the feeding pit.
+
+"I assure you, we took that very seriously and are making efforts to remedy-"
+
+"Cut the rambling. I'm done here. Let's go. We'll be back." She started to turn away.
+
+"Wait, wait! Don't go!" The thought of leaving them with such a poor taste in their mouths was unacceptable.
+
+"No, no, no. Okay, okay." He took another long, deep breath. "Unfortunately for Reina, it seems there was a misunderstanding."
+
+"A misunderstanding?" hissed Lira as she whirled around. Her eyes had gone very cold. Calloused hands clenched into fists, her agile body going very, very still.
+
+Holding up his claws, Kairon waved calmingly. "I know this will be difficult to hear, and again I say this with the utmost delicacy, but it seems that Reina, as it were, was a touch loud."
+
+No reply came this time.
+
+"And combined with the state that we're in... Well. I think Reina was mistakenly eaten. I'm very-"
+
+"You fucker!" she screamed, twin daggers coming from nowhere and appearing in her hands. Without needing to be told, Vorathrex rose to his feet and nearly a dozen stocky wrath imps stepped forward.
+
+Cylus managed to grab Lira by her cloak, holding her back. "You absolute monsters! I take back what I said. The rest of the clans hardly matter. I'm what you should be worried about. By the holy mother I'll have your heads, you sick, twisted creatures!" She tried, in vain, to escape the iron grip of muscle holding her still.
+
+This was not good. "No, I. Listen, I get it. I do. I would be just as upset in your shoes-"
+
+"Fuckkk you! Let go of me, Cylus! Fucking let go or I swear on the holy mother-"
+
+"Lira! I can't. Control yourself. Think, Lira! Think! There's ten of them and five of us," shouted Cylus.
+
+"And that big one!" chimed in another hunter.
+
+It was to no avail. Screaming obscenities and wriggling violently, she tried again to assault Kairon. Her cursing turned to screaming, and that to a furious and ranting mess of sounds.
+
+Thankfully the other humans held her firm. "Brent, Jasper. Stop gawking and help me out here!" wheezed Cylus through panting breaths.
+
+Even with all three sets of hands Lira was like a wild cat. She contorted her body, arched her back, and flung herself forward.
+
+"Fuck, fuck, fuck you!!!! Grahhhh!!!!!!! Reina!!!!! Reinaaaa!!!!"
+
+"Please, please just everyone calm down. I promise we can find a solution that works for everybody." Kairon tried to chime in, but no one seemed to be listening. He tried another tactic to get their attention. "We have gold. Real gold! What about that? How much would it take to refund your loss? Our stores aren't bottomless, but I'm sure we can find a number here."
+
+"Gold? Are you kidding me? Gold!" It was as if she was wearing a mask before. Lira looked like a demon herself, now clawing furiously at her captors, trying desperately to break free and get her hands on Kairon.
+
+"No! God damnit. We've gotta get her out of here." Cylus, fear and anger mixed in his eyes, started pulling his friend into the forest. Between each shove he kept shooting terrified glances at Vorathrex.
+
+It was taking some doing, but with the help of all three humans, Lira finally began being dragged away.
+
+Kairon rubbed his head, sweat glistening on the black scales. "Again, I'm truly, truly sorry. Are we sure there's no way to work this out?"
+
+More wild screaming.
+
+"I see. I'm sorry to hear that. Well please don't be strangers. After everyone calms down, do come again! I hope to see everybody soon!" called Kairon after them.
+
+He watched in muted dismay as the four humans retreated into the shadowed forest. Three pulling, one flailing.
+
+All the while pictures of the future filled his mind. Lira, being dragged kicking and screaming into the village, ranting about how scary demons ate her poor sister. The thought actually made him angry. I tried everything I could. Even offering my gold. She was most unreasonable. That woman probably won't even mention the dire straits we're in. We've lost half our forest and my demons are hungry. What did they expect? Truly.
+
+"Gah... Vorathrex! These humans are going to take us as monsters!"
+
+The big demon snorted from behind.
+
+"This isn't funny." Kairon turned, giving him a very disapproving look. "Do you understand what your actions have caused? Did you hear what Lira said? This is bad. Very bad. We're going to have no market out here if this little snafu spreads."
+
+Clicking his tongue, Kairon thought through his options. He came to a quick decision.
+
+"We need to cut off the flow of information. Quarantine the spread. Vorathrex! Take the wrath imps and go! I want you to catch our friends and ensure they do not make it back home. Not until we can continue our discussion."
+
+I don't like being so firm with people we've only just met, but I see no other option. Unlike the humans that had come from south of the mountains, at least these hadn't come armed for war. Well. Mostly.
+
+"Fine. I will catch these humans." The big demon shrugged, cracked his knuckles, and stretched. "That should fix the problem."
+
+"Good. Now hurry! Go, go, go!" Kairon urged.
+
+The massive demon came stomping forward, wrath imps not far behind. Bone armor clattered as the party barreled headfirst into the forest. They didn't exactly have to be trackers to follow the screaming in the distance.
+
+A cough from the short, greedy man from earlier cut through his thoughts.
+
+"Oh! You're still here?"
+
+The last remaining ranger sucked in a puff of air between his teeth, before shuffling nervously. "I suppose I am."
+
+"Ah. Well that's good. Erm. Sorry about all of that."
+
+They both stared at each other for a moment.
+
+Kairon took the initiative. "So. You decided to stay? That's great!"
+
+"For now. I have a few questions."
+
+"Certainly! Just one moment if you please."
+
+Calling up Sovereign Eye, he ordered Shiny to gather the brood imps and begin making the approach his way as fast as they could. It would take hours to make it here, however.
+
+"I need to meet some other workers. Could we walk and talk?"
+
+The human seemed unsure, but Kairon started moving anyway. He had information, and the man would follow for it.
+
+The pair set off into the endless sands. The demon lord had his fangs out. While the meeting wasn't perfect, he had at least one potential new customer. And hopefully a few more, if Vorathrex came through for him.

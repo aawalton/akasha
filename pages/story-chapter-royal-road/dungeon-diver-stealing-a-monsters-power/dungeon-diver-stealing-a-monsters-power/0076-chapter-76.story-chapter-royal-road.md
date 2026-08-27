@@ -1,0 +1,171 @@
+---
+id: 13ae301f-e814-534d-89d3-ad381138d621
+page-type-slug: story-chapter-royal-road
+title: "Chapter 76"
+slug: 0076-chapter-76
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 76
+ownLength: 1342
+unit: words
+ownProgress: 1342
+publishedAt: 2023-04-03
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1157216/chapter-76"
+royalRoadId: "1157216"
+markedReadAt: "2026-06-29T20:34:26.077Z"
+---
+
+On my way home I grab a bite to eat and stroll around Alpine Park for a while to think about the monster I just faced.
+
+It wasn’t the dungeon boss, that’s for sure. My only guess is it was a random mutant spawn, or has something to do with this skill… “Dungeon Walker”. I’m leaning toward the latter.
+
+As I ponder, I come across the old starter dungeon portal. This is the goblin dungeon where I started my journey as a hunter. I grin and jump through.
+
+The fresh air, green grass, and blue skies are pretty nostalgic. I walk into the dungeon and admire the beautiful view around me. After 10 minutes or so of wandering, a goblin appears. I use inspect and appraisal.
+
+[Lv. 4]
+
+Active Items:
+
+[Goblin Dagger] +5 Strength
+
+Active Skills:
+
+[NONE]
+
+I laugh and watch the mini green man run toward me with determination across its face.
+
+This is the perfect time for me to test out my new skills.
+
+“Intimidation.”
+
+The goblin stops in its tracks and its eyes roll back into its head. Its little green knees buckle and it falls to the dungeon floor. I slowly walk around the creature examining it, then turn the monster into a pile of ash moments later.
+
+I guess a stronger opponent would have been a better use of the skill… but at least I’ve learned how it to use it properly for the future.
+
+“Now… it’s time for Dungeon Walker.”
+
+I stare forward and concentrate. Instantly, a black and purple swirling portal appears in front of me. I slowly step inside.
+
+Everything’s dark…. Just like when that demon transported me before.
+
+I concentrate harder. All of a sudden, I start to visualize all kinds of familiar places in my mind.
+
+“These are… Other dungeons….”
+
+In my mind’s eye, I can see the distinct landscapes of every dungeon I’ve ever been to. It’s incredible, but a bit overwhelming at the same time. There are so many pathways connecting every step I’ve ever taken inside every dungeon… it’s like a massive map.
+
+I gulp.
+
+Then visualize the Minotaur dungeon from the capital. It’s crystal clear in my mind.
+
+I focus.
+
+Then step through…
+
+My eyes open wide as I take in the landscape of the Minotaur dungeon all around me.
+
+“I can teleport… to any dungeon I’ve ever stepped foot in.”
+
+I check my status and am very surprised to see my MP read 955/1455. One jump took over 1/3 of my mana…
+
+While concentrating again, a dark swirling portal appears in front of me. I step inside and visualize a dungeon nearby, the slime dungeon.
+
+Just like that, I step out into the grassy plane and check my status, it reads 865/1455 MP.
+
+“Interesting… closer jumps take much less MP.”
+
+I visualize the area 50m in front of me, then create a portal to jump through. Moments later I step out on the other side to check my status, it reads 855/1455 MP.
+
+I grin.
+
+Looks like this new skill is all figured out. It’ll be even more useful than I imagined. This saves a ton of time for traveling. Plus, this finally explains where that demon came from… well, at least it explains how it got to another dungeon in the first place.
+
+I use Dungeon Walker to teleport back to the Alpine Dungeon and walk out with a satisfied smile across my face. It’s been a successful day. I walk home, shower, and sleep like a rock.
+
+The next morning I wake up fully refreshed and step out the door.
+
+“Morning Jay!! You ready??”
+
+I smile at Maria.
+
+“Sure am, let’s go!”
+
+This began our hunting extravaganza.
+
+Over the next week, we defeated the High Orc Dungeon over a dozen times.
+
+In total, we took down 198 High Orcs with levels ranging from 240-260. They dropped 7 Maces and 11 Swords, plus tons of mana crystals. These were all added to the guild’s training supplies.
+
+We took down the real High Orc Commander boss 21 times. It’s level ranged from 285-295. One time, it dropped an “Orc Commander’s Ring”, it’s the same one that demon was wearing… We gave it to the guild, as per our contract. For all 21 battles, that demon was nowhere in sight. That solidifies my theory, it was 100% from another dungeon.
+
+We had a good time. Although beating the same dungeon boss got boring after a day or two, I learned to fight in tandem with Maria pretty well. We focused more on working together and reading each other’s movements, using the boss as our punching bag. The only skills I used with her were berserker, flame combat magic, and swordsmanship. I guess I trust her, but there still hasn’t been a good time to let her know about my other skills… maybe I won’t ever have to.
+
+By the end of the week, Maria and I both reached level 297. It seems we can’t level up any higher in this dungeon.
+
+[Saturday Morning]
+
+I roll out of bed with a yawn and step out the door before the sun even rises. We all agreed to meet at the guild first thing in the morning to get on the train to the capital together.
+
+“Morning Jay!! You ready??”
+
+“Morning Maria. Yep! I’m as ready as I’ll ever be, how about you?”
+
+She smiles.
+
+“Oh I’m so ready!”
+
+We make our way over to the guild.
+
+Once we walk through the front doors I see Jack and Rei standing in the lobby waiting.
+
+“Sorry if we made all of you wait too long.”
+
+Jack smiles.
+
+“No problem at all, we’ll be right on time for the train. Got everything you need?”
+
+I check my item box and feel my pockets, then nod. Maria does the same. Jack speaks.
+
+“Well, great. Let’s head out!”
+
+We all followed in agreement. I could have easily slept in, teleporting to the capital would have been a piece of cake. It would just be kind of hard to explain…
+
+*Screeech*
+
+“All aboard!”
+
+We board the train and pile into the private guild room. Maria and I sit on one side while Jack and Rei sit on the other. I speak up as the train starts to move.
+
+“So, Rei. What’s this exam really going to be like anyways? Everything I’ve tried to read about it seems to make me even more confused… It seems like this whole test is a mystery.”
+
+She nods.
+
+“Well, you’re right. It is a bit of a mystery. Every time the exam is taken, the Hunters Association mixes things up. Back when I took the test we all had to defeat a series of private Hunter Association-run dungeons in a specific time frame. Sometimes solo, and sometimes with teammates. There were representatives watching us every step of the way. I’ve heard from others that past exams were totally different.”
+
+Maria and I look at each other, then back at Rei.
+
+“So we’ll be able to work as a team?”
+
+“Exactly. It’d be in your best interest to work together. Other guilds have definitely created teams to succeed in the exams, entering as a small guild like us has its disadvantages. You too are pretty over-leveled though. The exam may be hard, but I know you’re up for the challenge.”
+
+I nod.
+
+“What kind of dungeons did you face?”
+
+Rei grins and shakes her head.
+
+“It doesn’t matter. As I said before, It’s different every time. There’s no point in thinking about it until the test actually starts. It’s impossible to prepare, you just have to be a competent hunter and take on the challenge in front of you!”
+
+Maria and I nod.
+
+“Well, thanks. Great motivational speech.”
+
+I look out the window and watch the buildings fly by. I didn’t mean for my response to come out that sarcastic.
+
+Rei chuckles.
+
+“You’re welcome.”
+
+The train continues to bring us closer and closer to the capital. I’m starting to shake with excitement.
+
+Today is the day of the C Class Exams.

@@ -1,0 +1,203 @@
+---
+id: 57d19cc0-9817-5d7a-b654-0e29b759cf92
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17 - Exit Interview"
+slug: 0017-chapter-17-exit-interview
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 17
+ownLength: 2394
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3444267/chapter-17-exit-interview"
+royalRoadId: "3444267"
+---
+
+"What the hell? What are they doing? Elson, are they throwing wood on the fire!?"
+
+His mind had just a moment to consider the incredulous sight when the ground began to tremble. Looking down, the grizzled commander stared, wondering why the sand was black. It hadn't been black before, right? It was orange. He was sure. So then why...
+
+"Elson! Tell the men that something is wrong and we need to get back to the treeline and reassess."
+
+No reply. "Elson!"
+
+Looking around, he caught sight of Elson Bredford on the ground, clawing at his chest.
+
+"Dammit!" Dismounting his warhorse, the commander pushed into the rear ranks of his soldiers. As he made his way into the armored bodies, he felt the fear radiating from each man. "Keep your heads up lads! Stay strong! We'll get through this yet!"
+
+In the midst of the swarm of men, Corporal Edward stood. He kept his spear pointed at that burning wall, watching with wide eyes as smoke and flame turned the barrier into a demonic pyre.
+
+Edward turned his head, seeing more than one man taking a few tentative steps backwards.
+
+Apparently, one of the squad commanders realized it too. "Eyes forward! Hold! Hold!"
+
+"Ed.. Do you feel that? The shaking is getting worse. This is bad, Ed. Real bad," hissed Bertrum.
+
+"I know, I..." he trailed off, catching sight of Lieutenant Bredford rolling on the ground several paces back. The man was screaming, and the smells of burning flesh were mixing with that of sweat and blood in the air.
+
+When his body shifted just right, he caught sight of a golden medallion that appeared to be sizzling with such heat it was melting into the poor man's skin.
+
+"Good god Bertrum. I should never have come back. This was a mistake."
+
+And then all at once, the faint sense of wrongness he'd been feeling ever since that first boot touched sand became a torrent. Sand went from orange to black, the temperature went from warm to near boiling, and the gentle tug coming from the ground yanked.
+
+Men fell, horses toppled, and spears clattered.
+
+Edward tasted hot sand and copper as he landed face first into the ground. The world went sideways, and everything felt muted.
+
+No, no, no. Up. We need to get up! I'm going to die like this!
+
+His eyes raised and fists clenched just in time to see a dark gate opening in the stone walls. God no, no no. "Bertrum! They're coming! Get ready I see-"
+
+A roar echoed across the clearing, drawing the gaze of every soldier, whether standing, laying, or kneeling.
+
+All Edward really managed to register was a massive red blur. One second, he was struggling to his feet and squad sergeants began crying for lines to form. The next, over five hundred pounds of pure demonic muscle barreled into Commander Ashlan's troops.
+
+The entire front line shattered. Men were crushed, armor was caved in, and shields were broken. Two rows back, the third and fourth ranks were splattered with blood and shrapnel.
+
+Edward gaped, peering at the crimson viscera painting his gauntlets.
+
+Fuck, fuck, fuck!
+
+With a cry of his own, the corporal climbed to his feet. "Bertrum! Get up!" He leaned down, pulling at the arm of his friend. Grunting, he got the big man back on his feet.
+
+They both raised spears and looked around wildly, trying to decide what to do.
+
+"To the front! To the front!" cried Ashlan somewhere in the middle of it all. Taking a deep breath, both men pressed forward.
+
+Kairon watched the six massive fists release a flurry of blows. Soldiers crumpled, bones shattered, and men died. He wasn't even sure how many.
+
+Vorathrex was a force of nature. He allowed himself half a minute, just watching the beast of a demon do what he always wanted. Consume. He swore that as each man died, something went from each corpse and flowed into the lumbering behemoth. That would be the corruption, I take it.
+
+One man dove forward, a mace digging deep into Vorathrex's side. Seconds later the man's head was in the grip of a massive palm. Kairon took a sharp breath in. He knew firsthand what came next.
+
+A fountain of blood squirted where a human head once was, and another earth shattering roar filled the battlefield.
+
+But he wasn't invincible. Already new soldiers were stepping over fallen comrades, closing ranks around the massive demon. For each man one arm took down, another cut or slash appeared on his crimson flesh.
+
+The general was slowing. He could only fight so many men, human or no, at once.
+
+Push! Ordered forward, the fourteen reserve wrath imps charged in after their general. A guttural war cry left their throats, orange eyes alight with determination. They'd trained the last several weeks for this.
+
+Spears raised, two lines of wrath connected with the collapsing bodies of men trying to swarm their leader. Unlike the raiding party the main wrath imp force had the best of the weapons. Seven recovered, iron bladed spears at their front led the effort.
+
+"Ragggh!!!!!" Boney armor pushed as one, spiked shoulders and angry imps eager for blood.
+
+When they made contact, seven humans were skewered.
+
+Orders were shouted, troops tried to rise and reform, and men and imp alike bled.
+
+Two wrath imps from the front charge were cut down by swords. Another sported an ugly gash left on his head by the pommel of another. Melees began to break out, and no amount of orders could stop it. Claws, swords, bones, and armor mangled in a cacophony of violence.
+
+Vorathrex lifted his head back and bellowed, his troops fighting furiously to find a place at his side. Each time a wrath imp felt blood, they let out a war cry of their own. Together, they pressed the army of iron.
+
+Effective, but barbaric.
+
+Commander Ashlan backed up, finding the rear of his troops and stared in dismay. He estimated at least twenty dead or wounded on his side. More every second. The demonic abominations were pushing them back, despite having a quarter of his number.
+
+How had Captain Breck not seen this? How had scouts not either? This wasn't some mysterious tower guarded by a handful of wood eating critters. It was a pit of death and despair teeming with primal demonic monsters.
+
+In front of him, what he saw was something straight out of the underworld. A wall black as night burned, for all appearances eating the flames. What must be more than twenty bone armored figures fought like wild animals against his militia. And at their head, a hulking monstrosity with six arms used fists like battering rams.
+
+For perhaps the first time in his military career, Commander Ashlan wasn't sure what to do.
+
+"Sir! Behind us!"
+
+Looking back, Commander Ashlan grimaced. The five surviving demons from the treeline were charging at their rear. "With me, back two ranks! Prepare for contact! Shields up!"
+
+Ashlan raised his sword, crouching low and standing side by side with his rear ranks. Prepared as he was, even he nearly was thrown back when the little monsters hit.
+
+"Be gone, wicked creatures! Slay them all, boys! Slay them all!" he roared. Shields met bone, and spears from either side swung hard.
+
+A soldier by his side went down to a stave through his eye, another with a skewer through the chest.
+
+Roaring, Ashlan swung his blade down, taking one of the demons at the hip. Two more men in his front rank fell, unprepared for the pure barbaric ferocity of their foe. Claws swiped, fangs bit, and sharpened wood stabbed.
+
+Behind him, the second rear rank of six soldiers closed, filling in gaps and bringing forth shields.
+
+"Push back! Push them back, damnit!"
+
+Ashlan leaned forward, bringing his blade with him. He used short arches, careful not to over extend. Another man at his side didn't, and he paid with his life.
+
+Two men pushed through, taking Ashlan's place and pressing him behind them.
+
+The grizzled commander let them. Knowing your place in a battlefield was half of what made a commander so valuable. He turned, surveying the front and middle ranks of his men. Thirty or more gone now. He calculated the odds in his mind. Really, he didn't have much to go on. Everything he expected was going to shit.
+
+Either we fight, and lose at least thirty more and maybe put an end to this now. Or fall back.
+
+More than forty years of service made the choice for him. "Fall back! Stay in formation and fall back! We make for the treeline, and then the spine! Keep your backs to one another!" he shouted.
+
+"Fall back!"
+
+"Retreat!!!"
+
+"Fall back!!"
+
+The remaining squad commanders echoed the calls, relief and order filling their voices.
+
+The city lord climbed the walls, standing atop them. He folded his claws behind his back and gazed over the battlefield. Two protective bone armored imps trailed behind him, their rigid forms flanking him on either side.
+
+Ten wrath imps, all my timber, and... The demon's eyes landed on the massive red form still in the clearing, stomping the skull of a surviving human. A third of a major demon. Kairon pursed his lips, considering.
+
+In the initial charge, the soldiers had managed to take two of his general's big arms. All that remained of them was a pair of bloody stumps on his left side.
+
+These humans worked up quite the bill. I'll be marking this down as a debt. One I intend for them to repay. With interest, I might add.
+
+"Shiny!"
+
+"Yes Master?"
+
+"Take the brood imps. Gather all the dead soldiers, and pull them into one pile. Then take any weapons, armor, coin, or other shinies and add them to our stockpile. Keep it organized. Any coin goes in the vault. If anything is too heavy, let me know. I'll send a few wrath imps to help."
+
+Shiny shuffled, looking at the carnage below. "They gone?"
+
+"For now." Sighing, Kairon looked at his favorite little imp. "From where I come from, humans have a reputation for being very stubborn. The number of repeat requests we had from them alone... Well. Let's just say I expect this to only be the beginning."
+
+"Repeat... requests?" asked Shiny.
+
+Kairon waved dismissively. "Another time. We have valuables to collect and spoils to prepare."
+
+Watching the little imp scamper down the stairs and begin barking orders, Kairon called up the tower's eye and looked out.
+
+He zoomed past the citadel, past the walls, and past the battle strewn clearing. He went past the treeline, past what was a dense forest, and paused. Under his extended domain, he had more than enough latitude to even watch the fleeing humans.
+
+All the corruption notifications that hit mid battle came back to Kairon. The interface had temporarily displayed a massive increase in corruption. It had since subsided, but the impacts were startling. A blanket of black sand now stretched for several leagues in all directions.
+
+His domain nearly stretched up to the mountain pass now. In all other directions, there was still a massive expanse of unending forest.
+
+But the expansion of my domain... Calculating eyes took in the tens of thousands of corrupted trees stretching in all directions within his expanded scope. Gold. So much gold, just waiting to be harvested.
+
+Thinking more on expansion, Kairon pulled up the ring expansion option from his interface. What greeted him nearly made him stumble.
+
+He hissed. This can't be right. Where's the timber and stone? It just wants a thousand gold. Insanity. Truly.
+
+To make that work, the demon knew he'd need to make a concentrated focus on development.
+
+The temporary increase in corruption was now gone. Even so, it had left a massive change. One he would need to survey in detail shortly. At its peak, it had surpassed over twenty fold where it was now with more than 700 corruption ticking all at once.
+
+One thing that really shouldn't have surprised him was the rise in fervor. Even with the demonic city's substantial losses, fervor had risen to sixty-two percent. Together, his forces had rallied and driven off a collective enemy. All the wrath imps had their bloodlust sated, and the brood imps watched their brethren defeat the humans that had come to drive them from this realm.
+
+A weary sigh escaped the city lord's lips.
+
+For a moment there, I almost felt like a battle general myself. I nearly forgot myself. This was far too much excitement for one day. Kairon had seen the preparation and aftermath for battles in his line of work, but never before had he actually directed one. The experience was both exhilarating and distasteful. Though… I think I might have enjoyed it more if it wasn't so expensive.
+
+One of the wrath imps behind him spoke up, perhaps sensing their overlord's mood. "We won, master! We are true warriors!"
+
+"Yes. We did. But more importantly, we gained time. Time that I don't believe the residents of this world truly understand is no longer in their favor."
+
+Looking out, Kairon saw that it didn't take the brood imps long under Shiny's direction to get to work. "Shinies first! Look hard, check everything!" came the little imp's orders.
+
+Nine brood imps flickered through the carnage and battlefield. Over thirty corpses were strewn about, and each had pockets with more than a few coins. Every time an imp found anything even remotely shiny there was a triumphant squeal of delight. A noise Kairon's own mind echoed internally.
+
+By the time all of it was collected, the city's treasury had gone from 390 gold to 480. Then, Vorathrex's words had come back to him. Men are even more corrupt than demons. Why do you think gold is the way it is?
+
+"Shiny!"
+
+Two orange eyes looked up from the clearing below, his claws holding several salvaged belt daggers. "Master?"
+
+"The bodies. Please have the imps drag them to the feeding pit. Make that your new priority."
+
+"Yes master!"
+
+"Oh and one more thing. Once you search for all the shinies, take the leather bags and rucksacks and bury them near the tower please."
+
+Shiny seemed confused by the order, but his master often gave him odd commands. He simply nodded.

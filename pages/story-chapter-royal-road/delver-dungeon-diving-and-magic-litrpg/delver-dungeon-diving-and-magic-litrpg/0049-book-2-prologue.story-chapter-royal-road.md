@@ -1,0 +1,159 @@
+---
+id: bad7afb0-f34d-5767-a680-c7d929206838
+page-type-slug: story-chapter-royal-road
+title: "Book 2 Prologue"
+slug: 0049-book-2-prologue
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 49
+ownLength: 1656
+unit: words
+publishedAt: 2026-07-24
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3721320/book-2-prologue"
+royalRoadId: "3721320"
+---
+
+8 Years Ago, in the Frontier City of Onder.
+
+A young Leo Grayson hurried after the long pace of the strange Dralk man, glancing up every once in a while, more out of curiosity than anything else. He wore heavy furs, despite the heat of spring starting to warm the world. Most of his face was covered by a wooden mask, but that didn’t stop Leo from seeing his clearly inhumanly sharp yellow eyes, or the long claws at the ends of his fingers. Leo also had to crane his neck quite a bit to look up at him, which was unusual for the kid, who’d hit his growth spurt earlier than most of his friends.
+
+“It isn’t safe.” The Dralk man said, his voice gruff, and heavily accented from whatever language he called his own.
+
+“I know.”
+
+“There are other explorers.”
+
+“They don’t look right.” Leo answered, frowning ever so slightly.
+
+The Dralk man paused, looking down at Leo with an unreadable expression behind his wooden mask. “What do you mean by that?”
+
+“Well, not all of them of course.” Leo looks down, kicking a rock on the road. “But the ones who would accept someone like me, they look like they expect me to, or even want me to die.” Leo brightened, “Plus, you need me! I heard you talking with Brother Ivan-”
+
+“You listened to our conversation?” The Dralk man lowered his head to peer at Leo closer.
+
+Leo froze, suddenly reminded of all the horror stories he’d been told about the nonhuman races. He quickly put on a brave face, sticking out his chin as he met the Dralk’s gaze. “You need a runesmith, and someone who knows the divine. I might not have a class, but I have just the profession you need, plus I’ve been studying the Reapers.”
+
+The Dralk hummed, then stood tall, “What skill did your profession give you?”
+
+Leo smiled wide, “Identify Runes.”
+
+That did seem to surprise the Dralk man.
+
+Leo knew he had him, and waited patiently for the nonhuman to come to a decision.
+
+The Dralk’s eyes narrowed, then a small sigh escaped him. “Very well, but there are rules you must follow, if you wish to join me.”
+
+“Yes!” Leo beamed at the Dralk, then put on his best serious face, “I mean, yes, of course.”
+
+“Follow. I will tell you of the dangers, and you will listen to my every word.”
+
+Leo couldn’t wipe the smile off of his face as he skipped alongside the Dralk man.
+
+***
+
+The next morning, Leo snuck out of the orphanage before sunrise, and made his way to the inn of the city.
+
+The Dralk man was already waiting, a Rock-Lizard chewing idly on some sticks beside him.
+
+Leo pulled his small backpack tight as he looked over the many supplies the Dralk man had prepared for their journey, then looked away as the man’s yellow eyes looked over Leo’s paltry pack.
+
+“Do not worry, I prepared for your youth. There are supplies for you as well.” The Dralk man turned, then started walking towards the gate.
+
+Leo hurried after him, practically running to keep up with the man’s long legs.
+
+The first day of travel was brutal on Leo’s muscles, unused to walking all day, especially at the pace the Dralk expected.
+
+Still, Leo refused to be left behind, so he forced himself to keep up until they stopped an hour before nightfall. Then he collapsed onto a patch of moss.
+
+A few minutes later, those strange yellow eyes silently looked down at him from behind a wooden mask.
+
+Leo moaned from sore muscles.
+
+“Start a fire, young one. I will hunt our meat. Do not leave the protection of the statue.”
+
+Leo pushed himself up, surprised to see a firepit already cleared. With some mental preparation, he stood up on his sore feet and gathered together some of the wood nearby, plus a dried log attached to the rock-lizard.
+
+Leo didn’t know how to start a fire, but he’d seen Sister Irene light the fireplace of the orphanage plenty of times, and he figured he could copy her.
+
+It only took him a few seconds to find some nice looking rocks, then he moved the wood he’d built, throwing it all into a haphazard pile in the center of the firepit.
+
+He hit the rocks together, expecting a spark, but it didn’t come.
+
+So for the next twenty minutes, he sat there, continuously hitting those rocks together, wondering what he could possibly be getting wrong.
+
+When the Dralk man came back to camp, and saw the young boy hitting two stones together, he burst into laughter.
+
+Then, carefully explaining everything he was doing, the Dralk man rearranged the wood of the fire into a tent with smaller sticks on the inside, and an easily lit moss on top. Then he grabbed some flint and steel from his bag.
+
+He showed Leo the unique characteristics of the materials, before striking them together and creating a small spark that landed on the moss and immediately lit it.
+
+With the fire lit, the Dralk man cut and prepared the meat of a small rabbit with his claws. The meat cooked well over the fire, at which point the Dralk man grabbed some ointment and held it out to Leo. “For your feet. Those shoes are not meant for long travel.”
+
+Leo grabbed the ointment, then took off his too-tight shoes to reveal bloody heels. The Dralk man had a sharp intake of breath, but did not comment otherwise.
+
+A careful application of the ointment, and the bleeding stopped, his feet suddenly feeling a lot better.
+
+Leo smiled, happy to experience what must be some kind of magical ointment.
+
+The Dralk man just stared at him, trying to understand the human child that had chosen to accompany him on this dangerous delve.
+
+A sudden question startled Leo, “How old are you?”
+
+Leo hesitated. He was tall for his age, and smart too. He knew that he seemed older than he was, and he’d used that to his advantage. Still, he felt bad about lying to the person who’d shown him kindness.
+
+“I’m thirteen.”
+
+The Dralk’s eyes narrowed, “You didn’t tell me you were so young.”
+
+Leo crossed his arms, and looked away, “You didn’t ask.”
+
+A long sigh escaped the Dralk man, “What is your name, young one?”
+
+“Leo. Leo Grayson”
+
+The Dralk man nodded, “You may call me Master Elto.”
+
+“Elto? Doesn’t that mean-”
+
+“I’m aware of what it means.”
+
+“Can I just call you Master?” Leo smiled cheekily.
+
+The Dralk man was unimpressed, “I do not take apprentices. My life is a solitary one.”
+
+“Yes, Master.”
+
+A long sigh escaped the Dralk Explorer, “This will be a long trip, won’t it.”
+
+“I thought it was only one more day of travel to the temple?”
+
+“No doubt, it will feel like a week.” The Dralk man stood, and took the meat off the fire. “Eat, then find some sleep, young Leo. We have a long day tomorrow.”
+
+Leo nodded seriously, then started eating the surprisingly delicious rabbit. After dinner, he fell asleep quickly in a blanket the Dralk had prepared.
+
+***
+
+The next morning, Leo woke to find a pair of large, empty leather boots on top of his bag. Leo sat up, and looked over to his Master on the other side of their camp.
+
+The tall Dralk man was adjusting the straps of the Rock-lizard, but must’ve heard Leo’s movement. “They are too big, but I’ve stuffed them with comanor fur. They will be easier on your feet than your old shoes.”
+
+Leo held up the fancy looking boots, staring at them in awe. They were much nicer than anything he’d ever worn, and he almost refused the gift on principle.
+
+The Dralk man, however, didn’t give him the chance. He threw his pack over his back, and adjusted the sword at his waist. “Hurry, young Leo. We must start on our trip.”
+
+Leo scrambled to get out of his blanket, then hurried to put on his boots as the Dralk man started walking down the path.
+
+The second day of travel was far more dangerous. Monsters haunted the woods, and Leo was forced to stare in awe as his mentor took down a wolf-pack with just his sword and his claws. They hid in the defences of the angel statue more often than not, and Leo got the impression that the Dralk was slowing down and hiding, more to protect Leo than out of worry for himself.
+
+Still, when Leo crested a hill, and looked out upon the neverending forest, a great creature flying across the sky, he realized that he loved this. He loved the discovery, he loved the air away from the city, and he loved the sight that stood before him. What things might be hidden in the dangerous forests and skies ahead of him? He didn’t know, but the very thought excited him.
+
+They found the ruins towards the evening, at which point his master found a good spot to rest, and they spent another night in the wilderness.
+
+Leo woke the next morning excited for the day of exploration. Even the stoic Dralk seemed to be caught up in the boy’s excitement.
+
+His Master led him into the temple, and to a large door covered in runes. Leo stared at them for a long time, using his Identify Runes to help the Dralk get past the roadblock on his path.
+
+The runes led to a secret mechanism on the back of one of the Angel Statues. Leo told the Dralk, and the older Explorer carefully pulled it, releasing the lock on the door.
+
+The doors opened wide, revealing a lightly lit hallway into the depths.
+
+Leo vibrated with excitement. Already, he knew, the start of his first delve would be filled with danger, excitement, and prizes beyond his imagination.

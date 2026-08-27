@@ -1,0 +1,253 @@
+---
+id: 1330da11-6a72-592f-815a-44483fed54ca
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33.5 - Black Market"
+slug: 0035-chapter-33-5-black-market
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 35
+ownLength: 1918
+unit: words
+publishedAt: 2026-06-20
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3567296/chapter-335-black-market"
+royalRoadId: "3567296"
+---
+
+Limping back, Kairon stared at his frozen foot. Then at the sigil.
+
+The feeling that he was missing something grew stronger. It poked at his mind, like a hot brand singing into his brain.
+
+But what?
+
+He retraced his thought process.
+
+The water? There was something there… But it ran deeper than that.
+
+Before, what was he considering? The farm. Closer. The image of the red soil, warm and hot in his claws, pressed in his mind. That felt right, but not quite it.
+
+Which leaves… Corruption. The moment he thought of that, the feeling became a glaring light, shining and begging to be seen.
+
+Kairon stopped walking, sat, and peered at the ground beneath him. The hellscape. Digging one claw down, he pushed aside dirt and sand until faint hints of decayed debris were visible.
+
+Originally, I assumed corruption acted as a wave. One line, one change. As the domain grew, there was top ground. And what was it.
+
+Now, I’m finding there’s layers. A second point of change. One that is almost entirely disconnected from the first.
+
+That was interesting. Yet, there was a connection he was missing. Another problem…
+
+He looked further inwards, studying the dark sigil in his mind bobbing back and forth. The fluid, flowing lines. Like the channels of water from earlier. Every symbol connected to the next.
+
+Then, he thought back to every other symbol he’d seen on his city’s summoned structures. And the script written into the ritual circles, save that dark star. Each was… violent. Harsh. Each was… Different.
+
+It hit him. With a snap, the piece slotted into place.
+
+Oh my. Oh my, oh my. Could this. Could this be why…
+
+Thoughts whirling, he stood. Slamming his stick down, he set off for the tower. He needed to see Sythara. It was time they had a chat.
+
+***
+
+Shiny stood, claws crossed over his chest.
+
+Bean, Sing, and Clod were in the hole.
+
+“Master say we need fill. Sythara fell.”
+
+“She stupid,” muttered Bean. “Holes good!”
+
+The little imp narrowed his eyes. He liked Bean. Bean was a good worker. But, even good workers needed proper supervision.
+
+He was about to tell him just that, when the purple lights stopped him short.
+
+“Wait!”
+
+“Boss?” asked Sing.
+
+“Huh?” chittered Clod, arms frozen in place, poised to start brushing dirt in the hole.
+
+With a plop, Shiny dropped down, falling into it. He ran his claws over the purple lights. Some were veins, spiderwebbing through the darkening soil and compacted layers near the hole’s bottom. But, between a tangle of old roots at the bottom, a mossy, purple light shined.
+
+Bending down, he sniffed it.
+
+“Smell good.”
+
+Pursing his lips, he scraped some in one claw and held it up. “Sing, eat this.”
+
+“FOOD!”
+
+Sing snagged the glowing bulbs and stuffed them in his mouth.
+
+The other three imps watched, faces intent. They’d had nothing but dried jerky for weeks, with the occasional fresh meat. Something new was…
+
+Sing’s eyes lit up. “TASTY!”
+
+“Me try!”
+
+Clod grabbed some, stuffing his mouth too. “OH!”
+
+Over the next several minutes, the imps enjoyed a buffet. Glowing grub was dug, harvested, and eaten with little ceremony. As they finished their fill, Bean gave Shiny a guilty look. “Is this okay?”
+
+Shiny thought. “Master say no waste. Waste bad. We use.”
+
+Bean looked satisfied at that, wiping his purple lips clean.
+
+“Wait.” A thought struck Shiny. The purple veins were from Master. As Master grew, the veins did too. Did the veins make the yummy snack somehow?
+
+“There may be more. Bean! Dig that way!”
+
+Minutes later, they found another root cavity, more purple glowing grubs in it.
+
+This time, Shiny held up his claw. “No! We do not eat.”
+
+Sing and Clod looked disappointed, but Bean obeyed. “Listen to boss!”
+
+After a moment, both obliged. Shiny was respected, after all.
+
+“Here what we do. Master say no waste. So we find more. Then, we…” Shiny’s brow furrowed.
+
+“We trade,” he announced.
+
+“With who?” asked Bean.
+
+“Other imp. Brood. And…” This time, a devious, fang-filled smile covered his mouth. “The wrath.”
+
+“They scary! Strong!” shrieked Clod.
+
+“Yes. Yes! We can’t!” agreed Sing.
+
+“Brood grows large. You see. For now, just brood. But later, the wrath too.”
+
+Just like that, The Brood Market was established. Shiny the owner, Bean the digger, and Sing and Clod the muscle.
+
+***
+
+On one side of the camp, a gathering of wrath warriors were playing a game of stones. Shouts, jeers, and grunts filled their half of the building.
+
+From the other side, a much quieter mob of brood imps gathered around Shiny’s bunk.
+
+Scrub pouted. “Sing say two. Want!”
+
+Shiny shook his head, Sing and Clod standing behind him. “You want? It three now.”
+
+The little red imp looked longingly at the fur bundle, its purple glow just visible under Shiny’s bunk.
+
+“But… Only have two…”
+
+Shiny shrugged. “Not my problem. Find more.”
+
+From behind, another brood imp walked up. He dropped three shining animal teeth on Shiny’s bed. “I have.”
+
+Shiny swiped his claw over the three fangs, stashing them away. As long as they were shiny and bigger than a claw tip, the Brood Market accepted them.
+
+Then, looking up, Shiny made a quiet chitter.
+
+Bean, stationed on the other side of the cabin, looked intently at the wrath imps. Seeing none looking back, he chittered in return.
+
+Shiny nodded at Sing. “Give.”
+
+Under the bunk, a small claw dug into the sack, found a handful of luminescent grub, and shoved it in the excited imp’s claws.
+
+“More here if want. Come back soon!”
+
+***
+
+“If I am busy working with your human friend, does this mean my ‘onboarding’ is complete?” asked Sythara. She didn’t even bother to look up as the demon plowed into the chamber, walking stick leading the way.
+
+Kairon panted, collapsing in the cool shade of the citadel. The evening was still quite warm, leaving his scales soaked in sweat by the time he’d made it back.
+
+He held up one claw, taking a moment to gather his breath.
+
+“Script,” he rasped.
+
+“What?”
+
+Gulping air, he yanked on the water skin by the door, slurping the tangy, iron-tasting water within, before tossing it aside. “The script. You told me before you didn’t know what the symbols meant.”
+
+Two sapphire pupils dilated. “I did. I can not translate what they mean, if that’s what has you all worked up."
+
+Kairon waved his claws. “But you’ve seen it before? In the plane?”
+
+“Obviously… Child, why are you so interested in this? Are you implying something?” Sythara asked, an undertone of accusation in her tone.
+
+The demon got the distinct impression there was more to her words than he understood.
+
+I need to tread carefully. But… I need to find out more. The risk of Sythara learning too much about me is worth it.
+
+He considered carefully, before choosing his next words.
+
+“It’s just that I’ve been studying the scripture on the structures we have here, in the city. It’s my job to ensure everything is up to code, you know. And, it occurred to me that if the plane had carved scripture from different demonic dialects into the structures we house, it could have implications we need to consider.”
+
+Sythara hissed. “Child. The void I research deals in patterns and connections, not specific lettering, dialects, and—”
+
+“Yes! Yes! Patterns. Connections. Exactly.” He nodded, demonic eyes gleaming.
+
+She glared, obviously not happy with the interruption. “But, like I told you, we do not know the language of the plane. I can not read it, nor tell you how it works. That script is not taught. The plane itself creates and shapes it.”
+
+Kairon pushed further, struggling to maintain his excitement. “You said ‘we’ don’t know it. Not I. Your kind specifically, or all demons?”
+
+“I… I suppose I always assumed all can not. But there are rumors. I assume you’ve heard them.”
+
+The city lord paused, taking that in. “These rumors. The ones you’ve heard, at least. Do they ever speak of script, perhaps older, that looks fundamentally different from the symbols we have here?”
+
+She cocked her head. “Just what do you mean? Like these dialects you asked about?”
+
+“No, no. Not quite. More like… another language entirely. Something that feels more… fluid, rather than harsh.” He paused, adding one last line as if it was frivolous. “Like, oh I don’t know, a language that can interact with the plane, but isn’t even demonic at all.”
+
+The shadows that always warbled about Sythara, restless and snaking, went still. Her eyes dimmed, and the sigils on her skin halted.
+
+“Wherever did you hear of such a thing, child?”
+
+Red warning flags flashed in Kairon’s mind.
+
+“Oh, nothing so fanciful. It's just something I’ve been thinking about. A few… peculiarities in our domain that I’ve noticed.”
+
+She was silent for a moment. Then, the demoness spoke quietly. “There are stories. Old ones, from demons who have traveled to the far edges of the most fractured of realms in the plane. About places where the planes sit on top of something else.”
+
+“Something else?”
+
+“Like… oil on water. The top layer is slippery, floating above it. But the bottom is much deeper.”
+
+Kairon’s mind whirled back to the sand, sitting on top of soil. And then to…
+
+“Those are just stories,” she added. A bit too quickly, in Kairon’s opinion.
+
+Taking a risk, Kairon hedged on.
+
+“And if someone found that language? What would it mean?”
+
+Sythara studied him. She turned, shadowy tendrils unfurling and wrapping around his foot.
+
+“Your claws are burned. But your foot froze. Those are not the same bargain, child.”
+
+This time, the silence stretched. Like his domain in the forest, it sat. Tainted. Spilled. Corrupted.
+
+She knows. She’s known since she arrived. She must.
+
+And then it shattered.
+
+“Now. About my ritual circle.”
+
+***
+
+Kairon sat outside, enjoying the cool night. His back rested against the tower, the purple glow of the eye lighting the sky above.
+
+Today’s realization was the conduit for the puzzle this world was. Not all of it. But a big chunk. Kairon went through it all in his mind. From the little to the big. The grates in his tower that didn’t make sense. His title of ‘provincial demonic city warden’. The two entirely different languages of script. The fact he couldn't learn one with the other in his mind. The way the old ate the new.
+
+Some pieces fit, others still stuck out. But one was glaring now.
+
+The costs. A bargain, Sythara had called it.
+
+One burning, the other freezing.
+
+That’s why he couldn’t solve this. He’d been trying to solve the equation as if it were one formula. But it was two.
+
+The demonic scripture, and something else.
+
+He looked down, staring at his frozen foot.
+
+Whatever that other language was, his foot was paid to it. Not the plane.
+
+So I’ve discovered two archaic languages. One, from the demonic. It relates to my structures and buildings. The other, in relation to… something more foundational. And they don’t coexist. Only one can be in my mind at once. As soon as I learned the fluid, smooth sigil of the archaic, I stopped being able to comprehend the demonic.
+
+Which meant that before he could resume his research of the plane’s scripture, he had one final mystery to solve. He pulled up the bottom of his interface, reviewing that single line of text.
+
+Sigils: 1

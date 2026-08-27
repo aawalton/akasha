@@ -1,0 +1,333 @@
+---
+id: b1b17411-f754-5b6d-be7c-1fe8319fddd6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 45 - The Solari"
+slug: 0047-chapter-45-the-solari
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 47
+ownLength: 3978
+unit: words
+publishedAt: 2026-07-18
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3692197/chapter-45-the-solari"
+royalRoadId: "3692197"
+---
+
+Capital of Solari Territory, Aurelion — The Spire
+
+A long, high-pitched horn echoed through the holy capital. Work was paused. Scripture was set down. Meals were halted. And, for the elite of the bishopric, wills hardened. A conclave was imminent.
+
+Not long later, the lives of thousands had already returned to normal. All except dozens of robed bishops and their staff, each making their way to The Spire.
+
+The massive domed building was the crown of Aurelion, stretching far above any other structure in the city. Its bottom levels were used for public worship, its middle for administrative and managerial necessities, and its top for one purpose.
+
+Arthur Demetri climbed upwards just for that reason, taking long, purposeful steps. The marble staircase beneath was eaten up with ease as he ascended.
+
+Behind, William and several aides followed. They were having a slightly less easy time of it.
+
+“Father, I just worry we are moving too hastily. Do you not think this premature? If you’re wrong…”
+
+A tired smile crossed the Spymaster’s face. Without pausing or turning back, he spoke. “William, I sincerely hope I am wrong. I do. But, from everything we’re learning, I fear the opposite to be true.
+
+“You fear the opposite?” asked William, nearly out of breath.
+
+The high bishop lowered his voice, speaking so only the priest could hear. “I don’t just fear I’m right. I fear that we’re too late.”
+
+William didn’t reply at that. That didn't surprise Arthur. What could you say when he, the man who knew perhaps more than any in all of The Solari, feared that they were too late?
+
+His saying that was measured, not happenstance. The spymaster needed his second informed. Compartmentalization served its purpose, but so too did coordination. And if the Solari were to survive this test, it would be together or not at all.
+
+That fact most of all kept his nights restless as of late.
+
+Minutes later, they reached the entrance to The Hall of Rays. Two golden plated paladins stood sentry, blocking the way to any but bishops.
+
+The sentinel on the left moved forward, holding up one gauntlet armoured hand. “High Bishop Demetri. You may enter, but your party must remain in the lobby.”
+
+Around, over a hundred other aides were already sitting on nearby benches, engaged in quiet chatter. His own would mingle shortly, ensuring any rumors of note were cataloged and filtered up to him.
+
+“Of course, paladin.” He turned, smiling gently at William. The priest was still lost in thought at Arthur’s warning, brow furrowed. “William. All will be as The Five will it. Have faith.”
+
+Shaking himself, the priest bent down, pressing his lips to the ring on Arthur’s finger. “I do have faith, father. I just worry.”
+
+“Well, stop that! I worry enough for us both.” Then, kneeling so he too was on the same level as William, he whispered in his ear. “I got word today from a rider that Caen sent us a very interesting friend. From the front lines. See to it you intercept him before anyone else hears of this. I’ve taken measures, but I can’t be sure. You can leave Johan here to meet with the other staff.”
+
+To his credit, William kept his expression still. “Yes father. I’ll see it done.”
+
+Coughing delicately, he held out his hand. “Before you go. Don't forget that this might be difficult without the writ.”
+
+Cheeks coloring, William turned and snapped his fingers. “Yes, yes. Of course! Johan, Marcus. The writ, please. Quickly.”
+
+One of the aides immediately held out an ornamental case. The other unclasped it, removed the protective silk, and gently lifted the parchment within.
+
+Taking the painstakingly scribed writ, William turned to his master. “Father, if you really are set on this, I expect the south bishopric will be quick to follow you. Your true challenge will be with the rest.”
+
+Arthur waved dismissively. “Leave that to Klive and me. You have your job. I have mine. By the five.”
+
+“By the five.”
+
+Using both hands, Arthur grasped the parchment, nodded one last time to his fellows, and entered the hall.
+
+***
+
+As the holy capital, it was seen to that every part of the city, from domicile to worship, was as beautiful as it was extravagant. Tens of thousands called it home, living between its wide paved streets, marble temples, lush gardens, and hilltop shrines.
+
+Most of the architecture was made up of columns and domes, with angular shaping that mimicked rays of sunlight near rooftops. A subtle nod to the solaric roots of the theocracy.
+
+At the Apex of The Spire, however, held something only bishops ever saw. Something that nothing else in the entirety of Aurelion could compare to. The Solarium.
+
+Stepping inside, Arthur took stock of his battlefield. He had to stop himself from grinning.
+
+Our gambit should pay off. And, even now, only two thirds of the bishops showed. He and Klive had gone to great pains to ensure their own supporters were part of that group.
+
+In practice, the enormous lists of petitions and motions, many of which held minimal consequence, meant that most bishops only showed up to one out of every three conclaves. Today was actually a relatively high turnout. By design, of course.
+
+Judging by the confused looks on some of his political adversaries’ faces, they were starting to wonder why.
+
+All in good time, my brothers. All in good time.
+
+At full capacity, sixty devotees could be seated in the circular, tiered chamber. Ranking High bishops at the bottom, mundane bishops on the top.
+
+And, at the floor, sat the archbishops. All had a different obelisk behind them. Vigil, Pyre, Bounty, Lens, and Radiant. Representations of The Five.
+
+It was an unspoken rule for them to remain impartial during the proceedings, acting as the champions for their Chosen of the Five. To interpret, not dictate.
+
+In practice, that meant smiles and nods in the light, with whispers and maneuvers in the dark.
+
+Arthur’s eyes narrowed as he and Archbishop Klive locked gazes. A subtle bow of the chin was exchanged, before both shifted elsewhere.
+
+Making his way to his spot on the first tier, Arthur found himself once again in admiration. Not of the devotees gathered here, but what they were gathered within.
+
+The solarium was an enormous dome of glass at the peak of The Spire, framed by curving veins of gold. Its top was left open, allowing the sun to reflect just right. The result was a brilliant beam of radiance funneling directly into the chamber’s center. Right at the focus of that illumination, a massive dais was carved into the stone.
+
+Once your eyes adjusted, it wasn’t blinding. It was divine.
+
+“This is your doing, I take it,” muttered High Bishop of Treasury, Aldara. Her blonde locks were kept in formal wear, bound in her Solcrest.
+
+Taking his seat, Demetri gave a gentle but measured smile. “Oh, come now Aldara. Don’t look at me like that. I wouldn’t have done this if I didn’t believe it absolutely necessary.”
+
+“Yes, well. I’m surprised you even showed up. You do realize that the list of petitions still numbers over five dozen. I doubt your writ will even make it to the floor until four or five conclaves from now. Six if Oren has anything to say about it.”
+
+Demetri quirked his lips at that. “Perhaps. Or, perhaps The Five will see fit to surface what matters most, and let the less pressing issues sink.”
+
+Aldara snorted at that. Giving him an amused look, she reached for the quill at her side. “That seems rather unlikely.”
+
+Around them, hushed conversations and muted whispers filled the hall. Demetri ran through another head count, getting a feel for how many supporters he could count on.
+
+Amidst scribbling and reviewing figures, Aldara spoke again. “I’ve heard much of this proposal of yours. I’ve heard very little, however, as to what it’ll cost.”
+
+He was just about to make a half-willed reply when two loud bangs of a heavy gavel cut through their conversation. At the top of the chamber, the arbiter stood. Arthur bobbed his chin in approval when he saw whom it was.
+
+As planned. Lys is on rotation.
+
+“Order! Order! The Five bear witness to this session. Seeing as midday is approaching, I am officially calling today’s conclave to order. We speak in the light, or not at all,” proclaimed Lys, repeating the ritual.
+
+Arthur nearly pressed his palm to his face when he saw the satisfied smirk on Klive’s lips.
+
+You old goat. Half the bishopric's going to know you arranged Lys to be arbiter with you looking like that. Gah… Oh well. I suppose it hardly matters now.
+
+At the doorway, the paladins on guard closed the massive oak doors, each making up half of a solaric sigil. None could enter or leave until the conclusion of today’s agenda.
+
+“For today’s session, we have a packed schedule. Items that are not seen today will be placed at the next conclave in two weeks’ time.” The arbiter paused. “However, there is a pre-conclave matter to be addressed.”
+
+“Pre-conclave matter?”
+
+“What?”
+
+Murmurs of unrest filled the chamber.
+
+To his side, Aldara gave Arthur a pointed stare. He very purposefully did not look back.
+
+Two more slams of the gavel. “Order! Order!”
+
+On the other side of the room, High bishop Oren stood, white robes unfurling behind him. “Arbiter! Explain yourself! What in The Five’s name is a pre-conclave matter?!”
+
+Shouts of agreement came from others behind him. Without surprise, Arthur noted that only half of the western diocese with Oren had shown up today.
+
+Not enough. And, judging by the growing redness on his face, the man knew it.
+
+Cocking his head, Arthur Demetri tapped two fingers on his armrest. On cue, High Bishop Callun of Doctrine looked over. He gestured meaningfully at him with his free hand.
+
+Rolling his eyes, the wiry man stood. He adjusted his spectacles, before clearing his throat. “Under the canonical precedents of the third solarch, subsection fourteen of the Rites of Convocation, a writ bearing an archbishop’s sponsorship may be elevated to pre-conclave standing if, and only if, the matter pertains to an active threat against consecrated lands of the faithful therein.”
+
+He sat back down, adjusted his glasses again, and folded his hands.
+
+Fists pounded and feet stamped in approval from the central diocese, most seated to Arthur’s rear.
+
+“Seconded!”
+
+“Third!”
+
+Oren glared at the arbiter. “This is ridiculous! Has any bishop here actually heard of this pre-conclave nonsense? Can anyone confirm the wish-wash Callun just gave us?”
+
+Canon Lys sighed. “That wish-wash is indeed correct.” As if on cue, she held up a copy of parchment with the clause referenced. “Furthermore, I have verified the pre-conclave agenda item does reference a matter as described by Callun.” Then, rushing out the words before another objection could be raised, she continued. “As such, the conclave recognizes High Bishop Demetri, under sponsorship of Archbishop Klive.”
+
+Oren stared in incredulity. For several tense moments, he stayed upright. Still. Arthur half thought the man was going to break precedent. But, just as the tension stretched taut, he sat. Even as outraged as he was, denying the floor once given was a serious offence. One that even a high bishop had to tread lightly with.
+
+For his part, Arthur rose in one fluid motion. Writ in hand, he descended, taking measured steps until he stood precisely in the center of the floor’s radiant light. Around him, the five arch bishops stared. Two of whom had unspoken fires blazing in their eyes.
+
+“Thank you, Arbiter,” he said. Loudly, crisply. Then, instead of even looking to the archbishops, he instead let his gaze travel in a slow circle at the audience above. To those who would actually vote.
+
+“Fellow brothers, I come today to petition for a permanent establishment consecrated in North Valdren, the resources and arms to hold it, and a champion to lead it. I know this may seem presumptuous, but with the evidence I will be sharing, I think you will agree with me that it is warranted.”
+
+With every word he spoke, Oren’s face grew darker and darker. Arthur saw him stealing a look at his side, where the other high bishop seats were empty. Conveniently vacant for today's proceedings. Turning, Oren began whispering furiously to a robed figure seated behind him.
+
+Arthur ignored him, pushing on. In his hand, he held up an envelope. “I recently came into possession of a letter from Lord Vask of North Valdren. In it, he speaks of events that at first glance are only of mild concern. A lord Hector Hallen, whom many of you may recognize by the name of his late father, Renold Hallen.”
+
+Disgusted gasps and murmurs broke out at the mention of the rebellious heretic. It was hard to forget having two churches burned, after all.
+
+“While The Five saw fit to show mercy to young Hector, it seems that in this case, our hand may have been too soft. I’ve received reports that North of The Spines, a new taint is upon us. One that Hector not only knew of, but from all accounts actively sought out for himself.”
+
+Oren flew to his feet, fist raised. “Taint?! You can’t possibly expect us to believe that Hector—”
+
+A gavel slammed down, cutting the words short. A stone-faced Canon Lys stood. “The floor was yielded. We speak only in the light, or we do not speak at all.”
+
+From behind Arthur, Bishop Harren stood. “I request the session notate Oren’s interruption.”
+
+Another bishop behind him stood as well. “Seconded.”
+
+Before the third could be given, Arthur raised a hand.
+
+Can’t have that.
+
+“Thank you, my fellows, but the high bishop brings up a good point. I see no reason to notate the request. The Five reward the courageous, and in this I commend Oren.”
+
+After ensuring no one else was going to third the notation, he went on.
+
+Oren didn’t look relieved, however. He saw the move for what it was: Posturing and repositioning. Now Arthur was the elder, commending the emotionally distraught bishop.
+
+He went on, coming to the meat of what he knew the other bishops were thinking. “For is a rogue lordling worth the expense and effort of consecration? Of using our limited resources on establishing a more permanent foothold when the people of Valdren are still having trouble learning to be truly devout? Of risking a more violent response from them?"
+
+Arthur rubbed two fingers under his chin in contemplation.
+
+“And normally I’d agree with Oren. We can only spread the mercy of The Five so far. You can not plant seed until your fields have been tilled, after all.”
+
+Stamps and sounds of agreement came from all around this time.
+
+“That is, was it not for the reports we have, by signed witnesses, of ground tremors felt in the north. Of purple lights in the sky, visible over The Spines. Of a most troubling corruption in the forest, visible from The Pass. And, perhaps most damning of all, reports that Hector sent eighty men to try and deal with these matters himself. Not to vanquish them, but to rouse them.”
+
+“What?!”
+
+“He wouldn’t!!”
+
+“Blasphemous!”
+
+Nodding, he gave a long sigh. “And, my brothers, only half of those misled souls came back. Half, from a forest full of what should be no more than beasts and exiles.”
+
+Now, the crowd’s gazes were uncertain. An apprehension growing.
+
+Arthur stood still, hardening his will. For this next part would be the true test. “My brothers, the losses in men were not from beast, nor man. It was because when Hector’s troops set out, delusions of the arcane in their eyes, they found not treasure. But a calamity.” Pausing, he spoke softly. Even so, the entire hall heard. “Demons. Real, flesh and blood demons.”
+
+Demons.
+
+That single word hit harder than anything else. The whole chamber felt it. No one moved. No one spoke. Even the sun, ever bright, seemed to dim.
+
+Then, all at once, sound returned. Bishops behind Oren jumped to their feet in disbelief, Oren the first among them to rise. In return, supporters of Arthur stamped and shouted. And, those in the middle wavered.
+
+“Demons?!” bellowed Oren. “Demons in Valdren!? Arthur, have you lost your Five blessed mind?!”
+
+“Preposterous!” barked another.
+
+“This is fear-mongering!”
+
+The gavel came down three times. Four. Five. “ORDER!”
+
+Order, however, did not come. All semblance of it was quickly dissolving.
+
+From the floor, even the archbishops stirred. Vielle and Seraine were both glaring openly at Klive. Something was muttered, but Arthur could hardly hear.
+
+Again, the gavel came down. Harder this time.
+
+High Bishop Arthur Demetri waited. He thought this might happen. Expected it, really. But that was what he was after. Shaping the hall into an emotional decision, not a rational one.
+
+While he firmly believed that making this writ was the logically right choice, he feared his devout brethren would not.
+
+So he played on something they could understand. Fear.
+
+Watching, arguments shouted from Oren’s side were answered by those to his back. Arthur’s supporters, while not entirely informed of what he knew, would still follow him. It was the middle section of bishops he was hoping to win over. And, one by one, he knew that at the very least, a seed was planted. One that grew, little by little. He could see it in the tremble of their eyes. The clasping of fists. The shivering of spines.
+
+By the time the Arbiter and arch bishops had managed to coax the conclave back into a semblance of order, more than one grievance had been added to the record.
+
+From the floor, Seraine raised her hand. “This is most irregular. I call for the conclave to conclude on grounds of—”
+
+As if waiting for those very words, Archbishop Klive, who’d been so quiet all this time, pounced. “Do the thoughts of demons scare you so much, that you fear even The Five could not come to our aid?”
+
+This time, no response came. Eyes went wide, Seraine’s mouth locked open. Before she could reply, Archbishop Vielle joined from the floor. “Seraine is not suggesting anything of the sort. I believe she merely is calling attention to the undeniable truth that Klive’s sponsored this writ. And, as it happens, did we not just elevate his own son, Brexin, to Lord Paladin and send him with a full hand to The North already? Is this not corrupting your motives? Perhaps it is you that fears your own son can not vanquish the foe in front of him?”
+
+Arthur broke in. “This was my idea. I had to convince Klive, mind you. He was adamant that Brexin could deal with any threat, but I reminded him that the threat Brexin set out to conquer may no longer be the same it was before he left. And, is this not an apt opportunity to finally gain a consecrated domain in the North? Something that so far has proved elusive and costly. But, perhaps in the face of what lies beyond The Spines, the north will be more malleable. More accepting of Solari hands.”
+
+Demetri watched as that last carrot sunk home. He swept his gaze across the chamber, reading the faces of his brethren. The fear was still fresh.
+
+Good. By The Five, I hope it lasts.
+
+Looking up, he gave Lys a nod.
+
+The canon rose. "The floor has spoken. The conclave will now review the proposed writ in detail."
+
+***
+
+Arthur’s legs ached from standing, the sun having shifted from one side of the Solarium to the other.
+
+He couldn’t say he was exactly satisfied. Nor was he unsatisfied. Arthur was… Unsurprised. After several hours of debate, the writ had been carved down to a compromise. Too many bishops, even his own supporters, just didn’t understand or really even believe about the threat in the north. Not truly.
+
+They weren’t privy to the more revealing reports he got, and he wasn’t willing to bring them into the light. Even Arthur Demetri had limits.
+
+As a result, the writ had several major amendments. At Oren’s persistence, the champion was struck. Few bishops would approve one for an unseen threat. Aldara's treasury faction carved it further, reducing five hundred paladins to two hundred. And, most frustrating of all, the consecration failed to gain enough support, and was deferred to a future conclave.
+
+That, at least, wasn’t a total loss. He could make a new case for it in the coming weeks. Especially with new evidence, it might gain enough traction.
+
+Sighing, the high bishop looked at the newly scribed parchment in his grasp.
+
+This will have to do. If I push for any more, I’m afraid the fear from earlier won’t carry.
+
+“Arbiter, I request a vote be given to bring the writ to The Five.”
+
+Before Oren or any other bishop could refute it, Lys was ready. She shot to her feet. “Accepted! The conclave will vote.”
+
+Growls and gasps filled the audience, but a shuffling filled the hall as hand mirrors were grabbed.
+
+When an arbiter called for a vote, there was no stopping it. Not even an arch bishop could halt what came next.
+
+One by one, mirrors were either turned away or forwards. And, in just seconds, over thirty rays of sunlight bent towards the dais at the center of the chamber. It made a majestic display of light, far undercutting the political implications of what it truly was.
+
+Three quarters of the chamber sparkled. One quarter, nearest Oren, stayed dim.
+
+“Thirty one for, ten against, one abstained. The writ passes!”
+
+***
+
+Arthur approached the dais, unfurling the scrolled parchment and spreading it taut. Golden weights were used to hold it steady. One by one, each archbishop laid their blessing upon it. Thumb to index, in front of a spread palm.
+
+Seraine and Vielle weren’t happy, but neither did they object. They simply nodded, sat down, and looked onwards. Stone-faced.
+
+Stepping back, he waited. It didn’t take long.
+
+Cascading from above, radiant sunlight blazed into the parchment. Golden letters flared, turning orange, red, and then black. Wisps of smoke burned, going inside to out. In moments, the writ crumbled into a pile of ash.
+
+In its place, something took hold. The column of ash rose from dais to sky. Gravity was defied in the face of The Five. The conclave watched, some in awe, others in anger, and more than a few in worry, as the writ disappeared.
+
+Softly, the arbiter spoke. “The Five Speak.”
+
+And speak they did. Behind Seraine, the obelisk of The Vigil blazed to life.
+
+Questions sounded in the crowd. Vigil was never first. Yet today, The Five of Defense had come to life in mere seconds.
+
+With a disgusted look on her face, Seraine flicked her hand. “Vigil is for.” The result was undeniable.
+
+Stomps sounded behind Arthur.
+
+Not long after, Pyre followed suit. Not as brightly. But it lit.
+
+Smiling, Klive nodded. “Pyre approves.”
+
+More stomps. Louder this time.
+
+Bounty flickered, before going dark. “Bounty rejects,” said Tomas. That made sense. There was no provision in this writ.
+
+Lens lit, dimmed, lit, and then dimmed again. Vielle looked at Arthur and Klive triumphantly. “Lens is uncertain. Abstain.” This was what made being an archbishop so powerful. Interpreting the meaning of The Five. One bishop might have called that approval, even if hesitant. Unfortunately, Vielle was not a friend of Klive, nor Arthur.
+
+Come on. One more. By The Five, if we ever needed you, it was now, thought Arthur.
+
+And, to his prayer, they answered.
+
+The final obelisk glowed to life. “Radiant approves,” proclaimed Jeseph.
+
+Two slams of the gavel. “The Five have spoken! May their hands be carried forth!”

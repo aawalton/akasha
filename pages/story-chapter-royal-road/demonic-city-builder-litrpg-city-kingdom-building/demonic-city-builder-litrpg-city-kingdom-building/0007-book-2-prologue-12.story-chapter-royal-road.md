@@ -1,0 +1,173 @@
+---
+id: fb901797-f9ec-59a0-96dd-3650cbcfa1ea
+page-type-slug: story-chapter-royal-road
+title: "Book 2 Prologue - 1/2"
+slug: 0007-book-2-prologue-12
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 7
+ownLength: 2117
+unit: words
+publishedAt: 2026-08-01
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3753810/book-2-prologue-12"
+royalRoadId: "3753810"
+---
+
+Ticking.
+
+That was all that could be heard in the massive, oversized chamber. Its length was filled with nearly a hundred wooden chairs surrounding the great oaken table. More than half of which were already filled with awaiting demons. Varying degrees of dress and emotion mingled throughout as their claws fidgeted, tentacles sloshed, and fur bristled.
+
+Yet, not a word was uttered, nor a purposeful noise made. All that could be heard from end to end was the ticking.
+
+Tick, tick, tick, tick.
+
+Its source was quite evident. A small, nondescript alarm clock sat in the middle of the table. Beside it, an old analog speaker waited. Its white plastic was stained with yellow, an electric cord spilling off it. Where it went, no one knew.
+
+What they did know, however, was that it worked just fine. The gentle static made that clear enough.
+
+The speaker’s sound woofer was unnaturally dark. So much so that it seemed to have a cavernous, almost palpable depth to it. A red light blinked intermittently in its center. Like a tiny speck in the void that was the analog speaker’s internal workings.
+
+It was anything but, however. The uncertain gazes that caught upon the electronic device looked away as quickly as they could. Not even a named demon at the table wanted to attract that kind of attention.
+
+At the front of the room, five seats were far more ornate than the rest. Their demonic wood was colored to match the aspect they represented. Void, Wrath, Brood, Forge, and Pact.
+
+The board.
+
+“Greetings all. Be seated, please,” drawled The Vaunt from the blue chair. When he spoke, a tiny symbol lit up, allowing his voice to carry audibly throughout the stuffy room. Even the newest demons already present on the opposite end could hear.
+
+His parchment lined skin ruffled, script and clauses making up scales that covered his entire body. It positively reeked of Pact. In front of him, a golden name plate was placed. The text stated a date that proved just how truly archaic The Vaunt was.
+
+The Vaunt — Board, Pact Seat — DB 2.907
+
+Next to him, the other four members of the board didn’t even bother looking up. They too were granted the honor of a golden nameplate.
+
+Behind one, a massive, red form stretched six arms behind his back. Grotesque cracks cut through the ticking, enormous veiny muscles straining to maintain a semblance of control over the hulking body. Altogether, the giant’s bulk more than tripled the size of the chair he waited in. “Or don’t. I don’t care,” rumbled The Pit Master.
+
+His date was almost as early as The Vaunt’s. Almost.
+
+The Pit Master — Board, Wrath Seat — DB 4.905
+
+“I do,” replied The Vaunt simply. “Protocol must be observed.”
+
+“Children, control yourselves,” cooed the leftmost board member. Her face was entirely hidden beneath a midnight dark hood, purple tendrils smelling of the void dripping from where crevices in the cowl should be.
+
+“Oh? She deigns to speak to us?” laughed The Pit Master. The boney crown of horns atop his head shook as he did.
+
+“And she thinks us her children. Ironic, given she only joined the board a few thousand cycles ago,” rattled The Vaunt. His voice had a raspy, brittle tone. Like the shuffling of old paper. “It wasn’t so long ago that your sisterhood entered The Table itself, wasn’t it, darling?” He motioned at the little golden tag waiting in front of her.
+
+The Unsaid — Board, Void Seat — DB 14.506
+
+The Void mistress said nothing, but the darkness in her cloak seemed to vibrate with tension.
+
+All the while, flashes of purple light filled the rest of the room. Each announced the arrival of another member. A portal, torn unceremoniously through reality, bringing the most important demons in all of the plane to the gathering.
+
+As the clock ticked closer and closer to midnight, more and more seats were taken. In front of each, like the board, name tags sat—only these were different.
+
+For the senior members, those nearest the board, they had white name plates with red, embossed letters.
+
+On them, the demon’s title, name, and date of joining were shown. Assignment at The Table meant everything. The sooner you joined, the further up the table you sat. Age was power.
+
+Which is why, located at the very back end of the table, the newest seats were assigned. Their name tags were the most mundane. White with simple, black typed text. One such tag stood out from the rest. The newest of all.
+
+Emmeth The Youthful — Junior Member — DB 18.917
+
+Behind it, a slim, crimson skinned humanoid sat. His appendages were one of the few that held actual fingers. They brushed through his oily, slicked back silver hair.
+
+“Good to see you, Amaranth,” he said to the demon already sitting next to him. His cheery voice carried easily in the quiet room—both due to its structure, and the general quiet. As he took his seat, the wooden chair legs scraped noisily on the black stone flooring below.
+
+Amaranth, who had been staring at his claws, looked up, his purple skin turning a shade darker. The twin antennas on his head quivered as he looked distastefully at Emmeth, the youngling that was but nine cycles his junior.
+
+Amaranth The Surveyor — Junior Member — DB 18.908
+
+“Emmeth, what did we tell you about pre-meeting conversations,” he whispered, emphasizing the last bit with more exasperation than frustration.
+
+“Shut up, you two!” hissed a demon several seats away.
+
+“Quiet!” chimed in another from two mouths at once.
+
+“Oh, calm down. We have a minute to mingle,” replied Emmeth, leaning back. He took out a small notepad by his side, setting a pencil next to it. “Besides, aren’t you all curious what the agenda for today is? If there’ll be any announcements about the current state of the plane?”
+
+Amaranth’s face paled. “Emmeth—” he began, only to be cut off by a new voice. A female with serpents for hair. Their mouths lapped at the air, flicking their tongues eagerly.
+
+“Well hellooo helloooo! He’s right, you know! A little mingling never hurt anyone!” she cooed.
+
+“Of course you’d think that, Balcerath,” said Amaranth. “It is your very nature to bleed into others’ business after all. Before you defile it,” he muttered quietly.
+
+Her name tag read a join date just before the 19th turning. Just in time to be considered a full member.
+
+Balcerath The Spilling — Member — DB 18.899
+
+Waving the comment away, she turned her attention to Emmeth. “You know… I heard the sisterhood lost another farm,” she said conspiratorially. “Another one. And they still haven’t found a replacement,” she continued.
+
+“You both should be quiet…” tried Amaranth again. He shot uneasy glances at The Board. Despite seeing no apparent attention in their direction, he still wasn’t at ease.
+
+Slowly, as if not to spook anyone, he sneaked a tiny peek at the center of the table.
+
+The speaker crackled.
+
+Squeaking, he turned back. “By the plane…” he mumbled. Reaching up, he wiped the growing moisture from his forehead.
+
+Emmeth hummed thoughtfully. “Balcerath, tell me. Don’t you find it peculiar? If even a board member like The Unsaid and her sisterhood can’t find a new farm, where does that leave the rest of us?”
+
+“Nowhere good.” She looked both ways, before leaning forward and placing her head between the two demons. “I’ve even heard some calling it a rescission.” Unfortunately, Balcerath wasn’t known for her inconspicuousness. Her voice could hardly be called a whisper at the best of times.
+
+Amaranth reeled back, placing both claws over his mouth. Even Emmeth’s eyes widened, his breath catching.
+
+“Balcerath!” snarled a furred demon further up the table. “Watch. What. You. Say,” he warned. Nearby demons held pure horror in their gazes, having just overheard that most tainted word. Chairs scooted, trying to get a few inches further from the trio at the end of the table. Faces looked the other way, with more than one going so far as to cover their ears.
+
+Shrugging, the demoness retreated back to her chair and scratched at her ears. Emmeth himself still had an expression of anxiety mixed with consideration when the ticking stopped.
+
+Moments later, an ear-splitting alarm rang. The metallic clock slammed its tiny bell over and over, announcing the hour. Nearly every spine in the room stiffened simultaneously.
+
+Taking a deep breath, Emmeth regained himself and smoothed his notepad. Amaranth bit his claw, and Balcerath smiled wickedly. “Here we go,” she giggled.
+
+All turned their attention to the old analog speaker. Sensing the attention, it crackled. Static radio-like sounds echoed in the room, cut by distortion and whines as the tune adjusted to be just right.
+
+Satisfied, the speaker’s light went from red to green.
+
+At the head of the table, The Vaunt rose and cleared his throat. Reaching forward, he grabbed the massive leather bound tome. Without preamble, he peeled it open.
+
+“Welcome all. Thank you for attending today’s session,” he ground out. “Attendance is, as usual, perfect. No absentees.” There hadn’t been for thousands of cycles. Not after what happened to the last one.
+
+The pact master drew his fleshy finger down the page, pausing at the top. “First order of business. The Plane would like to remind all of us that the draft pool is currently open for new applications. If you have named demons that are fit for taking The Pact, please ensure you do so. Due to low supply, a write off of appropriate value will be granted to all those that supply rank one or rank two named demons.”
+
+A few measured sniffs came at that.
+
+“Has the plane reconsidered our proposal for non-named demons to be included? My flesh crafters assure me that we have specimens more than worthy of the pool, even if they are not yet named,” interjected a pulsing mass of flesh from the green chair. The fourth board member. His golden nameplate confirmed as much.
+
+The Overflow — Board, Brood Seat — DB 9.605
+
+Of all the creatures in the room, he was the only one that could not be considered an individual. A dozen different bodies fused together shifted, their tangled mess of eyes peering as one not to The Vaunt, but the speaker in the midst of the floor.
+
+The pact master paused, glancing up from the ledgers.
+
+A moment of stillness passed. Then another. And a third.
+
+The Overflow was about to speak again when the reaction came. The speaker cracked, and a feeling of wrongness pressed down on each in the room. The device’s light went from green to yellow, its static noise sharpening abruptly.
+
+The change was instant.
+
+The Overflow’s puddles of fat and sludge were the first to quiver under the pressure. Brood infused as they were, even they weren’t immune to The Plane itself.
+
+Next, The Board felt it. And, like a cascade, the rest of the room. From the senior members to the junior. Features trembled and claws clenched.
+
+“Fuck, fuck, fuck. It’s a bad one…” groaned Sulvarrek, a fish-like demon halfway down the table.
+
+“By the plane, by the plane, by the plane!” whined Amaranth on the end.
+
+“Take it back!” came another hiss.
+
+“Fools. I think,” rasped The Overflow, “that it could be a true solution to our population issue. Do you not agree?!”
+
+“Our issue?” ground out The Void mistress from the purple chair. She growled, tilting her hooded head back. The sloth of void trembled around her, doing its best to mute the power of the plane’s decision. “Don’t you mean your issue? If your brood would simply show a measure of restraint, the Halls of Filth might not be so crammed.”
+
+From the table, another meek voice joined the fray. Choir, one of the void aligned demonesses. Her silver locks shimmered, some of which had been stained red by fresh droplets of blood beginning to drip from her nose. “Please, esteemed board member, rescind the c-claim,” she managed to get out. “Many of us can not… bear this as you do.”
+
+Not three seats down, a demon’s eyes rolled back in his head and he lost consciousness.
+
+The plane’s presence continued to grow and grow, a mix of sinful emotions drawing on all present. It did not understand indecisiveness or questions. Only subservience.
+
+Clicking his tongue unhappily, The Vaunt gave The Overflow a meaningful look.
+
+Body quaking unhappily, The Overflow acquiesced. “Fine. I rescind my proposal,” huffed The Overflow. “For now,” he added.
+
+The crackling disappeared, taking the plane’s touch with it. Sighs of relief, heaving breaths, and low moans filled the hall.

@@ -1,0 +1,163 @@
+---
+id: b1906e5b-ce23-54e2-a960-4bcd195bad53
+page-type-slug: story-chapter-royal-road
+title: "Chapter 47: Create Story"
+slug: 0047-chapter-47-create-story
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 47
+ownLength: 2070
+unit: words
+publishedAt: 2026-07-22
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3712284/chapter-47-create-story"
+royalRoadId: "3712284"
+---
+
+The bones of the god still speak. They whisper, promising rewards if I were to but free them, bring them to their loyal followers.
+
+I ignore the whispers.
+
+Researching the divine has taught me the folly of believing the words of ancient creatures, and whenever I find myself tempted, I cast a mind clearing spell.
+
+But the mention of Loyal Followers does make me wonder. Clearly, it does not refer to the current Angels, as Angel Imanata’s people currently surround him. Does it refer to the Fallen? The Devils? Or perhaps something else that rests in the divine realms.
+
+No matter how much I search, with every answer I find, I am brought more questions. Perhaps this was an evil god, or a god to the Devils. I cannot say, but that will not stop me from continuing my research. With that said, I must finish this volume, for already I have said too much. If I am lucky, I will continue my work further. He who searches, will find my words, that is without doubt, for I cannot let my knowledge die with me.
+
+Mana travels through me, leaving my hands to hang in the air. For the first time, one of my spells uses actual spell circles. I count as they start to form, drawing energy from me. But I don’t recognize most of the Identity or Desire runes. Four circles form, filled with runes, and I do my best to memorize the ones I don’t know. One, the first circle’s identity, looks vaguely familiar, and another, the Identity of the last circle, I think I’ve read in one of the Archmage’s personal books about the more forbidden and dangerous magics.
+
+Stillness, Illusion, ???
+
+Transformation, ??? And ???, ???
+
+Transformation, ??? And ???, ???
+
+Stillness, Mind, ???
+
+I don’t have time to focus too much on the ones I do know, as the fourth circle spell pulls on my intent.
+
+I need to fill it with something I know. A story.
+
+I pull on one of the legends I’d read about.
+
+The world shifts around me, the ground turning brown as the terrain shifts. Mountains rise around me, and below me in one of the few passes, a horde of terrifying creatures crawl forward, approaching a hundred men and women in armor.
+
+A single human stands out from the rest, her body glowing with magic as she casts spells over her hundred men. The forces meet, and fight. Every wound suffered by the humans is healed as they occur. Men on the verge of death rise from the ground, stab wounds healing, arms regrowing as they continue the fight to hold the pass.
+
+The legend of Priestess Raya.
+
+The endless horde of demons is repulsed, and the glow surrounding the woman lessens, but doesn’t leave completely as she doesn’t stop channeling her spell.
+
+“An interesting choice.”
+
+I freeze from where I stand on the mountain, a simple spot of clear ground on the mountain above them. I recognize the voice, of course, and as I turn, I see her.
+
+She looks down at the battle below, some amount of hatred for the horde of demons clear on her face.
+
+I bow low, “Angel Sehara, this Acolyte greets you.”  “You’re a Blessed now. Not some simple acolyte.”
+
+I rise from my bow to see a small smile playing at the edge of her lips. “What- um,” I clear my throat, “what exactly does that mean?”
+
+Sehara shrugs, then sits on the edge of the cliff, her legs dangling off the edge as she stares at Priestess Raya, “I’m not sure. Your world kept the creation of this system a secret from the divine. If we’d known, it would not have resulted in such catastrophe. In the olden days, the title would’ve been a sign that you were one of my highest priests, but now these titles hold meaning I don’t understand. I can say that it makes adjusting the mana of this spell for my presence quite a bit easier.”
+
+I stare at the back of her head, her horns rising into the air, then turn my gaze to the battle below. “Is this how it actually happened?”
+
+“Yes. When Oathsworn Delte found out about the death of her priestess, and the manner in which it happened, it destroyed her with guilt.” Sehara pats the edge of the cliff beside her, and I sit down next to her. She lets out a sad sigh as the demons charge the line of humans yet again, “We were too comfortable in our power, we should’ve known. We thought The Fallen defeated, and our mistake cost the lives of too many, and nearly cost you your world.”
+
+“I thought this was the work of Devils.”
+
+She turns, her inhuman eyes meeting mine. A small smile slowly spreads across her face, “Continue your research; the truth is hidden, but not well enough to stop you, my chosen Delver.”
+
+I laugh nervously, not sure how to take the compliment.
+
+“Your spell ends soon, so I’ll get to the point. A demon has found its way to your world, it works in the shadows, and calls its lesser brethren to serve it. One of them searches for you now, and you will need the prizes of your next delve to stop it.” She pushes herself up, and pulls her hood up, “Also, you’re taking too long to become a Novice Mage. Hurry up.”
+
+With those words said, she starts to fade, the illusion disappearing with her. Then it’s all gone, leaving just the impression of her inhumanly blue eyes and a trickster’s smile.
+
+I’m sitting on a nearby rock, wet from the rain, the cliffside I’d been on moments before, gone. The voices of my party reach me from their campfire, discussing quietly.
+
+I push myself up from the rock, and make my way back to them. I have plenty of things to look up it seems. First, I confirm that Mind and Illusion were the two Identities I’d recognized in my spell. Both of them aren’t in the children’s book I’d gifted Eyla, so it takes some time to find the exact runes. Thankfully, it seems I was right about what they were.
+
+Then I start my reading on demons. They’re plentiful and diverse, but it does seem that they have tiers, even below Devils. If something’s searching for me, I want to know what it is.
+
+***
+
+The next day we only travel for a few hours before I suspect we’re close to the spot marked on my map.
+
+Once I decide we’re close enough, I take off my glove, and put my palm to the ground.
+
+Find Ruins activates as it always does, a pulse of magic flowing through the ground.
+
+What I find makes me pause. A huge, and ancient structure lies directly below us, traveling for quite some distance. Three doors echo with ancient knowledge, the closest one only ten minutes away, and the farthest being a couple hours of travel.
+
+It seems that we’ve found quite the delve.
+
+I lead the team to a nearby stream under the shade of a large tree, then activate the Angel Statue.
+
+Once we’ve set up camp, I gather everyone around the campfire that Keve is starting.
+
+“Alright, here’s the plan.” I say, looking around the campfire at the ready faces of my Delve Team. “This will be the standard practice for any future delves, so listen carefully. I’ll enter the ruins alone with Shar to map out the dangers and traps. My skills are specially designed for surviving dangerous delves, so no one is allowed to argue with this. If for some reason, I can’t return in the span of two days, I’ll send Shar out to let you guys know what’s keeping me. If you don’t hear from me in a week, the right move is to leave. Libby will be in charge in my absence, so listen to her calls, and don’t argue with her. We can’t afford to be divided in the face of danger.” Keve finishes lighting the fire, and the flames rise high, giving us some warmth on the cool day. “Once I return, we’ll adjust the plans depending on what dangers I encounter. With Shar’s help, I should be able to categorize the dangers inside, and the primary items we need to extract.” I look at Tanya, who stares back with her most serious expression, “If you can secure us some more animals for transporting our goods, that would be good. I don’t know what your skills let you do, so don’t push it.” I turn to the larger group, “That’ll be your primary objective while I’m on my delve. Any questions?”
+
+“What do we do if we see someone else?” To my surprise, it’s Eyla who asks.
+
+I frown, it’s unlikely, but possible. “Avoid them if possible. Just because they’re here, it doesn’t mean they’re our enemy. Trust Libby’s judgement.”
+
+I glance at the older mercenary, and she gives me a knowing nod.
+
+No one else has any questions, already familiar with the plan from our last delve.
+
+I make my way to Jasper, and begin to rearrange my backpack for the delve.
+
+Tanya approaches me as I rustle through the various bags on the rock-lizard. She holds out several vials to me, and I pause.
+
+“I saw you were running low on your mana-powder.” She holds out a vial of the blue dust, which I take. Next is two vials of purple liquid. “This one is for if you run low on mana, it should give you a small boost.” Two more hold a silvery liquid. “This one is for any injuries, it should close them until you can get back to Libby.”
+
+I look at the five vials, then carefully arrange them in my backpack. “Thank you, Tanya, and good thinking.”
+
+She gives me a bright smile, then returns to the others.
+
+I finish my rearranging, then step towards the exit of the statue’s protection, where Eyla waits.
+
+I stop a step away from her, and run my hand through my hair, suddenly feeling awkward.
+
+She hesitates for a second, then steps forward to give a small kiss to my cheek. “Stay safe.”
+
+I stare at her in surprise, and she gives me a shy smile before heading back to the others.
+
+Suddenly, my blood is pumping, and I feel ready for anything this delve is going to throw at me.
+
+A small cat walks up beside me with a knowing look on her feline face. I ignore the look as I look down at the golem. “Are you ready?”
+
+She nods, and we leave the protection of the Angel Statue.
+
+Traveling to the entrance I’d found goes as quickly as I’d hoped.
+
+I have to climb up a small hill, and pull myself onto an old piece of stone.
+
+Standing there in front of me is a archway set into the hill.
+
+Faded, but still visible in the center of the archway is the symbol of a owl’s eyes. Vines hang over the entrance, and I look at them for a long minute, observing the plant.
+
+I activate Hide Presence as Shar flies onto the branch of a nearby tree, then I just stand there for a minute.
+
+Slowly, I notice the small movements of the vines, confirming my suspicion.
+
+I hold my hand out, casting a small spell. Hide Presence deactivates with the channeling of mana.
+
+Transformation, Fire, Projectile
+
+The fireball flies forward, and the vines recoil, leaving the entrance to the ruins from fear.
+
+I watch for a second longer, then reactivate Hide Presence as I step towards the archway.
+
+Words mark the entryway, written in one of the primary languages used by the Archmage.
+
+Shar walks over to me, and translates without my asking. “Those who fight evil by living in it; we face the harshest truths, the greatest dangers, and the darkest losses.”
+
+My mana detector doesn’t go off, but I see the faint impression of runes on the doorway. Again, I take out my notebook to write the runes down while Shar keeps lookout.
+
+With a snap, I close my notebook, then very carefully take a step forward.
+
+Beyond the entrance, a long hallway continues into the hill before dipping down into the darkness.
+
+I take another step, beginning my second solo delve.
+
+End Of Book 1

@@ -1,0 +1,215 @@
+---
+id: a35403ed-c6e3-5b2b-8f2a-5b42f71549b0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28: Passive Enhancement"
+slug: 0028-chapter-28-passive-enhancement
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 28
+ownLength: 2112
+unit: words
+publishedAt: 2026-06-15
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3544281/chapter-28-passive-enhancement"
+royalRoadId: "3544281"
+---
+
+In my latest expedition to the Holy Land of Inderasel, I made my way to their libraries in further search of any mention of the fallen. There I came across a text by one of the first priests. A devout follower of Sehara, he referred to his chosen Angel as Lamana Sehara. At first I thought this to be an extension of her name, but upon further study of the language of the author, I discovered it to be a title.
+
+Lam-, or god.
+
+-ana, a suffix that translates to killer. There are further translations that define it as “bringer of death” in a ritualistic context.
+
+I don’t wish to jump to conclusions, but I may have found a clue to the death of at least one god.
+
+I sit by the fireplace and watch Keve as he carves away at a wooden block with his knife. He’s wearing a white fur cloak I’d found in the items Gerald had packed for us. Better for hiding in the snow-covered world. His skilled movements slowly turn the wood into a small bird, and I find myself captivated by the art. “What’s your profession, Keve?”
+
+He pauses, and holds the carving away from his face to study it, he speaks something to Shar.
+
+The cat places her head on her paws as she lounges on the bed. “Sculptor.”
+
+Keve nods. “My father was a- sculptor.” He tries out the word, frowning ever so slightly before shaking his head. “Several of his creations were held high in our home.”
+
+He pulls the wooden figurine back, and makes a slight movement with his knife, carving into it.
+
+I watch for another minute before my mind moves to my own professions. I’d picked up runesmith early on when I thought I would join the reapers, and wanted to be selected by Kiri’s Order. It’s one of the reasons my mentor had asked me to join him on his delves. He’d needed someone who would understand a temple he’d found, and could decipher the runes on its doorways.
+
+The older acolytes and monks had been distrustful ot the Dralk Delver, but I saw an opportunity to leave the city and maybe gain an Explorer class.
+
+Then there’s my second profession, which I’d only used with the golem I’d gifted the Vishten.
+
+Apprentice Golem Smith.
+
+I look at the wooden figure that Keve sets to the side. A small bird, its wings extended in flight.
+
+“Could I try something?” I ask.
+
+Keve looks over to me, then nods, and hands the figurine over to me. “Keep it.”
+
+I study the bird, then call upon the small portal of my Private Library, and pull out one of the books I suspect to be about Automatons, then I make my way to the bed. I might as well learn about my newest profession as well. Shar can translate, or I’ll use my class skill. We have time, and this is a safe place.
+
+It’s about time I tell Keve that I can use magic.
+
+***
+
+The storm lasts for another five days, during which, the haven provides us food and shelter. Shar teaches me more about magic, I slowly translate the book on Automatons, and Keve practices his sword forms in the garden.
+
+When the clouds pass, and the first spot of sun shines through the trees again, I leave another offering for Sehara, and we continue forward, making our way northwest.
+
+The road becomes more dangerous as we approach the city of the dead; smaller ruins of ancient villages and towns pop up, and with them, the roads fill with undead, forever wandering aimlessly.
+
+Again and again, we’re forced to change our path, avoiding the larger population centers and limiting our encounters. Still, every day is slowed by hiding in the Angel Statue from threats, and the occasional fight that catches us by surprise.
+
+I step through the snow, Shar flying overhead. The sun shines down, but it just makes the cold worse. Icicles had frozen, hanging from tree branches like the spears I’d seen Eyla cast just two weeks ago. Jasper doesn’t like the cold much, but he’ll be alright.
+
+We slow as I notice the stone foundation of an old house. Now, its completely covered in brown vines, a large tree growing from its center. Past it, is another long abandoned house.
+
+This was once a village.
+
+I step onto something soft, and look down, thinking it’s a small root. The color isn’t right, so I move some snow with the toe of my boot.
+
+My Danger Sense goes off, and I jump away, stumbling through the snow.
+
+Keve turns towards me as hands break out of the snow, their flesh long gone. His tattoos ignite with fire as he draws his swords.
+
+I look around as more and more undead pull themselves from the ground, and immediately place my hand in the snow. “Guard me!”
+
+Keve jumps in front of me, meeting the skeletal punch of a creature twice his size.
+
+Summon Legend Spirit.
+
+Mana flows from me, expanding into hundreds of symbols that glow hazel with my magic.
+
+“Who do you seek?” The feminine voice asks, her words filling the world around us as Keve’s fire flashes through the air, cutting down the creatures as they get closer. Slowly they push him back, drawing blood.
+
+I look over the undead that are still pulling themselves from a slumber in the snow, joining the fight against one Vishten. Baynor did well, but he’s a knight, not suited for combat against this many undead. My brain quickly goes through the legends I’ve learned of before settling on one of the reapers I’d recently read of. “I seek the Legend, follower of the Angel Of Annihilation, Arch-reaper Mei.”
+
+Silence answered me, filling the space for a long moment and for a moment I fear that the spell has failed somehow.
+
+“She chooses to answer your call.”
+
+All of my mana leaves me in a flash, brightening the runes as dark mist forms above them, coalescing into a young woman, a cloak flared out behind her, and a sword of darkness in her hands. Black hair cascades down her back, and as she moves to look at me, I see stitches under her eyes, moving down her cheeks. Her eyes catch mine for a brief moment, so dark that they almost appear black. She gives me a small smile before turning back to the small horde, the noise drawing even more of them towards us.
+
+She holds up her hand, and circles of magic form too fast for me to follow as she casts magic. Needles of darkness spread around her in a spell that makes my eyes widen. They fly forward, passing past Keve without touching him and hitting every single undead in the area.
+
+The monsters pause, then collapse as one, leaving Keve standing there with heavy breath. Blood drips from several wounds on his body, but he keeps both swords up for a second, waiting for something else to happen.
+
+Arch-reaper Mei lowers her hand, and looks back at me, weighing me in her gaze. She says something in a language I don’t understand, bows her head, then disappears.
+
+I force myself to stay awake as a message appears, making me smile. My mana is depleted and all my eyes want to do is close.
+
+Immediately, I become more aware of my surroundings, every detail popping to me as I see, hear and even smell with more clarity. I pull up my status, already suspecting what I’m going to see.
+
+Name: Leo Grayson
+
+Race: Human
+
+1st Class: Delver (explorer)
+
+1st Profession: Apprentice Runesmith
+
+Lvl: 30
+
+2nd Class: Lore-Mage (mage)
+
+2nd Profession: Apprentice Golem Smith
+
+Lvl: 11
+
+Title: Acolyte Of Sehara
+
+Class Skills:
+
+(Delver)
+
+Lvl 1: Basic Map
+
+Lvl 5: Danger Sense
+
+Lvl 10: Identify Artifact
+
+Lvl 15: Hide Presence
+
+Lvl 20: Feather Weight
+
+Lvl 25: Find Ruins
+
+Lvl 30: Increased Perception (passive)
+
+(Lore Mage)
+
+Lvl 1: Wisdom Of An Ancient
+
+Lvl 5: Summon Legend Spirit
+
+Lvl 10: Private Library
+
+Profession Skills:
+
+(Runesmith)
+
+Identify Runes
+
+Deactivate Runes
+
+Basic Inscription
+
+(Golem Smith)
+
+Inscribe Mana Circuits
+
+A passive physical enhancement, one of the first skills to actually work after the mana disturbance. I wonder if I could’ve followed the woman’s magic if I’d had the skill beforehand.
+
+I close the window, then hurry over to Jasper, and grab two bottles of ointment. Keve watches our surroundings warily as I hurry over to him and begin pouring the first ointment onto his wounds.
+
+He hisses and tenses with pain as smoke rises from the wounds. After a few seconds, I pour the second ointment on him, and the wounds close at a rate visible to the eyes.
+
+I let out a breath, and look around at the hundreds of bodies in the snow. “Come on, we need to hurry from here, before the death attracts anything more scary.”
+
+Keve nods and sheathes his swords.
+
+I whistle over to Jasper, and the rocklizard shifts its head before moving towards us at a fast pace. Keve and I break into a jog ahead of the creature.
+
+I look at my map skill, studying the path we’ve been and comparing it to where I know the ocean and city to be. We’re closer to the city than I realized, we need to be more careful-
+
+I stumble as my eyes close and I collapse.
+
+***
+
+I sit up from my sleeping bag, the sound of a crackling fire drawing my attention . Keve sits across from me, leaning against Jasper, the fire between us. Shar is curled up against me in her cat form.
+
+I lower myself back down at his calm gaze, “How long was I out?”
+
+“An hour.” Keve answers, as he grabs a stick and hands it to Jasper to chew. “I was quite worried. Shar tells me this is normal.”
+
+I look down at the small golem who is resting with her eyes closed. “My class spells take a lot out of me.”
+
+Keve nods, then reaches over and puts some wood into the fire. “It is quite the blessing, your class.”
+
+I move into a sitting position, doing my best to not disturb Shar. “It is. If I could gift you the same, I would.”
+
+I look out beyond the fire to the snow, a large antlered elk walks just beyond the barrier provided by the angel statue, its path recorded by the snow.
+
+Keve reaches towards the fire and pulls a stick that I hadn’t noticed, some meat roasting on its end.
+
+“Dinner.” He hands it over to me.
+
+I thank him, then start eating, my eyes going back towards the white forest. If there are undead hiding in the snow, then we’ll need to be even more careful. I notice my increased eyesight, small things standing out to me in ways they never had before. I’d heard tales about passive increases before, but it’s something else to be experiencing it myself.
+
+After we eat, we pack up camp, and continue making our way through the forest. We’re close to the undead city now, so I slow down our pace even further, keeping careful watch for undead.
+
+We walk over a ridge, and I catch sight of it in the distance. I get low, then crawl closer through the snow, curiosity getting the better of me. Keve does the same, his white cloak hiding him well in the snow.
+
+Great walls brought low by time and the power of the dead tower over the horizon. Shadows walk through the battlements, some of them shambling, others walking with far too much purpose. Others still lie still, waiting to be woken from their slumber.
+
+I shudder, then tap Keve’s shoulder, and we both back off. Best to keep as much distance as we can. Now that I’ve seen it, it’s marked on my map, and I should be able to avoid getting too close.
+
+I pull out my notebook, then relate the map there to the one made by my skill. We’re close.
+
+Another twenty minutes of walking, and we’re on top of the X that marks our destination. Still nothing but trees and snow.
+
+I take off my glove and place my hand on the ground. The snow is freezing, but I ignore it as I close my eyes, and activate my level 25 skill, Find Ruins.
+
+A sense extends from me, spreading through the ground and over the earth. Several structures ping back to me, ancient entryways, decrepit houses, and a tunnel system that travels too deep.
+
+One doorway in particular, resonates with history.
+
+I’ve found the ruin.

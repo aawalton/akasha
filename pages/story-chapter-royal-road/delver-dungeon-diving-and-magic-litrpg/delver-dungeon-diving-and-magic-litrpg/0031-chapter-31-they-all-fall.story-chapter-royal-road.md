@@ -1,0 +1,183 @@
+---
+id: 9a0b7616-ffd3-58c2-ad37-adc2cf87aa96
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31: They All Fall"
+slug: 0031-chapter-31-they-all-fall
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 31
+ownLength: 1865
+unit: words
+publishedAt: 2026-06-18
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3558094/chapter-31-they-all-fall"
+royalRoadId: "3558094"
+---
+
+For the first twenty years, the system was gone. All we saw was a useless screen, doing nothing. Without our strongholds, humanity would’ve gone extinct. As it is, there is only the people here, incapable of contacting the other strongholds. We cower, and we pray that the monsters and undead that stalk the night won’t dare to test our walls. Every day, more of us are taken by the horrors outside, our hunger, and our despair. Slowly, the levels are coming back to us, but they do nothing, the skills they define inaccessible. We rely on the slight boosts in strength, and clarity they give to wield steel against terrors beyond imagining.
+
+“Hand everything from that room over, and we’ll let you live.” One of the red cloaked men says, full plate armor briefly visible under the cloth as he shifts.
+
+I share a look with Keve.
+
+I step forward, as my offhand reaches for the wand in pocket. I should be able to put a simple spell circle together for a fireball, and catch one of them by surprise.
+
+Transformation, fire, projectile, held in the simplest circle that Shar had taught me. It wouldn’t do much, but it would be a distraction.
+
+“There was nothing there.” I call to them, “Just an empty room with the statue of Kolas.”
+
+The warrior raises his eyebrow, and opens his mouth.
+
+Lyla steps forward, placing her hand on his shoulder. She glances at the mage who is still putting his mana towards something.
+
+“Leo, right? I’ve heard of you, Delver. There was something in there, and if you give it to them, they will let you live.” There was something pleading in her gaze.
+
+I look at her for a long moment, then shake my head. “I’m sorry.”
+
+“Me too.” Mana surrounds her, but it’s unlike the spellscript I’ve seen before. Internal Magic of some kind, from her unique class.
+
+The mage behind her chants something as symbols gather to him, and the warriors run forward, as the rogue disappears.
+
+Keve steps forward and I cast the fireball towards the lead warrior.
+
+Then Lyla finishes her magic. Strings of pure dark mana extend from her, hitting the mage first, then the warriors, and finally the rogue on the ceiling above us. The strings of mana pulls orbs from each of them to her, then disappear, except for the one connected to the mage, which struggles with effort.
+
+Like flies, they drop, the warriors falling off the path and into the waters, the rogue making an even larger splash. The mage screams as he finally jumps away and snaps the string of mana connected to him.
+
+The Mage’s summoning spell glows as he forces mana into it, but Shar swoops down from the air, her claws piercing his eyes, and disrupting the spell.
+
+Keve is there a second later, a path of flame spreading from his feet as his sword cuts through the mages neck.
+
+We all stand there as the mage drops to the floor.
+
+Lyla takes a breath, then lets it out. “I hate you both.”
+
+I lower my wand, and dismiss the message to stare at the woman.
+
+She turns to Keve as I walk over to the two of them, her words reach the edge of my hearing, my increased perception barely understanding them. “I trusted your words, all that time ago, do they still hold true, Keve?”
+
+Keve nods, but doesn’t lower his swords, “They do.”
+
+“Good.” She pauses, her gaze going sad as she looks at the men on the ground, before hardening. She closes her eyes, then reopens them to focus on me as I stop at the end of the path over the water.
+
+“Follow me.” She says.
+
+She turns around and walks towards the exit. I give a look towards Keve, but he just motions with his head to follow her as he sheathes his swords and lowers his scarf.
+
+I sheathe my sword as well, and jog past the dead mage. I pull out my lightstone, illuminating Lyla on the other side of the door, her eyes opening as I walk towards her. She gives me a tired smile.
+
+“It is good to see you again. Both of you.” She looks at Keve as he walks up beside us. “You’ll need to leave through a different exit. There’s more of them up top.”
+
+“You’re different.” Keve says, making her stumble just as she starts to take a step.
+
+She looks at him, tears on the edge of her eyes.
+
+“How’d you end up here?” I ask.
+
+She seems grateful for the question, as she turns towards me, “Not many… accept someone like me. Do you know another way out of here?”
+
+I shake my head, “No, but the undead guarding the place does.”
+
+Lyla frowns, then motions for us to follow her through the catacombs.
+
+“You betrayed them easily.” Keve’s eyes are unreadable as the three of us walk through the labyrinthine structure.
+
+She glances behind to look at him, then looks away, her eyes meeting mine. She hesitates for a second before responding  “I had nowhere else to turn, and they were a lesser evil. They were not good people.”
+
+We are silent after that. She seems to know where she’s going, so I let her lead.
+
+Her shoulders are tense, and that same wariness that she carried when we first met still covers her. But she’s harder now, scarred even further.
+
+Her green eyes meet mine, and I don’t look away. She’s acting like it doesn’t bother her, but the men she just killed haven’t left her mind.
+
+Yes, we’d been kind to her, but that doesn’t explain why she’d turned on them so easily.
+
+She looks away first, and makes a right turn.
+
+We stop in front of a body lying against the wall, his gaze vacant, and a familiar ring resting on its finger. She reaches towards her mouth, and pulls one of the orbs she took from the demon worshippers out, then gently places it back into the body.
+
+Nothing happens for a moment.
+
+Then Akashir opens his eyes, and takes in the three of us. His eyes narrow at Lyla as he reaches for the sword at his waist.
+
+I hesitate for a second, then step in front of her. “Peace, ancient paladin.”
+
+His hand remains on the pommel of his sword, but he doesn’t draw it. “You knoweth not what you defend, brother.”
+
+“She has killed for me.” I answer.
+
+He pushes himself off of the ground, weighing the three of us in his gaze before nodding, “A debt owed, is one repaid. I will not strike thee down, as long as the Soul Reaver doth follow the path of Angels.”
+
+I let out a breath. Something about the title of Soul Reaver rings a bell, but I’ll have to look it up later.
+
+It makes sense what she did to those men, now. She took their souls. I’m not sure how to defend against something like that, which makes me glad she did choose to switch sides.
+
+I run my hand through my hair, focusing in on the moment. “There are more devil worshippers on the surface, is there another way out of here?”
+
+The undead nods. “Follow.”
+
+He leads us through the catacombs, past ancient tombs, and into a basic room, a statue of Angel Alvarana rests against the wall, a hood over her head, and her body lowered in prayer.
+
+He stops at the edge of the room, “I cannot enter this place, but The Angel will lead you onward.”
+
+Shar pads into the room first, followed by Keve and Lyla. I turn to the undead, and bow to him. “Thank you again. May the Angels bless your path.”
+
+“And thine path be blessed, brother.”
+
+I turn towards the room, and walk to where the others are waiting. Behind me, I hear the paladin retreating back through the catacombs.
+
+Shar looks up at the statue in her cat form, while Keve watches Lyla warily as she shifts uncomfortably.
+
+I step up beside Shar, and look at the bowing Angel. The mana detector at my waist goes off.
+
+I identify the statue.
+
+Statue Of Angel Alvarana
+
+This Statue watches over the dead of the catacombs, ensuring they are undisturbed by those who would wish them ill.
+
+I lean closer, surprised to see a bat-like ear peaking out of her hood.
+
+That goes heavily against the doctrine that all Angels are human. That never did make much sense to me, but I’m surprised to see an inhuman depiction of her in a temple so close to the city. This place might be older than I thought, since my knowledge of pre-mana disruption history has plenty of discrimination that has survived to this day.
+
+I reach out slowly, touching the smooth stone of her statue, then push a small amount of mana through it.
+
+The wall behind her disappears, showing stairs that lead up to the surface.
+
+I smile.
+
+“If you’d scout ahead, Shar.”
+
+The golem nods then jumps up the steps.
+
+I turn to the others, “Let’s hurry.”
+
+Keve follows me as we start up the stairs, but Lyla doesn’t move.
+
+I turn back towards her as soon as I realize she isn’t moving.
+
+“I can throw them off your trail, buy you time.” She meets my eyes.
+
+“You’ll be safer with us.” To my surprise, it’s Keve that speaks. He’d been clearly suspicious of her, but his words still ring true.
+
+She hesitates, then shakes her head, “There’s no place for me out there.”
+
+“My people will accept you.” Keve responded.
+
+“That would be nice, someday.” She reaches out, and touches the statue. “May the darkness treat you kindly.” The wall reappears between us.
+
+I glance at Keve, who frowns at the girl beyond the wall. “And the light watch over you.” He whispers. He looks at me, and shakes his head. “Her pain shapes her too much.”
+
+I look back at the wall, but by the time I could figure out how to make it go away again, she’d be long gone. There’s no statue on this side. “Let’s make good use of the time she’s buying us.”
+
+Keve bows his head, then follows me as we hurry up the stairs.
+
+At the end of the path, Shar waits next to another statue of Alvarana bowing. I put mana into the statue, and the wall disappears, revealing many trees blowing in the night wind. The faint remnants of a foundation can be seen, but any walls of a building are long gone.
+
+I step out hesitantly. You never want to travel at night, but my map tells me that we’re only a few minutes away from our camp. The forest is lit by the light reflecting off the snow, our path easily visible, despite the late hour.
+
+Something howls in the night, and the sounds of something fighting nearby echoes after it, trees toppling in the battle between two behemoths.
+
+Shar takes to the skies, watching our path.
+
+I activate Hide Presence, then grab Keve’s sleeve.
+
+Together, we make our way through the darkness of a deadly forest.

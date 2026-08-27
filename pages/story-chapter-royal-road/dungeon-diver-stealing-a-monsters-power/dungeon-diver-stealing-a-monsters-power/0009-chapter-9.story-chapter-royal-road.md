@@ -1,0 +1,167 @@
+---
+id: feebcf87-5e05-514c-a66f-7a3304511a4d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9"
+slug: 0009-chapter-9
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 9
+ownLength: 1559
+unit: words
+ownProgress: 1559
+publishedAt: 2023-02-05
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1106382/chapter-9"
+royalRoadId: "1106382"
+markedReadAt: "2026-06-29T20:32:05.674Z"
+---
+
+"Hey old man, I have some loot to sell ya today. What do you think about these?"
+
+I set my 4 mana crystals on the counter along with the large axe with a satisfied look on my face.
+
+"Looks like you were fighting the Boss today. Solo?"
+
+"Yep solo, it's the new sword. Definitely a good thing I didn't sell it yesterday."
+
+The merchant laughed and nodded as he placed the mana on the measuring plate and started examining the axe. The bold numbers on the mana screen read: 39.8MU.
+
+"This is a nice drop kid, it's a +15 strength axe. It drops from the Apline boss about 1/10 encounters, looks like you challenged him 4 times today. You got lucky."
+
+He gave me a smirk and started typing in his calculator.
+
+"I'll give you a silver coin for the whole haul today. What do ya say?"
+
+My eyes lit up.
+
+"Y-Yes, deal!"
+
+I shook the mans hand as he threw me a silver coin.
+
+"Thanks old man, I'll see you again soon."
+
+As I turned he smiled and waved.
+
+"No prob kid, hope I see ya tomorrow!"
+
+Today couldn't have gone any better. I grabbed a sandwich from my corner store with the 1 bronze left in my pocket on the way home because I couldn't bare to part with my new silver coin just yet.
+
+I walked up the stairs to my apartment, opened the door, set my sword next to my closet, and flopped back onto the bed admiring the shiny silver coin I just acquired.
+
+I threw it in my dresser drawer a few minutes later and ate half my sandwich in a matter of seconds. I layed back on my bed and looked at my ceiling.
+
+A full silver coin... in just one day of hunting. This is my new life. That grin came back on my face, I couldn't help it.
+
+Over the next 2 days I honed my sword skills even further. Diving into the dungeon repeatedly and using the boss as my training partner. I wasn't fortunate enough to get any more axe drops from my 8 total fights with the boss. However, I did manage to collect 80 bronze worth of mana crystals and level up 1 time.
+
+[Status Open]
+
+_____________________Name: Jay Soju
+
+Level: 28
+
+Hp: 145/145
+
+Mp: 25/145
+
+Strength: 72 [+50]
+
+Speed: 81
+
+Agility: 85
+
+Defense: 66
+
+Mental Strength: 73
+
+Skills:
+
+AbsorptionSwordsmanship
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]
+
+_____________________
+
+I made my familiar leisurely stroll back to my apartment. When I got up the stairs and went to open my door I saw a small yellow note stuck to the door that read:
+
+"See you at 8 tmr morning:)) - M"
+
+I hadn't forgotten, it just wasn't at the forefront of my mind after a long day of training. I would be attending Maria's college awakening event as her chaperone tomorrow. I was looking forward to it, but also a little nervous.
+
+It was also a bit odd that Maria had been leaving me notes instead of her usual greetings. For the past 3 mornings I received a note and an apple in the morning... I was thankful, but a bit thrown off guard as well. I guess I'll see her tomorrow, no use over thinking it now.
+
+I grab the note, twist my key in the door, throw my sword up against the wall, and do my daily dolphin dive onto the bed.
+
+I threw my newly earned bronze into my bedside table drawer. I already have over 2 silver saved, and it's only the first week of the month!! I read some comics and drifted off into a deep and comfortable sleep.
+
+At the first light I woke up with a ton of energy. Today I'm going to Maria's awakening. I hope she gets a good skill, but more importantly I hope I make a good impression on her and any other potential new hunters my age that show up to the event. That's my main goal, make some friends.
+
+I lazed around for a bit, I woke up too early and didn't know what to do with myself. I started playing with my old dagger, admiring my sword, bouncing bronze coins off the ceiling while laying in bed and trying to catch them perfectly in the palm of my hand.
+
+Eventually I got dressed, put my sword on my back, and at the last minute decided to grab my old dagger and throw it on my waistband. I unlocked my door and took at step out.
+
+Sitting in front of the door across the hall was Maria. Arms and legs crossed with a serious look on her face. She looked up at me, got to her feet, and threw two air punches. They were actually pretty decent, nothing to laugh at but I couldn't help myself but grin a bit.
+
+"I've been training hard the past few days just like you have Jay. I'm ready for my exam, these monsters don't know what's coming for them."
+
+She stared at me with another determined look on her face while she pointed her right fist in the direction of the dungeon.
+
+I decided to go along with her shenanigans. It's probably for the better.
+
+"That's what I like to see, let's go show em' who's boss."
+
+I lifted my sword out of my sheath from my back and posed with her for a few seconds then we proceeded to walk down the steps of our apartment building.
+
+"We're going to the Alpine Square Dungeon right Maria?"
+
+"Yepp, I'm pretty excited. I wonder which skill I'll get. Maybe I'll be a sword user like you, or maybe I'll get a cool defense skill, or... orrr or maybeee!"
+
+"Haha we'll just have to wait and see. What weapon did you bring to fight your first monster with?"
+
+She froze a bit and went red in the face.
+
+"WAIT I completely forgot about that part, I was totally focused on training my punches I didn't think about what I'd actually use to fight real monster.. JAY what am I going to do??"
+
+With a flustered and worried look on her face I just chuckled a bit and remembered my first day in the dungeon. I was exactly the same, I didn't even bring a weapon myself. It's only right to pass on the tradition. I had a suspicion it'd be a good idea to grab my dagger this morning.
+
+"I brought you something, I thought this might happen."
+
+I pulled the dagger with the small sheath off my waist and handed it to Maria. Eyes wide she accepted it with both hands.
+
+"Ouuuh, this is so coool! Thank you Jay! Thank you thank you thank you thank youuu."
+
+"It's no problem, keep it. You're going to need a strong weapon to fight off your first monster. I'm here to help!"
+
+She bobbed her head a bit and we kept walking towards the dungeon.
+
+When we finally arrived there was a rather large crowd gathered in the square. From what I could make out there was about 20 students. Standing behind over half of them were older looking hunters with much more gear equipped than they needed in a dungeon like this.
+
+They must all be parents or close friends of the student. They were mostly senior or retired hunters that wanted to help out and brought all their gear to impress the other chaperones. I felt a bit underdressed, but wasn't trying to impress 50 year olds so I didn't think much of it.
+
+We walked closer and I couldn't believe my eyes. Standing at the front of the crowd checking everyone in were two very familiar people.
+
+The petite woman with bright green hair looked up and saw us from about 5 meters away and a huge smile came across her face.
+
+"What a surprise, it's youuuu! Can I check you guys in?"
+
+My eyes went wide, I was just thrown off guard a bit at her sudden appearance. I never expected to see her of all people this morning. Then again, schools do partner with the Hunters Association to have events. They are the closest representatives in the area, and perfectly ranked for a job like this. It makes sense.
+
+"Abby?? You're here??" And u-uhh yeah, Maria here needs to check in. I'll be her chaperone today."
+
+Maria looked up at me with a puzzled look on her face.
+
+"How do you know her?? Who is this?"
+
+"Oh this is Abby, I-I mean Ms. Sotoro. A representative from the Hunters Association. My guess is she's our guide today."
+
+Abby smiled and exchanged papers with Maria as she checked her in and noted me as the chaperone.
+
+"That's right, Mr, Raynard and I will be leading the class today to make sure everyone awakens their status properly and safely."
+
+Mr. Raynard was close behind her, he walked over.
+
+"Please get in line, we will be entering the dungeon shortly."
+
+He's always a mood killer, I half rolled my eyes but Abby saw and giggled at me. I didn't mean to, it was more of a reflex but I'm glad she got a kick out of it.
+
+Maria and I made our way back over to the group of students and chaperones to wait patiently before entering the dungeon.

@@ -1,0 +1,163 @@
+---
+id: e2f27bba-b6eb-5dbf-b70c-bd1bb14ade58
+page-type-slug: story-chapter-royal-road
+title: "Chapter 56: The Council Of Dralk"
+slug: 0058-chapter-56-the-council-of-dralk
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 58
+ownLength: 1925
+unit: words
+publishedAt: 2026-08-25
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3864543/chapter-56-the-council-of-dralk"
+royalRoadId: "3864543"
+---
+
+Levis, the second Oathsworn, an escaped slave and a man who fought the demons from within. It is not certain how he came to join the Oathsworn, except that his relationship with Angel Kolas is stronger than iron or blood. When he came to Angel Sehara to immortalize his oath, she carved into him the power to resist temptation, even at the center of evil.
+
+The Infernal, by High Priest Storm, Chapter 1 Page 2
+
+The Dralk men and women all focus on me. I bow my head, trying not to meet their eyes. I can feel some of the animosity they hold towards me, heating my skin where they look. I don’t want to meet their eyes and appear like I’m challenging them.
+
+A gentle touch from my Mentor brings my attention to him. He tilts his head towards the council.
+
+Right, a gift.
+
+I take my backpack off, and reach inside until I find what I’m looking for. I’d spent the majority of the night looking for it in my library.
+
+I pull out a book, written in the hieroglyphics that makes up Dralk writing. I’m not actually proficient enough in the language to translate it, but I know it’s rare simply from the fact that there are so few books written in the language. “A gift for the council.”
+
+A Dralk woman with gold in her mask motions to one of the watchers, and they walk towards me, accepting the gift with a bow of their head.
+
+The watcher brings the book back to the woman, and she studies it with interest. “The gift is …. The council sees Leo Grayson, … of the Ancient Ones.” She pauses, then continues, “We will continue in common, for his benefit.”
+
+I notice several of the other Dralk give her strange looks at that statement, but no one argues.
+
+She leans forward, “Tell us, Delver Leo, what do you know of the Crows that hunt our lands?”
+
+I glance at my Mentor, who nods his head. I look back at the group of Dralk leaders, watching and judging me from their thrones. “I have fought their people, and I travel with a mage they have been trying to kill. They were searching for the same ruins we found here. I-“
+
+“Why?” The woman interrupts me, causing me to pause.
+
+“I’m sorry?”
+
+“Why do they search for these ruins?”
+
+I clear my throat, “I’m not exactly sure, but I think that the Owls used to infiltrate and destroy the Crows from the inside. I was told that the Owls were trained specifically to kill the Crows.”
+
+“Told?” This time, it’s someone else on the council who speaks, a younger man judging by his voice. “By who?”
+
+I pause, realizing that’s probably information I don’t want to share. The words of a witch aren’t exactly to be trusted, even if I think she was telling the truth. “I can’t share that.”
+
+Several of the Dralk share looks at that statement.
+
+“So there are items in the ruins that would help us in killing the Crows?” A bored looking woman with a silver mask asks. She looks at her claws, not even glancing up at me.
+
+“Yes, and I would be willing to trade or sell them to you.” I reach towards my pack, ready to pull out an example of the jewelry I’d found.
+
+“The ruins are in our land.” The young man says.
+
+My hand stops, and I don’t pull the item out, “Yes, but you can’t get inside without me.”
+
+“We could force the human.” One of the Dralk, an older woman who’d been silent until now says.
+
+I open my mouth to respond, but a hand on my shoulder stops me.
+
+My mentor steps forward, his very walk seeming to draw the gazes of the room. Even the council member who’d been staring at her claws until now switches her gaze to him with a strange sense of wariness.
+
+“That would be unwise, Wisewoman.”
+
+A heavy silence filled the space as my Mentor and the older Dralk woman stared at each other. Finally, she nods her head, “Merely a suggestion, … … … Ancient One.” The last few words are spoken in Dralk, but they’re spoken so fast that I only catch the two of them.
+
+“A joke in poor taste,” The Dralk woman who’d started the questioning says, smiling at my mentor. “There are more important ….. Please stand down … Ancient One.”
+
+My mentor bows his head, then steps back behind me.
+
+The golden masked woman turns her eyes to me, “I would like to take your deal, young Delver, but the others will need more than a few items. Perhaps you have something else to offer?”
+
+My mind moves through the things I have. There’s my knowledge of nonhuman magics, but it’s incomplete. I have other knowledge, but nothing that could be of great use to them right now. They need safety from those who are hunting them. My wards certainly aren’t good enough to hide them, but there is… the stronghold held by the Vishten. But strongholds have fallen before, and so far, these people haven’t inspired my trust. It feels like something I should discuss with Keve first, at the very least.
+
+The woman waves her hand dismissively, drawing my attention back to her. “I see your hesitation, Delver. The deal can wait. You mention that you have a mage the Crows hunt. Why?”
+
+“They’re after the map she had. The one that lead to these ruins.”
+
+“It is that important to them?”
+
+I run my hand through my hair, then laugh to hide my nervousness, “There are creatures trapped in the depths. Creatures from before the destabilization of magic. Undead and demons that wield old-world magic like I’ve never seen. I think they want to free them or control them.”
+
+“That is…” The golden-masked woman starts.
+
+“Dangerous.” The young man from earlier says. “We … be so passive, Lady Kala. Take the fight to them. Call … Ancient Ones from their sleep. Free our children from there …”
+
+“It isn’t so easy, …..” The Wisewoman who’d suggested forcing me to cooperate says, “We risk … ourselves for a fight we can’t win.”
+
+The young man turn to her, his claws digging into his chair. “You are for bold action, until …, then you cower like a bug.”
+
+“You weren’t there when we … the Stronghold. You have not seen hundreds of dead Dralk, boy.”
+
+“I am no-!”
+
+“Stop.” Lady Kala’s voice echoes over the group, and both of the arguing Dralk quiet. “We can’t take the fight to them.” She turns to me, “How much of our words do you understand, Delver?”
+
+I glance at my Mentor, then back to her. “Most of them.”
+
+“We once tried to rescue our people from a Stronghold.” She pauses, her gaze moving into the distance, “We failed, and we died. Many of our strongest warriors were killed, and those who still practice our magic are weak.” She lowers her gaze, watching me with unreadable eyes, “We cannot fight, because we will lose.”
+
+The surrounding Dralk lower their gazes, the pain of the dead still resting on them. I look over the twelve council members, seeing the grief and the resignation.
+
+“There might be… another option.” I start, choosing my words carefully, “One that would protect your people, but I would need to discuss it with my party.”
+
+That gets their attention, and they all look at me with curiosity.
+
+“I would also need proof that I can trust you.” I let out a breath, and a nervous smile, “So far, you haven’t given me confidence in that direction.”
+
+“I see.” Lady Kala taps her claws against her throne. “A dangerous secret. One that we would need your trust to gain. I assume it cannot simply be added to our deal.”
+
+I hesitate for a second, then shake my head, “Not yet.”
+
+She looks at my Mentor, “Is he honest?”
+
+I look over to see him looking at me with curiosity, “Yes.”
+
+She leans back in her chair, thinking as her claws continue to tap, the clacking sound echoing out as the others wait for her decision.
+
+Finally, her gaze settles on me, “Are you willing to take our warriors with you into the depths? Perhaps, they could convince you of our honesty.”
+
+I nod my head slowly, “I’d be willing.” Even if it seems like that is more for their benefit than mine.
+
+“Then I will accept your deal. You will give us some of the items you find, and we will buy anything you wish to sell at a reasonable price. All that we ask, is that you be willing to create the trust you need. Commander Vakar,” A familiar Dralk warrior walks out from the watchers, “Your people will accompany them into the depths.”
+
+The commander salutes her. She turns her gaze to my Mentor, and he nods his head at her.
+
+“We will see you again soon, Delver Leo.” At her words, the surrounding Dralk disperse and the twelve council members stand up, leaving the room.
+
+“Come along, Leo.”
+
+I turn, following my Mentor as he leads me back through the tunnels of their home.
+
+“You did well.” He says softly as we turn down another tunnel. “I would accompany you into the depths, but there are things I must do here.” His steps slow as he turns to me, “Can we trust you and your solution? I will fight for you, but I must know you are the same young man I accepted as my student.”
+
+I look into the distance, wondering if the Stronghold will be the protection they need. There are still so many variables. I don’t know how the Vishten and the Dralk will get along. Keve did tell me he wanted it to be a home for all nonhumans, and his people share his ideal from what I’ve seen. Still, the Dralk are insular, and the various non-human races haven’t united for many reasons. I don’t know the politics involved.
+
+Still, if they are being hunted, there is no protection like the protection of a Stronghold. If they can unite, then they won’t need to fear the calamities that this world is all too happy to throw at people. And… what if Angel Sehara sent me here knowing that I would find the Dralk? That’s reaching, but it’s not beyond the realm of possibility.
+
+I turn to him, raise my head and look him in the eyes, “You can trust me.”
+
+His eyes crinkle in what I hope is a smile, and we continue walking down the tunnel, “Good. Then you will find a united council when you return. I will ensure it.”
+
+“That’s… quite the promise.” I say, looking at him curiously. “They seem to respect you a lot.”
+
+“It is complicated.” His gaze stays on the path ahead of us.
+
+I shake my head. He’s as cryptic and walled off as ever.
+
+We make our way out of the caves without trouble. I spot a few Dralk walking with us as we make our way back to the camp. Commander Vakar himself follows from a comfortable distance.
+
+An hour later, we arrive at the camp.
+
+My mentor says goodbye, then turns back to the Dralk’s home.
+
+Commander Vakar waits outside as I enter through the barrier.
+
+Everyone rises from where they’ve been waiting, throwing on their packs in preparation to start the delve.
+
+It’s time to go back into the ruin.

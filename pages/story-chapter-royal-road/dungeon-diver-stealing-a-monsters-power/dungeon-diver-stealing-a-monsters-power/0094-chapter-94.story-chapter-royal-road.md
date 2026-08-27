@@ -1,0 +1,147 @@
+---
+id: e5147e72-41a2-5052-af96-6bc302604a35
+page-type-slug: story-chapter-royal-road
+title: "Chapter 94"
+slug: 0094-chapter-94
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 94
+ownLength: 1472
+unit: words
+ownProgress: 1472
+publishedAt: 2023-04-21
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1188343/chapter-94"
+royalRoadId: "1188343"
+markedReadAt: "2026-06-29T20:35:03.824Z"
+---
+
+The five of us make our way down and around the first mountain with ease.
+
+As we make our way through the rocks and trees to climb atop the second peak, Griffins soar above our heads screeching and diving below attacking teams seemingly at random.
+
+The trees at the base of this second mountain are considerably darker green and much thicker. Both Maria and I swap places upfront using Ice and fire to shatter and burn a path upwards.
+
+Although I love burning all kinds of things to the ground, I much prefer monsters to shrubbery. Maria, on the other hand, looks like she’s having the time of her life. I let her excitedly lead the way as I point out subtle directional changes to avoid any groups of hunters or monsters on the ground level. Abby glows light green healing her wounds from earlier as Nessa and Bruce take the rear chuckling about something, I’m not sure what it is in particular.
+
+After a solid 30 minutes of upward climbing on Maria’s fragmented trail of Ice, we encounter an opponent that’s impossible to avoid.
+
+A Griffin of similar stature to the last one comes down the mountain at an incredible pace. The beast is silently soaring towards us just above the tree line with a look of determination in its sharp eagle eyes. A light yellow aura covers its entire body.
+
+Maria notices it first.
+
+“HEADS UP! This one’s mine!”
+
+She turns to me with a smirk while glowing blue creating a winding staircase of Ice. All the trees in her path freeze completely solid creating the base for her structure on an upward climb.
+
+The Griffin’s front talons shine in the yellow dungeon’s sunlight as the beast dive bombs our group with Maria as its main target. She shines bright while throwing herself at the monster, her sword is drawn and she’s ready for a fight.
+
+The Griffin screeches as Maria jumps into the air, pushing herself further and faster with a wave of Ice from behind.
+
+*SHINGGGGG*
+
+In a flash of blue light, and the faint sound of clashing metal, the massive beast’s entire front side becomes enveloped in a thick sheet of Ice. Its wings stop flapping and the ice wave continues to cover the rest of its body. Maria finishes her slash and the massive creature explodes into an incredible display of dazzling frozen ice fragments.
+
+Moments later, she slides down her frozen tree sculptures with a satisfied grin.
+
+“Now that was a fun one!!”
+
+I let out a chuckle.
+
+“That bird never had a chance.”
+
+Nessa calls out from behind me.
+
+“It’s a lion too ya know!”
+
+Bruce smirks.
+
+Abby watches in awe as the remainder of the snow falls down shimmering silver and gold.
+
+“W-Wow Maria. You’ve gotten really strong…”
+
+“Hmph. Thanks.”
+
+They smile at each other with a competitive edge to it, then we continue to make our way up the mountain. 30 more minutes pass and Maria continues clearing the way for us as we travel upwards. She drinks 2 MP potions but has more than enough to work with, It shouldn’t be a problem.
+
+She jumps in the air filled with amusement as we approach a high point.
+
+“Woah. Guys, you’ve gotta see this!”
+
+We make our way up, climbing her jagged ice-covered path. We’ve made it to the mountain’s peak! I lift my sword in the air with excitement, then look to my side to see Maria next to a massive pile of what looks like fallen trees. Then I take a closer look.
+
+“IS THAT A GRIFFIN’S NEST?”
+
+An impossibly huge nest made from the branches of enormous trees rests on the back side of this mountain’s peak. It’s easily 20m in diameter and Maria is running around inside it without a care in the world.
+
+“Hey! What are you-“
+
+She looks up at me and points toward the backside of the nest.
+
+“Look!”
+
+Bruce, Nessa, and Abby make it over to us as I see what she means.
+
+“It’s one of those… gift boxes!”
+
+A large white rectangular glowing box sits unopened at the back of this massive nest. I grin and walk over to it with Maria by my side. The others are close behind.
+
+*Clink* *Clink*
+
+I tap my sword’s tip against the box’s lid two times, then it springs open like before. Inside, there’s a handful of potions, some food and water, a silver ring, and a large matching weapon to go with it.
+
+I turn my head to see Bruce walking over and I point to the box.
+
+“This might suit you well.”
+
+He raises an eyebrow as he peers in to see the assortment of magical items. With a wide smile, the tank grabs what’s inside, raising up a heavy war hammer.
+
+The long silver handle seems to be made of reinforced steel with leather wrappings to allow the user to grip it tightly. Its head has two sides. One is a square flat surface about the size of a human head, and the other is a smooth curved spike that points downward. The weapon shines silver, it’s definitely unique.
+
+I use Appraisal.
+
+[Enchanted War Hammer] +450 Strength
+
+Bruce examines it up and down as we continue to sit through the gear. The food, potions, and water are split evenly, and a quick Appraisal of the ring shows up as a 30% defense-boosting item. I let the others fight over it while looking off into the distance sizing up our final mountain.
+
+I activate enemy detection to try and gauge if any teams are ahead of us, but still, it’s hard to tell if they’re people or flocks of Griffins… or is it packs of Griffins…? Depends on which direction you’re looking at them I guess.
+
+With a long quiet sigh, I let the cool breeze pass through my hair. I take a deep breath in and out slowly letting my eyelids shut. The moment they do, an ear-piercing screech jolts me awake as an enormous Griffin returns to its nest from above.
+
+I watch Maria and Abby jump out of the way as it comes crashing down to eliminate the intruders in its home. Bruce and Nessa step forward, then jump out of the nest as well onto solid ground. Nessa calls out.
+
+“Our turn.”
+
+Bruce swings his hammer around eyeing the beast up and down.
+
+“Yeah, it’s time to give this thing a trial run.”
+
+The enormous Griffin towering above us in its nest charges forward, but Bruce blocks its beak with a solid stance and a steady shield.
+
+Abby, Maria, and I all jumped backward onto a rack pile nearby to watch the fight commence.
+
+Bruce continues to hold the charging monster back as Nessa ignites her sword and body into flames. The four-legged beast retreats and lets out a screech flapping its wings and glowing with a faint yellow aura.
+
+Nessa runs toward Bruce and he gets down on one knee lowering his shield. She steps onto the solid plate of steel and jumps upward as Bruce thrusts her into the air. With a trail of flames crackling behind her, Nessa lets out a yell and slices through the beast’s thick hide in the blink of an eye.
+
+Another violent screech erupts from the monster as it retaliates and claws at Nessa with its back legs. She manages to block its attack with the flat side of her sword but is thrown to the ground by the force of its hind legs. The beast stares them down and dive bombs in on the offensive.
+
+Bruce runs at the monster, with a large shield in one hand and his new hammer in the other.
+
+*THUDDDDD* *CRACKKKK*
+
+As the Griffin dives focused on Nessa as its prey. Bruce comes charging in to land a mighty swing across the monster’s head moments before impact. Its bones crunch and crack as the destructive force of the hammer’s hit catapults the creature through a patch of trees straight at a stone wall over 10m away.
+
+On impact, the formerly elegant beast lets out a deafening whine before falling to the rocky forest floor.
+
+Nessa darts over to the fallen monster stabbing it through the neck, igniting it in flames, and turning the beast into a pile of Ash.
+
+She points her flaming sword in the air to announce victory as Bruce lets his hammer hit the ground with a thud while leaning on the handle.
+
+I walk over with the others following close behind, clapping my hands slowly.
+
+“Good fight. That hammer really does suit you well.”
+
+“You got that right, we’ve all taken a crack at these Griffins. This just leaves you Jay.”
+
+I nod and turn toward the final mountain ahead.
+
+“Yeah… To be honest, I’d rather just jump straight to the boss.”

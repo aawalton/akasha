@@ -1,0 +1,495 @@
+---
+id: 08784649-da7a-5df4-b025-8a3c1cb2321e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14: The Unreal Touches Back"
+slug: 0016-chapter-14-the-unreal-touches-back
+partOf: dungeon-devotee
+position: 16
+ownLength: 6074
+unit: words
+ownProgress: 6074
+publishedAt: 2022-11-01
+link: "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1029198/chapter-14-the-unreal-touches-back"
+royalRoadId: "1029198"
+markedReadAt: "2026-06-29T22:39:34.614Z"
+---
+
+Edmund emerged into a cramped and gloomy chamber, a cave by any definition of the word. Rough, natural-seeming stone made up the walls and ceiling, from which pointed stalactites hung in chaotic formation. The floor, as per usual, was unnaturally flat, still rough and formed of stone, yet missing pillars and stalagmites and other obstructions one might’ve found in a normal cave.
+
+This was a hallway, and Edmund knew it.
+
+The space itself stretched no wider than the entrance behind him, leaving Edmund barely enough room to stretch his arms out to each side. Any party traveling through here would’ve had to move single file if they’d wanted any sense of maneuverability. Edmund, at least, didn’t have to worry about that. As it was he hooked his spiderleg spear around his neck and drew his Scorpion’s Sting, the shortsword better suited for fighting in tight corridors.
+
+A darkness hung about the place, shadows dancing upon the walls as orange light flickered upon the many stalactites. Worse still, acrid smoke wafted from the torches, drifting up into the ceiling only to find it had nowhere to go before falling down to hang in the air, a thick haze that darkened the room yet further. Edmund coughed twice the moment he breathed it in.
+
+“I see you like what I’ve done with the place.” Liam appeared ahead of Edmund, casually leaning back against the wall as he often did, his arms crossed in front of his chest.
+
+“It’s a cave,” Edmund said once he’d acclimated to the smoke and recovered from his fit of coughing.
+
+Liam shrugged. “They can’t all be great battlefields or sprawling landscapes. I’m a dungeon after all. Gotta fulfill my quota of dark and gloomy caves.”
+
+Edmund opened his mouth to speak, but Liam cut him off.
+
+“Sometimes it’s good to remind people,” Liam said, the ever-present grin on his face turning from mischievous to predatory, “where exactly they are.”
+
+Edmund blinked. “In a cave?”
+
+“In a dark hole in the ground. Alone.”
+
+“Is that what you are, then? A hole in the ground?”
+
+Liam winked. “The worst kind. A dangerous one. A hungry one.”
+
+Edmund let out a breath. “Are you just here to be dramatic or did you have something to say to me?”
+
+“Two things,” Liam said, a scowl growing upon his face. “One, I am always here to be dramatic. It’s more fun. Two, isn’t your company reason enough?”
+
+Edmund grunted.
+
+“You’re right, it’s absolutely not. Really, I don’t know what that princess sees in you.”
+
+“Oh, I get it,” Edmund grumbled. “You’re just here to annoy me.”
+
+“As much fun as it is to make you miserable, you seem to handle that well enough yourself. I’m just here to watch you work.” Liam paused, pulling one hand away from his chest to gesture Edmund to get a move on. “So get to work.”
+
+Edmund glared at him.
+
+“C’mon. Just… pretend I’m not here. Difficult, I know, given how much you value my witticisms, but I’m sure in the face of certain death you can take yourself seriously.”
+
+Edmund ignored him, starting on his immediate left and slowly knocking the pommel of his sword against the wall for signs of traps or hidden compartments. If Liam wanted to talk, Edmund was going to make damn sure it wasn’t distracting him from anything.
+
+The dungeon’s avatar stayed thankfully silent as Edmund searched the space. The smoke in the air parched his throat and dried his eyes, inflaming the latter and bringing them to water. He blinked and rubbed the blurriness away, keeping his vision as clear as he could.
+
+Still, the haze in the air gave him some pause. He didn’t know exactly what it was he was breathing, if it truly was smoke or some other toxin hidden behind it. Liam, of course, was unperturbed by the acrid air, but Edmund had to realize the possibility that keeping him there was Liam’s entire purpose. He coughed once, despite himself. It was just as likely Liam was trying to distract him from some prize in the entryway as trick him into wasting time searching said entryway.
+
+Edmund wondered if the smoke was toxic. If it was, surely The Island would’ve protected him, or at least safeguarded him from its effects. If its purpose was to obscure vision, his cloudkith sigil would help him overcome it. He took a moment to focus on the image of the cloudkith conjurer in his mind’s eye, pulling upon its ability to see through the fog.
+
+The room seemed to clarify in front of him, its features plain as day to Edmund’s perception. It wasn’t quite the same as seeing through the smoke—the smoke was still there—but an image of what lay beyond the haze seemed to impose itself upon what his eyes actually saw. Curiously enough, Liam remained invisible to this sixth sense. Edmund wondered if that classified the avatar as a vision-reducing effect. He supposed in a way it did.
+
+As if to remind Edmund of his presence, Liam let out a loud and drawn-out yawn, not so subtly urging the delver to get a move on. Out of sheer unwillingness to oblige, Edmund took another look around the room before setting his sights on the path ahead.
+
+He moved slowly down the narrow tunnel, sweeping meticulously for traps and secrets with every step. None revealed themselves.
+
+Liam, curiously enough, didn’t follow his usual habit of vanishing during the boring bits and reappearing when he had something funny to say, instead walking silently at Edmund’s back as he progressed.
+
+It unnerved Edmund. It all unnerved Edmund. The claustrophobia of the space bore down upon him after the comparatively open past few floors, reminding him, as Liam had put it, that he truly was in a hole in the ground. Liam’s behavior, different from what he’d grown accustomed to, set alarm bells off in Edmund’s mind. The smoke wafting off the torches, sitting in the air, in his throat, in his eyes, frightened him further still. Something was off about this floor, and until Edmund knew what, he’d have to be even more careful than usual.
+
+He wondered if that was possible.
+
+With every step he took the noise of his blackbone boots against the stone echoed down the passage, reverberating through the smoky air until it seemed to come from everywhere at once. Every shift in the shadows upon the wall sent Edmund’s heart racing. The further he walked the denser the smoke grew, and the more certain Edmund became that all was not as it seemed.
+
+Liam remained silent, ever present at Edmund’s back, ever watching with that gleefully judging gaze of his. His purpose remained unknown.
+
+Edmund turned left at the first junction, scanning each direction to the maximum range of his cloudkith sense before failing to find any identifying differences between the three paths before him. He turned left again at the next junction. Then left again, until he was certain his path should’ve intersected with where he’d begun. It didn’t. He found no familiarity in the cave, in the stone, in the darkness. Only in the smoke.
+
+“Soon enough, you’re going to have to pick a direction other than left.”
+
+In what he considered his best show of judgment thus far, Edmund ignored Liam’s prattling. Three possibilities presented themselves. Either he was moving in a spiral, each distance between left turns slightly longer than the last, or the tunnels themselves were moving, or—most disconcertingly—something within his own mind had convinced him of such.
+
+Listening to Liam seemed like a good way to exacerbate that last.
+
+He’d made eight total left turns when the sound first reached his ear, a soft whispering, muffled beyond the point of intelligibility, that seemed to come from everywhere at once. Edmund froze. Something was here.
+
+He stilled his breathing, shutting his eyes to focus exclusively on the noise. He envisioned the ways it bounced off the walls, muffled through the density of the smoke, to reach his sigil-enhanced ears. He caught the subtleties of its inflections, the gentle rises and falls that came as he changed the angle of his head.
+
+Edmund’s eyes shot open.
+
+A shadow shifted on the wall up ahead.
+
+Edmund struck.
+
+His Firebolt washed harmlessly against bare stone, its light banishing the shadow of the torchlit stalactite for a brief moment before the gloom and the smoke swallowed it up once more. The whispering ceased.
+
+“Jumping at shadows, are we?” Liam teased. “I knew you were paranoid, but you didn’t have to be so literal about it.”
+
+Edmund grit his teeth and kept walking, ready for attack at any moment. None came.
+
+Despite Liam’s comment, he felt his paranoia growing. Thus far he’d found no traps, no monsters, no threats at all. If he hadn’t known any better, Edmund might’ve thought the dungeon had stopped trying to kill him.
+
+It hadn’t. He just had to work out its method.
+
+He went straight at the next junction, forgoing his habit of left turns for fear of walking in circles. He had no way of knowing if he had been. Liam’s thin smirk certainly didn’t embolden him in his decision.
+
+Edmund paused at the center of a long stretch of tunnel, putting his back to the wall as he stopped to rub his irritated eyes. He swallowed back spit over his hoarse throat, pining for the water skin he’d never carried thanks to his rootmother’s sigil. He could keep hydrated, but he couldn’t wet his tongue.
+
+A shout rang out.
+
+Edmund pulled his hand away from his eyes, wiping their moisture away with the tattered remains of his shadowhide vambrace. A bone chillingly wet gasp for air echoed down the passage.
+
+Edmund ran.
+
+He kept his sword out and his shield raised as he chased the source of the noise. His boots slammed against the ground. His breath shouted out his approach for all to hear. Still he ran. He knew it could’ve been a trap. Thrax, he expected as much. But Edmund also knew he couldn’t pretend to still be human if he didn’t even try to help a delver in need. Whatever monster awaited him, he would fight.
+
+“You killed him!” a woman’s voice sounded from ahead.
+
+“I had no choice!” a man replied. "He was plotting to—someone’s coming!”
+
+The echoes ceased with that, but Edmund had what he needed, he might’ve misplaced their whispers before, but he could track a shout well enough to guess their location. He slowed himself to a walk just before turning the corner that would expose him to them. “Who are you, and what are your numbers?” he called around the bend in the tunnel.
+
+“Stay back!” the second voice answered, his voice quaking. “I killed Dean and I’ll kill you too!”
+
+“Dean was innocent!” the woman yelled. “You just wanted his loot for yourself.”
+
+“Our run’s just started. He’s barely dropped any loot since we picked up at the last hub.”
+
+“That makes it all the more despicable of you,” the woman spat, her voice similarly seeming to shake. “I should kill you for what you’ve done.”
+
+“Like Dean was planning to kill me?”
+
+“That’s enough!” Edmund snapped. “I’m going to come out now, and we’re going to talk like humans, not animals.”
+
+The voices didn’t reply.
+
+Edmund swallowed past his sore throat, raised his shield, and stepped around the corner. He found a man and a woman standing over a necklace and a pair of boots that he could only assume were what remained of Dean.
+
+The man wore chainmail and boiled leather, and clutched a sword which he kept leveled at the woman. She, in contrast, wore dull green robes and held up her bare right palm, clearly threatening some kind of spell. At Edmund’s approach, the man swiveled to point his blade at Edmund. The woman kept her hand pointed at her companion.
+
+“Don’t come any closer!” the man shouted. “I’ll kill you!”
+
+Edmund stopped, alarm bells ringing in his head. Something was wrong. Something was very wrong. These people were far too distrusting to have ever been a functional party. Were it not for the wet blood that dripped from the man’s blade, he might’ve thought the whole setup a trap, two pieces of loot dropped on the floor to fake a party member killed and claimed by the dungeon.
+
+But the blood was real.
+
+“Let’s all calm down,” Edmund said, his shield up and his sword ready to strike. “No-one else needs to die.”
+
+From somewhere behind Edmund, Liam rubbed his hands together and spoke. “Ooh, we’re getting to the good part.”
+
+“That’s enough from you!” Edmund shouted over his shoulder.
+
+The man faltered. “Wh-who are you talking to?”
+
+“Nobody.” Edmund whirled back around to face the strangers. “Now put down your sword and we can talk this through.”
+
+The woman’s eyes widened, but she kept her spell hand pointed at her former party member. “He’s mad.”
+
+“I’m not mad.” Edmund fought to keep his voice as calm as he could.
+
+“You’re a bit mad,” Liam countered.
+
+“I told you to shut up!” Edmund glared backward at Liam.
+
+Even with his head turned he heard the man coming. He heard the thump of his feet upon the ground, the swish of his sword sweeping through the air, the sudden intake of breath in preparation for attack. Between his sharp hearing and positional awareness from the azure fox, he practically saw the delver strike.
+
+Edmund whirled his head back around and bashed with his shield at the same moment, catching the man off guard and knocking him back. He landed on his ass.
+
+“That was a mistake.”
+
+“Y-you were going to kill us.” The man scrambled back. “I had to do something.”
+
+“You had to put down your sword,” Edmund said. “Like I told you to.” He stepped forward once, watching the man flinch as he did. Something was wrong about these two, something beyond their paranoia. He paused for a moment and stared into the man’s frightened eyes until it struck him.
+
+They weren’t red. Neither of the two delvers rubbed at watering eyes. Their voices might’ve quaked with fear, but neither scratched with the same hoarseness as Edmund’s. He furrowed his brow. “Why isn’t the smoke affecting you?”
+
+“The smoke?” the woman asked. “What smo—”
+
+She cut off as the man burst into a fit of coughing.
+
+Edmund’s eyes widened.
+
+The man doubled over, coughing louder and louder with every breath. His inhales came ragged; his exhales came not at all, his air stolen by each continuing cough. “I—I can’t—” He tried and failed to get the words out. Only coughs escaped his lips.
+
+The woman paled and shouted at Edmund. “What are you doing to him?”
+
+“I’m not doing anything,” he breathed, his voice soft and even and quick. “It’s the smoke.”
+
+“What smoke?”
+
+“From the torches,” Edmund muttered. “There’s nowhere for it all to go so it just hangs in the air. I don’t know why it hasn’t affected him yet.”
+
+“The dungeon’s torches don’t give off smoke.” The woman stilled. “You are mad.”
+
+Edmund froze.
+
+Liam’s gaze bore a hole in his back.
+
+The woman looked up at him, fear in her eyes.
+
+The man coughed. He coughed again. He didn’t cough a third time. He didn’t take a sharp intake of breath. He didn’t speak. He didn’t move.
+
+Edmund didn’t move either. He stared down at the fallen delver, a look of shock petrified upon his face. He gripped the hilt of his sword with white knuckles. He took a breath, the smoke in the air scraping painfully across his inflamed throat. He watched, transfixed, as the delver sank into the floor, leaving a pair of metal bracers and a pouch of coins behind as the Depths consumed his corpse.
+
+Silence reigned.
+
+Edmund stared transfixed at the now empty spot on the floor, mind grappling with but failing to comprehend the horror before him. The woman remained still, either paralyzed by fear or convinced her best hope of survival was to evade his notice. That realization sent a second knife through Edmund’s heart.
+
+“Go,” he eventually managed. “Take their gear and go. The next floor is a hub; consider that a sign that your delve is over.” He paused for a moment, finally managing to tear his gaze away from what remained of the male delver to look his surviving companion in the eye. “Don’t come back. You’ll only find death down here.”
+
+She nodded, her lips tight, her jaw tensed, and a tear dripping down her cheek. Neither she nor Edmund spoke again as she went about collecting the gear from the floor, leaving the coins behind as she grabbed what she could.
+
+Moments later she ran off into the darkness, and Edmund was alone again, more alone than he needed to be, yet less alone than he would’ve liked.
+
+“Well, that was fun,” Liam taunted, the joy in his voice serrated against Edmund’s ears.
+
+“Leave me!” Edmund bellowed, the smoke darkening around him.
+
+“I’ll never leave you, Edmund,” Liam said, tilting his head as if to emphasize the cruel smile upon his face. “I’ll disappear for a bit if that’s what you want, but I’ll still be here. Watching. I imagine I’ll be the one standing over you when it’s your turn to choke out and slowly die, and just like here and now, it’ll be all your fault.”
+
+With that he vanished, leaving only Edmund, the smoke in the air, and the pouch of coins on the ground. Edmund picked them up, the familiar weight of silver somehow heavier than he remembered. He put them in his satchel. The cloudkith enchantment failed to reduce their weight.
+
+Edmund coughed. The smoke grew thicker. Shadows danced upon the walls.
+
+He kept walking.
+
+Every step echoed horrifically against the stone, bouncing back and forth across the cramped cave until it returned to his ear warped and distant. The smoke grew thicker still, clouding his vision and irritating his eyes until they could take no more than sparse flicks open before shutting again. More and more he relied upon sound and the perception of his cloudkith sigil, the former distorted by the echoes of his own noise and the latter limited by his eyes’ unwillingness to remain open.
+
+“It’s not real,” he muttered to himself, throat pained by the words. He repeated them anyway. “It’s not real. It’s not real. It’s not real.”
+
+But it was, real enough to kill a man, anyway. Real enough to kill Edmund if it wished.
+
+Something moved to his left, and Edmund forced his eyes open and lunged through the haze. His sword bit into soft flesh. A scream rang out, hauntingly agonized and accompanied by a chorus of dissonant tones as it bounced across the tunnel. Edmund blinked again and looked down at his sword.
+
+It had no blood upon it.
+
+He looked up, using his cloudkith sense to peer through the smoke.
+
+There was nothing there.
+
+He pressed forward, forcing his way through a cloud of smoke that hung about him like a morass. It resisted his every motion, clinging to him as he waded through it. “It’s not real,” he forced the words through a throat that did not want them. “It’s not real. It’s not real.”
+
+Agony erupted in his right forearm as something pierced his damaged vambrace, drawing blood in a deep gash just below his elbow. Edmund spun to face his attacker, lunging with his sword at an unseen foe. He recognized the familiar resistance of flesh and muscle before the blade, felt the force of his lunge reduce but not halt as he pierced his foe.
+
+Again he forced his eyes open, this time to find his blade struck through the heart of the adventurer he’d killed. The man smiled down at him as blood dripped down his chest.
+
+Edmund’s eyes snapped shut before their watering could take his vision. He blinked the dryness away, refreshing his vision until he managed to open his eyes and keep them open.
+
+The man was gone. No corpse sat upon the ground. No blood stained Edmund’s sword. The wound on his forearm remained.
+
+He pressed on.
+
+It had to be some monster, he reasoned. Some hidden foe that conjured the smoke, summoned the shadows in which it lurked. He’d yet to find the true danger of this floor. Whatever it was, it was out there, and it’d set its sights on Edmund.
+
+Pain burst from his left arm, somehow within the bend of his elbow at the gap between his vambrace and rerebrace. Edmund swept his shield at its source, but struck only smoke. As he spun, another strike sliced across the back of his neck. Warm blood dripped down his back.
+
+Edmund swung his sword again, but the blade clanged against a low-hanging stalactite. In his recoil something pierced the back of his hand, impaling his palm.
+
+He dropped his sword with a shout, clutching his hand to his chest as he struck back with his shield. Again he found only shadow. “I know you’re out there!” he shouted through the pain in his throat. “Show yourself!”
+
+The smoke laughed, sharp and mocking and in a voice Edmund knew all too well.
+
+Liam’s voice.
+
+A blade cut across his right calf, slicing clean through his blackbone leggings to sever the tendons beneath. Edmund fell to one knee as his leg gave out beneath him. He pulled his injured hand away from his chest, fighting past the hole through his palm to launch a Firebolt through the air behind him.
+
+The spell washed harmlessly against the wall. Smoke arose from its flames to join the miasma in the air.
+
+Something blunt crashed into his upper back, breaking chunks off his crystal cuirass with a terrible crack and knocking Edmund forward. He caught himself on his hands, but his wounded right palm and injured left elbow gave out.
+
+His face hit the ground with a clang, his misshapen helmet absorbing the worst of the impact.
+
+The attacks continued. They struck his back, his arms, his legs. Edmund curled up in an effort to protect himself, to minimize the target he made while he desperately wracked his mind for a plan beyond hoping Perseverance would heal his more debilitating wounds in time for him to fight back.
+
+“It’s not real. It’s not real. It’s not real.” He growled the words to himself, a mantra against not only the blow that rained down upon him, but the pain they wrought.
+
+“Well, look at you,” Liam’s voice spoke down to him. “So far gone already. Even now the madness devours your fear.” He let out a short, sharp laugh. “I told you I’d be here, standing over you while you died. I’m surprised it’s happening so soon.”
+
+Edmund wanted to scream. He wanted to rage, to lash out at the dungeon’s avatar, at the one entity truly responsible for all his suffering.
+
+But he couldn’t. His body had betrayed him, his bones broken, his muscles pierced, his tendons severed. Blood seeped down his chest, his arms, his face. Pain rampaged through every inch of his body, but Edmund knew pain. Pain could be dealt with.
+
+It was the rage that couldn’t. The rage and the despair and the creeping helplessness that crawled up his spine. He lay there curled into a ball as he took every beating the smoke would give him, a torrent of wild emotions running rampant.
+
+But not fear.
+
+He felt guilty and sad and more angry than he’d ever felt before, but fear itself failed to wrap its frigid fingers around his heart. Liam’s words echoed in his mind.
+
+“Even now the madness devours your fear.”
+
+Fear.
+
+The delvers had been afraid. Even before the smoke had reached that man’s throat, the terror in their eyes had been apparent. They’d killed one of their own over it, had been about to kill each other, even. No party that susceptible to discord could ever have made it this deep into the Eternal Depths.
+
+That was the danger. That was the weapon this particular floor wielded to lethal effect.
+
+No monster lurked in the shifting shadows. None was needed. The shadows were monster enough.
+
+Yet still they struck. Still the smoke rained havoc upon him. Still his throat burned and his eyes water and his body bled where it had cut him.
+
+“Even now the madness devours your fear.”
+
+Whatever magic or toxin had so spooked those other delvers had failed to affect Edmund in the same way. Sure, it had turned him against those that might’ve been his peers, but that had been an act upon them as much as him. The unreal smoke that had arisen from the smokeless torches had been the same that choked out that poor man.
+
+The scholar on the tenth floor had told him that powerful Madness could impose its own version of reality upon the rest of the world. Edmund had stepped further. He’d pulled that delver from one reality to another, only for the man to find Edmund’s reality too harsh to bear.
+
+Where Edmund’s throat burned with every breath, the sane man had suffocated.
+
+The blows seemed to lighten as the thought struck Edmund’s mind, the smoke itself recoiling as the torrent of emotions slowly gave way to a new dominant force.
+
+Confidence neither crept nor slipped nor fought its way in. It simply was, a flame that burned weak and dull at first yet unflinching in the maelstrom that so tried to extinguish it.
+
+Liam had been wrong. For all his vast knowledge, for all his unparalleled perception and ineffable schemes, Liam, avatar of the Eternal Depths, greatest and most powerful dungeon in Linaria, keeper of the lost Book of Dranicath, host to the Eighth Infernal Legion, slayer of Indleroth the Dread, had been wrong.
+
+“Even now the madness devours your fear.”
+
+There was no such thing, Edmund realized in a way that only he ever could. There was no madness, no fundamental truth, no external entity that somehow worked through and against him.
+
+There was only Edmund’s madness.
+
+The smoke was of him, his emotions, his trauma, his Aspect. He might’ve been the maddest man in all of Linaria, Rushk, and the adjunct realms, but that madness belonged to him and only him.
+
+And it would obey.
+
+The blows ceased.
+
+Edmund felt his muscles relax unbidden, his body loosening its fetal position from a tight curl of desperation to a loose one of comfort. Adrenaline faded away and the pain of his injuries took its place, emanating from every spot of his body at once. Even now his Madness protected him, eating away at his agony and his fear, until it too could handle no more.
+
+Darkness rushed in, not the twirling shadows in which monsters lurked, nor the veil that obscured the level beyond, but a comforting darkness, one of solace and safety and shelter from the storm.
+
+The last things Edmund remembered before consciousness slipped away were a chime echoing through the cave around him, and the soothing coolness of fresh air filling his lungs.
+
+Edmund awoke in a different room entirely.
+
+The floor was the same, and the walls were the same, and the layout of them all was the same, but no more did wisps of smoke waft from the torches on the wall. No more did shadows dance across the stone. No more did his throat burn or his eyes sting with dryness.
+
+He stood up, stretching his tense muscles as he looked over the sites of his wounds.
+
+The scars remained.
+
+They were white and fresh upon his flesh, and they were many. They crawled about his figure, both a text detailing his every failure and a testament to his survival. Edmund picked up his sword and his shield where they’d fallen, noting that almost every single piece of his gear had accumulated damage from his battle with the smoke.
+
+His sword was chipped, his shield splintered. His leggings had been cut in several places, and the crystal of his cuirass had been shattered, a web of cracks running down its entire shape. It would all survive. All the cuirass needed was a bit of blood and it would repair itself.
+
+Two pieces of gear stood out.
+
+The piece of the Dread Gauntlet of Kor’Ilinesh that adorned his middle finger remained unharmed, his Madness’s greatest efforts unable to even mark the thing. His shadowhide vambraces, in contrast, hadn’t survived.
+
+His right vambrace had fallen to the floor, cut to so many pieces it’d never stay around his arm again. Its twin fared little better, hanging on to Edmund’s forearm by little more than a thread. Edmund tugged it free and discarded it.
+
+A doorway stood open just up ahead, the darkness between levels beckoning to him. A platinum chest sat beside it, whispering its promise of wealth beyond that he’d seen thus far. Edmund went to it first.
+
+Inside he found a second pouch of coins of similar make to the one he’d taken from the dead delver. It was stained with blood. He wondered if it had fallen from another adventurer on this floor, reclaimed by the dungeon to be given as loot later on. Perhaps it had belonged to Dean.
+
+Next to the silver sat a pair of bracers to replace those he’d lost. They glimmered verdant green to match the strange metal on his shield.
+
+Mithril Bracers of the Resolute
+
+Provides protection against all damage types. Provides resistance to external mind-altering effects.
+
+Edmund didn’t hesitate to slip the bracers over his bare forearms, happy to finally have a name for the green metal. The bracers didn’t offer quite as much protection as his shield, but they didn’t occupy one of his hands like the shield did, so even without their secondary effect he considered them more valuable.
+
+The word ‘external’ stuck with him, as if the smoke letters felt the need to specify they’d help with whatever magic the dungeon had inflicted, but his Madness was his burden to bear and his alone. He hoped it wouldn’t be a problem again.
+
+Leaving the chest behind, Edmund opened up his constellation and made his selection immediately, crafting his very first tier five Aspect from the only combination available to him that could do such a thing: The Fissure, and War.
+
+Tier 5 Aspect: The Breach - Bronze+ Resonance
+
+Level 1 - Provides access to the Break Through active ability.
+
+He felt his new ability immediately, not as a channel in his mind like Firebolt or Smoke Lash, but as muscle he’d somehow never noticed, as Rend was. He felt an intuitive sense for what the skill could do, as well as an intuitive knowledge it wouldn’t work without a target. He dared not attack the walls for fear of breaching the accords, and this floor hosted no monster against which he could train.
+
+Filing practice with his newest skill as a task for the next floor—a hub, thankfully—Edmund diverted his attention to the Aspects that had leveled up from his newest confluence. The list was long.
+
+The Fissure reached level two with no changes to its description, though at level three War had changed its boons from ‘severely limited’ to merely ‘limited.’ It would be a powerful Aspect indeed as it continued to grow.
+
+Neither Sorcery nor The Rift saw any change in their descriptions as they leveled, nor did The Island. Similarly, The Island’s components, Perseverance and Solitude, hit level seven with no change.
+
+Edmund’s highest level Aspect, however, did see a change.
+
+Tier 1 Aspect: Madness - Prismatic Resonance
+
+Level 10 - See beyond reality. Touch the unreal. Shape your world.
+
+Edmund liked that. He liked it a lot. Ever since he’d first accepted Madness back on the first floor, he’d felt as a seedling tossed upon its gale, benefiting from its whims, but subject to them nonetheless.
+
+This was the first change to Madness’s description that left Edmund feeling some sense of control. He’d earned it.
+
+Blinking away his constellation, Edmund turned his attention first to the open exit before him, then back to the cave from whence he’d come. He thought back to the battles he’d fought to make it this far, those against the monsters and, more recently, those against himself. He reflected on the progress he’d made, the people he’d met, the people he’d lost. He thought about Dean, dead at his own friend’s hand. He thought about said friend, who too had lost his life to Liam’s manipulations.
+
+It had to stop. Edmund had to stop it. Of the great many lessons he’d learned along the way, on all floors but this floor in particular, only one truth had really survived the journey from the person he’d been to the person he had become.
+
+Liam had to die.
+
+Even with thoughts of vengeance and death clinging to his mind, the corners of Edmund’s mouth turned up ever so slightly into something not quite, but perhaps akin to, a smile. Just as the floor around him had seemed to change after his ordeal, so too did the path ahead.
+
+The air tasted fresher, the shadows calmer, the darkness between levels somehow less of a looming threat than an invitation. Edmund looked to the doorway between him and the next hub floor and felt for the first time that maybe not everything, maybe not even most things, but something, somewhere, for someone, was going to be okay.
+
+That was enough for him.
+
+Bearing the weight of the challenges behind him, the anticipation of the dangers ahead, and the stable, resolute certainty of knowing what had to be done, Edmund held his head up high, and stepped into the darkness.
+
+Edmund Montgomery Ahab, The Crimson Hand
+
+Aspects Unlocked: 15
+
+Tier 1 Aspect: War - Gray+ Resonance
+
+Level 3 - Provides a limited increase to all damage dealt. Provides a limited decrease to all damage taken.
+
+Tier 1 Aspect: Elements - Gray Resonance
+
+Level 6 - Provides access to the Firebolt spell.
+
+Tier 1 Aspect: Solitude - Red Resonance
+
+Level 7 - Gain increased constitution while fighting alone.
+
+Tier 1 Aspect: Perseverance - Gray Resonance
+
+Level 7 - Gain health regeneration.
+
+Tier 1 Aspect: Madness - Prismatic Resonance
+
+Level 10 - See beyond reality. Touch the unreal. Shape your world.
+
+Tier 2 Aspect: Fervor - Gold+ Resonance
+
+Level 1 - Empowers the effects of Madness and War for each consecutive second spent in battle.
+
+Tier 2 Aspect: Sorcery - Gold Resonance
+
+Level 1 - Provides access to the Smoke Lash spell.
+
+Tier 2 Aspect: Obsession - Gold Resonance
+
+Level 2 - Gain strength and agility for each consecutive day spent pursuing your obsession. Gain mana for each consecutive month spent pursuing your obsession.
+
+Tier 2 Aspect: The Recluse - Gold Resonance
+
+Level 2 - Empower the effects of Madness while alone. Lessen the effects of Madness while accompanied.
+
+Tier 2 Aspect: The Island - Gray Resonance
+
+Level 4 - Grants resistance to over-time effects while in groups of two or fewer.
+
+Tier 3 Aspect: Focus - Silver Resonance
+
+Level 1 - Doubles spell damage when attacking a single target.
+
+Tier 3 Aspect: The Philosopher - Silver+ Resonance
+
+Level 1 - Ponder the nature of reality.
+
+Tier 3 Aspect: The Rift - Gold Resonance
+
+Level 3 - Provides access to the Rend active ability.
+
+Tier 4 Aspect: The Fissure - Silver Resonance
+
+Level 2 - Provides access to the Magma Fissure spell.
+
+Tier 5 Aspect: The Breach - Bronze+ Resonance
+
+Level 1 - Provides access to the Break Through active ability.
+
+Delver’s Mark of the Challenger
+
+Empowers nearby dungeon monsters. Significantly increases the value of loot chests you open. Slightly increases the resonance of Aspects you unlock.
+
+The Crimson Hand
+
+Grants minor resistance to piercing damage. Bestows ownership of the Dread Gauntlet of Kor’Ilinesh.
+
+Trailblazer’s Sigil of the Azure Apprentice
+
+The third step on the Path of the Azure Fox. Increases agility. Grants a single windstep. Increases positional awareness.
+
+Trailblazer bonus: Sharpens hearing.
+
+Trailblazer’s Sigil of the Rootmother
+
+Non-intelligent Strethian lifeforms will treat you as an ally. Gain the ability to draw water and nutrients from fertile soil.
+
+Trailblazer bonus: draw water and nutrients from all soil.
+
+Cloudkith Sigil
+
+Cloud-based lifeforms will treat you as an ally. Gain enhanced perception through vision-reducing effects.

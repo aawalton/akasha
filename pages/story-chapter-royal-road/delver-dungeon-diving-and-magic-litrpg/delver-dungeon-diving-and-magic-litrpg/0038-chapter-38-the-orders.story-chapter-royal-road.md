@@ -1,0 +1,175 @@
+---
+id: c593b648-39c6-5597-a4d9-7badc0f51d42
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38: The Orders"
+slug: 0038-chapter-38-the-orders
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 38
+ownLength: 2111
+unit: words
+publishedAt: 2026-07-02
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3623352/chapter-38-the-orders"
+royalRoadId: "3623352"
+---
+
+I know the master mages are going to go on and on and on about Stillness and Transformation. Let me tell you, ignore everything they say. What matters far more than that, is the matching Desire runes. They shape everything, and they are near endless. Angels, I discovered a new one just yesterday. What are the uses for a sit desire rune, you ask? I have no idea. But just the fact that I know it and can use it now? That makes me a more versatile mage than any old geezer who only tries to categorize everything in a duality that can be done without if you’re good enough…. Wait, ignore that bit. You’re not ready for it.
+
+I stare up at the sun, just rising over the walls of the frontier city. Shar sits on her haunches next to me as a cat, looking up at the same sun.
+
+The light disappears behind the clouds, and the city is covered in gray. I think we’re due for more snow. I shake my body and look towards the front of the inn, where Libby is helping Grildor put on his armor. The large mercenary shoots me a toothy smile as Libby ties one of his vambraces.
+
+They finish up, then walk over to me. Shar immediately dashes away, walking ahead to scout the road.
+
+“It’s too Angel’s damned early. And freezin in this metal.” Grildor grumbles.
+
+I snort, then smile awkwardly, “Sorry about that.”
+
+Libby shakes her head at me, “Don’t listen to his grumbles. We’ve been through worse.”
+
+Grildor frowns at her, then gives me a ‘look at what I have to deal with’ look.
+
+I smile at the grumpy warrior, then turn towards the road. The city is just beginning to wake, and the clang of metal on metal echoes out as we make our way through the craftsman’s district.
+
+I spot a couple of young pickpockets watching the road, but none of them bother us. They know better than to mess with a man in plate armor.
+
+Soon enough, the temple is visible, standing tall. I don’t know the acolyte at the gates well, but he gives me a nod as we approach, then looks at the other two with curiosity.
+
+The two mercenaries pause outside the doors, happy to let me continue on my own.
+
+I make my way to the room with the Guides first, and find Sehara’s statue. I stare at it for a long moment, then kneel next to it, and place a small piece of ancient jewelry at her feet. I look around to find the place mostly empty, only a young kid in the corner sweeping out some dust.
+
+I turn back to the statue, and bow on my knees. “I know you said you don’t like kneeling, but I don’t know how else to show my respect.” I pause, looking up at the faceless statue. “But I wanted to say thank you. I hope I can live up to your expectations.”
+
+I rise to my feet, then turn away. I tap the kid’s shoulder, drawing his attention away from the dust he’s sweeping.
+
+“Where’s Brother Ivan?”
+
+He points me to Brother Ivan’s office, and I make my way towards the old monk.
+
+A small knock on his door is answered with a quiet, “come in.”
+
+I open the door to find the same older man at his desk, writing something onto parchment. He looks up at me, then sets his quill down.
+
+“Leo. It’s good to see you again. What brings you here this time?” He peers at me hopefully.
+
+I shake my head, as I close the door, “Nothing good.”
+
+He stares at me for a long second, then motions to the chair across form him, “Please, sit.”
+
+I make my way over, and sit down in the wooden chair. “After our last meeting, I made my way to the city of the dead up north, off the coast. Up there, I encountered several Demon worshippers, they were after the same artifact I was.”
+
+Brother Ivan hums as he stands up and makes his way to a kettle and two cups on a tray. He takes the tray down, and sets it down between us. He pours me a cup, then pours one for himself. “Does this have something to do with the Divine Anchor?”
+
+“How do you…?” I pause, “So you saw the message as well.”
+
+“Yes.” He takes a sip of his cup, giving me a long look. “Every person with a title related to an Angel saw it. Most of the Reapers were recalled to the stronghold, leaving only their acolytes to guard our frontier town, and the High Priests are convening. I’ve heard tale of the Oathsworn Orders revealing themselves as well.”
+
+I drink some of my own cup, surprised at the seriousness of the old man. “Revealing themselves?”
+
+“With their numbers being so low, most of the Orders went quiet. A High Paladin of Angel Mira’s Order requested to attend the meeting of the High Priests.”
+
+I lean back in my chair. “I didn’t realize they were that hidden.”
+
+“Indeed. I will inform them of the cultists you saw, but I doubt they are still there. Is… the anchor well protected?”
+
+I nod.
+
+“Good. Don’t tell me more.” Brother Ivan hesitates, then pushes his cup aside to lean forward, “Leo. Do not trust the church. There have been questions about an explorer traveling with a Vishten warrior. Reaper Yana lied to protect you, and she knows the politics better than I, so I followed her lead. But her lie tells me that she does not trust the Arch-Reapers or the High Priests. You should not either. I do not know the Oathsworn Orders well, but if they’ve stayed hidden, then they may be your only allies here.”
+
+I lean back into my chair, absorbing the warning. It was a shock, but I know that most of the various devout and acolytes are just human, with all the weaknesses my race is known for.
+
+I focus back up as Brother Ivan reaches over to one of the drawers in his desk. He unlocks it with a key, then opens it up and takes out a small pin. He holds it out to me, and I take it with curiosity.
+
+“Reaper Yana asked me to give this to you.”
+
+I hold the pin up, studying the familiar symbol of a sleeping woman with her arms crossed over her chest. “Alvarana’s reaper pin?” I look up from it, “Isn’t this dangerous for an outsider to have?”
+
+“Extremely.” Brother Ivan smiles, “So much so, that I hesitated to give it to you before our conversation.”
+
+I trace the fine detailing with my thumb, then slip it into my pocket.
+
+“She said that if you ever needed to see her, use the pin.”
+
+“Thank you.” I slowly stand up, and the old Monk does as well. “Until we meet again.” I give him a respectful bow, which he acknowledges with a tilting of his head, then I leave the room.
+
+I make my way through the temple, and out to the front where Grildor and Libby are waiting. They both stand up as I approach, drawing the attention of the acolyte at the entrance, before he looks back to the road.
+
+I catch sight of Shar in the shadows of a nearby building before she steps into the darkness, and reappears in the distance.
+
+I lead the group to the back of Gerald’s shop, and knock softly.
+
+A few minutes later, his wife, Martha, opens the door. She looks over the three of us with a smile, then motions us to come in. “Hello dear. Gerald’s busy with a customer, but I’ll let him know you’re back.”
+
+She leads the three of us over to a table, and Grildor settles awkwardly into a chair.
+
+I remain standing, instead choosing to study the artwork that decorates Gerald’s home. He has a particularly large oil painting depicting a leviathan over the walls of a coastal stronghold.
+
+I wonder if it’s the stronghold north of the city of the dead, or maybe one of the lost strongholds. There’s more than a few, taken by betrayal, destroyed by corrupted behemoths, or simply having quietly turned into ruins.
+
+The door opens, drawing my attention to the front, where Gerald steps in. He smiles as our eyes meet, “Leo, my boy, you’re back! I hope it’s with good news?”
+
+I shake my head, “My lead north was a dead end, but I found another ruin in the crystal forest on my way back.”
+
+“Crystal forest? Can’t say I’ve heard of it. I’m sure it’s off any paths I’ve traveled.”
+
+Martha walks over to her husband and hands him a plate with some bread and meat on it.
+
+He thanks her, then makes his way to one of the open chairs at the table, collapsing with a tired sigh, “What can I do you for then? Your portion was deposited without trouble, I hope.”
+
+I smile at him as I sit across form him, “No problems that I’ve heard of. I wanted to let you know that I’d be borrowing these guys for a while, and well… I was hoping you could get me in touch with Master Lorn.”
+
+“I held the mercenaries for you, Leo. As for Master Lorn…” Gerald leans back in his chair, “After we finished our dealings, he left to transport the items to the De’Vereth in the stronghold.”
+
+Angels, I’d hoped to catch him here, not that I’m sure he’d give me any answers anyway. It looks like everything is pointing me towards the stronghold.
+
+We discuss supplies for the trip to the stronghold, then a few more miscellaneous things as Martha serves us all some food, then I stand up to leave.
+
+The sun is standing high in the sky after all of my meetings, and I happily make my way back to the inn.
+
+I spend the evening with the mercenaries, gambling around some cards and drinking, then I make my way up to the room.
+
+Keve meditates in the corner of the room, his tattoos glowing, so I close the door quietly and make my way to my bed.
+
+My bag sits in the corner of the room, and I open it to pull out a familiar pair of gloves. I take off my gloves, and put on The Gardener gloves. I flex my fingers, the material fitting to me like they were tailored. Enchanted items are amazing.
+
+I push my mana through it, coalescing the nature mana. I don’t want to reveal my actual class, but if I’m going to play the part of a mage, then I’ll need to be able to cast something.
+
+I hold my hand up, and start a spell circle, before pausing. There aren’t any plants inside the room that I can work with.
+
+I look over to Shar who is watching me curled up on the bed. “Can you grab me some seeds and sticks?”
+
+The cat lets out a sigh, then walks over to the window, before looking at me with annoyance.
+
+I snort at her laziness, then open the window. She jumps out, transforming into a crow mid jump and soaring over to the ground nearby.
+
+Moments later, she returns and opens her beak to drop several smalls seeds into my hand and a small stick.
+
+Alright, that should do it.
+
+I hold up the small stick, as I channel the green mana into the spell circle.
+
+Transformation, Nature, Spear
+
+The end of the stick lengthens and grows in an instant, spearing forward until it hits the wall, leaving a sharp indent.
+
+I stare down for a second, then pull the wood from the wall with a sharp tug.
+
+The Angel designed wall repairs itself until there’s not a single mark.
+
+“That was stronger than I thought it would be.” I say quietly.
+
+“You used nature aligned magic.” Shar gives me a look as she shifts back into a cat and lies on the bed..
+
+“Which makes it stronger, that makes sense.” I sigh as I look down at the spear that is slowly turning back into a small stick.
+
+I grab one of the seeds next, then toss it at Shar, she stares at me with narrowed eyes.
+
+Transformation, Nature, Grab
+
+The seed explodes into a plant, wrapping around the annoyed looking cat, completely encompassing her until only her eyes are visible.
+
+I turn away, hiding my smile.
+
+“You’ll regret this.”
+
+I freeze at the cold words, then look back up into a pair of very annoyed eyes.

@@ -1,0 +1,205 @@
+---
+id: 32e7fdf1-6e3c-59e8-85bb-a4dc3ec9aa7e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 54 - Welcome Party"
+slug: 0015-chapter-54-welcome-party
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 15
+ownLength: 2360
+unit: words
+publishedAt: 2026-08-18
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3828440/chapter-54-welcome-party"
+royalRoadId: "3828440"
+---
+
+Population +11 — Wrath Imps
+
+The wrath spawning grounds blazed with a blinding light. When it dimmed, a dozen new soldiers strode into the city. Their bulky forms were muscled, flesh armored in bone, and expressions fixed with a not so subtle flavor of arrogance. Just like the first warriors Kairon had summoned.
+
+Only now, I’ve added a third of my number all at once. Which means this is going to be interesting.
+
+With the other wrath imp in the second spawning grounds, that made a dozen new soldiers today. From thirty-three warriors to forty-five. In a single night.
+
+Astounding. Just astounding.
+
+Though, there was one detail of note. When he moved the sigil, the audit timer hadn’t changed. Last time, he lost ten days. Now, it just ticked down steadily. He’d verified the vault read the same notification just minutes ago.
+
+So that acceleration clause can only be used once. That was my understanding as well… But what if there were additional bylaws and demonic regulatory amendments that weren’t included in my copy of the compendium?
+
+That thought left a bitter taste in his mouth.
+
+More not knowing.
+
+Either way, Kairon considered it another indication that this table of theirs needed someone with more… experience and craft in their ranks.
+
+Putting the thought from his mind, he returned his attention to the spawning grounds. The demon let out a whistle, patting the brute next to him. “You can’t tell me that doesn’t put a smile on your face, eh?”
+
+Vorathrex flinched. He was not smiling. Not one bit. Instead, his muscled jaw was held taut, features scrunched in displeasure.
+
+“Oh, come now. I warned you what I was going to do,” tried Kairon.
+
+“I will not repeat myself. You know I do not like what you’ve done. However, I understand the results are beneficial. It’s… I do not know, fledgling. I do not know. I just hope you are right in this.”
+
+Again, more measured. The big guy really is changing. I’ll need to keep an eye on that.
+
+He turned forward, curious what would happen. In front of the spawning grounds, a new, larger group of warriors had gathered. Boney at their front, with nearly three dozen at his heels. Just like the brood imps had done, they too gathered, eager to meet their new brothers. Only, instead of open arms, it was in challenge.
+
+The wrath district had gotten quite crowded all of a sudden.
+
+One of the newly spawned warriors ambled forward, raising his voice. “Look, brothers. What have here?” He looked mostly identical to the city’s warriors, only his skin was polished. Smooth. Unscarred.
+
+The other fresh spawns around him chimed in. Claws pointed at the bruises, cuts, and injuries the city’s warriors had from the training grounds. Snorting and jeering, they shouted insults.
+
+“They hurt!”
+
+“Yes! Must be weak!”
+
+“Very!”
+
+Instead of replying, however, Kairon’s existing warriors only looked back flatly. They were rather unimpressed. Boney most of all. By his side, the pit seasoned warriors stood tall. None spoke. They’d learned that wasn’t needed.
+
+Around them, a cloud of wrathful aura began to form. It was subtle, but the demon noticed immediately. Their emotions, their frustrations, their wrath. The aspect practically bled off the pit seasoned warriors in droves.
+
+Boney shot a glance at Vorathrex. The big demon, for his part, looked to Kairon.
+
+How to play this…
+
+His wrath councilor had been showing more restraint. More thought. So, he’d give him some slack in the leash.
+
+“You’re our councilor of wrath. Our strongest warrior. Our bastion. I will default to your judgement.” As Kairon spoke the words, he knew exactly what that judgement would be.
+
+Vorathrex grunted in approval. He turned his attention back to Boney, nodding. That’s all that was needed.
+
+Boney rubbed his muscled claws together, the tough skin making a crackling sound. He rolled his shoulders, popping the soreness from yesterday. Despite the bruises and damaged flesh, he seemed perfectly confident. “Welcome to city. Time for…” The warrior thought, before a wicked, fang toothed grin emerged. “Onboarding.”
+
+***
+
+Kairon could have interfered. Should have, if you’d asked his old managers. But he was practicing autonomy. Besides, he’d given his confidence to his underlings, and he meant it.
+
+And it isn’t like I didn’t know what would happen. I wanted this too.
+
+Part of it was pride in the warriors already a part of his city. The other part was pure calculus as to what would bring the greatest benefit in the most efficient manner possible. The clerk had first hand experience as to what figurative walls in the workplace caused. Divides in communication which led to inefficiencies and misunderstandings.
+
+As he watched, that barrier was being beaten down. Kick after kick. Punch after punch.
+
+They hadn’t let the new recruits enter the pit. Not until onboarding was completed. Instead, they’d taken to the wrath district for some bouts. Each new warrior was paired with one old.
+
+It didn’t go well for the new.
+
+Watching as Boney fought, weaponless, feet moving as if the ground below him moved as he willed, Kairon began to truly understand the value of the pit. Yesterday, the improvements were evident enough. But compared to a wrath warrior who hadn’t even used the demonic training grounds? The difference was terrifying.
+
+Boney stepped into the guard of his opponent, using his arm to deflect the training stave and returning three brutal jabs with the blunt side of his clawed hands. Then, turning, he dodged the wild kicks and shrank back from the diving fangs, before sweeping one leg out to topple his opponent. Two swift kicks followed, one to each side.
+
+“Welcome. To. City!” Each word landing with a final, thumping blow.
+
+The new warrior didn’t get back up.
+
+Much the same was playing out with the other newcomers. Grunts, shouts, and thuds filled the wrath district. Purple welts and bruises quickly tallied up on the city’s newest soldiers, making them, too, match the marred skin of the rest.
+
+The onboarding process was taking some time. During it, the brood imps had already begun morning work. Clattering timber and rumbling stones from the stockpile cut through the battles. There was a clear line of sight from the gate to the wrath district, since many of the buildings were still small or nonexistent.
+
+His workers took advantage of that, enjoying the spectacle and throwing their own squeaks and jeers at the new warriors.
+
+“HAH!”
+
+“Look hurt!”
+
+“Onboard!”
+
+One voice stuck out from the rest. As he was shepherding in the crews, Shiny shook his head in distaste. “Stop watch wrath! They stupid. What teach?”
+
+“They fall!” replied one imp.
+
+“Yeah! Funny!” added another.
+
+“Hehe!”
+
+Shiny didn’t like that. “Funny? You think funny?” He cocked his little head. “Maybe brood revisit onboarding? Maybe make carry faster?”
+
+“What?” squeaked an imp with his claws full of stones.
+
+“No!” squealed another, struggling to keep the massive timber rolling in front of it.
+
+“Then work! Focus! We not wrath. We brood.”
+
+The jeers quit after that.
+
+Kairon took it all in. He found allocating an hour just to let the life of the city flow over him brought fresh vigor to his mind. By the time afternoon came around, he felt… refreshed.
+
+Yawning, Kairon stretched his clawed arms and carefully rose to his feet. One palm gripped the walking stick, planting it firmly underneath.
+
+Well. It seems onboarding is almost complete.
+
+The new warriors looked just as beat up as the old. No more insults came. No more shouts of challenge. Yet, neither was there a subservience.
+
+Boney’s original practice partner groaned, rolling to his side. Leaning down, the veteran wrath imp offered him a claw. He took it, and the veteran helped him up. They nodded to one another. It wasn’t a subordinate accepting an officer. It was more a kind of kinship, born from Boney’s onboarding process.
+
+The old warriors respected the vigor of the new. While the fresh ones understood those scars meant hardening, not weakness.
+
+Satisfied his choice was the right one, he departed for the void district. Along the way, he checked his stockpile and confirmed enough timber and stone had been gathered for a camp.
+
+Selecting Yes, Kairon initiated the ritual. A violet light bloomed in the brood district, just bright enough to be seen under the afternoon sun. He was just about to go over and watch the proceedings when he felt something. A shift. But it wasn’t coming from the ritual.
+
+He wheeled around, facing the opposite direction. Past the tower, camps, and stockpile, a new aura was descending. One entirely different from what he’d felt from his warriors.
+
+It was the ritual circle.
+
+***
+
+The demon could have used Sovereign Eye, but he didn’t want to miss this. He wanted to see it in person.
+
+Breath heaving, he hauled his body as fast as it could go, stick under claw, nearly going headfirst to the void district. He flung past several brood imps moving in the opposite direction, busy ferrying stone and timber to the ritual. He didn’t bother to wave, only dodging out of their way.
+
+Kairon had his goal set on one destination. The void.
+
+When he finally got there, he nearly threw himself past the boundary of the ritual basin. Then, calling upon the source, he stepped inside the perimeter.
+
+It was like a massive sledgehammer crashed into an invisible barrier around him. Despite his protection, he involuntarily fell to one knee.
+
+In the center of the basin, Sythara’s form was crouched down. She had both hands palm open, pressed against the stone around her. Shadowy tendrils peeled from her back, each inspecting and adjusting the scripture around her. Where they touched, the sigils slightly altered.
+
+A brilliant blue light shone in her eyes, prismatic sigils flowing along her body. Two that looked similar to a pentagon were spinning in opposite directions, one on either wrist.
+
+Kairon had watched some of her work with Sovereign Eye before, but it had been slow and methodical. This was far more interesting.
+
+Walking closer, he finally understood the point of the basin. The panels on its side could be twisted and altered, while allowing glowing lines to be carved into them at touch. His demoness was putting the final touches on… a brand. That’s what it had to be.
+
+“It speaks, child. It speaks,” she whispered. Her voice was raspy, smile manic. She didn’t even look up. Only continued feverishly adjusting the letters. From her movements, Kairon was fairly certain Sythara had no idea just what it was that she was writing. It was communion. The Plane spoke, and she listened.
+
+Walking stick planted on the edge of the depression, he cocked his head, peering downwards with a new perspective. It looked as if someone had taken the harsh, violent lines of a demonic symbol and made it far, far more complex. Like taking a few walls, and turning them into a maze.
+
+He was about to ask for clarification when there was a click, the last panel being pressed into place. All at once, the whispers, emotions, and presence bouncing off his source barrier paused. A notification appeared in his vision:
+
+Sixty-five percent. Kairon had no frame of reference for if that was actually good, nor how it impacted his options. “Sythara? Is sixty-five percent comprehension good?”
+
+No reply.
+
+“Sythara?” The demoness was collapsed, tendrils limp, chest slowly falling and rising. “Nevermind. You can rest.”
+
+Sighing, he went to the options. Which to choose…
+
+There was no text. No pop-ups. No pictures. But, when he focused, there were feelings. Feelings he could use to potentially parse out what his brand might give.
+
+Root felt… earthy. In his mind, he heard the sounds of running water. The digging of dirt. And a yawning, vast deepness. Something to do with farming? Water?
+
+Hearth felt of home. Of protection. Of warmth and shelter. He heard the crackling sound of a firepit, a soft glow, and the comfort of rest. Probably a proper home?
+
+Vein was the most abstract. It took him a moment to parse the feeling it gave. He felt… stretching. Like pushing his claws through an endless bucket of straw. But that wasn’t right. It was more like… walking. Walking! That was it. Travel. Trekking. Movement. So it probably meant roadways and pathways.
+
+All the while, he felt a connection worming at his brain. Slowly, it was dissipating. I only have a few minutes to choose. I can’t wait for Sythara to wake.
+
+He wheeled through the choices.
+
+Roadways would be incredibly useful, and if his settlement wasn’t on a timer, he’d be tempted. But as it was, they could make do without them. It would become far more important as the treeline continued to recede and the two riverbeds nearest his settlement were picked clean. So that was out.
+
+Which left Hearth and Root. Root fascinated him. He felt there was still an entire world to be explored, from resources, geology, and more all beneath their city. Not to mention water. Kairon had some interesting ideas for hydro-power.
+
+But as things stood, population was the biggest issue. The demonic plane didn’t design his city to withstand spawning eleven imps from one building before it even made its third ring. If this upgrade allowed him to make shelters in the same building slot that could house more imps, it solved three problems at once.
+
+The first two were obvious. First, efficient use of building slots and population capacity. He already had used more than half the brood district, with void soon to follow. On housing. Not true infrastructure.
+
+But it also solved a third, more subtle need. His thoughts went back to the regulatory code. The plane’s stringent requirements on demonic housing. It would be far easier to argue code adherence with proper residences. Not the shabby camp bunks he offered now.
+
+Plus, wouldn’t that give a morale boost to fervor?
+
+Mind made up, he chose Hearth. Later, he hoped Sythara may be able to parse out the mysteries of the plane, and once again give him access to Root and Vein.

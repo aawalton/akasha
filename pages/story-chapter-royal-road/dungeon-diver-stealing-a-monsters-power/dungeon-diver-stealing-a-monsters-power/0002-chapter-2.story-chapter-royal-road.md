@@ -1,0 +1,283 @@
+---
+id: ad391b72-4cd4-5aeb-b0ce-49f77aa6bdec
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2"
+slug: 0002-chapter-2
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 2
+ownLength: 2160
+unit: words
+ownProgress: 2160
+publishedAt: 2023-02-05
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1106373/chapter-2"
+royalRoadId: "1106373"
+markedReadAt: "2026-06-29T20:31:50.766Z"
+---
+
+About 500 meters from the starter dungeon is a village market. It's where hunters can buy and sell item drops.
+
+I walked up to an older looking man and asked if he'd buy my mana crystals. The going price is about 1 bronze coin per unit of mana energy. Goblin crystals coincidentally have about 1 unit of mana in them.
+
+The man took my two crystals and threw them on a small silver dish connected to a machine by the cash register. Black letters on the blue screen read "2.1MU" he handed me two bronze coins and asked for my hunters card.
+
+"I don't have one yet, I was awakened today."
+
+"Oh alright, it's not going to be problem with this quantity of mana but you should stop by the hunters association and get a card before diving back into the dungeon."
+
+"You're right sir, thank you!"
+
+With my 2 newly earned bronze coins I half skipped my way back to my apartment.
+
+Right on the corner less than 50 meters from my home is a bakery. I decided to buy myself a cake to celebrate. When I finally got back, I ate the whole thing within a few hours.
+
+With a full stomach and the added fatigued of fighting my first monster today I drifted off to sleep dreaming of my adventures to come.
+
+The next morning I took the first train straight to the hunters association. As I watched the houses fly by out the window I opened up my status and saw that my HP had fully recovered overnight as well as the slash on my arm. I smiled and just stared at my status the whole trip.
+
+[Status Open]
+
+_____________________
+
+Name: Jay Soju
+
+Level: 2
+
+Hp: 15/15
+
+Mp: 15/15
+
+Strength: 12
+
+Speed: 13
+
+Agility: 15
+
+Defense: 12
+
+Mental Strength: 12
+
+Skills:
+
+Absorption
+
+Items Equipped:
+
+Iron Dagger
+
+_____________________
+
+When I walked inside a middle aged women with long black hair and a blinding white smile greeted me.
+
+"Hi welcome to the hunters association, how can we help you today?"
+
+"U-Uhh I need to register. I was awakened yesterday."
+
+"Alright perfect come this way."
+
+I followed her to a small booth area where she immediately said "smile" and took my picture. She said asked me to open my status so I  showed her. She glanced at it quickly and wrote my name followed by my level in a notepad with many other names in it.
+
+"Alright, thank you for coming in today. Please wait 5 minutes for me."
+
+"Okay."
+
+She went into a back room for a few minutes. I waited patiently. The woman came back out with that same blinding white smile on her face and gave me a small card.
+
+It looked just like a driver's license. It had my name, my picture, the association's logo, and a large letter "E" on the top right side of the card.
+
+There is a class system for hunters. Once you're awakened you are automatically given the "E Class" appraisal. It's the most basic hunters ID you can acquire. I looked at it bright eyed.
+
+"Thank you very much!"
+
+"My pleasure, have a nice day sir. You're welcome to come back anytime."
+
+I walked out the front door and took the train straight to "Alpine Square Park" , the stop right in front of the Alpine Square Dungeon. I got off the train and made my way over to the glowing blue portal. I muttered to myself.
+
+"It's time."
+
+I jumped through the portal and found myself in the very familiar grassland. I trekked forward full of confidence with my dagger drawn. I came across a goblin within minutes of my march.
+
+It was a quick battle. The monster came at me but I'm much faster and agile than I was in my last battle. I swiftly slashed and dodged, then on its second charge I did it again.
+
+"Easy, bring it on"
+
+I waited about a minute and a half catching my breath while waiting for the mana crystal to appear. I grabbed the crystal and shoved it in my back pocket. By then I heard another goblin sound 20 meters to my left. I sprinted over and saw two goblins together looking up at me.
+
+One charged forward making it much easier to focus on that one first. I sprinted straight as well, taking it down in two swift strikes. The second had begun its charge just like the first. Again, an easy victory. These goblins aren't the brightest are they...?
+
+[Level Up]_____________________
+
+Name: Jay Soju
+
+Level: 3
+
+Hp: 20/20
+
+Mp: 20/20
+
+Strength: 15
+
+Speed: 16
+
+Agility: 18
+
+Defense: 14
+
+Mental Strength: 15
+
+Skills:
+
+Absorption
+
+Items Equipped:
+
+Iron Dagger
+
+_____________________
+
+Although my health was full, my body isn't used to this kind of battle situation. So after just 3 goblins I've become pretty fatigued. I decided to make my way back to the portal before I venture in too far. On my way back I confronted one more goblin, but it was not a problem. In two slashes the pest was taken care of, but I was definitely nearing my limit.
+
+I made it out and decided to go to the market to sell my mana and eat something. After about an hour I was feeling a bit better. I was able to go back in the dungeon and defeat 3 more goblins. I didn't level up again, but I gained a lot of experience towards my future levels and fighting in the field. I got home that day and sprawled out on my bed in exhaustion. I didn't realize hunting was so tiring.
+
+I decided my goal for tomorrow as I drifted off into blissful sleep. I need to figure out how to use my skill.
+
+The next morning I woke up feeling as good as new. I also just remembered rent on my apartment is due in a week and a half. I either have to pay rent here or find a new place to live. It may not be a bad idea to find a place closer to the dungeon. It takes me almost an hour to walk there. I'll make sure to take a look around when I have the time. Today I'm focusing on my skill.
+
+When I finally made my way to the Alpine Square Dungeon entrance I took a deep breath and dove in for my second day of solo exploring.
+
+I took it easy at first, defeating 2 goblins pretty quickly as a warm up. Then again, I heard the voice ring in my head.
+
+[Level Up]_____________________
+
+Name: Jay Soju
+
+Level: 4
+
+Hp: 25/25
+
+Mp: 25/25
+
+Strength: 17
+
+Speed: 18
+
+Agility: 21
+
+Defense: 16
+
+Mental Strength: 17
+
+Skills:
+
+Absorption
+
+Items Equipped:
+
+Iron Dagger
+
+_____________________
+
+I noticed that certain stats have been leveling up at different rates. They have been growing about 2-3 points per level.  It seems fighting just goblins will make it harder and harder to level up because it takes much more experience each time.
+
+While deep in thought I decided to do a little test. The next goblin that appeared came charging towards me, I let it cut my arm. My HP fell to 23/25. I wanted to see if while fighting this goblin I could use my skill to absorb HP for myself.
+
+I locked my eyes on the goblin and tried to use my skill. Repeating "absorption" in my mind over and over.
+
+I have gone to many events where famous hunters explain their skills, this is how they all say they use them. So it must be the same for me.
+
+Nothing happened. I tried over and over, dodging attacks and repeating "absorption" again and again in my mind until I just started yelling it out loud too. I tried making contact with the goblin as well, I thought maybe I needed to be touching the target to absorb HP. Again, nothing.
+
+Lastly, I repeated my skills name as I slashed the goblin 2 times. Nothing. My HP was still at 23/25, and my MP was staying still at 25/25. I was beginning to get a little tired and pretty annoyed. I made my way back to the dungeon exit gate and fought 2 more goblins trying all kinds of possible variations. Still, no luck.
+
+I stepped out of the gate with 5 goblin mana crystals and all of a sudden realized what the problem may be... I said in a hushed voice.
+
+"What if it's MP absorption..?"
+
+As it dawned on me I was pretty disappointed, but it also wasn't the end of the world.
+
+MP is used up when a skill is used. If my skill is for MP absorption it can only be used when my MP isn't full. The only way to deplete my MP is to use a skill.... So there lies my problem. I basically don't have a skill.
+
+I slowly walked to the village center and cashed in my 5 mana crystals for 5 bronze coins. I bought a big sandwich at one of the local shops to replenish some energy and really think about my situation.
+
+When people are awakened about half of them receive a skill(1/2 people). Some of the most common skills are body hardening, swordsmanship, and Speed Boosts. These are all basic traits that will boost a stat or help in combat. There are also rare skills like healing magic, HP/MP recovery, and various types of combat magic(fire,water,wind,earth,ice,ect...). These rare skills awaken in about 1/20 people.Then there are unique skills, it's rather rare but not impossible. About 1/1000 people have a unique skill, one that has never been reported before.
+
+There have also been cases of hunters having more than one skill. About 1/100 hunters have 2 skills. Having 2 skills is rare, but not to unheard of in the hunting community. Usually hunters with 2 skills rise up through the ranks much quicker, so a higher percent of the top hunters have 2 skills. It's rumored that a hunter could have more than 2, but there's nobody in the public eye with 3 or more skills so It's still just a rumor.
+
+My skill would have been perfect if I had a good second skill. I could replenish my MP and use another skill unlimited times. What a waste.
+
+I decided to do a bit more testing the second half of the day but had no luck. I defeated 5 more goblins and stayed at level 4. I traded my 5 mana for bronze coins and walked home. I was kind of bummed out that my skill was a bust but there's nothing I can do about it.
+
+I just have to level up and get stronger. For the rest of the week I dove into the dungeon every day. After 7 days straight of grinding goblins I was able to level up 4 more times.
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]_____________________
+
+Name: Jay Soju
+
+Level: 8
+
+Hp: 45/45
+
+Mp: 45/45
+
+Strength: 26
+
+Speed: 29
+
+Agility: 33
+
+Defense: 24
+
+Mental Strength: 25
+
+Skills:
+
+Absorption
+
+Items Equipped:
+
+Iron Dagger
+
+_____________________
+
+That last level up took me over 25 goblins to achieve. I am definitely getting stronger, and I'm able to stay in the dungeon to fight for much longer as well. I can defeat most goblins in 1 slash, but it's getting harder and harder to level up each time. Also my walk to and from the dungeon every morning and night is really starting to get to be a hassle. I think it's a good idea to move in to an apartment closer to the dungeon and the village center.
+
+Over the next week I continued hunting everyday and moved into a new apartment managed by an old man named Mr. Winser. He seemed nice, but for some reason was never in a good mood. Rent here is 2 silver coins a month. If I hunt and and save about 7 bronze coins a day(210 in 30 days), everything over that will be profit. It's a bit more pricey than my old place, but it's definitely worth it. I can easily survive on 5-10 bronze a day for meals, I just hope I don't need much new gear. If I can make 15-20 bronze a day on average I should be fine.
+
+Now that I live close to the dungeon life is a bit easier, but my level has only gone up by 2 during this full week of hunting.
+
+[Open Status]_____________________
+
+Name: Jay Soju
+
+Level: 10
+
+Hp: 55/55
+
+Mp: 55/55
+
+Strength: 31
+
+Speed: 34
+
+Agility: 38
+
+Defense: 29
+
+Mental Strength: 30
+
+Skills:
+
+Absorption
+
+Items Equipped:
+
+Iron Dagger
+
+_____________________
+
+I finally hit double digits. I'm happy but also a bit concerned. It took well over 100 goblins for me to level up 2 times. Goblins are a good source of money, but I won't be getting much stronger while fighting them anymore. I have to find a new strategy.

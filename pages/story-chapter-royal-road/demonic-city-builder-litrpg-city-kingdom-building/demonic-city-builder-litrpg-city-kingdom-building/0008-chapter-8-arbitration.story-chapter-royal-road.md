@@ -1,0 +1,261 @@
+---
+id: bfaa1bc5-ece3-54dd-8fe7-3744e4446f68
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8 - Arbitration"
+slug: 0008-chapter-8-arbitration
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 8
+ownLength: 4015
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3423600/chapter-8-arbitration"
+royalRoadId: "3423600"
+---
+
+Kairon studied the monstrous demon in front of him, looking up to meet their eyes. This could be... problematic.
+
+"Greetings, my faithful... servant?" he asked carefully.
+
+Vorathrex made a deep, throaty noise that was probably meant to be laughter. Instead what came out was something much less hospitable.
+
+"Is that what you think, fledgling demon? Do you really think that you can just call a demonic form such as I from the other side, and bind me with a pact? That I am now a slave to your will, and your will alone?" He snorted, shaking his head. This time, a booming laugh did come, echoing in waves off the stone chamber.
+
+Fear and stubbornness intermingled in Kairon's mind. He spoke loud and firm, cutting through the laughter.
+
+"Actually, yes. That is precisely what I think. The prompt said that we have a pact, and I doubt such a thing would have been done only to summon you to come here and cause a mess of all my hard work."
+
+Vorathrex took three large steps, each causing the ground to tremble until he was looming right in front of Kairon. "I am Vorathrex, the Consumer. Do you know what that means, little demon?"
+
+For his part, Kairon only shrugged. "If I had to guess, it probably means that you cause a heap of trouble wherever you go. But if I had to be so bold, I'm willing to bet that said trouble tends to be had in the demonic plane."
+
+In fact, the more Kairon thought about it, the more sure he became that this Vorathrex, as he was called, probably never had actually been to a non-demonic realm. The more he saw of it, the more he got the feeling it was a one-way trip. Which meant...
+
+Kairon, Sovereign Eye reactivating on instinct, was flying through his interface searching for... Ah! There it is.
+
+Pact Contract - Vorathrex.
+
+With practiced movements, he sifted through the simple text. Less than ten parchment pages' worth, by his estimate. It took the clerk less than a minute to read and parse. Like a sponge, everything was absorbed, sorted, and noted.
+
+One particular clause caught his eye.
+
+This could work. It assumes that Vorathrex doesn't want to return to the demonic plane, but worst case I'm rid of a problem. Best case, I gain his allegiance. Maybe.
+
+Kairon was just about to break the connection and speak with Vorathrex when he got to the final page. There was a footnote there that... Oh my. Could I do that? Is that... Would I?
+
+He read it twice, then a third time, before a small smile slipped over his face. One with a mix of sadness and certainty. A pang of genuine sorrow at what it would cost, but a certainty that he would pay it. He'd been running simulations for how the next weeks might go, and even if Vorathrex joined his side, that might not be enough. This could solve everything.
+
+Almost as fast as the smile had touched his face, it was gone. If you looked closely, very closely, Kairon still had something quieter. Something for later, hidden in that expression.
+
+When he deactivated the connection, he found Vorathrex had seemingly ambled out into the clearing proper. He was eyeing the tiny imps, an unimpressed look on his face. Cocking his head, he just stood there.
+
+Biting his lip, the city lord called up Sovereign Eye and ordered one of the imps to sprint at Vorathrex. This time, there was a small resistance to the order. For a moment, Kairon considered letting that resistance win, and using that as a sort of mental justification to stop his plans. He didn't. This might cost him one imp, but it could very well save the rest. And, most importantly, it was not a waste. It was an investment, and one he was willing to spend.
+
+Mercilessly, he crushed the resistance on the order. Without delay, the connection forced the imp to do as it was bid. It leapt forward, tiny legs whirling and fangs snarling.
+
+Kairon watched on, his expression set. Vorathrex's eyes widened, and his stance changed from boredom to aggression. When the imp reached him and sank its fangs into the fleshy bit of the larger demon's ankle, Vorathrex roared with fury.
+
+Events were in motion now. No going back.
+
+"Vorathrex, I am ordering you to stop." The voice was Kairon's own, but it carried a weight to it. One that he hadn't needed to use with the imps. Vorathrex halted with a frown, imp chewing furiously at his gigantic leg. The crimson demon glowered at the city lord, then smirked and continued on. "No," came the throaty reply.
+
+With one swift motion, he wrapped two meaty hands over the tiny imp and picked it up.
+
+Kairon's voice was calm, but firm. "Vorathrex, stop what you are doing and look at me."
+
+"NO." This time the reply was shouted, and without a moment's hesitation the massive form squeezed. Like popping a grape, the poor imp in his grip simply became mush. Orange blood and viscera cascaded, half gushing upwards and the other half slopping to the ground.
+
+Shiny stood at the front of the other imps, eyes locked on in horror. Even as far away as he was, some of the orange blood had spattered across his face. None of the imps screamed or ran or attacked. They made a noise Kairon hadn't heard before. A low, primal sound that came from somewhere deep within, a place Kairon suspected imps shouldn't have.
+
+Despite the set of his jaw, a pang shot in Kairon's heart. While he could accept death, he had come to like his little hard-working imps. They had bled and worked tirelessly for him.
+
+The city lord's eyes hardened. Thank you, my small friend. You paid a price that I will gladly ensure does not go to waste. I will spend your life well. I swear it.
+
+Kairon let just enough show on his face. Enough to communicate that he felt the loss, and to show rage at what Vorathrex had done.
+
+"If not my servant, you will at least work with me. And you will not destroy city property or hurt members of this populace."
+
+This got the massive red monster to pause. He wiped his bloody hands on the hellscape sand below, rubbing them together to get the worst of the guts and blood off.
+
+"Is that so? Why do you think that?" His tone was one of amusement.
+
+"Three reasons. First," Kairon held up one claw, "our interests here are aligned. I have a demonic settlement that can grow and connect with the..." The city lord thought back to the way the ritual had forced a tear in space between this world and another, and the specific words Vorathrex had used. "The other side as you called it. If you destroy me or this city, you lose access to that."
+
+A second claw rose on Kairon's hand. "Two, there is much here to consume besides us. Humans. Even now, they approach us to destroy more of our own kind." Kairon gestured at himself and the cowering imps that had gathered into a huddle off to his left.
+
+That still wasn't enough. Vorathrex did the equivalent of a shrug, and began to turn towards another imp.
+
+"Vorathrex, as city lord of this settlement, I order you to stop."
+
+"NO." Again, the third rejection.
+
+Kairon grinned, his own fangs showing their wicked length as his third claw rose up. "Third. I invoke the clause of threes."
+
+"The clause of wha---?" Vorathrex was cut off as an unseen force bound him exactly in place, an orange hue of demonic power humming to life around him. The great demon's eyes bulged, and he flexed all six arms, pressing hard against his invisible foe.
+
+Calmly, the lithe, black-scaled demon approached him. Each step he took, Vorathrex could make out the satisfied glint in those beady little eyes just a little better.
+
+"As section seven of our pact indicates, any demon withholdant to this pact that refuses direct commands from their pact holder three times in tandem is in breach of their agreement. This gives the pact holder, that's me by the way, the right to invoke dissolution. Do you know what dissolution means, Vorathrex, The Consumer and murderer of one of my own?"
+
+The city lord continued onwards until he was close enough to place one of his razor-sharp claws on one of Vorathrex's hulking biceps.
+
+"It means that at any time, I now have the ability to dissolve our little pact. And I assure you, as someone that read every word of the fine print, the moment I do that your connection to this realm will be torn asunder and your soul will be transitioned back to the demonic plane."
+
+"So you have precisely one minute to convince me not to invoke my dissolution rights."
+
+Vorathrex bared his teeth, chest heaving. An instinctive part of the demon felt the pact, and the overbearing power Kairon now held to end it. "You... You..."
+
+"I understand this is hard for you," continued Kairon. He spoke in a soothing, calming tone. "Truly, I do. But I have no choice, and frankly I don't feel bad for you after what you did to our imp. So here are your options. Option one. I dissolve your contract and send you back to the demonic plane. Option two. You agree to become an ally of this settlement. You will assume responsibilities that I see fit in relation to what you are good at. Fighting. You will train, advise, and work with the city. And, most importantly, you will not attack any of the populace nor will you in any way impair the settlement's growth."
+
+A hissing breath was let out. "Fledgling... You hide behind words and bindings? My clan would see you as weak. Far weaker than even our newest offspring. This is not the way of things. Strength beyond all is."
+
+Kairon cocked his head. "Your clan isn't here with you, Vorathrex. You have a new clan now, in a way. I also find it quite odd that I only had a singular option, that being you, for forming a pact with. I get the distinct impression that your kind doesn't see this as an honor. Which makes me think your homecoming won't be too favorable. How that stay goes is up to you."
+
+Vorathrex sneered, and something shifted behind those orange eyes. "They put me where things go that are no longer wanted. Here."
+
+"As I said. It is up to you what you make of that. Well. It is up to you for the next fifteen seconds."
+
+"If my clan had witnessed what you had done..." The massive, muscle-bound form shuddered with newfound anger. "There wouldn't be a pit deep enough in all of the demonic lands to throw you in," he spat.
+
+"It does seem the worlds we both live in are very different. I see it is up to me to educate you on my own. Last chance. What is your decision?"
+
+A long, silent pause. Kairon was beginning to think he really would have to send the fool back, before the massive frame of Vorathrex tightened and he grated out his reply. "Very well. I agree, fledgling."
+
+Kairon clapped. "Splendid! Oh. And one more thing. I'll be honest. Moving past this," Kairon gestured at the blood-spattered remains of one of his hunting imps, "is not as simple as you might wish. I will hold a debt from you, Vorathrex. And believe me. I always balance my debts."
+
+"Moving past this? Fledgling, you've tricked me with weakness, not strength. In what hellish world would I ever move past this?" The reply wasn't shouted this time, but it was spoken with a healthy dose of venom.
+
+"One where you want more freedom than you perhaps had in the demonic planes. Who knows. Maybe you'll come to like this place." Kairon dangled that carrot gently.
+
+"To grow, and to consume. That is what I like." The giant simply stared in silence.
+
+"I see. I think it best we part for tonight. Tomorrow, we will speak more."
+
+No reply came. The giant simply stood, turned, and stomped off towards the western side of the clearing.
+
+The rest of the night was somber. It took Kairon an hour to calm down the imps and talk sense into each of them. They clearly weren't thrilled at Vorathrex's company, but there was nothing they could really do about it.
+
+Before bed, they dug a small grave for the lost worker and buried what remained of him. It was a grisly affair, but one Kairon saw as important. Part of him just liked the little gremlins, and felt right honoring their dead. But... He'd be lying if he said that was his true motivation.
+
+Shiny was the last to leave the grave that night. He lingered near it, impish claws touching the stone. Something had changed in his eyes, and Kairon wasn't sure what to make of it.
+
+Stay strong, my friend. Better times are coming, I promise you.
+
+For himself, the burial was more a symbolic way to show his hatred for the waste of life. Kairon was certain this would be far from the last of his demonic creatures to fall, but he promised himself he had not allowed, and never would allow, a single demon or imp to die for a wasteful reason. Every demon he buried would have a purpose, be it in this plane, or the next.
+
+And under it all was a buried thought. One that eagerly awaited getting a return on tonight's investment. These things could coexist together. It just muddied the waters a bit.
+
+The next morning came early.
+
+"After last night's loss," he began, imps gathered around, "I've decided we will be moving one imp from hauling duty to the hunting squad. Shiny, that means you'll be an imp short for hauling. To that end, I will be helping you myself when I can. Otherwise, you'll need to do your best."
+
+He was relieved to see that Shiny did nod, proof that last night hadn't ruined his work ethic.
+
+"Good. Hunters, you're free to go. Timber crew, the morning is off from work detail. Instead, you'll be helping me prepare the ritual for the spawning grounds."
+
+Once the hunting party had wandered off into the treeline, Kairon began issuing orders for the ritual. Like last time, he had to initialize the proceedings through Sovereign Eye.
+
+One benefit of this rush strategy was that he still held both his universal building slots in reserve for other constructions. They can go in any district, which means I don't need a second ring to keep building. But they're also the last freebies I'll get. I need to choose carefully.
+
+After confirming all was in order and selecting yes, he had the option of three different premade circle overlays in the new black stone ring of his settlement. Since this was a military building, at least as far as his city was concerned, he selected the circle closest to where the humans disappeared on the south side of the ring.
+
+Of the fifty meter stone foundation, only the first ten meters were filled in with the wrath district. In the morning light, he could now see the black stone in this ring was tinted crimson red.
+
+The following ritual was much less impressive than last night's.
+
+All required materials were taken to the circle by the imps, leaving him with 100 gold and 4 timber in reserve. This time, the ritual and chanting were around a smaller circle and lasted only a minute.
+
+When it finished, a blinding tear of purple light once again sliced through space. Small as it was, the feeling of wrongness and ancient demonic energy was still unmistakable. As Kairon gazed on, even Vorathrex padded over to join and witness the summoning, all six of his arms crossed tightly.
+
+That's curious.
+
+Vorathrex was inching closer to the edge of the circle, scripture blazing. The big demon was studying the script, head tilted. He started to reach out with one hand toward a symbol before catching himself and pulling back.
+
+Does the big guy know something? Or maybe he just feels something like me?
+
+Various violet rocks with that same dizzying orange demonic scripture rose from the ground. When they finished, two circles spanning five and then ten meters across filled the space inside where the ritual circle had marked out.
+
+"Is what you said earlier true? About humans coming here?" asked Vorathrex.
+
+Kairon looked to his right, making eye contact with the larger demon. "It is."
+
+Vorathrex let out a satisfied grunt. "Then that," he said, pointing with one of his big meaty hands, "is going to come in handy."
+
+Kairon arched an eyebrow. "You care now, huh?"
+
+"I am to train and fight. So yes. I do."
+
+"Mhmm," replied the city lord noncommittally. Bending down, he crouched beside one of the newly risen spawning ground stones and studied the characters.
+
+I recognize those two symbols... The same sequence. He pulled up his memory of the ritual circle from last night and nodded shortly. I'm sure of it. After I deal with this big oaf, I need to find something to sketch with. Perhaps a sharp stone and some bark would do. I now have three different demonic circles, with remaining scripture. Enough to start connecting and cross-referencing.
+
+Dusting off his scales, he rose. Kairon immediately sent the five wood imps off for their afternoon work, Shiny in the lead. With the loss from last night, he decided that keeping the hunting squad up to four members took precedence.
+
+Maybe I should speak with the little guy soon. After he's had a little more time to process the loss. Kairon wasn't certain the imps truly understood more than fear, hunger, and orders. Shiny seemed to, but the others. He shook his head. Later.
+
+Once the spawning grounds had fully risen from the tear in space, the purple light blinked out of existence.
+
+Suspecting what he needed to do next, Kairon placed one claw against the cold stone of the new building. Immediately, a notification appeared:
+
+"It seems we only have a single option. Wrath imps. Have you seen those before?" Vorathrex was still standing behind him. If someone would know of it, it'd be him.
+
+Without waiting, Kairon went ahead and selected the spawn choice. Free was free. A countdown timer began, and in the middle of the circle, a faint purple light began to pulse.
+
+"Yes. They are weak, but so are humans," replied Vorathrex.
+
+Kairon nodded. "I have already begun the process. Interesting, that spawning these doesn't require a cost. I figured we might have to pay a measure of coin for them."
+
+Vorathrex just stared at him carefully for a moment, before shaking his head. "Fledgling, do you know what this city is? Why does the plane grant its power?"
+
+"Actually, now that you mention it, no I really don't. The way we got here was quite... unorthodox."
+
+"The demonic plane has plans. You are only a small part." Vorathrex scratched his head. "Sometimes, it bends rules."
+
+Kairon smirked. "Isn't that what you would call weakness? Rule bending?"
+
+The big demon looked decidedly uncomfortable. "I'm not certain." He hesitated, then, mind made up, continued on. "But know the plane has desires. Its own. I do not know them. But..."
+
+"But?" prodded Kairon.
+
+"Each demon comes from the plane. When you summon something, you are invoking its power. That carries its own consequences."
+
+The city lord turned this over in his head, reflecting on the warning. And despite last night's unfortunate events, Kairon was actually enjoying his company. It was, after all, the most complex conversation he'd had in a while.
+
+Kairon rubbed his claws together. "That's... quite a lot to unpack. And frankly, I hope we're here long enough for you to tell me all about it. But for now, we've spent over two weeks before you got here just gathering the resources it took to get this far." He paused, making sure Vorathrex was following along, before continuing. "I don't have any intelligence confirming this, mind you, but I'm pretty sure we have less than four weeks at best until we are attacked by a large group of humans. I really don't know how many. I suspect at least fifty. Maybe a hundred. I don't know."
+
+Vorathrex simply grunted, something Kairon was coming to understand was his norm.
+
+"I am going to make you my provincial councilor of War. In reality, that title doesn't mean anything. But in the future, it may. What this means is that I'd like you to make good on your agreement from yesterday. With wrath imps being spawned soon, you will see to their training. And, with the potential attack coming, advise me on matters of military."
+
+"Does this mean I can consume the humans?"
+
+"If by consume you mean fight, yes. Assuming they are here for war. If they come in peace, you may not. Is that clear?"
+
+"You would make peace with humans?" Vorathrex nearly spat the words.
+
+"I..." Kairon paused, considering how to best phrase his reply in a way his new military leader might understand, "would consider it if they prove their strength and if they can make us better for it."
+
+The orange eyes staring at him glinted. "You are learning, I see. Strength is good."
+
+Kairon gestured quickly. "Yes, well. I do try." The city lord sighed, taking a seat and leaning up against one of the large rocks from the spawning circle. The cold stone felt nice under the morning sun.
+
+He thought about the current situation. Especially as it related to food. If they had maybe four weeks, the circle could spawn around thirty wrath imps. Assuming he could find a way to feed them all, build a camp to increase the population limit, and not lose any during that time.
+
+If they had the materials and food, that number could actually be substantially bigger with a second or even third spawning grounds. But that leaves gold. Everything always comes back to gold. With only 100 gold left, that was enough for two universal buildings or a single district one.
+
+"Vorathrex..." Kairon began, waving his claw. "Tell me, what exactly do you want? Other than squashing me and my imps, of course. Is all you truly desire to consume?"
+
+"Mmfh. No. Consuming is good. But worthy foes are what truly makes my blood boil."
+
+"Oh now, that I might be able to help you with. My imps were injured recently in the northern forest by a great beast. Something attacked them, and I haven't been able to get what out of them. Even when I try ordering them to tell me, I get nothing. Maybe you could find what you seek there?"
+
+And if it's what I'm hoping, buy us some more time with our food shortage. I could ask the big guy to go hunting directly, but I get the feeling he'd see it as some kind of slight.
+
+"Could you handle whatever it is? I don't think any of the imps are able to."
+
+The big oaf's nostrils flared as he breathed in, sniffing the air. "Nothing I smell is beyond me. I will seek out this beast. If it is a worthy opponent, I will hunt."
+
+Kairon hummed thoughtfully and nodded. "Good. Why don't we start meeting each morning to catch up. Call it a council meeting." By the time that's done, we should have some wrath imps for him to train.
+
+Vorathrex huffed, which Kairon took as a new type of grunt, and walked off. Presumably to get started right away.
+
+The city lord watched, eyes narrowing at the back of the bulky form plodding off to the north. This investment is already paying dividends. Soon, though. I aim to have the full repayment.

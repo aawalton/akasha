@@ -1,0 +1,405 @@
+---
+id: 5d228328-02aa-52e7-8a8a-97253e58132a
+page-type-slug: story-chapter-royal-road
+title: "252: Inconceivable"
+slug: 0252-252-inconceivable
+partOf: delve
+position: 252
+ownLength: 4489
+unit: words
+publishedAt: 2023-11-26
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1422531/252-inconceivable"
+royalRoadId: "1422531"
+---
+
+Ameliah found Corrin and Clubbs aboard Temerity—the finding proving more difficult than she’d grown used to. Being without Detection was worse than being blind.
+
+The Hydromancer-Geomancer pair had set up a table on the foredeck and were playing Ranks as they waited for her. Neither looked up at her approach, and a quick scan of the board revealed why. Things had come to a head.
+
+Tentatively, Corrin reached and took a piece. Clubbs immediately responded, not by moving a piece but by extending a hand over the board.
+
+“Nice try.”
+
+“Hang on a minute, I—“
+
+“The Mage.”
+
+“Where? If I took...then you’d... Oh. You bastard.”
+
+“Starting with just one was a good challenge,” Clubbs said as Corrin begrudgingly shook his hand. “I’ll start without both next time.”
+
+“It won’t matter,” Corrin said with a sigh. He looked forlornly up at Ameliah. “He cheats, yeah?”
+
+“I wouldn’t call it cheating,” Ameliah said, smiling. “Whatever it is he does, it’s certainly unfair.”
+
+“People just need to consider the repercussions,” Clubbs said, getting to his feet. “In Ranks, and in life.” He nodded to Ameliah. “Welcome back. I didn’t get to say it at the party.”
+
+“Thanks,” Ameliah said.
+
+“Okay, what’s this mission you wanted us for?” Corrin said, getting to his feet and arching his back in a stretch. “You got a job for us?”
+
+“Something else, first,” Ameliah said, reaching into a pocket of her Ascension coat. Neither Clubbs nor Corrin wore theirs, but they each had two brass rank pips pinned to their collars. “Here.” She opened her hand, revealing two pips, one for each of them. “I need you to take these.”
+
+“You’re promoting us?” Corrin asked. “You can do that?”
+
+“I’m asking you to accept promotion on Vanna’s behalf,” Ameliah said. “You could have been Entrusted from the start. I don’t know why you chose not to be, and I’m not going to ask, but I’m hoping your reasoning has changed between then and now. Ascension needs you. To be more specific, for what we’re doing today, Ascension needs to know you’re fully committed.”
+
+“And what are we doing today?” Clubbs asked, taking one of the pips and pinning it to his collar.
+
+Ameliah looked at Corrin. “Working on the canal.” She lifted her palm slightly. “I can’t explain more than that until you take this.”
+
+“Fine,” Corrin said, hesitating for one moment more before taking the pip. “I’m not against it, yeah? I was just expecting there to be a ceremony. Kal was gonna ask Vanna. He, Ron, and I all wanted to put ourselves in for it together. They can get promoted too, right?”
+
+“All they need to do is ask,” Ameliah said. “If you want a ceremony, you can ask about that too. I’m sure Vanna will accommodate. For today, I need you to uphold the responsibility you just took on. We’re doing skill training, and the skill in question could change everything. I chose you to test it because of the natural synergy between your magic. Synergy relates to what the skill does.”
+
+“Which is what, exactly?” Corrin asked.
+
+“You’ll see in a moment,” Ameliah said. “Ground rules first. The council has determined that the skill’s existence is to be concealed. We won’t be able to hide it forever, and people are going to have questions when they see it in action, but for the time being, you aren’t to answer any of those questions. If people ask, you say, ‘Entrusted only’. If Entrusted ask, you say, ‘It’s need-to-know’. The most important thing is that the knowledge doesn’t spread outside Ascension. That includes Bakal. Understood?”
+
+“Understood,” Clubbs said, Corrin likewise bobbing his head.
+
+Ameliah nodded. “Let’s head to the coast, then. I’ll explain on the way.”
+
+From Corrin:
+
+Earth Manipulation
+
+Erode 10
+
+Earthmolding 10
+
+Rockbomb 10
+
+Stonemolding 10
+
+Magical Utility
+
+Channel Mastery 10
+
+Mana Manipulation 10
+
+From Clubbs:
+
+Water Manipulation
+
+Condense 10
+
+Hydrodirection 10
+
+Internal Reservoir 10
+
+Blinding Fog 10
+
+Squid Kata 1
+
+Magical Utility
+
+Channel Mastery 10
+
+Mana Manipulation 10
+
+“How do you feel?” Ameliah asked, carefully watching the two men’s faces as she reviewed their shared skills in her mind. “Our first tests with the council caused some discomfort.”
+
+“Fine,” Clubbs said. “Queasiness is passing.”
+
+“More like vertigo,” Corrin said with a single shake of his head to clear it.
+
+“Do you need a minute?”
+
+“No, it’s fine,” Corrin said, raising a hand and pointing it at the muddy water, which rippled away from the force exerted by Hydrodirection. “Nice.”
+
+“This applies in groups of eight?” Clubbs asked, raising an eyebrow at Ameliah. “This does change everything. And it works on unawakened?”
+
+“With some caveats,” Ameliah said, drawing liquid from the damp earth to form a pair of watery tentacles encasing her arms. Squid Kata was a hidden skill, unlocked by Mana Manipulation, but not one she’d played with, as it wasn’t required for Aquifer. The first form guided her easily into shaping her new appendages, right down to the pods on the ends. “Atyl had a lot of trouble. The skill only gave him foundation-tier abilities. We’re still trying to find out why. Besides that, he’d also never used any skills before, so soulstrain set in quickly.”
+
+“That’s impressive,” Clubbs said, nodding to what Ameliah was doing. She’d started whipping her new tentacles through the movements of the first form. “Progress must be maintained across sharings. Clearly, you’ve used that before.”
+
+“Hold on a minute,” Corrin interrupted before she could tell Clubbs he was only partly correct. The Geomancer was peering at her with suspicion. “Something’s strange here. Are you holding out on us?”
+
+“Sorry?” Ameliah asked, letting the tentacles seep back into the ground. Leveling a Kata required focus, even for her. She could play later.
+
+Corrin pointed at what was obviously his interface. “You gave us Airwalk, which is tier two with prerequisites, but I don’t see them listed, yeah? What gives?”
+
+“It’s because of her class,” Clubbs said. “It allows her to swap skills. She would obviously remove those of lesser benefit after they had served their purpose—in this case, unlocking a higher-tier ability. I also suspect she has some way of altering prerequisites.”
+
+“That’s very perceptive of you,” Ameliah said, honestly a bit surprised he’d noticed. “Now that you’re Entrusted, you’re allowed to know the details of my class, but let’s stay focused. You can ask me later, and I’d like to start. Please face me and get ready to use the skills you’ve borrowed from each other.”
+
+“I can think of other groups that would be more advantageous to use this with,” Clubbs said, doing as she’d directed. “Our crafters, for example, especially if Romer were to be included. Knowledge of runes would bolster every other discipline.”
+
+“We’re starting slow,” Ameliah said, using Hydrodirection and Earthmolding in concert to lift a head-sized glob of mud from the bank. It really was easier with both. Trivial, even. Squid Kata was even murmuring at her, letting her know it would function just as well with mud as it would with water, but she wasn’t Rain, so she ignored the distraction. “The skill uses a resource you’re not well-equipped to replace, and we expect it to get worse the more skills are shared. You’re actually on better footing than most because of all the magical exercise you’ve been getting. More importantly, you’ve both learned the trick of rescheduling your daily summaries, which is vital if we’re to stress test this. Before the day’s over, I’d like to see each of you max the skills you’ve borrowed from the other.”
+
+“That’s what you call starting slow?” Corrin asked.
+
+“Yes?” Ameliah said, splitting her focus on the two skills and tearing the hovering mud ball into two—one of pure water and another of bone-dry dirt.
+
+Corrin whistled. “I’ve never managed to make earth float unsupported. It really doesn’t like it.”
+
+“It really doesn’t,” Ameliah agreed. “Now, I’m going to throw these. Your job is to deflect them with your borrowed skills. We’ll start working on the canal once you’ve got enough control to avoid sabotaging yourselves. If you start to feel soulstrain, even just a little, I need you to tell me. Remember, testing the limits is a good part of why we’re here. As we take breaks to refill your mana, I’ll fill you in on soul theory—another thing Entrusted are entitled to know. Are you ready?”
+
+“A moment,” Clubbs said, looking down at the dirt. He made a beckoning motion, achieving little more than a ripple on the surface of the mud. “I’d like to get a feel for it first.”
+
+“I’m not going to throw them hard,” Ameliah said, smiling sweetly. “Or even at you, really.”
+
+Yet.
+
+The skeptical looks this got her told her she hadn’t fooled anyone.
+
+Progress Report
+
+marker_1: just_two_weeks... [3061 First Harvest 21 12:00]
+
+marker_2: there_and_back_again [3061 Second Harvest 08 08:00]
+
+Span: 18.8 days
+
+Essence
+
+Intake Capacity: 116 MESS/s -> 3.76 GESS/s
+
+Generation: 7.25 MESS/day -> 186 MESS/day
+
+Upkeep: ~0 MESS/day -> ~174 MESS/day
+
+Refinement Capacity: 16.8 MESS/s -> 1.07 GESS/s
+
+Chaos: 1 GESS -> 1 GESS
+
+Potential: 134 GESS -> 159 GESS
+
+Soul: 111 GESS -> 1.39 TESS
+
+Rain stared, transfixed, absently keeping hold of the metal case tucked under his arm.
+
+He was having a revelation.
+
+It wasn’t anything about the essence figures. The upkeep cost of his pressurized soul on the surface was much higher than expected, but he’d come to terms with that already, just as he’d come to terms with ‘intake capacity’ not being the same thing as actual intake. It was something much more fundamental that had caught his attention.
+
+The date.
+
+He slowed to a stop just outside the ring of ward panels. Beyond them was the reason he’d come out here—the airship—but realization had put his hitherto uncontainable excitement on complete pause.
+
+I’ve been here for over a year...
+
+He’d been so obsessed with tracking the date because of his situation that he hadn’t even thought about what it meant.
+
+He’d fallen asleep in his bedroom after midnight on June 2nd, 2019. When he’d woken up in that forest, it had been the first of Second Harvest in the 3060th year since the Majistraal’s fall. The anniversary of his arrival had come just under a week ago in Nadir. He hadn’t even noticed its passing. Or his birthday’s passing, for that matter. He’d turned 24 on March 28th, 2019—66 days before the event that had sent him here—but time was wibbly-wobbly between universes.
+
+Personal time was what counted. On the day of his transmigration, he’d been 8,832 days old, accounting for leap years. This world didn’t have those, having exactly 352 days per year—a fact he was sure came down to a long-dead demigod having gotten fed up enough to adjust the planet’s orbital period.
+
+Simple subtraction placed his birthday on the 1st of First Harvest in the year 3035. He’d turned twenty-six local years old while he and Ameliah had been staying in ThreeCore.
+
+Naturally, this led to another realization.
+
+Shit! When’s Ameliah’s birthday?!
+
+“Did you come here to stand outside?” a deep voice rumbled.
+
+“Tallheart, when’s your birthday?” Rain asked, returning to reality to see his antlered friend staring at him through a gap in the panels.
+
+“The third of Frostfall,” Tallheart replied without a blink, utterly unfazed by the random question. “You did not get me anything.”
+
+“Oh, stop,” Rain said. “I’ll make it up to you in a second. Mine’s the 1st of last month, for future reference.”
+
+“I will remember it,” Tallheart rumbled, walking out of the construction yard to join him. “Congratulations on your advanced age. I know you like it when numbers go up.”
+
+“I’m twenty-six, thank you,” Rain said. “That’s hardly advanced. And what are you, like, fifty?”
+
+“Twenty-eight,” Tallheart replied with amusement. “Cervidians age as humans do. You know this. Do not pretend otherwise.”
+
+“I don’t suppose you know Ameliah’s birthday?” Rain asked, his hopes not high. “Or Jamus’s?”
+
+Tallheart froze. “I do not. I have not thought to ask them.”
+
+“See?” Rain said, gesturing his vindication. “Not just me. Hold on a second. I’ll fix this.”
+
+Calling on his interface, he opened his combined master to-do list. What he saw when he filtered it for the words ‘Ameliah’ and ‘birthday’ was depressing.
+
+#todo find out what Ameliah’s birthday is
+
+#todo ask Ameliah about her birthday
+
+#todo Ameliah birthday - remember this time
+
+#todo find a way to bring up birthdays: Ameliah, Tallheart, Jamus, Carten
+
+#todo Ameliah birthday for real just ask this time it’s not that awkward you goon
+
+Five times. Five times, he’d thought of it, and five times, it had fallen off his priority list and been forgotten.
+
+Never again.
+
+Working in accelerated time, he coded up a new macro that would react to Ameliah’s proximity and forcibly remind him. He then duplicated the trigger for Jamus, Carten, and a few others. While he was at it, he set intrusive reminders for Tallheart’s birthday, Dozer’s birthday, and the anniversary of the start of his relationship with Ameliah, which he judged as the 28th of Winternight. If his Clarity-addled brain wouldn’t supply him with vital information at the appropriate times, he’d force the system to do it instead.
+
+System: Am I a joke to you?
+
+Rain suppressed a chuckle at the imagined message, coming back with no appreciable time having passed. “There, that’s handled. Anyway, here.” He held out the textbook-sized metal case. “I said I’d make it up to you, and I meant it. Take, take.”
+
+“What is this?” Tallheart said, inspecting the heavily inscribed object as Rain pushed it into his hands. “These are not runes. They are clearly intended to be, but there is no power within them. Decoration? Deception?”
+
+“Both, probably,” Rain said. He felt blind without Mana Sight, but he didn’t need it to know that there was nothing going on. “Doesn’t surprise me for a second that the Bank cheaps out on their rewards program; though, to be fair, they never claimed it was enchanted. Anyway, the case isn’t important. Open it.”
+
+“Hmm,” Tallheart rumbled, finding the latch and flipping the case open. Sunlight glinted off what was inside—neat rows of GranCrysts nestled in a black velvet insert. There were eight of each variety for a total of sixty-four.
+
+“The insert comes out,” Rain said excitedly. “There’s another layer below that that’s all GranTel.”
+
+“This is...more than I requested,” Tallheart said. For him, that tiny pause had been the equivalent of anyone else dropping the case in shock. “I thank you.”
+
+“That’s not all we brought back,” Rain said, unable to hold back his grin. “That’s Ameliah’s share and mine put together. The balance went to the company at the Entrusted mission rate. It’s mostly in base Tel and Crysts. We figured that would be better for our lower-level crafters.”
+
+“How did you collect so much?” Tallheart rumbled. “Did you find a lucrative biome?”
+
+Rain shrugged. “Not as such. Having a full team of randos with us let us kick over a few problematic monster nests that had been plaguing Nadir for years. Even splitting with our patrol mates, we still made out like bandits. Seeing essence is a great way of telling what fights you can pick and what fights will get you killed, and Detection’s great for recovering lost equipment. If you’re asking how we got the rarer varieties of Crysts, we exchanged them. One of the few things the Bank’s good for. It was expensive, but there’s also Dozer. He can make GranTel now.”
+
+“I do not believe you,” Tallheart said, closing the case with a click.
+
+“Come on, Tallheart,” Rain laughed. “Would I lie?”
+
+“If you thought it would fool me in an amusing and innocent way, yes, but that is not what I mean,” Tallheart said with a confounded rumble. “I do not believe you. The things that you do. They are absurd.”
+
+“Says the man building an airship,” Rain said.
+
+“Based upon concepts and principles that you carried here from another reality,” Tallheart countered.
+
+“I mean, fair.”
+
+“Do you wish to see it?”
+
+“Hells yes!” Rain said, clapping Tallheart on the shoulder as the two of them moved toward the gap in the panels. “So, when are you making your new armor?”
+
+“I will get to it,” Tallheart said, tucking the case under his arm as they entered the enclosed area, bringing the airship into view. “Metal remains an issue. The mining expedition we will discuss this afternoon will help.”
+
+Rain simply couldn’t reply at that moment, too awestruck by the vessel crammed in beneath the trees. It was large enough to seat a full party with room to spare, with four seats that he could see through the crystal-clear cockpit windows. The skin of the craft was aluminum, stretched over a titanium frame that Detection outlined in its geometric perfection. It was enchanted—he could feel the rune-bound essence from here. Compact wings melded smoothly into a cylindrical fuselage, and a ramp at the rear was open to reveal a glimpse of an illuminated interior. Other details—like the wheeled landing gear—paled before the impact of the two massive engines built into the wings. They were actuated, presently pointed straight up with their four-bladed props spinning slowly in the dappled light.
+
+Rain couldn’t handle it.
+
+“YOU BUILT A DAMN TILTROTOR!?”
+
+“It seemed to be the most practical design for our needs,” Tallheart rumbled in satisfaction as Staavo poked his head out of the cargo bay.
+
+“Tallheart, it was barely practical in my old world!” Rain protested. “I mean, when it works, it’s brilliant, but the complexity... How? Just how?! Does it even fly? What the filth powers it!?”
+
+“It is not only you that has made good use of their inner world,” Tallheart rumbled. “It has allowed me to iterate without consequence.”
+
+“What POWERS IT, Tallheart?” Rain demanded. “Gasoline? Jet Fuel? Methane from Myth and Reason’s Alchemical bullshit? WHAT!?”
+
+“Already got yourself in a twist, I see, Captain,” Staavo said by way of greeting as he joined them. Bluewash had joined him from somewhere, but Rain barely noticed before he was assaulted by an ear-shattering Inception bwah from his interface.
+
+Alert!
+
+Staavo Detected within birthday radius!
+
+NOT NOW, DAMN IT!
+
+“It’s powered by a core, to answer your question,” Bluewash said proudly as Rain forcibly suppressed the dialog—something that was quite difficult, as he’d just finished designing it to be unsuppressible. “Though it’s not a typical journey core, by any definition.”
+
+Rain closed his eyes, taking deep breaths. “Somebody explain before I explode.”
+
+“I kind of don’t want to now,” Staavo said. Rain opened his eyes in time to see Bluewash swat him.
+
+“A normal journey core provides the animating force,” she said, beckoning, then moving toward the open ramp to the cargo bay. Rain followed in a daze as she continued. “The subcore we got from the Breathless Wasteland—that’s the lair below us—was nowhere near powerful enough for that, but it did have another property I could use. I’ve hoodwinked it into making hydrogen, just like the lair it came from. All you need to do is feed it mana. We’re calling it a fuel core.”
+
+“The hydrogen is stored in that bottle to feed Tallheart’s miniature reactor,” Staavo supplied, pointing as they entered the cargo bay. “The fuel core can’t keep up when the reactor is at full power, and the bottle can only be so big before the hydrogen starts decaying back into mana, but the ship’s range should be effectively unlimited as long as someone silver-ish is on board to charge the runes feeding the core.”
+
+“Mmm,” Tallheart rumbled as Rain goggled at the machinery behind the cargo netting. “Without the fuel core, we would have had to squeeze Kettel in the reactor for long voyages.”
+
+“Hang on, that was your plan?” Bluewash said. “But he’s not strong enough to—oh. Oh, you were joking. Haha. Wait, were you? I guess it would work if he and Cessa both—”
+
+“It’s up through here,” Staavo said, cutting her off and leading the way up a steep stairwell. Another beside it probably led to the turret. “Now that you’re back, we can finally have a proper test.”
+
+“I’ll just watch from outside...” Bluewash said, only to yelp as Tallheart caught her by the nape of her Ascension jacket.
+
+“We need you to monitor the core.”
+
+“But—“
+
+“Rain is using Force Ward. You will be safe.”
+
+“Oh.” Bluewash swallowed heavily. “Right.”
+
+“You coming or what?” Staavo called down the stairwell.
+
+“How am I the absurd one?” Rain demanded of Tallheart, following the antlered smith up the stairs as Bluewash went to close the ramp. “Seriously, I want to know.”
+
+Tallheart didn’t answer, turning sideways to get through but managing it without too much trouble. Despite the restrictions on space, an accommodation had clearly been made for him.
+
+The room the stairs emptied into was furnished. There was a table and chairs, each bolted to the floor and fitted with a crash harness. The machinery from below continued up through the floor, the ‘miniature’ reactor not seeming very miniature at all. A number of control panels surrounded it, and it was clearly active. Rain could see the rotor turning where it protruded through the generator coil, but there was no sound, not even an electric hum.
+
+Muffle runes?
+
+Staavo was standing impatiently, tapping his artificial foot against the decking near the passage to the cockpit, but Rain could not let this lie. He pointed at the coils. “It’s only been a month!? How did you even wrap that much wire? You’d have had to do it for the engines, too, so—”
+
+“Velika is very fast,” Tallheart rumbled. He negotiated his way around the table, then passed Staavo to take the lead into the cockpit.
+
+“And very grumpy,” Staavo said, disappearing up the stairs after him. “Watch out for her, Rain,” he continued out of sight. “She wants to talk to you about something.”
+
+With his options being follow or be left behind, Rain chose to follow, entering the glass cockpit to see Tallheart already strapping himself into what was clearly the pilot’s chair. Much like on Temerity’s bridge, a console rose in front of him, festooned with various controls and glowing lights. The main difference was the pair of pedals and the flight stick.
+
+“I don’t believe this,” Rain muttered, searching around and finding a place to sit. “I’ve gone insane. I’ve gone insane. Totally granny-scrambled.”
+
+Staavo barked out a laugh, punching Tallheart in the shoulder. “Told you we’d break him.”
+
+“Mmm,” Tallheart said, flipping a switch. “Samson. Do you receive?”
+
+There was a momentary delay, then the radio crackled with Samson’s voice. “I hear you. I take it you’re ready then?”
+
+“Indeed,” Tallheart rumbled. “The captain is with us. Inconceivable requests clearance for test flight.”
+
+“Good name,” Rain muttered emphatically. He wasn’t even mad they hadn’t taken his suggestion of ‘Enterprise’.
+
+“Flight permission granted,” Samson said. “Head south. If you’re spotted, I’d rather it not be nearby. And good luck. Try not to crash.”
+
+“Received,” Tallheart rumbled, and Rain almost yelped as the whole craft jerked.
+
+Bluewash actually did yelp, her voice echoing up from the stairwell. “Just a second! Let me strap in!”
+
+“There are electric motors on the wheels, too,” Staavo said as they began to creep toward a gap in the trees that yawned onto a clearing like a hangar door. “Damn convenient, electricity. Much better than steam. Makes it almost easy to get power to where it needs to be.”
+
+“As long as you are not the one who has to wrap the wire,” Tallheart said.
+
+“That goes without saying,” Staavo said. “I’m thinking of making a machine for it.”
+
+“I literally cannot even,” Rain said.
+
+“I almost forgot,” Tallheart said, holding up a pair of goggles. As he split the band to tie them on, Rain recognized them as the pair he’d given him for the test of the first forgewagon, long, long ago. “Check beneath your seat.”
+
+Rain did, finding his own pair, and that was enough to break him out of his shock. A grin spread across his face, and he suddenly had to contend with a different problem—that of the undignified squee trying to escape his throat. By the time they rolled out into the sunlight, he was quivering in his seat harder than Dozer after a three-foot drop.
+
+“The lair’s just below this clearing,” Staavo said, having strapped on a pair of goggles of his own. “We moved the entrance. Still working on fortifications.”
+
+“Staavo, readout, please,” Tallheart said.
+
+“Pressure is steady, generator output nominal,” the old scholar replied, peering at the panel in front of him. “We’re good to go. Now, gently, you pointy-headed maniac.”
+
+“Mmm,” Tallheart rumbled. “It would not do to frighten the elderly.” He grasped what was clearly the throttle lever and began moving it forward.
+
+A vibration began to build, rattling Rain’s chair up through the floor. Reflexively, he checked the settings on Force Ward, though there was no need with how finely tuned his macros were at this point. The sound of rushing air built and built, dust swirling outside the windows in a cloud. As the speed of the rotors increased, the vibration smoothed out into a comfortable purr.
+
+“We’re still working on balancing everything,” Staavo said. ”The first full-speed tethered test nearly shook us apart.”
+
+“The balance is sufficient for now,” Tallheart said, moving the throttle further forward still. “Readout?”
+
+“Still good,” Staavo said irritably, adjusting a lever of his own. “I’m keeping pace with the generator. You do your job; I’ll do mine.”
+
+“Here we go,” Tallheart rumbled, and seconds later, Rain felt the bottom drop out of his stomach as the entire craft began to tilt.
+
+“Ahhhh!” Bluewash screamed in terror from below. “Ahhhh! Ahhhhh! Stop! Stop!”
+
+“What is it?” Staavo yelled back as Tallheart eased off the throttle. They settled back down with a lurch. “Is there a problem with the core?”
+
+There was a brief pause before Bluewash shakily answered, “It’s fine! No problem! I just... Sorry! Do it! Do it before I change my mind!”
+
+“Doing it,” Tallheart said calmly.
+
+Again, the bottom fell out of Rain’s stomach, and they lurched into the sky. The smith’s hands were a blur as he worked the controls—his confident movements telling a story of long hours spent practicing inside his soul—but despite his evident skill, they nearly clipped the canopy before they rose above it. They nearly clipped it again as he angled the rotors forward, sending them into a swooping dive, but then they began to rise, acceleration pressing Rain back into his seat.
+
+They were flying.
+
+Sure, the view from the cockpit couldn’t compare to soaring with Ameliah.
+
+Sure, the flight was bumpy as hell.
+
+Sure, they were probably going to break apart and slam into the trees at any moment...
+
+But they were flying.
+
+Rain couldn’t help it. The squee escaped.

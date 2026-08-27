@@ -1,0 +1,175 @@
+---
+id: 6750d595-7ffa-5034-b19e-dbf0befd29ec
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1: Delver"
+slug: 0001-chapter-1-delver
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 1
+ownLength: 2284
+unit: words
+publishedAt: 2026-05-23
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3434301/chapter-1-delver"
+royalRoadId: "3434301"
+---
+
+I shake my body, and do my best to ignore the cold autumn wind. Even with the sun in the sky, the temperature is cold enough to warrant the jacket that I brought with me.
+
+It’s been two days since I left Onder, and my rations are starting to run low.
+
+But I think I’ve finally found it.
+
+A brown archway leading into the earth sticks out of the ground, mostly hidden by the vines that have grown up around it. I walk towards the archway, careful to watch my step on the road that has long been destroyed by time. It was once a wide cobblestone road, I’m sure, but the ravages of time have turned it into little more than an animal trail. The roots of the large coniferous trees have broken the road up, allowing any enterprising plant or weed to take root and break it even further.
+
+The darkness that lies just a few feet beyond the archway catches my attention for a few moments before I turn my sight to the stone entrance itself. I take my glove off and lay my hand on the right side of the ancient door, moving aside the vines as I search for any runes or writing. Eventually, my fingers find the slight indents that signify the runes of the old world.
+
+My mana detector hasn’t gone off, which means they are inactive. I activate my Identify Runes skill as I trace the centuries old markings left on the archway.
+
+The skill translates the runes, letting me know that they used to be for opening a set of doors that have long disappeared.
+
+I bring out my notebook, writing down the runes and their translations. It’s best not to trust skills too much, you never know if the Identify skills will stop working again. The scholars say that the Mana Disturbance is finally calming down and there is no chance of it acting up again, but the monks always said it’s better to be safe than sorry.
+
+Plus, I like being able to do things without the use of my skills. My skill only gives me an idea of the meaning behind the runeset, not the meaning of the individual runes themselves.
+
+Once I’m finished writing them down, I put my notebook back into my backpack and pull my glove back on. I root around in my backpack for a moment before pulling out an opaque orb. Of course, I have torches with me as well for backup. But if the Mana Disturbance is truly calming, then it makes sense to use the tech of the old world for what it was meant for.
+
+I shake the orb, carefully stepping forward into the old world construct. The orb lights up with a nice white light, illuminating the walls of the tunnel leading down into the earth.
+
+I take it one step at a time, watching the walls and my feet for traps of any kind. While my Danger Sense should help me, worse comes to worse, it’s better to be safe than sorry. The pathway slowly leads deeper into the earth, descending at a noticeable rate.
+
+My careful attention pays off when I see an innocuous slit in the wall.
+
+I pull another ball from my bag, this one the size of my fist and made of metal. It’s a heavy item and is one of the main contributors to the ache in my shoulders. I mess with it for a moment, activating the runes in it and connecting it to my mana.
+
+I roll the ball forward across the floor, controlling its direction with careful manipulation of my mana.
+
+A plate depresses into the floor as the ball rolls over it, and darts fly out of the slit in the wall. They impact the opposite wall, falling to the floor as they hit the stone.
+
+I breathe a sigh of irritation. I’d hoped the place wouldn’t be trapped, but there’s no helping the paranoia of the old world.
+
+I take off my backpack, pulling things out to attach them to my belt and double checking that none of my tools are malfunctioning. Today is going to be an exploratory delve. I don’t have the tools to empty out a ruin like this, but I can map the ruins and I have enough space in my backpack to grab anything exceptionally rare.
+
+Once I’m done sorting my tools, I put my backpack back on. I then unsheathe my sword, making sure it comes out of the sheath fluidly, before resheathing it.
+
+I continue forward, taking care to step around the pressure plate. I keep the heavy ball rolling in front of me, hoping to catch any other traps with it.
+
+I manage to avoid another two traps, with my ball tripping a third, by the time I see some light at the end of the tunnel. It’s bright enough to be daylight, but it takes another few minutes to confirm that it is.
+
+I keep my slow pace, watching for traps, but the majority of traps seem to have been closer to the entrance of the ruin.
+
+I step into the light, my breath catching at the giant hole that goes through the ceiling and straight down into the darkness. I walk to the edge of the hole, my foot knocking a small rock down into it. Other parts of whatever building this used to be are revealed below me, the hole going through materials without care.
+
+There’s no doubt in my mind about what caused this. It had to be a Worm. Giant creatures that tunnel through the earth. I’m not sure what made it tunnel to the surface, but I’m not exactly eager to find out.
+
+I activate Feather Weight, allowing me to easily jump over the hole to the other side. I pull out my notebook, carefully sketching the path I’d taken so far and marking where the hole is. My Basic Map skill helps me remember the path perfectly, but it’s a good idea to reproduce it in case I decide to bring a proper delving crew out here.
+
+I put my notebook away, and continue forward with my light until I reach an entryway. A heavy stone door that used to block the entryway has fallen to the floor, making me step on it in order to enter the next room.
+
+It’s a medium sized room, with chairs, desks and a table covered in a couple hundred years worth of dust.  One other door is on the other side of the room leading to a staircase which descends deeper into the ruins.
+
+I search the room carefully, and I’m rewarded when the mana detector at my belt starts to vibrate.
+
+I pull it off, making sure it’s not reacting to any of the other artifacts on me. It isn’t, instead leading me to a wall on the right.
+
+I put the mana detector back on my belt, pulling out a vial of fine blue powder. I pour some into the palm of my hand, then gently blow it into the wall.
+
+It sticks to the runes on the wall, glowing blue from the mana gathered within them. Identify Runes tells me that the runes are holding up an illusion.
+
+I step back letting out a sigh. Deactivating an illusion shouldn’t be dangerous and if I’m lucky it’ll be hiding some kind of valuables. On the other hand, there could be something deeper that my identify skill isn’t telling me.
+
+For now I decide to pull out my notebook, writing down the runes carefully. I put my notebook away when I’m finished and deliberate for another moment before deciding to risk it.
+
+Deactivate Runes.
+
+My body moves on its own as I activate the skill, using my mana to inscribe more runes into the wall. It takes only a few seconds for me to inscribe the runes at which point the whole runic script glows, then goes dark.
+
+A section of the wall disappears, revealing another room.
+
+I dismiss the message with a quick movement, then carefully walk into the room, checking for any traps.
+
+A chest that is as tall as my waist sits on the other side of the room. Shelves line the walls, filled with items covered in dust. Two armor-stands are on both sides of the chest, one of them empty, the other holding a set of surprisingly pristine platemail.
+
+After a careful inspection, I decide that the room is mostly clear. Hopefully my danger sense will warn me if I missed anything. The room is similar to one in the ruin I delved with my mentor. It’s probably a simple guardroom, but it alone will make the two day journey worth it. Even the simplest of enchantments from the old world are beyond anything we can create in the modern day.
+
+Satisfied that I’m safe for the moment, I bring up my status. It’s rare that a single level changes anything, but it doesn’t hurt to check. Scholars are constantly discovering new functions to the system as the mana disturbance returns to normal and the system starts working again.
+
+Name: Leo Grayson
+
+Race: Human
+
+Class: Delver (explorer)
+
+Profession: Apprentice Runesmith
+
+Lvl: 26
+
+Title: Acolyte Of Sehara
+
+Class Skills:
+
+Lvl1: Basic Map
+
+Lvl 5: Danger Sense
+
+Lvl 10: Identify Artifact
+
+Lvl 15: Hide Presence
+
+Lvl 20: Feather Weight
+
+Lvl 25: Find Ruins
+
+Profession Skills:
+
+Identify Runes
+
+Deactivate Runes
+
+Basic Inscription
+
+My title still has no effect that I can tell, simply identifying my faith in the Angel Sehara. It’s one of the functionalities of the system that remains a mystery. My skills haven’t seen any change, with the skill I gained at level 25 still sitting at the bottom of the list.
+
+I dismiss the status screen, and turn back to the shelves.
+
+It takes me a little less than an hour to sort through the items on the shelves. Most of the artifacts that haven’t degraded with time are too big to take back with me on this dive.
+
+I do find a nice little dagger and a blue stone that I decide to keep for myself after using Identify Artifact .
+
+Basic Warrior’s Dagger
+
+Enchanted to always keep its edge, the warrior’s dagger is particularly useful for piercing magical defenses.
+
+Defensive Talisman
+
+Creates a small magical barrier in front of the user.
+
+There’s a total of five of the defensive talismans, so I make sure to keep two at my belt and put the rest in my backpack to sell. A few Fire Wands on the shelves make me smile as I carefully put them into my backpack. There’s zero chance of them going off without me using mana, but it doesn’t hurt to be careful with artifacts from four hundred years ago.
+
+The rest of the items on the shelves are weapons in a style I don’t use or enchanted arrows. There are also two heater shields behind the armor stands that I’m sure any warrior class would love to get their hands on.
+
+Done with my inspection of the shelves, I move over to the chest. The lock they put on the chest is a mechanical one, heavily rusted with time. I examine it carefully to make sure there aren’t any runes on it before breaking it with the weight of the metal ball I’d been using to find traps.
+
+It breaks easily, having fully rusted through. I open the chest carefully, paying special attention to any warnings I might get from my danger sense.
+
+Thankfully, it opens without an issue, revealing cloth and leather armors, still in pristine condition. I take out the outfits, amazed by their good condition after all of these years. The outside of the chest had aged normally, but clearly there must’ve been some kind of preservation enchantment on the inside of the chest.
+
+I identify the cloth uniform first.
+
+Basic Guardsmen Uniform
+
+Enchanted to keep the wearer at a perfect temperature, this uniform will slowly repair itself over time.
+
+I already have similarly enchanted clothing thanks to my mentor, so I put it to the side. I pull  up the various pieces of leather armor.
+
+Basic Leather Shoulders, Torso, Grieves, and Bracers
+
+Enchanted to withstand light magic damage, this leather armor will not be cut easily.
+
+I smile at the message. All of the armor from the previous ruin I had explored with my mentor had been sold to the warrior or fighting classes. Without any hesitation, I start putting on the pieces of leather armor. They are a little big for me, but I easily tighten them with the straps they have.
+
+The chest doesn’t have anything other than the leather and cloth, to my disappointment. I do one last search of the room, finding some enchanted arrows. Sadly, my quiver is back at my campsite. I’ll just have to remember to grab them on my way back out.
+
+I leave the room, proud of my small haul. I move over to the runes that held the illusion. Careful not to touch any of the original runes, I erase the runes I wrote. The illusion comes back into place with a snap.
+
+I write down the location of the room and its contents into my journal before turning to the staircase leading deeper into the ruin.
+
+First, I check on my ball of light, refilling it with some of my mana. Once that is done, I take out the heavy ball I’ve been using to check for traps. I roll it forward, carefully sending it down the first few steps. Nothing happens, so I slowly follow it deeper into the depths of the ruin.

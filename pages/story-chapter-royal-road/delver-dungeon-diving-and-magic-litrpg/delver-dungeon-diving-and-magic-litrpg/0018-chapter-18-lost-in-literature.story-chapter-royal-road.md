@@ -1,0 +1,167 @@
+---
+id: 50b47650-b71f-50b7-81d0-d9f48cf62d05
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18: Lost In Literature"
+slug: 0018-chapter-18-lost-in-literature
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 18
+ownLength: 1688
+unit: words
+publishedAt: 2026-06-05
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3498074/chapter-18-lost-in-literature"
+royalRoadId: "3498074"
+---
+
+Twelve Reapers, where there are only Seven Oathsworn. Why do the Angels fear the dead more than they fear the demons who seek to destroy all life as we know it? I’ve found but one mention of the first Reaper, Elve, The Reaper Of War, and how he came to be. A simple book, The Biography Of A Poet, describes his ascent as “the revolution of the righteous against the divine”. Why did the First Reaper revolt against the divine? And why would he become that which he fought against?
+
+Oathbreaker
+
+Forged in Dragon’s Breath by Angel Loseta, this sword was crafted from the bones of a dead god to strike down the Fallen.
+
+This sword deals divine damage.
+
+Angels above. Sehara protect my sight from lies.
+
+It takes me a long minute to believe the words describing the sword, but the system doesn’t make up its descriptors.
+
+It’s a simple looking sword, its sheath black, and its handle wrapped in cord. Still, I don’t know if I should touch it. I don’t know what the Fallen are, but considering this sword was crafted by one of the Builders, I’m not sure I want to know.
+
+“What is it?” Libby asks, walking up to me.
+
+“A nice sword.” I answer as I walk over to the simple looking weapon. I hesitate for a second, then pick it up.
+
+Now that I have it closer, I can see a pair of wings carved into the sheath.
+
+I don’t feel any different with it in my hands, but I’m sure I don’t want to unsheathe it in front of everyone.
+
+I spin back towards the exit, “Lead us back up, Shar.”
+
+The black cat watches me with knowing eyes, but doesn’t say anything as she turns towards the exit and leads our group towards the exit.
+
+Our packs are light, but it’s getting close to night time anyway, it’s about time we return to the protection of camp.
+
+***
+
+The next day, I give the group a chance to rest, while I give the excuse that I’m seeing the Vishten again.
+
+The tunnel between the dungeons and the hallway is just as cramped as I remember it.
+
+I unbuckle my swordbelt and take off my backpack while Shar sits in the corner.
+
+“Why does the Archmage have so many divine artifacts?” I’d been debating asking Shar about what I’d seen in that room the whole walk down.
+
+The golem doesn’t look surprised by the question as she starts through the hole in the wall. “He researched the divine.”
+
+I place my backpack and sword in the hole, then push them ahead of me as I crawl through.
+
+“That’s more than research. Some of those items…” I grunt as I push my bag past a snag, “I’ve never seen anything like them. And that’s saying a lot.”
+
+Shar doesn’t respond, not that I was expecting her to. Thankfully, the trip through the cramped corridor is fairly short, and I pull myself onto a familiar path.
+
+We walk to the Archmages sanctum, and I spend some time disabling the runes that hide and protect the place.
+
+The fake wall falls away, revealing the lines of golems on the wall. I have Shar lead me to the strongest one, a creature that towers over me in height. Made of slick stone, the Golem’s eyes are two orbs of mana, dormant from hundreds of years of silence.
+
+“His failings are simple, Leo. The others will be harder to bring back.” Shar’s voice brings my attention to the black cat who stares up at the sleeping golem.
+
+I take a deep breath, then call upon the wisdom of the ancients.
+
+The next hour is spent in deep concentration as I use my newest profession’s skill in combination with the knowledge my class grants me.
+
+By the time I finish, I’ve exhausted my mana, and I barely manage to stumble into the Archmage’s private room before I pass out.
+
+***
+
+I wake up to another Lore Mage level, and a large stone construct looking down at me.
+
+“‘Mornin sleepy.” Shar stands up on my chest, currently in her cat form. She gives a long yawn, and stretches her front legs.
+
+The stone construct steps back, then bows its head. “Good morning, may I have the honor of knowing who woke me from my slumber?”
+
+I blink, then cast Identify Artifact on the golem.
+
+Geode: Lvl 1 Golem Bulwark Unit
+
+Geode has eternally slept, broken inside the home of the Archmage. He rises with the power of a new mage.
+
+“Grace-given Mage?” The low rumble of its voice brings my attention back to it.
+
+“Sorry,” I push myself out of the archmage's ancient bed, and sit across from the towering golem. “My name is Leo.”
+
+“I, Geode, am your servant, Leo. Might I ask, what are these words that appear in front of me?”
+
+Shar answers before I can, “They succeeded, Geode. He brought order to magic.”
+
+Geode is quiet for a long moment before a simple “I see.”
+
+“This must be pretty confusing to you.” I push my hair back, trying to get my brain back after my impromptu sleep.
+
+“All is in order, Leo. I am content.”
+
+“Riiight.” I look him over, wondering at what’s going on behind those strange eyes. “Has Shar told you about why I brought you back?”
+
+“She has been silent.”
+
+I look to the shifter, who shrugs.
+
+It takes some time to share my plan with the golem, but once I do, he quickly agrees to protect the Vishten. Despite his low level, something tells me that the golem is not to be messed with.
+
+After my conversation with the golem, my gaze turns back to the books of the Archmage’s private study. I’d only grabbed a few on my last adventure through the ruin, and the rest look as beautiful as I remember them.
+
+“How long was I out, Shar?” I trail my hand along the edge of one of the books I can’t read. With my new skills, I could translate some of them, it would just take time. And, I do happen to have a small golem that can read most of these languages.
+
+“Thirty minutes.”
+
+I pull one of the books down, “I should have a little more time before they expect me, right?”
+
+Shar circles a spot on the ground, then lays down. “Probably.”
+
+That’s all I need as I find a book and get comfortable at the small desk in the room. I pull out my own notebook, and turn to an empty page to write notes as I read. My time is quickly caught by my reading, as I pull as many of the books as I can read.
+
+A few hours later, I’m interrupted by a welcome message.
+
+I stare at the words, then look at the pile of books in front of me. “Shar, how long have I been down here?”
+
+The golem in her cat form yawns, then looks up at me from where she’s curled up on the bed. “Eight hours.”
+
+“Ah.” I blink several times, only now noticing the ache in my back, and the blurriness of my eyes. “I see.”
+
+I look over to the second golem, who stares back at me silently from where he stands, eerily still.
+
+I push the chair back, and stretch, my back cracking several times. I sigh, then start putting the many books into my backpack. “It’s time we head out then.”
+
+Shar hops down from the bed, and does her own little cat-like stretch. “I didn’t want to interrupt when you looked so focused.”
+
+I glance at the notification in the corner of my vision then smile. “Thank you. It was worth it. Come on, Geode. Let’s get you to the Vishten.”
+
+“I look forward to our travel, Grace-given Mage.”
+
+I yawn, then lead the way out of the Archmages private rooms. I pull out my notebook, and rewrite the runes to hide the doors, meticulously copying every rune until the illusion is back in place.
+
+It’s only part way back to the dungeon, that I realize there’s no way Geode is going to be able to crawl through the hole Shar and I use.
+
+I stop in the middle of the path, the light in my hand shaking with the sudden stop. “Shar, how are we going to get Geode up to the Vishten?”
+
+Shar turns into her crow form, and hops up onto my shoulder, then she points with her beak to a pinprick of light high above us. “Geode can climb.”
+
+I look at the golem, who slowly nods his head.
+
+The large golem kneels down, presenting his back to me. “I can carry you, Grace- Leo.”
+
+I look up, then back to the golem. I laugh, then climb on to the back of the golem.
+
+He reaches for the rock wall, then pulls himself up. With a speed equalling that of a spider, he climbs up the wall, his hands finding holds in places that look like sheer rock. I hold on tight as he flies to each new spot on the wall, leaping ten times my height as if it were a simple thing. In just a few minutes, we approach the webbed flooring of the upper levels, at which point, the golem simply punches a hole through the floor, and climbs through.
+
+There he kneels down, letting me down gently.
+
+I slowly let go of the golem, my muscles tense from holding on as tight as I could. I wasn’t in any real danger thanks to my Feather Weight skill, but it’s hard not to have some fear when moving at those kinds of speeds at that height.
+
+I clear my throat, then motion for Shar to lead the way towards the Vishten.
+
+I frown.
+
+I swear that crow has a smile on her face.
+
+Gifting the golem to the Vishten is an experience, the hulking giant towering over the shorter creatures.
+
+I don’t stay long after that, and make my way back to the surface and into the safety of my angel artifact.

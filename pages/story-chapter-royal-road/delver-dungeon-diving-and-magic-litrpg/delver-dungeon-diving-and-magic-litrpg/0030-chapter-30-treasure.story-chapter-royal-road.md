@@ -1,0 +1,195 @@
+---
+id: cd9078e9-df4e-537c-a593-22235fd54fe1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30: Treasure"
+slug: 0030-chapter-30-treasure
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 30
+ownLength: 2202
+unit: words
+publishedAt: 2026-06-17
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3553719/chapter-30-treasure"
+royalRoadId: "3553719"
+---
+
+When a devout follower is put to rest, they are ordained with possessions so that they may continue their fight in the next realm.
+
+A sword of the oathsworn, so that they may fight that which haunts death.
+
+A ring of the reapers, so that their connection to the divine is never severed.
+
+A shield of the builders, so that they may protect the weak from evil.
+
+A cloak of the guides, so that they may find their way through the coldest of nights.
+
+I stare at the Undead, my brain blanking. I ask the first question that comes to mind, “How did you find us?”
+
+The Undead stands, towering over me as he motions towards the stone casket. “You rest neareth mine place of eternal slumber.”
+
+Well, that’s remarkably unlucky. Or lucky, considering how things were going so far. I’d never heard of a kind undead before. Usually their hunger for the flesh of the living overrides any soul they once held.
+
+I glance at Keve, who still holds his swords at the ready.
+
+I look back to the undead, who’d stood eerily still during the lull in conversation, “How are you still… sane?”
+
+The undead lowers his head, then raises his hand, revealing a ring.
+
+I identify it.
+
+Ring Of Po’s Devout
+
+A ring containing the power of the Angel of the Afterlife, Po. This ring currently preserves the spirit and soul of Oathsworn Paladin Akashir.
+
+My breath leaves me as I read the description. At the very least, that eases my mind that there’s some kind of trick that the undead is attempting to pull.
+
+“You can lower your swords, Keve.”
+
+He hesitates for a second, then sheathes both swords.
+
+“Your companion holds great trust in thine words.” The Undead remarks, as he sits on his tomb. “It is heartening to know you are a Paladin worthy of such trust.”
+
+I don’t correct the paladin statement. I haven’t joined any of the Oathsworn Orders, where classes can transform into the Paladin general class, similar to how reapers gain the Reaper general class. The Oathsworn Orders were few and far between, with the lack of demons that their oaths swear them against, and the disappearance of the Angels, not many find themselves called to the ancient Orders, instead fighting for the reapers who face the greater threat of the necromancers and their undead.
+
+I shake my head, bringing my mind back to the issue at hand. There are so many questions I have, many of which he might know the answer to, but first things first.
+
+“Why did you fight the other group?”
+
+“The Demon worshippers have long sought entrance to the exalted rooms of Angel Kolas. I would never let one of their corrupted into those sacred halls.”
+
+Demon worshippers. That confirms they aren’t necromancers, even back when this guy lived, there were strong distinctions between the two.
+
+I look into the dead eyes of the Undead Paladin, “An Angel wants me here, why?”
+
+He stares for a long moment, the smiles with the half of his face that still holds flesh. “The knowledge warms me, that the angels have not completely abandoned their faithful. There is a room. I suspect that your mission lies beyond it. This one will lead you there, but this one will not follow. If I roam too far from my burial place, I lose mineself. Instead, this one will guard your backs, for with the moving of the Angels, so too shall the Devils move.”
+
+I share a look with Keve, then look back to the undead. “Thank you.”
+
+The dead paladin rises from his tomb and motions for us to follow him. Our pace through the catacombs is much more measured, and my gaze catches on ancient words carved into the archways of different rooms. My mana detector goes off like crazy, making me think that there might be more in the sarcophagi than bones. Heroes were often buried with the weapons they used in life, which made them all the more dangerous when they were raised as undead.
+
+“Are you the only undead here?” I ask.
+
+The undead turns towards me, his bones creaking before he looks forward again, “The grace of the Angels prevents many from rising, and for those who do, I have been tasked with returning them to their graves.”
+
+He kills any undead that rise.
+
+I look away from his back, instead studying the walls. We’re not standing still long enough for me to read any of the symbols, but I catch glimpses of pictographs depicting ancient stories. Long dead paladins, priests, saints, and reapers. The faith back then was even stronger back then than it is today, and the sheer number of honored graves is a testament to that.
+
+The man stops at a large wooden door. “I cannot accompany you further. May the Angels bless your path.”
+
+I turn towards him and bow my head, “Thank you, Paladin Akashir. Your name will not be forgotten.”
+
+Keve follows my movement, and says something in his native language.
+
+The half of the paladin’s face that still has flesh smiles. Then he turns and walks away.
+
+I look up at the door. Despite the passage of time, the wood looks fresh. Dark, as if it had been freshly stained. A large shield has been carved into the middle of it, wood shooting away from the shield like beams of light.
+
+I put my shoulder against the door, expecting some resistance. As I push forward, it opens without trouble.
+
+On the other side, I’m greeted by a serene pool of water, a natural cave surrounding it. A path has been made just above the pool, the material of the path a silver metal that I’ve never seen before. The room itself is lit by a calm blue light that the pools themselves emit.
+
+As I step into the room, I peer down into one of the pools. It’s completely clear, letting me see into its depths, where large fish languidly swim through glowing plants.
+
+Shar jumps off of my pack, and lands in her cat form. She languidly walks along the path through the pools, untouched by the passage of time. Keve and I follow her.
+
+The longer I stare at the pools, the more I start to sense the mana within them. It’s concentrated in some way that my mana sense can’t define.
+
+The path leads to a large archway, silver script carved into it in spirals traveling up and down its length.
+
+At first I think it might be runes, but my identify skill returns nothing. The energy radiating off of the archway is different from mana, more similar to the energy I feel from my waist or during the fight with the Warlock.
+
+Divine energy, and stronger than I’ve ever felt.
+
+Shar steps through slowly, her paw testing the archway before fully walking past. I follow through the structure, and I feel as some kind of barrier passes over me.
+
+I turn to watch Keve. I see the barrier ripple over him, now that I’m looking for it.
+
+He looks around, his eyes narrowed at the strange magic.
+
+I face forward again, my gaze moving to the center of the room we’re now it.
+
+Another statue of Angel Kolas rests in the center, both of his hands raised, and his eyes closed. Above his hands, a metal cube rotates slowly, held aloft by some kind of magic.
+
+I step forward, noticing the strange silence of the place, my step extra loud in the room.
+
+Nothing happens as I approach the statue. Keve keeps his hands on his swords, watching the room, expecting some kind of trap.
+
+I stop at the base of the Angel, and identify the statue.
+
+Statue of Angel Kolas Holding Aloft His Greatest Creation
+
+Enchanted to channel a small amount of power from Kolas, this statue holds and protects the Artifact Of Kolas.
+
+Reading the description makes me start to suspect what exactly floats in the air in front of us. Still, the very idea has implications that I really don’t understand.
+
+I drag my gaze up, and identify the floating object.
+
+Cube Of Kolas
+
+The foundation of a Stronghold, this cube also contains an anchor for the divine.
+
+The foundation of a stronghold. I knew that the Angels had created most of the strongholds, but I had no idea that they would appear as a simple cube. Another stronghold has implications beyond just safety. From what I know, humanity has only been pushed back since the destabilization of mana, strongholds destroyed, and frontier cities barely surviving. Beyond that, this cube has a connection to divine.
+
+That’s why the demon worshippers want it.
+
+I’ve been doing a lot of reading on the Oathsworn since we found this map, and with that reading, I’ve learned something about what they had risen to fight.
+
+Demons, devils, creatures from beyond the spirit realm. An ancient war that had lasted from as far back as history could tell. With the destabilization of mana, we’d lost contact with the divine realms, but with that, the devils had also lost access to us.
+
+But slowly, the Angels were returning. I’d seen one of their manifestations myself, when fighting the warlock. I don’t know what a divine anchor does, but I imagine it’ll allow them to act more heavily.
+
+Demon worshippers wouldn’t want that, so of course they’d want to stop it…. But what if an anchor didn’t only work for Angels?
+
+Necromancers too, wanted this item. I don’t know why, but considering we have so many angels that fight death, there must be something that requires their strength to fight.
+
+I can’t let this item fall into the wrong hands.
+
+But I can’t say that I’m the right hands to hold it either. I’m definitely not strong enough to defend this from the powers that want it.
+
+So why am I here, instead of a legion of reapers? Or even the few paladins that still fight? Why did the angels want me to hurry here?
+
+Whatever the reasons, I’m in a race. Demon Worshippers have already found this temple, and likely knows what’s inside. And on the temple’s doorstep lies power that could be easily wielded by a strong enough necromancer, the city of the dead.
+
+I can’t leave this here, can I?
+
+“You look troubled.” Keve says.
+
+I glance at the Vishten, who watches me with a worried gaze.
+
+I point at the object, “That is the foundation of a stronghold.”
+
+Keve doesn’t register my words for a long moment, then his gaze moves to the item floating there. I see the glimmer of greed in his eyes, then his hands rest on his swords as a war is fought in his mind.
+
+I watch him, not moving.
+
+Even this man, who I trust with my secrets, and my life, can’t help but want such an item. I know why he wants it too.
+
+For his people. For a home that doesn’t need to fear.
+
+A decision is made in that second, and he turns away from it. “How can I assist you, Delver Leo?”
+
+I can’t help a small smile. Then I make my own decision.  The Angels trusted me with this task, and they’ll just have to trust my judgement as well. “Can I trust your people with a stronghold?”
+
+Keve’s eyes widen, then he moves to his knees, bowing his head, “Yes, Delver.”
+
+“Good. Shar, can you grab it for me?” The golem nods, then transforms into her crow form to grab the small cube, and bring it down to my hands. I hold the cube, light in my hands. Something tells me that a small application of mana is all I’d need to activate it.
+
+I put it in my backpack. “We need to hurry then, and get this to them. Everyone will try to stop us, and I don’t think we’ll be able to stop in any of the strongholds.” I sling my pack back over my shoulders. “Are you ready for this?”
+
+Keve stands up, and wraps his scarf around his face. He nods.
+
+We hurry back to the archway, and start on the path over the clear pool of water.
+
+I’ll have to ask Akashir if he knows another path out of the temple. The likelihood of another group waiting on the outside is too strong. If I know my ancient temple architecture correctly, there should be at least one secret entrance to the catacombs, guarded by some kind of magical or divine code. No doubt-
+
+The door on the other end of the path opens, and five people in red cloaks walk out, their robes torn from a hard battle.
+
+Keve and I stop, drawing our swords.
+
+I pause as the last person steps through the door. She looks healthier than when I last saw her, but with my increased perception, I can see the ear where its tip had been cut off.
+
+Something had told me we’d meet the Leifen girl again.
+
+Lyla’s eyes widen as she recognizes us in that same moment.
+
+Swords drawn, and mana gathering to their mage, we stare at each other across the bridge.

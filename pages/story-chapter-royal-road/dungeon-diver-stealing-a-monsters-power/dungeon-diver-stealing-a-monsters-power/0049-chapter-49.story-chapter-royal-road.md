@@ -1,0 +1,169 @@
+---
+id: 11f291bd-a0b8-51f4-979d-e90d94bb34d0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 49"
+slug: 0049-chapter-49
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 49
+ownLength: 1585
+unit: words
+ownProgress: 1585
+publishedAt: 2023-03-07
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1131476/chapter-49"
+royalRoadId: "1131476"
+markedReadAt: "2026-06-29T20:33:29.982Z"
+---
+
+The injured flaming Minotaurs came charging at me in a fit of rage. These two aren't the problem though. I can doge their attacks all day and kill them whenever I please. Their leader is the real issue. I haven't gauged its full strength yet, but its definitely higher than mine.
+
+My best course of action is to take these two out first. I have a few healing potions, I can handle another hit or two... I'll use the same strategy as before.
+
+We all charged in towards each other.
+
+I blocked the two axe hits with my hardened arm and landed another double strike on the two weaker monsters while absorbing some MP in the process.
+
+The leader was close behind and attacked immediately just like before. I braced myself and tried to concentrate even more hardening on my arm to see if I could block the attack if I had full focus.
+
+The leaders large axe came down and made contact with my ultra hardened arm.
+
+"Aggghhh bad idea..."
+
+The second it made impact I heard a crack and saw black crystal fragments fly out in all directions while a sharp pain traveled through my arm and into my shoulder.
+
+It worked a little bit... but my arm is definitely still fractured in multiple places. I need to get better positioning and try blocking with my sword next time if I get the chance.
+
+I jumped back and distanced myself to check my stats and regenerate. It read 485/805 HP, and 680/805 MP.
+
+Not bad.... Just one more time should open things up.
+
+I charged back in and did a picture perfect attack. The two front Minotaurs fell to the ground in a pool of their own blood and my flames. Three good attacks seems to be just enough for me to defeat normal monsters here.
+
+[Level Up]
+
+I blocked another attack while sacrificing my hardened arm one last time before running back about 20m to recuperate and plan for the actual battle at hand here.
+
+My stats read out 355/810 HP, 685/810 MP. As the lone leader eyed me down I took the time to chug an HP potion back up to full health. I could have waited a bit longer, but it's a common sense safety precaution here.
+
+We both charged forward. I ignited my blade in fire and the beast raised its axe.
+
+"CLANGGGGGG"
+
+We met weapons with a clash of flames, sparks, and grunts from both sides. In the end, I was totally overpowered...
+
+The monster's axe came crushing down. I held my own in the test of strength for a few milliseconds, but in the end it was a one sided match up. The Minotaurs axe completely trumped my sword's power and it came crashing down towards me with little resistance. I was forced to retreat and jump backwards.
+
+This feels like some of my old battles... I haven't faced a truly superior opponent in a while. I grinned and stared down the beast as it grunted and started charging towards me again.
+
+I'll have to use my speed to defeat this one, brute strength isn't going to cut it.
+
+I ran forward with my sword ablaze. The monster swung its axe downward and I dodged without attempting to counter it at all. With a swift fiery strike I sliced open its leg as I ran by.
+
+This is a pretty nostalgic feeling. It's almost like I'm fighting that wolf boss from my home town again. Good times.
+
+I smirked and faced the beast once more. We charged forward and I dodged to the opposite side to land a hit on its other leg. The beast cried out. This wasn't much damage to a monster like this, but it was definitely getting very annoyed.
+
+I continued my assault, switching up my movements and styles to land safe cheap hits every time. It's a pretty boring way to fight, but fighting this thing head on would not be the smart thing to do. I have a very clear speed and agility advantage, there's no point in not using this to my full capacity.
+
+Every time I made a slice in the monster's legs I absorbed a small amount of MP. It's much harder to drain than its weaker counterparts. The monster's level must have something to do with it. An opponent with a much higher experience level takes longer to suck MP from. Another good thing to note. I have to leave a large amount of fire residue in every attack I land, I'd be out of MP fast if I didn't have this new skill.
+
+After around 10 attacks the Minotaur became visibly slower. I started aiming for its abdomen, then upper chest, and lastly the back of its neck. It look a total of 16 hits before I pierced my fiery blade into its head and watched the beast fall to the ground.
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+____________________
+
+Name: Jay Soju
+
+Level: 167
+
+Hp: 840/840
+
+Mp: 705/840
+
+Strength: 401 [+125]
+
+Speed: 478
+
+Agility: 499
+
+Defense: 357 [+143]
+
+Mental Strength: 401 [+80]
+
+Skills:
+
+Absorption
+
+Swordsmanship
+
+Combat Magic [Fire Summoning]
+
+Inspect [Special Grade]
+
+Enemy Detection
+
+Body Hardening[Special Grade]
+
+Self Regeneration
+
+Spacial Magic[Item Storage]
+
+Plunderer
+
+Items Equipped:
+
+Golden Wolf Ring [+20% Mental Strength]
+
+Cyclops Eye Pendant [+40% Defense]
+
+Stainless Steel Sword [+125 Strength]
+
+_____________________
+
+"Nice, 6 levels from the leader and 1 from the two subordinates."
+
+It relied too heavily on the two weaker fighters. When I had a speed advantage and we were all alone the only thing that beast could do was lay down and die. Unfortunate fate.
+
+I've definitely got a handle on this dungeon. That was a level 191. It's probably one of the highest rated I'll find here, and it was taken out with ease.
+
+With a satisfied grin on my face I walked over to the two weaker Minotaurs that burned to ash and put their mana crystals in my item storage. As I turned around to collect the leader's mana my eyes lit up.
+
+Looks like its my lucky day. After only 6 monsters I already got an item drop! The huge axe sat on the ground next to a large mana crystal. I picked each of them up to place in my item storage.
+
+I started walking back in the direction of the dungeon start point. I'm not leaving yet, I'd just rather be nearby for when I decide to leave and not wander too far off into the dungeon. It's not like I'll be fighting the boss today.
+
+On my way back I came across a pair of Minotaurs level 157 and 154. They were very easy opponents, with my recent level increases I was able to take them down in 2 hits each. I didn't level up, but collected two mana crystals.
+
+As I strolled around the dungeon I got to thinking about what my purpose here in the city really is. After these recent events I have a clear idea of what I have to do.
+
+The C Class exams are in less than 3 weeks. I need to get really serious ... This dungeon is the perfect training ground for my preparation. I'll power level here and make a ton of money from the loot drops to buy some new higher grade gear.
+
+I spent the next 4 hours roaming around the dungeon's start point. This seemed to be the perfect spot for now. I came across 6 more groups of Minotaur.
+
+The first was and easy group of 3. They consisted of a level 157, 158, and 162. They dropped 3 mana stones. I didn't level up.
+
+The second group was a bit more of a challenge. The was a leader at level 183 and two underlings at level 155 and 157. It was a similar battle to the previous trio with a leader. Long, but not that difficult. They only dropped mana as well. I gained 3 levels from this fight.
+
+The third and fourth groups were fairly similar to the first. All of them were between level 155 and 165. Good mana, but no more levels.
+
+After these two fights I got a bit antsy and decided to venture a bit deeper into the dungeon again. Apparently the further I traveled in the stronger the monsters are. I guess it makes sense.
+
+My fifth fight was with two strong Minotaurs. They were level 177 and 179. I had to use my bobbing and weaving tactics to the extreme. My body hardening worked well enough, but hits still hurt and dealt a tiny bit of damage. All in all, it was a manageable fight. I gained 2 levels and collected only mana as loot.
+
+After this fight I was getting a bit tired and hungry. It was time to pack it in. I trekked back to the dungeon start point and faced off against a final group of 3 that weren't much of a challenge.
+
+They were between level 155 and 165. All three dropped large mana stones, and one of them dropped their axe as well. I didn't level up in this battle, but couldn't have asked for a better parting gift.
+
+As I stepped out of the blue portal back into the Dungeon Hub transit area I smirked to myself.
+
+That was a good first day of grinding to get my feet wet. I'm level 172 now, tomorrow I'll venture much deeper into this Minotaur Dungeon.

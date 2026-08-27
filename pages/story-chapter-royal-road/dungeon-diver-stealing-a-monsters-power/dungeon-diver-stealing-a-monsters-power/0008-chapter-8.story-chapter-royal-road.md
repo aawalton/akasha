@@ -1,0 +1,125 @@
+---
+id: 7eb7b42c-f095-5457-838e-b43c273b2858
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8"
+slug: 0008-chapter-8
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 8
+ownLength: 1281
+unit: words
+ownProgress: 1281
+publishedAt: 2023-02-05
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1106381/chapter-8"
+royalRoadId: "1106381"
+markedReadAt: "2026-06-29T20:32:03.758Z"
+---
+
+I woke up the next morning with a headache and hobbled over to my fridge to grab a cold bottle of water.
+
+"Glugggluggglugg"
+
+I  chugged about half of it and sat in my desk chair. I quickly checked my status and was pleasantly greeted with a full 135/135 MP stat.
+
+I got dressed, grabbed my sword, took 3 bronze coins from my bedside table, and made my way out the door. On the ground was a little yellow note with an apple next to it. It read:
+
+"Good luck hunting today Jay:) -M"
+
+I smiled, put the note in my back pocket, took a bite out of the apple, and walked down the stairs in a half jumping manner.
+
+My walk to the dungeon takes no more than 5 minutes now. It gives me a brief moment to collect my thoughts before I go to battle. I'm used to making this walk with my team mates, this is the first time I'm doing it alone in a while... The morning silence is a bit erie.
+
+I went over yesterday's hunt in my head, I made about 20 bronze, but used up all my MP in a matter of hours. It wasn't hard work, I just activated my skill too many times for weak opponents. It wasn't as efficient as I'd like.
+
+I think it's time I take a risk... I made up my mind. Today, I'll be facing the boss solo.
+
+I approached the blue portal confidently, unsheathed my sword, and jumped through.
+
+I made a straight shot for the end of the dungeon, any goblins that obstructed my path I kicked to the side. I decided they were not worth using my sword, or even collecting their crystals. Today I was on a mission.
+
+In about an hour and a half I made it to the boss room entrance. The light grey portal was swirling in front of me. It was a familiar safe color, nothing like that mutants portal in my previous battle. I grinned and jumped through.
+
+I entered the boss room with both hands gripping my sword's handle holding it towards the back of the dungeon.
+
+I quickly disposed of the approaching goblins with a few kicks and a wide swing of my sword.
+
+Moments later the familiar hobgoblin boss appeared.
+
+"Gruuuahhh!!!"
+
+The monster screeched as it sprinted towards me with its axe.
+
+I had been watching this boss for 6 weeks straight, never getting a chance to take a crack at it myself. It was strong, but I've been leeching off my teams exp as a porter for a while. I knew I could handle the boss on my own if I needed to.
+
+The hobgoblin lifted its axe as it approached me at a rather quick pace. Once it was roughly 5 meters away I braced myself, readied my sword, and charged at it.
+
+A moment later sparks began to fly. I brought my sword down to the bottom right side of my body and swung up to meet the monster's axe. He was strong, but I could tell I had an edge on him strength-wise and definitely speed.
+
+I thrusted my sword up with a push from my legs, the creature let out a loud grunt as the axe was pushed up by my swing. It stumbled back a step, visibly surprised that a smaller being was so strong.
+
+Before the monster could even tell what was going on I shifted my weight to the right side of its body with a lunge. I could see my old team leaders movements vividly in my head. Without hesitation I jumped forward with all my might holding my sword directly in front of my body.
+
+The silver blade pierced the tough neck of the hobgoblin as it let out a muffled cry.
+
+"Grugggauahhhh"
+
+I ripped my blade from its throat and quickly jumped behind it. The monster was still flailing about, it was critically injured but definitely not dead yet.
+
+It managed to turn its body slowly tracking my movements. I sped up and continued to run around it, trying my best to stay in its blind spot as the monster let out loud grunts and gushed blood from its neck.
+
+It was slowing down a bit, clearly having a harder and harder time with my quick movements.
+
+A moment later I lined up the perfect shot, I was right behind the beast with my sword drawn. I dove in for the final blow and yelled.
+
+"THIIS IS THE END FOR YOU!!!"
+
+I got a clear shot through the left side of its back, it's heart was pierced and it let out a final weak grunt as it collapsed.
+
+I stood over the boss with a grin admiring my work as the boss disappeared. It left behind a mana crystal about 5x the size of goblin crystals. I tossed it up and down in my left hand as I held my sword in the right. The blinding light came and I was back at the dungeons starting point again.
+
+I opened up my status to check on my MP. To my surprise... it's was at 105/135. I accepted it with a grin on my face, that means I can challenge the boss 3 more times today...
+
+I made the trek back to the boss room and faced off with the monster a second time. It was a very similar fight. The bosses don't remember previous fights because a new one is spawned in every time it's killed. Only hunters have the advantage of learning its movements. After a brief but exhilarating fight I picked up the mana crystal and was transported back to the dungeons mouth.
+
+"Guuuurgle"
+
+I was hungry as fuck. Walking 5km through tall grass and fighting a 2.5m hobgoblin twice was actually pretty hard work. I slipped out of the dungeon and grabbed a bite to eat at a local shop and played with the two mana crystals as I ate my meal. I was so happy with myself, i couldn't stop grinning.
+
+After a well needed meal I jumped back into the dungeon and crushed the boss a 3rd time. I was getting used to its movements in real time now, it made total sense how my old team could just use the same plan every time and defeat the boss like it was nothing.
+
+The fourth and final run was no different, I had to think fast but was in no immediate danger as I was faster and stronger than the boss. If I had to guess, it had the stats of and average level 20 hunter. Tough for any noobs, but light work for anyone with battle experience and enough levels on their side.
+
+As the last hobgoblin of the day was defeated I heard a ringing in my head.
+
+[Level Up]_____________________Name: Jay Soju
+
+Level: 27
+
+Hp: 140/140
+
+Mp: 20/140
+
+Strength: 70 [+50]
+
+Speed: 78
+
+Agility: 83
+
+Defense: 64
+
+Mental Strength: 70
+
+Skills:
+
+AbsorptionSwordsmanship
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]
+
+_____________________
+
+The last hobgoblin dropped a light pink mana crystal, and to my surprise a large axe. It had a sturdy wooden handle with a large metal blade. As I threw the mana crystal in my back left pocket I sheathed my sword and picked up the axe. The white light came and I walked out of the dungeon with a satisfied look on my face.
+
+"I leveled up and got an item drop today, can't complain."
+
+I walked towards the village market with a smile on my face as the sun began to set behind me. A successful day of solo hunting has come to an end.

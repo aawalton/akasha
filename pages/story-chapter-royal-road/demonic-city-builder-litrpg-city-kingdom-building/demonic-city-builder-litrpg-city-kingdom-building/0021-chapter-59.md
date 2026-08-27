@@ -1,0 +1,232 @@
+---
+page-type-slug: story-chapter-royal-road
+title: "Chapter 59"
+slug: 0021-chapter-59
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 21
+ownLength: 2590
+unit: words
+publishedAt: 2026-08-27
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3870269/chapter-59"
+royalRoadId: "3870269"
+---
+
+Kairon found Sythara lounging in the large, open purple space of the void district. The ritual circle specifically was positioned on the opposite end from the first rookery. It kept the area relatively isolated and quiet. Especially now in the late hour of dusk.
+
+He did note, however, that she was careful to stay well outside the perimeter of the basin and totems. “Find anything interesting?” asked Kairon.
+
+“The plane is always of interest, child. The question is whether or not it wants to share.”
+
+“How about tonight? Does it?”
+
+Two tentacles flicked, and she wheeled around. “I have not spoken to the plane since our last communion. But… I have thought about what it said.”
+
+The demoness had been unusually quiet and secluded since the universal research finished. Speaking of—Kairon glanced over, finding the hearth brand glowing faintly in the distance. Already, it had been a major boon for the city.
+
+Tonight, he meant to get another.
+
+He yawned, taking a seat on the ground next to her. “Are there any developments you feel I should know about?”
+
+“No, child. I have not learned anything new. I’ve only… felt more. And have more questions than before about this domain of yours.”
+
+“Ours,” corrected Kairon. An important distinction he needed her to see.
+
+She bobbed her chin shortly.
+
+“On that topic, I’m actually here for two reasons. First, our weekly report. As agreed to in our revised pact.”
+
+Her black tentacles curled protectively around her elegant body, pale skin sharply contrasting their slithering surfaces. “I… see,” she said finally.
+
+The demon clapped. “Good. First point. What of Veron?”
+
+“Oh? Yes, yes. The interesting subject!” Her face lit up at the mention of it. “So far, he has shown no observable changes. His marbled form remains smooth and unaltered. No additional signs of vitality morphing. However, the golden energy continues to flow through him, as does the corruption. Only… I’m not sure where it’s flowing to.”
+
+Kairon nodded at that. “Me neither. Perhaps a filter of sorts?”
+
+“Maybe… Child, if you want me to know more, I can try and carry out—”
+
+The city lord held up a claw. “Sythara, I want to remind you that under no circumstances are you to elevate from observation to experimentation or active study without my express approval. This is binding, and your tolerance is still at ground zero.”
+
+Her eyes narrowed unhappily, a sharp breath escaping her lips. “Yes, yes. Such a careful child.” She pouted, bottom lip quivering.
+
+“Don’t give me that. Do I need to help you recall what occurred last time? What you did with the tiniest amount of tolerance and autonomy?”
+
+She huffed, turning her head to the side. “No… You do not.”
+
+“Good! Then that brings us to my second matter for today. Research. I want you to resume your studies of the plane and help craft our next brand.”
+
+A look between excitement and apprehension came over his void councilor’s face. “Already…”
+
+Huh. Prior to the construction of the ritual circle, Sythara was begging for even the slightest chance at using one. Now, she seems reluctant.
+
+“Sythara, it’s been days. Days. I did not account for this break in my calculations. And, mind you, every day counts. We have not one, but two enemy factions mobilizing. I have our own forces moving in return. Any advantage, no matter how small, could be imperative. Before we begin, however, I’ve been doing some thinking.”
+
+“Have you now?” she replied, eyebrow arching.
+
+“Like you, I’ve had time to reflect on my own experience with the plane’s influence.” He thought back to that first day, walking the ritual circle and feeling each district’s totem. And how those base desires influenced them.
+
+“Tell me, then. What is it you think you’ve learned?”
+
+“What each district stems from. Like the first time we spoke of this subject, I still believe wrath to be the easiest to comprehend. It comes from rage, destruction, and violence. And brood is gluttony and hunger.”
+
+Sythara nodded. “This is more or less correct. To my knowledge,” she added, raising one tendril. “This is not new. What of the other three?”
+
+Kairon drew his gaze upwards, studying the other three eldritch totems. Their mass pressing upwards into the night. “Those were more… complex. I think Forge is a kind of desire to reshape something as your own. Almost as if you resent its very subject of being, and want something new.”
+
+“Envy,” said Sythara simply.
+
+He snapped. “Envy! That’s a very peculiar perspective on reshaping. You envy what something could become,” he muttered. “Envy… Mmm.” He paused for a moment, absorbing that realization.
+
+“The other two?” she prodded.
+
+“Well, when I felt Pact, it had the most superior aura of the five. Not in power, but in right. It thought that it was the true leader. A respect for natural order. I’d call that pride.”
+
+A sly smirk appeared on the demoness’s face. “Impressive, child. To figure all of this out on your own, from a single communion…”
+
+Kairon shrugged. “I have my ways.”
+
+“I suppose you do.” Flicking her hair, she nodded. “That only leaves one more. What of void?”
+
+“Yeah,” he grumbled. “Of them all, this is the one I’m most uncertain about. It felt… wrong. Forbidding. Missing. Dark.”
+
+She snorted. “Void is unique. In the spirit of… what did you call it that night..?” The demoness snapped her tentacles together. “Partnership. That’s what it was. In the spirit of partnership I will help you with this one.” The tendrils around her swirled about, her sapphire pupils focusing on the purple totem in the distance. “My sisters referred to void’s influence as sloth. When you listen to void’s whispers long enough, many lose the will to care. To bother. For what does anything matter, if all paths end in oblivion?”
+
+“Sloth.” Kairon licked the inside of his mouth, tasting the word. The sin. “I think humans might call this hopelessness.” Kairon crossed his arms behind his head, leaning back to lounge on the cobble. “Rage, gluttony, envy, pride, sloth. Each district has a core, fundamental emotion, or sin, behind it.”
+
+That left one more. For a moment, Kairon considered not asking. Keeping knowledge of it to himself. However, Sythara clearly knew it existed. She researched the damn thing. Besides, he thought back to before. How not asking about the bargains he was making kept him from learning so many important clues. He had access to demons bound to this city.
+
+I need to tread carefully, but not so carefully that I keep from learning what she knows.
+
+“What of… universal?” he said finally. The last word sliding with particular care from his lips.
+
+“Universal?” asked Sythara.
+
+“Yes, the sixth district—er—aspect. What does it stand for?”
+
+“There are only five aspects, child.”
+
+“Then how do you explain that sixth, gray totem? The brand of hearth that you researched.”
+
+“I did not say anything at the time, as I thought you knew…” she trailed off, cocking her head. “Child, is this not the reason you chose to research the gray path first? Because it was of something that should not be?”
+
+“What? You’re saying… Sythara, how many districts are there? Where you come from.”
+
+“We do not have districts. My sisterhood does not have this…” She looked around, waving her tentacles, “type of place. So neat, so orderly, so structured. It is not how the fractured plane is. What we build comes from our ancestors. We make as the plane allows. But, we do utilize the aspects. The base desires and emotions of corruption. And there are only five that I’ve ever heard of. Not six.”
+
+“Your sisters never spoke of a universal aspect?”
+
+“No, child.”
+
+That didn’t add up. Sure, the universal district and its aspect have some interesting properties. But they aren’t world breaking. In fact, they’re continuously the most rudimentary and basic functions. As the name suggests, of course. Yet again, one more mystery.
+
+A fresh gust of cool night wind blew over the city walls, reminding Kairon that it was getting late. In the distance, the last of the cooking fires were being extinguished. Few to no imps remained outside, most having funneled into their dwellings.
+
+“Right, well, back to business. I need you to resume your research tomorrow morning.”
+
+“Very well,” she sighed. “I will try.”
+
+“I believe in you,” he encouraged.
+
+Standing, he dusted off his scales and called upon his link with the source. A golden string snapped into his mindscape, connecting domain to demon.
+
+Obviously, without more source energy he couldn’t even consider moving the sigil. But the thought did come back. If he had it, would he do it? Would he actually utilize it on research comprehension, despite the incredible risks it would clearly have?
+
+Kairon considered that.
+
+Oh who am I kidding. Of course I would. The risk only makes me want to do it more. Only…
+
+Kairon had learned from last time. He would take precautions. In this case, he’d only do it with the void demoness’s partnership. And for now, he wasn’t quite ready to take that leap. Maybe after the upcoming battle was dealt with.
+
+Besides, assuming we survive the paladins, the extra time would be good. To show me if Sythara can be trusted.
+
+Deciding it a moot point for now, he strode inwards to the six totems. Protected by the dome of the source energy, he felt no more than faint whispers and the brushing of emotions. In the presence of all six totems, they mixed and intermingled. A mess of indiscernible feelings all competing for dominance.
+
+Still, even when he was just a handful of steps from the totems, their cold precise stone edges leaning above him, it was easy to bear. Something Sythara continuously reminded him should not be.
+
+As if to emphasize the point, a disbelieving scoff came from where she sat.
+
+He chose to ignore it.
+
+Thoughts turning to the future, Kairon spent one breath confirming his thinking.
+
+There really isn’t much of a choice. I could pursue the efficiency of universal research. Root and vein had some fascinating options. I’m also curious what more hearth has to offer. The rookeries have been our first real buildings. What else might we learn? And this is just tier one research. What of tier two? Three? Five?
+
+Kairon shook his head.
+
+No. War is on the horizon. Weapons matter most. There will come a time for development. Soon.
+
+Which meant wrath.
+
+When it came to the rageful aspect, there was one downside. He was out of wrath building slots to allocate. However, the construction with the rookeries already proved this wasn’t necessarily an issue. He could replace existing buildings with new ones, albeit without any refund of the original cost or materials.
+
+So if he unlocked a new wrath building, he could simply replace the camp in the citadel district.
+
+Mind made up, he pressed his claw to the domineering red totem.
+
+Kairon truly wished he could at least see the paths available, but just like universal there was no follow up notification. Sythara would have to successfully complete the communion for that to open.
+
+Though… Thoughts of the demoness’s summoning tickled at the back of his mind.
+
+Sythara The Unraveler.
+
+Maybe there was something she could do? Kairon decided that certainly was something he was willing to speak with her about.
+
+Later.
+
+For now, Kairon thought back to his testing with essence last time. And, to what Sythara had said today.
+
+Wrath is, from what I understand, the representation of rage and destruction.
+
+He thought of the instinctual anger inside every human he’d met. Of the rage inside Vorathrex when he was first summoned. And then of himself. The anger he’d felt at the thought of waste.
+
+Kairon looked at the four purple essence beads gripped in his claws.
+
+The crystallized emotion of its host. But, that couldn’t mean they were all the same. I’d found out as much. Anger wasn’t universal. It could be hot, like Vorathrex’s, or cold, like my own. Or something entirely different, like Sythara.
+
+Peering into those little essence beads, he simply couldn’t parse anything out. The script inside bubbled and floated, but it meant nothing to Kairon. It was so tiny that even if he was fluent in demonic, something he was coming to think of as more and more daunting, the demon was fairly certain he would not be able to read it. Not without some kind of specialized tool that could untangle the mess of tiny script.
+
+Unable to think of any better method, he once again tested each essence for which showed the strongest reaction in the presence of the wrath totem.
+
+Setting each on the ground, he waited.
+
+Two bobbed, one twitched, and the fourth actually began to roll inwards.
+
+We have a winner!
+
+Snagging the essence that rolled, he pressed it, too, against the totem. Then, accepting the notification, Kairon initiated the wrath brand.
+
+With a hiss, it disappeared into the crimson stone of violence.
+
+***
+
+On his way back for the night, Kairon passed by the spawning grounds. Thoughts still on corruption, he checked in on the alteration from his sigil.
+
+How did the source of wrath relate to imps? When he spawned a wrath imp, did it have prior memories? Did it come from somewhere?
+
+Kairon had asked imps before about their prior lives, but none seemed to remember anything. Only primal, instinctual knowledge of castes, fractures, and the basics.
+
+The plane takes no price from me to make the imps. It simply generates them. Using… corruption, perhaps?
+
+However, the demon had used his sigil to make what should be a single imp a day become eleven. Shouldn’t that cause more issues? Not with the audit, but the actual mechanical workings. The costs and production.
+
+If corruption is the fuel, shouldn’t the new imps be weaker? Spawning ten times the amount in the same period of time?
+
+Yet, they weren’t. Kairon had inspected the new wrath imps, and by now it was clear they were just the same as any other warrior summoned normally.
+
+Which meant that the amount of lifeforms spawned isn’t a factor. The plane wasn’t allocating a standard amount of corruption, it was…
+
+His mind flipped to the feeding pit. How human corpses took three times as long as corrupted wood to process. And how those were far richer.
+
+Ah! Time. It’s time.
+
+The plane is set up so that it uses time to dictate its actions. Corruption might be made, processed, or siphoned at a fixed rate based on the scripture and rituals. This would also explain why the larger, more resource hungry rituals took far longer to complete.
+
+It also brought up a very, very interesting experiment.
+
+Kairon’s fangs gleamed in the moonlight. I won’t be able to try this now. Not with paladins so close on the horizon. But after we deal with them…
+
+What would happen if instead of spawning eleven wrath imps a day, I moved my sigil to the day or hour? Right now, the notification says one day. What if I made that eleven? Eleven days to spawn the same imp? What would that warrior be? If the plane had nearly two weeks’ worth of wrath spawning corruption shoved into one entity?
+
+The possibility was… terrifying. No typical city lord would try it.
+
+Fortunately, Kairon was most certainly not a normal city lord. With a happy hum, he added it as a must-try on his growing sigil experimentation list.

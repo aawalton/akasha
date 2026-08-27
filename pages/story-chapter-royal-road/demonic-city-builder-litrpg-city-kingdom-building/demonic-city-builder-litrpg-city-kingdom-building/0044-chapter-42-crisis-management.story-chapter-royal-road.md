@@ -1,0 +1,287 @@
+---
+id: 6bdefee2-f54d-51ac-aace-495b5b941a82
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42 - Crisis Management"
+slug: 0044-chapter-42-crisis-management
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 44
+ownLength: 2812
+unit: words
+publishedAt: 2026-07-11
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3660527/chapter-42-crisis-management"
+royalRoadId: "3660527"
+---
+
+They heard the shouting before they reached the gates.
+
+Kairon had just wrapped up a fruitful conversation, solidifying a financial deal that would serve him in the near future, when Shiny and a handful of brood imps came scurrying out of the walls.
+
+Atop them, several warriors had turned, attention stuck inwards on the tower.
+
+“What’s all that excitement about? Is everything okay?” asked Hector. Together, he, Kairon, and their combined guards had paused just outside the city perimeter.
+
+“Oh, I’m sure it’s just a little excitement about all the new faces!” he said reassuringly. Internally, however, his thoughts had a very different opinion.
+
+Ahead, the brood supervisor halted just in front of them. Shiny, bless his little devious heart, didn’t scream out or exclaim anything that would alarm the humans. He took in the scene, his master, the approaching lord Kairon had told him about, and the others.
+
+Then, Shiny bowed. “Welcome! Very glad meet. Master. We speak. Privately. There was…” Shiny turned, spotting Nod behind him. One claw stuck out, pointing at him. “Nod need help. Demonic Resource business. Imp fight.”
+
+Shiny. You are due for quite the raise, my little friend.
+
+Nod looked relatively confused, glancing back and forth.
+
+Before the DR supervisor could say anything contradictory, Kairon snagged the opening. “Hector, if you’ll excuse me, perhaps you could wait here for a moment. Let me just take a tiny peek to make sure the city is ready to receive guests.”
+
+“Hmm. Check on my men, would you? Elson especially. I find myself missing the lieutenant. The Five know it's hard to find good leadership.”
+
+The clerk smiled. “Oh, I know that all too well myself. I’ll verify his condition while I’m there. Just wait one minute!” With that, he led Shiny, Nod, and the rest of the brood contingent out of earshot. They strode through the city gates, dozens of pairs of eyes boring into their backs as they walked.
+
+“Just walk. Do not look back,” he muttered quietly. “Where’s the issue?”
+
+“Tower,” said Shiny simply.
+
+Calmly, as if nothing was wrong, they marched towards the black citadel. “What is going on?!” whispered Kairon.
+
+Ahead, shouts and exclamations echoed in the city proper. The moment they passed the shabby camps in the brood district, the scene revealed itself.
+
+Three wrath imps were holding down a squirming human, with several more imps barreling away from the tower’s entryway. From it, violet and golden lights blazed. Evidence that something was certainly happening.
+
+“Don’t know. Boney brought humans. Guard tower. I kept brood away. Then… Flash light. Loud screams.”
+
+“Screams?” asked Kairon worriedly. “From who?”
+
+“Human.”
+
+“Well. That’s good. But—”
+
+He cut off, a notification filled with golden lettering entering his field of view.
+
+Source +10 Threshold reached. City Warden Integrated.
+
+Kairon hardly even had time to process that when new golden letters began filling his mind.
+
+Source +10 Source +12 Source +10 Source +10
+
+As the notifications piled on, he felt a wisp of golden light connecting to his mind.
+
+My sigil!
+
+Every blip of the new source energy granted made him have an instinctive feel over the sigil in his brain. Not new comprehension, but the ability to wield it. As if his claws were slipping off it before, and now were getting a slight hold.
+
+Source +6 Source +3 Source +1
+
+He waited, like a kitten being fed. Waiting for its next meal. Only, no more was coming.
+
+The influx of source notifications and energy stopped, winking suddenly out of existence.
+
+Kairon had worked with systems for his entire life. Something told him the slight increase in his ability to hold his sigil was not the intended effect, but a byproduct. The true effects of this would be more foundational.
+
+Source… If something was foundational, that certainly alludes to it. A more basic energy? Source energy? That might explain some things…
+
+Finally, one last message entered his interface.
+
+Population -1 — Human Population +1 —
+
+Human? That means Veron?! Unless the city considered our guests part of the population…
+
+A quick check revealed the city most definitely did not.
+
+Did something happen to Veron? But then, why a blank population increase..?
+
+Hobbling forward, walking stick slamming up and down against the stone, Kairon rushed to the citadel.
+
+***
+
+When he got to the tower, he paused.
+
+Hallen’s servant looked up, eyes full of unmasked terror. “He was screaming… so loud…” he mumbled. “I tried to help. I tried. But they wouldn’t let me… And then the blood…” Red flecks were covering the poor man’s cheeks.
+
+“Who? Veron?”
+
+The man said something back, but it was blubbering nonsense. Clearly he was beside himself. “Shiny. Watch our guest please. See to it he gets something to drink. Purified water only,” he stressed.
+
+“Yes master.”
+
+Several brood imps led the servant further away, finding a quiet corner for him to curl up in.
+
+Next, the demon turned to the wrath imps. They were huddled in front of the tower, muscled forms uncertain. “Boney. What was he talking about?”
+
+The warrior straightened his shoulders and pointed up the stairs leading inside. “Sythara tried save patient.”
+
+“Which patient?”
+
+“New Human.”
+
+“Oh good. Not Veron. Well, what of the new human? Is he okay?”
+
+Boney winced. “Don’t think so.”
+
+To Kairon’s astonishment, the battle-hardened little devil was trembling. Not much, but enough that when his calculating eyes roved over his body, he caught it. Little twitches.
+
+He placed a reassuring claw on the imp’s shoulder. “Don’t worry. I’m not mad at you. You did your best, I’m sure.”
+
+Boney shook his head. “That not why…” He trailed off, before just motioning again towards the entrance. “Talk Sythara.”
+
+Nodding, Kairon dragged his frozen foot up the steps and entered the tower. “Sythara, there’s been quite a lot of commotion, and while I’m sure you’ve kept good Elson in the best conditions possible, I just want to ensure that both he and Veron are—” he stopped, mouth gaping. “Sythara?!”
+
+In front of him, the elegant demoness was standing in the center of the chamber. Around her, golden light filled the channels leading to the grates around the room.
+
+What had caught his attention most, however, was the dripping blood. It was everywhere. A grotesque scene that sent his mind reeling.
+
+For half a minute, Sythara, himself, and the dripping were all that was. All he could see. All that existed.
+
+“Hello, child. There were some complications during the treatment.”
+
+Her words echoed off his mind, rippling like a puddle.
+
+“Complications…” He just stared, still trying to process what he was looking at.
+
+How had he gone from finishing business deals to… this.
+
+Finally, his brain snapped back into place. He’d trained for cycles to manage problems, atrocities, and critical situations. Like a bucket of ice water had been thrown on his head, his focus went to what mattered most. Crisis management.
+
+What had Sythara done? Clearly he’d been too lax. Far too lax. This was the second time he was learning that lesson. Kairon swore to himself that once these humans were dealt with, there wouldn’t be a third.
+
+For now, he needed information. Hector Hallen would be looking for his man. That was critical.
+
+“Sythara,” he snapped. “I need a report on exactly what occurred here. Where is Elson?”
+
+“Elson?”
+
+“The sick human. He had signs of dehydration and overexertion.” Kairon thought he knew the answer, but part of him still hoped it was wrong.
+
+“Well…”
+
+“Sythara. Quick. I have a sovereign leader outside our walls from the only human faction ever to bring anything besides swords and threats to our door. One I’ve managed several lucrative deals with. I won’t have them tarnished over this… mess.. Tell me exactly what happened.”
+
+“Ok, ok. The little ones brought the human here, I diagnosed he was not, in fact, dehydrated. So, to try and save him, I provided treatment—”
+
+“Wait. What specifically were you treating him for if not dehydration?” Kairon asked, noticing she tried glossing over that detail.
+
+“Oh? I really wasn’t sure, but—”
+
+“Sythara! Details. Please. If I’m to salvage this situation, I need to know everything of importance. And, need I remind you that if we were to classify these activities as research from our pact, dishonesty would be a direct violation of it.”
+
+The demoness licked her lips. “Yes, yes. No need to remind me.” She sighed. “Alright, child. He showed no signs of heat sickness. At least, none that demons typically do. So, I assumed his condition was caused by the unknown energy source emanating from his core.”
+
+“Unknown energy source? Explain.”
+
+“A… golden light.”
+
+The demon pointed one black claw at the floor below. “Like what’s in those channels?”
+
+“Exactly!” replied Sythara.
+
+The demon clicked his tongue. “Okay. So this human was full of this energy. And then what did you attribute this to?”
+
+“Honestly? I had no inclination as to what caused it, nor what it would do. But, my research on the other human made me believe his condition was the opposite of theirs. So, I attempted essence fusion. It’s actually quite fascinating, you know, from—”
+
+“I’m sure it is. Later. You can share this later. And believe me, we will speak more on this entire ordeal. Extensively.” He stopped for a moment, letting that sink in.
+
+The demoness’s prismatic pupils narrowed. Not letting her reply, he moved on. “But for now, what happened to Elson? And Veron?”
+
+“Well, by the end of the fusion, the new human became fused to those grates. The energies from corruption and the golden light mixed, and there were some… unexpected developments. And he expired.” She paused, looking at the crimson marring every surface. “Messily.”
+
+He sighed heavily, his fear solidifying into reality. Hector Hallen’s lovely lieutenant was now splattered on the walls.
+
+Unable to help himself, a thought poked at him. Even now, in the midst of this crisis, that mystery… This golden energy must be this source power the system notified me of. It’s the same that connected to the soldier when they entered my domain. The same thing that caused that reaction. Whatever source energy is, it seems… largely incompatible with the purple, corrupt energy of the demonic.
+
+“This new energy,” mused Kairon. “You truly have no idea what it does? Even after witnessing this?”
+
+“I can tell you it isn’t corruption. And, it isn’t demonic. It’s something… else. Something that probably originated here. In this most interesting world you’ve brought me to, child.”
+
+He ran his tongue over a claw, considering. Energy of this world. Or whatever lies beneath it. And, when it melded with the demonic, just like my sigil and scripture, it became volatile. As if the two aren’t meant to coexist.
+
+Then a more personal thought came to light.
+
+“I see. And what of our friend, Veron? Is he okay?” he asked.
+
+Seeing her hesitate, Kairon hurriedly began limping over to the green tent. “You didn’t even think to check on your patient?!” he called back in exasperation.
+
+“I… Have not had the time,” replied Sythara after him, currently kneeling down and inspecting the bloody stone. One pale finger slid along it, making a viscous trail. “To cause a reaction like this…” she muttered.
+
+Kairon put her out of his mind. He just focused on getting to the tent. One frozen foot in front of the other, he barreled into it. Two claws yanked open the canvas, shredding parts of it in his haste.
+
+“Veron! Are you alright? I… Veron?”
+
+Where once a normal, rustic human man lay, there was now something new.
+
+Half of a torso, from the waist up, was fused into a grate in the ground. Flesh was replaced with a white, marbled-like skin.
+
+“Oh, my friend. What happened to you?” said the demon. “The reaction…”
+
+Yellow and purple arteries snaked through the body, leading down into the golden channel below.
+
+“Sythara… I think… I think he’s gone.” A pang of genuine sadness filled Kairon.
+
+The only human friend I made in this world. There was Hector now, but that conniving man was the last person Kairon would ever call a friend. More like… a younger adversary. One that had much to learn, but was still a worthy foe.
+
+Thoughts going back to Veron, he shook his head. He couldn’t allow himself to dwell on…
+
+Wait!
+
+Like a slap, that single line of text came back to his mind. The blank increase to population.
+
+Hastily, he pulled up his readout.
+
+At the very bottom, there was a blank value. The system would never register a corpse as population, right?
+
+Which means…
+
+“He’s alive!” exclaimed Kairon. “By the system, he's still alive!” he laughed. “Hear that, Sythara? There’s hope for this poor man yet!”
+
+In the middle of the chamber, she was still busy running tests with her glowing palms. “Oh? Interesting…”
+
+“How is that goop more important than this. Than the fact our ally lives? That my investment wasn’t for nothing.” Shaking his head, he gently prodded the hardened exterior of Veron’s body. Or what remained of it, anyway.
+
+When he touched the torso, where gold tangled with purple, the sigil in his mind twitched. Then, just like before, a metaphysical string was yanked taut and a golden pop-up appeared.
+
+Source: 62 Submit Query? Y/N
+
+Query? What interesting wording.
+
+The clerk in him couldn’t help it. He selected Y.
+
+Query denied. Min - 1000
+
+He frowned. It probably is gated by that source value. Which, I just gained over sixty of. From the golden energy courtesy of Elson, I presume.
+
+What Kairon was trying to parse out was why the human soldier had this golden, source-rich energy inside him.
+
+He didn’t know what submitting a query in this new system might do, but saying he found it intriguing would be an understatement.
+
+Later. I need to see to Veron.
+
+“Sythara! Get over here, please. Explain just what I’m looking at.”
+
+“Gah. Tsk, tsk. So impatient.” Still covered in blood, she slid over. Her shadows trailed behind her, displacing the pooling liquid in dozens of tiny crimson paths in her wake.
+
+Her annoyance melted away when her eyes landed on Veron. The tentacles behind her flicked, throwing flecks of muck in all directions. Then, they converged, slithering up and down the marbled white body.
+
+“Child, I think coming to this realm may have been a wondrous stroke of luck. I thought there might be some interesting tidbits to research, but you just keep managing to surprise me.”
+
+“I’m glad you’re onboarding well. Can you please explain what happened to Veron? I invested time, resources, and companionship in him. And… based on the notification I got, he isn’t dead.”
+
+Sapphire pupils widening, the demoness ran her wrist over the marbled forehead. “Mmm. Yes, yes. He is very much alive.”
+
+“Good. Can you… fix this? Fix Veron, I mean.”
+
+Sythara barked out a laugh. “How do you expect me to do that? Clearly, the human has fused with this most fascinating tower of yours. In all my time in the plane, I’ve never seen anything like it. Frankly, I wouldn’t want to fix him even if I could. I want to study him,” she breathed.
+
+“Study? Sythara—” he stopped himself. Sythara was a scientist, and if he wanted to recoup Veron’s condition, he needed to approach this like one. “Would this studying lead to findings that might give us some inclination on how to reverse his condition?”
+
+“I don’t know. Maybe. It would certainly lead to some very interesting research,” she said distractedly, hands tracing every inch of the bisected torso. Elegant fingers ran from chin, to neck, to stomach, to where the waistline melded into the grate below.
+
+“Fine, fine. An agenda item for later. Do you know why?”
+
+Just as she was about to reply, Shiny stepped into the chamber. His amber eyes took in the scene, widened, and then hardened. He shook his little red head and turned his attention to Kairon.
+
+“Master. Human at gate… They asking questions. Getting impatient.”
+
+Sucking in a breath, the demon nodded. “So he is. So he is…” he trailed off. “Sythara, the human servant outside. The old one. Did he see anything during your… experimentation?”
+
+“As far as I could tell, the man was oblivious. I told the little ones to keep him out. They did so, of course,” she snorted. As if the very idea of disobeying her was irrational. A moment later, she continued on. “Come to think of it, I did hear some shouting. But I don’t believe he actually saw anything. Honestly, child, it was hard to tell. I was quite preoccupied.”
+
+“We’ll assume he didn’t. If he had, the man probably would have reacted more strongly.” The city lord gestured to his councilors. “Here is what we are going to do.”
+
+Activating Sovereign Eye, he began mentally dishing out orders.

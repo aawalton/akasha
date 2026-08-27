@@ -1,0 +1,145 @@
+---
+id: d6b10aa0-ad3f-5b70-8ada-4f41014cd0e0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 56"
+slug: 0056-chapter-56
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 56
+ownLength: 1411
+unit: words
+ownProgress: 1411
+publishedAt: 2023-03-14
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1137913/chapter-56"
+royalRoadId: "1137913"
+markedReadAt: "2026-06-29T20:33:44.192Z"
+---
+
+Once transferred into the boss room I looked around in awe. This is much different than I expected it to be.
+
+We all stood in a wide open plane with short grass and no trees. There were tall rocky hills blocking off the area acting as walls in all directions around us. It was about 500m long and 500m wide if I had to guess.
+
+The sky is a light grey color, similar to when it's about to rain. The air visibility is fine up close, but it is a little misty when looking far off into the boss room. There are no monsters in sight, but I hear a rumbling in the distance.
+
+I used inspect and enemy detection.
+
+[Lv. 224]
+
+[Lv. 227]
+
+[Lv. 228]
+
+[Lv. 230]
+
+[Lv. 231]
+
+[Lv. 231]
+
+[Lv. 256]
+
+My jaw dropped.... I yelled.
+
+"Incoming! There's 7 of them... 7 Bosses!"
+
+Hudson yelled back to all us.
+
+"Nessa and Jay, follow me. You 3, take on the stampede. Those aren't bosses, we're going to be dealing with a real boss soon though.
+
+The team of 3 including the tank and two women nodded and charged towards the monsters.
+
+Hudson lead us away from the soon to be battlefield. I followed close behind but yelled at him.
+
+"They can't handle it! Those monsters are much stronger than anything I faced out in the dungeon. Are you trying to kill your team??"
+
+He grinned at me.
+
+"One moment."
+
+We stopped running and turned around to face the action. Nessa and Hudson both stood there smiling watching their team members charge towards impending doom... They're all barely level 200, I don't know how they could possibly win. Are these people crazy???
+
+Hudson clasped his hands together, and started squatting down slowly while closing his eyes. A warm yellow light started to glow all around him and spread out rapidly.
+
+As the light hit me I could feel an immense amount of warm energy fill my body.
+
+It shot up through my legs into my back and all throughout my arms. I felt energized and ready for battle. Even... stronger maybe?
+
+I watched the team of 3 run towards the group of monsters as they came into view. The yellow light reached them seconds after it hit me. The moment it did, they all began running significantly faster than before.
+
+The 7 Minotaur that appeared were very intimidating. The monsters in the normal dungeon were nothing in comparison. These ones are all about 5m tall, and they're packed head to toe with muscle mass. Every step crushes the ground, I can feel the rumble from hundreds of meters away.
+
+Their skin is a very dark red color with some black fur spots in certain areas. They all carry massive silver axes and looker angry as can be. The highest level monster is up front, and the other 6 are in 2 lines of 3 behind it.
+
+The tank was up front facing them off. After the wave of energy from Hudson, I'm feeling much more confident in them despite the obvious level disadvantage.
+
+Moments later the battle really began.
+
+The tank charged onward with his heavy shield facing forward and used some type of body hardening magic. His entire body turned a silver color that matched his gear and took on the Minotaur's axe.
+
+"CLANGGGGGG"
+
+He... blocked it. The tank even managed to push that level 256 monster backwards as the rogue and sword wielder attacked the beast from both sides.
+
+They both landed a clean hit, and actually did a little of damage. It's almost like they're fighting opponents of similar level. How could this be? I spoke to myself out loud.
+
+"How.... How did they get so much stronger?"
+
+Hudson grinned at me with a look of satisfaction.
+
+"It's my skill. I can buff the surrounding hunters stats for about 1 minute. It'll use up all my MP, but that's what we're here for. To train you guys, not me."
+
+He smiled, I replied.
+
+"That's a useful skill. How much is the buff?"
+
+"Well, right now it'll raise every stat by about 25 percent. Comes in handy for boss rooms like this. Unfortunately, I can only buff my team members, It doesn't work on myself."
+
+"Makes sense. That's really good."
+
+I nodded and looked back at the battle at hand while thinking to myself.
+
+So if a hunter is around level 200, that means with this buff in place their stats are equivalent to a level 250. It may only last for a minute, but that may be all the time we need. You could grind some serious levels with a skill like that! No wonder he trains D Class Hunters for his guild.
+
+The rogue and sword wielder were incredibly fast compared to the 6 minotaur in the back. The one up front could track their movements and block attacks pretty easily though. It's overall defense is also incredibly high, at this rate they need to land 30-50+ more of those hits to take it down.
+
+The tank kept the level 256 busy by letting it hit him over and over again while he used his hardening skill. The other two weaved in and out of the other 6 minotaur slowly chipping away at their HP. About a minute later, half of them were on the ground.
+
+Hudson drank and MP potion and let out another surge of energy. It began to flow through my body again and I felt all my stats increase simultaneously. The second time was still just as cool as the first.
+
+As the two women finished off the other 3 weaker opponents I watched the beast bash away at the tank's shield. He is definitely getting tired, but his teammates are now on the way to help.
+
+The team of 3 faced off against their final opponent. I watched with jealous eyes. They must be having such a good time with that beast. They'll need to chip away at it slowly and be very careful with every move they take. I watched in awe for a few more seconds wishing I could also be out on the battlefield.
+
+Then I felt an ominous presence.. like it answered my thoughts...
+
+The air felt dense and everyone turned to the back of the cave, even the remaining Minotaur paused its attacks for a moment. Something evil is lurking at the back if this dungeon... The real boss is finally here.
+
+I could almost visibly see a dark fog coming from the distance, but I think its just my imagination. The heavy magic in the air and light mist are playing tricks on me.
+
+I used inspect and enemy detection.
+
+My heart skipped a beat.
+
+[Lv. 312]
+
+It's over level 300... how is this possible? Even with Hudson's buff, no one here even gets close to its level.
+
+The 3 occupied team members continued their battle. I could see Nessa was visibly concerned, she could also tell whatever just appeared is incredibly strong.. Hudson looked confident still, I guess he has a plan. That made me feel a bit better.
+
+I'm shaking. With some nerves, but mostly excitement. I can't control it.
+
+I stared out into the distance as a large shadowy figure emerged from the horizon coming at us with unbelievable speed.
+
+Hudson shouted.
+
+"I have 2 more full MP potions. Nessa and Jay, take it from here. You have just under 3 minutes to take this thing out!"
+
+I looked at Nessa and she looked back at me. We both ignited our swords and sprinted forward towards the creature in the distance.
+
+As we got closer It came into view and let out a mighty roar. I couldn't believe my eyes at first. This is truly a demon....
+
+The monster's skin is jet black and it stands over 7m tall. The beast's muscles and veins are somehow even more impressive than its underlings with very visible striations and oversized limbs. The horns coming off of its head are a different color than any other minotaur I've seen before as well. They seem to be black, but they shine a deep crimson color when light hits them from an angle.
+
+It wears huge silver wrist guards and wields a massive battle axe to match them.
+
+The energy emanating off it gets stronger and stronger with every step closer I get.
+
+This is definitely going to be my hardest battle yet, and I can't wait.

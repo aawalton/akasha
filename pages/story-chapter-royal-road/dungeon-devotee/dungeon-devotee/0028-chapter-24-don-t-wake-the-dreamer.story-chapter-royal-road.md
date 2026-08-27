@@ -1,0 +1,623 @@
+---
+id: cb737bf3-31c8-56dd-bc05-243ccc65419b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24: Don’t Wake the Dreamer"
+slug: 0028-chapter-24-don-t-wake-the-dreamer
+partOf: dungeon-devotee
+position: 28
+ownLength: 7944
+unit: words
+ownProgress: 7944
+publishedAt: 2023-09-01
+link: "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1329629/chapter-24-dont-wake-the-dreamer"
+royalRoadId: "1329629"
+markedReadAt: "2026-06-29T22:40:01.087Z"
+---
+
+Edmund emerged from the dark between levels and glimpsed annihilation.
+
+It seemed, at first, as a wall before him, scales the size of the festival platters he’d seen bear an entire roast pig every year on Bounty Day.  They glimmered dark in the torchlight, a crimson so umbral it toed the very edge of black.
+
+Only as Edmund averted his gaze could his mind even begin to fathom the enormity before him.  Above, it curved in beneath the cavern ceiling, spines taller than he narrowly slipping between the stalactites.  Below, golden glimmers peeked out from beneath its mass, distorted shapes that sparkled in the dull light of the smoldering braziers that flanked the entrance.  As Edmund squinted, he recognized one such piece as a golden chalice, bent out of shape by the weight of the monstrosity atop it.
+
+Though fear so frequently failed to pierce the haze of smoke that encircled Edmund’s heart, here it sent a shiver down his spine.  He didn’t need his Madness, nor even much thought, to identify the beast before him.  He’d heard legends enough.
+
+Much as the various guilds and guides and institutions of Harrowed’s Hearth aimed to keep information on the Eternal Depths locked away behind the nebulous barrier of payment—ostensibly to disincentivize the unprepared from taking dangerous risks, but in reality as a particularly effective form of extortion—loose tongues and open ears left cracks through which the dregs could slip.
+
+Along the gutters and alleys did rumors best spread, rumors that found Edmund as they did all others, with a grain of salt.  The tales conflicted in number and kind, yet they spread with such consistency that their shared kernel of truth had taken root in even Edmund’s skeptical mind.
+
+Somewhere, hidden in the Eternal Depths, at least one dragon had made its hoard.
+
+That Edmund still drew breath meant he’d yet to draw the attention of the force of nature beneath which he stood, a curiosity explained simply by the wooden sign that sprouted from the floor before him.  In crudely scrawled black ink, it offered a single instruction.
+
+Don’t wake the Dreamer.
+
+Edmund exhaled.  He knew by the accords Liam couldn’t put him up against a dragon, not on the twenty-fourth floor.  Thrax, probably not in the first two hundred floors.
+
+For perhaps the first time since he’d set foot in this accursed place, Edmund decided without hesitation that he would follow Liam’s instructions to the letter.  No amount of smoke would keep him alive against a dragon.
+
+It did, if pointlessly, offer him a name, one that shone a deep and all-consuming black.
+
+Vlaevia, the Dreamer
+
+Liam’s part of this seemed clear, a show of force, as if the whales of the last level hadn’t been enough.  Vlaevia alone could raze Harrowed’s Hearth to the ground, and here she dreamt, under Liam’s roof.
+
+Edmund refused to be cowed.
+
+Rather than dwell on the insurmountable might in front of him, he set his focus on the smaller details, the ones to which he could adapt.  The floor beneath his feet shone black and shiny, ripples running through it in conflicting paths as if it’d been melted and resolidified a dozen times.  It made for a hard and uneven surface with unpredictable bends and divots treacherous to unsure feet.
+
+His blackbone boots offered the agility to keep him steady, yet their solid soles tapped against the stone with a volume that echoed across the vast cavern.  For a moment, Edmund mourned the loss of his shadowhide boots, their muffling enchantment a boon he’d sorely miss.
+
+Satisfied no traps nor lurking fiends nor waking dragons would take advantage of his distraction, Edmund turned his attention to the next pressing matter: his right hand.
+
+Already the ache of the urchin sting had crept past the second knuckle of his pinky, the skin at its tip turning a disquieting black as the venom necrotized it.  Edmund grimaced.
+
+He’d yet to come across a toxin that could overcome the health regeneration from his Aspects and Sigils, especially combined with The Island’s resistance.  He supposed the immense regen the slumbering deep offered while sleeping might’ve fought it off, but he dared not unfurl his bedroll on an uncleared floor.
+
+Luckily, he’d come prepared.
+
+From his satchel Edmund drew a boiled-leather vial, one he’d purchased from the market back on the fifteenth floor.  He pulled the cork and downed the cloyingly sweet potion of curing in a single gulp.
+
+Nothing happened.
+
+Edmund scowled, staring down at his rotting finger as the minutes ticked by, searching for any sign of change one way or the other.  The darkness seemed to retreat slightly, but he couldn’t say for certain.  If the potion was doing anything, it was doing it slowly.  Edmund sighed and returned the empty vial to his bag.  He’d have to take another look at the wound later.
+
+In the meantime, he looked to his newest piece of equipment, the sword he’d claimed in those final moments before the flood of mindrot dominators had driven him to flee the previous floor.
+
+Rotflesh Cutlass
+
+Inflicts major rotflesh on blood draw.
+
+Edmund nodded in satisfaction.  He’d expected as much.  Thus far Liam had gone three for three on poisoned blades, Rat’s Fang, Scorpion’s Sting, and his newest sword simply different form factors of the same basic concept.  The saber’s curved blade would make it less suited for thrusting attacks than its predecessors, but Edmund could afford that adaptation.  His spear would always be the superior thrusting weapon either way.
+
+One more glance at his pinky reaffirmed the potency of the toxin.  Anything that could push through his regeneration, resistance, and still survive a potion of curing for as long as it had had to pack a punch.
+
+Edmund spared a thought of gratitude that this sword had come with a sheath.  He strapped it to his belt.
+
+For his final preparations, Edmund pulled his shield off his back, slipped his arm through its straps, and assembled his spear into his other hand.  He’d have to take care which pieces of his arsenal he utilized, immediately eliminating skills like Brutalize and Firestorm for fear of breaking the level’s only rule.  Thrax, even Challenge was out, the vocalization it required too much a risk.
+
+Weapons equipped and stock taken, Edmund turned to follow the only path available.  While to his left the dragon’s flank sloped in to meet the wall, to his right it curved away to allow him passage.
+
+He made it four steps before rethinking his footwear.
+
+Even progressing at his usual glacial pace, the tap of his boots against the stone floor resounded through the space.  It obviously had yet to disturb Vlaevia, but Edmund knew he couldn’t keep up such a careful pace.  Sooner or later, he’d have to run.  Sooner or later, he’d have to fight.
+
+He knelt, placing a palm against the melted and remelted surface.  He put weight on it.  He ran it laterally across, managing a few inches before a jagged edge tore through his skin.
+
+Edmund cursed.
+
+He’d tear up the soles of his feet if he tried to go barefoot, a hindrance, but not the end of the world by any stretch.  He worried more that he’d wind up breaking an ankle attempting to run across the uneven surface.  He couldn’t take that risk.  Injury notwithstanding, any fall would bring his metal armor clattering against the ground.
+
+He’d have to depend on the rigid soles of his boots to bridge the twists and crevices of the cavern floor.  Edmund wondered if Liam had designed it like that intentionally.
+
+With a silent sigh he pushed himself upright and set off once more, following the curve of the wall and the dragon’s body as the two slowly diverged.
+
+Loose treasures cluttered the path, forcing Edmund to carefully step around gold and gems and other precious trinkets to which he held no claim.  The accords were strict about what did and didn’t constitute loot.  Instead, they served as gilded traps, items ready to clatter their owner awake at a single misplaced foot.
+
+He’d walked for some thirty minutes before the wall of dark scales began to separate from the ceiling above, its spines growing shorter and its curvature greater as Edmund progressed along what he’d realized to be the creature’s tail.  Even at its thinnest point, it reached several feet above Edmund’s head.  It ended at a massive spade, black as night and sharp as an axe along its edge.
+
+Only as Edmund peeked his head past the brutal weapon did he get his first glimpse of the cavern as a whole.
+
+Unimaginable wealth greeted him.
+
+Vast heaps of priceless artifacts and precious metals left little space for the winding path between them, a path Edmund imagined only existed to leave space for the braziers that lit the room.
+
+Vlaevia encircled it, her body curled in a great crescent that left her snout opposite Edmund.  Even across the vast expanse, he could see the tendrils of smoke drifting from her nostrils.
+
+The ceiling domed as it separated from the wall, vaulting high overhead until even the tips of the stalactites faded into shadow, far beyond the reach of the braziers below.  Edmund scowled at it through his helmet.  He’d seen several such darkness-shrouded ceilings, but ever since the seventh floor he kept keenly aware of what threats such gloom could conceal.  He’d have to keep an eye trained above.
+
+Potential dangers would have to take a back seat to certain ones as a hulking figure rounded a bend in the path to appear from behind one of the golden heaps.  It stood some nine feet tall on two legs, its back thankfully turned to offer Edmund a chance to watch it unseen as it stooped over to pick through the pile of treasures before it.
+
+Dark leather armor protected the thing’s chest and legs, leaving its arms, feet, and tail exposed.  All three bore dull green scales in lieu of skin, confirming the creature’s draconic origin.  On its clawed feet it wore thick leather pads that deformed along the contours of the floor, a silencing measure that somewhat vindicated Edmund’s own paranoia about keeping quiet in Vlaevia’s presence.
+
+Its pointed tail swished dangerously behind it, counterbalancing its upper body as it leaned over the hoarded wealth.  Before Edmund’s eyes it identified a loose ruby and snatched it from the pile, stuffing it into the sack in its left hand.  How it managed to spot which items it could take without disturbing the pile, Edmund couldn’t guess.  He could, however, guess its purpose.  The smoke confirmed it.
+
+Kobold Pilferer
+
+Before he could even finish reading the name, Edmund’s left shoulder burned with the activation of his challenger’s mark.  In front of his eyes the kobold’s armor changed, melding into itself and taking on a distinct sheen that flashed in the brazier light.  The wooden club at its waist followed suit, morphing from a misshapen branch to finely-crafted flanged mace of gleaming steel.
+
+Edmund let out a breath.  If that thing hit the floor, he was done.  Thrax, he couldn’t even hit the damn thing without the metal of his weapon clanging against its plate mail.
+
+The kobold seemed not to notice the change, content to continue burglarizing Vlaevia’s hoard.
+
+Edmund had no intention of letting the distraction go unpunished.
+
+He crept around the tip of Vlaevia’s tail, keeping low as he navigated the slim path between treasure mounds.  As he moved he readjusted his equipment, returning his shield to his back to grip his spear with both hands.  He might’ve managed to stop a swipe of the kobold’s claws, but any attempt to block that mace would’ve rung the shield’s mithril dome like a bell.  Edmund couldn’t risk the noise.
+
+A plan solidified in his mind as he approached, one that, with any luck, would keep the noise to a minimal level.  There were two problems to Edmund’s eye.  The first was the mace.  If he gave the kobold an opportunity to bring that thing to bear, Edmund had no defense.  The second was the sack of loot in its hand.  If that thing hit the floor any way other than extremely gently, the precious metals inside would make a racket.
+
+As he entered striking distance, Edmund raised his spear, its tip pointed just shy of straight up, evened out his stance, and marked his Target.  With a final breath, Edmund leaned in, and tapped the kobold’s tail.
+
+It jerked upright and whirled about, oh so nicely removing its center of mass from above the treasure heap in time for Edmund’s hyper-magnetic spear to meet the base of its snout.  Rebellion, The Tactician, The Target, and The Warmonger piled on their bonuses to force the spear tip past the tough scales and into the soft tissue beyond.
+
+The kobold twitched and froze.  Its claws went slack.
+
+Edmund lurched for the loot sack with his left hand.  It fell over a foot before he grabbed it, then another as his outstretched arm absorbed the momentum of the heavy metals within.
+
+With his right hand, Edmund carefully lowered his spear to the ground before the kobold could fully collapse, a soft clink ringing out as he nestled the butt of the weapon into one of the floor’s crevices.  He exhaled.
+
+The kobold sank under its own weight as it breathed its last, further skewering itself until the top of its skull came to rest against the spear’s point.
+
+Edmund waited.  Sack held aloft in one hand, spear balanced on its base in the other, he counted out the seconds as the minutes dragged on.  It took six, in total, for the dungeon to reclaim the kobold’s corpse, leaving only its head impaled on Edmund’s spear.
+
+Unbidden, the image of Liam’s—the real Liam’s—cocky grin from atop the spike trap popped into Edmund’s head.  He swept it away behind a veil of smoke.
+
+Dealing with the severed head was a simple matter of inverting his spear to rest the kobold’s horns against the ground, holding it down with his foot, and yanking the weapon free.  Dealing with the loot sack was another matter.
+
+For safety’s sake, Edmund opted against just setting it down, too unsure about what would clatter against what to take the risk.  Instead, he let the sack’s mouth slip open and peered inside.
+
+Within he found a hodgepodge of valuable goods meticulously packed so as not to shift with motion.  Deforming the flexible sack would’ve broken the equilibrium within.
+
+With a sigh, Edmund reached in, removed the ruby he’d watched the kobold loot, and set it gently on the ground.  One down, a hundred to go.  Piece by piece he unpacked the bag, diffusing the sound bomb with the power of tedium.  Minutes later, he discarded the empty burlap and looked to the path ahead.
+
+He only realized his mistake as he took his next step.
+
+The foot pads!
+
+The kobold had been wearing leather padding to mute its steps, padding Edmund desperately needed if he wanted any semblance of maneuverability.  He cursed as he rethought his battle plan, wracking his brain for some way to neutralize a steel-clad kobold without the dungeon reclaiming its footwear.
+
+It turned out he needn’t have worried.
+
+As Edmund kept up his cautious advance through the overflowing hoard, a kobold rounded the bend ahead to face directly at him.
+
+The kobold let out a muffled hiss of surprise and slipped its loot bag through a loop on its belt.
+
+Edmund’s mark burned.
+
+The creature drew its club in the same moment as it transformed from wood to steel, lowered its stance, and charged.
+
+Edmund stood his ground, unable to flee or otherwise start an assault of his own.
+
+The kobold bore down.
+
+A plan materialized.
+
+Edmund disassembled his spear, its pieces floating through the air to attach to his various limbs as he drew his sword.  He gritted his teeth.  He’d only have one shot at this.
+
+Edmund conjured a Smoke Lash in his left hand and leapt into the air, taking a windstep to build as much altitude as possible.  His second step landed on the kobold’s shoulder.  In the same motion, he raked the edge of his sword across the kobold’s throat and swung his Lash around its torso. He vaulted overhead, adding spin as he kicked off his foe to turn midair.
+
+At the last moment before he hit the floor, Edmund spent his second windstep, halting his momentum against a platform of air to silence his landing.  Barely a drop of blood coated the edge of his cutlass.
+
+The force of Edmund’s kick sent the kobold stumbling forward, only to stop short forty-five degrees from the ground as the Lash around its torso went taut.  Its feet scrambled fruitlessly against the floor, their padding failing to find purchase.  Taking the opportunity, Edmund yanked on his Lash, swinging the destabilized kobold back past upright and towards Edmund.
+
+Edmund caught it with open arms, cushioning the monster’s fall and holding its metal armor and sack of loot up off the ground.
+
+Without bothering to sheath his weapon, Edmund cast a second Smoke Lash around his other hand, swinging it out to entangle the creature’s mace.  He gulped, and waited.
+
+Even as the rotflesh venom crept to its heart, the kobold kept its flailing contained to the path, too accustomed to working in the cavern’s imposed silence to dare disturb the hoard around it.  Its tail flailed about wildly, managing only to thump against the floor fruitlessly.
+
+When it finally went slack, Edmund was ready.
+
+He jerked hard with his right hand, yanking the mace free from the kobold’s loosening grip.  He’d expected it to fall, to very nearly clang against the ground before the upward tug of his Lash saved it.  Instead it took a direct path, the Smoke Lash acting as a tendril rather than a rope.
+
+Edmund blinked.  That was new.  He supposed it made sense.  The Lash was made of smoke, after all.
+
+The smoke was his.
+
+He caught the mace in his left hand before tugging at his second Lash, pulling the slackening kobold upright.
+
+Edmund darted in, supporting the dying draconoid with an arm on each side of its breastplate as it sank to the floor.  He lowered its body gently, keeping the loot sack at its belt hanging down the width of its waist.  A muffled clanging rang out from within.
+
+Edmund froze.  His heart raced.  His hair stood on end.  He swung his head around towards Vlaevia’s.  The stream of smoke from her nostrils grew thicker.  The cavern grew stiflingly hot.
+
+Then nothing.  The heat remained; the restlessness remained, but the Dreamer slept on.
+
+Edmund let out a breath.
+
+He sheathed his cutlass and set down the kobold’s mace before setting his eyes on its feet.  The claw-shaped foot pads didn’t entirely cover the soles of his blackbone boots, but as long as he refrained from kicking anything or walking on his heels, they’d serve well enough.
+
+At last properly equipped for the level’s terrain, Edmund pushed on with renewed confidence.  The next three kobold’s he dispatched with relative ease, able to avoid overcomplicated maneuvers and simply run them through with his spear now that he had the freedom to move quickly, quietly.
+
+He nearly flinched when he rounded the final treasure mound to come face to face with the slumbering dragon, only to actually flinch when a chime echoed through the cavern.
+
+Vlaevia didn’t react.
+
+Edmund allowed some of the tension to drain from his shoulders as circled the Dreamer’s massive snout to find the exit standing open beyond.  A small chest, trimming in gold and crafted of the same dark crimson scales as Vlaevia’s, awaited him.  He swung it open.
+
+Inside sat two coins, one leaning atop the other as if posed for a portrait.  No smoke drifted off them.  No enchantment made itself apparent.  The way their pale green seemed to capture the torchlight and glow as if from within told Edmund all he needed to know.
+
+Mithril.  Real, pure, mithril, not the diluted alloy in his shield and bracers.
+
+With a gulp, Edmund picked up more wealth than he’d ever dreamt of holding.  The coins were worth a thousand gold a piece, a veritable fortune.  He clutched them tight, the cool metal a seemingly infinite sink for the warmth of his palm.  He offered Liam a silent thanks in spite of himself.  Any other time he might’ve preferred something he could use, but with a hub floor coming up next, Edmund would have the perfect opportunity to spend his newfound wealth.
+
+More than satisfied with his prize for defending Vlaevia’s hoard, Edmund slipped the coins into his bag and brought up his constellation.  A number of options presented themselves.
+
+If he dared, he could combine Wrath with one of his low-resonance Aspects with the intent of mixing in Madness later to improve the resonance of the higher-tier result, but that meant weakening himself for several floors to come in exchange for little more than future potential.  It also meant going at least another floor without upgrading his Madness, a questionable decision given the Aspect’s importance.
+
+Alternatively, Edmund had access to four potential tier five Aspects, each of which would level up several others, Madness included.  He’d lose a bit of resonance on them, but gain the power he’d need for the immediate future.  Edmund didn’t like the idea of wasting precious levels forming confluences between two gray tier ones.
+
+He settled on Rebellion, the most resonant of his tier fours.  Its bonus damage to enemies above his level wasn’t particularly exciting, and its other effect was redundant with that of his bracers of the resolute, but it would theoretically offer a more resonant confluence.
+
+Mind made up, Edmund selected Wrath and Rebellion and formed his newest Aspect.
+
+Tier 5 Aspect: The Insurgent - Silver+ Resonance
+
+Level 1 - Provides access to the Collateral Damage active ability.
+
+Edmund nodded in satisfaction.  He’d always appreciate more tools in his arsenal, even ones he couldn’t test on his current floor.  There was no world in which he activated a skill called Collateral Damage with Vlaevia right there.  He’d have to save it for the hub.
+
+A quick scan of its components showed no changes to Wrath, Rebellion, War, The Island, Perseverance or Madness, a disappointment that lasted only until he checked the two that had changed.
+
+Tier 3 Aspect: The Rift - Gold Resonance
+
+Level 6 - Provides access to the Savage Rend active ability.
+
+Tier 1 Aspect: Solitude - Red Resonance
+
+Level 11 - Provides a greater increase to constitution while fighting alone.  Provides a lesser increase to celerity while fighting alone.  Provides a lesser increase to perception while alone.
+
+Rend, his oldest and most dependable active ability, had a new name and in all likelihood a new effect.  The word “savage” gave him some pause, especially as far as testing it out in the Dreamer’s lair, but he’d accept any and all boosts to damage output.
+
+Solitude, in turn, had picked up yet a third effect.  Banishing his constellation and glancing around the room, Edmund didn’t notice anything particularly different, but he supposed that’s what “lesser” meant.  It seemed like the kind of skill he wouldn’t notice, even as it saved his life.
+
+Level cleared and winnings claimed, Edmund set down his bag and returned to the greater cavern.  It’d been a while since he’d cleared a floor without any rush to depart, and he intended to take his time.
+
+First up came a thorough sweep of Vlaevia’s hoard, a meticulous search that covered every inch of exposed wall and floor between the various heaps of gold.  He eliminated some dozen kobolds as he searched, using and reusing the same spear-propping technique that’d worked so well in his first encounter.
+
+He returned to the exit empty-handed.  No secret panels, hidden doors, or concealed chests had made themselves apparent to Edmund’s eyes or the smoke.  If Liam had left anything to find, it was buried in the treasure mounds, features Edmund steadfastly refused to disturb.
+
+He supposed if he’d had a month to burn he could’ve painstakingly unstacked and restacked each pile to search through them, but over such a long period the odds of him eventually slipping up and dropping something approached a hundred percent.  Dungeon secrets or otherwise, Edmund didn’t fancy the idea of rooting through a dragon’s hoard.
+
+That only left taking whatever combat practice he could from the roaming kobolds, a limited but certainly useful task he resolved to undertake tomorrow.
+
+As he unfurled his bedroll, Edmund wondered how long it’d been since last he’d slept.  Tracking time proved a difficult prospect in the Eternal Depths.  It felt like an eternity since that restless night in Amelia’s tent.  Since then, he’d only—actually, did getting knocked unconscious on the twenty-first floor count?
+
+Not bothering to stifle his yawn, Edmund lay back before turning onto his side and propping himself up with his helmet to keep from rolling onto his back.  It would’ve been agonizingly anticlimactic if he’d made it this far only to die by rousing Vlaevia by snoring.
+
+Wrapped both in the joy of victory and the calming comfort of the smoke, Edmund let his eyes drift shut and joined the Dreamer in her slumber.
+
+His Majesty Francis Gluhmbridge Morathian, High King of Linaria, the Songwalkers, and the Southern Cities, had had about enough of this gods-forsaken city.  He stormed through the halls of Duke Chiron’s palace, his aide scurrying at his heels, as he departed yet another fruitless update.
+
+“It’s been six months, your majesty,” Carlyle sputtered behind him.  “Perhaps it’s time to consider—”
+
+“I’m not leaving without my daughter,” Francis snapped.  “Westfield can manage well enough in my absence.”
+
+“Minister Westfield has dispatched three missives requesting your return this past week, your majesty.  If you don’t return to the capital soon—”
+
+“And what do you suppose will happen if Amelia dies down there?  How do you suppose the realm will fair if Humphrey has to take the crown instead of securing our relationship with Fyriax?”
+
+“I assure you, I’m more than capable of overseeing the rescue efforts in your stead.”
+
+“No,” Francis said plainly.  “You aren’t.  Not of negotiating when her captors finally come forward, nor of going to the same lengths I am.”  He shook his head.  “That they’ve eluded us this long testifies to their skill.  I’ve no doubt they intend to delve deeper into the Depths until our men can no longer match them before they come to the negotiating table, effectively removing rescue as an option in a bid to force my hand.”
+
+“And what of this dark-haired stranger?  He wasn’t one of the traitors that stole her away, yet he told us Amelia wouldn’t be leaving the Depths until he’d finished what he’d come there to do.”
+
+“I can only assume he’s the ringleader behind this entire plot.  As you’ve mentioned, he’s outright declared he won’t negotiate until they’re beyond our reach.  Whatever hooks he has into my daughter, I’ve let them fester long enough.  Consequences be damned.  If I have to tear that hillside from the earth, I’ll do i—”
+
+King Francis cut off as he swung the door open to his borrowed study to find a sandy-haired man—scarcely more than a boy—dressed in pauper’s rags, sitting behind his desk with his filthy feet up on the gold-trimmed mahogany.
+
+“Your majesty, what’s—” Carlyle stepped past him to see the intruder.  “Who are you?  How did you get in here?  I’ll have you know this is—”
+
+The stranger flashed a sly grin, his eyes trained past Carlyle to focus directly on the king’s.  “I was just wondering how long you intended to linger in my city.”
+
+“You address his majesty, the high king of Linaria, beggar.  I’ll have your head for this disre—”
+
+“Leave us, Carlyle,” Francis spoke, his voice unnaturally steady.
+
+“But, your majesty—”
+
+“I said, leave us.”  Francis flared his Aspect of Authority, stilling the air in the ornate study.  Carlyle froze.
+
+The intruder simply smiled and tilted his head, somehow unaffected.
+
+But Carlyle didn’t obey.  He neither bowed nor blinked nor took his leave.  He simply stood, paralyzed as if bound by invisible chains.
+
+Only as the stranger smirked once more and made a shooing motion with his hand did the aide depart.
+
+Even behind the mask of The Stoic, Francis gulped.  “I take it you represent the Eternal Depths?”
+
+“Take it how you will.  I’ve been going by Liam lately.”
+
+“Liam, then.  To what do I owe this… delegation?  I can’t imagine the Eternal Depths cares much where I spend my time.”
+
+“No.  I care what you intend to do with it.”  Liam folded his hands together in his lap.  “I believe your exact words were ‘you’ll tear that hillside from the earth’?”
+
+The king didn’t answer.
+
+“Now, Francis, I think we can agree that neither of us wants to see that happen.  I do so like the exterior decorations as they are, and I’m sure you’d prefer if this city stayed where it was, wouldn’t you?”
+
+“I want my daughter back.”
+
+Liam raised an eyebrow.  “And you believe antagonizing me is the way to accomplish that?”
+
+“I believe ten minutes ago you weren’t sitting in my office.”
+
+The grin reappeared on Liam’s face.  “Clever boy.  Alright.  Here I am.  What’s your real leverage?”
+
+Francis stepped around the mahogany desk to reach a drawer to Liam’s right.  From within, he withdrew a sheaf of paper.  “I have here a royal decree to implement strict ability testing before allowing entry into the Eternal Depths.  With the wave of a pen, I could cut you back to only the most talented delvers.  In exchange for keeping the floodgates open, you’ll return my daughter to me.”
+
+Liam leaned in to peruse the first page before sitting back once more.  “Go ahead.  I’m hardly dependent on your dregs.  In fact, losing them might help address another problem of mine.”
+
+The king leapt onto the opening.  “This other problem.  Is it something with which I could assist?”
+
+“My dear Francis, it sounds like you’re approaching something resembling a deal.  I like deals.  They’re something of a specialty of mine.”
+
+“So I’m aware.  What will it take to get my daughter back?”
+
+“I’m afraid I can’t just hand her over.  I need her, for the time being.”
+
+Francis scowled.  “This problem of yours?”
+
+“Indeed.  She’s been such a great help.”
+
+“What about this man who’s taken her?  This dark-haired stranger?”
+
+Liam let out a laugh, a sharp and disbelieving thing that rattled Francis down to his bones.  “You don’t want him.”
+
+“He’s taken my daughter.”
+
+“Oh, don’t get me wrong, he’s certainly the key to your daughter’s survival.  He’s just not a key you can turn.”
+
+“And you can?”
+
+Liam sighed.  “If only it were that easy.”  He pushed himself to his feet, looked up at the taller king with those mischievously cocky eyes of his.  “Here’s my offer.  I’ll give you a chance.  At your daughter, at the man who took her, at anyone else currently hiding in my depths from those soldiers of yours.  It’ll be up to you to take it.”
+
+“And what’ll it cost me?”
+
+“Nothing too objectionable, I assure you.”  Liam stepped past the high king of Linaria, his ragged foot wraps dragging across the priceless Byresian rug as he made for the door.
+
+Francis refused to turn around, keeping his eyes fixed on the desk in front of him.  He’d dance on no prince’s string.
+
+No trace of pleasure or annoyance at the gesture colored Liam’s voice as he stopped within the doorway to add his final comment, his great task for which he dangled the princess’s life.
+
+“There’s someone I need you to find.”
+
+Edmund awoke to a faint buzzing along his left ring finger, a thrice-pulsing vibration that tore him from sleep’s tenuous grip.  He’d already come to full attention by the time Amelia’s voice echoed through the quiet cavern.
+
+“—ope this works.  Edmund!  I’ve made it to the hub.  It’s crawling with guards, so I’m hiding out a bit off the beaten path.  Once you lose them, come to the northeast bank.  There’s a hollow in a tree that—”
+
+Edmund bolted upright, his heart pounding for a terrified moment as he looked to the Dreamer.
+
+The room grew no warmer.  The smoke grew no thicker.  Vlaevia’s eyelids didn’t budge.
+
+Edmund exhaled.  The message had played for only him.
+
+He ran a finger over his ring of twinned souls.  Cut off as they’d been, Amelia’s instructions hadn’t left him much to go on.  Thrax, Edmund hadn’t known cardinal directions worked in the Depths.  He’d have to track down a compass if he even wanted to find the northeast bank.
+
+The thought of sending a reply didn’t even cross his mind.  Amelia’s voice might’ve come through silent, but Edmund’s wouldn’t begin like that.  Better to finish up here and get back to her on the twenty-fifth floor.
+
+Before setting off, Edmund’s gaze dropped to his right pinky.  The rotflesh had retreated, leaving just the very tip of the digit a dull gray.  He sighed.  It’d taken both a potion of curing and a full night’s sleep with his sigil of the slumbering deep to fight the toxin back.  He hoped it wouldn’t start progressing again now he’d woken.
+
+Shoving that grim worry aside, Edmund thought through his plans as he packed up his bedroll, considering how Amelia’s message may have changed them.  He had already killed more than enough kobolds in his sweep of the level.  There was certainly more to learn about fighting under this floor’s unique limitations, but how often would Edmund actually need to fight without making noise?
+
+He sighed.  Lately it’d felt like Liam had been driving him deeper and deeper at a breakneck pace, always providing some reason he had to keep moving.  For once, Edmund wanted to take his time.
+
+Amelia could wait one more day, right?
+
+Leaving his satchel and shield stashed by the exit, Edmund ventured into Vlaevia’s hoard once more.  His Smoke Lash had behaved oddly in one of the prior day’s encounters, and he’d yet to successfully replicate that tentacle-like level of control.
+
+Edmund made it three steps before his plan changed.
+
+Obscured in the smoke and the shadows, hidden betwixt the stalactites and spines on Vlaevia’s back, a flash of misplaced color caught Edmund’s attention.
+
+Like a beacon amidst the black and brown and deep dark red, shined a smudge of azure blue.
+
+Edmund’s breath hitched.  What in the hells was it doing up there?  He stood and watched it as the minutes dragged on, silently willing the smoke to part long enough to offer a clear view.  When at last it did, Edmund suppressed a groan.
+
+Perched atop the neck of a Thrax-damned dragon, the azure fox had curled up to sleep.
+
+Edmund decided to leave it.  He didn’t trust his own ability to climb along the Dreamer’s back without waking her, and the fox would have to leave eventually, right?  Resolving to keep a lookout, Edmund singled out a kobold and settled in to work.
+
+Hours passed in dull repetition, kobold after kobold falling to his blade as Edmund practiced various methods of silent execution.  Only twice did he manage to recreate his Smoke Lash’s articulated motion, both times in moments of desperation as a loot sack threatened to clatter against the ground.  He dared not intentionally cause such desperate instances to solidify his theory.
+
+The fights proved far easier without his mark covering his foes in metal, the increased difficulty failing to apply on the cleared level.  Edmund found challenge enough without it, limiting himself yet further to finding victory with only his cutlass or only his Firebolt, all the while catching each corpse before it could collapse into the heaps of treasure.
+
+It was not the azure fox that broke Edmund from this pattern, but a set of hushed voices that echoed from the entrance.  Their source had clearly read the warning sign out front, the dull whispers only just registering to Edmund’s sigil-enhanced hearing, but that wasn’t what gave him pause.
+
+Distorted by distance and the dragon between them, most of their conversation reached Edmund as little more than a muffled mess, yet the final two words, from a different speaker, came across decipherable enough to send a jolt down Edmund’s spine.
+
+“Yes, sergeant.”
+
+Shit.  The kingsguards were here.  Edmund spared a glance for the exit, knowing full well he could make it to the next floor before the soldiers so much as laid eyes on him.  That’d be the safe option.  The smart option.
+
+It’d also mean foregoing an opportunity to upgrade his sigil of the azure journeyman.
+
+The fox seemed unperturbed by the guards’ appearance, at least so far as Edmund could tell from his limited view of the beast.
+
+His mind racing through his options, Edmund sped back to the exit, carefully listening for the soft tap of metal sabatons against the stone floor.  He had time.  The guards couldn’t move quickly armored as they were, and a full group of five would have to take down as many kobolds before they could plunder enough foot pads to muffle their movement.
+
+Edmund circled Vlaevia’s snout, stepping past the exit to align himself with the fox’s perch on the side opposite the hoard.  With any luck, the guards would never spot him.
+
+He started by stripping off his footpads and boots alike, the latter too hard and the former too smooth to claim much purchase against the sheer scales.  He’d do this barefoot.
+
+Next came the Smoke Lash, swung precisely for the lowest point of his targeted spine to minimize the leverage of his climb.  It took three attempts to properly wrap the spell around the thick base of the spike.
+
+Then, Edmund ascended.
+
+Hand over hand he pulled himself up, his bare feet walking up the surface of Vlaevia’s side in gentle, deliberate steps.  The air grew warmer and the smoke thicker as Edmund rose, though whether by the Dreamer rousing from her slumber or simply his increase in altitude, he couldn’t tell.
+
+The duration of his Smoke Lash ran out as he neared the top, forcing Edmund to expend both of his windsteps in a hurried bid to reach a stalactite around which he could wrap his arms.  High enough that Vlaevia’s back had become a steep slope rather than a vertical incline, Edmund continued in bursts, darting from stalactite to stalactite and stabilizing himself between.
+
+The air had reached sweltering by the time Edmund could glimpse over the dragon’s back to see the hoard below, the entire cavern stretching out before him.  He tracked the kingsguards for a few moments as they progressed, taking out kobolds in clusters of three or four in the tight pathways between golden heaps.
+
+They moved with expert efficiency, communicating in sharp and silent gestures as they methodically eliminated their foes.
+
+Edmund had to admit, the soldiers knew what they were doing.  He supposed their veterancy helped—the five had probably been fighting and training together full time for years.
+
+A chill ran down Edmund’s neck as he realized he wasn’t the only one reaping the dungeon’s bounty.  The guards earned boons of their own, similarly growing more powerful the deeper they delved.
+
+Edmund’s edge lay in his willingness to take risks they wouldn’t.  His current vantage proved that well enough.
+
+He crept along Vlaevia’s spine, the blanket of smoke that’d pooled around the ceiling providing cover aplenty for his approach.
+
+Sweat dripped down his brow, his back, the palms of his hands as at last he reached the azure fox.  Edmund knelt, hesitantly reaching a hand out to stroke the sleeping vixen between its demonic horns.
+
+It rounded on him, snapping bloodstained teeth at Edmund’s outstretched hand.  He jerked back.  A hideous scrape echoed up Edmund’s arm as the fox’s fangs crashed against the pointed tip of his crimson finger armor.
+
+Edmund reached for his cutlass, but before it could leave its sheath, the fox turned and darted off, running down the dragon’s neck, along her snout, then across thin air for a dozen steps before disappearing into the darkness between levels.
+
+Edmund gulped.  Whether by its nature or its pact with Xe’orinoth the Fury, the azure fox was growing aggressive.  He hoped it wouldn’t be a problem later.
+
+For now, he had another problem.  Stealthy as the fox could be, azure fur made poor camouflage.
+
+“Did you see that?” a guard’s whispered voice drifted past Edmund’s ear.
+
+“It looked like—”
+
+“There’s someone up there!”
+
+Edmund darted behind the closest stalactite.
+
+“Are you sure?  I don’t see anything.”
+
+“He’s hiding, now.  Just wait.  He’ll come out.”
+
+Edmund’s breath quickened.  The damn fox just had to take the most direct route out.  He had to move before the guards got between him and the exit.  Powerful as he was, Edmund had little hope of besting five kingsguards, especially with the Dreamer to worry about.
+
+A quick glance at his constellation confirmed at least his climb hadn’t been in vain.
+
+Trailblazer’s Sigil of the Azure Adept
+
+The fifth step on the Path of the Azure Fox.  Increases agility.  Grants two windsteps.  Grants ten feathersteps.  Increases positional awareness.
+
+Trailblazer bonus: Sharpens hearing.
+
+Edmund wasn’t entirely certain what a featherstep was, but he could guess well enough.  Given how confidently the fox had run across Vlaevia’s face, their use seemed apparent.
+
+He had no intention of testing that theory on the Dreamer.
+
+Driven by haste as he listened to the guards hurry through the floor, Edmund wrapped another Smoke Lash around one of Vlaevia’s spines and began his descent.
+
+He leapt out in broad arcs, repelling down several yards at a time as he featherstepped off the dragon’s side.  The steps did little to boost his momentum, but allowed him to jump hard off Vlaevia’s scales without disturbing her rest.
+
+This time, his Lash lasted more than long enough to see him to solid ground.
+
+Edmund waited for a breath as he snatched his boots from where he’d left them, letting his feathersteps replenish before he darted towards the exit.  Again he utilized his newest ability, this time to silence his footsteps and keep the uneven stone from cutting up his feet or twisting his ankle as he dashed along the Dreamer’s side.
+
+The thought occurred as he reclaimed his shield and satchel that he could shout just before he departed, leave the kingsguards a rudely-awakened dragon to deal with, but Edmund dismissed the plan before he could even fully form it.
+
+The guards were just doing their job.  They didn’t deserve to die.
+
+So, with a hidden destination in mind, with an upgraded sigil to his name, with a hub floor ahead and guards on his heels, Edmund let the Dreamer sleep and stepped into the darkness.
+
+Hivemaster Edmund Montgomery Ahab, The Crimson Hand
+
+Aspects Unlocked: 25
+
+Tier 1 Aspect: Wrath - Red Resonance
+
+Level 4 - Provides access to the Brutalize active ability.
+
+Tier 1 Aspect: War - Gray+ Resonance
+
+Level 11 - Provides a lesser increase to all damage dealt.  Provides a lesser decrease to all damage taken.
+
+Tier 1 Aspect: Elements - Gray Resonance
+
+Level 9 - Provides access to the Firebolt spell.
+
+Tier 1 Aspect: Solitude - Red Resonance
+
+Level 11 - Provides a greater increase to constitution while fighting alone.  Provides a lesser increase to celerity while fighting alone.  Provides a lesser increase to perception while alone.
+
+Tier 1 Aspect: Perseverance - Gray Resonance
+
+Level 12 - Gain health regeneration.  Gain greater health regeneration outside of combat.
+
+Tier 1 Aspect: Madness - Prismatic Resonance
+
+Level 19 - They’re watching you.
+
+Tier 2 Aspect: Vengeance (Madness and Wrath)  - Silver+ Resonance
+
+Level 1 - Reveals all enemies that have damaged you in the past two minutes.  Provides a lesser increase to all damage dealt to such enemies.
+
+Tier 2 Aspect: Fervor (Madness and War) - Gold+ Resonance
+
+Level 1 - Empowers the effects of Madness and War for each consecutive second spent in battle.
+
+Tier 2 Aspect: Sorcery (Madness and Elements) - Gold Resonance
+
+Level 2 - Provides access to the Smoke Lash spell.
+
+Tier 2 Aspect: Obsession (Madness and Perseverance) - Gold Resonance
+
+Level 4 - Gain strength and agility for each consecutive day spent pursuing your obsession.  Gain mana for each consecutive month spent pursuing your obsession.
+
+Tier 2 Aspect: The Recluse (Madness and Solitude) - Gold Resonance
+
+Level 4 - Empower the effects of Madness while alone.  Lessen the effects of Madness while accompanied.
+
+Tier 2 Aspect: The Island (Solitude and Perseverance) - Gray Resonance
+
+Level 7 - Grants greater resistance to over-time effects while in groups of two or fewer.
+
+Tier 3 Aspect: Focus (Elements and Obsession) - Silver Resonance
+
+Level 2 - Doubles spell damage when attacking a single target.
+
+Tier 3 Aspect: The Challenger (War and The Recluse) - Silver+ Resonance
+
+Level 1 - Provides access to the Challenge active ability.
+
+Tier 3 Aspect: Artillery (War and Sorcery) - Silver+ Resonance
+
+Level 1 - Provides access to the Firestorm spell.
+
+Tier 3 Aspect: The Warmonger (War and Obsession) - Silver+ Resonance
+
+Level 1 - Provides a greater increase to all damage dealt and a greater decrease to all damage taken while engaged in combat you initiated.
+
+Tier 3 Aspect: The Philosopher (Elements and The Recluse) - Silver+ Resonance
+
+Level 2 - Question the concept of truth.
+
+Tier 3 Aspect: The Rift (Madness and The Island) - Gold Resonance
+
+Level 6 - Provides access to the Savage Rend active ability.
+
+Tier 4 Aspect: The Tactician (War and The Philosopher) - Bronze+ Resonance
+
+Level 1 - Deal double damage when executing a pre-crafted battle plan.
+
+Tier 4 Aspect: The Target (War and Focus) - Bronze+ Resonance
+
+Level 1 - Allows the marking of a single enemy as the target.  The target takes increased damage from all sources.
+
+Tier 4 Aspect: The Fissure (Elements and The Rift) - Silver Resonance
+
+Level 3 - Provides access to the Magma Fissure spell.
+
+Tier 4 Aspect: Rebellion (War and The Rift) - Gold+ Resonance
+
+Level 2 - Grants resistance to mind controlling effects.  Deal bonus damage to enemies above your level.
+
+Tier 5 Aspect: The Breach (War and The Fissure) - Bronze+ Resonance
+
+Level 1 - Provides access to the Break Through active ability.
+
+Tier 5 Aspect: The Insurgent (Wrath and Rebellion) - Silver+ Resonance
+
+Level 1 - Provides access to the Collateral Damage active ability.
+
+Tier 6 Aspect: The Reckless (War and The Breach) - Tin+ Resonance
+
+Level 1 - Provides access to the Reckless Charge active ability.
+
+Delver’s Mark of the Challenger
+
+Empowers nearby dungeon monsters.  Significantly increases the value of loot chests you open.  Slightly increases the resonance of Aspects you unlock.
+
+The Crimson Hand
+
+Grants minor resistance to piercing damage.  Bestows ownership of the Dread Gauntlet of Kor’Ilinesh.
+
+Hivemaster
+
+Grants lesser tremor sense.  Bestows the right to challenge other hivemasters for control of their hives.
+
+Trailblazer’s Sigil of the Azure Adept
+
+The fifth step on the Path of the Azure Fox.  Increases agility.  Grants two windsteps.  Grants ten feathersteps.  Increases positional awareness.
+
+Trailblazer bonus: Sharpens hearing.
+
+Trailblazer’s Sigil of the Rootmother
+
+Non-intelligent Strethian lifeforms will treat you as an ally.  Gain the ability to draw water and nutrients from fertile soil.
+
+Trailblazer bonus: draw water and nutrients from all soil.
+
+Sigil of the Slumbering Deep
+
+Gain greater health regeneration.  Gain immense health regeneration while sleeping.  Gain water breathing.  Gain lesser dark vision.  Gain lesser subaquatic sonar.

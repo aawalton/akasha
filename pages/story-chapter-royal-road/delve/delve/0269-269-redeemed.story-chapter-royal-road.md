@@ -1,0 +1,217 @@
+---
+id: 2695ea1b-cc8e-5db9-a3d1-a271c4fd9d09
+page-type-slug: story-chapter-royal-road
+title: "269: Redeemed"
+slug: 0269-269-redeemed
+partOf: delve
+position: 269
+ownLength: 2658
+unit: words
+publishedAt: 2024-10-27
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1870358/269-redeemed"
+royalRoadId: "1870358"
+---
+
+Jamus’s heart thundered in his chest, the tension of the fight a distant memory. When he’d seen Lavarro through the scope, there had been room for doubt, even as he’d convinced himself of the truth his eyes had seen. Now, there was not even that. The clothes were different, and the way she wore her hair, but her face...
+
+Well, except for the smile. It looked almost kind.
+
+“First question,” Lavarro-not-Lavarro began, tilting her head. “Who are you?”
+
+“You...don’t know?” Jamus managed.
+
+“Obviously not?” Lavarro said. Her voice was the same, but her accent, inflection, and manner were all different.
+
+Is she pretending? Should we play along?
+
+Breaking through the shock, Jamus’s mind settled back into the hyper-focus of combat. The battle was not over—or, rather, a new one had begun. The exchanges would be not of claw and magic, but of words, with death no further to hand for the difference.
+
+While revealing as little as possible of themselves, they’d need to first ascertain who or what ‘Dominus Anya’ was and what she wanted. Without that knowledge, every answer they gave risked utter disaster. All the more important, then, that he—
+
+Staavo stepped smartly forward, then slammed a fist to his chest in a salute. “Adamant Unbending. These lowly ones before you are but humble trainees. Thank Potentate Vannon that you arrived, Dominus, for after we were separated from our group—“
+
+“It is bad to lie,” not-Lavarro interrupted, her smile hardening into something colder, more familiar. “You are not of the Empire. You’re too old for a trainee, and you speak like a northerner.”
+
+“Fuck,” Staavo muttered. “Well, it was worth a shot.”
+
+It was, but now we begin after being caught in a lie.
+
+“It is bad to swear, too,” Lavarro admonished. “And to evade the question.” She returned her focus to Jamus. “Are you perhaps Guilders?” She looked at Shu, who had thrown himself down to press his forehead to the sand, before moving on to stare at Tarny. “Or perhaps you are more fools from the west come to test yourselves against the monsters of the breach?” She rolled her eyes in disgust, settling them back on Jamus. “You, with the strange hat, answer.”
+
+“I...am a Guilder, yes,” Jamus said.
+
+There had to have been Guilders left in the DKE once the war ended. What did they do with them?
+
+He had his plate tucked in one of his pockets. There was no point trying to hide that much, and it was better than saying something stupid like ‘We’re with Ascension’. The jackets they wore would reveal them, but only should the Adamants recognize the symbol. Doubtless, someone in the Empire knew it, having asked around about the group that had absconded with their ship, but it was possible—even likely—that none here were in that category.
+
+“Dominus, we should strip and bind them,” said one of the soldiers, stepping forward. “They hold weapons against you.”
+
+“They hold weapons because they were fighting,” Anya said, Jamus making the shift in his mind. “They will put them away on their own, and I see no reason to relieve them of their dignity.”
+
+“But Dominus, the disrespect is unforgivable. To defy you so is to defy the Empire.”
+
+“I don’t feel particularly defied,” Anya said, gesturing at the swords Tarny and Staavo still held. “Do you think they could hurt me with those?”
+
+Tarny and Staavo shared a glance, then sheathed their blades. Shu remained immobile, face down in the sand. A moment later, Winter vanished, and Jamus held back a curse as he realized the Adamants would have been feeling it too. Indeed, some of them had stiffened at the change, only to relax again a moment later.
+
+The first soldier, for his part, didn’t seem bothered by the cessation of the magic, though he was still plenty upset in general. “Dominus, I must remind you that we were tasked to guide you in matters of Imperial culture and bearing. You cannot forgive this slight. You must defend the honor of our nation.”
+
+“I must do no such thing,” Lavarro said. “Lightbreaker—“
+
+“Potentate Vannon!” gasped the soldier, near apoplectic.
+
+“...Potentate Vannon,” continued Lavarro as if there’d been no interruption, “gave me the authority to safeguard the Empire’s people as I see fit, not its reputation, which needs work regardless if you ask me. Now please, can I interrogate the people?”
+
+“A Dominus does not say please,” said the soldier, but he slammed a fist to his chest and stepped back.
+
+“Sorry about him,” Lavarro said to Jamus, shaking her head and making the zealous soldier scowl in frustration. “You were explaining who you were?”
+
+“I—we are adventurers, yes,” Jamus said. “We heard the world was damaged and came to see for ourselves.”
+
+True enough.
+
+“Adventurers and their curiosity,” Lavarro said with a sigh. “Came how?”
+
+“I...uh,” Jamus said, glancing at Staavo and wondering whether a second lie would get them killed on the spot. It wasn’t impossible that the Adamants had some equivalent of Reading.
+
+“Did you fly, perhaps?” Anya said. “You are an Arcane Mage. Do you have Flight? If you do, why did you not use it to escape when it was clear you were outmatched. Bravado? Pride? The inability to bear your companions mid-crisis? Or perhaps you arrived some other way?”
+
+Jamus hesitated.
+
+She isn’t connecting the wreckage to our presence. They didn’t see us go down. How did they find us, then?
+
+“Answer the question!” barked the soldier.
+
+“Yeah, no,” Staavo said, spitting on the ground to punctuate the statement.
+
+Damnation, Staavo!
+
+Anya tilted her head, a flicker of confusion crossing her features. “Which is it?”
+
+“Huh?” Staavo said.
+
+Anya raised her hands in imitation of scales. “Yeah or no? Which is it?”
+
+“It is an expression, Dominus,” said the angry soldier. “They defy you yet again.”
+
+“Apologies, Dominus Anya,” Jamus cut in, regretting he’d given Staavo room to gamble with their lives. He had no choice but to do the same, but he could do it without the sass. “We hired a Translocationist to take us south of the border, but his magic failed in the face of the Maelstrom. He stranded us here, claiming he’d lost too much mana.”
+
+“Craven bastard,” Staavo said, spitting again.
+
+“A Translocationist?” Anya said, turning to the grumpy soldier. “They’re on the list, right?”
+
+Good. No actual lie detection.
+
+“Yes, Dominus,” the soldier said.
+
+Anya turned back to Jamus. “Describe him.”
+
+“So you can hunt him down?” Staavo asked. “No thanks. Hate the guy now, but not that much.”
+
+Anya frowned. “Describe him now or lose Vannon’s amnesty.”
+
+“They have already lost it, Dominus,” interjected the soldier. “By order of Legus Onat, anyone who associates with an illegal classer is equally culpable. That they are Guild does not exclude them from—“
+
+“Silence,” Anya said, raising a hand. “I will not tell you again. Take the others and investigate the ruins or wreckage or whatever this mess is.”
+
+The soldier slammed a fist to his chest, and if anything, he looked pleased to be shut down.
+
+Jamus relaxed slightly.
+
+These people are insane, but at least there is some sort of system in place for dealing with Guilders that doesn’t involve executing them on the spot. That’s promising.
+
+“Now,” Anya said, returning her focus to Jamus. “We’ll get back to the Translocationist matter eventually. Why are you here, really?”
+
+“It is as I said, Dominus,” Jamus said, watching the dispersing soldiers. “We were curious about the damage to the world and wanted to see it for ourselves. To see if there was something we could do about it. Very little information has reached the cities that once belonged to the DKE.”
+
+“Outside the Empire, you mean, which is where you are from,” Anya said. “Please. You have not been living under Imperial rule. If you had been, all of you would be groveling in the face of a Dominus, not just the one. Trust me when I say you’re lucky I was the closest when they spotted the Scrounger and tracked it to you.” She looked down at Shu. “Please stand up. I’m not going to kill you.”
+
+“Oh, aren’t you?” Staavo said. “What happened to ‘it’s bad to lie’?”
+
+To Jamus’s astonishment, Anya’s response to having her words regurgitated at her was to throw back her head and laugh. “You Guilders never disappoint. Dangers to yourselves and menaces to society, they say. With each example I see, it only rings more true.”
+
+“What will you do with us, then?” Jamus asked. “It’s clear you don’t believe our story.”
+
+Anya tapped her lips with a finger, thinking a moment before she spoke. “When I came up behind you, you reacted like you knew who I was. You started saying something starting with ‘La’. I think it was ‘Lavarro’. Am I correct?”
+
+“You...are,” Jamus said, blinking in shock. He glanced at the soldiers, who, while not immediately atop them, were still in earshot.
+
+“Are you her or not?” Staavo snapped. “Is this some kind of game?”
+
+“I am not, and it is not,” Anya said, gesturing to herself. “The woman who owned this body was a known criminal and murderer, so bad she was even wanted by the DKE. She was also a Guilder. Like you.”
+
+Staavo grunted. “So you’re...what? A body snatcher?”
+
+“A victim of one,” Anya corrected. “I’m also proof that the fundamental nature of humanity is good.”
+
+“We’re doing philosophy now?” Staavo asked.
+
+Anya ignored him. “I began my existence with the power to take by force whatever I wanted, but no mind nor memory to tell me I should not. And yet, I did not use that power except to defend those who gave me shelter, those who taught me to speak after I’d lost all memory of who I’d been. Good riddance to her.” She turned over a palm. “That is why I won’t kill you. If I can be redeemed, anyone can, and there is much good you could do yet.”
+
+Realization crashed over Jamus like a wave. Like pieces of a puzzle, some of the things Rain had said clicked together.
+
+The Warden had done this. She’d done to Lavarro the same thing she’d done to the Citizens, puppeting her body and, apparently, destroying her mind in the process.
+
+When the Warden fell to Fecht in the battle that created the Maelstrom, it had created...this. Anya.
+
+It didn’t explain how a mindless husk had become a Dominus, but he’d take things one revelation at a time.
+
+“How much do you remember?” Tarny asked, glancing at the soldiers. “Should we be talking about this? Do they know?”
+
+“Of course they know,” Anya said. “They are my minders as much as they are my minions.” She paused. “Though I shouldn’t call them either. It is a...symbiotic relationship. Do you know that word? I learned so many words so quickly, it’s hard to know which ones people actually use.” She shook her head. “They aid me in my work while reporting to those above me in case my dedication wanes. I welcome it, tiresome as it can be, for I have no wish to become what I would destroy.”
+
+“We know your daughter,” Tarny blurted suddenly. “If you treat us kindly, we’ll tell you about her.”
+
+Anya clicked her tongue. “You know Lavarro’s daughter. Yes, I know she had one—and a husband who may still be alive. I have no wish to hear of them or any other associates the woman whose body I inhabit once had. Doubtless they are just as twisted as she was.”
+
+“They aren’t!” Tarny insisted. “They—“
+
+“Stop,” Jamus commanded. “Respect her wish.”
+
+The look he gave Tarny was more along the lines of ‘What are you thinking?’ Halgrave was important enough for the Adamants to have taken an interest, and it was no secret he’d joined Ascension. Anya’s improbable kindness and position of power aside, it would still be horrible for her to learn of the association. There was no telling what she’d been told about them.
+
+Gods. We’re dealing with a limit-breaking toddler given command of an army.
+
+“You want to ask something,” Anya said, looking at him. “Ask.”
+
+“What is...Potentate Vannon...planning?” Jamus said, figuring just straight out asking could do no harm at this point. “Why would he empower someone as a Dominus who—and you’ll forgive me, but there’s no delicate way to say this—was essentially born yesterday?”
+
+Anya smiled, but the expression was strained. “He has no choice but to use the tools available to him. Strong as he is, he cannot rule a continent alone, and Demons are but one of the issues plaguing us. Before this, I was tasked with disciplining a Cento who decided to assault the Badlands without orders to do so, risking an entire training battalion and the future of the region. Before that, I was tasked with breaking up the food riots in Almara, and before that, it was dealing with the rebellious Pexus responsible for the food situation in the first place.” She cleared her obvious discontent over the last with a shake of her head. “And through it all, I keep getting called back here.”
+
+“For the...Demons?” Tarny asked. “Is that what we were fighting?”
+
+“It’s what the Undama call them,” Anya said, waving a hand. “They appear near the Maelstrom at night like monsters, but they aren’t monsters. They only call me when they spot one of the big ones. Anyway, first they eat, then they kill, and then they breed. Yes, in that order. They’re animals from another world, but a world not like ours, or so people wiser than me think.”
+
+Well, that’s alarming.
+
+“Dominus, we have finished our survey of the wreckage,” said a different one of the soldiers, returning with a twisted scrap of metal in his hands.
+
+“And?” Anya asked. “Could it have come through with the Demon?”
+
+“We do not know,” the soldier said, offering up the piece. “Whatever it was, it is destroyed now. The metal is too light for steel and too strong for tin. It is not enchanted, but more than that, I cannot say.”
+
+“Keep that,” Anya said. “We’ll take it back to the garrison. Everyone, gather up.”
+
+“What of the Guilders?” the grumpy soldier said, having returned as well. “You do not wish to interrogate them about this?”
+
+“I have places to be, and so do they,” Anya said. “They’ll get their full interrogation eventually, don’t worry. Until then, they’ll help defend...what was the name of that village east of here? The one I keep telling you we should abandon?”
+
+“Mining Outpost West Three, Dominus,” said the soldier who’d brought the piece of Inconceivable.
+
+“Such a depressing name,” Anya said as the soldiers finished forming up around them, some of them carrying their discarded packs.
+
+“Ready!” called one in the front.
+
+“Don’t be alarmed, and sorry in advance for the ride,” Anya said.
+
+“A Dominus does not apologize!” hissed the angry soldier.
+
+Lavarro just rolled her eyes as she raised her hands. “Up we go!”
+
+Tarny yelped as the ground seemingly punched them into the sky, all of them rising as if upon an invisible platform. Jamus cried out too, grabbing his hat. Staavo cursed while Shu just curled himself tighter into a ball, hiding his face.
+
+The punch came again, this time to the east. The three soldiers at the front of the formation lifted their arms in unison, casting something that made the sudden wind slacken, but not completely, especially as a third hit pushed them faster still.
+
+As they settled into a bone-jarring rhythm, Staavo caught Jamus’s eye. “What now?” he signed, drawing a sharp look from one of the soldiers.
+
+Jamus just shook his head, bending his knees in time with each blow of Force magic and thanking the gods that Lavarro had never flown them like this. ‘What now?’ was a good question, one for which he had no answer.

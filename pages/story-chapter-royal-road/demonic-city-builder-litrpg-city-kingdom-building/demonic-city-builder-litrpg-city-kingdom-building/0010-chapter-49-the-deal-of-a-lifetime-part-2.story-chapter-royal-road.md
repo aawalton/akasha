@@ -1,0 +1,237 @@
+---
+id: e8273817-e25a-55d0-873e-b612bb1ec833
+page-type-slug: story-chapter-royal-road
+title: "Chapter 49 - The Deal of a Lifetime - Part 2"
+slug: 0010-chapter-49-the-deal-of-a-lifetime-part-2
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 10
+ownLength: 2483
+unit: words
+publishedAt: 2026-08-06
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3775975/chapter-49-the-deal-of-a-lifetime-part-2"
+royalRoadId: "3775975"
+---
+
+Half the settlement, Shiny, and Kairon all stared expectantly at the brood spawning grounds. For the third time in the last hour, he double checked the menu on it.
+
+It still read the same. His golden sigil still sat before the one, making it eleven per day. Eleven. The number sparkled in the static menu.
+
+“It’s gorgeous,” he breathed lovingly. “Such a lovely, lovely number. I find I rather like it.” Frankly, Kairon could still hardly believe it. The closer it got to spawning time, the more excited he got.
+
+So too were the imps it seemed. While he hadn’t expressly told them what he’d done yesterday, the flashy show had made it pretty clear he’d altered the spawner, so to speak. Soft rumbles, intermittent flashes, and other peculiarities throughout the night had really driven the point home.
+
+Timer ticking closer and closer to zero, the city lord stayed focused on the stone circle. Where there once was a bobbing, gentle purple light in its center, a vibrant star of violet now thrummed. It shone bright enough that it illuminated not just the spawning grounds, but the entire district. Far, far brighter than it ever had before.
+
+Its size too was already a magnitude bigger than even the wrath portals. It ballooned to the size of the circle itself, looming above the gathering.
+
+Kairon put one claw on Shiny’s shoulder.
+
+“You said you wanted more brood.”
+
+His supervisor stared greedily at the stone circle. “Yes. More. Many more, master. This seem good. Very good.”
+
+“Just watch, my friend. Just watch. Your master’s come through for you today.”
+
+“FOOD?” asked a nearby imp.
+
+“HUNGRY!” shouted another.
+
+“No, no. Friends.” Kairon pointed.
+
+Shiny followed, watching. The purple star grew and grew, no longer growing taller but wider. Expanding like some kind of grotesque water skin.
+
+“Master…” said Shiny. “Should we… move?”
+
+“Yeah. That’s a good thought.” The imps and Kairon took several steps back, putting more distance between themselves and the inflated portal looming in the midst of the spawning grounds.
+
+Then, just as the timer to spawn hit zero, an oversized portal popped into reality. From its void-torn edges, eleven souls were forced through.
+
+Population +11 — Brood Imps
+
+One second, there was verdant stone below the spawning circle. The next, eleven new pairs of clawed feet clambered down. The entire inner space of the circle was filled. Like someone had dumped out a bucket of red gremlins in it.
+
+Shiny’s orange eyes nearly popped out of his head. “M-Master?!” he gasped. “How… So many!”
+
+Kairon grinned, fangs gleaming. “Yes! Yes, Shiny! Yes! Isn’t this wonderful? It worked. It actually worked!” All his plans, his charting, his hopes. It was in motion now. Really in motion.
+
+Stepping forward, he shook the claw of each new brood imp.
+
+“Welcome, welcome! Welcome one, welcome all!”
+
+“HI!”
+
+“HELLO!”
+
+“FOOD?”
+
+He inspected each, and as far as he could tell, every imp was the same. Black claws ran over red brood imps, poking and prodding at their smooth flesh.
+
+Similar height, look, and strength to the ones he was used to. In every measurable way, they were identical.
+
+No malformations, no missing limbs, not even a shorter stature. To all appearances, the same.
+
+“FOOD?” repeated another imp.
+
+“HUNGRY!” shouted another.
+
+He was just about to reply when another, more familiar voice sounded from the crowd in the distance. “Master! Urgent DR business!” Nod waved him over. For a moment, he was tempted to turn the little supervisor away. This was an important occasion, after all. But when he saw the determined look in the little gremlin’s expression… Well, Kairon acquiesced. With a disappointed sigh, he let Shiny take over organizing the new workers and stepped aside.
+
+For his part, the brood boss was entirely beside himself. His little claws were practically vibrating. “You workers! Welcome! We brood. You learn way.”
+
+“FOOD?”
+
+“Later. We have much. Much teach you. We’re happy you—” he heard Shiny begin, other brood imps chittering in excitement.
+
+Chuckling softly, he checked his population as he hobbled to the Demonic Resources manager.
+
+Thirty-eight brood imps. By the system, I’ve done it!
+
+With one exploit, his city had just gone from spawning two brood imps a day to twelve.
+
+And all it cost was source and a single building slot! Well, two technically. The other brood spawning grounds still made its own worker each day.
+
+“Master, things… exciting. Many friend,” began Nod.
+
+“Oh? Yes. You saw that, did you?”
+
+“Yes. Need ensure rules.”
+
+“We do. Very good point, Nod.”
+
+“Follow. Need talk.”
+
+Together, Nod and Kairon made their way over to the spreadsheets on the boundaries of the wall.
+
+Once they got there, the little imp grabbed a stick and pointed at the clay table. “Master…” said Nod. “Have new complaints.” The little imp gave him a worried look. “Shaking ground. Make sleep hard.” Before him, five new claw marks were in a fresh cell.
+
+“Ah. That should have just been yesterday.”
+
+“And last night. Had five imp. File complaint. Say wake up. Shakes.”
+
+Kairon pursed his lips. “Yeah… I wasn’t expecting that, but I think it’s just part of the process. Keep me posted if that continues. I’m hoping it’s just everything settling in… What’s that box there? That one has even more marks.”
+
+Nod put his claws on hips. “There is. Seven warrior. Want new camp. Not happy.” Pausing, Kairon looked the little DR manager up and down.
+
+Last night, he opted to build a new camp for the workers in the brood district. That made three camps total now. Two for brood, one for wrath. With today’s spawning exploit proven to work, they’d basically need a new camp every other day or they’d hit the population limit.
+
+Before he could reply, a wrath patrol headed to the gates marched by, pausing as they overheard Nod’s proclamation. They stopped, grunting in approval.
+
+While the city lord preferred to keep such matters in private, he saw this as an opportunity. Kairon rubbed the gremlin’s head.
+
+“You’re very right. While the brood population is going to be growing fast, the wrath will get their turn.” Even now, he saw the warriors shooting backwards glances towards the brood district. Just yesterday, there were more warriors than brood. Today, that had flipped. Talking louder, he looked at his warriors. “I promise. You’ll be getting a new camp very soon. Thanks to supervisor Nod for bringing this to my attention.”
+
+They grumbled at that. But, the talk had been steered away from lack of housing and more towards Nod sticking up for the wrath.
+
+Success!
+
+***
+
+That evening, Kairon was faced with another choice.
+
+They had enough resources to make either the ritual circle or the training grounds today. His charting would allow for one now, and the other by week’s end. Either give his warriors a few extra days of training in a fancy new arena, or bet that the ritual circle might offer an extra advantage in that time.
+
+It only took him a moment to make that choice.
+
+Vorathrex could at least train warriors in the meantime. As for Sythara?
+
+He glanced at the entrance to the citadel. She’s basically useless. A glorified midwife. I need to use her talents as they were intended. For knowledge.
+
+Despite his recent challenges with the demoness, Kairon was placing a bet on her. A risk, but one he felt was worth it. Especially if anything she could dig up with the ritual circle could ease the difficulty of the population boom. As things stood, they needed camps every other day!
+
+Furthermore, the city didn’t just need growth. It needed improvement.
+
+***
+
+Not long later he’d fetched Sythara and let her know of his intentions. She’d insisted on breaking up the brood welcome party and beginning right away.
+
+Shiny wasn’t thrilled, but he didn’t argue.
+
+This would empty out the city’s timber, stone, and gold reserves. The latter of which had been freshly replenished from the latest batch of corrupted wood from the afternoon turn in the feeding pit.
+
+The demoness to his left, however, couldn’t care less what it cost. Sythara’s sparkling eyes made that quite clear.
+
+“Child, I am truly thrilled you chose to build this circle. I would have liked it sooner, but… I admit. I understand your rationale for delaying it.”
+
+“Is that so,” he mused. Kairon studied her, trying to parse if she was being genuine or not.
+
+Sythara’s intelligent. She likely rationalized that the city needed the choices we made for food earlier, but argued for her circle earlier due to… Well. Sythara-logic.
+
+The city lord could understand her thirst for knowledge. He too had that same desire. However, his pursuit of the unknown was more… civilized. Like an explorer, braving the depths of contracts, research, and theory. Her desires had a more practical foundation. Manically so, judging by what happened to Elson.
+
+Yet, the new pact gives her reason to embrace being part of the city. It was a large reason as to why he’d offered her a true path to onboarding. So far, it seemed to be working.
+
+Without further delay, he selected Yes.
+
+A violet tear in reality opened, a good deal larger than any so far save the ring rituals. From beneath, a circle came into being. Its expansion made the purple stone of the void district shudder and quake.
+
+It didn’t take long for the proceedings to begin. Minutes later, nearly forty brood imps began hauling resources to it, measured out in exact points along its outline.
+
+Sythara’s lips quivered at the sight. She even made a tiny gasp, her elegant figure trembling at the ritual. “Finally… It is really happening,” she whispered.
+
+Kairon was more interested in the glowing symbols. Timidly, he tried opening the link between himself and the demonic scripture. To his delight, it snapped together. For the first time in weeks, it actually replied. His intrinsic ability to interact with the script was back! He could sense the symbols, the letters, the shapes. All of it. It was like a part of his mind that had been sleeping. And, finally freed, it began to stir.
+
+The question is… Do I?
+
+A week ago, Kairon would have slammed into this head first. He was certain that investing a few claws, even limbs, in gaining enough understanding about demonic script was invaluable.
+
+The potentials were as dazzling as they were intriguing.
+
+Yet…
+
+The more he learned about source, the more that valuation changed. The scales were tipping in a new direction.
+
+What if I can find a way to utilize source energy as payment? Or, if not that, as a way to learn and comprehend the scripture without mutilating my body? Without even going through the plane itself?
+
+He didn’t need his claws and limbs. They were useful, however. And he only had so many. Once they were gone, that was it. No more flesh to pay with.
+
+Mind made up, he decided to wait. To pursue an avenue of studying scripture that wouldn’t cost him more body parts. For now.
+
+The city lord was so caught up in his internal reflections that he missed almost the entire ritual.
+
+A basin had been formed in the middle of the void district. The circle went downwards, melding the stone around it, creating a three meter deep depression dug into the ground. Lines of horizontal script spiraled from the outside towards the center, making a swirling vortex.
+
+“Interesting… Sythara, do you know what this—” he trailed off, a new feeling entering his mind.
+
+From beside him, he heard Sythara take a deep breath in, bringing her pale hand to her mouth. The shadows around her drew in, as if protecting her from what was to come.
+
+A blinding crimson glow tore through the ground, blazing to life just outside the circle. From it, a precise geometric totem rose. Dust and smog erupted around it from the ground as the stone pillar climbed higher and higher. Its peaked tip reached upwards until it passed even the heights of the distant walls.
+
+What is… that?
+
+Kairon stared at it. It had no scripture, markings, or symbols of any kind. Instead, it was polished smooth. Five tiers of consecutive rings grew demarcated sections on it.
+
+“Sythara… What is this?”
+
+No reply.
+
+He was about to ask why when he felt it.
+
+Thump. Thump, thump, thump.
+
+The sounds of wardrums. A primal, ancestral rhythm. From where it came, there was little question. The Totem.
+
+Moments later, the beat was joined by whispers. Whispers of a language he didn’t understand, but had to be demonic. Each syllable was guttural and violent. Like the imps’ chanting during the rituals. Just hearing it felt wrong. As if every word spoken shouldn’t be.
+
+“Can you feel it, child?” came a soft, feminine voice. It took him a moment to realize it was Sythara’s.
+
+He did. A primal rage to destroy filled his mind. Telling him to grasp his power and unleash it upon this mortal realm. To bring all that would oppose him to their knees.
+
+It took some doing, but he tore his gaze from the shape. Around him, five other blazing lights of different colors were coming into being. From each, a new totem was rising.
+
+The verdant one was next. It looked exactly the same as the crimson totem, but focusing on it brought new sounds. He heard the tearing of flesh, bone, and viscera. As if something was being devoured. He heard whispers from the same demonic tongue. But this time, an emotion to consume came to his mind. To fill an endless hunger. To allow sustenance to become all.
+
+With each new totem, the overwhelming presence grew. Like six beasts had just taken residence. Right in his very own backyard.
+
+Carefully, Kairon decided to take several steps away from the circle. When he crossed an invisible threshold, the whispers stopped. The drums and tearing of flesh melded away. The emotions quieted.
+
+Turning, he saw that Sythara had joined him. The sigils on her skin were flowing wildly, shadows swirling, and lips quivering.
+
+“Sythara. What did we just build? I was expecting a circle. This is…”
+
+She gave him an amused smirk. “More than you bargained for, child?”
+
+The black-scaled demon cocked an eyebrow. “No. No, no, no. Not at all. Sythara… I expected to get a ritual circle where you could scribble notes. Do research. Unlock new options. But instead, it seems we’ve gotten something much more. So, so much more. I don’t know about you, but as for me, I’d call this the deal of a lifetime.”
+
+For a long moment, Sythara just looked at him. Her prismatic eyes trying to parse the city lord. It took her several moments to process the child’s emotions. That they weren’t fear, but avarice.
+
+“Child, perhaps we truly can become partners. Of a sort.”

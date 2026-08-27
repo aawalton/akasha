@@ -1,0 +1,179 @@
+---
+id: 5fe69f54-fcf6-577e-9d12-0bebac9ac007
+page-type-slug: story-chapter-royal-road
+title: "Chapter 98"
+slug: 0098-chapter-98
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 98
+ownLength: 1858
+unit: words
+ownProgress: 1858
+publishedAt: 2023-04-25
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1192765/chapter-98"
+royalRoadId: "1192765"
+markedReadAt: "2026-06-29T20:35:12.010Z"
+---
+
+The massive troll in front of me lets out a roar as it turns.
+
+I’ve fought trolls before, but nothing quite like this. These must be a unique desert variant… and supersized!
+
+The beast begins charging at me with flailing limbs and its heavy club showing off a newly grown pair of red eyes and sharpened teeth. With my blade on fire, I activate bloodlust and berserker just for good measure while charging right back at it.
+
+In two clean cuts, I slash a fiery “X” across the monster’s front side, cutting it into 4 pieces. The massive chunks of burning flesh hit the hard orange rock floor with a thud. I watch the remains burn to ash.
+
+While deactivating my skills, I turn to my team members.
+
+“These are going to be a bit tough. We need magic to defeat them, preferably fire.”
+
+Nessa smirks and raises her sword.
+
+“Looks like I’m all set then!”
+
+She lights it on fire, then Maria speaks up.
+
+“I’ve fought similar monsters back in basic training! Ice magic works too, it’s just not as effective as fire.”
+
+I nod slowly, then turn to Abby and Bruce. The green-haired girl speaks first.
+
+“There’s a troll dungeon in the capital. I’ve trained there a few times.”
+
+Bruce gulps and turns to her.
+
+“So… How do you beat them…?”
+
+Abby grins.
+
+“It’s pretty simple. Brute force.”
+
+I open my mouth with a confused look on my face but tighten my lips and hold back as Bruce replies while swinging his hammer around.
+
+“Oh yeah? So I can just smash ‘em to bits?”
+
+Abby nods with a light chuckle.
+
+“Kind of. Once their MP runs out, the regeneration property they possess also loses its effect. The longer we can keep them fighting, the better chance we have of killing these trolls off.”
+
+They both nod at each other with a serious stare.
+
+I smile.
+
+“Well, looks like the two of you have some work to do.”
+
+The troll dissolves and I pick up the mana crystal it drops. The five of us sit around planning our descent into the canyon while enjoying a small break to eat and drink some of our rations.
+
+I continuously keep track of our surroundings with enemy detection, but we aren’t disturbed at all for over 25 minutes.
+
+Eventually, our moment of peace is over, as another impossibly large desert troll stomps into our general vicinity. Maria perks up.
+
+“Let me take a crack at this one!”
+
+We all sit back and enjoy the show.
+
+Maria glows bright blue as she draws her silver sword at the bellowing giant. The beast readies its club and runs at her.
+
+In the blink of an eye, Maria slices the trolls left arm clean off leaving a large amount of Ice residue behind. The severed limb freezes and shatters as it hits the ground. The injured area is another problem entirely though. The flesh around its wound ripples and shakes regenerating at rapid rates to counteract the ever so slowly moving Ice magic creeping towards its neck.
+
+Maria jumps in for another slash, taking out the monster’s right leg and injuring its left. An explosion of Ice brings the beast to its knees as it roars and angrily swings its club while trying its best to keep the Ice magic at bay.
+
+With a precise slash to the neck, and the troll’s head falls to the floor. The malleable flesh of its open wounds continues to squirm as it attempts to fight off the magic residue left behind.
+
+A few moments later, the tortured creature stops moving and solidifies into a statue of Ice.
+
+Maria brings her blade down on the beast one last time shattering it into a million tiny pieces, then turns back to us.
+
+“Not too hard, but you were right Jay! This thing did take a few more hits than expected.”
+
+I cross my arms and nod, then look over to Bruce and Abby.
+
+“Let’s go find you two an opponent. You’ll need practice before we make it to the boss room.”
+
+We wait for the frozen troll remains to drop Maria’s mana crystal, then head off deeper into the canyon.
+
+My enemy detection skill is showing a large number of high-level beings at the back side of the dungeon, and not many in between. It seems like way too many to all be hunters, but that’s where the boss room should be… So it doesn’t make much sense otherwise.
+
+Another 30 minutes of walking go by, and there is not a single troll in sight.
+
+The light wind blows orange dirt around in the depths of the canyon making a whistling sound as the air currents flow through the rock walls all around us.
+
+I kick a few small pebbles off a ledge as we continue down the winding trails just to hear the echoing sound of rock hitting rock over and over again until it disappears into the nothingness below.
+
+Maria starts humming a cute and simple song. No one interrupts her as it fills the silence to go along with our footsteps as we venture further and further in.
+
+Another 20 minutes pass. We all zone out rhythmically walking one by one until a voice calls out from below.
+
+“Help! I- Somebody! Anybody please he-“
+
+A monstrous roar cuts off a young man’s cries for help. This seems to be coming from just beyond the nearest bend In the large rock wall on our right side.
+
+To our left, the canyon slopes downward. After this bend in the path, there’s an overlook to the final portion of the dungeon.
+
+I run forward while igniting my sword in a fresh coat of fire.
+
+Moments later, I take in the scene before me. My eyes light up with awe taking in the view.
+
+A flash of white light goes off as a massive troll swings its club down defeating the hunter that called out for our aid. There’s gear scattered all along this wide path that slopes downward.
+
+The troll responsible for that young man’s demise turns to me and grunts. I grin as I see two more walking up behind it.
+
+“I got the middle! Maria and Nessa take the right side, Bruce and Abby take the left!”
+
+Without hesitation, we all run forward at the beast with our weapons at the ready.
+
+The putrid smell travels through the air hitting our noses more than 30m away. I burst into flames and glow red activating my stat-boosting skills to create a deadly strike.
+
+Mid-charge, I think of an interesting idea and activate my wind magic to conduct a test. Just before impact, I summon I massive gust of wind beneath my feet boosting my speed while flying in the air at the vile creature. I feel my body shoot forward as I jump off the ground with incredible speed releasing a deadly fiery slash across the troll’s front side.
+
+It barely lets out a grunt. The club drops from its hands to the floor as the sorry excuse for a monster gets incinerated on the spot. Its remains are unidentifiable piles of ash on either side of my trail of flames.
+
+I look to my right side to see Maria freezing their troll’s legs solid while Nessa decapitates the monster with a fiery slash. After a few more hits for good measure, the two of them defeat their beast with ease.
+
+Lastly, I look to Abby and Bruce.
+
+Bruce is keeping the Troll occupied with his hammer and shield. They seem to be similar strengths, but the troll is having a bit of trouble moving forward with the large spears of rock stuck through its legs.
+
+Abby darts around the troll hitting it with cheap shots as the monster focuses on the tank.
+
+The two of them tag team the oaf, landing hit after hit. Every time Bruce’s hammer makes contact, portions of the monster’s flesh are blown away, but unfortunately mended on the spot. Abby’s spears of rock create holes in the monster’s legs and vital spots, but they’re all regenerated in a matter of seconds as well.
+
+Of course, this is going all according to their plan.
+
+Nessa, Maria, and I let our trolls dissolve and collect the mana as we watch the two of them work. It takes a while… and 1 MP potion each, but after these series of cheap hits, and defensive maneuvers, the two of them break down the trolls MP and start to deal actual damage.
+
+The first sign of this is a solid hit to the side of the head by Bruce. He breaks the monster’s jaw and it roars out in pain. Usually, it would grunt to itself and regenerate its shattered teeth and droopy lower jaw, but this time around it just stares the tank down with murderous intent.
+
+Both Abby and Bruce grin ear to ear making eye contact with each other, then going in for the kill.
+
+Abby creates two massive spears of stone in each hand glowing bright green while running at the beast. Bruce yells out a battle cry while lifting his hammer high in the air.
+
+Abby skewers the beast in two places. One massive spear stabs directly through the chest, while the other lodges itself in the troll’s right eye.
+
+Finally, Bruce jumps high in the air bringing down his mighty war hammer with impressive strength. Bones crunch under the pressure as it makes contact with the top of the giant monster’s head in an explosion of blood and brains.
+
+The Troll falls to its knees with a final whimper. The two of them smirk while turning toward the three of us. Abby jumps in the air excitedly.
+
+“Woohoo! I gained 2 levels for that!”
+
+Bruce grins and throws his hammer over a shoulder.
+
+“Same. We’re going to need to be able to do that ourselves though. I’m not ready to face the boss alone….”
+
+I nod while walking near the edge of the overlook.
+
+I peer down toward the back of the dungeon while my other four teammates talk amongst themselves.
+
+The massive number of high-level beings on my enemy detection radar finally becomes clear to me… It was not other hunters after all…
+
+I turn around and wave the other over.
+
+“If we can make it through this, I’m sure the boss will be a walk in the park.”
+
+The five of us take in the view.
+
+There’s a pit 500m below us, it’s around 1km long and 1km wide. At the very back, I can see the faint glow of a boss room portal.
+
+Guarding the entrance… I see over 100 giant desert trolls. They all pace around frantically, attacking each other and anything that moves. The disgusting creatures are covering every last square meter of land between us and that portal.
+
+Bruce gulps, Abby glows green, Nessa draws her silver sword lighting it on fire, Maria glows blue freezing the ground beneath her feet, and I... Well, I stare out at my prey in awe.
+
+“It’s time to burn every last one of these trolls to ash.”

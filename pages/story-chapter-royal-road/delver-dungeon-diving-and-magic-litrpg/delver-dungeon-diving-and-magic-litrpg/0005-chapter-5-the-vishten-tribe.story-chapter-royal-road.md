@@ -1,0 +1,165 @@
+---
+id: 6654e2ee-06c6-515d-b241-0ed803c0db5f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5: The Vishten Tribe"
+slug: 0005-chapter-5-the-vishten-tribe
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 5
+ownLength: 2281
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3443180/chapter-5-the-vishten-tribe"
+royalRoadId: "3443180"
+---
+
+I turn to look at where the arrow came from, holding my hands where they are easily visible. The shot hadn’t been close to hitting me, making me think that it was a warning and not aimed to actually take me down. Plus my danger sense still hasn’t gone off, so hopefully I can talk my way out of this.
+
+Shar had disappeared from my shoulder as soon as we’d passed through the strange barrier, so I have confidence that she’ll be alright, it’s myself that I’m worried about.
+
+Four humanoid creatures step out from behind piles of rubble, their faces covered by cloth. They are slightly shorter than me, and heavily armed with weapons. Two stay back, keeping their bows drawn as the other two approach me cautiously.
+
+“Can you understand me?” I call out, causing the two closest to me to draw the swords from their waist in surprise.
+
+One of them looks to the other, who hesitates before speaking, their voice heavily accented. “Place weapons on ground, do not move fast.”
+
+I hesitate for a second, then slowly reach down to my belt. I unbuckle it, letting it fall to the floor with my sword and dagger.
+
+The one who spoke motions to my backpack, so I take that off as well, slipping a defensive talisman into my pocket as I do.
+
+The quiet one steps forward hesitantly, his sword still drawn. I keep completely still, not wanting to startle the clearly anxious warrior.
+
+He grabs my things, not taking his gaze away from me for a moment.
+
+The one in charge points his sword at me, saying simply “Follow.”
+
+The two archers keep their weapons pinned on me as I follow the leader. The one carrying my things stays a few steps behind me to keep an eye on me.
+
+They lead me deeper into the tunnels, taking several turns seemingly at random. Thankfully, my basic map skill keeps track of every turn as they try to disorient me by going in a circle at least twice. Not that it helps anyway, I’m stuck in the ruins without Shar leading me out. Speaking of the Golem, occasionally I catch a glimpse of her flying overhead, moving from shadow to shadow as I’m led through the ruins.
+
+Eventually the end of the hallway lights up with the telltale light of fire. The four creatures lead me through a doorway into a large hall, where at least fifty of the creatures have set up a semi-permanent camp. Children watch me with curiosity while the adults stare at me with wariness.
+
+I finally get a good look at them without the cloth guarding their faces. They are dark skinned, with red lines crossing their skin in artistic patterns. Their eyes are slightly larger than a humans, their eyeballs a pale gray. They also have pointed ears, and sharper teeth. I’m taller than most of them by a good margin.
+
+I don’t recognize their exact species, but it’s safe to assume that they are one of the many races that humans kept enslaved with our magic hundreds of years ago. There were very few humanoid species, at least in this part of the world, that weren’t enslaved.
+
+The party of four led me to the largest tent in the hall, their eyes never leaving me.
+
+The leader of the four enters the tent, and I’m left to wait outside, my gaze passing over the equipment that they are using. Clearly, they haven’t had as much luck in the ruins as I’ve had, seeing as how little of their equipment is enchanted.
+
+The leader steps out of the tent and motions for me to enter. I step up and through the tent flap, the leader following after me.
+
+An older woman carrying a gnarly and heavily enchanted staff stands waiting for me. She looks me over with a raised eyebrow, then snorts. “So you’re a human explorer.” she says, her dialect only having a slight accent.
+
+It takes me a second to realize that she must’ve identified me using a skill of some kind. Did she only see the one class?
+
+I hesitate on revealing my class, but decide that trust is going to be the best way to start off my relationship with these people. “My specific class is a Delver. It’s a specialized class for exploring buried ruins.”
+
+“I see.” the woman walks up to me, causing the guard in the tent to tense up. “You are not what I expected a human to look like. I thought your teeth would be sharper and you would be taller.” She looks up at me, causing me to lean back slightly.
+
+I give a half smile, not sure how to respond. “I’m sorry to disappoint?”
+
+“Were you the one to kill the Ichtl’e?” She says the last word with a rougher accent, telling me that it means something in their language.
+
+I frown, “What is an Ichtle?”
+
+“Ichtl’e, The many legged creature that blocked the entrance to the surface. Were you the one to kill it?” She leans towards me even more, staring into my eyes as she waits for an answer.
+
+I slowly nod. “I was.”
+
+The woman frowns, stepping away from me in thought. “That makes things more complicated.”
+
+I watch her pace back and forth, glancing at me every once in a while. After a minute of that, I gather the confidence to speak up, “Can I ask a question?”
+
+The woman stops, turning to look at me. “Ask me what you will.”
+
+“What are you all doing here?” The question had been on my mind ever since I saw their makeshift camp. It seemed newly created, as if they hadn’t been here long enough to actually put down roots.
+
+“Running and hiding.” The woman answers, gazing at me as if I were a riddle. “Our home was destroyed and our protector killed by a shapeshifting monster named Kor’veth. It still chases us.”
+
+I blink in surprise at the notification. What did I do that leveled up my second class? It’s only the second level, so it could have been something rather simple and it must’ve had to do with something she told me.
+
+I focus back in on the woman, who stares at me.
+
+“That is why things are complicated. I do not wish to let you leave, cause you may lead the monster back to us. But I do not wish to kill you after you killed the Ichtl’e for us.” She says the words calmly, but they make me freeze as I realize the situation I’m in.
+
+My brain races as I try to come up with a solution. “How about we make a deal?”
+
+The woman tilts her head questioningly. “What kind of deal?”
+
+“I’m a Delver, which means I’m looking for artifacts in these ruins to sell. I can give you some of the artifacts I find if you let me go.” She seems interested in the proposition, so I keep going. “That way you have a better chance of protecting yourselves if the monster does find you again.”
+
+“And how can I trust you, human?” She asks, her fingers tapping against the wood of the staff in her hands.
+
+“I can give you some of the things I’ve found already.” I say, thinking of the firewands in my bag. “I’m planning to bring a full team down here to help me clear out some of the worst monsters and to help me carry the larger items. You’ll get a cut of everything we find then as well.”
+
+She considers me, her expression unreadable. Finally she nods, “You will take one of our warriors with you.”
+
+“When I get my team together-”
+
+“No, you will take the warrior with you now.”
+
+I consider it for a moment, then shake my head “That’s too dangerous. I travel alone because I have ways to hide from the monsters out there. I can’t guarantee that he’ll return alive if you send him with me.”
+
+The woman shakes her head, “He will be fine.”
+
+Realizing that she won’t budge on this, I hesitantly agree to her request with a nod. “They aren’t my responsibility.”
+
+She smiles, revealing her sharp teeth and holds her hand out to me, “I am Varia, of the Vishten.”
+
+I take the hand, shaking it once. “Leo Grayson.”
+
+Varia speaks in her native language to the guard, who nods and steps outside. He returns a moment later with my pack and belt.
+
+I unzip the pack, pulling out three of the firewands, two of the defensive talismans and the sleeping powder. I give them to her, explaining the uses of all of them.
+
+That leaves me with two firewands, and two defensive talismans including the one in my pocket. I’ll have to grab some more from the armory on my way back up.
+
+I finish explaining the tools to her, when a young Vishten warrior with short red hair enters the tent. He bows to Varia, and she speaks to him rapidly in their language.
+
+The young warrior turns to me, looking at me with distrust. A quick admonishment from Varia makes him straighten his back and nod to me with respect.
+
+“I am Keve of the Vishten.” He says in a thick accent, his voice coming out a tenor. “I have been asked to join you.”
+
+“I’m Leo.” I respond, looking over the warrior. He wears leather armor mixed with chainmail in tones of gray and black. The same cloth that covered the faces of the other warriors is wrapped around his neck like a scarf. His eyes share the same gray tone of his brethren, although a tad darker compared to the others. He carries two short-swords at his waist, their pommels made of polished bone. “It’s good to meet you Keve.”
+
+He nods in response, shifting on his feet slightly. “May the darkness treat you kindly.”
+
+“Keve is a strong warrior and will serve you well as long as you don’t ask too much of him, human. Please teach him well.” Varia says, patting the shoulder of the warrior.
+
+“I thought he was here to keep me to my agreement?” I ask, finding her wording a little strange.
+
+The corner of Varia’s mouth twists up in amusement. “He is.” She stomps her staff into the ground, producing a hollow sound. “Now hurry on your way. There’s no need to keep you here longer than is needed.”
+
+Our meeting seemingly finished, I put all of my gear back on. I’m about to leave the tent, when I remember the key that I had found in the webs of the spider monster. I grab it out of my bag, getting the attention of everyone in the tent.
+
+“I found this in the webs.” I hand it over to Varia, who receives it with care. “It originally belonged to one of your people.”
+
+“Thank you.” Varia says, her gaze not leaving the key in her hand. Her expression is thoughtful and a little sad. “This is… more than you realize.”
+
+“Yeah. Of course, anytime.” I run my hand through my hair, caught off guard by the genuine response. With nothing else to say, I leave the tent.
+
+The four guards and Keve escort me out of the encampment, and through the halls of the ruins. I catch glimpses of Shar in the shadows and I suspect that she is purposefully showing herself to me so that I know she’s there. Eventually, we are led to the edge of the webs of the now dead spider-monster. The leader of the guards speaks to Keve briefly, handing him something before they leave on their own path.
+
+I wait for them to leave, then turn to Keve, clearing my throat to get his attention, “So, Keve, right now, the plan is to return to my camp on the surface and then travel back down to map out the rest of the ruins- speaking of, Shar! Can you come out now?” I call out, at which point Shar flies down from a nearby pillar in her bird form, landing on my pack.
+
+Keve steps back warily.
+
+“Keve, this is Shar. Shar, meet Keve, my new companion for this Delve.” I introduce the two as I pull out my notebook to draw the many hallways that the four guardsmen had led me through.
+
+“What do you do?” Shar asks, causing Keve to narrow his eyes.
+
+After a thoughtful pause, he nods his head to Shar, “I’m a warrior, sent to escort Leo by Seer Varia.”
+
+Shar tilts her head, then jumps off my shoulder, transforming into her humanoid form. “I am a Golem created by the Archmage. It’s good to see that we finally have someone who can use the sword at their waist.” She pointedly glances at me, which I ignore. She hasn’t even seen me draw the thing.
+
+“May the darkness treat you kindly, Golem.” Keve says, his gaze moving back to me.
+
+I turn my attention to the nest of the monster, pulling out my light stone and filling it with mana.
+
+We still have to climb another level through the webs, which I’m not looking forward to. But the sooner we get started, the better.
+
+I shine the light onto the webs, revealing them.
+
+Keve steps up from beside me, studying the entrance into the nest. “Be careful Delver, with the Ichtl’e dead, our warriors have seen… creatures moving through.”
+
+I acknowledge the warning with a nod before stepping over the first web and entering the nest. Keve follows me a step behind while Shar takes a spot on my shoulder as a black bird.

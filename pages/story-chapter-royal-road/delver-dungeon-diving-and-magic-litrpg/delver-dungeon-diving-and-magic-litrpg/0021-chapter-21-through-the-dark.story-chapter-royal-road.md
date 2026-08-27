@@ -1,0 +1,227 @@
+---
+id: 0bda15e6-6287-5e81-954c-7324a3320127
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21: Through The Dark"
+slug: 0021-chapter-21-through-the-dark
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 21
+ownLength: 2255
+unit: words
+publishedAt: 2026-06-08
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3510961/chapter-21-through-the-dark"
+royalRoadId: "3510961"
+---
+
+The Guides, the oldest of Angels.
+
+Sehara, who wrote the runes of the First Oathsworn, and Lumin, who guided the First Reaper through the land of the dead. Despite being the ones who interact with our world the most, their pasts are shrouded behind even more mystery than the Reapers. They appear one day, envoys of dead gods who “save us” in a time of need. That’s it. That’s all that we know. That’s all that was written.
+
+Shar flies back to us every once in a while, leading the way around fallen pillars and other hazards.
+
+“I’m starting to wish I was a fire witch.” Eyla’s eyes move to something in the darkness, only for it to be a fallen rock.
+
+I give her a comforting smile, trying to ignore my own fear of the oppressive dark. I answer quietly, “Fire can be dangerous in the deep. I’m happy to have ice.”
+
+She gives me a half-smile, then we both focus on sudden movement as Shar swoops into the light.
+
+The group stops as I hold out my arm for her to land on.
+
+“We’re close to the door.” Shar says, her voice low. “But everyone needs to be quiet and follow me exactly.”
+
+“Did you see something?” I ask.
+
+She nods her beak then jumps to the floor and turns into a cat. “Bats.”
+
+I share a look of confusion with Eyla. Then my mind catches up.
+
+Of course they aren’t regular bats, not in a place like this.
+
+I motion for everyone to come closer then speak in a low voice, looking at Grildor first. “Take your plate off. We need to be as silent as possible. They’re still asleep, right?” It should still be daylight outside.
+
+Shar nods.
+
+Grildor doesn’t hesitate to follow my instructions. We stand there for a tense minute as Libby helps him remove his plate armor as silently as possible and put it in his backpack.
+
+My gaze moves to the edge of the light, illuminating cracked stone and a singular fallen pillar.
+
+Tanya draws my gaze as she steps up next to me slowly, “Bats?”
+
+I nod, looking at Shar to confirm my thought as I speak in a low tone “Bloodsuckers bigger than I am. It explains why we haven’t seen anything else living down here. They’re all too common in large spaces like this, but I’ve only seen them in person once before. Eyla, do you have any walls or shields if we need to cut them off?”
+
+“I have a wall, but it only works in one direction.”
+
+“I ‘ave something.” Grildor says as Libby undoes the ties on his vambrace. “Case it gets bad.”
+
+I need to have a defense specialist more often. It feels like nothing so far has pushed this man.
+
+The last piece is taken off his arm, and wrapped with cloth before being placed in his backpack.
+
+I look around the group, making sure we’re ready. Everyone looks back at me, waiting for my signal.
+
+I look down at Shar, and motion for her to lead the way, then dim my light.
+
+The group moves closer together as we follow the faint silhouette of Shar.
+
+I keep my eyes on the ceiling as we walk, and despite being unable to see all the way up, I can see faint forms hanging onto the sides of the pillars that reach up there.
+
+They’re as big as I remember them, but thankfully, they don’t seem to be bothered by the very low light or the slight shuffling of our shoes.
+
+Still, as I watch, one of them shifts.
+
+Keve follows my gaze, his eyes narrowing on the creatures. His night vision is better than mine, and I wonder what he sees up there.
+
+The crunching of something underfoot echoes loudly into the silence, and our group freezes.
+
+They don’t respond, so we continue deeper.
+
+A door appears out of the darkness, tall and heavy, it waits for us.
+
+Grildor steps up to the door and attempts to open it.
+
+It doesn’t move.
+
+I tap his shoulder, and he moves aside as I study it. My mana detector goes off, vibrating on my belt.
+
+I pull out my blue powder and blow it onto the thing, revealing several runes. It’s a similar lock to what I’ve seen before, so I don’t feel the need to write it down in my notebook… not that I would here.
+
+I step up to the faintly glowing runes, and Deactivate Runes.
+
+My hand moves on its own as I draw more glowing runes into the door.
+
+Then the worst possible thing happens.
+
+It starts with a slow rumble, a shaking of the floor that pauses my work. It grows, making the pillars shake as something large moves below us.
+
+Cracks echo out, and a pillar falls to the floor in a cacophony of noise that destroys the silence of the room.
+
+The rumble stops.
+
+Thousands of red eyes open in the darkness. Then screeches follow it.
+
+I put my light to full brightness, then Deactivate Runes again. I focus on the work, fixing the mistake the rumbling had caused.
+
+Behind me, a rush of mana echoes out as the floor is covered in ice, Keve’s swords light on fire, and a large glowing shield blocks the oncoming horde.
+
+I rush my hand, going as fast as I can on my runework.
+
+Bodies fall to the floor behind me and ice shatters, but nothing reaches me as I finish.
+
+The runes flair, then deactivate.
+
+I put my shoulder into the door, then grunt with effort as I shove the door open.
+
+“It’s open! Come in!” I yell.
+
+I turn around, taking in the battlefield with a glance.
+
+A rain of ice daggers hit the thousands of bats as a magical field of interconnected shields blocks them from rushing our group.
+
+Daron is the first one through, followed by Tanya and Keve.
+
+Libby grabs Grildor’s shoulder, dragging him back as he sweats to hold up the strange skill.
+
+I grab Eyla, and pull her in as well. This allows the bats to rush the shields in force, but I’m not out of tricks as I overload my light orb with mana.
+
+“Look away!” I throw the ball into the center of the shields as they finally shatter.
+
+I look away and close my eyes as the world is filled with light, piercing my eyes despite my closing them.  With stars on the edge of my vision, I open my eyes, to make sure everyone is in, then slowly shove the door fully closed.
+
+“Grildor!” I yell at the slightly stunned man.
+
+He hears me and steps up beside me to shove the door closed. On the other side of the door, the bats are also slowly recovering, but I should have enough time.
+
+I go next to the door, and start drawing runes. I’ve drawn mana locks into my journal plenty of times, and it's just a matter of copying them.
+
+Grildor grunts to hold the door closed as impacts rebound against it. Keve runs up to help him for the several long seconds that it takes for me to finish the lock. With a flash of mana, the lock goes into place.
+
+Grildor and Keve slowly back away from the door as it thumps, echoing into the small space, lit only by the fire of Keve’s swords.
+
+I take my backpack off, and pull a torch from where it’s tied to the side. I pull out another vial and put some slowburning oil onto the cloth at the tip of the wooden torch. “Keve.”
+
+He turns to me, sees the torch, and touches his sword to it. It ignites, lighting up the darkness. We’re in a small room with another door at the end, this one slightly ajar.
+
+“Is everyone okay?” I look around the room. Everyone seems alright, just breathing heavily from the adrenaline.
+
+Still, I look at Libby as she goes around the room, checking on everyone.
+
+She meets my gaze with a relieved look, “Just minor scratches.”
+
+“Good.” I look back at the door as it thumps again, “Eyla, can you make a wall in front of the door? They can still break through with enough force.”
+
+The mage nods, and pushes herself off the ground with visible effort. She holds out her hand, and a wall of ice rises from the ground, blocking the door.
+
+“Shar,” the cat stands looking through the crack of the slightly ajar door. “Go ahead. We need to keep moving. I don’t like the idea of them finding another way in here.”
+
+Everyone rises and stands ready at my words. Grildor glances at his backpack, but I shake my head. I want to wait until we are in a safer area before he puts his armor back on.
+
+He nods, and lifts his heater shield in front of him as he leads the way into the next room.
+
+We resume formation as we follow him through the dark rooms. I don’t like using a torch without knowing the ventilation of the place, but I’m not left with much choice, and oxygen hasn’t been a problem yet.
+
+We spot a couple large rats as we make our way through the mostly empty rooms, but they’re quickly taken out with ice, fire, or a simple crossbow bolt from Daron. I do find a couple of small items that are worth something, and put them into backpacks. Eventually we encounter our first set of Reaver webs as we reenter familiar territory.
+
+Shar leads us through the webs until we make our way to the staircase, then it’s an easy climb out to the surface.
+
+Dusk is arriving as we pass under the hole left by the Worm.
+
+Grildor is the first through the archway, and is immediately met by a roar. He steps forward, his eyes widening in surprise as his shield expands to meet the paw of a bear twice his size.
+
+Keve leaps forward, fire following his footsteps as his sword cuts through the exposed arm.
+
+The bear roars in anger. And a spear of ice punches through its leg.
+
+I reach for my sword, ready. Keve ducks under another swipe, disappearing from his spot to appear above the bear, his flame-covered sword, chipping against the bone in the neck of the bear.
+
+It opens its mouth, and a spear of ice punctures through it.
+
+It stands still as Keve lands on the ground. Then slowly, it falls to the ground, dead.
+
+I release my grip on my sword, then turn my eyes to the distance where sounds begin to echo through the low light of the forest. They’ll be attracted to the noise of the fight.
+
+“Leave the bear. We need to get back.” My voice is hard from exhaustion and adrenaline. Everyone moves immediately, hurrying along the path back towards the statuette.
+
+Shar flies close to us, then dives to the left, making noise to draw something away before it reaches us.
+
+She comes back moments later, a light scratch along one of her wings.
+
+I’m the first one to reach the statuette, and I hurriedly activate it.
+
+A small portal opens, revealing the clearing where Lorn is standing next to a small fire, his eyes looking past us.
+
+He raises his hands and I freeze as hundreds of spears of ice fly past us, stabbing into something large that had been hiding in the trees.
+
+I curse, then hurry everyone through as a large monstrosity begins to shimmer into visibility. It steps forward, and roars with anger.
+
+Lorn raises his hand, and a giant humanoid creature of frost and ice rises from the ground, tackling the large monstrosity to the floor.
+
+I look away and hide the statuette in the roots of a tree, before following through the portal and closing it.
+
+Lorn lowers his hand, and I turn around to see the golem of frost fight the monstrosity, leveling trees as the two creatures tangle with each other in a ball of limbs and ice.
+
+Eventually, the golem is destroyed, but the bleeding monstrosity limps away, injured.
+
+I let out a sigh of relief, then collapse to the floor and look up at the stars that are slowly becoming visible with the deepening of night.
+
+“You look like you had an adventure.” Lorn says, sitting down on a log and poking the fire with a stick.
+
+“Ha.” I start.
+
+Daron snorts from where he’s sitting.
+
+Our whole group breaks out into laughter.
+
+Eventually, the laughter dies down, leaving us with the crackling of the fire. Lorn looks over our group with a confused look.
+
+“The hardest one yet.” I say, still lying on the floor.
+
+“The monsters have been extra riled.” Lorn shrugs, then adds a log to the fire, his eyes moving up to look at the trees in the darkness, “Ever since the rumbles.”
+
+I take a deep breath, then sit up. I make my way to the fire, and sit down with a sigh, drawing everyone’s attention.
+
+“That’s our last trip.” I say with finality, “We’ll load up the Rock Lizards in the morning and make our way back.”
+
+I get a round of tired nods and affirmations as Tanya pulls out a pot and places it on the fire.
+
+My first Delve without my mentor, all finished.
+
+Now I just have to worry about the necromancers in the city, and the map that leads through the city of the dead.

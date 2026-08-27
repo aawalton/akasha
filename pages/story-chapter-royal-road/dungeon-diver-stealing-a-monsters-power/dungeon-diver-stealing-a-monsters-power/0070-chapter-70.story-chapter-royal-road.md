@@ -1,0 +1,235 @@
+---
+id: 5b69e5a2-c094-5ad6-a803-127bc08be689
+page-type-slug: story-chapter-royal-road
+title: "Chapter 70"
+slug: 0070-chapter-70
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 70
+ownLength: 1719
+unit: words
+ownProgress: 1719
+publishedAt: 2023-03-28
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1150971/chapter-70"
+royalRoadId: "1150971"
+markedReadAt: "2026-06-29T20:34:13.739Z"
+---
+
+“Uhh- sure. Sounds good to me!”
+
+Jack left the room and came back around 5 minutes later.
+
+“They should be back from a raid within the hour. You’ll have to wait around for a little while.”
+
+I nodded.
+
+“That’s fine.”
+
+Jack looked me up and down.
+
+“Rei told me you got a new sword at the city center. Want to go to the training rooms real quick? I’d love to see how much you’ve improved! Swordsman to Swordsman.”
+
+I grinned.
+
+“Sure, but I’ll have to go easy on you.”
+
+“Hey come on now!”
+
+We both walked out of his office and entered the white-walled room. Once I drew my sword Jack’s eyes lit up.
+
+“Oh-huooo! Look at that!”
+
+He drew his sword as well.
+
+We began to spar casually for almost an hour. Neither of us used full strength of course, but we had a good time. Clashing blades with a swordsman is like sitting down and listening to their whole life story, I learned a lot.
+
+“Good warm-up, you’re not half bad!”
+
+Jack smirked and wiped the sweat from his forehead.
+
+“Oh yeah? Breaking 3 practice swords in less than an hour is what you call a warmup?”
+
+I glanced at the shards of steel in the corner of the room.
+
+“Not my fault this sword is so strong!”
+
+We both had a good laugh and sat down by the resting area and replenished our HP and MP.
+
+*Knock* *Knock* *Knock*
+
+The training room door opened and two familiar faces popped their heads through.
+
+“Jay!!! Welcome back!”
+
+Maria came running in with a full set of lightweight armor on head to toe. Rei poked her head in close behind.
+
+I instinctively used inspect and appraisal as she ran toward me.
+
+[Lv. 156]
+
+Active Items:
+
+[Steel Sword] +125 Strength
+
+[Steel Chest Plate] +100 Defense
+
+[Steel Wrist Guards] +75 Defense
+
+[Steel Shin Guards] +75 Defense
+
+[Enchanted Boots] +100 Speed +100 Agility
+
+[Golem’s Pendant] +30% Mental Strength
+
+Active Skills:
+
+Combat Magic [Ice Summoning]
+
+She wore light-colored clothing under the thin sheets of steel armor plates that fit around the curves of her body perfectly. Also… level 156? Jack wasn’t kidding. She’s been power-leveling like crazy this week!
+
+Maria jumped through the air and put her arms out wide. Moments later she hugged me tight, I returned the favor. This is a surprise.
+
+“Good to see you too Maria!”
+
+She dropped down to her feet and looked up at me with a smile that quickly turned to a mildly annoyed pouting look.
+
+“Did you get my note??”
+
+I raised my hands in the air with a confused look. All these emotions at once caught me off guard.
+
+“I- uhh. Yeah, why??”
+
+“You were gone so long you didn’t pay your rent Jay! Our landlord was knocking forever…”
+
+“Oh…I-“
+
+“I paid it for you, so you’re good!”
+
+With an embarrassing looking on my face I sifted through my item box to pull out some silver.
+
+“Let me pay you back, I’m sorry about-“
+
+“Nope! I don’t want your money, take me hunting with you today!”
+
+She looked straight at me and smiled with her deep blue eyes piercing my soul.
+
+I didn’t have time to answer before Rei interrupted.
+
+“Hey! I’m not so sure you’re ready for the dungeon we’re about to go to! I didn’t know you actually wanted to come with us, I thought you were just welcomiing Jay back home…”
+
+She pouted again.
+
+“You guys always treat me like a little kid. I’m really strong now ya know!”
+
+Rei looked at Jack and he just nodded.
+
+“You’ll be fine, just don’t dive too deep. I’ll give the green flag to all three of you. Just be careful.”
+
+Rei nodded.
+
+I looked back down at Maria.
+
+“Well, looks like it’s a yes from me too. I guess I do owe you one.”
+
+She nodded and grinned.
+
+I turned to Jack and shook his hand. He spoke up.
+
+“Had a great time sparring with you Jay, glad you’re back. I’ll have that application sent in today.”
+
+“Appreciate it.”
+
+Maria, Rei, and I walked out of the training room and through the guild’s back doors moments later. Rei spoke up.
+
+“It’s about 40 minutes of walking from here. This dungeon is kinda way off the radar.”
+
+Maria and I nodded, then followed close behind. We caught each other up on important info and how our dungeon diving had gone the past week.
+
+Maria basically doubled in level. She’s been exclusively training with Rei in low, mid, and even high-level D Class dungeons around here. The Guild supplied her with this gear because she’s been progressing so quickly. Maria has to work on battle technique more than anything else, her magic power is off the charts. I’m looking forward to seeing how she fights now.
+
+I asked Rei why she doesn’t dive into any C Class dungeons. The answer honestly surprised me. Apparently, they’re too dangerous. Hudson said the same thing in the capital though, I guess there must be something to that… She just gets paid a monthly salary to train the newbies here. A simple life, can’t knock her for it.
+
+Also… one of the wildest things Rei told me… the guild master is Jack’s Dad! He is usually out traveling, or on business. That’s why a D Class is running the place and giving orders. Everything makes so much more sense now!
+
+As we walked and talked, the course Rei took us was way off the main road. There’s a large forest area with a few medium-sized mountains south of our town. Apparently, there are a few old and abandoned privately run guild dungeons up here.
+
+“Just a little further, if I remember correctly it’s right over here.”
+
+Rei pointed to an opening in the tree line and we walked through. On the other side, we came across a small wooden shack. The door had a small sign on the front that read “Property of The Pace Guild - Do Not Enter”.
+
+It creaked open as we walked inside. The shack is empty with a blue portal floating at its backside. We all drew our weapons and switched into battle mode while walking through.
+
+I looked around in awe, new worlds never get old….
+
+The ground is completely black and made out of a material I’d guess is some kind of hard stone. The terrain is completely flat, but there are occasional odd-looking black trees and mounds of rocks every 10m or so.
+
+It feels like a desert, but the coloring is very off and there’s no sand at all. The lack of green just makes me think there’s no life in here. The sky is a light orange color, and the dungeon itself is reasonably well-lit.
+
+“This has to be one of the weirdest dungeons I’ve ever seen.”
+
+Maria nodded and looked around while holding her sword tight.
+
+“I agree. What is this place?”
+
+Rei spoke up.
+
+“Keep your eyes peeled. Anything can happen in here. As long as we don’t face the boss, I’m able to handle most monsters in here solo. I’ll let you two fight and only step in if you need me.”
+
+Maria and I both nodded.
+
+We all walked further into the dungeon.
+
+Like clockwork, 20 minutes or so into our trek I felt a sinister presence approaching.
+
+I used inspect, appraisal, and enemy detection.
+
+[70m]
+
+[Lv. 246]
+
+Active Items:
+
+[Steel Mace] +250 Strength
+
+[Steel Sword] +250 Strength
+
+[High Orc Heavy Armor] +300 Defense
+
+Active Skills:
+
+[Berserker]
+
+My eyes opened wide as I watched a beast appear from behind a pile of rocks. Rei jumped backward and motioned for us to take it on.
+
+I looked at Maria, and she looked back at me.
+
+“Let me at it! I got this!”
+
+I gripped my sword and stared at the beast running at us for a moment, then back at Maria. She nodded at me with a serious look on her face, I stepped back and let her take the lead.
+
+“All you. I’ll be your backup.”
+
+She grinned and started sprinting toward the oncoming beast. With a worried look on my face, I watched her closely getting ready to step in at a moment’s notice.
+
+The High Orc charging at us is about 3.5m tall. It’s not as massive as some of the other beasts I’ve seen, but there is something menacing about its appearance. The monster is swinging a spiked mace around in its right hand and has a sheathed sword on its left leg. The dark green skin almost looks brown and ripples over the defined muscles below. The High Orc is basically wearing a full set of armor covering its arms, legs, and most vital areas.
+
+The way it’s scanning the terrain and swinging its weapon rhythmically gives me the impression that this is a fairly intelligent monster.
+
+Maria glowed bright blue as she approached the sophisticated beast. It let out a roar, and she screamed back at it while covering her sword in a thick layer of Ice. I could feel the temperature around us begin to lower and the ring of blue light around her began to grow larger. Everything within 5m of her is being affected. The trail of ice behind her is thick and shows no signs of melting.
+
+The High Orc and her collide moments later. I can’t believe the sight in front of my eyes.
+
+As the Orc swings its Mace, Maria shoots a wave of Ice at its oncoming weapon. The beast freezes in its tracks, literally… The entire right side of its body including the mace is covered in a thick layer of ice. It lets out a roar as she begins to run past.
+
+It was all over in an instant…
+
+Maria circles back and releases another wave of ice across the left side of its body. The High Orc is frozen solid from head to toe.
+
+This beast is completely immobilized.
+
+I can’t believe my eyes. She just took down a monster 100 levels greater than her like it was nothing.
+
+Maria looks back at me with a grin.
+
+Then I hear a cracking sound….
+
+The pristine white statue of ice begins to splinter and break. A dark red light starts to seep through the cracks glowing brighter and brighter from within.

@@ -1,0 +1,175 @@
+---
+id: 282a7710-12ea-5b43-92f4-ad990f13962a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 57 - Fire & Ice - Part 2"
+slug: 0019-chapter-57-fire-ice-part-2
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 19
+ownLength: 2295
+unit: words
+publishedAt: 2026-08-25
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3861535/chapter-57-fire-ice-part-2"
+royalRoadId: "3861535"
+---
+
+Brexin slammed the map down on the flat rockface, frost billowing. “This can’t be correct!” he hissed. “We’ve spent what must be a week, and our elevation is far below what this says. And by The Five, I know we haven’t seen this bend here,” he said, pointing a gloved finger at a junction in the map. Where they should have cut more to the northwest, but instead had been walking straight east for more than a day.
+
+Arnold stepped forward, golden armor visible beneath the furs coating him. “Lord Paladin, if I may.”
+
+“Yes, yes. You may Arnold. Why do you always ask ill thought out questions? If you have a suggestion, I am all ears. We are here,” he proclaimed, pointing at a spot about two days south of the pass’s exit into forest.
+
+“Of course, Lord Paladin.” He pulled back the hood of his coat, before removing his helm. Cold sweat marred his bald head, already starting to solidify as the wind took hold.
+
+He thought for several moments, taking in the map. Brexin wasn’t sure why. He’d seen it before several times.
+
+“Lord Paladin, I think the cliff face behind us is the one this map calls Saber’s Ridge. See how it notates a large flat edge and a cave opening.” He motioned with a free hand at an open rock entrance far above them. “And if you consider its position relative to this incline, even with the snows, I believe we must be just north of Saber’s Ridge.”
+
+“That… makes sense.” Brexin crossed his arms. “Or it would make sense, if Saber’s Ridge wasn’t two days north of Valdren. Five save me, if we were back by Saber’s Ridge then… then…”
+
+Arnold nodded. “Yes, lord paladin. Then we’ve just made a large circle.”
+
+That realization did not go over well. While Brexin tried to process that, part of him in disbelief and the other now seeing it to be true, he looked at the camping men below. Several were being treated for frostbite, one of the footmen had a foot amputated the day before last, and many were showing signs of sickness.
+
+All the while, we’ve been wandering in circles?!
+
+Several very quiet moments passed. Brexin grit his teeth, his own golden helm still held taut in his arm. He took three precise steps towards the path edge, staring out at the mountains. All he could see was white. Lots and lots of white.
+
+“This… is a test. It must be. From The Five. They are testing us.”
+
+Arnold did not point out the ridiculousness of The Five giving false maps as a test to their followers. Followers that were on a holy crusade to vanquish darkness from their very own realm, after all.
+
+***
+
+Brexin, Arnold, and their squad commanders called stop for camp early. They spent several hours poring over the maps, but the conclusions were the same. The paladins had made some progress, but the snow drifts and mysterious shifts of the pathing had caused them to be in a maze. And that maze didn’t match the maps they had.
+
+They identified more than a dozen discrepancies. Some minor, but four were major. Three mismatched junctions and one huge elevation change that didn’t line up.
+
+***
+
+Hector trudged forward, cresting the next incline. A light snow flurry had begun, carpeting the pathway in front of them with a fresh coat of white. They’d taken to walking most of the day, mounts in tow. The current portion they trekked had the least certain footing, which made their horses nearly useless for anything more than pack animals.
+
+He was just pondering if they should set up camp for the night when a glimmer of brown was revealed in the distance. Cupping a gloved hand under his hood, he narrowed his eyes.
+
+“Say Aldous, I think we’ve found our missing paladins.”
+
+“M-my lord,” he chittered.
+
+He gave the servant a pat on the back. “Hang in there, old chap. We’ll see this through yet!” he replied with cheer. Internally, however, Hector was hoping for anything but.
+
+Your terror will be one last, faithful service to the House.
+
+He needed the paladins to see the man broken.
+
+Hell, I need you to be broken. Which, as he studied the husk of a man barely staying upright, Hector thought already to be true.
+
+Old Aldous’s change over the last month had been startling. Gone was the wise, faithful servant who put house above all, lord included. A servant that always had an opinion, and never shrank from sharing it.
+
+Whatever happened in that tower… He shoved a gloved hand in his breast pocket, feeling the burnt, mysterious relic inside. Its warmth still pulsed, evidence that it was not any normal sigil. It couldn’t be. And its making broke old Aldous. And Elson.
+
+But their sacrifice gave him something far more fascinating.
+
+He let the events of his trip replay in his mind, focusing on all the fascinating bits.
+
+Demons. Real flesh and blood demons! And the relic…
+
+He was just recounting his final conversation with that demonic city lord when they’d made enough progress for the specks of brown to start morphing into men. Footmen, specifically. They all wore a variety of colors, evidence of coming from various Valdren kingdoms and lords.
+
+To their rear, golden figures in fur capes and cloaks started to become visible as well. They were camped, sitting around small cooking fires that gave off weak wisps of smoke, fighting the biting cold.
+
+A handful of minutes later, they finally noticed Hector’s approach. A call went out. But by that time, Hector had already seen all several hundred men in the camp. He could make out their armor, or lack of it.
+
+And one man was most certainly not with them. Not unless they had him holed up somewhere.
+
+Looks like Neve’s not here. But the paladins obviously are. They took their time too. By the looks of those cloaks, they’ve probably been out here for the better part of two weeks. Which means they have the wrong maps, and Neve’s played his part, unwillingly it may have been. Sorry old cousin. But as Aldous always said, you really were a fool.
+
+“What do we tell them, my lord?” asked a guard.
+
+“The truth. We went north, had a hell of a time finding our way, and mapped our way back. Oh—and best to keep the word demon from your lips. If mention of them should happen to come up in conversation, let’s just call them… exotic beasts,” advised Hector.
+
+I’m willing to play a bluff with these paladins, but I’m not about to fold my whole damn hand.
+
+Now it was time for one last gambit. As he witnessed the hobbled, frigid state of dozens of footmen, Hector felt a cold satisfaction. One that rivaled the howling winds to their rear.
+
+Perfect.
+
+Reaching behind, he undid his saddlebag.
+
+***
+
+Brexin was contemplating their best course when a call came from the lines on the northern path. “Men spotted!”
+
+“Now what,” muttered the lord paladin, rising from the fur covered rock he rested upon.
+
+By the time the newcomers made it to the ridge camp’s designated command area, Brexin had already surmised who it was. He was somewhat at a loss for how to feel.
+
+A dozen paladins led the contingent up the steep incline. They’d been forced to leave their mounts by the footmen at the start of the temporary line below.
+
+The lord paladin took in the sight of each man. Most of them were guardsmen, wearing the same blue and white uniforms that the Hallen garrison had. They stood crowded in a protective circle, hands on sword pommels. Their gazes flicked back and forth as they passed man after man. Slowly, their alertness went from protective duty to fear. Once they passed the last of the footmen and began trudging past golden paladins, it became despair.
+
+All except for the two figures in their midst. One, a wiry old man, shaking so much he was visibly trembling. The other, a calm lordling, striding up the snowy ridge like it was his walk to the parlor.
+
+“Halt!” shouted a paladin. “You approach Lord Paladin Brexin of The Sixth Hand!”
+
+The party slowed to a stop, obeying the order. Hector Hallen stepped forward, a lavish brown coat draped over his shoulders. It’d clearly been tailored specifically for him. “Paladin,” he announced in greeting. “Fancy seeing you here! I am Hector Hallen of—”
+
+Brexin intervened, raising a hand and stepping up between the guards and the newcomers. His helmet had been donned, golden crown gleaming in the sun. It made an imposing sight. He stood still for a moment, no one moving.
+
+Attention gained, he spoke. “I know who you are. The Five sent me here to cleanse the taint your lands have brought. What I don’t know is why you are out here. You have much to answer for, Hector. The imposter of a noble you left knew little of your… actions.”
+
+At his words, the paladins closed in. Each member of Hector’s party was grabbed on either side by a duo of golden armored forms. All save one.
+
+The old man fell to his knees, hands clasped together. His black travel cloak was tangled about him, marred with orange and brown stains. Something about those stains tickled Brexin’s mind, but before he could think more on it the man broke into sobs. “Forgiveness, mighty paladin. Forgiveness. We are at your mercy!” he cried.
+
+For the second time in as many minutes, Brexin stared, trying to decipher what exactly was going on. Hector’s servant just remained prostrated, tears dripping from cheek to snow, freezing into the terrain. “I see. At least one of you knows the path you’ve strayed from. What of the rest? What of you, lordling?”
+
+“Oh, Brexin was it? Forgive my servant. We’ve been through dire straits. I fear it was too much for his mind to handle. As for your question… You know, I do agree that we’ve strayed from our path. If I had to guess, it seems that you have too.”
+
+Seeing the glower on his face, Hector rushed to continue. “Not that it’s any fault of your own. Rather, I think you’ve fallen prey to the same dark clutches that brought us here. The machinations of the tainted. Prying fingers reaching where they should not.”
+
+Brexin snorted. “What are you getting at? Your nonsensical words won’t bring you back to the path of the light.”
+
+Instead of answering, Lord Hector reached into his coat. From within, he produced a rolled parchment.
+
+“May I?”
+
+Seeing nothing the incompetent lord could do to harm him, Brexin shrugged.
+
+Hector moved past him, stopping next to the command maps. With a flick of his wrist, he unfurled his own parchment atop the paladins’.
+
+“These are my current survey maps of The Spines. Updated and corrected over the last several weeks, by my own trekkers.” He smoothed the edges, weighing down the corners with loose stone. Then, he stepped back. “I believe you’ll find them more agreeable than whatever Neve handed you.”
+
+Arnold stiffened. The bald paladin rushed over, leaning forward. His eyes traced the pathways, quickly identifying Saber’s Ridge, then the junction they’d missed, and finally the elevation markers.
+
+He looked up at Brexin, giving him a short nod. “This seems to be correct from everything we reviewed, lord paladin. I can’t be certain, but…” Arnold shrugged. “All the corrections are made here from what I can see.”
+
+And being that Hector Hallen was here, clearly in good straits…
+
+The lord paladin said nothing for a long time. Wind howled between the peaks, tugging at golden capes and fur hoods alike. Around, paladins and footmen, and Valdren guards waited.
+
+At last, Brexin spoke. “This changes nothing. Arnold. Choose two paladins and a handful of footmen. Use the corrected map to fix ours—good enough to make it out of here—and have them take Lord Hector and his party back to Aurelion.”
+
+For a moment, Hector did nothing. A flash of something crossed his face that Brexin could have sworn was… satisfaction? Before he could parse it, the expression melted into an air of fear. Hector’s eyes widened and his breath seemed to catch. “Lord Paladin, you must understand that this seems—” An aggressive step from Arnold shut him up.
+
+No further argument followed. No more protests. He watched in curiosity as Hector Hallen was placed in golden chains along with his comrades, and escorted out of the camp. The old servant that had been prostrate moments before now sobbing the whole way.
+
+“Wait! No! Please! Have mercy! Have mercy!” sobbed the servant. Hearing his pitiful cries assuaged the suspicions and uncertainties tickling at the back of Brexin’s mind. The sound of the tainted finding their path always brought fresh warmth to his bones.
+
+“No!” he repeated, more distantly this time.
+
+With little preamble, he watched the small escort head down the incline. South. Following the corrected path back out of The Spines.
+
+Once he was satisfied, he spun around. “Arnold!”
+
+“Yes, Lord Paladin.”
+
+“Prepare the lines. We have ground to make up. The Five are watching.”
+
+“Of course. Yes, Lord Paladin!”
+
+***
+
+As the camp erupted into motion behind them, Hector Hallen shook the metal cuffs around his wrists. He frowned in discomfort, but did his best to keep it from showing. Instead, he looked back, gazing north. Past the snow and stone, to where the pass would eventually give way to dead forest and orange sand.
+
+Right where I left you, Kairon. I do hope you’ve been busy. There may be a delay on the promised shipments. But they will come. Eventually.
+
+You’ll see.

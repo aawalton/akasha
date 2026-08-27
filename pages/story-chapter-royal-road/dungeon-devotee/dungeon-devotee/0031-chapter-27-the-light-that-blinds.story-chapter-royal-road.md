@@ -1,0 +1,491 @@
+---
+id: 334e2a9f-c992-5823-82e0-6072949acb1d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27: The Light That Blinds"
+slug: 0031-chapter-27-the-light-that-blinds
+partOf: dungeon-devotee
+position: 31
+ownLength: 7151
+unit: words
+ownProgress: 7151
+publishedAt: 2023-12-01
+link: "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1429035/chapter-27-the-light-that-blinds"
+royalRoadId: "1429035"
+markedReadAt: "2026-06-29T22:40:07.729Z"
+---
+
+Edmund’s eyes instinctively snapped shut as the darkness between levels gave way to blinding brilliance.  He forced them back open, his paranoia winning out over his body’s urge to protect his sight.
+
+A violet blob floated in his vision as he squinted at his surroundings, failing to make out much at all while his eyes adjusted to the sudden brightness.
+
+He stood upon a floor of matte alabaster, some kind of rigid material with little spring to it that Edmund didn’t recognize.  The ceiling above and walls that flanked the entrance behind him matched in tone and texture, bestowing a sterile nature unto the space, pristine surfaces flooded with light.
+
+Of the path forward Edmund garnered little but for the stark realization the light source that so blinded him sat not above, but ahead.  Any attempt to gaze onwards revealed only the bright sphere of white washing out the rest of the level in its glow.
+
+Edmund avoided looking directly at it.
+
+The air in the room sat perfectly still, unbothered by breeze or convection.  It smelled like smoke.
+
+Edmund once more averted his gaze from the floor ahead of him, only to find this time as he twisted his head back, there was a man leaning against the wall beside the entrance.
+
+Liam had swapped out his umbrella for a pair of dark lenses mounted in front of his eyes by a wire frame, leaving his trademark mischievous glint obscured.  He made up for it with an extra wide smirk.  “After all that time mucking about in the dark, I figured you could use a little light.”
+
+Edmund flinched as he felt a hand pat his back—not the back of his armor, his back.  Liam’s palm passed clean through his crystal cuirass to touch him directly, a not so subtle message that gear wouldn’t keep him safe.
+
+He fought back the urge to shudder, gritted his teeth, pretended goosebumps hadn’t arisen across his flesh.  His armor may not have protected him from Liam, but the accords did.  The Eternal Depths would never dare—
+
+Edmund paused as a realization struck, an understanding long overdue of the penalty to breaking the fairness accords in comparison to that of allowing him his vengeance.  Perhaps it was better Liam wasn’t taking him seriously.
+
+“This isn’t a little light.”
+
+“No, that was a dramatic understatement.  This is, in fact, a shitload of light.”  Liam grinned.  “You’ve been underground a long time, Eddie-boy.  Gotta bring out the big guns if you want to make up for that in only one level.”
+
+“I…”  Edmund blinked.  “What does that even mean?  Make up for what?”
+
+Liam exhaled.  “Thrax, are you a wet blanket.  You know what, nevermind.”  He gestured back and forth between Edmund and the way ahead.  “Edmund, level, level, Edmund.  Go commit those acts of unspeakable violence I know you enjoy so much.”
+
+Edmund squinted at him, but Liam only wiggled the top half of his hand in that universally condescending buh-bye motion.  Edmund ignored him.
+
+The good news, as far as Edmund was concerned, was that the smoke that hung in the air had at least some impact on the floor’s ability to singe his retinas.  Light caught upon its haze, setting it aglow as if the fires from whence it came burned just beyond view.  If he looked closely, he could see individual motes where they floated, a billion billion little specks that made the room that much darker, that much more abrasive, that much more acrid.
+
+Combined with the relatively narrow slot in his ebonsteel helm, it made the best protection Edmund could’ve hoped for.  He supposed that offered some hint of Liam’s viewpoint.  The dungeon hardly would’ve given him this floor if it understood how thoroughly his smoke billowed through the area around him.  He wondered if Liam knew less than he was letting on.
+
+Edmund decided to keep it that way.  Knowing Liam, he had his suspicions.  This floor was just as likely a test of how well his smoke protected him as anything else.  Failure seemed prudent.
+
+So he made a show of it.  He held up his left hand to shield his eyes as he peeked through the gap between his fingers, surveying the space as best he could.  He found a chaotic mess of faint glimmers spread about the level in front of him, spots where the light shone brighter or strangely dimmer, and areas where it seemed to bend.
+
+Edmund recognized it for what it was.  He sighed.  “A glass maze?  Really?  What’s to stop me from smashing my way through?”
+
+“Oh, only the fortifying enchantment, the no tunneling clause in the fairness accords, and the remarkably lethal countermeasures I’ve put in place, but by all means, solve the problem with wanton destruction.”
+
+Edmund glared at him.
+
+Liam shook his head.  “Edmund, Edmund, Edmund, didn’t we just have a chat about trying to avoid the intended path?”
+
+“Yeah, well, definition of insanity, right?”  Edmund drew his cutlass, opting to leave his spear disassembled.  It wouldn’t be much use in the close quarters of Liam’s maze.
+
+He wished he trusted Liam’s word enough to confirm the entrance’s safety and set up camp for a few hours, if only for the chance to dry off his still-soaking armor, but Edmund didn’t believe for a second Liam would allow him that chance to rest.  Lacking the expensive defenses of Amelia’s portable camp, Edmund didn’t dare let his guard down on an uncleared floor.
+
+He could handle a bit of discomfort.  He’d fought under worse circumstances.
+
+Liam interrupted as Edmund took his first step away from entrance.  “You’re going already?  You sure you don’t want to stop and dry off, maybe rest a bit?”
+
+Edmund gave it equal odds the dungeon was trying to get him to stop as goading him on.  He knew Liam’s games well enough.  The only winning move was not to play.
+
+So again he ignored the smirking pest, committing to his plan for both the aforementioned reasons and the hope it would shut Liam up.  He wasn’t so lucky.
+
+“Alright, well this should be fun.”  Liam rubbed his hands together as he followed in Edmund’s footsteps, actually taking the time to walk from place to place rather than simply appearing wherever was most convenient.
+
+Edmund glared.
+
+“What?” Liam asked.  “There’s nothing in the accords that says I can only talk to you at the beginning and end of each level.  Thought I’d join you for this one.  You could use a good heckling—wouldn’t want you to start taking yourself too seriously.”
+
+Edmund simply groaned and moved on, doing his best to tune out the tap of Liam’s worn boots against the pale floor as he approached the maze’s entrance.  He didn’t even make it halfway before the level made its first attempt to kill him.
+
+He leapt back as heat seemed to blossom out of nowhere on his left rib, melting clean through the interior metal coating of his crystal cuirass to singe the flesh beneath.  Edmund raised his sword, ready to retaliate against whatever creature had struck him, but nothing about the floor ahead had changed.  His challenger’s mark sat inactive.
+
+A trap, then.  After another few heartbeats of vigilance revealed no new dangers, Edmund at last risked a glance down at his injury.
+
+The attack had passed directly through the violet crystal that made up the bulk of his breastplate, leaving it entirely unharmed before melting the lining below.  Edmund cursed.  The cuirass’s description considered it vulnerable only to blunt-force damage, yet it had definitively failed to repel whatever thermal magic had just struck.
+
+Except it couldn’t have been a spell.  His frostfang talisman would’ve blocked it had that been the case.
+
+Edmund drew his knife and opened a small gash along his left forearm, drawing just enough blood to feed his breastplate’s repair function as he reconsidered the maze in front of him.  It hadn’t been built of individual panels, but what seemed to be one singular piece of glass that bent and curved in all manner of directions beyond those necessary for a simple labyrinth.
+
+Liam, thankfully, chose that moment to gloat.  “Clever, isn’t it?  Took some doing to get the curves just right, but do you have any idea how much anima I saved by making the traps a natural byproduct of the level itself?”
+
+The comment sent Edmund’s mind reeling.  He’d known, of course, that Liam depended on the life-force it reaped from those that died within its depths, had understood each devoured soul empowered the dungeon, but had never considered framing it as a resource to be spent and saved.
+
+It didn’t escape him that both sentences had been phrased as questions, neatly dodging the regulations against lying.  Still, the underlying boast seemed to hold some kernel of truth.  Edmund’s talisman’s inactivity supported the idea that he hadn’t stumbled into an attack, but something more insidious.
+
+Opting not to reply to Liam’s words directly, Edmund raised a hand to shield his eyes from the blinding light as he squinted at the spot he’d been struck.  The smoke in the air seemed thinner, brighter, penetrated further by the oppressive light than elsewhere.  Before his eyes, a shape emerged: a cone that grew tighter as it distanced itself from the maze before coming together at precisely the point that had so wounded him.  Beyond, it split apart again, forming a second cone that mirrored the first before reaching the back wall.
+
+Edmund understood.  Liam was right.  It was clever.  The brilliant glow at the level’s end didn’t simply serve to blind him, but also to offer light and heat enough for the curvature of the glass walls to focus to lethal intensity.  Were it not for the smoke, Edmund wouldn’t have even been able to see where the focal points lay.  As it was he barely could.  Diminished as his vision was, he didn’t like his odds of spotting the dangers before stumbling into them normally, let alone once the level’s monsters revealed themselves.
+
+At the very least, Edmund understood why the maze’s entrance sat so far from the level’s.  Any closer and it would’ve violated the entrance safety clause.
+
+He kept silent as he waited for his regeneration to mend the cut in his arm and burn on his side.  Mark of the gauntlet or no mark of the gauntlet, Edmund refused to rush.  Liam spent the minutes prattling on about the superiority of elvish ironwood for whiskey-aging barrels, a distraction to which Edmund refused to pay the slightest amount of attention.
+
+Before going for the maze a second time, Edmund slipped on his swelter ring.  Liam took the opportunity to over-dramatically fan himself as if annoyed by the aura of heat, but he neither faltered or broke a sweat, so Edmund took his theatrics for what they were.
+
+Caring less for the aura itself than the defense against radiative heat, Edmund approached the focal point and carefully reached for it.  His fingers of the crimson hand escaped entirely unscathed, of course, the artifact made of far sterner stuff than anything the dungeon could throw at it even twenty-seven floors in.  The bare skin of his palm similarly survived, growing red with warmth and discomfort where the focused light struck it, but otherwise remaining uninjured.
+
+Edmund didn’t let himself get too relieved.  Liam would never have allowed a single piece of loot to so counter one of his floors.  Edmund’s second test confirmed his theory.
+
+Again he stepped into the light, and again it melted clean through the lining of his cuirass.  Edmund’s abdomen erupted in pain as the molten metal sidestepped his ring’s protection to damage him directly.  He stepped back and repeated the process of feeding his breastplate’s self-repair function.
+
+Liam smirked at him.  “You’re not going to cheese your way through this that easily.  I don’t hand out loot that let’s people—what are you doing?”
+
+“What does it look like I’m doing?” Edmund replied as he finished undoing the buckles on his pauldrons and shrugged them off.  “No reason to risk my gear when it’s doing more harm than good.”  Piece by piece he stripped himself of his armor, depositing it for the moment in a heap on the floor.
+
+Liam simply gaped at him.
+
+A scant handful of pieces offered Edmund pause, if only to warrant further testing.  His swelter ring and crimson hand pieces of course kept, while anything else that didn’t specify a resistance to heat went to the pile.  His mithril bracers joined the heap after an experiment confirmed “protection against all damage types” to be disappointingly insufficient against the focused heat, while his blackbone leggings’ major protection against fire actually managed to hold firm.
+
+That latter was a definite relief, both because Edmund sorely wanted some protection against whatever else was about to try to kill him, and because at the very least he needed a way to carry the key to his portable camp.  The pockets in his leg armor would work nicely.
+
+In the end, all but his leggings, fingers, two rings, and cutlass went into the tent, stacked neatly atop his cot.  The sword, while rusty, kept enough of a sheen to survive the light for a few seconds, though he feared the process burnt away its rotflesh coating.  His barkskin ring, the oldest piece of loot he still had, couldn’t itself endure the heat, but was small enough to not make a likely weakness, and if he was going to tackle this level unarmored, he desperately needed its paltry defense.
+
+Liam kept uncharacteristically quiet through the whole affair, shaking his head or furrowing his brow at seemingly random intervals but otherwise letting Edmund strip in peace.  Edmund’s more paranoid side argued that Liam’s silence implied he wanted Edmund unclothed and thus unprotected, but he ignored it.  Trying to figure out what Liam wanted and didn’t want had never worked before.
+
+His pale and scar-marked skin exposed, Edmund once more approached the maze.  For confirmation’s sake, he walked right through that first focal point.  It left a bright red line across his stomach as he passed, but it stung no more than a sunburn, and his health regeneration diminished it to naught before he even reached the glass.
+
+At long last, Edmund entered the level proper.
+
+The air hung heavy with heat, the warmth both from the light source and his swelter ring bouncing against the glass to discomforting effect.  He was well beyond suffering any damage from it, but sweat did drip down his brow, and his muscles relaxed in spite of themselves.  Edmund forcibly flexed them in an attempt to keep alert.
+
+He made little attempt to navigate, considering the various bends and distortions in the glass more than enough to obfuscate the shortest path, not that Edmund cared about the shortest path.  For thoroughness’s sake, he’d walk every inch of this place, following the tried and true strategy of turning left at every juncture.
+
+Protected as he was, Edmund kept a careful eye for the shifts in the smoke that indicated a focus point.  Most passed across his skin to limited effect, but those that fell upon the floor threatened to singe the soles of his feet, and no amount of defense would keep the focused light from reducing his retinas to ash.
+
+At least the former were easy enough to spot, leaving the pale ground nearly bright enough to blind.  The latter required constant vigilance, a state of being with which Edmund was deeply familiar.
+
+As had grown to become the norm, Edmund heard the monster before he saw it, a faint tink tink tink sound that echoed from around the juncture ahead.
+
+Edmund froze, raising his cutlass as he scanned for signs of motion as best he could through the oppressive light.  His ears offered a fairly precise location, but as he narrowed his gaze at the glass wall, he saw only empty hallway beyond.  Only as it rounded the corner did Edmund realize why.
+
+A bulbous quadruped of transparent glass stepped into view.  It bore the snout, fangs, and general form of a canine, but there ended the similarities.  Three nearly spherical masses made up its torso, met by four ball-and-socket joints that allowed its legs their full range of motion.  Visible hinges similarly formed its elbows, though in lieu of wrists of paws the legs simply ended at stiletto points, doubtless the source of the tinking noise as they tapped against the hard floor.
+
+The creature lacked a tail entirely, leaving its fangs and feet as the only weapons at its disposal, at least until Edmund noted the way the smoke moved around it.
+
+With every step, every little shift in its posture, the light struck the creature differently, forming new and different focal points around it.  None of them shone with quite the same intensity as the more static ones, but they offered threat enough.  The mere thought of fighting this thing without the protection of his swelter ring sent a shiver down Edmund’s spine.  He might have survived, but his gear certainly wouldn’t have.
+
+At least now he only had to worry about protecting his eyes and avoiding the few sharp points it had.
+
+His challenger’s mark burned.
+
+The creature opened its maw as if to howl, but the dissonant screech that emerged matched no bestial call Edmund had ever heard.  Its body shifted, the gentle curves of its torso breaking up into a hundred pointed shards, jutting this way and that but overwhelmingly favoring upwards as if in a deliberate attempt to resemble a wolf with its fur on end.
+
+Edmund spared a thought for his unarmored body and swallowed down a knot in his throat.  This wasn’t going to be fun.
+
+He threw a Firebolt with his offhand, more in an attempt to ward the thing off than in actual hope of dealing damage.  The glass wolf snapped at his spell, biting at it as it flew.  As expected, the flames themselves did little real damage, but the beast’s snout glowed orange for a brief moment, and as it cooled its fangs seemed somewhat duller, somewhat rounder.
+
+He couldn’t burn it, but he could melt it.
+
+By the time Edmund’s second Firebolt was in the air, so too was the beast.  Midair, the spell struck it in the chest, softening the shards there but doing little to temper the construct’s motion.
+
+Edmund didn’t even try to stop it.  He dove forward, passing just under the pouncing wolf.  A focal point on the floor left a black spot on his shoulder as he rolled over it, but the flesh wound failed to so much as distract him.
+
+The two combatants spun to face each other.  Edmund’s mind raced through his constellation, searching desperately for ways to keep the beast at arm’s length.  He wished he had a blunt weapon to wield against the brittle construct.  Even his spear might’ve proved useful at pushing it back while his spells whittled it down, but the tight quarters and no gear to attach its pieces to made that weapon a dangerous commitment.
+
+Most of all he mourned the loss of his shield.
+
+The wolf didn’t let him think for long, barreling down once more.  Edmund threw another Firebolt while he had the opportunity, further smoothing over the creature’s teeth, but the monster’s ground-bound approach left him fewer opportunities for evasion.
+
+The beast lunged forward.
+
+Edmund swung with his cutlass.
+
+The blade slid down between two of the shards upon its back, glowing red where they focused the light onto it.  Edmund pushed to open a gap between the wolf and the right wall, through which he darted to sidestep the creature’s charge, but the lateral motion tore the partially-melted chunk from his blade.
+
+Edmund came away from the exchange personally uninjured, but his cutlass bore an inch-wide hole two thirds of the way down its edge.  He let out a curse.  Two levels in a row now his gear had been damaged.
+
+The wolf didn’t give him time to mourn it.
+
+Edmund managed another Firebolt into its mouth as it came, rendering its teeth little more than flattened stumps before it was upon him.  He leapt over it this time, taking a windstep to clear its five-foot height as it barreled underneath.  His back rubbed against the glass ceiling, robbing him of his momentum and sending him falling to the floor rather than into the roll he’d intended.  He landed on his stomach.
+
+Edmund rolled along his side, as the wolf’s pointed front feet slammed into the floor beside him.  He brought his sword up just in time to catch the creature’s bite, holding the cutlass’s blade with his left hand to help support his right as the wolf pushed forward.  Panic surged through his mind as he saw the light pass through the creature’s glass snout, watched his sword glow red with heat.  It wouldn’t last long.
+
+The wolf reared up, pulling Edmund’s sword with it as it raised its front legs to strike again.  Edmund pushed, desperate to bring his body out from under the thing.
+
+He managed to bring his torso upright, leaving only his still-armored legs on the ground as he wrestled the wolf for control of his rotflesh cutlass.  The heat traveled along the blade, blackening the skin of Edmund’s hands where he gripped it.  The beast too suffered for it, its teeth and gums growing molten, threatening to drip down onto Edmund’s exposed skin.
+
+Before that could happen, Edmund shielded his face behind his arm and played the only card he had left against such a hard and brittle foe.
+
+He activated Collateral Damage.
+
+The wolf and cutlass alike exploded in a blast of concussive force, knocking Edmund back and slamming him into the floor.  Shards of glass and metal rained into him, piercing his upper body in two dozen places.  The barkskin ring of all things kept the punctures shallow.
+
+Edmund lay still, his breathing rough and ragged, his heart racing with adrenaline as he bled.
+
+Fitting as its name had been, the skill had certainly proven effective, leaving little more than rubble of both his foe and his weapon.
+
+Just as Edmund managed to catch his breath, the sound of slow, rhythmic applause reminded him of his other source of torment.
+
+“Four floors,” Liam said.  “It took you four floors to lose that cutlass.  That must be some kind of record.”
+
+Edmund didn’t reply.
+
+“You know, there’s a reason fighting naked fell out of fashion a few thousand years ago.  Except I guess those berserkers over in Gruthien hills, but they actually get stronger when they take damage.  Oh!  And the bloodwakers in Etrousia, but I’m pretty sure that’s a sex thing.”
+
+“Wha… what?” Edmund managed.
+
+Liam shrugged.  “Oh just commenting on the whole…”  He waved his up and down to gesture to Edmund’s hole-riddled body… “this business.  I love the creativity, but did it seriously not strike you there’d be glass-based enemies in the maze of glass?”
+
+Edmund groaned.
+
+“That’s the spirit.”  Liam smiled.  “There’s something special about that moment when they realize their mistake.  Usually it happens right before a violent death, but every once in a while you can get more than one out of a given delver.  You’ve survived like six.”
+
+Edmund tuned him out, too busy surveying the damage to give Liam any mind.  His regeneration was already forcing a few of the shallower shards from his flesh, but the larger, more serious wounds demanded attention.  Keeping his back flat against the floor to avoid driving the shrapnel in deeper, Edmund craned his head forward and went to work.
+
+Liam prattled on about the different ways regret showed on peoples’ faces as piece by piece Edmund pulled the chunks of glass and metal from his skin.  Only about halfway through as he removed a blackened piece of his cutlass did he realize his luck.  Without the focused light nearly melting his sword and burning away its coating, the rotflesh venom would’ve already taken hold.  After the one little sting had proven so resilient to his regeneration, Edmund doubted he could’ve survived the dozen or so injuries he’d given himself.
+
+By the time he’d cleared away the last of the shrapnel, the dungeon had reclaimed both the wolf and the remnants of his cutlass, leaving just Edmund in a rapidly drying pool of his own blood.  It didn’t take long for the flesh wounds to seal themselves shut.
+
+So Edmund pushed himself to his feet, taking the moment to reconsider his strategy as Liam continued his rambling.
+
+Useful as it would’ve been, he wasn’t certain he could afford to re-don his armor.  Sure, it would protect him from the wolves, but it’d leave him exposed to the light.  Despite Liam’s comments about it “going out of fashion,” Edmund ultimately concluded his original plan had been correct.  The focused light was simply too much of a threat.  Thrax, he’d already seen how he could dull the sharp glass with a few Firebolts.  That had to be the easier danger to deal with.
+
+That left Edmund with the dilemma of his cutlass.  Without it, his options for close-quarters fighting fell to his hands, his unassembled spear, and his belt knife.  He couldn’t imagine the knife doing any good against the wolves, but in theory he could at least use his hyper-magnetic spear to keep them back.
+
+Except his cutlass hadn’t survived one fight.  If he planned around it, he could probably preserve his spear a little better, but did Edmund really dare risk his only remaining weapon for such marginal gain?
+
+Edmund decided he didn’t.  If something was going to suffer Collateral Damage, he’d rather it be something that regenerated.
+
+Liam raised his sunglasses as if he needed a better look at Edmund.  “No changes?  Really?  You’re happy with how that went down?”
+
+Edmund scowled at him.
+
+“Right, right, how silly of me.  You don’t do happy.”
+
+About as tired of Liam as he was of squinting through the blinding light, Edmund kept an open ear for more wolves and set off once more.  Liam had the decency to keep his mouth shut as they progressed, leaving the maze quiet enough that Edmund had no trouble identifying the tinking sound of glass feet against the floor.
+
+The second wolf appeared within minutes.
+
+This time, Edmund didn’t wait to start throwing Firebolts.
+
+The creature’s body was still shifting from its bulbous default to the jagged form his challenger’s mark caused when the first spell crashed against its chest.  It charged.
+
+Twice more Edmund fired at it, aiming again and again for the same spot on the beast’s chest.  It glowed orange as the glass softened, its points smoothing over as Edmund softened his target.
+
+The wolf pounced.
+
+Edmund clenched his jaw and pulled back his fist.  This was going to hurt.
+
+The wolf’s front foot pierced Edmund’s left shoulder just as he swung his right forward in support of his punch.  Before the beast’s momentum could carry it through and barrel Edmund over, his fist landed on the still molten spot.
+
+Edmund’s Collateral Damage shattered both the glass construct and half the bones in his right hand.
+
+He grunted as pain exploded up his arm and down his torso where glass shrapnel again rained down.  He fell to his knees, clutching his broken hand.  He focused on his breathing, in and out and in and out while his regeneration went to work.
+
+Liam, leaning casually against the glass wall, took the opportunity to gape at him.  “So let me get this straight.  Your plan is to explode the glass constructs on top of you?”
+
+In reply, Edmund reached for the largest shard embedded in his shoulder and pulled it free.
+
+Liam let out an overdramatic sigh.  “Insane.  Absolutely insane.”  He paused for a moment to feign realization.  “I know what this needs!”  With a snap of his fingers, a pouch of nuts appeared in his hand.  He dug in and tossed a few in his mouth, chewing as he spoke.  “A good show requires good snacks.”
+
+The smell of food sent a wave of nausea through Edmund’s stomach as he went to work removing the worst of the shrapnel.  He’d never have admitted it, but Liam’s presence almost helped, offering both a welcome distraction from the pain of his injuries and a convenient target for the simmering rage they wrought.
+
+By the time Edmund finally pushed himself to his feet to set off once more, Liam had exchanged his nuts for some kind of beverage that smelled strongly of both sugar and alcohol.  Edmund didn’t ask.
+
+His strategy as developed as he could reasonably get it, Edmund’s progress through the maze continued at a crawl.  Each wolf that appeared went down to the same combination of a few Firebolts to smooth over a target followed by a Collateral Damage to finish the job.  Each time left Edmund on the ground, peppered with shallow holes and clutching a broken hand.
+
+Most of his time he spent in recovery, taking nearly an hour to return to fighting shape after every encounter.  The only improvements he found came in the form of positioning, tilting his body to avoid the pointed feet, reducing the target area he left exposed to the shattered glass, or shielding his face from the same.  The changes helped, but they didn’t make the fights any easier.  It didn’t make the process hurt any less.
+
+But however unpleasant, the strategy worked.  Hour by hour Edmund traversed the maze, crawling ever closer to completing this cursed level without damaging any more gear.  Liam looked visibly bored as the day dragged on and the fights grew more and more repetitive, but he neither disappeared nor pressed Edmund to do anything riskier.  Instead, he rambled, telling stories that seemed to go nowhere or jokes with punchlines Edmund couldn’t begin to understand.
+
+By the time Edmund emerged from the maze to a familiar chime, exhaustion wracked his body.  He didn’t make for the fittingly glass chest that appeared beside the exit; nor did he shut his eyes and envision his constellation.  Edmund simply stepped to the open space between the open door and the blinding light, dropped the figurine of a tent upon the ground, unceremoniously relocated his pile of gear off of his cot and onto the floor, and went to sleep.
+
+Liam, mercilessly, was still there when he awoke.
+
+“That’s two days gone, Edmund.”  He tapped at his bare wrist.  “Tick tock.”
+
+Edmund blinked.  He’d only slept once since receiving his temporary mark.  Had it really been two days?
+
+Ignoring the not-so-subtle reminder of his situation’s urgency, Edmund emerged from his portable camp and went to claim his loot.  From the outside, the glass chest with its fanciful gold trim seemed empty, only for its opening to reveal the same effect that so hid the wolves within the maze.
+
+Its contents were made of glass.
+
+A single disc, the diameter of Edmund’s palm and some half-inch thick at its center, lay within.  It bore no etchings, no handles, no decorations, and indeed at first glance seemed perhaps the most useless piece the dungeon had ever offered him.  The smoke cleared up that misconception.
+
+Mage’s Focusing Lens
+
+Empowers and focuses spells cast through it.
+
+Edmund didn’t hesitate to try it out.  Its use came intuitively, gripping it in his right palm as he extended his arm and cast a Firebolt through it.  The spell shot through the air, a narrow beam of superheated energy rather than the burst of flame to which he’d grown accustomed.  Instead of washing harmlessly against the maze’s outer wall, it burrowed in, penetrating several inches as it melted the glass around it.
+
+Neither Smoke Lash nor Magma Fissure worked well with the lens, but Firestorm became something new entirely.  It still took several seconds and an exorbitant amount of mana, but instead of the dispersed cloud of flame, a jet flowed from his palm like river, reaching some forty feet before it dissipated.  The spell only lasted the same few moments, but the wall it struck melted to little more than a pile of slag.
+
+It didn’t quite replace the close-range option he’d lost in his cutlass, but it proved far and away a force of its own.
+
+Returning to his tent to put down his newest acquisition, Edmund sat on his cot and shut his eyes to envision his constellation.  No new impossible recombinations made themselves apparent, so instead Edmund’s mind fell to the confluence he’d intended for the prior level.  The same logic still standing, he focused in on Wrath and The Fissure and made his selection.
+
+Tier 5 Aspect: Discord (Wrath and The Fissure) - Bronze+ Resonance
+
+Level 1 - Brutalize has a chance to turn your foes against each other.
+
+Edmund blinked.  Between the two inputs, he hadn’t expected the tier 1 to get an entire Aspect improving it.  He wished the description had described exactly how much of a chance it offered, but the ability for Brutalize to not only stun his foes but turn some into temporary allies seemed remarkable.  That alone could make certain group fights go from impossibly dangerous to entirely winnable.  It wouldn’t revolutionize his fighting style, but it was the type of effect that could easily make the difference between living and dying.
+
+None of his other Aspects saw changes to their descriptions with the level-ups, a slight disappointment but not much of a surprise.  A good chunk of them had changed just recently.
+
+Satisfied if not excited with the upgrades, Edmund closed his constellation and looked to the pile of gear on the floor.  He knew Liam’s ticking clock would have him rushing through the exit, and Edmund didn’t think he’d ever wanted to train on a level less, but he couldn’t pass up the opportunity to test his newest weapon against a known quantity.
+
+At least, with the level cleared, his challenger’s mark no longer took effect.
+
+Focused through the lens, his Firebolts burrowed deep into the wolves’ bulbous bodies, carving narrow holes into the glass where they struck.  The spell’s more directed nature required sharper aim from Edmund, but with a bit of practice he mastered the art of sending three Firebolts into a wolf’s head before it could get into striking distance.
+
+Firestorm, if he managed to cast it before his foe was upon him, proved devastating.  By the end of its channel, the fiery torrent left little behind but a misshapen lump where once had stood a wolf.  Edmund practiced with that one longer than perhaps he should’ve, telling himself he was trying to get the cast time down when in truth he found catharsis in annihilating the wolves that had caused him such trouble.
+
+Some eight hours had passed before Edmund decided he’d trained enough, returned to his tent, re-equipped his armor, and returned the portal to his camp to its figurine.  Liam was still there, still watching, when Edmund set his sights not on the darkness, but on the light.
+
+He raised a hand to his face to shield his eyes as he approached the pale pedestal that housed the insufferable brightness, eager both to investigate and claim another potential boon.
+
+Liam raised an eyebrow at him.  “What are you doing?”
+
+“What does it look like I’m doing?”  Edmund reached out.  Despite the intensity with which it’d burned, the air around the light source felt cool.  As his fingers blindly brushed against it, they found little more than a rock, half the size of his fist, of the same texture as the clouded rim of his lens.  Was it too made of glass?  Unable to actually look at it, Edmund had no way to tell.
+
+Liam stepped forward.  “You can’t just take that.”
+
+The stone came free from its pedestal without difficulty.  “It certainly seems like I can.”  Once his hand closed around it, Edmund blinked his eyes open.  Dark shadows coated the room where his hand shielded the only light source.  As he looked down upon it, his entire hand glowed bright red, enough so that he could trace the individual bones and blood vessels within.  It didn’t hurt.
+
+“Edmund, that’s plunder.  The rules are strict about—”
+
+“Don’t care.”  Edmund shrugged and shoved the strange stone into his satchel.  He wondered if his focusing lens could turn it into a weapon.
+
+Liam stepped in between Edmund and the exit.  “Edmund, you do realize I can just take that from you, right?  It’s not awarded loot, so you have no right to it.”
+
+“Then take it.”  Edmund kept walking, passing directly through the incorporeal avatar.  After all the gear Liam had taken from him one way or another, it felt right to take something of his own.  Edmund knew damn well that taking plunder didn’t violate the accords—he’d done exactly that when he’d broken off the spear trap on the first floor.  The rules technically said the stone still belonged to Liam, but Edmund figured he’d earned it.  Besides, the rules didn’t control him.  He was uncontrollable.
+
+Edmund didn’t know exactly how the stone worked, he didn’t read the smoke that drifted off it, and perhaps more importantly, he didn’t see the look of abject shock on Liam’s face when despite his best efforts, the stone stayed put.
+
+The first in a thousand years, Edmund Montgomery Ahab stole from the Eternal Depths, and with neither guilt on his conscience nor consequences for his actions, he left Liam standing agape behind him and stepped into the darkness.
+
+Hivemaster Edmund Montgomery Ahab, The Crimson Hand
+
+Aspects Unlocked: 28
+
+Tier 1 Aspect: Wrath - Red Resonance
+
+Level 7 - Provides access to the Brutalize active ability.
+
+Tier 1 Aspect: War - Gray+ Resonance
+
+Level 13 - Provides a lesser increase to all damage dealt.  Provides a lesser decrease to all damage taken.
+
+Tier 1 Aspect: Elements - Gray Resonance
+
+Level 12 - Provides access to the Firebolt spell.
+
+Tier 1 Aspect: Solitude - Red Resonance
+
+Level 14 - Provides a greater increase to constitution while fighting alone.  Provides a lesser increase to celerity while fighting alone.  Provides a lesser increase to perception while alone.
+
+Tier 1 Aspect: Perseverance - Gray Resonance
+
+Level 13 - Gain health regeneration.  Gain greater health regeneration outside of combat.
+
+Tier 1 Aspect: Madness - Prismatic Resonance
+
+Level 22 - They’re coming for you.
+
+Tier 2 Aspect: Vengeance (Madness and Wrath) - Silver+ Resonance
+
+Level 1 - Reveals all enemies that have damaged you in the past two minutes.  Provides a lesser increase to all damage dealt to such enemies.
+
+Tier 2 Aspect: Fervor (Madness and War) - Gold+ Resonance
+
+Level 1 - Empowers the effects of Madness and War for each consecutive second spent in battle.
+
+Tier 2 Aspect: Sorcery (Madness and Elements) - Gold Resonance
+
+Level 2 - Provides access to the Smoke Lash spell.
+
+Tier 2 Aspect: Obsession (Madness and Perseverance) - Gold Resonance
+
+Level 4 - Gain strength and agility for each consecutive day spent pursuing your obsession.  Gain mana for each consecutive month spent pursuing your obsession.
+
+Tier 2 Aspect: The Recluse (Madness and Solitude) - Gold Resonance
+
+Level 6 - Empower the effects of Madness while alone.  Lessen the effects of Madness while accompanied.
+
+Tier 2 Aspect: The Island (Solitude and Perseverance) - Gray Resonance
+
+Level 8 - Grants greater resistance to over-time effects while in groups of two or fewer.
+
+Tier 3 Aspect: Focus (Elements and Obsession) - Silver Resonance
+
+Level 2 - Doubles spell damage when attacking a single target.
+
+Tier 3 Aspect: The Challenger (War and The Recluse) - Silver+ Resonance
+
+Level 1 - Provides access to the Challenge active ability.
+
+Tier 3 Aspect: Artillery (War and Sorcery) - Silver+ Resonance
+
+Level 1 - Provides access to the Firestorm spell.
+
+Tier 3 Aspect: The Warmonger (War and Obsession) - Silver+ Resonance
+
+Level 1 - Provides a greater increase to all damage dealt and a greater decrease to all damage taken while engaged in combat you initiated.
+
+Tier 3 Aspect: The Philosopher (Elements and The Recluse) - Silver+ Resonance
+
+Level 4 - Escape.
+
+Tier 3 Aspect: The Rift (Madness and The Island) - Gold Resonance
+
+Level 7 - Provides access to the Savage Rend active ability.
+
+Tier 4 Aspect: The Tactician (War and The Philosopher) - Bronze+ Resonance
+
+Level 3 - Deal double damage when executing a pre-crafted battle plan.
+
+Tier 4 Aspect: The Target (War and Focus) - Bronze+ Resonance
+
+Level 1 - Allows the marking of a single enemy as the target.  The target takes increased damage from all sources.
+
+Tier 4 Aspect: The Fissure (Elements and The Rift) - Silver Resonance
+
+Level 4 - Provides access to the Magma Fissure spell.
+
+Tier 4 Aspect: Rebellion (War and The Rift) - Gold+ Resonance
+
+Level 2 - Grants resistance to mind controlling effects.  Deal bonus damage to enemies above your level.
+
+Tier 5 Aspect: The Guerrilla (Wrath and The Tactician) - Bronze Resonance
+
+Level 2 - Take reduced damage while executing a non-conventional pre-crafted battle plan.
+
+Tier 5 Aspect: The Breach (War and The Fissure) - Bronze+ Resonance
+
+Level 1 - Provides access to the Break Through active ability.
+
+Tier 5 Aspect: Discord (Wrath and The Fissure) - Bronze+ Resonance
+
+Level 1 - Brutalize has a chance to turn your foes against each other.
+
+Tier 5 Aspect: The Insurgent (Wrath and Rebellion) - Silver+ Resonance
+
+Level 1 - Provides access to the Collateral Damage active ability.
+
+Tier 6 Aspect: The Reckless (Wrath and The Breach) - Tin+ Resonance
+
+Level 1 - Provides access to the Reckless Charge active ability.
+
+Tier 6 Aspect: The Anarchist (Madness and The Guerrilla) - Platinum+ Resonance
+
+Level 1 - Be uncontrollable.
+
+Delver’s Mark of the Challenger
+
+Empowers nearby dungeon monsters.  Significantly increases the value of loot chests you open.  Slightly increases the resonance of Aspects you unlock.
+
+The Crimson Hand
+
+Grants minor resistance to piercing damage.  Bestows ownership of the Dread Gauntlet of Kor’Ilinesh.
+
+Hivemaster
+
+Grants lesser tremor sense.  Bestows the right to challenge other hivemasters for control of their hives.
+
+Trailblazer’s Sigil of the Azure Adept
+
+The fifth step on the Path of the Azure Fox.  Increases agility.  Grants two windsteps.  Grants ten feathersteps.  Increases positional awareness.
+
+Trailblazer bonus: Sharpens hearing.
+
+Trailblazer’s Sigil of the Rootmother
+
+Non-intelligent Strethian lifeforms will treat you as an ally.  Gain the ability to draw water and nutrients from fertile soil.
+
+Trailblazer bonus: draw water and nutrients from all soil.
+
+Sigil of the Slumbering Deep
+
+Gain greater health regeneration.  Gain immense health regeneration while sleeping.  Gain water breathing.  Gain lesser dark vision.  Gain lesser subaquatic sonar.
+
+Delver’s Mark of the Shrouded Gauntlet (Temporary)
+
+Rewards loot of the Shrouded category based on the number of floors cleared while the mark is worn.  Prize to be granted at dissolution of mark.
+
+Time Remaining: 5 days.

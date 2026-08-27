@@ -1,0 +1,237 @@
+---
+id: 72bef015-e944-5e01-bd78-215625fb4f60
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22"
+slug: 0022-chapter-22
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 22
+ownLength: 1488
+unit: words
+ownProgress: 1488
+publishedAt: 2023-02-10
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1110402/chapter-22"
+royalRoadId: "1110402"
+markedReadAt: "2026-06-29T20:32:33.635Z"
+---
+
+Over the next 3 days I farmed the Orc Dungeon for as much exp as I possibly could.
+
+I decided it wasn't worth my time to go to the Hunters Association to get my License renewed. I was just going to be fighting in the E Class Orc dungeon, there was no need for me to sit around wasting time in the Association's office when I could be in the dungeon leveling up.
+
+On Wednesday I fought the boss 5 times in total, plus over 30 normal Orcs. I was in the dungeon for about 10 hours, I leveled up 7 times.
+
+On Thursday I managed to put up similar numbers. I had 5 boss battles and roughly 30 normal Orcs. This took about 10 hours, I leveled up 4 times.
+
+On Friday I stayed late in the dungeon, about 12 hours. I fought the boss 6 times and battled close to 40 normal Orcs. I could beat the boss in two strikes now, it was getting very easy. I only leveled up 2 times.
+
+[Status Open]
+
+____________________Name: Jay Soju
+
+Level: 113
+
+Hp: 570/570
+
+Mp: 570/570
+
+Strength: 274 [+50]
+
+Speed: 323
+
+Agility: 338
+
+Defense: 247
+
+Mental Strength: 275 [+55]
+
+Skills:
+
+AbsorptionSwordsmanshipCombat Magic [Fire Summoning]
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]Golden Wolf Ring [+20% Mental Strength]
+
+_____________________
+
+It's Friday night. I got back from my raid at the Orc dungeon and handed in the loot drop to Jack at the Pace Guild.
+
+My silver usage has been very high this week, I've been burning through about 4 a day for MP potions to keep training. I only have 20 or so silver left. I'm looking forward to tomorrow's auction so I can make some money.
+
+I made my way back in the direction of my apartment. I stopped at a small restaurant near the village market and got a bite to eat. I was starving... Once I finally made it home I took a long hot shower and almost instantly fell asleep afterwards.
+
+I had a great night of rest. I woke up completely rejuvenated.
+
+I leaned over in bed and grabbed the note the old merchant game me with the auction address on it.
+
+I threw 5 silver and 3 bronze in my pouch around my waist. Next, I put my sword on my back and mounted the axe on my shoulder.
+
+I opened my door and got ready to leave.
+
+"Ooooohhhh that's a big axe Jayyy!"
+
+Maria was outside waiting for me today.
+
+"Haha yeah, I'm going off to sell it."
+
+"Mmmhm cool."
+
+I looked at her curiously, Maria looked a lot stronger. I could tell she's been training and leveling up at a decent rate.
+
+"So Maria. How's it going at Pace? I haven't gotten to chat with you much lately, you look like you've been training hard!"
+
+She blushed and smiled.
+
+"Yeahh, I just signed an exclusive 3 month student contract with Pace. My school is letting me take time off to train full time with them. Isn't that great??"
+
+I raised an eyebrow.
+
+"Oh yeah? I made an arrangement with Pace this week as well. What level are you now? Maybe we can train together soon."
+
+"Oh I'm level 38! I've been training with the D and C class mages. They say they've never seen this kind of progress before. Apparently my magic is pretty strong."
+
+She tapped her index fingers together and nervously poked at the floor.
+
+"H-Here look at my status Jay!"
+
+[Status Open]
+
+_____________________Name: Maria Cortez
+
+Level: 38
+
+Hp: 195/195
+
+Mp: 195/195
+
+Strength: 91
+
+Speed: 98
+
+Agility: 93
+
+Defense: 93
+
+Mental Strength: 176
+
+Skills:
+
+Combat Magic [Ice Summoning]
+
+Items Equipped:
+
+None
+
+_____________________
+
+My eyes went wide.
+
+"What theeee.... Your mental strength is almost double your other stats! Your magic power is definitely very strong. No wonder you're already signed with Pace. Good for you Maria!"
+
+She blushed.
+
+"Yeahh, it goes up 4 or 5 every time I level up. I can beat monsters almost twice my level if I land a hit. My other stats are lacking for now though, so I can't even outrun or overpower monsters equal to my level.. it's a process."
+
+She pouted.
+
+"Hmm makes sense. Well, level 38 in just a few weeks is nothing to laugh at. Congrats, good luck with your training. Maybe we'll train together next week, I'd like to see you in action."
+
+Maria nodded.
+
+"Mmmhmmm, w-well good luck selling your axe. See you around soon Jay!"
+
+"See ya!"
+
+We both smiled and waved each other off.
+
+I made my way towards Avery District after grabbing breakfast at the corner store.
+
+I walked for about 20 minutes. The streets became more desolate. There were hardly any people and the surrounding buildings became less and less well maintained.
+
+I got to the address written on the note. It was an old bar. There were two big men standing out front.
+
+"You here for the auction kid?"
+
+"Y-Yeah I am."
+
+I pointed at the axe on my back.
+
+The man pointed inside and motioned me to enter the bar.
+
+I walked in and it just seemed like an old empty bar... this is the auction house..?
+
+"Straight ahead and take a left after the bar. Knock 3 times on the first door to your right."
+
+"Okay. Thanks."
+
+I headed towards the door like the man said.
+
+*Knock *Knock *Knock
+
+The door opened slowly and revealed an enormous room with high ceilings.
+
+There were two large men on the inside of the door, they were most likely bodyguards.
+
+Directly in front of me were 3 men sitting on a long table with notebooks and silver coins in a small jar.
+
+"Let me see your Hunter's License, I'll sign ya in. You're looking to sell that axe?"
+
+The man on the left side of the table spoke to me. He looked like he was 25-30 years old. A strong build, light skin, and dark hair. He had a few tattoos on his neck and arms.
+
+"Yeah just this."
+
+I handed him my license and he grinned.
+
+"Ahh you're a newbie are ya? How'd an E Class get an axe like that?"
+
+"Does it matter?"
+
+He chuckled a bit.
+
+"Nah it doesn't matter, we'll take anything here. I was just curious."
+
+He handed me my ID back and wrote my name on his notepad. He showed the man sitting next to him something in the notepad. He looked up at me with an eyebrow raised then went back to writing something in his own notebook.
+
+"Alrightttt. 1 silver to enter the auction, and another silver once it's sold. We'll just take it out of the sale price."
+
+I rummaged around in my pouch and placed a silver coin on the table.
+
+"Yeah works for me. What's next?"
+
+He took the silver and nodded.
+
+"Well let me see the axe, I'll inspect it and set a starting price before I put it in on the auction lineup. It should get started in half an hour or so. We have a few good items today, but nothing too big. Yours should make it in the top 3 and stand out. I'd expect some good bids."
+
+He pointed to the small podium in the back. Apparently that's where the auction will take place. There were a lot of people standing around chatting and waiting for the event to start, maybe 50-60 if I had to guess. Some looked like collectors, others hunters, and a some people just looked like normal thugs looking for some entertainment...
+
+I guess this is the Avery District Black Market Auction House. I'm excited to see what happens today.
+
+The man took the axe and began looking at it like the old merchant man usually does.
+
+"Are you using inspect?"
+
+He looked up.
+
+"Yeah of course, half the people here have some variation of inspect skills. It's part of the trade so we don't get ripped off! hahaha!"
+
+I nodded.
+
+"Makes sense."
+
+He went back to examining the axe.
+
+"Good item kid. 150 strength stat with full durability. I think a starting bid of 25 silver should do the trick, you'll get 2 or 3 times that if you're lucky. There's a lot of buyers here today, they may fight over certain items and inflate the price."
+
+I smiled.
+
+"Sounds good."
+
+The man wrote something down in his notepad and looked up. He handed me a small white paddle with the number "87" in black print on the front.
+
+"Alright you're all set kid. I've got your name, item, and payment. Go wait with the others, the event will start soon. If you want to bid on anything raise that paddle, it'll be your bidders ID."
+
+"O-Okay. Thanks again."
+
+We both nodded at each other. I made my way towards the podium and the man brought my axe back behind the red curtains next to the small stage area.
+
+The auction will begin shortly.

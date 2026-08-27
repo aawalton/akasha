@@ -1,0 +1,217 @@
+---
+id: 00dbc00b-e306-5d14-9be5-c62d9d8b1571
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22: Journey To Onder"
+slug: 0022-chapter-22-journey-to-onder
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 22
+ownLength: 2400
+unit: words
+publishedAt: 2026-06-09
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3515854/chapter-22-journey-to-onder"
+royalRoadId: "3515854"
+---
+
+The Three Builders:
+
+Tamon, The Architect, who created buildings capable of bending space and time.
+
+Loseta, The Smith, who crafted weapons capable of felling the greatest of Archdemons
+
+Imanata, The Artist, whose imagination led magic into the most beautiful of creations.
+
+Each Angel blessed the craftsmen of our cities so that they might create the wonders we use every day.
+
+- “The Acolyte’s Guide To The Divine” An introductory text gifted to all acolytes of the temple.
+
+I rub Jasper’s snoot, and feed him a long branch that he happily chews down on. Most of the crew is asleep, leaving only Keve, who stares into the embers of the dying fire.
+
+I scratch Jasper’s chin one last time, then stand up and walk over to the pensive Vishten.
+
+He’s hard to read, but after having spent the last couple of weeks with him, I think I’m starting to understand his expressions.
+
+“What’s on your mind?”
+
+Keve looks up at me with his large eyes, the pupils reflective in the darkness, then back to the fire.
+
+“Home.” He grabs a nearby stick and pushes some moss into the embers, creating a brief flame. “From long ago.”
+
+I sit down on the log next to him, pulling my cloak tight to ward off the chill of approaching winter. “What was it like?”
+
+He stays quiet for a long moment, then turns to Shar who is sitting on a nearby branch in her bird from. His home language flows out of him, filling the small glade with lilting and harmonious sounds. Shar turns to him, then responds in the same language, occasionally speaking a word that I do understand.
+
+Keve finally turns to me, and repeats the words Shar’d told him “Harmonious. Vibrant. Every stream was part of the Seer’s vision.”
+
+“That sounds like a nice place.”
+
+“It was.” Keve turned one of the logs over, causing the fire to crackle and spark. “Our new home is beautiful too. It changes with our people.”
+
+I think back to how the place had changed in the short time between my two trips. Now that he mentioned it, his people looked less lost. Smiles were more common, and their people had been warmer. “Next time we visit, it’ll be better than ever.”
+
+“Your words are kind, Leo.”
+
+I smile at him, then stand up, and walk over towards my tent. “Get some good sleep. It’ll be a long day of travel tomorrow.”
+
+Keve’s mouth moves into a small smile, “Sleep well. Our swords will be sharp for the morning.”
+
+***
+
+Shar keeps watch overhead as we walk through the undergrowth. Multiple times we’re forced to stop and adjust our route, the monsters of the wild unsettled from yesterday’s earthshakes.
+
+I lead them through the old road, the Rock-Lizards packed to the brim with items.
+
+I carry the angel-forged sword on my belt, opposite the sword that my mentor had given me when I was learning to fight.
+
+We take it slow through the undergrowth, and I constantly look back at the older mage. Lorn’s body is weak from so much time healing, but his face stays strong as we make our way forward.
+
+Broken stones stick out of the ground, marking the old road that led to the ruin of the Archmage’s old home.
+
+I spot some wild chives on the side of the road, and lean down to grab one. The flavor is sharp in a way that I like, and I chew on it as Shar is forced to lead our group off the road again. Through the trees, I spot the movement of a monster covered in vines, nearly as tall as the tree it rests against.
+
+“Incoming!”
+
+I look up, following Shar’s voice to see a bird the size of a carriage diving at Tanya. She ducks under one of the Rock Lizards, and the birds claws dig into its new target as it attempts to take it to the sky.
+
+Jasper, the unfortunate lizard, chews on a large branch as he refuses to move, the bird’s wings flapping frantically.
+
+A blade of fire cuts through the neck of the bird, and its wings flap twice more before it crashes to the earth.
+
+Tanya peaks out from under Jasper, then immediately gets up to look at the marks where the bird’s talons had attempted to pierce the Rock-Lizard’s skin.
+
+Our whole group moves quickly, as Daron looks to the forest for predators attracted to the smell of blood, and the others quickly pick up and move the bird off the path. It’s talons are harvested, and a few feathers are grabbed, but we’re forced to leave the rest at a sharp call from Shar.
+
+I set a hard pace away from the corpse until nightfall, when Shar leads us to a small clearing next to a stream. The first flakes of snow start to fall, landing softly on the trees above us.
+
+I look up at the dark clouds covering the sky, and hope that a full blizzard doesn’t hit.
+
+Our fire is a small one, with the ground cleared around it for us to sit, and the Rock-lizards set in a circle around us as a break against the wind. Tanya hands out simple jerky for us to eat as Libby heats some water over the fire, then pours it into a teapot she’d brought herself.
+
+“I’ve never been so scared.” Tanya gives a small hysterical laugh as she collapses to the ground next to Jasper, “But Jasper didn’t even blink.” She reaches over and pats the lizard’s snout.
+
+“He’s been through worse.” I smile at the big brute. “Not much fazes him.”
+
+A large smile spreads across Tanya’s face as she continues to scratch the Rock-Lizard’s chin.
+
+“I’ve been thinking,” Daron starts, drawing our attention to him, “I’m going to spend my money on a nice long bath when we get back.”
+
+The group chuckles, and Libby pours Lorn the first cup of tea, handing it to him with a soft smile.
+
+I catch something in the old mage’s expression and pause as I look between the two of them. Grildor catches my eye from across the fire and gives me a knowing smile.
+
+Huh, wasn’t expecting those two…
+
+Libby hands me a cup next, following an unspoken etiquette. Even though I’m the leader of the party, as a mage and an elder, Lorn gets first tea, and I get second.
+
+Then it goes from oldest to youngest, Tanya getting her cup last, before Libby serves herself.
+
+I sip at the tea as Daron continues to talk about the soft bed he’s going to sleep in when we get back.
+
+Eyla laughs at something he says, then catches my eye.
+
+I look down at my tea.
+
+It’s good tea, made with Libby’s personal herbs.
+
+I look back up, and Eyla is still looking at me. I give her a small smile, and she smiles back before looking over at Daron who’s practically tipping over as he describes his favorite meal from one of the shops in the frontier town.
+
+My brain argues with my heart as I continue to look at the beautiful woman across from me.
+
+I’m an explorer, who’s not guaranteed to come back from my delves. I also have secrets.
+
+So many secrets.
+
+But she is beautiful, and I like talking to her, and it doesn’t have to be anything serious.
+
+I take another sip of my tea, hiding my thoughts behind the cup. Some days, I wish that I wasn’t in my brain so much.
+
+Someone sitting next to me makes me look up, only to see silver-blue hair cascading down.
+
+Eyla rests her head on her knee and looks up at me. Small snowflakes fall around her, landing on my hand that rests between us. “You look lost in thought.”
+
+I give a small laugh, then continue in a quiet tone as the rest of the group listens to Daron, “I was thinking about you, honestly.”
+
+“Oh?” She smiles wide, her eyes lighting up in that way that wants me to lose myself. “What about me?”
+
+Okay, this is bad. My brain is stalling. Not now, brain, not now. “I was wondering what it must be like to be a mage.”
+
+Her lips purse in that way, like she’s trying to hide a smile, “Do you want to know about the Arcanist’s Guild, or the De’Vereth?”
+
+“I don’t really know much about either.” That’s not quite the truth, but it’s easier than going down the rabbit hole of my past.
+
+She tilts her head as she thinks, “The less you know about The Arcanists, the better. They’re a controlling bunch, and very full of themselves. If you aren’t from an old family, or a mage yourself, you’re not worth their time.” She pauses, her gaze going soft as she looks at Master Mage Lorn, “The De’Vereth Order. Without them, I’d be lost. If there is a force for good in the world, they are it.” Her gaze moves back to me, “You know, the Order could use an explorer of your skill. I’m sure Master Lorn will attempt to buy several of these items from your merchant already, but we could arrange a more exclusive deal with your support, with your merchant included of course.”
+
+I look up at the sky as more flakes of snow fall, soft on my face. “I’d have to talk to Gerald first.” I look at her from the corner of my eye as I hide a smile, “But I do like you two. I’ll see what I can do.”
+
+“That’s more than I hoped for.” She pauses, searching for words, “I swear, I wasn’t meaning to talk business. I just wanted to come over…” she laughs and turns from me as she pushes her legs out and leans back on her hands.
+
+“No, I get it. I like talking to you.” I look over to where her hand rests between us.
+
+Sehara, I wish I was better at this. Growing up in a temple makes me feel like I’m behind everyone else when it comes to romance.
+
+My hand moves ever so slightly, just so that our pinkies are touching.
+
+I tense as I wait, then relax as her pinky wraps around mine.
+
+Laughter from the group draws my attention over to Keve, who is hurriedly putting out a teacup he’d lit on fire.
+
+***
+
+The next few days are calmer, the forest having settled from the rumbles. Soon enough we come upon a familiar statuette depicting Angel Lumin.
+
+From there, it’s a small walk before the city becomes visible. The church and the inn are clearly visible, but the walls have been broken. Mages stand outside, working hard to rebuild the damage that had be done.
+
+I frown as we make our way down.
+
+It’s not uncommon for the walls to be attacked, but something about the bustling city is off to me, like an anthill that’s been disturbed. We make our way to the gates, falling in behind a merchant’s caravan. The mercenaries spread out, keeping an eye on the Rock Lizards and watching for thieves.
+
+Shar lands on Jasper in her crow form, sitting there quietly as we move up the queue.
+
+Eight guards sit at the gate, as opposed to the usual two. They watch everyone coming through with hard eyes, but my gaze is drawn behind them, to a man and a woman wearing long black cloaks.
+
+Black masks cover their faces. One has a small pin of a skull on their lapel, while the other has the pin of a woman, her arms crossed over her chest, and her eyes closed.
+
+Reapers, a follower of Sol, the Angel of Death, and a follower of Alvarana, the Angel of Burial. Two more reapers, these ones without pins, walk up to the two cloaked. Apprentices, who haven’t chosen an Angel yet, or Acolytes like me.
+
+One of the guards walks up to me. His gaze goes over our party, lingering on Tanya and Keve, the nonhumans, before returning to me.
+
+He holds out an appraisal stone, his other hand on his sword, “State your business in Onder.”
+
+I touch the stone and a familiar screen appears in front of me.
+
+I mentally select the 1st class, Explorer, then answer the guard’s question, “My name is Leo Grason, my party and I have just completed a Delve. We’re associates of Respected Merchant Gerald, and I’m an acolyte of Angel Sehara.”
+
+The guard nods as he reads something I can’t see, then moves on to the others with the orb.
+
+He looks at Tanya for a long moment, and I tense as I realize that her class would come up as Unique.
+
+Thankfully, he moves on, then stops completely at Master Lorn as his class is appraised.
+
+“Reaper Yana.” He calls.
+
+The female reaper steps forward, stopping a few feet away from Master Lorn.
+
+“What is your name?” The Reaper’s voice is softer than I expected, but it carries a weight to it that we all sense.
+
+Master Lorn bows low. “I am Master Mage Lorn of the De’Vereth. My apprentice is Mage Eyla of the De’Vereth. I follow frost, while she follows Ice.”
+
+The reaper bows her head as some of her tension leaves her. “I know your name Master Lorn. They and their party are free to enter.”
+
+The guard nods, then waves us through.
+
+I let out a breath, my brain all too aware of the divine artifacts I’m carrying with me. Including a Reaper’s ring, and the sword of a Builder.
+
+We walk past the eight guards and the reapers into the town. I lead the party straight towards Gerald’s storehouse, keenly aware of the tenseness in the air. Even the pickpockets are less active than usual.
+
+We get to the storehouse, where several guards recognize me and let me through.
+
+A runner is sent to fetch the merchant, while we make ourselves comfortable in a small waiting room.
+
+I finger the sword at my waist. There’s only one reason the reapers would be so up in arms.
+
+A necromancer.
+
+A powerful one, to have them so scared.
+
+I look over to Master Lorn who speaks in soft tones to Eyla.
+
+And considering the necromancer we faced on our way out of town, the mage knows something that he hasn’t told us.

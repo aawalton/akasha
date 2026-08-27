@@ -1,0 +1,167 @@
+---
+id: e9c9673d-cff9-5af6-b419-953827f9f788
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16: Promises Kept"
+slug: 0016-chapter-16-promises-kept
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 16
+ownLength: 2228
+unit: words
+publishedAt: 2026-06-03
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3488961/chapter-16-promises-kept"
+royalRoadId: "3488961"
+---
+
+Archmage Eridor, follower of the Fourth Oathsworn.
+
+During the incursion of Fillar’s capital city, Eridor held off the assault of an unknown Devil by himself. The city itself collapsed into itself from the ensuing battle, but not a single life was lost.
+
+We go through seven more rooms in the hallway, and I find another wand, a plethora of robes, several mildly enchanted household items, and even more ancient coinage. If I could, I’d also take the enchanted chests with me, but the logistics of moving them out and transporting them might be too much for this trip. I’ll try to grab at least one and see if I can fit it on Jasper. Completely protected storage is incredibly invaluable for an explorer.
+
+The coins that we find make me very happy. Good metal is a rarity since mining is a dangerous endeavor for even the wealthiest of families.
+
+Keve and I return to the group, to find them happily eating some food. Everyone ignores the reaver corpse, as they chow down on some soup that Tanya is making.
+
+I distribute the items I’d found into everyone’s bags, and join them in lunch. Once we’ve eaten, we make our way back down to the next level.
+
+I lead the way through the webs of the now-dead reavers then pause just outside the territory of the Vishten.
+
+I turn to my party, “I’m about to go meet Keve’s brethren. Your contracts require you to keep quiet about what you see here. I’d also like to personally ask you to keep silent on anything you learn about the Vishten.”
+
+Everyone voices agreement, but my gaze lingers on the mercenaries for a moment. Unfortunately, mercenaries don’t have the best reputations for secrecy. I do trust the three after having gotten to know them, but I feel bad for risking the Vishten’s secrets.
+
+Keve and I continue forward on our own, our bags stuffed with a portion of the items I’d promised his people.
+
+I feel the magical alarm pass over us as we enter their territory, and we wait for only a few seconds before a party of four warriors appear, their cloth pulled up in preparation for battle.
+
+Keve steps forward, and speaks rapidly in their language.
+
+They lower the cloth around their faces, revealing sharp toothed smiles. Keve is quickly surrounded as they ask him questions in their language, he answers them, then glances at me.
+
+They finally take notice of me and motion for us to follow them. They lead us back to their home, and I see their camp once again. They watch me warily, but the sight of Keve seems to bring them a lot of joy. He’s well liked, and they quickly whisk him off, leaving me alone in the same tent I’d been led to when they first brought me here.
+
+I make my way to one of the cushions, and sit down. I bring out my notebook to study some of the runes I’d discovered in the rooms we’d searched. There’s a lot of good information here, and several runes I’m trying to find the exact meaning for. They always seem to change slightly depending on what other runes they’re paired with. That, combined with the fact that my skill refuses to tell me the individual meaning of the runes makes it near impossible to decipher them. Thankfully, it’s a puzzle I enjoy working through. There’s a reason I took the profession after all.
+
+Movement brings my gaze up, and I move to my feet as a familiar old Seer steps into the room. She shows her sharp teeth to me, the fiery lines on her skin brightening. “Leo Grayson. You are alive.”
+
+“Hello Varia.” I place my notebook in my bag, “I owe a lot of it to Keve.”
+
+“He is a strong warrior.” She smiles as she moves over to the table at the back of the tent and sits on a cushion with a sigh.
+
+A young Vishten child enters the tent with a tea set. He places it on the table and pours two cups, then leaves.
+
+“I’ll be sad to see him go.” I say as I move across from her, and grab one of the cups.
+
+“Go?” She drinks her tea with half-closed eyes. “His journey is not over.”
+
+I take a sip of tea. It’s mildly bitter, but has a sweet aftertaste I like. “I thought you’d want him back.”
+
+“His journey is not over.” She repeats herself, and gives me a small smile. “Placing your paths…” She pauses and places two fingers next to each other in a motion.
+
+“Together?” I guess.
+
+She smiles and nods, “Yes, placing your paths together. It makes the weave better, stronger.”
+
+I set my cup down and tilt my head as I recognize what she’s saying. “You can still see divine paths. That shouldn’t be possible. Divine skills aren’t working.”
+
+Varia watches me with an unreadable gaze, “Only small sights. Whispers, dreams. I will say, my sight of you two… it is stronger than it should be.”
+
+I bite my lip as I look down at the cup in my hand. This, plus the dreams… something in the dead city is important.
+
+“That is of no matter. Let me see what you brought us.”
+
+I look up, then nod and drag my overly full backpack over. I pull out some of the household items I’d grabbed from the rooms, explaining their uses as I set them out.
+
+At some point, Seer Varia calls in another Vishten, translating for me as I explain the item’s uses.
+
+After the household items, I pull out a set of mage robes, some leather armor, and a set of enchanted knives. I slow down after that, answering questions about the items as they ask.
+
+Keve has the rest of the items with him in his bag wherever he was dragged off to. Thankfully, I’d catalogued them earlier, so I’m able to give them descriptions and explanations off of the pages from my notebook.
+
+After the business is taken care of, I pause, considering my next words carefully. “I have another deal to offer you, one that might… that will need to stay quiet.”
+
+Seer Varia pauses, then looks at the other Vishten in the room. He looks back at her with confusion before she translates for him. He looks at me quizzically, then bows his head to the Seer.
+
+“Kauror will keep his silence.” She says.
+
+I take a deep breath, “I plan to clear this place of its monsters, but there is something here that I’d like to see protected. If you people will agree to stay here as its caretakers, I can- Actually, Shar, can you show yourself?”
+
+Shar walks out of the shadows in her cat form, and walks over to curl up in my lap. Varia looks unsurprised, but the other Vishten reaches for his sword before he sees the nonchalance of his Seer.
+
+“This is Shar, she’s a golem. I know of two human strongholds that are protected by golems like her. If you’ll stay here as the caretakers of this place, I think I can fix the golems here to protect you.”
+
+Varia translates for me, then continues rapidly in her language as the two Vishten argue.
+
+The minutes stretch on as they discuss. I glance at Shar, noticing how she seems to be following the conversation. She’ll have to fill me in later.
+
+Eventually, the two enter some kind of agreement and the old Seer turns to me. “We would have to see the power of these golems.”
+
+I let out a breath, “That makes sense, I’ll show them to you before I leave. On a side note, my team will need to travel through your territory tomorrow. There’s an undead in the dungeons that I want to take care of.”
+
+“Our warriors will escort you through.”
+
+The talks slow down after that, and it isn’t long before we’re saying our goodbyes. I’m led back out to the edge of their camp where Keve waits for me with an empty backpack.
+
+We’re led back to the delve team, who are busy playing a card game.
+
+With night approaching, and our bags full, we head back up through the webs to camp. Grildor and Daron agree to carry one of the enchanted chests up after some convincing.
+
+The air is tense as we leave the ruins. The sun is already setting, and twilight hunters will have left their burrows. Something screeches through the forest and trees snap as a battle between behemoths reaches us from the distance.
+
+We walk in silence, everyone on edge, with skills ready. Shar flies down from the sky several times to walk us around predators on the short walk to our base.
+
+I activate the angel statue, letting everyone through and following them into the shielded illusion.
+
+The protection snaps back into place, and there’s a collective sigh of relief.
+
+Lorn sits next to a small fire, writing in a small book. Eyla walks back to him, talking in whispers with her injured master. Tanya immediately gets started on food, while the mercenaries empty their bags into a pile for me to categorize and organize.
+
+Keve watches the darkness as the sun fully sets. I walk over to him, and follow his gaze.
+
+Something prowls through the darkness, searching for our disappeared scent. After a few seconds of watching, more shapes become visible in the shadows.
+
+Whatever it is, it’s hunting in a pack.
+
+In the distance, the battle of behemoths quiets, leaving the winner uncertain.
+
+The pack continues to sniff around the border of our protection, watched by the keen eyes of Keve. “They are patient.”
+
+“Can you see what they are?” I ask, whispering despite myself.
+
+“I do not know their name in your tongue,” He answers, “But they are dangerous.”  “Let’s hope they catch another scent then.” I rub my arm, the cold starting to reach me from standing so far from the fire.
+
+Flakes of snow fall from the sky, slowly floating through the protective barrier.
+
+We’re closer to winter than I’d realized. At least both our mages will have an advantage in this cold weather.
+
+I turn around and make my way to the items everyone had set aside for me. I pull out my notebook, categorizing them as snow slowly accumulates on the Rock Lizards. It doesn’t take too long to finish my inventory, as this was a lighter haul of items.
+
+Jasper looks up at me as I fasten the storage chest to his back. It isn’t perfect but I’ll commission some better straps when we get back to Onder. Now that I think about it, the chest will be perfect for carrying books, since it’ll protect them from the weather and dampness.
+
+Food is ready soon after I finish with the chest, and our small team gathers around to eat and talk in the slowly falling snow.
+
+The food is good, and the earth aligned scorpion meat fills any lacking mana in my veins.
+
+I haven’t eaten aligned meat before, but I might have more in the future.
+
+Eventually, the talk turns to stories, and Daron has us laughing in minutes as he talks about a nobleman that’d fallen head over heels for Libby.
+
+For the first time, I see the stoic woman rather embarrassed.
+
+Lorn goes next, talking about an attack on the stronghold. I’d heard about the attack, even if I was too young to remember it.
+
+A corrupted behemoth had led an army of undead into the city twenty years ago. It sought the magic of the stronghold, and the battles against the creature had been long and brutal. It was only thirty years after the return of spellcasting, and many of the mages had been slow to level, comfortable in their power. Lorn himself had been on the frontlines of that battle, fighting the undead while the corrupted magic of the beast attempted to overwhelm the stronghold’s defences.
+
+His story of fighting the monstrosities had all of us leaning into the fire.
+
+After him, it’s my turn. I talk about one of the earlier delves with my mentor, reminiscing on the past. “I don’t know how they knew, but as we were leaving the ruin, they ambushed us. We were surrounded by men in masks. I was so terrified, I can’t even tell you. I was just a kid at the time, so I hid behind the cloak of my tall teacher. He was unfazed, as if this kind of thing happened all the time.” I pause, thinking back to that day, “Have any of you seen a Dralk fight?”
+
+The others shake their heads.
+
+I chuckle, “Their claws aren’t just for show. Imagine a tall, long limbed man dancing through bandits without the use of a single skill. His claws cut through everything, magic, skills, blades, like they were nothing. They surrendered fast, and we got a nice bounty on top of our loot from the delve.”
+
+“He sounds like a strong warrior.” Keve says.
+
+I nod, “I’m glad he was on my side. The Dralk train all of their children as warriors, no matter what archetype they choose to follow.”
+
+Our talk continues until the embers burn low in the fire, then we go our separate ways for sleep.

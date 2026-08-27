@@ -1,0 +1,281 @@
+---
+id: 4ff38d43-3f34-58f8-9c1d-6ca2bc9221c4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42"
+slug: 0042-chapter-42
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 42
+ownLength: 1727
+unit: words
+ownProgress: 1727
+publishedAt: 2023-02-28
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1125454/chapter-42"
+royalRoadId: "1125454"
+markedReadAt: "2026-06-29T20:33:15.364Z"
+---
+
+The mutant troll stood in front of us with its long arms reaching close to the ground.
+
+The monster's right hand held a large axe and its left was glistening with sharp claws.
+
+It stood almost 5m tall and was a much darker shade of green than our previous opponents.
+
+I used my inspect skill.
+
+[Lv. 172]
+
+It doesn't seem too bad. The level 150s were a piece of cake. This one might be a bit stronger, but Talia and I can handle it.
+
+The monster roared as we ran towards it. The massive troll swung its axe erratically and hit nearby trees while charging towards us.
+
+I broke off to the right side and Talia moved to the left.
+
+We were both much faster than this beast. It'll definitely be an easy fight.
+
+Moments later we weaved in and out of the trees avoiding the monster's random attacks and each of us sliced clean through its legs.
+
+"THUDDDDD."
+
+The troll fell flat on its face. I grinned and made eye contact with Talia as we turned to finish it off.
+
+The instant I turned back my eyes went wide.
+
+The two legs we cut were moving around on their own... and they were mutating rapidly.
+
+Seconds later the two legs had formed into normal sized trolls.
+
+This can't be normal.
+
+"We need fire!"
+
+I yelled and scanned the battlefield for Cori.
+
+I could burn them to a crisp, but I wouldn't have much MP left for the boss.
+
+I finally found him 30m away standing back behind a tree.
+
+"Cori! Come help Talia with these two. Let me handle the big guy!"
+
+He nodded and started to sprint around the outside of the battleground.
+
+I looked at Talia, she understood.
+
+"I'll handle them. You take out the mutant."
+
+I gritted my teeth and tightened the grip on my sword as I charged in towards the massive troll.
+
+Its legs were growing back at a rapid rate. It had much faster regeneration than the prior trolls.
+
+I erupted into flames and focused everything I had into my sword. I jumped directly at the beast's face.
+
+"CLANNNNGGGG"
+
+The troll made an erratic movement with its right arm and somehow blocked my swing with its axe. I landed back on the ground about 5m in front of the troll.
+
+"Ahh so you're a crafty mother f-"
+
+"CRUUUUAAARRR!"
+
+I grinned and looked up at the beast. Looks like I'll have to try plan B.
+
+I charged towards its right side in a full sprint. It countered by swinging its axe around in circles like a maniac.
+
+I dodged across its body to its left and didn't even try to attack. It awkwardly swung its claws at me but missed. This monster clearly relied on its axe for attacks and defense.
+
+I made my way to its backside and planted my left leg to jump up without hesitating for a second.
+
+I concentrated every last bit of MP into a swing of fire.
+
+"SHINGGGG"
+
+"THUDDD"
+
+A clean hit. I managed to cut its head off.
+
+I landed and fell to one knee. I hate the feeling of being fresh out of MP, It makes me feel lazy and in a bit of a daze.
+
+I'll be fine, it's just not the optimal mood to be in mid battle.
+
+I scanned the battlefield for my teammates.
+
+I could see Cori and Talia running towards me with two flaming corpses behind them. I yelled towards Cori.
+
+"Finish it."
+
+He nodded and started glowing white.
+
+Cori used the fire stone to burn the rest of this beast to ash.
+
+It's not the most effective combat item or skill in my opinion. It leaves him wide open for attacks, but when Cori catches an enemy off guard that thing is pretty dangerous. It still leaves me in awe to be honest.
+
+"It's done."
+
+I heard the system ringing in my head again. He's right, It is done. I smiled.
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+____________________
+
+Name: Jay Soju
+
+Level: 155
+
+Hp: 780/780
+
+Mp: 0/780
+
+Strength: 373 [+125]
+
+Speed: 443
+
+Agility: 463
+
+Defense: 334 [+134]
+
+Mental Strength: 373 [+75]
+
+Skills:
+
+Absorption
+
+Swordsmanship
+
+Combat Magic [Fire Summoning]
+
+Inspect [Special Grade]
+
+Enemy Detection
+
+Body Hardening[Special Grade]
+
+Self Regeneration
+
+Items Equipped:
+
+Golden Wolf Ring [+20% Mental Strength]
+
+Cyclops Eye Pendant [+40% Defense]
+
+Stainless Steel Sword [+125 Strength]
+
+_____________________
+
+"CLANGGGGG"
+
+I heard the sound of metal hitting rock and turned my head quickly.
+
+The large axe form the mutant fell to the swamp bed, it hit a small patch of rocks on the way down.
+
+Talia looked over at the two leg corpses that dissolved but didn't find any mana in them.
+
+The mutant dropped a huge crystal.
+
+We all took turns holding it for a second, then I spoke up.
+
+"Let's get out of here right now, my MP is drained. I couldn't fight another one of those if I wanted to."
+
+Talia's eyes perked up the moment I said that. She turned to Cori and gave him a light nod, he returned it. Talia spoke up.
+
+"You're out of MP huh?"
+
+They both turned to me with grins on their faces.
+
+Talia took out her sword and Cori started glowing. Reflexively I lifted my own sword but it felt awkward in my hands. I have 0 MP left, my sword is basically useless right now.
+
+I gulped.
+
+"H-Hey. Why are you two looking at me like that? What's wrong?"
+
+Talia's eyes were wide open and her grin looked creepy.
+
+"Oh nothing's wrong. I have to thank you for your work today. Newbies in the city usually aren't as skilled as you, we made a whole lot today. Split between the two of us I reckon we have over 15 silver each, and that's not even including the axe or your sword!"
+
+I gripped my sword and sweat started forming on my forehead.
+
+"The two of us? T-There's 3 people here...and my sword?"
+
+Talia's deadly stare didn't waver for a second.
+
+"You really are a piece of work aren't ya Jay. It's a shame."
+
+"....."
+
+"We kill fresh meat that walks into the city and take the loot for ourselves. Don't you get it? You're going to die here!"
+
+Talia started to lunged towards me with her sword pointed at my neck.
+
+She's really trying to kill me, and at this rate she might actually succeed. I have to think of something fast...
+
+I immediately ran to my left to dodge her sword and get on some more stable ground.
+
+If we fight one on one right now it will only end badly for me. I have to run. That's my only option.
+
+I turned around and started sprinting towards the direction of the exit portal. A bright glowing white light started to flood my field of vision, then it turned dark red.
+
+Cori stood in front of me now with a portal wide open full of flames blocking my only path. Everywhere else was deep swamp water, if I took the time to swim through it Talia would catch up for sure.
+
+I lifted my sword and stared him down. It just felt like a hunk of metal in my hands. Without my passive swordsmanship skill I'm really naked on the battlefield.
+
+"You can't run forever!!!"
+
+I turned to see Talia close behind full of killing intent.
+
+Why me? What did I do wrong to deserve this?
+
+I guess.. It really is entirely my own fault.
+
+If I make it out of this alive I'll never trust a new face ever again. This is what the world is really like. I've been so naive, they've been hinting their true intentions this whole time... I've just been trying to see the good in people. Is that so wrong?
+
+Cori slowly advances blocking my path forward even more, Talia's blade is less than 5m away from my torso now.
+
+I need to think...
+
+I turn to Talia and give it everything I've got. It's better to be cut than burned alive.
+
+"CLANGGGGG"
+
+"SHINGGGGG"
+
+I managed to block her first strike with a reflexive and simple block. Before she could counter with a second hit I tried to land a counter.
+
+I lunged in towards her right side. With blinding speed she managed to twist her body away from the sword. It still tore her shirt and ripped the belt off her waist. The cloth and belt fell to the ground.
+
+During my attempt for an attack Talia launched her own.
+
+All I could see was a slash of blood and a sharp pain in my shoulder that carried my sword.
+
+She ran passed me continuing her trajectory. I tried to swing my sword towards her but my body wasn't responding. The moment I turned to face her I saw my own arm falling to the ground with the sword in hand.
+
+She sliced off my arm.... what a clean hit.... i barely felt it.
+
+We locked eyes, and she grinned at me. I could feel her evil soul emanating from within. She enjoys this, I'm definitely not her first kill.
+
+The next moment I felt two more sharp pains. One on my right leg, and the other in my abdomen.
+
+I fell to the floor next to my sword in a pool of my own blood.
+
+I saw a hand grab my sword and felt the item box on my waist get untied and lifted off my body.
+
+My vision was getting blurry.
+
+This is the end I guess...
+
+I was really killed by a human, it wasn't even a dragon or something cool like that.
+
+I didn't even get to save the world while dying... what a sad excuse for a hero's journey.
+
+As I heard two sets of footsteps in the damp ground fade away behind me I saw a glimmer of hope.
+
+My eyes went wide. This isn't the end, I have to stop thinking like that!
+
+My own severed arm was covering a piece of cloth that looked like Talia's ripped shirt.
+
+Underneath it all was a small glass bottle filled with a glowing pink liquid attached to a belt.
+
+I used my left arm to pull myself towards it with all the strength left in my body.
+
+I inched closer and closer to Talia's fallen MP potion as my body grew weaker and weaker.

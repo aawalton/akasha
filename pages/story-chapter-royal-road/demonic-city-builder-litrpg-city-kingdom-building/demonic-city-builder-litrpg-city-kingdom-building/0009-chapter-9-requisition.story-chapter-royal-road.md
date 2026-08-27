@@ -1,0 +1,103 @@
+---
+id: ef4a72aa-65cf-501e-a52b-7baf814230ec
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9 - Requisition"
+slug: 0009-chapter-9-requisition
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 9
+ownLength: 1349
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3423605/chapter-9-requisition"
+royalRoadId: "3423605"
+---
+
+"Afternoon, Lieutenant. How are things?" inquired Commander Ashlan. He had to speak loudly, the clips and clops of the horseshoes and armored boots from eighty men ringing off the rocky terrain.
+
+The column of soldiers in front of them were carefully trekking over the entrance to The Spine. While none looked forward to the two week march through the mountains, they'd do it.
+
+"Afternoon, sir!" came the crisp, clean reply from Lieutenant Bredford. "The men are in good spirits, all supplies are accounted for, and the horses are healthy."
+
+"I'm glad to hear it. Truth be told Elson, I myself am still a little bitter about the trip. Hallen had us out of town faster than he had any right to on such notice. If it wasn't for that crown of his, I might have refused the order altogether."
+
+"Sir?"
+
+"Just the musings of an old grizzly bear. Ignore it." The commander let out a long sigh.
+
+"Understood, sir."
+
+"The final count, Elson?"
+
+"Eighty-two, sir."
+
+Ashlan reached into his saddlebag, withdrawing a small leather-bound book. Flipping it open, he made several marks with a charcoal nub. The commander had the same ritual on the first day of every deployment. A tally of men matched against a second tally when they got home.
+
+Commander Ashlan eyed his second in command, catching that look on his face. He scratched at the gray, prickly beard that covered his neck. "What is it?"
+
+"Sir... Where exactly are we going with more than eighty men? Word is that it is some kind of building job, but given the gear we brought and the speed at which we departed..."
+
+Ashlan chuckled wryly. "Just not adding up, is it, Elson. Well, I suppose it hardly matters now that we're out of town. This isn't a building job, or a patrol. It's..." Ashlan hesitated, then shrugged. "I'll be straight with ya, lad. We are off to raid a demonic tower that popped up out of nowhere. Hallen says that only a handful of wicked creatures guard it, but what's inside could be worth a king's ransom."
+
+"I see, sir," came the reply. That's why Commander Ashlan chose Elson Bredford as his second in command. Orders were followed, quite competently, and questions were only asked when they should be.
+
+Looking over, he did catch Bredford's hand locking around the Solari talisman hanging beneath his collar. The move looked instinctive, but it reminded Ashlan that the boy was from South Valdren. You hardly saw these amulets in the north.
+
+"Yes, yes. I know what you're thinking. The same I was when Hallen told me. Demons are something that belong in the books of the Solari and that piece of yours. But believe me... I spoke to over twenty men from a patrol party that claim these demons to be real. Very real."
+
+"Twenty men, you say?" asked Elson.
+
+"I do. So here's how I figure it. We go out here, prepared to raid the place with some resistance. If the demons were just some folk from Greensward, we'll hang em up. Let the men stretch, loosen up their muscles before the winter, maybe take the long way back. No one can blame us for needing a few extra weeks of leave to exterminate some unholy demons, now can they?"
+
+"And if the demons are real, sir?"
+
+"If they truly are as wicked and real as Breck and Hallen seem to think, we'll hang them up too. And pillage plenty of artifacts and treasure for our trouble. Either way, I expect the men to maintain vigil as we go. I won't make the same mistake Breck's patrol did. Is that understood, Bredford?"
+
+"It is, sir. I'll make sure the squad commanders know."
+
+"Good man."
+
+They rode in silence for a time afterward. The temperature was dropping steadily, and would continue to do so as the hilly plains of North Valdren gave way to the rocky Spine.
+
+Elson finally broke it with a question.
+
+"Sir. The pitch barrels and siege rope. You requested those specifically."
+
+"I did."
+
+"For a handful of creatures?"
+
+Ashlan grunted. "The tower, lad. If it's stone, it'll weaken it and bring it down. If the pitch isn't enough, we pull it until it collapses. Either way, I'm not leaving a demonic structure intact right in Greensward. We destroy the tower, the problem goes with it."
+
+Bredford nodded. "The pitch is heavy. It's going to slow us down for at least several days, you know."
+
+"Then we'll be a few days slower." Ashlan's tone made it clear there was no discussion on the topic.
+
+By late afternoon, the pass had narrowed to a single file. Wind flowed over rocks like water, stealing heat from exposed skin. Several pack horses stumbled on loose footing, and one of them had to be put down due to a snapped foreleg. A mercy, for this part of The Spine.
+
+It was still early this year, and the snow was thankfully light. Even still, the men's breath puffed frigid fog in the mountain air.
+
+When they made camp for the night, Edward huddled within his cloak, taking refuge from the gales against the ridge. He stared bitterly into the darkening skyline.
+
+God damnit. Six weeks left and I'm being sent right back out. Breck and his fat mouth.
+
+He was just finishing nodding off when his eyes caught something through a gap in the peaks to the north. For just a moment, he could make out distant smoke rising against the twilight. From within, a black spire rose.
+
+Lord Vask stood atop the walls of Fort Wynn, overlooking the only road that connected the League trade ports on the west side of the continent to the frontier lands and North Valdren kingdoms. As his eyes glared towards the east, he once again shook his head.
+
+He wasn't sure if he should kill or thank the foolish young Lord Hallen.
+
+Demons? Truly? Twenty witnesses confirm it, and the first thing he thinks to do is send off eighty men and claim it all for himself? The fool. He's more likely to get them all killed, whether it be from the wicked creatures they are to face, or the Solari once they find out.
+
+Still. Vask was a calculating man. He ran both scenarios through his mind. Eighty men, led by Ashlan. Only good commander Hallen's got. If Ashlan succeeds, the Solari would descend on Hallen for concealment. If he failed... well. Eighty bodies near a demonic tower was the kind of evidence Solari would move armies for.
+
+Either way, Vask knew he was ahead. All that really changed was the number of Hallen's dead.
+
+And the Solari would find out indeed. As soon as he received the folded missive from Aldous, he knew it was his only option. I'm in no position to declare war on Hallen, not with half my garrison dealing with the bandits for The League. And even if I was, once the Solari find out... Well. No matter. They'll be sure to reward me and hopefully bring their holy fists down upon the whelp. He should be thankful his father isn't here to see him throw his kingdom away.
+
+Once again, Vask stared down at the shaky script. While it hadn't expressly said it was from Aldous, Vask knew. He recognized that handwriting. The advisor has more sense than his own lordling. I'll remember that, old Aldous.
+
+With a weary sigh, Vask placed the seal on the letter and handed it to the messenger boy waiting silently by his side. "Take six horses and ride for South Valdren. Hand that directly to the Solari Envoy there. Tell them it came directly from me, understand, boy? And take two men with you. I don't care who. You'll each have two horses, so I expect you to hit South Valdren in less than a month. You can take your time getting back here after."
+
+The boy bowed, grabbed the parchment and slid it in the leather riding bag at his side. "My lord."
+
+Let's see what you do now, young Lord Hallen.

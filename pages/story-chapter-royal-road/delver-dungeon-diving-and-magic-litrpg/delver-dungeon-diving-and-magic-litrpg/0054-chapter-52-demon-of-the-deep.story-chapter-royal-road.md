@@ -1,0 +1,217 @@
+---
+id: e5aa4e42-d5f4-53e0-ad7d-f32e3631e91c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 52: Demon Of The Deep"
+slug: 0054-chapter-52-demon-of-the-deep
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 54
+ownLength: 2324
+unit: words
+publishedAt: 2026-08-07
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3783803/chapter-52-demon-of-the-deep"
+royalRoadId: "3783803"
+---
+
+[Witch] Undead. One of the most dangerous undead archetypes, these undead use magic in strange and unusual ways. High level Witches are capable of blending in seamlessly, and there have been two notable cases of Witches sneaking into the protection of the Strongholds, bypassing our most protective magics. They have been known to feed in subtle ways, their victims losing their lifeforce, becoming weak and despondent. Witch magics are diverse, but often hard to detect, insidious in their use.
+
+Upon suspicion of their existence, contact reapers of Akarimano, and Alvarana.
+
+Standard contact procedure includes a team of twelve reapers. Magic suppression, isolation, and entrapment.
+
+Introductory Handbook Of Angel Kiri’s Order, - Read by Leo at a young age.
+
+The stairs have been worn down by time, but the grip of my shoes stays true, allowing me to go down until I reach the more even incline of the stone floor.
+
+Down the hall, a single heavy stone door waits, more of the foreign text surrounding its frame.
+
+“What’s this one say, Shar?”
+
+The golem in her cat form looks up at the text as I sign my light on it.
+
+“Even when you lose sight of the light, we will not give up.” She pauses, and walks closer to the faded symbols. “We who fight, we who walk through the heaviest of winds, we are your salvation.”
+
+I pull off my glove and trace the frame of the door with my finger. Once again, I find that symbol, the one that resembles an eye.
+
+My glove comes back on, and I push my shoulder against the door. “Can you go through this one?”
+
+Shar shakes her head with an annoyed look on her face.
+
+I nod, draw my sword, then push against the door.
+
+It opens slowly, but surprisingly smoothly for how long it’s been in disuse. I pay careful attention to my danger sense as the door opens, but nothing pops up.
+
+I hold my light up, illuminating a room with several beds. Half of them have restraints, while the rest have strange medical implements next to them.
+
+The more I look around the room, the harder it becomes to tell if this was a torture chamber or a medical ward.
+
+Implements rest on trays, shining without rust. Ancient vials of unknown substance are stacked in a cabinet to the side of the room.
+
+There’s a room connected to the place, it’s door having long since fallen to dust. A second door is on the other end of the beds, half-ajar.
+
+Ancient bones in the corner draw my gaze. Whatever they are, they’re long dead, the bones brittle splinters of themselves.
+
+I watch my step as I make my way to the connecting room, and shine my light through. An alchemy station similar to the one in the Archmage’s dungeon is in mild disrepair against the wall. However, several full vials covered in dust draw my gaze. At the back of the room, another skeleton has collapsed onto a desk, molded and faded paperwork long gone.
+
+I haven’t seen any corpses in the ruins so far, and yet, here two rest, one of them dead before they had the chance to react.
+
+Stepping closer, I examine the bones. They are old. It’s hard to tell for sure, but it’s certainly possible that they’ve been here since before the fall.
+
+I pause in my assessment of the body, noticing a small ring on their hand.
+
+Identify Artifact
+
+Ring Of Life
+
+Enchanted to resist the effects of time. Mana that travels through this ring will become Life aligned, and increase the effect of healing spells.
+
+Well that answers one question. This was a medical ward, not a torture chamber.
+
+I send a small prayer to the Angels for the skeleton, then gently remove the ring from the old fingers. I’m not exactly fond of taking items from the corpses of the dead, but something this valuable has no use resting here.
+
+I examine the corpse, finding a similar collar to the one I’m wearing. Somehow, I don’t think they can be revived, despite what my identification said about the collar.
+
+Pulling one of the drawers of the desk does reveal several interesting bracelets. Made of metal, they have spikes pointing inwards. A quick identification brings up an interesting description.
+
+Possession Pinning Bracelet
+
+This bracelet pins any possessing demon underneath the soul of the wearer, giving the wearer control of the demon, and their power.
+
+I pull two of them from the drawer, and slip them into my backpack.
+
+A glance at Shar shows her watching the other room from the doorway. I’m glad she’s keeping an eye out. It gives me a chance to continue to check the desk. I do find an inkwell and needles designed for making fake demonic marks. A stamp with the image of a crow on it, has a description saying that it applies a fake mark of the crow. I take that one as well, slipping it into my backpack, then I leave the room.
+
+I make my way to the skeleton in the corner, but there’s nothing on it. The medical instruments appear to have some interesting uses, but nothing that makes me want to weigh my backpack down further.
+
+Finally, I approach the door that’s slightly open.
+
+Shar slips past my legs, heading into the darkness first. I wait for a minute before she returns. “Another stairwell. This one leads to a teleportation circle. No dangers that I saw, but… it feels dangerous.”
+
+A teleportation circle? That must’ve been what the rings in the armory were referencing. I’ve heard of mages before the destabilization teleporting across great distances in an instant, but I’ve never seen one of the mythical devices in person. Most of them exist in large cities, overrun with undead or other dangers.
+
+I hesitate for a second at Shar’s warning, then brace against the door, and open it. This one is harder to move, requiring quite a lot of effort, and sending a grinding sound into the darkness.
+
+Nothing appears from below, to my relief.
+
+I step through the doorway, and walk down another set of stairs.
+
+They open up into a large cavernous room. My steps slow as I take in the faintly glowing concentric circles set into the floor.
+
+I put away my light, letting my eyes adjust, then inhale at the magic I can see.
+
+It’s far beyond anything I could craft right now.
+
+Beyond the circle, a large owl statue was carved, its wings once spread in flight. Something had ripped off those wings, and tossed them to the side.
+
+I step into the room slowly, whatever is down here, I don’t want to face by myself. But if I can see it, I can know whether my party can deal with it, whatever it is.
+
+Shar walks forward, looking around as her nose twitches.
+
+“Back so soon, little golem? Where is your master?”
+
+I step back against the wall, channeling more mana through my cloak, grateful that I’d had Hide Presence activated for most of the delve.
+
+A man steps out of the darkness, dark tendrils fading around him as he looks at Shar, who is slowly stepping back. His eyes glow red, the skin around them grey and sunken. Black veins travel away from his eyes, moving through his body and pulsing with a disconcerting throb.
+
+“They must be here. I’m certain of it. Why can’t I sense them- ah. They must be wearing one of those cloaks.” The man’s eyes travel across the room, skipping right over me. “That alone shouldn’t be enough to hide from my gaze. A skill then? Or an illusion mage. I hope it’s that. It’s been far too long since I’ve killed a mage. I wonder how powerful the class must be.” He pauses, a smile spreading across his face to reveal sharp teeth. “I wonder how delicious a classed soul will be?”
+
+Shar jumps into the shadows, her body disappearing.
+
+“Trying to run?” The man raised his hand, four spell circles forming in a second over his hand. A flickering barrier appears between us and the door up. “Don’t go so soon. You have no idea how long I’ve waited for company. That blasted Owl closed the door on me.”
+
+Shar was gone to my sight, but the man turned his head as if he were watching her.
+
+“I need your master, little golem.”
+
+He reached out, and dark tendrils extended from the floor, lifting a hissing and scratching piece of shadow.
+
+“Lead me to them.”
+
+Shar stopped fighting the strange and solidified into a cat once more. She glared at the man. “What do you need the Archmage for?”
+
+“Archmage?” The man smiled, as he strolled forward, avoiding the glowing teleportation circle. “No Archmage would avoid me like this. No, I need one touched by the angels. Someone who can open the doors.”
+
+It hadn’t made much sense to me, how most of the doors into the depths had been closed, unpassable to Shar, but easily opened. His words make sense. They were enchanted, maybe only a blessed could open them.
+
+But as I think about it, I realize something.
+
+I hadn’t closed any of the doors behind me. Very purposefully, I’d rather have an escape route than not. But this creature could just walk out of here if he wanted to.
+
+I reach into my pocket, grabbing the talismans I’d placed in there earlier.
+
+A fourth circle spell, so easily cast, is mildly terrifying, but it’s looking like I might not have much choice if I want to fight this man.
+
+“I warned you, little paladin.”
+
+My hand freezes.
+
+Shar continues to talk to the man, and I scan the walls, trying to see if the witch had somehow escaped her bonds and ended up down here.
+
+“The creature in front of you is named Zakar.”
+
+The man paused mid-sentence, looking up with confusion.
+
+“He hears his name. It is good to know his senses have not dulled.” Her laughter echoes through my mind, “Your talismans will not kill him, but they will delay him. You have two options little paladin. You can close the doors behind you and give up on the treasures you so desperately search for, or…”
+
+My hand clenches tight around the talisman it holds.
+
+“You can free me.”
+
+The man slowly turns, searching the shadows with a frown.
+
+“I will kill him for you, and then I will spare you and your allies.”
+
+Shar licks her paw, feining nonchalance as she relaxes into the dark tendrils, drawing the man’s attention to her “My master is high above this measly ruin. I can contact him for you, but you’d have to pay him quite a lot of money. He only moves for money.”
+
+“How can you trust me, you wonder?” The witch’s voice continues. “I swear upon Angel Sehara, that I will keep my word. I only desire my freedom. I await your choice, little paladin.”
+
+“I grow impatient Golem.” The man said, holding his hand up as several spell circles form. “Perhaps your screams will force your master to act.”
+
+I pull the talisman of holy fire, then send my mana through it. A blast of white fire swooshes forward, hitting the man, and disrupting his spell as he takes a step back.
+
+He comes out of the white fire unscathed. Immediately his gaze centers on me. “You!”
+
+The ten Star Formation Corruption Barrier talismans are already in my hands as I channel more of my mana through them.
+
+They fly forward arranging themselves around the man as he draws more magic circles. The talismans arrange themselves in ten points, lines connecting them into a large star.
+
+Shar drops to the floor, and steps into the shadows once more, running towards me.
+
+A blast of black fire and tendrils explode around the man, but the talismans glow, a white barrier briefly flashing as his magic breaks against it.
+
+A roar escapes the man.
+
+I place my hand against the floor, drawing upon the second skill of my class.
+
+Summon Legend.
+
+I think this man is a demon of some kind, so I want to summon the spirit of a-
+
+The walls of the cavernous room glow with magic, and the runes of my spell shatter. My eyes widen.
+
+“Necromancy?” The witch’s voice is filled with shock, “You are full of surprises, but I’m afraid it is forbidden here, little paladin. I am your only option.”
+
+The man casts another spell, and one of the talismans of the formation turns to dust.
+
+I reach into my pocket, pulling out my wand, then hesitate.
+
+There is one spell I know that can hurt demons, but it’s a novice spell, only two circles. I don’t think it’ll harm a demon capable of four- make that five circles. That is, if I can even cast it.
+
+Another talisman turns to dust as he casts.
+
+I turn around and run.
+
+The man’s roar fills the air around me, as the walls of the ruin shake. Shar runs beside me as I climb the stairs two steps at a time.
+
+We burst into the medical room, and I keep moving past the beds, past the skeleton. We reach more stairs, and I climb them two at a time again, bursting into the room where the witch calmly watches us. I grab the door, attempting to close it.
+
+It rumbles, but pulling is harder than pushing. It barely moves as I strain.
+
+“You’re running out of time, little paladin.” She says out loud from the room she rests in. “Will you take my deal? I swear upon Sehara, and the Reapers, I will not break my word.”
+
+The door stops moving, still open a crack.
+
+“Only seconds remain. Choose, or die.”
+
+I turn towards her, meeting her sharp eyes, the talisman still settling over her nose.
+
+I run into her room.

@@ -1,0 +1,213 @@
+---
+id: 8faeaeb6-b88d-571a-bb3f-818a8eab7982
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13: Master Mage"
+slug: 0013-chapter-13-master-mage
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 13
+ownLength: 2372
+unit: words
+publishedAt: 2026-05-31
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3474740/chapter-13-master-mage"
+royalRoadId: "3474740"
+---
+
+Gerald holds the door open, so I walk through it, Keve just a step behind me. The room is a waiting room with a circular center table. Chairs line the edge of the room, providing enough seating for at least twenty people.
+
+Daron, Grildor, and Libby stand up from where they’d been sitting as soon as we enter. On the other side of the room, a young Lin stumbles over themselves in surprise.
+
+The Lin are a race of people that I’ve met once or twice. She is fairly young, only fourteen or so. Her skin is tinged green, and vines wrap up her arms and neck. Little pink flowers which are mostly hidden by her hair, hang over her ears. Her clothes are threadbare, and one of the vines on her neck is a sickly brown. Her hair and eyes are the same shade of brown, slightly darker than the dying vine on her neck.
+
+“Leo! It’s good to see you again.” Daron says.
+
+“I hope the reapers didn’t give you too much trouble after I left.” I say, walking over to them and shaking hands with the three mercenaries. I look over to the young Lin whose eyes are flickering between me and Keve behind me. “Hello. I’m Leo and this is Keve. I’m guessing you’ll be the one in charge of the Rock-Lizards for our delve.”
+
+The young Lin walks up to us cautiously, then bows her head slightly. “My name is Tanya.”
+
+“May the darkness treat you kindly.” Keve says from beside me.
+
+“And may the light watch over you.” Tanya responds.
+
+A soft knock comes from the door on the other side of the room and Martha comes in, leading two people wearing ornate leather armor, one of whom I recognize. Eyla gives me a small wave and a smile as she walks in.
+
+“Ah! This is the Master Mage and his apprentice that I mentioned.” Gerald says. He steps forward. “Let me introduce you to Master Mage Lorn of the De’Vereth and his apprentice Eyla of the De’Vereth.”
+
+The Master Mage is a man in his mid-fifties if I had to guess. He’s relatively fit and his blue eyes watch me sharply, but with a small amount of warmth. He has a full head of silver hair and a close-cut silver beard which he runs his hand through as he studies me.
+
+“You must be Leo, I look forward to working with you.” Lorn holds out his hand.
+
+I shake his hand. “Thanks for joining us.”
+
+The others introduce themselves. My eyes catch Eyla’s and she winks at me.
+
+I put my hand on my forehead, suppressing a headache.
+
+“Please don’t blame me.” Eyla says. I look up to see her right in front of me. “It’s not like I can exactly advertise the fact that I’m a mage. I really didn’t mean to lie to you.”
+
+“I don’t blame you. I just… wasn’t expecting to see you here.”
+
+“I want to see the world. And when you told the mercenaries about this job… I thought it was an opportunity I couldn’t miss.” Eyla looks away, not meeting my eyes.
+
+“I can’t blame anyone for wanting to see the world.” I laugh. “I’m glad to have you with us.”
+
+Eyla smiles, her eyes holding my gaze for an eternity.
+
+***
+
+I catch the delve team up on everything I know about the delve-site with the exception of the Archmage’s personal room, and the Vishten.
+
+Once everyone is up to date, we leave right away. Four rock-lizards including Jasper walk in a straight line in the middle of the group. Tanya, the Lin, holds onto the lead of the first one, who happily follows her. The three mercenaries walk together next to rock-lizards, sharing casual conversation as we travel. The two mages have the hardest time with the long walk, but they don’t complain. Keve and I lead the caravan down the old path to the delve-sight.
+
+Shar scouts from the skies above us, her form barely visible through the canopy. The first day is mostly uneventful, a raptor tries to attack Shar only to get shot down by Daron. As night gets closer, I find a nice clearing and activate my artifact to hide the whole party. Daron is quick to start a fire for our group and we share a simple meal over the campfire.
+
+The master mage quickly falls asleep in the men’s tent, while the rest of us sit around and enjoy our first night in the wilderness.
+
+I sit on a fallen tree and watch the flames of the campfire. There’s something about watching a fire that is inescapable.
+
+Eyla sits next to me and I look away from the flames to look at her. She watches the fire, her gaze just as entranced as mine was a moment ago.
+
+“I’m exhausted.” She says. “But I feel so free.”
+
+“That’s the beauty of the forest.” I look back into the fire as I talk. “It’s freeing, and it can be truly terrifying.”
+
+She leans forward towards the fire. Her hand rests next to mine on the log. “I’m glad you told me those stories when we met. And I’m glad that I left the stronghold. Without those pushes, I would’ve just sat in my room, never knowing what the outside world looked like.” She turns her whole body to look at me. “I don’t mind that it’s a little terrifying.”
+
+The fire crackles and I turn towards the fire. “Why did you leave the stronghold?”
+
+Eyla snorts. “Politics. The Arcanist’s guild is full of it. What about you?”
+
+“I was born in the frontier city. I’ve never been inside a stronghold.”
+
+“It’s not everything people think it is.” Eyla pulls her knee up and rests her chin on it. Her eyes catch mine and we just stare for a moment. “If you want me to, I’ll show it to you someday.”
+
+“I’d like that.”
+
+We chat for a while longer before we both decide to head to sleep.
+
+The next day is colder than the last, and I pull my coat tight around me as my feet crunch the frostbitten ground. Most of the monsters of the forest quiet down with the cold, leaving our group unmolested.
+
+A few hours into our traveling, Shar glides down to land on my shoulder. “We’re being followed by a group. They shot at me before I could get close enough to identify them, but I don’t think they’re friendly.”
+
+I nod. “Go see if you can find a clearing up ahead on the path.”
+
+Shar leaps into the air and takes to the skies ahead of us.
+
+I call over to Daron, who jogs over to me. “We’re being followed. Can you keep an eye on our tail and make sure they don’t get too close?”
+
+Daron nods, his whole demeanor changing with military seriousness.
+
+Shar leads us to a clearing and we set up in preparation. Grildor takes out a large shield he’d strapped to his back and places it in front of him, Libby stands next to him with a sword drawn. Daron stands behind them with a crossbow, a sword and buckler ready at his waist. The two mages and Tanya stand behind the rock-lizards at the back of the clearing.
+
+Keve and I stand in the middle of the clearing, ready to greet whoever shows up.
+
+It’s around dusk that Shar lands on my shoulders to tell me that they are approaching our spot.
+
+They filter out of the trees slowly. Covered by cloaks, there are roughly ten of them. Most of them look normal under their cloaks, except for one man who is nearly twice as tall as the others and bulges out at weird angles.
+
+The man in front confidently steps forward, his face the only one visible from the hooded figures. He stops a few feet away from me. “We only want the mages from your party. If you give them over to us, the rest of you can live.”
+
+I snort, then call out, “Do you think I’m an idiot? There’s no way you’re letting us leave after you have them.”
+
+The man tilts his head, then sighs.
+
+The man flicks his hand and a dagger flies my way. Keve’s sword flashes, knocking the dagger out of the way before it can actually hit me.
+
+I stare at the dagger, then look back up at the man who threw it. He smiles and the moment is broken.
+
+The cloaked men rush forward while Keve and I run back to our allies.
+
+I glance back to see the cloaks falling away in their rush, revealing undead monstrosities in the form of humans.
+
+I reach our allies and fully turn around, drawing my sword.
+
+Ice spikes burst out of the ground, but the undead twist and dodge the ice as they charge us, moving with speed my eyes can’t follow. An arrow shoots out, taking down one of the undead before they reach us. The largest undead leaps forward, his fists raised high. Grildor steps forward, blocking the shot with his shield. His feet sink into the cold ground from the force of the blow.
+
+Then they’re upon us. I activate Hide Presence, but it doesn’t work as one of the smaller undead rushes me.
+
+I barely block the first attack of the thing’s claws with my sword, the strength of the undead nearly overwhelming me as I’m pushed backwards. I disengage, but a second undead tackles me to the ground. I keep the second undead’s head away from my throat with my hands, but its claws draw blood from my arms and neck.
+
+A blue streak rushes into the undead and pulls it off of me. The blue streak solidifies as an ice panther. It crushes the undead’s head in its jaws.
+
+I get up, finally getting a look at the battlefield. The mercenaries and Keve are working together with ice spikes created by Eyla to keep the undead corralled in a small area, but they’re slowly getting pushed back.
+
+It doesn’t take me long to realize that the main battle is in the skies and in the ground. Master Mage Lorn hovers in the air, spears of ice crashing against spears of darkness, as he stares down the man who had first stepped forward. The man -a dark mage- also hovers in the sky. Their battle plays out on the ground, where frost and shadow both attempt to cover the landscape.
+
+I hurry over to where Jasper is hiding as a pile of rocks. Tanya cowers behind him, but I ignore her.
+
+I grab my bow and string it, forcing my hands to stay steady. Then I grab an arrow from the quiver there.
+
+Anti-Magic Arrow
+
+Enchanted with ancient magics by an arch-mage, this arrow is capable of piercing most basic magical protections.
+
+I pull the arrow back, turning my attention to the battle in the skies. Blood leaks from the master Mage’s lips, while the dark mage seems mostly alright. Both of them hover in place as they cast their magics, making it easy for me to aim my bow at the dark mage.
+
+I pull the arrow back and breathe.
+
+Inhale.
+
+Exhale.
+
+The arrow shoots from my bow.
+
+It pierces the chest of the dark mage and he falls from the sky.
+
+The Master Mage’s frost takes over the landscape and the battle is over in an instant. The undead are frozen in place, encased in ice.
+
+The Master Mage slowly lowers himself to the ground. As soon as his feet touch the ground, he collapses, coughing blood.
+
+Libby is by his side in an instant, her own skills obviously at work as she examines the mage.
+
+I stare for a moment, then look away to walk over to the dark-mage.
+
+His body is covered in frost and his dead eyes stare up at me with bloodlust.
+
+Lore Mage: Level up!
+
+Delver: Level Up!
+
+That puts Lore Mage at level 7 and Delver at level 29. I check my status, trying to take my attention away from the dead man in front of me. There aren’t any changes and my gaze ends up back on the angry eyes of the dead man.
+
+I reach down to pick up the arrow in the dead mage’s chest, but it disintegrates in my hand.
+
+Th- that’s fine, I was never going to sell it anyway. There’s only one use for an anti-mage arrow and I want the weapons I sell to be used against monsters, not humans.
+
+I lean over my hands searching the clothes of the dead mage before I can think about it too much. I find a few small knives, but nothing else.
+
+As I move the dead mage’s sleeve, I catch a glimpse of something. I pull it all the way back to reveal a tattoo of a crow taking flight.
+
+Shar lands on my shoulder in her bird form. “I don’t know him. I swear.”
+
+I give a strained smile that quickly disappears. “Did we kill all of them?”
+
+“Yes. As far as I can tell.”
+
+“How’s Lorn doing?” I ask. I keep my gaze focused on the dead mage, I don’t want to turn around and look at what happened to the team I was leading.
+
+“He’s alive, but Libby seems worried.”
+
+“Any other injuries?”
+
+“Just minor scratches and scrapes as far as I can see. You should get yourself checked as well,” She points with her beak to my arms, “those scratches don’t look healthy.”
+
+“I will in a minute.” I kneel down, my knees suddenly feeling weak. “You sure they’re all alright?”
+
+“...Yes.”
+
+“Good.” I push myself off the ground and walk towards the rock-lizards.
+
+I look behind Jasper, finding Tanya still there, her head in her arms.
+
+I sit down next to her, leaning back into Jasper with a heavy sigh.
+
+“Are you alright?” I ask.
+
+She looks up, and quickly wipes tears away from her face. “I’m sorry.”
+
+“Why are you sorry?”
+
+“I didn’t do anything.”
+
+I put my hand on her head and she stiffens. “That’s okay.”
+
+She relaxes into my hand and continues to silently cry.

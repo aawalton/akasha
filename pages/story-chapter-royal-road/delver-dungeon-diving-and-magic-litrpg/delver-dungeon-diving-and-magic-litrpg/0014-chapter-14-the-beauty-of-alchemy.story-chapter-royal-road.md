@@ -1,0 +1,163 @@
+---
+id: 43e51964-cc4e-582f-9694-c0ba68c0a34c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14: The Beauty Of Alchemy"
+slug: 0014-chapter-14-the-beauty-of-alchemy
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 14
+ownLength: 1926
+unit: words
+publishedAt: 2026-06-01
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3479839/chapter-14-the-beauty-of-alchemy"
+royalRoadId: "3479839"
+---
+
+The next chapter speaks of Raya, a priestess to Angel Delte, the seventh oathsworn. She was a healer on the front lines against the incursion of the demons, her legend was made when she was tasked with defending a mountain pass against an invading force.
+
+She kept her army healed and fighting without food, water, or rest for two weeks straight. The army repelled the invaders at the cost of her life.
+
+***
+
+The frost covered ground crackles with my steps as I head over to where the rest of the team is. Grildor lets Lorn lean on him, and they stand up as I get closer. Lorn looks pale, but better than when I first saw him fall. Everyone except Eyla has small cuts or scratches, but Libby slowly goes around the team, using one of her skills to close the scratches at a visible rate.
+
+Lorn nods at me as I stop a few feet away from them.
+
+“How are you feeling?” I ask.
+
+“The dark mage did a number on me. I’m afraid I won’t be of much use on the delve.” Lorn grimaces as he adjusts his stance.
+
+“We can go back to the free city, get a healer to look…” I trail off as Lorn shakes his head.
+
+“It’s best that we stay away until I’m better. They won’t be able to find us while we’re in the wilderness, and I’m in no condition to fight off another ambush. You hired us for a job, we won’t be turning back on my account.”
+
+Lorn holds my eyes until I look away. “You can ride on one of the rock-lizards until you’re feeling well enough to walk.”
+
+I look over to Libby, who finishes healing a nasty cut on Keve’s arm. She matches my gaze and walks over to me. “Stand still.” she orders. She touches my arm and sends her mana into my body. The skin on my arms knits itself closed.
+
+We discuss our plans for a little longer, but everyone is on board with moving forward. Daron does another check of the dead, but finds as much as I did.
+
+We make some distance between us and the battle before making up camp. We’re lucky that the fight didn’t attract scavengers and don’t want to test that luck by staying too close to the dead.
+
+The mood is still good as we set up camp, but there’s a bit more tenseness in the conversation. Tanya is quiet, but she sits with the group at the campfire. Eyla is distracted with her injured master and Keve is as quiet as ever. The three mercenaries are busy with a game of dice, so I retire early to the tent and work on reading one of the books from the library.
+
+The next day we continue our journey to the delve-site. A giant beast attempts to eat one of the rock-lizards, but is quickly taken down by our party.
+
+A few more days pass without incident and we arrive at our destination. Camp is quickly set up.
+
+Lorn does his best to hide it, but his injury is clearly bothering him in even the most basic of tasks. After some discussion, we agree to let him stay with the rock-lizards and the camp while we go on our first delve.
+
+The party follows close behind me as I lead the way into the archmage’s home. My metal sphere leads the way ahead of us in case I missed any traps on my last delve.
+
+I stop as we come upon the large hole left by the Worm. Eyla, knowing that this was coming, leans down on the edge of it, her hands touching the floor.
+
+Slowly, a bridge of ice extends across the gap, a low railing growing out to prevent anyone from falling. I cross the bridge first since I’m the only one with a skill to save myself if it gives out for any reason. I place my weight carefully, making sure that nothing is about to give. There aren’t any issues, so I wave the others across and continue down the tunnel.
+
+Eventually we reach the room to the next level and I use the mana detector to find the hidden runes for the secret entrance.
+
+The guard room is exactly as I left it and we work together to grab every last artifact in the room. Heater shields, plate armor, pykes, swords, guard uniforms, arrows. Everyone’s bags and arms are filled by the time we empty the room. Only broken weapons are left in the room.
+
+Our trip back is uneventful. The injured mage greets us as we enter into the hidden camp, still pale from his injury. We empty our bags, and I separate a pile for the Vishten, for when I see them again. Once the artifacts have been sorted, I turn to the group.
+
+“That was the easiest part of the delve.” Everyone’s attention centers on me as I speak. “From here, we face monsters of all shapes and sizes, so I would like to offer you a deal in order to keep us safe in the depths. Tell me what armor and weapons you would like to use from what we have just gathered and I will give it to you as a bonus. I value your lives more than anything else.”
+
+With my little speech given, I motion for them to have at the artifacts.
+
+The mercenaries cheer while the two mages stare at me with surprise. Tanya looks at me, then hesitantly picks a spear from the pile.
+
+Grildor quickly grabs one of the heater shields and some of the heavier armor.
+
+The rest follow suit, grabbing replacements for their weapons and worn armor. Neither of the mages grab anything, probably because they already have enchanted equipment.
+
+I find a spot to sit and mark down the items into my notebook along with the descriptions given to me by the system.
+
+Lorn hobbles over to where I’m sitting, “You’re quick to give away a fortune.”
+
+I don’t look up from my notebook. “I’ll be making plenty from this delve already.”
+
+“There’s more to it than that.”
+
+I pause in my scribbling.
+
+“You don’t need to feel guilty.” Lorn says.
+
+“I’m not feeling guilty. I’ve seen plenty of death during delves.” I finish my note.
+
+A hand pats my shoulder. “I’m sad to hear that.”
+
+He walks away towards his apprentice.
+
+I finish my inventory and look up at the sky. Roughly, five? hours of light left. That should be plenty for another delve.
+
+Once everyone finishes equipping their new items, we go back down.
+
+We walk past the empty guardroom and descend down the stairs onto the second level. Soon we reach the split pathway and I lead us towards the spider webs. I want to leave the garden and library for last. Tanya, Keve and I lead the way, with Eyla a step behind us. The three mercenaries bring up the rear, keeping an eye on the tunnels behind us with one of my light-stones. Shar keeps to the shadows, but I catch the occasional glimpse of her.
+
+My light reveals the webs ahead of us and Tanya lets out a gasp. Everyone turns their attention to her.
+
+She wilts under the attention, her vines visibly getting smaller. “It’s a Reaver nest! Do you know how rare these webs are? I- could you gather them for me? I can use them for my profession.”
+
+“Of course.” I immediately respond.
+
+We walk back up to the guards room, then grab some broken spears and staves. We wrap up a few of the weapons with the gratuitous amount of web in the room. Tanya happily carries the sticks of web on her back as we travel down the hallway. I keep an eye out for the alchemy room and we reach it relatively quickly.
+
+We open the door to the room, and Tanya visibly brightens. “Is that a Maloche Distillery? Valma powder?”
+
+Tanya pushes past me to rush into the room.
+
+I share a surprised look with Eyla.
+
+Keve walks past me to help Tanya gather everything she deems valuable from the room. I suspect that he has a soft spot for the young Lin. Eyla walks in as well, studying the strange alchemical elixirs with bored interest.
+
+The three mercenaries hang back, keeping an eye on the hallway of webs. After a little while, Libby steps closer to me, “You killed whatever called this nest home, right?”
+
+I nod. “Broke a firewand to do it.”
+
+“Why haven’t we seen its corpse?”
+
+I pause, frowning “I’m not sure. It should’ve been at the entrance to the nest.”
+
+“So something either ate the thing whole, or was big enough to drag it away.” Libby says what we’re both thinking.
+
+“Shar?” I call.
+
+The golem flies out of a shadow in the corner of the room and lands on my shoulder. “What is it?”
+
+“Could you scout ahead for us? I want to see if there’s anything waiting for us.”
+
+Shar nods and leaps off my shoulder, fading into the shadows as she flies.
+
+“Your familiar is quite useful.” Libby says. “I’ll make sure Daron keeps an eye out as well.”
+
+She walks back to the other two mercenaries. I turn my gaze down the dark tunnel that we’ll be traveling down.
+
+A hand on my arm brings me back from my worries. Eyla smiles brightly, her silver-blue hair sparkling in the light of my light-stone.
+
+“I’m glad to see her so excited about something.” She motions towards Tanya who is staring at a powder intensely. “She’s been so quiet.”
+
+“She’s really young.” I say.
+
+“As if you’re one to talk.” Eyla snorts, “You act as if you’re as old as Master Lorn.”
+
+“The world changes when you reach the old age of twenty-one.”
+
+Eyla’s eyes widen “Does that mean I’ll be like you in a year? Please tell me it isn’t so.”
+
+I laugh, unable to stop myself. Eyla smiles.
+
+“Can you help me carry this?” Tanya interrupts. She holds a large glass sphere, her eyes barely peeking over the top of it.
+
+I hurry to help her carry the thing, then we place it into Grildor’s bag since his is the biggest.
+
+Tanya makes one final sweep through the room before we leave.
+
+We could turn back with everything we have so far, but only three of our bags are full and our scouts should be able to warn us before anything really dangerous appears. I hesitate for only a second before deciding to press on.
+
+We walk past cocoons until we reach a familiar broken floor. Eyla builds another ice bridge across the gap, and I test the floors before motioning for the others to follow.
+
+It isn’t too much longer before we arrive at a large pair of double doors covered in web. Shar flies out of the darkness, and lands on my shoulders.
+
+“It’s safe in the next room, but… the sight is something.”
+
+I motion for Keve to come over and he slices through the webs blocking the doors. With a shove we push the doors open.
+
+Broken eggs and desiccated cocoons cover the walls and floor of the room. Taking up most of the room lies a reaver spider twice the size of the one I killed. It’s sprawled across the floor, large bleeding holes littering its body. Its head, as big as I am, has been physically smashed into itself, creating a pile of mush and ichor.

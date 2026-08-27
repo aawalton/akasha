@@ -1,0 +1,165 @@
+---
+id: 114e319b-923f-51d6-8707-fd39dae3b259
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13"
+slug: 0013-chapter-13
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 13
+ownLength: 1205
+unit: words
+ownProgress: 1205
+publishedAt: 2023-02-05
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1106388/chapter-13"
+royalRoadId: "1106388"
+markedReadAt: "2026-06-29T20:32:14.721Z"
+---
+
+I stood beside Abby watching the light grey portal slowly spin in front of the orange rock pile. We finally made it to the boss room.
+
+"Alrighttt you ready Jay??"
+
+"Yup. As ready as I'll ever be."
+
+We jumped into the portal and entered the boss room. It was a large cavern type room. The cave ceiling was over 15m high and the walls were made of that same orange colored stone. The cave itself stretched over 100m long and roughly 50m wide, this is going to be a large battle ground.
+
+Within seconds of entering the cave a wave of wolves came out from the darkness in the back. I couldn't count them all quickly enough but there must have been 7 or 8 of them charging full speed at us. Abby started glowing.
+
+"Get somewhere safe and watch me, this will all be over before you know it."
+
+Without thinking twice I nodded and ran to the left side of the cave to find cover and watch the battle ensue. I took out my sword and held it in front of me just for good measure.
+
+Abby sprinted forward to take all the wolves head on. Again, I watched the ground move around her like it was alive. The rocky sand was twisting and shape shifting beneath her feet obeying her command.
+
+8 large earth spikes were moulded from the cave's floor. With a swift and graceful movement of her right hand Abby maneuvered all the spikes into perfect positions and impaled every one of the wolves in a single strike.
+
+The wolves wined for a moment but the the cave went quiet.
+
+Then... I felt heavy eyes glaring at me...
+
+Something strong was watching. Something purely evil.
+
+The back of the cave felt ominous. Abby and I were both looking towards the dark end of the cave waiting for some demon to arise. Abby started glowing even brighter preparing for war.
+
+"GGGGGGRRRRUUUUUUAAAARRRRRR"
+
+The back of the cave lit up with the glow of a deep crimson red light. Flames began creeping up the walls of the cave and a large human like figure appeared.
+
+Standing over 5m tall a beast emerged. It was definitely not human.... With the head of a wolf, the torso of a giant man, and the limbs of what looked like a man and wolf combined.... This must be what a werewolf looks like...
+
+Its body was covered in red glowing veins holding back its immense muscles. They looked like tight coils of magma moving around its body. It's eyes were sharp and it's teeth even sharper. It stared down it's opponent, the green glowing girl standing below.
+
+The tension in the room was like nothing I'd ever experienced. A clash of immense energy. There was magic power pouring from each warrior ready in their battle stance.
+
+A hot and evil fire burned behind the monster. It let out a battle cry and flames erupted from its back, legs, and arms. The room heated up in an instant, the creature was declaring a duel.
+
+Abby began glowing brighter. The ground started to rumble, then the whole cave began to shake. She let out a battle cry of her own and produced 2 enormous spears of rock from the ground similar to the monster's towering size. She sent ripples through the ground making the battlefield itself an extension of her body.
+
+Earth vs. Fire
+
+The battle was about to begin and all I could do was stare wide eyed in total amazement.
+
+This is power. This is what I want to achieve.
+
+Before I could blink the two of them started charging towards each other. The demon wolf man's fire was raging as he sprinted forward with murderous intent. Abby began a frontal attack as well, she was much faster than I'd ever imagined. She keep moving forward wielding two earth spears gliding across the cave floor like it was made of ice.
+
+The two connected attacks a moment later. From where I was standing all I could see was an incredible explosion of fire and rock. Before the dust settled I heard it again.
+
+"GRRRRRUUUUUAAAAAARRRR"
+
+"Take thissssssss!"
+
+"RRRRRUUAAAAAA"
+
+"Ahhhhhhhhhhhh!!!"
+
+The two yelled their battle cries and traded blows, I still couldn't make them out fully. All I could see were fiery claws hitting spears of rock at speeds almost too fast to comprehend.
+
+It was all over in a matter of seconds. 4 large explosions and an exchange of battle cries. The cave went silent.
+
+The dust cloud was large but it began to slowly dissipate.
+
+When it did, I couldn't help but to grin at the sight before my eyes.
+
+"Well that was funnnn! Cool battle huhhh?"
+
+Abby was lightly jumping up and down on the monster's head punching the air and yelling out to me showing that she'd won.
+
+A huge rock spear was stuck through the monster's chest. It's lifeless body was this menacing.. I still was wary of getting too close.
+
+"Incredible fight... your magic. I-It's amazing Abby."
+
+She hopped down and over to me.
+
+"Thanks! It was fun to play around a bit, butttt that monster was no match. E Class dungeons are never as fun as I remembered them to be."
+
+She pouted, but was clearly just looking for more compliments.
+
+"Grrrrurrra"
+
+The beast moved its arms and ignited a small flame.
+
+I jumped back and drew my sword. Abby laughed and materialized a spear that crushed its head defeating the beast once and for all with a final whimper.
+
+Then I heard a loud ringing in my head.
+
+[Level Up][Level Up][Level Up][Level Up][Level Up][Level Up][Level Up][Level Up][Level Up][Level Up]
+
+_____________________Name: Jay Soju
+
+Level: 41
+
+Hp: 210/210
+
+Mp: 95/210
+
+Strength: 104 [+50]
+
+Speed: 117
+
+Agility: 124
+
+Defense: 94
+
+Mental Strength: 105
+
+Skills:
+
+AbsorptionSwordsmanship
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]
+
+_____________________
+
+"I WENT UP 10 LEVELS???"
+
+Abby smiled.
+
+"You're welcome, now maybe you'll be able to fight one of those regular wolves without killing yourself. Am I righttt?"
+
+She's still teasing me...
+
+"Yeah yeah sure, but I didn't even fight or help you at all... isn't that level leaching? Especially from the Hunters Associa-"
+
+Abby rolled her eyes.
+
+"Shut uppp, who cares. Why are you so bent out of shape on the little things. Just enjoy the moment, if anyone is suspicious just say you were training with me on my time off. No one has to know the details."
+
+She did her usual head bob and smile.
+
+She was right... I stood there with my status open admiring my new stats as all the monster began to disappear. Abby jumped around collecting her crystals.
+
+Then the blinding white light came, we were transported back to the start of the dungeon. The boss room had been completed.
+
+She looked at me with a devious smirk.
+
+"Okay now let's see what you can do!"
+
+"S-See what I can't do?? What do you mean?"
+
+"Come onnn!"
+
+Abby grabbed my wrist and started pulling me back in towards the dungeon again. I followed half reluctant but half curious of my new level's power. I mumbled under my breath as we walked deeper in.
+
+"Here we go... I guess I'm not done for the day."

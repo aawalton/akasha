@@ -1,0 +1,195 @@
+---
+id: fa7e4a50-125e-5545-9d63-cb5c529b8cd2
+page-type-slug: story-chapter-royal-road
+title: "254: Observation"
+slug: 0254-254-observation
+partOf: delve
+position: 254
+ownLength: 3087
+unit: words
+publishedAt: 2023-12-17
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1445687/254-observation"
+royalRoadId: "1445687"
+---
+
+The single step that carried Rain into the Breathless Wasteland stretched into an eternity as his mind automatically adjusted his rate of perception. He could feel the lair’s Arcane aspect crackling like dry static as its paling flowed around his intruding toes. There was no resistance. He knew that same paling would be as impenetrable as tire rubber should the lair—or perhaps the system—wish to forbid him, making the ease of his passage all the more remarkable.
+
+The threads of system-script were clearly responsible.
+
+He could feel them as they interfaced with the script running through his own paling, performing some sort of...authentication. He could see the force they exerted on the barrier, pulling it out of the way. Denial was clearly the default, and the system was overriding it.
+
+Amidst the confirmation of his assumptions, Rain experienced something else—a sensation, disconcerting when slowed down. His body seemed to be stretching as it passed through compressed space. Knowing the names of a few Space Magic skills wasn’t enough to put it into words, so he fell back to Douglas Adams.
+
+It felt unpleasantly like being drunk, with him as the glass of water.
+
+The world went purple as his face entered the barrier, and the sensation grew vastly worse. His leading foot touched down on something solid. As he lifted his trailing leg to follow, he was given something new to think about besides discomfort. Like a switch had been flipped, and with no chance to straddle dimensions as he’d hoped, his awareness of the outside world vanished. The dozens-at-this-point threads of mana that he was projecting through his active aura anchors were pinched off at the same time as the links to his party members were severed. Only his link to Dozer remained, the slime safely tucked away inside his soul.
+
+As it was programmed to after any disruption of its programmed sequence, his Detection macro rebooted. The resulting ping for monsters came back empty, and the manual ping for hydrogen that he followed it up with returned a blazing cloud of a response. The magic said the gas was all around him, extending in all directions, though he was still partly in the barrier. His eyes promptly emerged to take in the same lie, showing him a barren landscape extending off to infinity, with no sign of the barrier except perhaps the faintest shimmer of distortion.
+
+Except it wasn’t barren.
+
+Everything in here was filled with essence, and the system’s presence wound through it all. It was like being inside his own soul.
+
+Except not.
+
+Mana existed inside lairs. Just because he couldn’t see it right now didn’t mean it wasn’t there. And it wasn’t just essence he was seeing, but matter too. Everything besides his body and equipment felt like a hybrid of the two—something not actually that unfamiliar to him. Tel, Crysts, and, to a much lesser extent, the Bank’s high-denomination coinage all felt like that when subjected to sufficient scrutiny.
+
+Before his lagging toes fully cleared the barrier, the system presented him with a dialog.
+
+Breathless Wasteland
+
+Rank 4
+
+32%
+
+Health
+
+Stamina
+
+Mana
+
+Rain
+
+100%
+
+100%
+
+100%
+
+Winding back his perception with a puff of Winter, Rain found the point amidst the authentication sequence where the lair had latched onto him with a thread not unlike those that bound him to his armor. Focusing on it, he found the connection leading off toward the ruins. It was tiny and near transparent, like fishing line, but he was sure he’d be able to follow it straight to the core.
+
+Huh. The core is...an item? Kinda?
+
+Returning his perception to a more reasonable rate, Rain continued his walk forward to make space for the others to follow. Releasing the breath he’d been subconsciously holding, he inhaled deeply from his regulator, getting just a bit of the hydrogen around the seal. The essence part tingled.
+
+Exhaling with a smile, he came to a stop and tilted his head. He was feeling...decompressed. It wasn’t on the same level as letting out your belt after a large meal, but the core of the sensation was similar. He didn’t need to check his essence tracker to know his upkeep cost had been reduced. There was plainly enough of a difference between rank four and rank zero for it to be noticeable. Ducking in here to meditate would be a good way to restore his essence levels, should the need arise.
+
+Neat.
+
+Rain took a few more breaths, soaking in the feeling. However it made him feel, the lair was unquestionably depleted, even more so than its listed integrity would suggest. The hybrid matter’s essence component was invested, and there was only the thinnest impression of residual chaos in the atmosphere. Falling back to metaphor, the temperature was rank-four, but the pressure was effectively zero. He’d need to look again when they got closer in, but he’d put money on the core having not so much as a whiff of refined potential available to fuel its regeneration.
+
+Before he got much further with that train of thought, Bluewash appeared, though it was the connection that Rain perceived first. Unlike a normal party link, this felt like getting lassoed. The connection practically shone as he turned to see the Coresmith emerging from the invisible envelope. The dialog, which he’d left open, updated, and Rain’s eyes widened as he realized he could see exactly where it was pulling its information from.
+
+It’s like looking at raw data packets! The link’s not just a link; it’s script! Runes! Little teeny-tiny runes! I knew it! Ah, there’s her name! And her level! I could already get a guess at vital percentages, but there they are, too, plain as day!
+
+Rain pushed Winter to the maximum, searing the knowledge into his brain. He’d just learned how the system represented numbers, and he was not going to forget. Runes were shifty things, always trying to escape. The few he’d learned from covertly observing Legruz needed constant refreshing through meditation, each embodying a concept at a deeper level than words could capture. These were deeper even than that.
+
+“What’s wrong?” Bluewash asked in hand code.
+
+“Absolutely nothing!” Rain signed with enthusiasm, observing the link to Sana form moments before the Watch officer emerged from the barrier. Like a parched man finding a river in a desert, he plunged into the link, confirming those numerical runes that were the same and recording those that were not. He came back in less than a heartbeat to see Sana looking around in wonder, and he schooled himself back to something resembling composure.
+
+The mission is to observe, not freak out. I can do that later.
+
+Carten entered, carrying a spare tank under his arm. Grinning at Sana’s reaction, the big man removed his mouthpiece and took several deep gulps before tapping her on the shoulder and speaking with the voice of a munchkin lumberjack. “What do you think?”
+
+Even though he’d been expecting it, Rain broke down, his own laugh becoming higher and higher pitched as he sucked in more of the atmosphere in a dangerous positive feedback loop. This, of course, got everyone else going, though they didn’t have nearly so much to laugh about as he did.
+
+Eventually—and feeling slightly light-headed, which meant he’d surely have passed out if not for his Endurance—Rain managed to control himself. In the aftermath, he did his best to share all of his observations, though nothing too significant came out of that or the following discussion beyond ideas for future experiments. He managed to instill his companions with some of his excitement, at least.
+
+He also learned that lair matter could be stabilized with Tel. Apparently, that was how the Bank made their coins. Bluewash said it was commonly accepted within her profession that the Bank had a lair similar to the one described in the parable of Gimmen’s Folly. Unlike in the story, the Bankers were able to remove the lair-spawned precious metals without them vanishing. They did this by alloying them with Tel, as Tallheart had done to make a shovel long ago.
+
+With a fresh book’s worth of #TODOs, Rain returned to the actual mission and spent the next ten minutes playing hokey pokey with the barrier. Since Ameliah had proposed the goal of opening their inner worlds to each other, he’d been fixated on making it happen, and watching how the lair’s paling interacted with his own was giving him all sorts of ideas.
+
+To combat the desire to start testing them at this very instant, he turned to the subject of the Liminal Void. He found he could enter it on both sides of the lair’s barrier without trouble. The difference came down to what he found there, or perhaps where he emerged. Outside, he could feel Ameliah and Tallheart off in the distance by their strength and the lasting, party-transcending bonds they shared. Inside, he could easily locate his three delving companions, their souls bound close by the party links. In both cases, there was no sign of the alternate group.
+
+Either he was entering a separate Liminal Void entirely, or his entry point was moving far more than the single meter he crossed with each passage. The latter sat better with him, based on prior observations of the wacky geometry of the dimension-between-dimensions, but it was really hard to say.
+
+The lair itself seemed to have no manifestation in the smoky nothingness. The fishing-line link to its core merely extended out through his body, like those to the rest of his equipment.
+
+Should the core be shattered while he and his party were inside, they’d be drawn forcibly to the Void to receive the resulting accolades, but there was no sign of the plates now. Bluewash said they’d be formed from the core’s substance after it shattered, which tracked. She also agreed that the same was likely true for core-granted awakenings. Then, she’d blown everyone’s minds by revealing that she could tell what type of accolades a lair would produce.
+
+Reeling with revelation overload, the party eventually set off toward the ruins, though not without stopping occasionally as Rain continued his Void testing, entering at different points relative to the others. In that time, he also paused to collect his newest aura anchor as it finished forming—the spell somehow having survived all those trips through the barrier as well as his laughing fit—then immediately kicked off another one. Mercifully, no more revelations occurred along the way, and they reached the puzzle board without any further incident.
+
+Bluewash waved a hand to reveal the gemlike core nestled inside without needing to slide so much as a single tile.
+
+“Yup, that’s a core, alright,” Rain said in his squeaky voice, having given up on hand code. “You can tell because of the way that it is.”
+
+“That’s all you have to say?” Bluewash asked. “You don’t see anything awe-inspiring or mind-shattering this time?”
+
+Rain shrugged. “Nothing I didn’t expect. It’s made of solid rank-four soul, and it’s interesting that it’s just floating there. Every other core I’ve seen has been bound in some way. Can I pick it up? I should be able to tell more if I touch it.”
+
+“You won’t be able to move it,” Bluewash said. “Cores are always fixed in place, whether they look like they are or not. If you try too hard without the right skill, you’ll just shatter it.”
+
+“I was meaning to ask you about that,” Rain said. “Not the shattering, which obviously we’re not doing, but the moving. Is it possible to move a lair?”
+
+“No. Lairs form at sites where demons escaped the Ordering. When they fled El’s dominion, they left snarls in the fabric of reality. Those snarls are what grow into lairs.”
+
+Rain nodded. “So I’ve heard. I’d hoped you knew some facts behind it. For example, if a lair is cleared, will a new one form on that same spot later?”
+
+“No,” Bluewash said, narrowing her eyes. “When a lair is destroyed, the tapestry is rewoven. That’s why El’s Chosen try to break as many lairs as they can. They see it as their mission to create perfect order.” She slashed a hand through the air. “As if that wouldn’t bring the whole world to a grinding halt. Idiots. El allows lairs for a reason. They’re for us to use.”
+
+Rain made a placating gesture. “I was taught not to discuss religion at the dinner table. That said, I have to ask: When you say a lair won’t respawn, is that doctrine, or is it recorded fact?”
+
+“Fact,” Bluewash said.
+
+Rain nodded. “Not that I don’t believe you, but citation needed. Does Nov’s government keep records?”
+
+“Yes,” Bluewash said. “Before I...got in trouble...I had full access.”
+
+“And you read through all of them?”
+
+“Well...no. Of course not.”
+
+“It goes on the probably-true-but-unproven list, then,” Rain said. “Carten, post a mission on the job board. I’d like to see if we can dig up records of historical lair locations.”
+
+“Why me?” Carten asked.
+
+“Because Tarny’s not here, and I’m trying to be better about delegating,” Rain said, resettling the tank on his back and reaching for the core.
+
+“Gently!” Bluewash hissed.
+
+Rain paused to give her a reassuring nod, then let his fingers brush against the core, bringing it into even sharper focus to his senses. At a guess, it contained the equivalent of about 10 MESS— more than he expected, given its physical size. When you factored in all of the soul around them, lairs clearly held far more essence than an awakened of a similar level. That made sense. A lair could awaken seven individuals and make an accolade on the side. It had him wondering whether essence monsters were the same way.
+
+Releasing the core, which hadn’t shown the slightest shred of awareness, he turned to Bluewash once more. “How much Arcane mana does it need to get back to full?”
+
+“I don’t have the right skill to tell you that, but about a million. It varies from lair to lair.”
+
+“Of course it does,” Rain said.
+
+“Is Ameliah going to take Elemental Refinement?” Sana asked.
+
+Rain shook his head. “No. She’s busy enough. I might, though. I’ve been saving a skill point since Vestvall.”
+
+“You’re saving a skill point?” Bluewash asked in horror.
+
+“Right?” Carten asked.
+
+Rain ignored them both. “Before I decide to spend it, I want to see if there’s another way. We know lairs recover over time naturally, and I can literally see this one drawing in essence from outside. I know it won’t accept untyped mana, but if I give it raw potential, it might be able to refine the particular type of mana it needs. The question is how long it will take.”
+
+“Don’t push anything directly into the core,” Bluewash warned. “It might be three-hundred and forty-seven years old, but compared to a silverplate, it’s a baby.”
+
+“I wasn’t planning to use silver-rank essence, but point taken,” Rain said.
+
+Slipping into his soul, he entered his storage facility, his avatar warping in front of a tank holding rank-four potential.
+
+As general procedure, he kept a thousand units of each rank up to the mid-twenties on hand should it be needed. A thousand units at this rank equated to 16 kESS, which wouldn’t be enough for the core to recover its mana if it did it at the same efficiency as a person. Fortunately, the quantity of essence in the tank was less important than the fact that it was plumbed into his distribution system.
+
+Taking a moment to purge the lines of higher-rank potential, Rain switched over the feed, then returned to his body and began to vent.
+
+Slowly, mind.
+
+More than able to keep up, his refinement stack kicked on, drawing from his vastly larger stockpile of chaos to refill what he was losing. Carefully monitoring the flow of essence around him, Rain smiled as he saw that the potential wasn’t degrading back to chaos as it would have outside. It seemed the lair had no problems with taking its essence prechewed. With no direction from him, the energy began wafting toward the core, gathering around it in a misty cloud only he and Sana across from him—by her awed expression—could see.
+
+“Anything with Mana Sight?” Rain asked without looking away.
+
+“I can’t tell,” Bluewash said. “If it’s regenerating, it’s not fast.”
+
+“It will probably take time,” Rain said, cutting off the flow. He didn’t want to give it more than it could handle. “We’ll watch it for a few minutes, and if we still can’t tell by then, we’ll come back tomorrow and look.“
+
+“We done after that, then?” Carten asked, tapping the spare tank he held. “Really don’t want to have to use this.”
+
+“Almost,” Rain said, scratching his ear as he considered what else they could try. Before he got very far, he froze as a powerful soul jammed itself into his awareness. He turned just in time for his hair to be blown back by the thunderous gale of Velika’s arrival. The former Citizen wasn’t wearing an Ascension coat, but she had the single pip of an Aspirant pinned to the collar of her tan linen shirt along with her specialist’s cross. Both were jarring to see.
+
+He still hadn’t gotten over the fact that she’d asked to join. Or the fact that he’d allowed it.
+
+“You’ve been avoiding me,” Velika said, her voice sounding normal with the air she’d carried from outside. Her tone, though, was utterly frigid, and her scarred, gold-level soul was bubbling with repressed rage.
+
+Rain calmly removed his regulator. “Hello Velika. You look better, and your speed seems to be recovering.”
+
+“I look like shit, and I feel like a wheeled mule,” Velika said. “What’s wrong with your voice? And why is mine starting to sound just like it? Fucking Arcane lairs.”
+
+“Bad air,” Rain said simply, choosing discretion over reminding her that she wasn’t supposed to be in here. There were multiple signs. And guards. And procedure. He gestured with his regulator. “It’s not toxic, but you’ll suffocate without one of these. We can talk outside.”
+
+“Fine, then,” Velika snapped. “Now, though. Not tomorrow or next week or when it’s convenient.”
+
+“After you, then,” Rain said. He glanced aside to see both Carten and Sana trying to hide behind Bluewash, which was going about as well as you’d expect. He held back a sigh. “Good work, everyone. Looks like we’re done for today.”

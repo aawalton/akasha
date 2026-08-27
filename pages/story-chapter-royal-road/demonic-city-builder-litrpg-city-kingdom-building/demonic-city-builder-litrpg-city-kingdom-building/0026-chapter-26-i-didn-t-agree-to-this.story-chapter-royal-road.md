@@ -1,0 +1,285 @@
+---
+id: cd9fa753-d827-5125-ad18-bb4f82c649b7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26 - I Didn’t Agree To This"
+slug: 0026-chapter-26-i-didn-t-agree-to-this
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 26
+ownLength: 2632
+unit: words
+publishedAt: 2026-06-04
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3490483/chapter-26-i-didnt-agree-to-this"
+royalRoadId: "3490483"
+---
+
+"What just happened?"
+
+"Not now, Veron. Please, a minute."
+
+He said something in reply, but Kairon put it out of his mind.
+
+That was exhilarating! And now, instead of multiple scripts, I attained a sigil.
+
+In his mind, the star had melded away. In its place was a small string of characters. A string that fit together snugly like a puzzle. When he tried touching it, a weight descended upon his mind. The sequence came alight, vibrant blue light flashing to life.
+
+Gold -1
+
+Gold -1
+
+Gold -1
+
+Gold -1
+
+No! Stop, stop!
+
+Immediately he looked away, letting the sigil go dormant. Its characters returned to void black.
+
+Okay. For now, no experimenting with the new sigil. Just touching the thing cost him four gold in less than a second. How would he actually use it? And what did it really do?
+
+Questions he would explore later. Right now, notifications were waiting.
+
+Two options this time. Does this mean the third ring has three? Either way...
+
+The city needed growth more than anything. And to do that, they required additional worker imps. More claws to gather timber, stone, and food. A brood district was a must. No question was in Kairon's mind about that.
+
+But the second option...
+
+He pondered what it should be. Already having a wrath district with two open building slots left, another wasn't needed. And forge was out of the question.
+
+Kairon saw three viable choices. A second brood district, void, or pact.
+
+A double brood district strategy could be an interesting path. It would offer him the chance to build more spawning grounds and spark an all-out population boom.
+
+But... My population is already at 27/50. And the one camp is already at capacity. Meaning all new imps would be sleeping in the dirt...
+
+The math just didn't work out. He'd waste too many slots on camps. No. Two brood districts was not an option. What Kairon needed was a way to amplify his new workforce.
+
+Pact and void both have the potential to do that.
+
+Void unlocked ritual circles and focused on research. And if his guess was correct, it would likely use the essences he found. If that leads to ways to unlock and improve new infrastructure and production options... A void district could be incredibly valuable. And the earlier he got that, the sooner he could consider specializing his city or adjusting their future growth strategy.
+
+On the other hand, pact was a wildcard. It unlocked a whispering hall, but seemed to focus on diplomacy, agreements, and intelligence. While the information side interested him, the real draw was pacts. Could he form contracts with other demons or entities?
+
+That has all kinds of potential...
+
+The notification in front of him seemed to be growing impatient. Frankly, Kairon was too.
+
+Mind made up, he made his choices. He needed guaranteed growth. Not a gamble.
+
+The last city project he'd gained was a wall. It had been a one-time deal.
+
+Ashroot. Repeatable and a potential food source! That was very promising.
+
+Around the tower, the new ring's surface was slowly tinted. The void half was purple, and the brood green.
+
+"Well! That's a nice surprise! Three pacts this time!"
+
+"What? Pacts? Kairon?" asked Veron.
+
+"Sorry. A moment more, please. Nearly done here. I'm just deciding on our next ally."
+
+He tried focusing on each option, but no new information surfaced. The city lord only had the trio of titles.
+
+The first choice clearly is inspired by the brood district, while the second is from void. But the third... Maybe a mix of the two?
+
+Shrugging, Kairon thought about what would actually make the biggest difference.
+
+While growth is the goal, my biggest weakness is a lack of knowledge. Particularly when it comes to the demonic plane. So Sythara seems like the obvious decision.
+
+And, from another perspective, a fellow mind seeking knowledge might have less friction than Vorathrex.
+
+A familiar pressure snared his heart in a vice-like grip. This time, he didn't resist as a chunk of something was taken. And, just like last time, he felt less than before. As if a piece of vitality was sliced from his body and swept into the wind.
+
+He made a pained groan, dragging himself against the tower wall and leaning back.
+
+"I hope that gets easier. It was quite... unpleasant." Kairon closed his eyes and inhaled slowly, letting his body acclimate.
+
+And is it just my imagination, or did that chunk feel a good measure larger than last time? The ring did say the power level was two...
+
+The city lord wasn't fond of paying a cost he didn't understand. Especially when it was only going to be larger and larger as his domain grew. What would happen if there wasn't enough of whatever it was the pact took? Would he simply die? Would it fail?
+
+Cracking his eyelids, Kairon peered down, inspecting his frozen webbed foot. It sat uselessly, each scale now a snow white contrast to the rest of his onyx body.
+
+"Tsk, tsk. Such a greedy child," came a new voice. It was silky and smooth, flowing like warm honey. But it had an undercurrent of something hidden beneath.
+
+Veron yelped, gawking at the shrouded figure standing in the middle of the tower.
+
+"Ah! You must be Sythara," said Kairon.
+
+"Indeed."
+
+Midday sun spilled into the tower, but where golden light traced stone, ropes of ethereal darkness intertwined. The newly summoned demoness had tendrils of black billowing out, creating a mess of smoggy shadow around her body. All Kairon could truly discern were two sapphire blue eyes that glinted from within a hood of night, with bits of pale tattooed skin underneath.
+
+It was hard to tell on the ground, but the demon swore he saw scripts moving along her body.
+
+"Just who the hell is she?" hissed Veron.
+
+"Our new ally. I told you this."
+
+In a louder voice, he put on a weathered smile. "Forgive the poor welcome, but getting you here took some doing," sighed Kairon.
+
+"Did it? Creating a pact offering is costly, but that is altogether something different," she said, pointedly looking at his damaged foot. Her gaze traced over the black scales, stopping for a second time when it reached the melted claw on the opposite limb.
+
+She gave a short laugh. "My, my. It's a wonder you've got any appendages left."
+
+The city lord just yawned and held up one arm, also showing her the charred claw that never healed.
+
+Sythara's smirk melded away.
+
+Before she could ask, Kairon spoke up. "For another time. We have much to discuss, and I fear my friend can't take much more of this. Veron, why don't you see to the imps? Perhaps something to eat and a drink may do you good."
+
+"Yeah... I just may do that." With that, he stumbled outside. Watching him go, Kairon frowned.
+
+Since when did Veron's arms have black veins? That was decidedly not how humans should look.
+
+"Oh? Did I scare him away? My apologies," cooed Sythara.
+
+Kairon cocked his head. There was a connection still. One that...
+
+"Unless I'm mistaken, I believe our pact isn't formed," he muttered.
+
+"Ohhh? You caught that, child?"
+
+Unnaturally smooth steps brought the demon within arm's reach of Kairon. She paused, cloaked arms crossing in front of her chest.
+
+Meanwhile, Kairon was flicking through his interface.
+
+There it is.
+
+A blue floating parchment appeared in the air, and judging by the demoness's eyes she saw it too.
+
+The new pactee snorted. "You want to read that? Don't waste your time. It's simply words."
+
+"Words have power, my friend. I read every agreement, from start to end. You'd be surprised what you find in these things. The last demon that came here had some interesting bits, I'll tell you that."
+
+"So you have another of my kind here? A named demon? Hmmm... How peculiar. Well, this pact really isn't much different. You simply agree, and the deal is formed."
+
+The demon ignored the notification.
+
+Instead, he read. Unlike the nearly dozen pages that Vorathrex's pact had, this one was only four.
+
+He'd only read half the first page when his stomach clenched.
+
+It's much, much different. Vorathrex's agreement had specific limitations and a much narrower scope. This... Does this demon truly think I wouldn't read this?
+
+By the time he'd gotten to the third page, he was mentally shaking his head. Kairon wasn't sure if the demon genuinely didn't care what the pact said, or if there was more at play. Judging by what he'd just seen in those last four pages, he was inclined to believe the latter.
+
+After he finished, the city lord studied her.
+
+"All done? Is everything to your satisfaction, child?"
+
+"Sythara..." he began carefully. "Did you make this contract yourself?"
+
+"Why do you ask?"
+
+"Well... I won't lie to you. I can't accept it like this."
+
+"Mmmm. You don't like the pact? It's standard, you know."
+
+"Be that as it may, where I come from we have a term for contracts like this."
+
+The demoness simply stared back at him, eyes patient.
+
+"Senior clerks," began Kairon, settling more comfortably against the wall, "call agreements like this feeding a shadow. You could hold a light up to read it, and the words look innocent. Just a few little pages, nothing to fear. Only, every word you don't see has a shadow behind it. And shadows, Sythara, have a nasty habit of being bigger than the thing that made them."
+
+"You believe I hid such things in our pact?" she asked, voice growing measurably colder.
+
+Kairon snorted. Using his claw, he began flicking through the hovering contract. "Page two. 'The pactee may conduct research at their own discretion.' Lovely. Except discretion isn't defined. That means you decide what counts as research, when you do it, and who sees the results. The city gets nothing unless you feel like it."
+
+He flicked to the next page. "Page three. 'Sustenance shall be provided in adequate measure.' By whose standard, though? Yours? Mine? I could grant you a mountain of meat only for it to be claimed insufficient."
+
+Another flick. "Oh. And this one's my favorite. 'Vacation time is to be given in a relative amount to the natural pactee's lifespan.' What, pray tell, is your lifespan? Because I get the feeling that might just be forever. And there's more. No. This won't do at all."
+
+"Child, you read too closely. Those are clauses every pact holds. You can't truly expect to redo this entire bargain right this very moment..." she trailed off, seeing Kairon furiously scribbling with his hands in the air. The contract, hovering and glowing, vibrated at each touch.
+
+"No, no. That is far too lenient. There we go. Much better. And here. Oh my, oh my. Tricky, tricky, tricky. Let's just fix that up. Ah hah! There we go..."
+
+As he worked, Kairon began humming a tune. One that was slowly making Sythara's astonishment turn into annoyance.
+
+"Gah! Is this how you treat your new partner?"
+
+"Actually, the pact you gave me has you out to be more of an independent contractor of sorts. I mean truly? Serving the domain's interests only as you see fit? My goodness. And you expect me to not only feed you, but pay you gold for this? No, no, no. That is not a partnership. That is robbery."
+
+Clicking his tongue, the clerk swiped his claw through sentence after sentence, before using an instinctive mixture of will and claw writing to adjust the pact to his liking.
+
+"Maybe I will just return to the demonic plane. I don't need to stay if I'm to be treated like some sort of under-dweller!" she spat.
+
+Kairon didn't even bother looking up, putting the final touches on his revision pass. "Yeah. You made a pact offering to a new city in an unknown realm just to pop in and say hello? I don't think so. Something tells me your desire to be here is greater than mine."
+
+"You don't know-" she was cut off as a hovering blue contract was snapped shut and flicked at her.
+
+Pale, elongated fingers grabbed the hovering parchment and raised it level.
+
+She studied it, blue eyes moving left to right. Page to page.
+
+"This is not what I agreed to."
+
+"You haven't agreed to anything yet. That's rather the point."
+
+Her grip tightened on the parchment. Hard enough it would have crumpled were it real. "You've added a mandatory orientation period before I have any real authority with research?"
+
+"How else do I know you're fit to start making decisions?"
+
+"You truly think this fair? Did the one before me have this in their pact as well?"
+
+"Well... The other demon didn't try to hand me a contract with unlimited vacation time."
+
+"And this clause here. 'Essence allocation requisition approval by the city lord.'"
+
+Kairon shrugged. "It seems to me that the resource is too valuable to not have oversight. Other resources I am comfortable leaving supervisors to handle."
+
+The demon had no idea if that was true. It was more of an educated guess in this case.
+
+"Do you even have any? Let alone know what it is?"
+
+"Sign the agreement and we can discuss what resources the city has."
+
+"Child. You are right that I would prefer to stay in this world." She paused, eyes narrowing into slits. "However, even in this, there is a limit. I will not accept this agreement. I have my own goals and research to carry out. And for it, I do require guarantees."
+
+"That is reasonable. What do you need?"
+
+"First, one day in seven I want to be able to spend freely. Call it a vacation day, as you said. Second, I want you to repay me at least fifty essence within one year's time."
+
+One day in seven is far too much time to give out. But, that shouldn't be an issue. As for the essence...
+
+"Why do you want the essence?"
+
+"Does it matter? Do these things, or I will return. I might as well, if I can't find what I seek here."
+
+Kairon rubbed his chin, thinking for a moment. Then he nodded.
+
+"I can agree to this, provided any acts the essence is used for do not harm the city or its residents. I hope, Sythara, that we find a mutually beneficial arrangement. One that can last."
+
+The only reply he got was a flicker of sapphire light from her eyes.
+
+Kairon gave his new demon one final nod, before selecting Yes.
+
+"Splendid! Just one point of clarification. That vacation time?"
+
+"Yes?"
+
+"It only starts once all onboarding is complete. You did read that part, correct?"
+
+"Yes... why, child?"
+
+"We don't have any onboarding procedures yet. As such, you technically can't fulfill that checkbox for your free days."
+
+A look of pure rage filled those eyes, the black clouds around her billowing like a storm.
+
+Kairon held up both claws, looking up at her. "Now, now! You agreed to this. And, mind you, I'm not interested in a one way arrangement. I said I wanted this to be mutually beneficial. So I will ensure you have ample time for your own pursuits. Just know that it might not be one day in seven."
+
+Two cold eyes flashed, but the only reply was a low growl.
+
+"I will remember this, child."
+
+That's what I'm counting on. When facing a predator, one needs to show teeth after all.
+
+He clapped his claws together. "Now, have you ever heard of a Gantt chart?"
+
+"What?"
+
+"No matter. I'll teach you. We have buildings to plan, and I have questions that need answered."
+
+As he pulled up his city interface, one final surprise greeted him.
+
+"Oh my."

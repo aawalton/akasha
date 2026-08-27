@@ -1,0 +1,177 @@
+---
+id: 14a47cfe-1fc5-5f0c-9c8c-471c09c0af5b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23"
+slug: 0023-chapter-23
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 23
+ownLength: 1792
+unit: words
+ownProgress: 1792
+publishedAt: 2023-02-10
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1110743/chapter-23"
+royalRoadId: "1110743"
+markedReadAt: "2026-06-29T20:32:35.609Z"
+---
+
+he red curtains opened and a short fat man in a tight black suit walked out.
+
+"Welcome Everyone!!!! To the Avery Auction House!! Today's auction is about to begin!!!"
+
+The crowd of people drifted over to the podium to get a closer view of the stage. I followed as well. The man spoke up again.
+
+"Today we have a total of 15 items to auction. Like usual we will start from the lowest appraised value and make our way up! Letssss getttt started!!!"
+
+The curtains opened and a woman with long black hair in a red dress came out carrying a dark black dagger.
+
+"Our first item for the day is going to be a plus 35 strength dagger! Let's start the bidding at 3 silverrrrr! Could I get 3 silverrrrr!"
+
+The man started speaking very fast. The starting bid was 3 silver. It's a pretty hefty sun for a normal person, but this crowd was full of high rollers. The fun is just getting started. A few people raised their paddles but there wasn't demand for this starting item. It ended up selling for 5 silver to a short guy covered in tattoos in the back corner of the room. Looks like all the common thugs in Avery District buy high grade gear from this auction.
+
+The next few items were similar. There were two more daggers around the same price. Once we made it higher up the list there were 3 long swords ranging from 30-50 strength boosts. These sold for about 10 silver each. It was mostly hunters and collectors that were bidding at this price range. Anything over 10 silver is a large investment.
+
+A few more items passed. An Iron Shield caught my eye. It had an added 70 defense stat. It sold for 20 silver to a large middle aged man in the front, he was definitely a hunter.
+
+A few more swords and daggers were sold but nothing special caught my eye.
+
+"We have finally made it to our top 5 items of the night ladies and gentlemen!! Coming in at number 5 is...."
+
+The woman walked out carrying a large silver sword.
+
+"A 100 strength buff sword. We'll start the bidding at 15 silverrrrr! Can I get 15 silverrrr!"
+
+The paddles started raising faster now. It seems like all the big shots have been waiting to bid on the good items.
+
+"25 silverrr!!! Can I get 30?? Ayeeee can I get 30 silverrrr??? That's what I like to see! 30 silverrrr!!!"
+
+The paddles slowed down and the long sword was eventually sold for 30 silver.
+
+An identical sword came out for the next item. There were a few groans and chatters in the crowd. I guess duplicates are a bit frowned upon, but people still bid. The 2nd sword sold for 27 silver.
+
+"Allllrlighttt. Coming in at our number 3 spot!!"
+
+The woman walked out with a small leather pouch.
+
+"A D Class Item box!!! Rated for up to 10 large item drops worth of mass! I rare find indeed!! We'll start the bidding at 20 silver!!! Can I get 20 silverrrrrr!!??"
+
+The paddles flew this time.
+
+"That's 25!!! Can I get a- 30!!! 30 going once goin- 35!!! 35 silverrrrr! An active crowd today!! Could I get 40 silver?? Let's see it!!!! 40!!! To the man in blue!! 45 can I get 45??? That's it! 45 silver!"
+
+Eventually the item box was sold for 45 silver to a tall bald man in a dark blue dress shirt and thin framed glasses. He looked like a collector, not a hunter.
+
+"Now coming in at our second slot for the day...."
+
+The woman walked out from behind the red curtain carrying an oversized axe with a curved blade.
+
+"This monstrous axe has a strength buff of 150. It is has a unique curved blade, truly a one of a kind weapon. Let's start the bidding off at 25 silver!!!"
+
+The paddles started flying. My axe was a huge hit for some of the hunters in the front row. The tanks were eying the oversized axe in awe.
+
+"That's it!!! 30!!! No? 35!!! 40!!! 45??? Could I get 50 silver??? Yes! We got 50!! Going once going twice- 55!! 55 silver!! Does anyone want 60?"
+
+The salesman was speaking faster than I could even keep track of. My axe was a hit!
+
+"Could we get a 60??? Anyone?? 60 to the large hunter up front!! 60 silver!! Going once!! Going twice!!! Going three ti- 65!!! 65 silver to the gentleman in black! 70!!! Back to the large hunter!! Can I get 75?? I hear 75 from the gentleman in black!!! Could this be- 80!!! 80 silver from the hunter!!! 80 going once... going twice... going three times... SOLD!! For 80 silver!!!"
+
+The large hunter turned to the man in a black suit and smirked. He clearly overpaid for the axe, but he won it over the collector. It was more a show of dominance than anything.
+
+I was grinning ear to ear. It was the same tank that bought that shield. He must be an experienced hunter, he's dropping a lot of money on gear like it's nothing... Well, it doesn't matter to me. As long as I get paid I'm happy about how this auction went.
+
+"Now!!! The moment you've all been waiting for!! The number one item of the day!!!"
+
+The woman came walking out of the curtains carrying a long silver sword with a thin black line running down the center of it.
+
+"Our number 1 item today is a 200 strength buff sword. It also has a plus 30% MP absorption rate attribute. It is a beautiful sword if I do say so myself."
+
+The crowd started talking to themselves in hushed tones. It was an incredible sword. The salesman was right.
+
+"The starting bid will be 1 gold coin, but for the sake of the auction we'll count in silver to make fractional bidding easier. So the starting bid will be 100 silver!!!"
+
+I've never seen an item like this in person. It's a top tier D Class item, most C class hunters wouldn't complain using an item like this...
+
+It's perfect for hunters with a swordsmanship skill. Every attack absorbs MP from the monsters you're fighting and decreases your MP usage by 30%. That's a fairly good rate, plus it has a 200 strength buff, that's nothing to sneeze at!
+
+"Let's getttt startedddd at 100!!!! Can I get 110?? 110!!! 120..."
+
+The paddles were flying. It was mostly a bidding war between 1 swordsman with a green cloak on in the front row and 3 investors in suits.
+
+I watched as they bid back and forth for a few minutes.
+
+"220!!! Can I get anything higher? 225?? Anyone 225? 225!!! To the swordsman in the front!!"
+
+The investors were slowly dropping out. The swordsman was bidding strong. It seems he didn't care if it was a good deal or not, he just wanted that sword no matter what.
+
+"225 going once, 225 going twice..... three timesssss and it's sold!!! For 225 silver!!!!! Ladies and gentlemen what a day!!! Congratulations to all our buyers and sellers today, I hope you all got what you came for. That's it until next week, I will see you soon!"
+
+The man bowed and walked behind the closing red curtains. The crowd began to clear out and two small lines formed. One by the podium and one by the table where I checked in.
+
+The buyers were paying at the podium and receiving their items.
+
+The sellers were checking in with the event managers and receiving their pay.
+
+I hopped in line and patiently waited.
+
+"Okay, let me see your Hunters License Sir."
+
+I stood in front of an older man with white hair sitting at the table. I handed him my ID.
+
+"Ohhh so the axe was yours? Good item kid."
+
+He started counting out silver coins.
+
+"There's 79 silver for you. Pleasure doing business with you at the Avery District Auction House. Careful on your way out."
+
+I awkwardly stuffed all the silver coins into my small leather pouch. There were a few wandering eyes watching me receive my payment.
+
+"Thanks old man. I'll be back again soon. Pleasure doing business with you too."
+
+I turned and followed the wave of people flowing out the door.
+
+Some stayed in the bar area, others flooded out into the streets. I decided to get out onto the street as well, I'd go straight home from here.
+
+I walked out the front door of the old bar and took a left turn.
+
+I started walking quickly. Ever since I received my silver I couldn't shake the feeling that I was being watched.
+
+I walked for about 3mins at a quick pace. I was about 500m from the bar. I took a back street to avoid crossing paths with any more people.
+
+I took deep breath and let out a sigh of relief.
+
+Seems like I was just being paranoid for no reason. I started to stroll slower in the direction of the village market.
+
+Then I heard something behind me... footsteps...
+
+In front of me too... footsteps....
+
+"Don't move another inch kid."
+
+I froze. All of a sudden there were two men in the narrow street with me.
+
+"Drop the silver and put your hands up. Let me make this painless for ya."
+
+The man in front of me smirked and pulled out a dark black dagger. He was the man that bought the first dagger in the auction, the short man with tattoos all over his arms. There was a dark black snake with red eyes on the back of his right hand, that tattoo stood out to me.
+
+The man behind me didn't speak.
+
+"CLANGGG"
+
+I turned my head to see a taller skinny man with a long silver sword with scratches and dents all over it. He dropped the blade to the ground to get my attention.
+
+"It's our lucky day!! An E Class comes in with an item that sold for 80 silver. A shame you're gonna have to die for it."
+
+The man brought his blade up and pointed it at me.
+
+"I guess there's no point in talking this out with you guys... I'll give you a fight if that's what you really want..."
+
+"......"
+
+"......"
+
+The swordsman gritted his teeth. He looked disgusted by my remark. The shorter man didn't move, just kept his eyes locked on me.
+
+Silence filled the alley.
+
+The smell of desperation filled the air. These guys weren't playing around. They needed this money, and there was only one way for them to get it.
+
+I drew my sword and readied myself for a fight.

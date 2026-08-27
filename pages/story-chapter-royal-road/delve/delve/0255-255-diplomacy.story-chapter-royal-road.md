@@ -1,0 +1,269 @@
+---
+id: 0f6e1867-65c7-5081-9b0a-e53c241b7293
+page-type-slug: story-chapter-royal-road
+title: "255: Diplomacy"
+slug: 0255-255-diplomacy
+partOf: delve
+position: 255
+ownLength: 3940
+unit: words
+publishedAt: 2023-12-24
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1453215/255-diplomacy"
+royalRoadId: "1453215"
+---
+
+Rain left Velocity running as Velika slowed her breakneck sprint through the trees to a jog, then a walk. Rather than dart off in a new direction as she’d done twice previously, this time, she came to a complete stop and turned to face him.
+
+“What the hells is wrong with you?” she asked, crossing her arms.
+
+“Sorry?” Rain asked.
+
+“You know I’m furious with you, and yet, you let me take you out here alone. Halgrave’s gone. Ameliah’s not following us. I could rip your head off, and no one would be able to do anything about it before I was halfway across the continent.”
+
+“Is that something I need to be worried about?” Rain asked, honestly confused. “What’s brought this on?”
+
+Velika sighed, pinching the bridge of her nose. “You’re too trusting.”
+
+“You won’t hurt me.”
+
+“You sure about that?”
+
+“Yes. It’s against your interests, and you’re not crazy. Seriously, we’re past this. You’re not that person anymore.”
+
+Velika’s eyes narrowed, and murderous intent poured off her, the damaged surface of her soul rippling with fury as she laid one hand on the hilt of her best sword. Despite Rain’s improved skill, the heavy, furious power of her gold-level domain was enough. His ability to Read her was abruptly cut off.
+
+From her smirk, she knew it. “And now?” She drew her sword coolly, holding it point-down to the side. “Now are you still fucking sure I’m not going to hurt you?”
+
+“Yes,” Rain repeated. “Are you going to tell me what’s bothering you so I can do something about it?”
+
+“What’s bothering me? What’s BOTHERING ME!?” Velika lashed out with her domain as she’d done in their training sessions. “You’re bothering me, softboy!”
+
+“Softboy?” Rain said indignantly as he batted her testing assault aside. “Now that’s just rude. You know how hard I’ve been working.”
+
+“And now you’re just sitting around!” She slashed with her sword, but it was just a gesture, coming nowhere close to hitting him. The blade of will that fell with it, though, was anything but. It cut deep through his domain, nearly reaching his paling.
+
+Rain took an involuntary step back. Looks like she’s done pulling punches!
+
+“I owe you my life multiple times over!” Velika screamed, slashing again.
+
+Rain urgently flooded his domain with essence, pulling it back together from the first attack as he did his best to deflect the second.
+
+With each sentence, Velika continued her assault. “I offered to help you! To train you! Now that you’re back and stronger than makes any damn sense, what have you done? Have you sought my advice? Asked me to continue your training? No! You’ve been having your little meetings, talking about crop rotations, menu options, and everyone’s feelings!”
+
+Rain hissed through his teeth as he opened the floodgates wider still, forcing essence into his domain. Oversoul wasn’t just a toy for intimidation. It was how the truly powerful fought. How goldplates fought when the system wouldn’t let them otherwise hurt each other. Despite his advantages, he was not a goldplate.
+
+“There’s work to do if you want your little cult to last another season!” Velika snarled, slicing through his flood as easily as a stone through the tide. Quality over quantity. “They had me wrapping wire! How is that a good use of my time?”
+
+The errant thought to strike back with his magic came and was discarded. Even with her lacking traditional defenses, her raging domain meant any spell he cast would just slide off her. Struggling for equilibrium, he used halting words instead. “You must have kept practicing...while I was gone. Filth, you’re strong!” He paused to gasp for air before continuing. “They’ve also....had you scouting, and...exterminating monsters, and...helping Samson with...sword...lessons.”
+
+“Pointless!” Velika screamed, slashing wildly, but in so doing, she overextended herself.
+
+Rain managed to get his spiritual self out of the way that time, speaking quickly while she recovered from her lunge. “No, not pointless! How long would it have taken anyone else to do what you’ve done? By credit earned, you’re near the top of the list. By ground covered, there’s no contest. There can’t be a Bloodhog left anywhere within a hundred kilometers.”
+
+“Like that fucking matters!” Velika said, resuming her assault and slicing his domain apart again despite his efforts. “We don’t need cozy houses, fancy food, and little toy airships! We need accolades! Lairs! More fucking goldplates! Nobody’s going to give us that stuff. We need to take! Don’t just sit there with that power you’ve collected, blunt as a boulder and twice as heavy. Fucking fight!”
+
+“What does it look like I’m doing?” Rain asked, having actually managed to reverse the pressure during her tirade. His attack wasn’t a flurry of slashes like hers. Instead, it was a squeeze, like he’d used against the Incarn.
+
+Velika visibly tightened her jaw, working to hold him at bay. Through the haze of rage and power, Rain began to catch glimpses of her crimson soul’s surface. It was trembling, and not from rage. The twisting network of scars from the Majistraal artifact’s removal stood out like lines of fire.
+
+Shit, her paling’s going to tear!
+
+He loosened his grip.
+
+That was apparently the wrong move.
+
+“DON’T YOU FUCKING LET UP!” Velika screamed. Some of her weakness must have been feigned, such was the mind-bending power of her next slash. The invisible blade of will sliced through his domain like it wasn’t even there, and he swore he heard the screech of metal on metal as it gouged deep into his paling.
+
+“Ah!” Rain dropped to one knee, pouring all his will into holding that horrible blade right where it was.
+
+“Stop! Being! So! Gentle!” Velika grunted the words through her teeth, doing her best to force the attack the rest of the way through. “You hate the Bank? The Empire? Fight them! Strike first! Strike first before they find us and kill us all! If your stupid morals are in the way, cover your eyes and send me!”
+
+Exhausted and having made no headway, Velika let her arms fall. She panted, sheathing her sword in disgust before dropping to her knees as her domain collapsed around her.
+
+Rain took a ragged breath, squeezing his eyes shut. It felt like his paling would split open if he took his hand from his chest.
+
+And just when I got used to having it in one piece.
+
+Both of them remained like that for quite some time. Rain was the first back to his feet, repairs already underway, but Velika staggered up to face him soon after.
+
+Meeting her eyes, Rain nodded. “Okay.”
+
+“Oh, ‘okay’, is it, you absolute freak of nature?” she said, her voice tight. “Could you possibly be more vague? ‘Okay’, what?”
+
+“’Okay’, we’ll send you out on a mission,” Rain said, rubbing his chest. “That really hurt! And why the name-calling?”
+
+“Oh, stop being a baby. You’re fine. You shouldn’t be, and that’s what makes you a freak, freak. And what mission? It better not be flower picking, that’s all I’ll fucking say.”
+
+Rain shook his head. “The one you suggested. You’re not privy to the meetings, but we’ve got plans for the Bank. This is highly classified, but hitting them is absolutely on the table. If you’re up to getting started, there’s no reason not to let you be the one to do it.”
+
+“You’re going to let me attack people?” Velika asked incredulously. “Who are you, and what have you done with Little Mouse?”
+
+“Steal from people,” Rain corrected, feeling the tension lessen at her use of Carten’s nickname for him. That name hadn’t been seeing much circulation recently, so she’d probably picked it up when she and the bearded Defender had been together what felt like a dozen lifetimes ago.
+
+Velika spat. “Still soft, but more than I’d hoped for from you.”
+
+“It’s not stealing if they stole it first,” Rain said. He finally took his hand away from his chest, the repairs almost complete, and raised it to scratch at his beard instead. “They’ve been ripping off the whole world for who knows how long, and there’s no authority out there willing or able to take them to task for it. We certainly can’t, not as we are, but we can make a start of it.”
+
+“Uh huh,” Velika said.
+
+“You’re friends with Niriri, right? The Bank spy we turned? She gave us a whole list of branches and who runs them. We’ll pick a small one under Lord Jien, the head of Lightcore. He’s the worst of the lot from what I’ve heard, and I’ve got a personal bone to pick with him, besides. You zip in, take everything you can carry, and zip out before their Enforcers can react. If you don’t think you’ll be fast enough without your accolades, I’ll give you a Velocity anchor to fill the gap.” He rubbed his hands together. “They won’t know what hit them!”
+
+“I—“
+
+“We’ll get you a disguise, just in case,” Rain said, beginning to pace as he worked through the plan. “We’re not ready for open war. Oh, most Bank employees aren’t whole-ass assholes, just the ones at the top, so no killing. Did you know they drive their new members into debt on purpose?” He stopped and turned to face her, his expression grave with determination. “Their families, too. While you’re not-smashing and just-grabbing, maybe you’ll be able to find records or something related to that. Seems like an easy way to find some more recruits.”
+
+“We don’t need more recruits,” Velika said. “We need better recruits.”
+
+“We can work out the details,” Rain said dismissively, waving a hand. “Obviously, I can’t just decide something like this on my own.” He turned for camp, then paused and looked over his shoulder. “Well? Are you coming, Specialist? We’ve got a High Council to talk to.”
+
+“Oh, joy,” Velika deadpanned. “I love democracy.”
+
+“You didn’t say that right. Your inflection was all wrong. You’re supposed to— Hold on.”
+
+Velika snorted. “To what?”
+
+Rain held up a hand, closing his eyes and looking inward.
+
+“What the hells is it now?”
+
+Rain shook his head, all levity gone. “She’s waking up.”
+
+Vatreece’s eyes shot open, and she bolted upright, unfamiliar covers falling away as she found herself in...not her room. Patchy memory came rushing back.
+
+This wasn’t Vigilance at all, not any place at all in El’s Garden.
+
+Shit. I’m a copy. I’m a copy, and this is the Custodian’s soul, however the hells that’s possible.
+
+Her aged heart beating a brisk tempo in her chest, not having gotten the memo that she was dead, she took inventory.
+
+Firstly, she was thinking, which meant her artificial mind was intact. That was a good start. None of her mental enhancements were working, which was less good on the whole. Her body felt...like a body. She reached for the system and got nothing, not even a flicker of response.
+
+Damnation! Although, if it could get to me, it would have erased me by now, so there’s that.
+
+Clicking her tongue, she turned her focus to her environment. The bed she was in was sinfully soft, which should have had her back screaming at her, yet did not. Light came in dimly through a curtained window, the smell of the sea and the distant crash of waves telling her there was no glass. The walls were painted a pleasing blue, and the floor was carpeted from wall to wall in creamy white. Across from the window, there was a closed door, and at her bedside was a small table bearing a strange, fabric-hooded vase.
+
+There was also a folded piece of blue paper. A note.
+
+Grumbling, Vatreece reached for it, only for another wave of disorientation to hit her. She diverted her fingers as if by instinct to the lamp, which came alive with the barest brush, shining with the steady glow of electric light.
+
+Perhaps her mind was not as intact as she thought.
+
+As a construct, she’d started with barely a thread of her own history beyond recent events, just enough to ground her persona, but even that was tangled up in the weight of the raw knowledge she’d been left with. Instead of neatly organized memories sorted by date, origin, and purpose, she had a jumbled mess. It was as if someone had upended what passed for her mind and given it a good shake.
+
+Grumbling all the harder, she swung her legs over the edge of the bed and snatched up the note.
+
+Warden Vatreece,
+
+Welcome back. I thought to handle things this way to give you some time to adjust to your situation. I don’t know how much you remember, so I’ll spell it out as plainly as I can.
+
+You are a mental construct of your original’s creation. You were left in my mind to test me and to ensure that the dangerous knowledge I hold is protected. I passed your test; I hope you agree. I likewise hope that you’ll forgive my crackpot plan to stabilize your construct, given that it clearly worked. You’re reading this, aren’t you?
+
+Getting back to the subject of you, your essence body is based on my own avatar, Dozer, and the avatar of Ameliah’s soul guide. Your mental construct is taking the place of the echo, which itself stands in for the mind, kinda. I think. Hopefully, you understand what I’m talking about because I sure don’t.
+
+It’s been eleven days since you helped me anchor you. I think you took so long to wake up because your construct had to assimilate the body first. I’m fuzzy on the mechanics of essence ownership, but I can tell the stuff you’re made of isn’t mine anymore.
+
+Anyway, I don’t know how you’ll be feeling, so I’ll leave the theorizing there. There are some pills for headaches in the drawer, though whether the meaning they’re charged with will work on you is a question.
+
+This guest house and everything in it are yours. Feel free to explore. When you’re ready to talk, just say so.
+
+-Rain
+
+Vatreece harrumphed as she tossed the scrap of paper aside. She almost called for the Custodian then and there, never having been one to abide time-wasters, but something stopped her. The offer to take her time adjusting to her new situation had a certain appeal, damn him.
+
+She sighed, getting to her feet and noting the lack of pain from her joints. Even inside her own soul, she hadn’t felt this spry in years.
+
+It made a certain sense, considering she no longer had an anchor of decaying meat and crumbling bone dragging her down.
+
+Shaking her head that this turned out to be the path to immortality, she looked up at the ceiling. “I’m up, I’m fine, and you’re right, I do need time. Now piss off and let me stew.”
+
+Giving it even odds that the trusting fool would actually give her the privacy she’d asked for, Vatreece looked down again at her form.
+
+Outwardly, her body appeared exactly as it would have within her own soulscape, from her wrinkled skin to her steel gray hair to the cotton dressing gown she wore. A quick peek beneath the fabric confirmed that everything was in its proper place, such as it was. She highly doubted the Custodian would have seen to that.
+
+Therefore, he was right; her unconscious mind had assimilated this construct and shaped it according to her self-image.
+
+“Hmph.”
+
+Vatreece ran her hands through her hair, flat from her long repose, calling on her will to fluff it up more than fingers alone could manage. It was with some satisfaction that she felt the substance of her body respond, if sluggishly. It felt like running a league on an empty stomach.
+
+She had less success altering her clothing. The fabric was still under her ownership but was less ‘her’, making it unreasonably heavy with the current state of her will. When she tried anyway, exhaustion overtook her quickly, and she was forced to stop. The problem was quick to diagnose as she recovered.
+
+She was low on potential, detectable as a hollow feeling not unlike hunger. Trying, she found she couldn’t break down the invested soul around her for more, nor affect it in any way save those the Custodian’s rules allowed—as in, physically.
+
+If she wanted the bed made, she’d have to do it by hand.
+
+That wasn’t happening.
+
+“Some free potential would be nice,” she said to the air. “And some different clothes. If only there were a dresser in this room. Or a closet.”
+
+Nothing at all happened. He really had left her alone.
+
+Dumbass. I’ll have to slap him for that when he shows up.
+
+Walking to the window, she threw open the curtains to look out at the rolling waves. Poking her head through, she looked down to see that she was on the second story, the house painted a pale yellow to match the sandy island it sat on. Palm trees waved in the wind, and sea birds soared in the distance. Those were new.
+
+Dumbass has gotten better.
+
+The water had changed too, no longer glowing with the shimmer of uninvested potential. She was happy to see that the Custodian had moved beyond the primitive technique of just letting it pool wherever, but she was annoyed in light of her hunger.
+
+Turning from the window, she tried the door, finding it opened to a carpeted hallway with several other doors. At the far end was a landing with stairs leading down, fenced by a sturdy-looking railing.
+
+Deciding to finish with this floor first, she checked the other rooms, finding all unfurnished save one, a bathroom. The plumbing was modern. ‘Modern’ apparently meant a sink with running hot and cold water, a full bath with a shower, and a toilet with a working flush. She was reasonably sure she’d never need any of it, but she appreciated the forethought all the same. This was uncharted territory.
+
+After briefly inspecting herself in the bathroom mirror, she left the second floor, descending the stairs into a fully furnished living room. Ignoring the sofas and the unapologetically enormous flatscreen television that fully consumed one of the walls, she moved into the hall. There, she saw the front door. There was a note pinned to it, but rather than venturing over to see what else the Custodian had to say to her, she let her feet carry her across the hall to the kitchen. She had a suspicion, which was confirmed as she opened the door to the refrigerator. There, in addition to chilled food, was a quartet of tall, perfectly cylindrical bottles glowing in various radioactive shades of blue.
+
+Potential.
+
+The metal caps, cylindrical and bulky to match the profile of the bottles, were etched with the numbers one, ten, twenty, and twenty-nine. If that hadn’t been clear enough on its own, the intensity of the glow settled it.
+
+The liquid in the rank-one bottle might as well have been water. That in the rank-twenty bottle glowed strongly enough to bathe the entire kitchen in its light. The rank-twenty-nine bottle, by contrast, was dimmer, but the liquid was no longer clear but thick and shiny, like melted silver-blue metal.
+
+“Hmm,” Vatreece said, extracting the rank twenty-nine bottle and letting the insulated door thud closed. Rain being Rain, he wouldn’t have left her something dangerous without a gigantic blinking warning sign on it. Her body was thus either rank twenty-nine or rank thirty.
+
+Unscrewing the cap, she tossed it aside and took a tentative sniff. The contents smelled of nothing, so she instead tried drawing on them as she would have in her own soul, but there was no response.
+
+Frowning, she poured some into her hand and tried again. This time, she got something. Tingles and jolts of electricity shot up her arm as the liquid seeped slowly through her skin.
+
+With no further hesitation, she upended the bottle and took a large gulp, the oily liquid crackling with energy as it slithered down her throat. As it reached her stomach, hunger fled before its near-overwhelming warmth. Rather than taking another swallow, she lowered the bottle and set it on the counter, licking her gums and releasing a burp that fizzed with lightning more than carbonation.
+
+“Tastes fine. Zero points for texture.”
+
+Closing her eyes, she focused on the molten heat in her stomach, willing the power out into her flesh. As the potential circulated, it was like she came alive, her own awareness expanding and confirming her body was only rank twenty-nine. A quick attempt to invoke the rank-thirty pattern failed, but she found she could easily split the potential she’d ingested down to lower ranks and convert it back up again.
+
+Guess I didn’t give him enough credit. Not so trusting, after all.
+
+As an essence construct, her artificial will would let her manipulate essence of her own level, but without a real mind, she could refine it no further. Her body had been made rank twenty-nine deliberately. It made the environment immutable to her.
+
+A cozy prison, then. But where’s the boundary?
+
+Paradoxically less upset than before, the Warden used the crackling power within her to effect the change she desired. Her bedclothes morphed away as she finished claiming them, transforming them into a cotton doublet and pants. To that, she added a black vest, heavy boots, and a platinum chain around her neck to hold the plate of her station. She’d rarely worn it in life, but it felt appropriate now.
+
+By the time she finished, she was panting.
+
+That was annoying.
+
+The leftover potential settled in her stomach like hot soup, but the energy it promised felt distant and unreachable. There were limits to an artificial will, and as she’d feared, she’d found them. Even should she somehow advance her construct to rank thirty, there would be no consuming the Custodian’s soul from the inside like a worm burrowing through an apple.
+
+Not that I’d do him dirty like that.
+
+Shaking her head, sure she’d never even heard the expression she’d just used, Vatreece looked up at the ceiling. “Okay, then, Custodian. Let’s talk.”
+
+The silence stretched.
+
+Muttering to herself, Vatreece returned to the living room, then walked to the front door, where she snatched up the note she’d seen before. “Beware the guardian?” she read, arching an eyebrow. Rolling her eyes, she turned the knob and pulled to reveal a wooden set of stairs descending to the sand and...
+
+And a transparent slime fully the size of the house.
+
+A low, vibrating growl tore through the air, strong enough to make the granules of sand dusting the steps jump and dance.
+
+With a click of her tongue, Vatreece stepped out and closed the door behind her. Descending to the sand, she planted her hands on her hips. “Yes, yes, you’re very cross. Grannybrain is sorry. Now go on. Clear off.”
+
+The slime didn’t budge, the growling sound only becoming louder as its membrane vibrated with fury. The sand rose around it, forming a miniature dust storm and proving that it was rank-thirty. The noise was punctuated with a bark.
+
+The overgrown gooball was pretending to be a dog. Because of course he was.
+
+“I don’t suppose you’re paying attention, Custodian?” Vatreece asked hopefully.
+
+There was no response over the growling.
+
+Vatreece sighed and bent to dust the bottom step before taking a seat. “Slime diplomacy, is it? Alright, you ridiculous thing, let’s make nice. Can you talk, or will we be here all day?”

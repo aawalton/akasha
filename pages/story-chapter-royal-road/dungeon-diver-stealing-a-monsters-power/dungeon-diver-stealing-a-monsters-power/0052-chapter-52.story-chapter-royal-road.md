@@ -1,0 +1,169 @@
+---
+id: 59c499b9-e6fa-5a98-98d5-c244eac13d36
+page-type-slug: story-chapter-royal-road
+title: "Chapter 52"
+slug: 0052-chapter-52
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 52
+ownLength: 1718
+unit: words
+ownProgress: 1718
+publishedAt: 2023-03-10
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1134294/chapter-52"
+royalRoadId: "1134294"
+markedReadAt: "2026-06-29T20:33:36.141Z"
+---
+
+The Shaman looked me up and down with bloodshot eyes. There's a peculiar magic aura surrounding it.
+
+I stared it down as well with my sword pointed straight ahead. I'm sure I could defeat this monster in seconds if I went all out, but I want to see what it can do. I've only read about shamans in comics, this is the first one I've actually seen out in a dungeon.
+
+The monster raised its staff and let out a grunt. Its leather pouch opened up and an assortment of silver orbs came flying out.
+
+They were all moving in a circle around the monster, I couldn't quite make out what they were. If I had to guess, they looked like small balls of metal, rocks, or maybe crystals. Again, I've never seen anything like this.
+
+The shaman hissed and pointed its staff right at me. Two of the floating orbs moved out of formation and came rocketing my way.
+
+"CLANNGGGG"
+
+I blocked them with my sword without much of a problem. The objects were quick, the two that hit my sword were circular metal balls. If I was closer to this shaman's level these orbs would be deadly. I could feel the power behind each of its attacks, its very strong for a level 124.
+
+The monster stared at me while backing up and raised its staff again. Four of the orbs came hurdling towards me.
+
+"CLANGGGGG"
+
+I easy blocked all of the projectiles again. The shaman shrieked and turned.
+
+"Oh, you're not getting away that easy!"
+
+It was running away from me. What a joke. Some monster this is...
+
+I ignited my sword into flames and followed it into the small cluster of trees.
+
+"THUDDD"
+
+"AGHHH what th-"
+
+As I followed the monster I was struck in the center of my back with one of those metal orbs. It didn't do any serious damage, but it definitely didn't feel good.
+
+I turned to see half a dozen orbs floating behind me while I chased the shaman into the woods. It's a crafty little monster. It knows it can't beat me straight on, so it's going to do what it can to survive.
+
+I fought off most of the metal orbs, but they kept coming back no matter how many times I hit them. My back is getting bruised up. I wonder what kind of magic this shaman is using...? Whatever it is, this would be a good skill to have.
+
+I could see the monster right in front of me less than 10m away but it keeps diving behind trees and scurrying around while I defend myself from its floating orbs.
+
+I'm getting a bit frustrated. It keeps twisting and turning through this small patch of forest because it knows the layout like the back of its hand. Unlike me, this is the first time I've seen any of this scenery. The monster is hissing and making sound similar to laughter. I think it's enjoying this... I can see the end of the tree patch in sight, it looks like the shaman is heading out soon. Finally, a fight in a wide open field will be much easier for me.
+
+As we neared the edge of the trees I came within 3m of the slimy little creature. I was seconds away from slicing it to pieces. Then, I felt my footing give out.
+
+My vision went blurry and I felt weightless for a moment...
+
+"THUDDDD"
+
+I hit the ground moments later and heard faint footsteps and hissing moving away from me.
+
+It's dark in here... did I really fall for the oldest trick in the book... This Shaman lead me straight into a pitfall and I fell for it. There are a few large wooden spikes at the bottom, but they were poorly constructed. I broke most of them with the impact of my fall, I'm bleeding a little but it's nothing serious.
+
+I looked up to see the bright blue sky, and proceeded to use the wooden spikes to climb out of the trap like a make shift ladder.
+
+"No more playing around... come on out!"
+
+I used my enemy detection and located it 100m ahead of me. This coward really put me in a hole and made a run for it.
+
+I sprinted out of the trees with my blade on fire and a smirk across my face.
+
+It's wide open in the field and running quickly even deeper into the dungeon. I followed the monster in a straight line closing the distance as fast as I could.
+
+Its metal orbs were no where in sight, I could focus on running at full speed. Less than 30 seconds later we were face to face again.
+
+The monster hissed and summoned its orbs from the pouch. Without hesitation I went in for a strike, I'm not letting this opportunity pass again.
+
+I swung my fiery blade at the shaman's neck while being pelted by its orbs. I could feel a few make contact breaking a few of my ribs, but I had my eye on the prize.
+
+"Shinggggggg"
+
+"THUDDD"
+
+I sliced through the shamans neck like butter and the battle was over just like that. I looked down to see my favorite floating blue letters.
+
+[Use Absorption]
+
+Skill: Telekinesis
+
+[YES][NO]
+
+With a grin I chose [YES] and used self regeneration to heal my minor injuries.
+
+The body of the shaman started to disappear pretty quickly and to my surprise it didn't only drop mana. There was a small silver key next to the crystal on the ground.
+
+I picked the loot up and examined the key for a moment before throwing them both in my item storage.
+
+I guess I'll have to ask around, I've never seen anything like this for an item drop before... I think I've had enough fun here, its about time I head back. Somebody is bound to beat the boss soon anyways.
+
+I headed back towards the dungeon start point, but sure enough a team beat the boss before I could make it back. I came just in time, 10 more minutes and I would have missed my chance to find that shaman.
+
+A white light appeared, It felt odd not being in a boss room and seeing this light. Everyone in the dungeon was transported back into that small room at the top of the escalator. It was very crowded, there were easily 40 people crammed into this tight space.
+
+They all seemed to be beginner D Class hunters and some E Class that managed to get in before they closed off the platform. I didn't talk to anyone, I just minded my own business and tried to sift through the crowd towards the escalator.
+
+"Hey! It's Jay right?"
+
+I turned my head. Who knows my name in this city?
+
+"H-Hi Uhh... who are you?"
+
+Standing in front of me was a short red haired girl with a black combat suit on similar to the ones I saw at the Hunters Association, but definitely not exactly same.
+
+She smiled and reached out her hand.
+
+"The name's Nessa. I Saw you taking with my captain Hundson yesterday. Nice to formally meet you!"
+
+"I- uhh. Really? I just saw him this morning."
+
+"Yeah it's my day off. Hundson trains a lot of us D Class at the Tara Guild. I'm pretty new to the city, they let me join the day I asked!"
+
+I took a closer look at Nessa. She was on the shorter side, maybe 160cm. Bright orange/red hair, and bright blue eyes with light freckles on her cheeks. If I had to guess she was no more than 19 years old. A D Class and new to the city huh? She must be a pretty good fighter... and have some kind of unique or useful combat skill.
+
+I boarded the escalator and continued the small talk as she followed.
+
+"What are you doing at an E Class break?"
+
+She smiled.
+
+"Well, its my first time hearing about one of these so called surges. I wanted to see what they were all about for myself."
+
+I nodded.
+
+"Yup, me too."
+
+"Disappointing huh?"
+
+"Uhh, I guess. It was interesting."
+
+It was actually not disappointing at all, it couldn't have gone any better for me. I decided not to say anything about the rare monster I faced though. It's just becoming a habit to keep my experiences to myself.. There's no point in keeping secrets, it's just more simple if I do.
+
+"Well, I'm going out on a raid with my team tomorrow to the Minotaur dungeon again. Maybe I'll see you there?"
+
+"Hmm, maybe. I'll be farming there tomorrow as well, but I really only hunt solo."
+
+She pouted a bit, but I don't think she was actually upset. I can't help but to stare a bit, she's such a pretty girl. It's literally been one day since the last girl I trusted tried to kill me... Am I really going to fall for these charms again?
+
+The train came and we rode it back to the main hub. When we walked upstairs there seemed to be a big commotion going on by the D Class escalator. There was a guard speaking up.
+
+"Only parties of 3 and above or C Class hunters are allowed down to the D Class Dungeon platform for the next hour. There's been a large break in the Kobold dungeon, this is for your own safety!"
+
+Looks like there's another large break. Think I'll pack it in for today though, I've had a good day of hunting. I turned to Nessa.
+
+"I'm done for the day. It was a pleasure meeting you, maybe I'll see you out hunting again one of these days."
+
+She smiled at me.
+
+"Like I said before, I'm in the morning slot tomorrow. The whole team will be here right when the sun comes up."
+
+I waved as I turned to leave.
+
+"Alright. Maybe I'll see ya."
+
+I'm just trying to be polite, I hope I didn't come off as rude. Yes, I wouldn't mind seeing her again but meeting a whole new team of hunters isn't on my immediate to do list.
+
+I walked off into the city as the sun set heading towards the market to sell my loot.

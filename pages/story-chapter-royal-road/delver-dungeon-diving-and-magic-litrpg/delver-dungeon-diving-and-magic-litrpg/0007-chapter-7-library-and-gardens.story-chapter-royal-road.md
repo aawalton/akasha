@@ -1,0 +1,157 @@
+---
+id: ae206944-ca46-56b7-b1e6-9c31d4a59a42
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7: Library And Gardens"
+slug: 0007-chapter-7-library-and-gardens
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 7
+ownLength: 2319
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3445540/chapter-7-library-and-gardens"
+royalRoadId: "3445540"
+---
+
+The great hall has an eerie silence to it as we walk, our footsteps being the only sound in the empty area. We continue to walk by crumbled pillars, making me worry about the structural integrity of the hall. Thankfully, the ceiling hasn’t come down yet.
+
+A bat flying overhead actually makes me feel relieved, the silence of the space is getting on my nerves, making me jump at shadows. Keve seems to be doing slightly better, but I can tell that the vast openness bothers him as well.
+
+Shar talks, breaking the silence, asking Keve questions. He responds in short sentences, but doesn’t seem to mind the conversation. I suspect that he’s quiet because of his trouble with the language more than anything else.
+
+Eventually we make it to a door that Shar says is an exit. I quickly step through it, ushering Keve through. I close the door with a sigh of relief, happy to be out of the cavernous area.
+
+I turn to look at where we’ve entered, and my breath catches as I take in the sight before me. Hundreds of books line the shelves of a library. Creatures I can only describe as bright blue jellyfish float through the air, glowing with a soft light and revealing what must be hundreds of texts.
+
+I keep very still, observing the jellyfish as they seem to just float there. One of them floats toward us and I put my hand on my sword. Keve places his hand on mine, preventing me from drawing my weapon.
+
+I look over to him and he shakes his head. “They are kind creatures.”
+
+True to his word, the jellyfish just floats past us, bumping against the door and continuing on its way.
+
+Keve removes his hand, and I let go of my sword’s hilt. I step forward, towards the shelves, shining my light on the books. Some of them were treated more kindly by time than others, likely because of the enchantments on them.
+
+The jellyfish avoid us as we walk through the shelves. I can’t keep my excitement hidden as I study the treasure trove. I don’t think there’s a single intact library with this much knowledge in any stronghold. Just this room alone would make this delve highly profitable.
+
+I don’t want to delay our journey back up to my camp, but all of me wants to spend just a little time in these shelves. “Shar, how far are we from the surface?” I ask, my eyes stopping on a section dedicated to the flora and fauna of the lands. I can’t read most of the titles, either due to their age, or due to the language being unknown to me.
+
+Shar hops off of my shoulder, flying over to one of the shelves. “The stairs to the next level are close. It’s just one more level after that before we reach the tunnel to the surface.”
+
+I pick out a book with a faded title that looks like I can read it. Distractedly, I say. “Scout out the rest of the library for us. I want to know if anything is in here that shouldn’t be.” After a moment, I look up from the book and add, “if you don’t mind.”
+
+Shar’s eyes shine with something I can’t define as she nods her beak. “Of course, Leo.” She flies up over the jellyfish, deftly dodging their slow tentacles as she looks ahead.
+
+I open the book, happy to discover I can read it. On the very first page is the image of one of the ancient dragons. “Keve, don’t use any fire in here.” I tell him as I slowly flip through the pages detailing ancient monsters and powerful beings. “If we do see any monsters, try to draw them into the other room.”
+
+I carefully close the old book, tucking it under my arm as I look over the shelves. The next book I pull out is in a language similar to the one I speak, but is in a dialect I can’t decipher. I put it back, moving onto the next one.
+
+Keve laughs slightly, mumbling so I can barely hear him. “Now you talk like a leader.” he doesn’t say it with any ill intent, so I don’t respond as I continue to search the shelves.
+
+In the end, I know I can’t take too many books from here in my backpack. But I do grab the first book I looked at, a book on the Oathsworn as a gift for the monks at the temple in Onder and a guide to the local plantlife.
+
+I carefully wrap the books in cloth before placing them in my backpack. The enchantments that kept them in good condition are still active, but it doesn’t hurt to add the extra protection.
+
+I then mark down the location of the library in my map, designating it as one of the first places to clear when I return for the next delve.
+
+Shar returns as I finish with my map, landing on my pack. “Nothing too large is in the library. I did see some tunnels leading into another room, but nothing living was in them.”
+
+I nod, strapping my pack back on. “Let’s keep going. These books have stayed safe for hundreds of years. I doubt anything is going to bother them before we can come back.” I take one last glance at the shelf I’d spent most of my time at, my eyes staying on the jellyfish. “Keve, you’ve seen these creatures before?” I ask as I move forward through the shelves.
+
+Keve nods, following two steps behind me. “They will not harm you unless you harm them. If you see them turn red, run.”
+
+“Good to know.” I say as we reach the next door. I open it to reveal a hallway leading to a staircase. The smell of mildew hits me almost immediately as I step through. I wrinkle my nose, while Keve immediately raises his cloth over his mouth and nose.
+
+The floor is damp, the water stopping right at the door to the library, strangely avoiding the entryway. There must be some kind of enchantment or runic script that I missed on the entrance.
+
+Shar immediately takes off to scout ahead for us.
+
+Our steps cause small splashes as we walk towards the stairway. I pull my gloves off of the clip at my waist, pulling them on tight as a chill breeze blows down from above.
+
+Algae and moss cover the steps and railing of the stairway, so I keep my hands off the railing and step carefully.
+
+We reach the top of the stairs, reaching a door. I put my hand on the knob when Shar shoots out of a shadow in the upper corner flipping over and barreling into me.
+
+I almost slip on the wet stone as I catch her, Keve’s hand on my back steadying me enough to prevent me from falling.
+
+Metal feathers are missing on her left wing, slowly growing back. “I hate plants!” She says as she shifts into her humanoid form in my arms. The missing feathers turn into a scar along the metal of her arm.
+
+“Are you alright?” I ask worriedly, setting her down to examine the gash in her arm.
+
+“I’ll be fine.” She responds with a frown, focusing mana into the damaged area. Her metal-skin reforms at a speed visible to the eye. “That angel-damned thorny vine came out of nowhere.” She shakes her arm slightly. “Some of the plants have escaped the gardens. This one must’ve thought I was a tasty snack.”
+
+I share a glance with Keve. “Are we safe to go through the door?”
+
+Shar nods. “Have your weapons ready and don’t trust the vines. Also, don’t hit the lizards, they won’t bother you if you don’t bother them.”
+
+“The lizards?” I ask.
+
+“You’ll know them when you see them.” Shar answers.
+
+I draw my sword and Keve does the same. Shar climbs onto my pack, holding onto it in her humanoid form. She’s surprisingly light, so I don’t mind.
+
+I open the door quickly, revealing a hallway with leafy vines covering the walls. Two Lizards, as long as I am tall, sit on top of the vines on either side of the wall, chewing the greenery. The lizards are see-through except for their organs, the chewed up pulp of the vine visible as it travels through their bodies. The lizards have no eyes, instead just having smooth skin where their eyes should be.
+
+The hallway is completely dark except for my light-stone, so I hold it tightly in my offhand.
+
+We step through the doorway, our footsteps creating small ripples in the thin layer of water that covers the ground.
+
+I keep a wary eye on the vines on the ceiling as we make slow progress.
+
+“Most of the vines don’t move, but the ones that do look almost exactly the same.” Shar says from her position on my back.
+
+“Where were you attacked by the vine?” I ask, keeping my eyes peeled and paying close attention to my danger sense.
+
+“Right where the hallway turns up there.” Shar points, her small hand entering my vision
+
+I pay extra attention as we reach the turn in the hallway.
+
+My danger sense goes off and a vine whips down from the ceiling. My sword cuts through it with ease, having prepared for the attack.
+
+The sound of a sword cutting through another vine makes me spin around to see that Keve had cut another vine that was aiming for me.
+
+Everyone stands still as we wait for more attacks, but when nothing happens, we’re forced to continue walking.
+
+Every once in a while, we’ll see a lizard or two feasting on vines along the wall. They just ignore us, barely even moving as we pass them by.
+
+A vine suddenly grabs one of the human-sized lizards, pulling it along and into a flower that clamps down around it. The lizard struggles for a few seconds in the flower, before going still.
+
+I shiver at the sight.
+
+That’s it. I’m setting fire to this whole hallway. I don’t care if there isn’t any ventilation, flesh eating flowers are too much for me.
+
+I consider chopping the flower off, but considering that I don’t know if that will even kill the plant, I decide against it. I don’t want all of the thing’s vines actually gunning for us cause I angered the damn thing.
+
+We continue past it, chopping down a few more vines that decide to try their luck against us.
+
+We pass the room that must’ve been the original garden, the largest flower yet resting right beside the door to the room. It must be at least three times as large as I am, big enough to swallow two of the spider creatures whole.
+
+We carefully pass it, our tension running high. It’s right as we’re a few feet past it when my danger sense goes off like bells in my head. “Incoming!” I yell as vines from all around us come flying at us.
+
+I hide my presence using my skill and drop to the floor. Every vine that was aiming for me misses me, having lost where I am.
+
+Keve’s tattoos glow red as he moves with inhuman speed, his swords lighting up with fire. His swords cut through the vines, flames extending past his swords to keep them at bay.
+
+I stand back up, slowly moving towards the flower that seems to be the center of the vines. Keve moves using all of his abilities to keep the thorn covered vines at bay, but I don’t imagine he can keep that kind of pace up for long.
+
+I avoid every vine as I reach the huge flower. I raise my sword above the stem of the flower and chop down, pushing my mana through it to activate the enchantments that flow through it.
+
+The strike hits true, slicing through the stem of the flower with barely any resistance. The vines halt as the large flower slowly falls to the floor.
+
+Every vine goes limp at once, hitting the floor.
+
+Keve breathes deeply from where he stands, his swords lit with fire and his tattoos glowing brightly. “That was scary.” He says after a moment.
+
+“Yep.” I respond, wiping water and moss off of me from when I’d dropped to the wet ground. “I hate this hallway.”
+
+Shar steps out of the shadows, moving over to me and climbing back up onto my pack. She must’ve entered the shadows when I dropped to the floor. “I’m sorry, I didn’t think it would be so dangerous in here.”
+
+“Let’s get out of here as soon as possible.” I say, stepping past the dead vines. “And thank the angels that killing the flower killed the vines.”
+
+As we move forward, I start to hide my presence and cut down every flower we come across, killing the vines with it. A helpful little notification tells me that my efforts weren’t going unnoticed.
+
+That puts me at level 28. Just two more levels before my next ability should be given to me. Shar also tells me that she’s one level away from level 15.
+
+Eventually, the plant life starts to lessen and the dampness in the air starts to dissipate. We reach a familiar crossroads, one that led me to my first encounter with a monster on this delve. After a little more walking, we make it to the stairs to the first level and the guardroom I had looted when I first got here.
+
+I go back in, grabbing some enchanted arrows and a few firewands I’d left here on my first check of the room. Keve also grabs himself a dagger.
+
+With a few more artifacts in our possession we make our way back to the surface.

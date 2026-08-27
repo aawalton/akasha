@@ -1,0 +1,249 @@
+---
+id: 9873f246-5986-52a1-8602-81ecc490d9c5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17: My Precious"
+slug: 0017-chapter-17-my-precious
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 17
+ownLength: 2556
+unit: words
+publishedAt: 2026-06-04
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3493373/chapter-17-my-precious"
+royalRoadId: "3493373"
+---
+
+Seven Oathsworn Angels, bound and powered by runes to fight against the devils who sought to corrupt our world. Ancient texts speak of more, their names erased, their deeds forgotten. What secrets were so dangerous, that only whispers remain?
+
+I’m up early the next morning. Thankfully, the pack had found another scent, leaving us space to return to the ruins.
+
+Our return to the Vishten’s territory is quick and practiced after several days of delving. From there, a group of masked Vishten lead us through their territory and back to the stairs that lead to the Archmage’s dungeon.
+
+I hold my hand up towards the group as we arrive and motion for them to gather around. The Vishten back off, simply watching us from the border of their territory.
+
+I pull out my notebook and go over my notes from the last delve, showing them the crude map I’d drawn of the portion of the dungeon we had explored. “Shar has confirmed the presence of at least one undead with a Monstrous general class. We’re deep, and any delver will tell you that the deeper you go, the more careful you have to be. If anything is off, tell me.” I snap my book closed, then look around at the others, meeting their gazes.
+
+Keve gives me a small nod, his eyes relaxed but ready. Grildor pulls his tower shield off of his back and holds it in front of him, while the other mercenaries ready their own equipment. Eyla gives me a big smile, clearly ready to continue down. Only Tanya looks nervous, but she still meets my gaze.
+
+I move Shar off of my shoulder and she dives down the stairs in her crow form, quickly disappearing from sight.
+
+Grildor starts down first, his shield ready. Our progress is slow, careful of the descending flight. It’s a longer staircase than I remember, and it’s only going down that I notice the arches in the ceiling.
+
+At the bottom of the staircase, we enter the guardroom, a soft light illuminating the rotted table and bones that line the floor.
+
+Above the open metal door at the end of the room, I notice writing. It’s from another language, faded with time, but still visible.
+
+I pause the group to copy the symbols to my notebook. My mentor had taught me to be wary of dungeons, and rightfully so. Mana and emotion are tightly connected, and entering a place of torture or enprisonment without precautions is incredibly stupid.
+
+Shar can hopefully translate this for me, but I suspect it’s something along the lines of “Archmage’s Guards Only”
+
+I motion with my hands, and we continue into the darkness, the light of the upper levels leaving us. I shake my light orb, and it lights up, illuminating the stone walls, and casting long shadows.
+
+Our progress is slow here, our ears and eyes peeled for the slightest change. Eventually, we reach the first closed door on the side. Shar waits there in her humanoid form.
+
+“There are things deeper in, but nothing close. This room is empty of undead.”
+
+I nod in thanks and approach the door with my mana detector. It doesn’t go off, so I put it away, and try the latch.
+
+It creaks, and I call Grildor over to help.
+
+With his help, I’m able to shove the door open.
+
+Inside is a storage of some kind. Shackles are piled onto a shelf, and several small chests sit on a partially collapsed table.
+
+The group filters into the room as I pick the chests one by one. Some have clothes, others have weapons or small keepsakes. I suspect that these were the possessions of the guards… or the prisoners.
+
+Several small artifacts present themselves, what at first seems to be a nondescript ring with the symbol of a dagger carved into its top is the one that makes me most curious.
+
+Ring Of Reaper Masa’s Devout
+
+An emblem of the Reapers, this ring connects the devout to their patron, and contains a small portion of their divine energy.
+
+There are twelve Reaper angels, each with their own domain of death. Reaper Masa is the Reaper of Murder. If this is the ring of one of her followers, and that follower was a prisoner here… it doesn’t say good things about whoever this archmage was. Maya’s followers tend to be more active in hunting down the evil in the world, but they're also a dangerous bunch. I’ve never personally had to deal with one of them, and I’d like to keep it that way.
+
+I’ve heard horror stories.
+
+“What is it?” Libby asks, walking over to me.
+
+“The ring of a reaper.” I answer, slipping the object into my pocket.
+
+Libby takes a step back, her eyes staying on the spot I’d placed it.
+
+We share a look, then I continue my search through the items. There’s some nice daggers, some ancient jewelry, and an enchanted sword which we manage to fit into our packs easily.
+
+I’m about to step out, when my mana detector vibrates against me.
+
+I stop, staring at the wall I’d nearly passed by. I pull out my vial of blue powder, and sigh at how low it’s getting.
+
+I pour some out, then blow it against the wall. Runes highlight, and I pull out my notebook to write them down.
+
+Identify Runes tells me that they’re hiding a small compartment in the wall, and that a simple input of mana will open them.
+
+I place my hand against the runes, and put mana into the right spot. The wall swings open, revealing several shackles.
+
+Mana Binding Shackles
+
+Capable of binding both skills and spells, these shackles were once used to hold even the most powerful of mages.
+
+There’s five pairs, and I grab them all without telling the others what they do. I trust my companions, but I don’t like the idea of people being able to bind our mages. The current method for restraining a mage is to drug them with mana destabilizers or empty their mana every few hours and keep them under surveillance. These things are honestly terrifying in comparison.
+
+We leave the room after that, and continue deeper. The next few doors lead to empty cells, and it’s at the next one that we finally meet some resistance.
+
+An undead Skeleton had made its home in the cell, but several ice spears quickly pierce it before it can do anything.
+
+We encounter more undead in the next couple cells, until we finally reach the door.
+
+A loud bang echoes out as we approach, continuing endlessly as the Monstrous Undead pounds against the door with unending will.
+
+The metal holds, likely enchanted or forged with techniques of the ancient builders.
+
+“Are you guys ready?” I ask.
+
+A series of nods answers my question.
+
+I study the door as the banging continues. My mana detector hasn’t gone off, which means that there aren’t any runes holding it closed.
+
+The old-fashioned way it is.
+
+I pull out my lockpicks, and go to the locking mechanism above the doorhandle.
+
+The lock is relatively simple, and my Danger Sense doesn’t go off as I fiddle with it. The mildly terrifying thing is that the banging stopped with my fiddling.
+
+A loud click echoes out, and I jump away from the door, Grildor stepping in front of our group.
+
+The door holds still until, slowly, the handle turns.
+
+The creature that walks out of the room shows very little signs of decay, its body gray and pallid. It takes up the full frame of the door, even hulking down, and it looks at us with an intelligence that makes me nervous.
+
+The hall covers itself in a field of ice, and Grildor steps forward, holding the monster to the small doorway with his towershield. Ice spears fly towards it, followed by Daron’s arrow.
+
+The creature moves.
+
+Grildor is shoved back as the monster dodges under the spear of ice and twists out of the way of the arrow.
+
+Then it’s in the hallway with us.
+
+Keve dashes forward, fire in his footsteps as his blades meet the metal chains the creature has wrapped around its arms.
+
+Sparks fly, and it punches into Keve’s stomach.
+
+Libby appears behind Keve, pulling him back as the punch lands. Her hands glow as she casts a spell onto Keve.
+
+I step forward with my own blade, and shiver in fear as its gaze turns towards me.
+
+Hide Presence is active, but it sees me. That isn’t good.
+
+Thankfully, it can’t focus on me as Grildor rams into it with his shield, pinning it against the wall.
+
+Four ice spears pierce its arms and legs into the wall, a fifth spear missing its head by the smallest of margins.
+
+Mana gathers to the creature and the light of my orb darkens as it prepares to do something.
+
+“Go for the head!” Daron yells out.
+
+Flame fills the room as Keve’s sword punctures deep into its skull.
+
+There’s a pause, then the mana gathering to the creature disperses. We let out a collective breath as Keve pulls his sword from the creature’s brain.
+
+It collapses, its limbs still pierced to the wall by Eyla’s spears.
+
+“Everyone alright?” I say, still watching the creature. You never know with undead. My eyes flicker over to Keve, who got hit by the thing.
+
+“Keve only has some small bruises.” Libby answers, “My skills say everyone else is fine.”
+
+I nod, then slowly approach the creature. The same Mana Binding shackles that I’d found in the storeroom bind the creature’s wrists, making me wonder at how it’d overpowered the enchanted item at the end of the fight.
+
+And what it could’ve done if it hadn’t been bound.
+
+I shudder at the thought.
+
+Other than the shackles, it’s dressed in rags. I wonder if this was the reaper kept prisoner here?
+
+A quick glance into the room shows a regular prison cell, bare of any items aside from the hook the creature had torn its chains from.
+
+The rest of the dungeon continues much the same, with the occasional undead, but nothing as powerful as the one behind the door.
+
+As we make our way through every cell, I consider how I want to access the archmage’s room.
+
+It’s still a secret I’d like to keep from my party, but they’re bound to notice if I disappear. My best idea is to hide my visit behind another meeting with the Vishten.
+
+Shar flies into the last cell, a simple barred room with chains hanging from the walls, and the remains of a huge four-legged monster resting as a pile of bones.
+
+“Here it is.” Shar says.
+
+I look at her as she transforms into her cat form and prowls around the cell. “Here what is?”
+
+“The experiment room.” Shar shows her fangs as she finds something on the ground, “It’s good the guard dog has passed, he was beyond your mage.”
+
+I share a look with Eyla, then turn back to the wall as Shar activates something.
+
+The wall rumbles, then begins to move, revealing a large room lit by lights similar to the one I hold in my hand.
+
+Shar pads into the room, and our group follows close behind. As soon as I enter, my mana detector vibrates like crazy. Glowing runes are everywhere, creating barriers for nearly every item of the large room. Tables line the sides of the room with notes, cells protect ancient bones with arcane symbols, and strange contraptions I don’t know the meaning of fill up an entire corner, the room is a treasure trove.
+
+I immediately zero in on the paperwork, still pristine despite the time. The archmage clearly valued his paper, as he should.
+
+“Don’t touch any items before I examine them.” I immediately tell the group. Already Identify Artifact tells me of some rather dangerous tools hidden behind a series of runic protections.
+
+I start with the paperwork, which isn’t as protected. I carefully wrap it in waterproof skins I’d prepared in advance. Most of the paperwork goes over my head, discussing magical theory according to Shar. It’s in a language only the golem can read, but lost knowledge is still knowledge.
+
+After all the paperwork is organized and placed away, I move to the artifacts. Each and every one has a strange description, and the more I look them over, the more I debate on whether I should bring some of them back, or whether I should even write them into my notebook.
+
+Demon’s Claw
+
+Cut from Arkzhaz’s horde, this claw cuts through basic magical barriers.
+
+Cursed Shepherd’s Crook
+
+This crook will bring madness to its wielder as they gain the power to turn the minds of those easily shaken.
+
+Cursed Shard Of Arkzhaz
+
+Gives the Demonic attribute to any Class and Profession
+
+Fallen Feather
+
+Gives the Corruption attribute to any Class and Profession
+
+Reaper’s Feather
+
+Gives the Retribution attribute to any Class and Profession
+
+Cursed Crown of Emperor Amanao
+
+This Crown turns the wearer into a ruler of mana, their mind slowly dissolving into the will of the Void.
+
+These, along with any artifacts that refuse to be identified, I immediately warn everyone not to touch. Thankfully, they are protected by several barriers of runic inscription, and no one else here seems to realize what they are looking at.
+
+On the other end of the room, I do finally discover an item that doesn’t sound terrifying.
+
+Ring Of The Champion
+
+Gives the wearer a passive increase to speed, strength, endurance, and reflexes.
+
+I pull out my vial of blue dust and blow some onto the runes. Then I use my skill, Deactivate Runes.
+
+After several minutes or writing more runes, the field of protection fails. I reach forward only for my hand to hit another invisible barrier around the item.
+
+An enchantment of some kind? I spend several minutes trying to identify the strange protection, but everything fails.
+
+I stare for several seconds, then move onto the next item.
+
+Dagger Of The Devout
+
+A reaper’s dagger, channeling the divine
+
+Again, I spend several minutes deactivating the runes, only for my hand to pause on an unseen barrier.
+
+I pull away from the display, and look at the group who are waiting for me.
+
+Something in the way I’d spoken about the items in the room had them spooked, and they all stood far away from the display cases.
+
+I run my hand through my hair, then let out a breath. Even if I can’t grab these items now, my deal with the Vishten should see them protected. My only worry is that my companions might leak word of what’s housed here. Even with the rarity of identification abilities, it isn’t hard to tell how valuable these items are.
+
+I look over the others, who are waiting for my decision. “It’s a bust, but at least the paperwork is worth something. Let’s head back up.”
+
+The others nod, and we make our way towards the exit when my gaze catches on a simple sword resting in a corner of the room without any arcane protections. I’m not sure how I missed it.
+
+I pause, letting the group walk past me, then identify the sword.
+
+My breath catches as I read another unbelievable description.

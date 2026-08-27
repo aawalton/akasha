@@ -1,0 +1,219 @@
+---
+id: 62d73c57-c6e9-5231-8689-4a07cdecb35b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 52 - Boom"
+slug: 0013-chapter-52-boom
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 13
+ownLength: 2270
+unit: words
+publishedAt: 2026-08-13
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3807039/chapter-52-boom"
+royalRoadId: "3807039"
+---
+
+Vorathrex breathed in the dry hellscape air. Its metallic-like scent always helped to sharpen him.
+
+Internally, a battle raged. One of consumption. That between the mind and the body. His instincts, the ones that made him survive so long in the pits since he was but a newborn, demanded physical consumption.
+
+But what he’d consumed… it demanded thinking.
+
+“Fledgling, what have you done to me!” he spat. Even as he said the words, he knew they were not true. The clever demon may have inflamed the issue, but he did not cause it. Vorathrex had only himself to blame.
+
+And now he had a choice. For on the wind, he caught the faintest scent of new humans. They smelled the same as the terrifying energy the fledgling toyed with.
+
+The half of Vorathrex that had been forged in the pits told him to ignore the scent. Nothing needed to be done. His strength would see him through, or his weakness his end.
+
+Yet, the part inside. The part that had been growing and clawing for release. It schemed. And it said that the fledgling already suspected the dangerous humans. Vorathrex should tell him, and earn more trust. And, truly, did a real bond with the black-scaled demon seem so bad? Could he not offer Vorathrex worthy foes to consume and tasty meals to eat?
+
+Not only that. Fledgling or not, the demon made a nest. One that even Vorathrex could appreciate.
+
+“GAHHH! Fine. FINE FINE FINE!” He slammed two meaty fists into his chest, shutting up the voice in his head.
+
+“I will do it! Shutup! Shutup, shutup, shutup!”
+
+***
+
+“Make way!”
+
+“Come through!”
+
+Half a dozen brood imps hauled in a pair of corrupted logs. Beyond, three more carried a third. Further yet, another trio carried a fourth.
+
+Like the first week, they were taught the same. Roll the heavy wood on its side, and keep it moving.
+
+From his view in Sovereign Eye, Kairon hummed in approval. He watched in satisfaction as the winding train of wood was ferried into the city. Three days ago, they had fourteen brood imps working on timber. Today it was forty-four. Which meant nearly a hundred wood of yield per day. The city lord shuddered, just considering what he could build.
+
+One effect of the increased rate of yield, however, was the treeline. Dead trees were being brought down with abandon. Weeks ago, his city reached out with tiny fingers to draw at the trees. Now, it was taking spoonfuls. Great gaps of open plain had been made, leaving nothing but dead stumps, debris, and wooden shrapnel behind.
+
+At the forefront, over a dozen gnawers chewed through the dark, corrupted trunks happily.
+
+With wood being the driver of his economy, Kairon had opted to dump all the new brood imps into it, save the ten with Bean on farming and seven with Clod on stone. Shiny was adamant that while Clod wasn’t his smartest worker, he was one of his most loyal. The city lord opted to let his supervisor exercise that judgement.
+
+And it seems to be working…
+
+From the east gate, a team of six imps traveled behind Clod. Each had two head sized stones clutched in their claws. The riverbed behind them was getting closer to being picked bare, but for now it was holding.
+
+In the wrath district, over thirty warriors trained. Duels and spars filled the city proper with grunts, thuds, and cries. Kairon would see to it that many more stood with them soon. And some proper training facilities. As it stood, the warriors simply used the space between buildings in the wrath district.
+
+He was just considering the full impacts of that when something blocked the light of the tower’s entryway. Deactivating his eye, he looked over. Vorathrex had arrived.
+
+“Fledgling. We need to talk,” he rumbled.
+
+***
+
+“You’re certain?” asked Kairon.
+
+Vorathrex grunted.
+
+The city lord sat, scales glinting in the brilliant yellow light of the citadel. Source energy still flowed happily in the channels in the floor, only growing slightly dimmer at being twenty-five less than it was days prior.
+
+“Several hundred humans, and many with the golden energy,” Kairon mused. “Paladins, as we thought. And you say they are moving slow?”
+
+His wrath councilor shrugged. “Hard to tell. They may be lost, or the wind may simply be unclear. I do not know.”
+
+“Last time, you gave us little warning about our visitors from the south. What’s changed?” Seeing the look on his general’s face, Kairon rushed to continue. “Don’t get me wrong. I’m very thankful you chose to do so, and hope you will in the future. I’m just… curious. What motivated your decision?”
+
+“Does it matter, fledgling? I have told you.”
+
+From the side, Sythara uncoiled her cloaked shadows. A serious expression took root on her face. She hadn’t been present for the humans last time, but had heard of the battle. “Child, I can not have interruptions. The communion goes well. Tomorrow, or perhaps the day after, I expect results. It speaks to me. I’ve never… I’ve never heard it so clearly. If something were to stop this…”
+
+Kairon waved a claw dismissively. “It will not. I think we have at least a week, if not two. If the paladins really are lost in that pass, well… From what I heard from Veron, that can be quite an issue for them.”
+
+“But they will arrive eventually, no? So what are we to do?”
+
+“I have been planning for this eventuality, you know. Vorathrex has been working hard with the warriors, and the second wrath spawning grounds went up yesterday. However…”
+
+Kairon began running the figures in his head. He looked to Shiny, then to his other councilors.
+
+“Well, child? What does this mean?”
+
+He ran through his Gantt charts still stuck in his mind. Kairon wanted more than anything to milk his exploit as a stepping stone for his economy, and let that somersault his city forward. The longer he kept it on the brood imps, the more exponential the gains would be.
+
+However, it did have diminishing returns. For example, the first day they had a fifty percent increase in workforce. On day three, it was closer to thirty percent. Still, that was absolutely massive.
+
+If I could get a hundred brood imps, that would make the sigil powerful, but its job in jumpstarting our economy complete. We’d have the infrastructure to support building the third ring, and have growth that rivaled the sigil anyway. Then, I could move on to more interesting experiments with that little “one”.
+
+But… With what he’d just learned, he might have been slightly optimistic about his three weeks. It was looking more like two. Plus, events with the greensward clans were still uncertain.
+
+He exhaled sharply.
+
+“Sometimes we make a plan, but we have to be ready to adjust it.” He looked around, making eye contact with each of his three councilors.
+
+“This news means we need to pivot sooner than expected. I’d hoped to get another few days of economic growth in, but the tides have shifted. Three days will have to be enough for now.” The city lord stood, grabbing his walking staff. “This means war. Our competitors are coming to us, and I mean to be ready.”
+
+Around him, all three councilors stiffened.
+
+Kairon began barking orders. “Shiny! I need the feeding pit on gold. All cycles, fill it with corrupted timber. We’ll also be making a camp tonight. Our population is one away from capacity, and we can’t have that.”
+
+“We just made the spawning grounds yesterday. Can we even afford that?” asked Vorathrex.
+
+Kairon paused. The question was out of character for the big guy. He normally only cared for more direct things.
+
+Now he’s openly asking about details, displaying a degree of thinking and planning. Interesting… Kairon saw no problem with it. In fact, he wanted to encourage it.
+
+“I’m glad you asked! Shiny. The figures. I assume the sheets were done today?”
+
+“Yes master!”
+
+“How many of each resource will today’s yield alone provide?”
+
+“We expect—”
+
+Kairon coughed.
+
+The little supervisor bit his tongue. “Sorry. Projections. We project… Eighty-eight wood. Seven stone, and…” Shiny trailed off, looking at Kairon. “You said three. All cycles. So… Two-hundred twenty-five. Over two hundred gold!!”
+
+Chuckling, Kairon grinned at him. “Feels like we’re really a city now, doesn’t it?” He turned to the other councilors. “So, yes. We can afford quite a bit.”
+
+Vorathrex actually smirked, and Sythara gave a gentle bob of the chin.
+
+“I’m impressed, child. The little ones do have their uses, it seems,” admitted the demoness.
+
+The big general gave Shiny an appraising look, before grunting his approval as well.
+
+“Hmph!” pouted Shiny.
+
+“Sythara,” said Kairon, cutting in. “For your part, research is all I want you focused on. Any advantage we can get right now is paramount. You said two days on the universal brand. I’m holding you to that.”
+
+“Of course, child.” The sigils on her arms spun, glimmering with a bright azure light. “I can’t be certain, but I expect the brand to be completed in that time.”
+
+“Splendid!”
+
+Next, he turned to his general. “Vorathrex. You’ve been asking for more warriors. Well, you’re about to get them. I’ll be altering my…” He paused. Kairon hadn’t told his councilors what he’d done, even if they could guess. He thought about the best way to word this.
+
+“Let me rephrase… What I did to the brood spawning can only be done in one building at a time. So, I will be moving the… alteration to the wrath spawning grounds today. That means instead of twelve brood a day, it’ll be twelve warriors. And I plan to keep it there until we meet the paladins.”
+
+“Fledgling, the energy you meddle with. Do you truly need to? I want the warriors, but…”
+
+“Trust me, my friend. Your master paid quite the price for this little trick. I mean to cash in on it. Besides, I have another surprise for you.”
+
+“Hmm?”
+
+“You want a training grounds, right? Well guess what? You’ve got it. It’s going up today.”
+
+Vorathrex stood, jaw opening and closing several times.
+
+Kairon placed a claw on the big guy’s shoulder. “Like I told you. Our brood population has practically tripled in three days. Tripled. This is what happens when you let a city grow. When you chart out growth, and follow where the math takes you.”
+
+“What of food?” asked Sythara. “Don’t you need to feed all these new little ones?”
+
+“The first harvest was fully processed and left us with a massive haul. Over seven-hundred remain. Mostly ashroot, and some jerky. Bean and I have been optimizing the plots. We expect a good harvest. In three days, both fields come to bear. I also plan on getting two more within the next week.”
+
+Shiny nodded resolutely. “Master right!”
+
+“Shiny, that does mean we’ll have to send ten more workers from wood to the fields. Perhaps more, when Bean is ready. We have some excavation projects I’d like to pursue soon.”
+
+Kairon looked around. Seeing no more questions, he clapped his claws together. “Good! Everyone, get to it. Vorathrex, I’ll meet you outside shortly. We’ve got a training ground to build. For now, however, I need a quick word in private with Shiny.”
+
+***
+
+When all had left, Kairon turned to face the little supervisor. He thought back to The Table, and the only path he saw to get there despite his lack of rank to do so.
+
+“Shiny,” he began carefully. “I need to make some adjustments in our process in regards to the feeding pit’s usage.”
+
+The imp cocked his head. “Master… Say all gold. Change mind?”
+
+“No, no. That’s good. It’s just how we use it. First, I need you to ensure that all the brood imps are informed that what we are doing is not making shiny things, nor gold. We are enacting something called waste recycling.”
+
+“Waste… Recycle?” tried Shiny.
+
+“Exactly! It is part of something we will refer to as Environmental Reclamation. Now this next bit is very, very important. Whenever gold is inserted into the pit, we need to take three actions. First, you need to look up to the giant eyeball above the citadel and ensure it has a good, clear field of view. It needs to witness you doing this.”
+
+Shiny shrugged. “Seem simple. What else?”
+
+“Next, you must vocally announce that you are recycling waste. It doesn’t need to be loud, but it must be said.”
+
+“Waste recycle,” repeated Shiny.
+
+“Just like that! And last, we need to record this. We are going to be redundant. I want a stack of bark left near the feeding pit. Each time you or a subordinate inputs gold, mark the bark. Keep track. On top of that, I want this recorded in our daily spreadsheets for good measure.”
+
+“But althere there. As g—”
+
+“No! Remember, this isn’t gold. This is…” Kairon paused, motioning with a claw.
+
+Shiny grinned. “Waste recycling!” he shouted.
+
+“Yes, yes. Very good. And we are doing this as part of…”
+
+“Enviroment reclaim!”
+
+Kairon beamed with pride. His little manager was growing up so fast.
+
+Shiny’s little pupils narrowed. “Say master… Idea…” he announced.
+
+“Oh?”
+
+“This need be… official, right?”
+
+“It does.”
+
+“Then… make sign!”
+
+“That… It is a terrific idea. Speak with Nod about the details.”
+
+Shiny nodded eagerly. Without waiting, he spun on his heels and bolted outside.
+
+A few moments later…
+
+“Nod! We need speak! Waste recycling initiative!” Shiny shouted loud enough for half the city to hear.

@@ -1,0 +1,587 @@
+---
+id: d03f626e-d938-532d-9321-008e9a37c1ef
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6: No Lost Little Girl"
+slug: 0007-chapter-6-no-lost-little-girl
+partOf: dungeon-devotee
+position: 7
+ownLength: 8118
+unit: words
+ownProgress: 8118
+publishedAt: 2022-03-01
+link: "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/855726/chapter-6-no-lost-little-girl"
+royalRoadId: "855726"
+markedReadAt: "2026-06-29T22:39:15.339Z"
+---
+
+Edmund stepped out into a cave. That is, having never actually seen one before, he stepped out into what he assumed caves looked like. A rough path of solid stone stretched out ahead of him, stalactites hung from the ceiling above, just out of reach, and dull gray rock lined both walls.
+
+Rather than torches, the angry red glow of magma both lit and heated the space from where a large pool of it sat and bubbled in a natural basin in the corner. No fumes wafted from it, prompting Edmund to liken the stuff to the smokeless torches he’d encountered thus far.
+
+The trouble with magma as a light source, beyond its crimson hue, was the simple fact that it couldn’t shine down on anything without leaking. As such, everything below the shin-high basin lay obscured in a blanket of shadow. Enough ambient light persisted for Edmund to see through it, but only with direct focus. He made a mental note to be extra careful of traps. They’d be especially hard to spot in this lighting.
+
+Beyond the bittersweet note that he’d finally left the ‘cellar’ theme of the earlier floors behind, two immediate differences came to mind. The first was the shape of the space—rather than the hallways he’d grown accustomed to starting in, this floor began in an open chamber.
+
+The second was the wooden loot chest on the floor.
+
+Edmund approached it with absolute caution, every instinct he’d cultivated over the past month screaming the chest was a trap. It had to be. The dungeon didn’t hand out free loot, did it? Edmund paused as the urge to ask Liam struck, but the annoying avatar hadn’t deigned to join him for this floor. He wondered why.
+
+He was in the process of prodding at the suspicious chest from a spear’s length away when he noticed the image burned into the worn wood: Liam’s face, smiling and winking just as it’d appeared in the dirt on the last floor.
+
+Edmund sighed.
+
+Deciding he trusted the chest even less having seen Liam’s hand in it, Edmund spent what could only be described as far too long fiddling with the latch with the tip of his spear from seven feet away. It popped open with little fanfare.
+
+He stepped forward slowly, half expecting something unsavory to leap from the chest at any moment. Nothing did. Instead, when Edmund finally reached the small box and looked inside, he found only a small wooden coin with what looked like a brush carved into it. Words written in smoke appeared to explain.
+
+Bath Token
+
+Flip this single-use token like a coin to be instantly teleported to a safe room with a hot bath for one hour. Cannot be used in combat. Cannot be used while moving.
+
+“Asshole,” Edmund breathed as he reread the description. He supposed that explained why Liam wasn’t there—he was waiting for Edmund to take a bath.
+
+Edmund pocketed the token, finding no immediate reason to use the thing. He’d just get dirty again, anyway. Besides, every moment he didn’t use the bath token was another moment free from Liam’s incessant chattering. Edmund grinned. He could focus on clearing the floor now, and use the token to effectively re-summon Liam whenever he wanted. The hot bath was just a bonus.
+
+Edmund stopped to look up at the ceiling and wink with the hope Liam was still watching, and set his focus on the passage ahead.
+
+He found himself in a tunnel. The way forward stretched out some distance before a bend in the path obscured his view. To his left, a river of magma flowed gently along a raised basin at exactly the same height as the previous room. Edmund made two notes, the first was that he’d have to be careful in combat—it’d be all too easy to take a chunk out of the stone wall between him and the magma, and that was a leak he did not want to spring.
+
+The second was that both rooms so far had the same natural shadow up to his shins. That had to mean something.
+
+Edmund kept his spear pointed low as he progressed down the hallway, glancing up and over the magma only sparingly to preserve his night vision as best he could. Every few steps he’d rake the tip of his spear across the floor in front of him, testing for any traps of creatures that his eyes missed in the gloom. Such tactics found him nothing.
+
+By the time he reached the first fork in the path, Edmund had begun to grow nervous. Nearly a half hour had passed and he’d yet to find the danger this floor posed. He hoped against hope that it was just a maze, a place to get lost and wander until one’s supplies ran out, but he knew the dungeon would never be that kind. There was something in the darkness waiting to kill him. It was only a question of when.
+
+He heard rather than saw them coming.
+
+Their noise was faint, barely a whisper on the wind behind the bubbling of the magma and the sound of Edmund’s own breath, but he heard them, panting breaths in the distance, claws scraping against stone, the pattering of a dozen little feet.
+
+Edmund lowered his stance, grasping his spear with both hands as he braced for the coming fight. His heartbeat slowed, nerves fading away as the unknown withdrew and the familiar returned. Different tunnels, different lighting, different enemies, none of it mattered anymore. A fight was a fight, and Edmund had grown comfortable with fighting.
+
+He didn’t even try to lunge for them, recognizing his poor odds of striking what he couldn’t see. Instead, when his squinting gaze finally caught the three dark forms bearing down on him, he swept his spear in a wide arc.
+
+Two high pitched yelps rang out as the side of his spear knocked the things from their feet.
+
+The third got through.
+
+A black and bony form, three feet long from tail to tip and no more than a foot tall leapt from the shadows. It struck him in the chest, knocking him onto his back with it on top.
+
+Edmund didn’t hesitate to drop his spear. He brought his left arm up, pressing it against the thing’s neck to keep its jaws away from his face while its claws failed to pierce his pale widow’s carapace. On instinct more so than thought, his right hand shot for his dagger. He stabbed twice in quick succession, plunging Rat’s Fang into the thing’s neck with brutal efficiency. He didn’t wait for it to still before shoving it off him and jumping to his feet to face his remaining foes.
+
+One of them leaned against the magma basin, its two left legs bent at unnatural angles where Edmund’s spear had struck them.
+
+The other was nowhere to be seen.
+
+Edmund didn’t stop to think or search for the missing foe, dashing with practiced decisiveness towards the injured beast. It snapped its jaws at him as he neared, but he’d expected as much. As the thing’s maw darted forward, Edmund swung his left arm in a great arc, catching the side of the creature’s snout on his forearm and sweeping it aside as he closed in the rest of the distance. Two stabs to the neck dispatched it.
+
+Edmund pushed with his left hand against the top of the wall between the path and the magma flow to stand back up and search for the missing enemy.
+
+It found him first.
+
+It slammed into his back. As he fell, Edmund reflexively yanked his hand away from the magma flow, one slip away from it falling down the wrong side of the dividing wall. His right hand hit the ground hard, sending his dagger sliding a few feet down the path.
+
+He landed on top of the still-twitching corpse of the second beast as the third carved scores into the back of his cuirass. He tried to push himself up, but his hands struggled to find purchase on the shifting body beneath him.
+
+Fire erupted down Edmund’s spine as claws found the back of his neck.
+
+Edmund rolled to the right, using the shape of the dead beast to help spin him over.
+
+The motion set the beast on top of him off balance, all four of its feet losing purchase as Edmund flipped. Two of its feet landed on the floor. The other two bent inwards.
+
+The thing fell at the same moment as Edmund’s motion stopped, its side landing on Edmund’s chest. He didn’t give it a chance to recover.
+
+He planted a hand on either side of the creature’s torso and shoved.
+
+The thing’s left ribs struck the side of the basin with a crack. One of its front paws went over the edge, dipping into the magma with a terrible hiss and an even worse stench. It reeled back.
+
+Edmund didn’t give it a chance to recover. Still on his back, he swept at its hind legs with his right foot, knocking them out from under it. From there he kicked up, colliding with its abdomen and forcing the beast’s rear end into the air. Its body pivoted around its one remaining point of contact with the ground: the magma basin.
+
+Edmund’s kick didn’t come with enough force to launch the thing’s whole body into the magma. Instead, balanced as it was, the thing’s corpse fell back onto the path, its entire head melted off.
+
+Edmund heaved, spending precious seconds catching his breath after the fight. One, two, three deep, full-body breaths before he forced himself to stand and gather up his fallen spear and dagger. Those things had come running at him, which meant he had to be ready for more to attack at any moment. He couldn’t trust in the safety of stillness.
+
+His gear collected and Perseverance already working to knit shut the gash across the back of his neck, Edmund pulled his attention away from the path ahead just long enough to evoke his Madness on one of the fallen beasts. The familiar letters of smoke drifted into the air.
+
+Lesser Shadowhound
+
+Shadowhounds use pack tactics and the camouflage of darkness to corner their prey. The toxins on their claws, while slow-acting and easily curable, can prove deadly if left untreated.
+
+“Shit,” Edmund muttered, reaching a hand up to the cut on his neck. It didn’t seem poisoned or infected or anything of the sort. Edmund sighed. He knew his health regeneration wouldn’t handle venom. Maybe the toxin didn’t take? That was wishful thinking. He considered turning back and potentially bartering for treatment on the fifth floor, but his lack of symptoms held him off. It took another two moments for him to realize why.
+
+“The Island,” he breathed. “A slow-acting toxin is an over-time effect.” A grin stretched across Edmund’s face. He’d taken the Aspect for future combinations rather than immediate strength, but already it’d proved exactly what he needed. He wondered if that was luck or intentional maneuvering on Liam’s part. The dungeon had known he’d taken The Island, and it would’ve been simple enough to redirect him to a floor with venomous monsters.
+
+With a shake of his head he dismissed the thought, finding the distinction between his own luck and Liam’s whims unimportant. As far as he was concerned, the two were interchangeable. All that mattered now was that he was alive and knew at least one of the floor’s dangers.
+
+Keeping his spear low and his ears open for the quiet approach of more shadowhounds, Edmund continued down the path. He followed the magma flow, hugging it just as it hugged the left wall at every intersection.
+
+Twice in the following hour did a wandering pack make an attempt on his life, and twice did he dispatch them. The first encounter went smoothly, while the second ended with the final beast sinking its teeth into Edmund’s arm as he tried and failed to sink Rat’s Fang between the bones in its neck. The wound swelled and reddened and radiated heat, but did eventually heal all the same.
+
+Approximately two hours—at least by Edmund’s best guess—into his exploration, something changed. He couldn’t quite pin down exactly what, but the darkness at his feet seemed to thicken, the air grew uncomfortably warm, and a decidedly unnatural sense of foreboding crept down Edmund’s spine.
+
+He pressed on, already as alert as could be.
+
+Five minutes later, the yelp of an injured shadowhound echoed in the distance, seeming to come from both directions at once. Edmund froze.
+
+Something was out there. Something else. And whatever it was, it was killing shadowhounds.
+
+Edmund gripped his spear tighter and carried onward, taking further care to watch the entire space around him even at the cost of his ability to pierce the shadows on the floor. He’d hear it first if more shadowhounds came for him, anyway.
+
+It was through this newfound attention to the room above the magma flow that he first spotted the iron rings.
+
+Hanging from the ceiling above the molten rock, a series of iron rings weaved a path around the stalactites. Each hung roughly five feet from the last, too far to reasonably traverse hand-to-hand without some sort of powerful agility Aspect, or, better yet, Agility itself. Edmund didn’t have that. His Obsession pushed his natural agility far beyond the limits of a mundane human, but five-foot leaps on sheer arm-power over molten magma would be suicide.
+
+As he’d previously established, Edmund was thorough, not suicidal. Whatever secret lay hidden beyond those rings would have to remain secret.
+
+Still, as he progressed, the iron rings and their promise of extra loot irked him, enough so that the further he walked the more he found his mind slipping away from vigilance in favor of working out a way to traverse them. He finally stopped when the rings ceased their journey over the magma to turn off onto a dark ledge on the other side. Edmund could practically sense the loot chest up there.
+
+With a sigh he took a long look down each direction in search of incoming threats and turned his full attention to crossing the magma. He found a ring close enough to the edge that he could poke the tip of his spear through it and engage the spiderleg segments to form a giant hook. A few test tugs confirmed it would hold his weight.
+
+Four gaps stood between him and the ledge, gaps that the length of his hooked spear should just cover. He just had to get moving.
+
+Edmund left his spear dangling through the first ring as he stepped back to the other side of the hall. He clenched his fists and swung his arms around to both limber and psych himself up, and took a running start.
+
+As soon as he reached the base of his spear he leapt, grabbing it tight and letting his momentum carry him into a great swing. The heat of the magma singed the bark of his leggings, but left him unharmed.
+
+At the peak of his swing, Edmund released the spear with his right hand and reached for the iron ring. His hand missed, but he managed to push his arm through and hook his elbow through the ring.
+
+He exhaled. His heart pounded. Magma bubbled beneath him as he hung by one arm and clutched his spear with the other. He took a moment to breathe and consider his next step before leveraging the spear to spin himself around the iron ring so his free right hand could reach the handle at the spear’s base. He pushed it back to straighten the spear tip, freeing from its own ring. Jerking his elbow, he spun back around to face the next ring, and reached the spear tip through it. With the same awkward motion, he reengaged the hook.
+
+Edmund took a breath, wiping the sweat from his hands as best he could. With a gulp, he let his arm slip through his current ring, and swung for the next ring down.
+
+He repeated the process once before his spear deposited him on the stone ledge. It was a small space, no more than five feet deep and four tall. Edmund left his spear hanging from the nearest ring as he crawled to the chest on the other side. Even in the dark of the tiny nook, he knew the gleam of silver.
+
+Inside, crafted of the same deep black leather that seemed to stretch over the bones of the shadowhounds, was something he’d been sorely missing ever since he’d set foot in this cursed place.
+
+Shadowhide Boots
+
+Blends into darkness. Aids in quiet movement. Provides protection against poison damage. Vulnerable to fire and blunt-force damage.
+
+Edmund didn’t hesitate to toss his old boots into the magma below, letting the worn and hole-riddled leather burn to ash as he donned his prize. It wasn’t until he’d left the silver chest behind and turned to plot his path back to the tunnel proper that heard the first voice.
+
+“Hold up!” a woman barked, command in her tone. “There’s something here.”
+
+“It looks like a spider leg,” a man replied.
+
+“I’ve seen one of those before,” said a second man, his voice refined and elegant compared to the gruff dialect of the former. “It’s a loot drop from one of the earlier floors.”
+
+“Show yourself!” another woman ordered, her voice young and full of the confidence of youth.
+
+Edmund obeyed, peeking his head out of the darkness that enshrouded his ledge. He saw them at once.
+
+There were five of them in total, a full party by the dungeon’s definition. Three wore dull steel armor and that seemed to be suspiciously missing some kind of tabard or house crest. The fourth was a priest of some sort, his spectacled face wrinkled with age and his white robes somehow pristine despite the general grime of the rest of the group. Edmund didn’t know enough about the pantheon to guess which god he served based on the robes alone.
+
+The fifth and final member stood in front, her golden hair tied back to reveal fiercely green eyes, the only to directly meet Edmund’s gaze. She wore a set of matching brown leather armor, with a cowl thrown back over her shoulders. Two empty sheaths hung at her waist, no doubt matched to the wicked knives she held in each hand.
+
+“It’s a waylay,” one of the armored men barked. Edmund took them to be guards of some sort, though without tabards he couldn’t guess whose.
+
+“Or another delver,” the blonde girl said, a distinct note of command in her voice that Edmund found out of place from someone so young.
+
+“Delvers don’t hide out in corners,” another guard argued. “Waylays do.”
+
+“Maybe he found something,” the priest offered.
+
+“Look at him,” the guard barked. “Looks like he hasn’t left the Depths in months. No respectable delver would—”
+
+They were arguing, Edmund realized. Arguing over him. He tried, at first, to evoke his Madness for information, but it eluded him. Even the presence of these five brought The Recluse against him. With or without Madness, he knew these people were no ordinary delvers. They must’ve been impressive fighters, he reckoned, to have made it this far and still be so naive.
+
+“You need to leave,” Edmund said, keeping his tone as even as he could. “Right now.”
+
+“Told you he’s a waylay,” the guard said. “Wants us to turn our backs so—”
+
+“You five are a full party,” Edmund snapped. “If you stay close to me, that makes—”
+
+“Six…” the young woman breathed. “But we didn’t come in here with you. Does that count against the party limit?”
+
+“I don’t know, and I don’t want to find out. You need to go.”
+
+“I’ll check the accords,” the priest said, digging through his robes for a distinctly less bloodstained copy of the same pocket guide Edmund carried. “You watch him.”
+
+“You need to watch your flanks, not me,” Edmund said.
+
+The female guard laughed. “We can handle a few dungeon mobs.”
+
+“How sure are you of that?” Edmund asked. “I felt something, thirty minutes or so ago, and I’m willing to bet that was you, entering the floor, raising the difficulty. You need to be ready for—”
+
+The man’s scream cut him off.
+
+Edmund and the party burst into action at once as the shadowhounds descended upon them. By the time Edmund had grabbed his spear and made his first swing, the priest and one of the guards had already hit the dirt. The other two guards stood with their backs to the young woman, warding off the beasts with their swords as best they could while their charge gripped her daggers, unable to find a target.
+
+He turned to unlatch his spear from the ring behind him and move it to the one ahead. When he finally hooked it into place, only a single guard still stood.
+
+From his vantage up above, Edmund watched as the girl plunged her knife into hound after hound, her blades coming up red every time. She was swift and efficient with her motion, displaying a grace Edmund couldn’t hope to ever match. Had his mind been free to think such things, he might’ve wondered why the rest of the party had kept such a proficient fighter locked to the backlines.
+
+The final guard fell.
+
+The hounds pushed the girl back.
+
+She swiped with her blades again and again, but however many shadowhounds lurked in the layer of gloom, it was too many for her.
+
+Edmund grit his teeth, swallowed back the knot in his throat, and did something remarkably stupid.
+
+He let go of his spear.
+
+He watched as it swung away from him, leaving him stranded dangling above the flowing magma from his iron ring. If this didn’t work, he’d have no way back to safe ground.
+
+“Jump!”
+
+No matter what she said, no matter the naivety in her eyes or the skill with which she fought, in that moment, this strange young woman earned every bit of respect Edmund had to give.
+
+She didn’t question him. She didn’t pause to think. She didn’t turn her back on her foes until the last possible moment. With immediate decisiveness and not one shred of hesitation, she turned to face the magma flow, and she jumped.
+
+The spiderleg spear swung wildly back and forth as she scrambled up it, climbing up and out of the shadowhounds reach with the speed of desperation. The creatures barked and whined and paced about, but none dared cross the magma, not when they already had a feast on the floor before them.
+
+The girl looked away as the beasts tore into her fallen companions.
+
+Edmund didn’t. He kept his eyes fixed on her as best he could, but the sound and motion kept drawing them back to the horror behind her. His stomach, which he’d thought long past such things, churned at the sight.
+
+“They never listen to the warnings,” he muttered. “Why do they never listen to the warnings?”
+
+“What was that?”
+
+Edmund turned to face her. “What’s your name?”
+
+“A-Amelia,” she answered. “Amelia… Wend.”
+
+“I’m Edmund. It’s nice to meet you.”
+
+She swallowed, her knuckles white as she gripped the spear. “You were right.”
+
+“I wish I hadn’t been. I’ve come to expect the worst out of this place.” His eyes flicked to the nightmare behind her then back to Amelia. “You someone important?”
+
+“What? No.” She blinked several times. “I’m just… I’m just a delver.”
+
+“It looked like they were guarding you.”
+
+“I’m an agility fighter, and there was no room to move. The front-liners were just doing their job.”
+
+Edmund didn’t argue. If she wanted to lie, he’d let her. Survival was his first priority, and that meant keeping her alive at least long enough for her to pass his spear back to him. That said, preserving human life was his next priority, doubly incentivizing him not to let her die. Right now, that meant keeping on her good side, and it meant keeping her calm enough to not do anything stupid.
+
+“Stick your arm through the ring, if you can,” Edmund offered. “It’s easier than holding on with your hands.”
+
+“O-okay,” she breathed, scrambling up the few feet between her and the ring attached to the ceiling. Soon enough both she and the spear dangled from it. “That’s better.”
+
+Edmund smiled gently, though given his disheveled appearance he worried the look came across as menacing.
+
+“Do you have a plan?”
+
+“We wait,” Edmund answered. “Soon enough those shadowhounds will finish their meal and move on, then we can get down from here and back to the dungeon. With your group mates dead, we’re back under the party limit, so I doubt we’ll be seeing anything like that again. Not on this floor anyway.”
+
+Amelia nodded, the courage behind her eyes somehow sparking a sense of serenity down Edmund’s spine. He wondered how much of that was her and how much was The Recluse. “I guess we just have to hang tight.”
+
+Edmund paused, Liam’s winking face appearing in his mind’s eye once more. He would’ve cracked up at that joke. Edmund didn’t. Instead, the best he could manage was a sharp exhale and a fake smile. “Yeah,” he said. “I guess we do.”
+
+They dangled there for what felt like an eternity, but what couldn’t in fact have been much longer than a half hour. Amelia didn’t wait for Edmund’s go-ahead when the last of the dark shapes rounded the corner to leave their section of hallway behind. With all the grace of Agility itself, she jerked her body around the spiderleg spear to bring it into a swing, landing stably on solid ground beyond the magma flow. She looked expectantly up at Edmund.
+
+“I need that back,” he growled, nodding towards the spear. “Can’t make this jump without it.”
+
+Amelia scowled. “And what’s to stop me from taking your spear for myself and leaving you there?”
+
+“I saved your life,” Edmund said plainly. His arms and neck ached too much from hanging so long for him to bother being subtle about anything. “You owe me.”
+
+“I could argue you put it in danger. Your presence is what broke the group limit.”
+
+“The dungeon did that. That’s how it works. He has to follow the accords, but he’ll use every loophole he can find to fuck you over.”
+
+Amelia raised an eyebrow. “He?”
+
+“Just pass me the Thrax damned spear.”
+
+She did.
+
+Edmund caught it and released his ring, his own landing sending him careening across the hallway and into the far wall. He caught himself on his hands. “Okay,” he said once he’d caught his breath. “Let’s get you back to the entrance.”
+
+“No.”
+
+Edmund scowled at her. “Your entire team just died. You hung there and listened as shadowhounds devoured their corpses. I could tell just by looking at you that you came in over-equipped, over-trained, and over-leveled, which means you were just strong enough to make it down here without learning what this place is really about. Now you know.”
+
+“And I’m going to keep going,” Amelia said, an intensity filling her voice. “You’re not the first person to tell me I’m not ready for something, and you’re certainly not the first person I’ve proven wrong.”
+
+“Your quest to prove them wrong got four people killed.”
+
+“They got themselves killed. They’re the ones who insisted on coming with me, and they’re the ones who refused to listen to your warnings.”
+
+“And now you’re refusing to listen when I tell you to leave.”
+
+“‘Cause I’m not finished here yet,” she said, patting the blades at her hips. “I’m no lost little girl. I can handle myself. You’re right. I was naive to think the Depths would play fair. Now I know better. That doesn’t make me any less qualified than you are to push deeper. Now come on. I think the exit’s this way.” Without waiting for a response, she set off down the hallway, knives drawn and ready for a fight.
+
+Edmund paused for a moment to weigh his options, stretching his elbows and rolling his neck to try and alleviate some of the soreness. They’d face greater threats if they stayed together, and he’d be without the benefits of Solitude and its confluences. On the flip side, could he really, in good conscience, leave this girl to wander the dungeon alone? If she refused to find the entrance and return to the surface, the exit would do just as well. She could use the entrance to the seventh floor as her way out.
+
+With a sigh, Edmund unhooked his spear from the iron ring and followed Amelia down the passage, keeping his eyes and ears open for more shadowhounds.
+
+They came from both directions at once.
+
+Edmund spun to cover their rear the moment he heard the telltale sound of paws on stone. He lowered his spear and readied for their charge.
+
+He dispatched his two opponents just in time to spin around and watch Amelia plant her dagger through the eye of her fourth and final shadowhound. She smiled at him as she wiped its blood off her blade. “Told you I could handle myself.”
+
+“Good,” Edmund said. “Let’s keep moving.”
+
+“Actually, I think we should take a break. We’re tired, we’re sore, you’re irritable. We’ll fight better with a bit of rest.”
+
+Edmund gaped at her. “The floor isn’t clear. It isn’t safe.”
+
+Amelia blinked at him as if he’d just spoken gibberish. “I… realize that. That’s what portable camps are for.” She reached into her pocket to withdraw an inch-long model of a luxurious tent. She tossed it in the air, and a wooden doorway appeared where it landed. She opened it to reveal a wide open space made of crimson canvas with golden embroidery. As she stepped towards it, Edmund moved to follow.
+
+“Hold up,” she waved him back. “Rest in your own camp.”
+
+Edmund kept his mouth shut and simply glared at her.
+
+She sighed. “Of course. You don’t have one. You wouldn’t look like that if you did.” She shook her head. “Can you… I don’t know, clean up a little first? As you are, it’ll take months to get your smell out of the carpet, and that’s if it comes out at all.”
+
+Edmund paused. “He didn’t send you, did he?”
+
+“Who? Look, if it’s too much trouble—”
+
+Edmund exhaled. “You wouldn’t know, would you?” He pulled the bath token from his pocket and held it up between his thumb and index finger. “I’ll be back in an hour.” Without explaining, he flipped the wooden coin through the air.
+
+It never landed.
+
+He found himself standing in a bare stone room, its only furnishings a standing mirror and a great copper tub from which wisps of steam gently curled. Edmund didn’t hesitate to strip down and step into the tub.
+
+The hot water did immediate wonders for his sore neck, the pain seeming to leech away as he submerged himself. Conscious of his one-hour time limit, he allowed himself a few deep breaths to truly relax for the first time in a month before he grabbed the brush and got to work.
+
+No matter how much sweat and dirt and blood he scrubbed from himself, the water stayed clear and clean, a fact for which he’d be eternally thankful given the quantity of grime he’d built up over his time in the dungeon. Once he was clean and toweled off, he took a moment to appraise himself in the mirror on the floor.
+
+An unfamiliar face looked back at him.
+
+His raven hair had grown over his ears, and the hideous wisps of the patchy beard he couldn’t really grow clung to his chin. He’d grown gaunter, his features more angled, his brow harder set. His eyes had sunken back into his skull, leaving dark circles beneath them. He’d seen that look before on the faces of those who survived the Depths and returned to Harrowed’s Haunt.
+
+His lithe figure had grown wiry with toned muscles. The greatest difference was the scars that littered his pale skin. They’d grown too many to count, but Edmund could pick any at will and explain the mistakes that had allowed it. He’d earned his lessons.
+
+His body taken care of, Edmund set to work scrubbing his armor as clean as he could get it. His chitin cuirass and stone pauldrons were easy enough, but the uncountable nooks and crannies in the tree-bark of his Strethian barkbreeches made a complete laundering nigh-impossible in the limited time he had.
+
+He was halfway through strapping his pauldrons back onto his shoulders when the stone bathroom faded away and the dull red glow of magma took its place.
+
+Edmund leapt into action, letting his left pauldron tumble to the ground in favor of leveling his spear towards the floor and checking both directions for any sign of shadowhounds. None appeared.
+
+As if on cue, the freestanding wooden doorway to his left swung open and Amelia stepped out, her armor clean and her weapons polished. “You clean up well. Wanna tell me where you went?”
+
+“Bath token,” Edmund replied, rubbing the back of his neck. “Dungeon dropped it. Redeemable for a one-hour bath. I’d been saving it.”
+
+Amelia blinked at him. “Alright, don’t tell me. Next time, try for a more convincing lie, though. We both know baths don’t fall under the accords’ definition of acceptable drops.”
+
+“It’s a long story,” Edmund breathed. “Can I come in now, or are you ready to keep moving?”
+
+“We can keep moving,” Amelia said. “We’ve gotta be close to the—what’s wrong with your neck?”
+
+Edmund froze where he’d been rubbing it again. “I’m not sure. It’s been sore since the rings. The bath seemed to fix it but now—shit. I’ve lost The Island.”
+
+“The Island?” Amelia furrowed her brow. “Isn’t that a Solitude confluence?”
+
+“The shadowhounds have venom on their claws. The Island keeps me safe from it, but only if I’m alone. Apparently there’s still some poison where they cut me earlier.”
+
+“You seem awfully calm for someone who’s been poisoned.”
+
+Edmund shrugged. “It’s slow-acting, and I can always fix it by leaving you.”
+
+“Or,” she offered, “you could come inside. Clarence made me keep medical supplies in my tent in case anything happened to him.”
+
+“Alright.” Edmund nodded. “I promise not to stink up the place.”
+
+With a grin Amelia stepped aside and gestured Edmund through the magical opening.
+
+He emerged into the largest tent he’d ever seen, complete with king-sized four poster bed, a dining table, a crackling brazier, and a combined bathing and changing area behind a folding screen. He slipped his boots off at Amelia’s request, allowing the soft carpet to gently caress his bare feet as he stepped through the space. Lavender and vanilla mingled in the air, playing their gentle melody upon his nose. He smiled.
+
+“This’ll hurt,” Amelia said as she held one of her daggers above the brazier. “I’m going to have to reopen that wound to get the medicine inside.”
+
+Edmund nodded, sitting down at the dining table and clenching his fists over the chair’s wooden armrests. “Just do it.” He grit his teeth.
+
+Fire and torment exploded down his spine, wretched agony beyond what he’d thought possible washing over him in waves. Somehow it pierced his soul deeper than the broken ribs or the spiderleg through his calf or the myriad other injuries he’d accumulated at the dungeon’s hand thus far. Without the adrenaline of combat to dull it, the pain of Amelia’s knife cut through all but the deepest of agonies. No physical wound could ever match that.
+
+And then it was over.
+
+A sense of coolness materialized at the site of the wound, followed shortly by the light pressure of a bandage. Edmund swallowed.
+
+“All done,” Amelia chimed. “Bastrix root and heria leaf should neutralize the poison.”
+
+Edmund looked up at her. “You really are overtrained.”
+
+“No, you’re undertrained,” she countered. “Besides, this is just basic field medicine. I’m no healer.” She leaned back on her heels and grinned down at him. “Still think I need to run home?”
+
+“Yes,” Edmund said plainly. “Why are you even here?” He raised his hands to gesture to the lavish tent as a whole. “You’re clearly not desperate for resources.”
+
+“I’m here to prove myself. I’ve been training for years, and my father still refuses to see me as anything other than a helpless child.”
+
+“Not a good enough reason.” Edmund shook his head. “Not for this place.”
+
+“And yours is?” Amelia scoffed. “Why are you here then, Edmund?”
+
+“Same reason everyone else is. To die. I’m just doing a decent job of making it take longer.”
+
+“Great,” Amelia said. “So my reason’s not good enough, but you won’t even tell me yours. And for some reason you think that all my training counts for nothing compared to your… what, exactly? Experience?”
+
+Edmund paused to take a breath before looking up at her from his seat. “If I die in this dark hole we’ve found ourselves in, nobody suffers. There’s nobody up there looking for me, nobody anxiously pacing as they wait for the bad news. Whoever you are, Amelia Wend, you’re clearly important enough to warrant a team of professional guards. There are people up top that care about you. Don’t do this to them.”
+
+“I’ll just have to apologize to them when I get back. After I’ve proven my point by clearing… I don’t know… the fiftieth floor?”
+
+Edmund glared at her, but his gaze somehow failed to pierce her confidence.
+
+“Ready to go?” she asked, patting him on the shoulder. “Exit’s gotta be nearby.”
+
+“Alright,” Edmund exhaled. “Let’s get this floor cleared, then we can talk about next steps.”
+
+Once they’d left the portal camp behind and stepped back into the dark cave, Amelia simply snapped her fingers and the wooden door sprung back into a model tent. She picked it up and stowed it in her pocket.
+
+Only a single pack of shadowhounds remained between them and the exit. Just like the previous one, they attacked from both sides, again in a group of two and a group of four. This time, Edmund found himself facing down the larger pack, fending off the four hounds with his spear while Amelia dealt with the two behind him.
+
+He’d only managed to kill one before Amelia finished with hers and turned to join him. Again, she killed four to his two.
+
+“We work well together,” Amelia said as they moved on. “We should consider partying up.”
+
+“Not happening.”
+
+“I know you’re invested in Solitude,” she argued. “That’s just a few levels lost. You need my supplies and training, and I could use your experience. We’d make a good team.”
+
+“Not happening,” Edmund repeated. “Your tent is nice, but I can’t lose my Solitude bonuses. Besides, I’m not facilitating your suicide mission.” He knew it was a long shot, but if refusing to party with her had any chance of getting her to leave the Depths, he’d do it. He preferred framing his decision that way rather than revealing his dependence on Madness. Long term, he couldn’t afford to allow The Recluse to weaken his most powerful Aspect.
+
+“You might not have a choice,” Amelia said. “We’ve fought together now. Dungeon probably considers us a party.”
+
+Edmund sighed. “If it spits us out on the next floor together, we can stay together. Happy?” He hated to mislead her, but he needed to put the topic to rest.
+
+“Very,” she said, patting him on the shoulder and continuing on. As she rounded a bend and disappeared from view, Edmund heard the familiar chime echo from the path ahead. He let out a relieved breath and hastened around the bend to find an open door and a silver chest. By the time he reached it, Amelia was already rooting through it.
+
+“Got some kind of necklace, some coins, and a pair of vambraces.”
+
+“Let me see,” Edmund said, peering around her to gaze at their loot. The illusory smoke came slowly, as if he had to tug at reality itself to conjure the words. Even then they hung thin in the air, weakened by Amelia’s presence via The Recluse.
+
+Shadowclaw Amulet
+
+Provides medium resistance to venom.
+
+“You should take the necklace,” Edmund said immediately. “It’s venom resistance. The Island will cover me.” He stopped to look down at his bare forearms, scarred where a shadowhound had bit them. “I need those bracers.”
+
+Shadowhide Vambraces
+
+Provides protection against poison, piercing, and cold damage. Vulnerable to fire and blunt-force damage.
+
+Amelia didn’t argue, looping the leather string around her neck and tucking the shadowhound claw on it under her leather chest piece.
+
+Edmund talked as he strapped the simple black leather bracers to his forearm. “How come your loot all matches? I’ve got black, dark brown, and two different shades of gray.”
+
+“Cause it’s not loot. I brought it with me. We sold all our loot back on the fifth floor since none of it was better than the stuff we came in with.” She patted the spot on her chest above the amulet. “This is the first actual upgrade I’ve found.”
+
+“Of course,” Edmund exhaled as he shoved his share of the silver coins into his pocket. He shut his eyes to bring up his constellation, but thought better of it at the last moment. Instead, he looked towards Amelia. “What do delvers do once they’ve found their most resonant Aspect?”
+
+“Planning ahead, are you?” Amelia laughed. “Most don’t make it that far, and even fewer keep going afterwards. If my own constellation’s any judge, it’ll take until well past the fiftieth floor before I have any idea what my Aspect is.”
+
+“And once you do… what’s next?”
+
+Amelia shrugged. “Combine as many things with it as possible? I think it’s optimal to combine it with as many high-tier Aspects as you can, but don’t quote me on that.” She shook her head. “I’d have to ask… nevermind.”
+
+Edmund didn’t press her on it for fear of tipping his hand too much. Her theory, uncertain as it was, seemed to line up with his. With a nod he opened his constellation, selected his highest-tier Aspect that still had open confluences with Madness, and combined the two.
+
+Tier 3 Aspect: The Rift
+
+Level 1 - Provides access to the Rend active ability.
+
+Edmund blinked, taking a moment to stare at the resplendent gold with which his newest Aspect resonated. He failed to see the connection between The Rift and The Island, but the former did seem at least tangentially related to Madness. Already anxious to test out his new ability, Edmund hastened to check his other Aspects for any changes.
+
+As expected, The Island hadn’t visibly changed, but at level two its effects should theoretically be stronger. Madness, however, had a new effect.
+
+Tier 1 Aspect: Madness
+
+Level 4 - See beyond reality. Touch the unreal.
+
+Edmund didn’t like the sound of that. Thus far the illusory smoke that helped guide had remained intangible. Physically interacting with something that didn’t exist felt like a greater leap into insanity than he’d expected.
+
+“Anything good?” Amelia’s voice pulled him from his thoughts.
+
+Edmund blinked his constellation away, but otherwise didn’t answer.
+
+“Suit yourself,” she said. “Ready to go? Remember, if the dungeon keeps us together, you agreed to stay together.”
+
+“I did.”
+
+Amelia smiled. “Good. And no cheating! I want you to promise you won’t linger here too long after I’ve moved on.”
+
+Edmund opened his mouth to argue, but Amelia didn’t let him.
+
+“Promise!”
+
+“I promise,” he growled reluctantly.
+
+“Great!” she chimed. “I’ll see you down there. Oh, and in case I don’t—” She lunged forward, catching Edmund off guard as she wrapped him in a great hug. “Thanks. You saved my life back there. I won’t forget it.”
+
+Before Edmund could overcome the surge of shock, discomfort, and strange sense of warmth that flooded him, she pulled away. She winked and grinned. “See you around.”
+
+Edmund paused, took a breath, and, once he was sure Amelia had disappeared into the darkness between levels, called to the empty room. “You can come out now!”
+
+Liam appeared in a plush leather recliner, a platter of cheese and cured meats on a small table to his left. He beamed up at Edmund. “That was a fun floor. Did you have fun? I had fun.”
+
+“I want you to split us,” Edmund said. “Whatever floor she just landed on, send me somewhere else.”
+
+“And here I’d thought you’d taken a liking to our wayward heiress.”
+
+Edmund scowled. “Heiress to what?”
+
+“That’s her secret, not mine.” Liam sat up in his chair. “Here’s the deal. Since you’ve asked so nicely, I’ll send you to a different floor. But, I’m going to hold you to your promise of not lingering here too long.”
+
+“Why should that matter? If we’re going to different floors, she wouldn’t know one way or another if I hung back.”
+
+“Let’s just say, I get the impression you two’ll be running into each other again.”
+
+Edmund let out a breath. “Please don’t force us together again.”
+
+“Oh, I don’t have to. Unless one of you dies, you will eventually run into each other. The further you go, the fewer other delvers there are to meet on the floors that allow it. You’ll find you end up with a cohort of others that wind up on the same floor as you over and over again. But—” He clapped his hands together. “Since you asked, I’ll keep your next few floors solo.”
+
+“And if I break my promise?”
+
+“I’ll punish you.”
+
+“You’ll what?”
+
+Liam grinned. “There’s nothing in the accords that says I can’t make your next five levels steel boxes. Without soil for your rootmother’s sigil, you’ll be right back to eating dead mobs before they despawn. I could spawn only constructs as monsters and you’d be forced to leave the dungeon or starve.”
+
+A laugh burst from him. “I once had a delver piss me off so much, the only loot I gave him for nineteen floors straight was boots. All different, all valid loot by the accords, but he could only use one pair at once.” All at once the mirth exited Liam’s face as he looked Edmund dead in the eye. “You don’t want to be on my bad side.”
+
+Edmund glared at him. “I’m actively trying to kill you.”
+
+“A lot of people are. I’ve learned not to hold that against them.” Liam smiled once more and gestured towards the door with an open palm. “So, what’s it gonna be? Extra training and an angry dungeon, or a timely exit to the next challenge?”
+
+Edmund bristled. “You planned this.”
+
+“I gave up on planning shit centuries ago. It’s much more fun to react to things as they come. Tick tock, Eddie-boy.”
+
+“Don’t call me that.”
+
+Liam threw his head back. “Thrax, could you be any less fun? Just go through the fucking door. I promise you’ll get a chance to play with your new skill.”
+
+“Fine,” Edmund grumbled. “I’ll see you down there.”
+
+“That’s the Edmund I know and love,” Liam chimed. “Grumpy and sour as ever.”
+
+Edmund didn’t pay him the dignity of a response. Instead, he turned his back on the obnoxious dungeon, made sure his gear, new and old, was secure, and looked up at the exit before him.
+
+With a mixture of annoyance and excitement mingling in the shadows of his mind, Edmund rejected the distractions, inhaled focus and determination, and stepped into the darkness.
+
+Edmund Montgomery Ahab
+
+Aspects Unlocked: 7
+
+Tier 1 Aspect: Solitude - Red Resonance
+
+Level 4 - Gain increased constitution while fighting alone.
+
+Tier 1 Aspect: Perseverance - Gray Resonance
+
+Level 4 - Gain minor health regeneration.
+
+Tier 1 Aspect: Madness - Prismatic Resonance
+
+Level 4 - See beyond reality. Touch the unreal.
+
+Tier 2 Aspect: Obsession - Gold Resonance
+
+Level 1 - Gain strength and agility for each consecutive day spent pursuing your obsession.
+
+Tier 2 Aspect: The Recluse - Gold Resonance
+
+Level 1 - Empower the effects of Madness while alone. Lessen the effects of Madness while accompanied.
+
+Tier 2 Aspect: The Island - Gray Resonance
+
+Level 2 - Grants resistance to over-time effects while alone.
+
+Tier 3 Aspect: The Rift - Gold Resonance
+
+Level 1 - Provides access to the Rend active ability.

@@ -1,0 +1,233 @@
+---
+id: a8d99591-c36b-5194-a733-bbc4d48e8d1e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 39: Stronghold Deragun"
+slug: 0039-chapter-39-stronghold-deragun
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 39
+ownLength: 2288
+unit: words
+publishedAt: 2026-07-06
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3641161/chapter-39-stronghold-deragun"
+royalRoadId: "3641161"
+---
+
+My next lesson I’ve decided to teach you is the secrets of dual casting. No, you don’t need to be an archmage to do it. Hells, even an apprentice can do it if they’re good enough.
+
+Two first circle spells cast simultaneously. They have to be of the same identity, no mixing fire and ice, or you’re just creating a more complicated second circle spell. Honestly, it’s even easier if you’re casting the exact same spell twice, no need to split the mind on two different desire runes then.
+
+I follow Libby through the halls of the Inn, new doors appearing in the endless hallway until she arrives at the one her key is enchanted to take her to.
+
+She opens it up, revealing a room with two beds. On one side, plants of all kinds are kept in pots, climbing up the walls and over the bed, but halfway through the room, they stop, none of their leaves even attempting to cross an invisible boundary.
+
+At the center of the tiny jungle, a young Lin girl is mixing a concoction in a bowl, humming to herself as several blue jellyfish float aimlessly above her head.
+
+Tanya looks up and smiles, “You’re here! I just finished.” She walks over to a desk and sets the bowl down. “The hair is easy to do, but the eyes required a little more… magic.” She smiles to herself, then motions for me to come over as she hops over to her bed and picks up a vial that swirls with a green liquid.
+
+I step through the plants, noticing how several of them react to my presence, their leaves turning towards me. The pots and seeds I’d given her from the Archmage’s sanctum were being put to good use it seems.
+
+Libby works on her side of the room, moving things in preparation to leave while Tanya motions for me to sit on a chair.
+
+I do, and watch as she pours the vial onto her hands. She hesitates for a second as she looks at me, “Can I…?”
+
+“Go ahead.”
+
+She takes a breath, then steps forward to rub the green liquid into my hair.
+
+“It’s temporary, right?” I ask.
+
+She nods, “Two weeks.”
+
+She shifts my head and I focus on the desk where the other concoction sits.
+
+I don’t know why, but I do know that mages often have features that match their alignment. Eyla’s hair was a prime example, but I’ve seen some stranger ones during my journeys with my mentor. He’d hired a mage with stark purple hair during an adventure through some particularly poisonous ruins. Even my own hair and eyes usually have the mix of gold, brown and hints of green to match the hazel of my mana.
+
+A strand of the dyed hair falls into my eyes, a solid dark green now.
+
+Tanya steps away, then takes a dollop of the concoction she’d been mixing on a spoon. “For your eyes.”
+
+I take the spoon, then hesitantly move it towards my eye.
+
+She laughs, “You can eat it.”
+
+Ah. That makes more sense. I eat it, tasting the slight earthy flavor as it makes its way to my stomach.
+
+A stream of mana makes its way to my eyes, then goes away.
+
+I look up at Tanya, who’s studying me with curiosity. “How do I look?”
+
+“Green.” She smiles.
+
+I snort, then look over to Libby. “What do you think?”
+
+The older woman pauses, studying me for a moment. “You look like a mage.”
+
+“That’s what I wanted.” I stand from the chair, and watch as Tanya hurries around the room, gathering various vials into her pack. “I’ll grab my things, and we’ll meet out front?”
+
+“I’ll grab the boys.” Libby calls from the other side of the room.
+
+I make my way towards the exit, then pause at the door. “Tanya?”
+
+The young Lin girl looks up.
+
+“How are you going to take care of the plants while we’re gone?”
+
+She points at the watering can we’d looted from the sanctum. “Kingston will water them.”
+
+I try to see if I recognize the name, but nothing comes to mind, so I simply nod and leave the room.
+
+Keve and Shar are ready for me when I get to the room, and it’s a quick process to throw my cloak on, and put my backpack over my shoulders.
+
+I pull the hood up, make sure I have the nature gloves on, and check my pocket for my wand. A few twigs and seeds rest in my other pocket. The builder’s sword is wrapped in cloth, and placed in my pack with the handle sticking out to hide the symbol of wings on its scabbard.
+
+My usual sword is tied to my waist, and I do one last check of the room before we leave and meet the mercenaries out front, Jasper already resting with them, fully packed.
+
+Shar takes to the sky, while Daron keeps an eye out on the ground for anyone following us as we leave through the main gates.
+
+Again, there’s a reaper watching the entrance, but he doesn’t even look up from his fire as we head towards the southern road.
+
+It’s a two day journey to the human Stronghold Deragun, and our wariness is high.
+
+Snow starts to fall, a light snowfall that covers the ground in a thin layer, maybe an inch thick. It slows us down slightly, as the dark clouds make nighttime approach all the quicker, and we’re forced to make camp early to avoid the dangers of the night.
+
+Shar and Daron have us stop four separate times, activating the Angel statue. Once a pack of creatures hunt the road, keeping us in place for an hour before they move on, and twice, large monstrosities leave the trees, crossing the road to wherever they’re wandering takes them. The fourth time, I don’t see or hear whatever has them worried.
+
+Towards the end of the second day, we come across the bodies. A small group, around the same size as ours, are strewn across the road in pieces.
+
+We’re forced to hurry through, and Libby covers the eyes of poor Tanya, who looks even greener than usual at the sight.
+
+Only a few hours from the Stronghold, and a party of five were dead on the main road. It’s a reminder to me of something that I already know.
+
+The world isn’t safe.
+
+Whoever had ambushed me on the road to Onder doesn’t bother us on this journey, and soon enough, the large walls of the stronghold become visible.
+
+Reaching to the sky, I can feel the mana radiating from the ancient stone as we approach, covered in runework and enchantments, it is a bastion against the terrors of the world.
+
+A large gate is open at the front, several guards, two reapers, and a mage standing guard. They all straighten as we approach, raising spears and loosening swords. Most of their gazes stay on me, which is something I’m not used to.
+
+At least the disguise is working.
+
+“Step forward.” The mage, an older gentleman with bright blue eyes and gray hair tied back into a ponytail, says.
+
+I glance at the others, then step forward.
+
+“Are you the leader?” The guard captain asks, stepping up beside the mage.
+
+I nod.
+
+“Good, place your hand here.” The captain holds up a familiar class orb, and I reach out to place my hand on it.
+
+You are being appraised. Would you like to reveal your 1st class (general) or your 2nd class (general)?
+
+I mentally select the second class.
+
+“Mage. What’s your name and specialty?”
+
+“Leo. Nature.”
+
+The guard looks over to the other mage, who gathers mana to himself. “Demonstrate a spell please.”
+
+I hold up my hand, calming my breath as anxiety fills me. This is the true test, magic cast in front of an actual mage. I target a nearby weed sticking up from the ground near the mage. A green spell-circle forms at the end of my hand.
+
+Transformation, Nature, Grow.
+
+The weed follows the command, its stalk reaching up from the ground as it transforms. A second later, a blade of wind cuts through the plant, killing it.
+
+The mage across from me smiles, and holds his hand out, “Sorry about that, it’s procedure. My name is Calvin. I don’t think I recognize you. Where do you hail from, Leo?”
+
+I hesitate for a second, then shake his hand. I’d forgotten how interconnected mages are, even across strongholds. I use a name I know he won’t know. “I’m from Kolas’s Stronghold.”
+
+Calvin hums in thought, “Can’t say I know of it. Would I know your clan?”
+
+“I doubt it. I’ve traveled quite far from the east.”
+
+“Through the Dark Plains?” A look of genuine shock covers the mans face before he covers it.
+
+I understand why. Travelers from the east are rare, as there’s no strongholds for months of travel, and the monsters that haunt the southern plains and deserts are quite deadly. I don’t like the lie, but it’s the best I can come up with to explain why I’m disconnected from the Arcanists.
+
+“That’s impressive, although a nature alignment does help, I’m sure. the Arcanists are always happy to welcome new clans to their ranks. Our guild covers the three western Strongholds.”
+
+“Thank you.”
+
+Calvin turns from me, his expression going cold as he examines my companions. “The rest of you come through one at a time. Twisted to the back.”
+
+I grimace at what he called them, then do my best to hide it. It makes sense, if nonhumans are rare in frontier cities, then racism in the strongholds must be even worse.
+
+After a second, I step in front of the other mage, causing him to look at me. “Please, do not call them that.”
+
+He looks at me for a long moment, then nods his head. “Nonhumans to the back.”
+
+They make their way through the class orb. With Tanya going last.
+
+The Captain of the guard looks over to the mage, and calls out, “She’s a Unique.”
+
+Calvin looks at me for a long hard moment, then nods, “Let her through, make sure they both have trackers.” He turns to me, and leans close, “Be careful they don’t get into any trouble. Rules are harsher for the twi- for nonhumans. There’s more than a few slavers that would be happy to get their hands on a Unique classed nonhuman.”
+
+The words are meant as a kindness, but I can’t help the twisting of my stomach as they put bracelets on both Keve and Tanya. I’d been so young, that I’d forgotten how they’d treated my Mentor when he’d visited the stronghold.
+
+Disgust wells up in me, and I forcefully shove it down. Strongholds were meant to be a bastion for the best of humanity, and yet the casual racism and classism visible to me just made me want to puke.
+
+He would not be this kind to me if I were still an Explorer.
+
+I give a thank you to the mage, then motion for the rest of the group to follow me.
+
+We walk through the gate and into a long tunnel. I can’t help the tensing of my muscles as I prepare for the pain of the stronghold rejecting me.
+
+It doesn’t happen, instead, a soothing aura fills me as a message pops up in front of me.
+
+Welcome Lord Leo Grayson to Stronghold Deragun. The Lords of Stronghold Deragun greet you, and grant you access to the Stronghold’s basic systems. Please mark your vassals so that they we may know they are yours, and grant them protections. Once that is done, you may bring up your Lord Screen.
+
+I stare at the message, then look at Keve, and try to mark him the same way I would activate an ability.
+
+Keve stumbles, then reads something only visible to him. He glances up and gives me a small nod. Then I receive another message.
+
+Vishten Keve has accepted the mark of Vassal.
+
+I do the same to the other members of my party, and each of them pause to read a message of some kind, before accepting. I get several surprised looks from the mercenaries, but none of theme say anything.
+
+Next I try to bring up the Lord Screen.
+
+Lord Of Kolas’s Stronghold: Leo Grayson
+
+Kolas’s Stronghold’s Claimed Land: 2 Rooms
+
+Stronghold Deragun’s Claimed Land: None
+
+Vassals:
+
+Keve, Level 30 Warrior
+
+Libby, Level 41 Healer
+
+Daron, Level 24 Scout
+
+Grildor, Level 36 Warrior
+
+Tanya, Level 15 Unique
+
+Shar, Level 20 Scout
+
+Citizens (Kolas):
+
+None
+
+Citizens (Deragun):
+
+None
+
+My steps stop as I stare at the screen. Focusing on one of the names brings up their full status, which I quickly close. Knowing someone’s full status is incredibly personal, and I feel like I’m violating their privacy by just gaining a glance.
+
+“Do I need to call you Lord Leo, now?” Libby asks, her face deadly serious.
+
+The words make me look up to see that everyone is looking at me.
+
+I shudder, “Please don’t. Sorry to dump that on you, I should know better than to explore the system out in the open.”
+
+Daron, laughs and claps me on the shoulder, “Our explorer is full of surprises! Guess you won’t have to worry about that other lord anymore, Grildor. Now that you’ve got Leo here on your side.”
+
+“‘S a weight off my heart.” Grildor laughs.
+
+I smile, the tension flowing away from me as I realize that none of them are going to treat me different.
+
+We walk forward, leaving the tunnel and entering the bright lights of Stronghold Deragun.

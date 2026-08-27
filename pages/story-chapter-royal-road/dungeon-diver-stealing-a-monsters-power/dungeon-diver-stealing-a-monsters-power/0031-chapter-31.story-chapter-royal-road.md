@@ -1,0 +1,229 @@
+---
+id: d38423b0-3183-5c7f-b45a-ceb1ce02e8af
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31"
+slug: 0031-chapter-31
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 31
+ownLength: 1801
+unit: words
+ownProgress: 1801
+publishedAt: 2023-02-17
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1116425/chapter-31"
+royalRoadId: "1116425"
+markedReadAt: "2026-06-29T20:32:51.634Z"
+---
+
+Dungeon breaks happen when too much magical energy builds and is released all at once.
+
+Mutants spawn in at much higher rates and the boss is guaranteed to be a mutant sucking up all the leftover magical energy.
+
+The exit portal turns red and allows both humans and monsters to enter and leave as they wish.
+
+An increase in mutant monsters means an increase in potential rare loot. Strong hunters and guilds see dungeon breaks as top priority events.
+
+Of course, this is to save the public from the dangerous monsters that can escape and harm those in the town nearby. There's a thin line between protection and profit I guess.
+
+Anyways, I'm the first one to realize this is a dungeon break. There are over a dozen monsters in the general vicinity. There's no way I can take them all on by myself...
+
+If they all escape into the city there will be some serious casualties. The nearest guild is way too far away to warn anyone in time. I'm sure the two guards out front will catch on soon, but many monsters will escape into the city before the proper team can arrive.
+
+The only way to stop all of this is to defeat the boss. The dungeon will collapse in on itself after the boss room is cleared. That's common knowledge on how dungeon breaks work. I've just never seen one with my own two eyes.
+
+This is my best bet. I'm going to face that boss. It may be a mutant, but I have a better chance of defeating it than trying to fight all of the dungeon's monsters at once.
+
+I wanted to get stronger right? I can't back down from a challenge.
+
+I took a deep breath and gripped my sword.
+
+The air was getting thicker and thicker. I could sense that the source was coming from a very tall mountain about 2km away. That must be the boss room.
+
+I headed off towards it in full sprint. I used the winding valleys to avoid as many monsters as I could.
+
+For 20 minutes I ran and dodged every cyclops in sight. There were about 6 normal monsters and 3 mutants that crossed my path. I could sense over 3 dozen in my close vicinity, they were headed in the direction of the dungeon exit gate.
+
+All the more reason for me to hurry and defeat this boss.
+
+The closer I got to the mountain the more monsters I saw.
+
+The ground was rumbling. A stampede of mutants appeared. 7 of them were lined up and charging in the direction of the dungeon's main gate. There was a large group of normal cyclopes following close behind.
+
+A couple may have already breached into the home world, but the bulk of them were about 20 minutes away from the portal. If this wave makes it to the city, it may be leveled before the Hunters Association or Pace can get here to stop them.
+
+The wave rumbled by, they hardly paid any attention to me. I saw a dark grey floating portal just 100m in front of me in the direction the stampede had left from.
+
+I sprinted towards it without hesitating, this is the boss room.
+
+From around the corner of the mountain's rock ledge another group of monsters appeared. They must all just be spawning in here.
+
+I kept sprinting forward with my eyes on the boss room portal.
+
+"RUUUUUAAAAAAARRR!!"
+
+2 giant mutants came charging towards me followed by a pack of their normal cyclops underlings.
+
+I completely ignored them and kept my eye on the prize.
+
+Moments later I managed to jump through unscathed.
+
+I could hear many roars as i was transported into the boss room.
+
+This is insanity.
+
+I made it to the boss room.
+
+It was 300m long, 200m wide, and over 50m tall. I was standing in a wide open cave. There were no obstacles in sight. Just a rocky floor, curved cave walls, and a ceiling.
+
+It was silent.
+
+The air in here was so dense with magic, I could feel it following all around me.
+
+I could also feel the stare of a horrible creature.
+
+"THUDDDDDDD."
+
+"CRACKKKKKK"
+
+"THUDDDDDDD."
+
+"CRACKKKKKK"
+
+An enormous cyclops emerged from the back of the cave. Its skin was so dark that is looked black. Its eye was bloodshot and staring at me hungrily. Every step it took cracked the rocky ground below it.
+
+The mutant boss stood at nearly 10m tall. It's bigger than any monster I've ever seen.
+
+"RWWWWWUUUUUAAAAAARRRR!"
+
+It let out a roar declaring battle.
+
+I stood there in awe, I used inspect and my jaw nearly dropped to the floor.
+
+[Lv. 171]
+
+Level.... 171. I had a hard enough time defeating a mutant in the 140s. This is going to be the greatest challenge I've ever faced.
+
+I cannot slip up. Even one hit may be fatal.
+
+"RWWWWUUUUUAAAAAARR!"
+
+The ground breaking steps of the mutant drew closer. I followed its lead and sprinted towards it as well.
+
+Its speed was similar to the other mutant I battled previously. Maybe slightly faster than me, but not impossible to use my agility to weave around it.
+
+The real problem here was its overwhelming strength.
+
+This cave has completely flat ground, it would be close to impossible to use that airborne tactic from my last fight.
+
+As we sprinted towards each other I prepared myself to dodge.
+
+Once we were about 10m apart I made a sharp turn to the right and narrowly missed its club's wide swing.
+
+There was nothing else I could do right now, I just have to dodge and weave until I find an opening.
+
+The monster rumbled on passed me. Like clockwork, It turned and started its charge towards me again.
+
+We basically just played chicken over and over.
+
+It charges at me, I follow its lead. Then I narrowly dodged a heavy swing... and we repeat.
+
+We did this over and over for about 2 minutes straight.
+
+I couldn't get an opening. It pretty much had perfect defense. The only way I could get in its blind stop would be to take a hit from its club. It would do a lot of damage... but I think it's my only hope right now.
+
+We faced each other once more. The mutant boss started running towards me.
+
+I gritted my teeth and charged in as well. I readied myself for a brutal attack. This is going to hurt.
+
+It swung its club in a predictable fashion, the monster was expecting me to dodge.
+
+I ran straight forward and swung my sword at the beast's weapon this time. The force of the club was overwhelming. My blade was pushed down instantly. The club hit the whole left side of my body with a bone crushing blow.
+
+I was thrown to the ground and I coughed up a pool of blood.
+
+I knew this would happen, I just didn't expect it to hurt this bad.
+
+The moment I hit the ground I ignited my flames and planted my right foot.
+
+The left side of my body was pretty much useless right now, but I had to work with what I had.
+
+The cyclops was continuing its charge forward as I lunged in at its backside.
+
+I let out a yell.
+
+"TAKEEEE THISSSS!!!"
+
+With a powerful swing of my fiery sword I attacked the center of the monsters spine.
+
+"CLANGGGGGGG"
+
+My eyes went wide with fear and confusion.
+
+My sword bounced off the monster's back without a scratch.
+
+The moment my blade came close to contacting its body, the skin near my sword hardened into a thick black crystal like substance.
+
+This must be some kind of advanced body hardening....
+
+This is bad.
+
+Very bad.
+
+I opened my status to see my HP at 45/670. I chugged a potion and ran away as fast as I could.
+
+As I ran for my life I quickly regained feeling in my left side. My HP had risen back up to 545/670.
+
+"RWWWWUUUUUAAAAAARR!"
+
+The enormous monster still had me in its sights.
+
+It charged towards me again and I dodged with all my might. We continued this over and over. There was nothing else I could do.
+
+We were drifting closer and closer to the back wall of the dungeon.
+
+Every dodge I made was bringing us closer together. Each time we charged in, the cyclops got more and more used to my movements. The longer we keep this up, the worse off i'll be.
+
+I was starting to get out of breath. I can only keep this up for a few more minutes. I need to think of something fast.
+
+I was going through every potential battle scenario I could in my head. Basically every situation ended in an unfavorable outcome for me. Only one option came to mind... It's the only thing that worked for me before.
+
+There was a curved cave wall about 20m behind me. If I ran at it fast enough I could definitely climb it and attempt to attack from higher ground.
+
+It's risky, but right now I have no other choice. I can't keep dodging forever. I have to do something.
+
+Without thinking much more of it I turned and ran. This was my Hail Marry.
+
+I sprinted will all my might at the cave wall. I could hear the ground crushing footsteps close behind but didn't dare to look back.
+
+I jumped up onto the wall and ran as far as I could fighting gravity all the way up. Once I felt myself start to slow down I pushed off the wall with both my legs and ignited by entire body into flames.
+
+I spun around to face the beast below me and held my sword straight ahead.
+
+I had managed to climb the cave wall high enough. Its club was not within range. This could really work.
+
+I pushed out even more flames as I flew high over the monster's glaring eye.
+
+"RWWWWUUUUUAAAAAARR!"
+
+The cyclops let out a cry as I temporarily blinded it with the fire's bright light.
+
+This is my chance.
+
+I flew over the beast's head and locked my eyes on its upper back.
+
+The cyclops was still flailing around trying to located me in its blinded state. I took this opportunity to make my final move.
+
+I touched down on the ground right behind the beast and planted my right leg to jump back up. I had the perfect angle.
+
+"FINALLY!!! I'VE GOT YOU NOW!!!"
+
+I focused all my magic into the sword's tip and swung with all my strength.
+
+"CLANGGGGGGGGGGG"
+
+*Clink *Clink *Clink *Clink *Clink
+
+My eyes went wide.
+
+My heart stopped and time slowed down.
+
+My sword shattered into a million tiny pieces right in front of my eyes...

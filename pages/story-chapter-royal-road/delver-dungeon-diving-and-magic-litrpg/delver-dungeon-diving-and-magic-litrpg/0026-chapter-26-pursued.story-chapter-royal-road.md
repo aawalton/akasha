@@ -1,0 +1,183 @@
+---
+id: c020a1cc-717b-5c66-912a-908c64174a13
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26: Pursued"
+slug: 0026-chapter-26-pursued
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 26
+ownLength: 1962
+unit: words
+publishedAt: 2026-06-13
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3535307/chapter-26-pursued"
+royalRoadId: "3535307"
+---
+
+[Predator] Undead. Known for eating the flesh of the living, these undead are silent hunters with sharp senses. At high enough level, they become capable of blending in with humans in frontier settlements. They can heal from all injuries by eating the flesh of the living, and have enhanced physical capabilities matching warriors with Passive Increases.
+
+Upon suspicion of their existence, contact a reaper of Angel Kiveso.
+
+Standard contact procedure includes fire, draining curses, and isolation.
+
+“Reaper Yana.” I say in surprise, recognizing her yellow eyes from behind her mask.
+
+The snow had started to fall again, covering the hair of everyone at the gate. Reaper Yana looks at me with an unreadable expression, then glances at the guard turning everyone away.
+
+“Are you looking to leave?” She looks back at Keve and I, her gaze resting on Keve for an extra moment.
+
+I nod to the Reaper, “It’s important we go as soon as possible.”
+
+She looks at me for a long moment, then turns to the guard. “Let them through.”
+
+Another reaper, a follower of Sol, the Reaper of Death, steps forward, “Is that wise. A human and a Twisted-”
+
+She turns to him, “Yes. This man, and his companion are trusted. Let them through.”
+
+The guard looks between the two Reapers, not wanting to get involved in whatever politics was happening.
+
+After a moment, the other Reaper steps back, ceding to Yana.
+
+The guard follows suit, “Let them through!” He calls.
+
+The gate is raised, allowing Keve and I to pass through, Jasper following behind at a sedate pace. The follower of Alvarana walks beside us up to the edge of the gate.
+
+“Thank you, Reaper Yana.” I say to her as she stops.
+
+She looks at me, her gaze falling to my sword for a moment before returning to my eyes, “You follow the will of the Angels, Leo. I dare not stand in their way.” She pauses, and I swear she gives me a hungry smile under her mask, “You will have to tell me where they send you, when you return.”
+
+I bow my head, reminded suddenly that this woman is incredibly dangerous. Whoever she is, she has power over the other Order’s reapers, and over Brother Ivan, who is respected in his own right.
+
+She turns back into the city, and the gate closes between us.
+
+I stare at her back for a moment, then turn into the gently falling snow. “Shar, make sure we’re not followed. We’ll walk West until we’re sure there’s no one tracking us.”
+
+The golem yawns, then transforms into her crow form and takes to the sky.
+
+The good news about the falling snow is that many creatures will be less active, leaving us to mostly contend with the elements, and the more sentient creatures of the world.
+
+The snow crunches underfoot, just a thin layer, but making our footsteps obvious until enough time has passed for a fresh layer to cover it.
+
+I press forward, and Keve follows, trying to make as much distance as possible before full nightfall.
+
+The road quickly starts to turn into a small path, as the lack of care over the centuries becomes clear. Roots break up old cobble, and plants of all kinds flourish from the lack of competition that once came from the path.
+
+I’ve traveled this path twice before with my mentor, once to go towards the Southern Whirlpools, and once to go to a ruin on the outskirts of a non-human city.
+
+The path up to the city of the dead will be a new one. While it lies between us and a coastal stronghold far north, no one takes the path, instead making their way inland to one of the eastern golem-guarded strongholds, and zigzagging down to the Frontier City and the Southern Stronghold.
+
+The city of the dead is too dangerous, even explorers avoid it. Mages won’t save you against the Undead Warlocks, Witches, and worse.
+
+We won’t be going directly through ourselves. I pull out my notebook, and unfold it to the page where I’d written down Angel Kolas’s map. Thankfully, our destination is just outside of it, and while the path wants us to go through the city, I should know a detour that isn’t too overrun by undead.
+
+Shar flies back down, landing on Jasper, the Rock-Lizard carrying on without care.
+
+“Two humans, a scout and a warrior follow your path. An Undead Predator walks behind them.”
+
+I share a look with Keve, then turn back to the crow, “Are they together?”
+
+Shar nods.
+
+So the necromancer themself wasn’t following, which is good. How did they know I have the map? Wait, no. This is a small party for an objective like that. They may just be following us because we left during a lockdown of the gates. If I was searching for someone, I’d look for suspicious parties. Like ours. Still, two humans and an undead are nothing to scoff at.
+
+But this is the wilderness, my homeground. We could attempt to outpace them by taking some of the more hidden paths I know of, but scout classes all too often have tracking abilities, and without knowing the exact nature of the ability or the specific scout class, it’d be impossible to dodge it completely.
+
+We might be better off ambushing them, and fighting while we are rested and prepared.
+
+Keve stands there, watching me, waiting for my decision. I meet his eyes.
+
+“We’ll fight them.”
+
+He nods, and pulls his scarf over his face, until just his large eyes are visible.
+
+I motion for Keve to follow, and we leave the path. We’re still close enough to town that I know the area well enough, and soon we find a clearing.
+
+I pull out my Angel Statue, set it down, and cover us in its illusion.
+
+Our footsteps disappear in the illusion as well, leaving untouched snow where we were, the trail disappearing suddenly.
+
+“Shar, watch from above, let us know when they’re close.”
+
+The crow nods, and flies to one of the nearby trees, while I string my bow.
+
+“As soon as I fire an arrow, we’ll be visible. The protection will return, but once they know where we are, there’s no point in continuing to hide.” I tell Keve.
+
+I move to the quiver on Jasper, and look through the arrows. There’s not a mage amongst them, so using one of my anti-magic arrows would be wasteful.
+
+“I have a trick up my sleeve that I’ve hidden, you can ask me about it later.” I pull an elemental arrow of fire, which should be effective against the undead. “If you can buy me time, the fight will be over fast.” I pause, and look into his eyes, “Are you ready?”
+
+He nods.
+
+We turn towards the trail behind us, and watch.
+
+Snow continues to fall, covering our footsteps, but not fast enough.
+
+My first shot will be free, so I’ll attempt to hit the undead, but I know better than most that combat rarely goes according to plan.
+
+Shar makes a bird call.
+
+They trudge through the snow moments later. A large man wearing chain in the lead, a wiry, weathered man covered in leather walking beside him.
+
+Where’s the undead?
+
+It’s not here yet.
+
+They pause at the edge of the clearing, confused at the disappearance of our footsteps.
+
+I pull back my arrow, and let it fly.
+
+The arrow hits the wiry man in the chest, and he screams for only a moment, before the arrow explodes into fire inside him.
+
+The larger man turns towards us immediately, a sword drawn, and a shield taken off of his back.
+
+Keve runs forward, his swords igniting on fire as he appears in front of the other person.
+
+I take my eyes off of them, searching the forest, “Shar! Where is it?”
+
+The crow searches with me, then calls “Above!”
+
+I look up, and find it in the trees, its gaze on me. Looking vaguely human, sharp fangs smile at me, and claws dig into the bark of the tree. Flesh hangs off of its face, telling me that it likely isn’t as high level as the one I faced in the Frontier City.
+
+Still, that doesn’t stop it as it leaps towards me. I drop the bow and draw my sword just in time, sparks flying as my blade meets its claws.
+
+A force surrounds its arm, and I’m thrown back, my cloak cutting open to reveal the leather armor I’m wearing underneath. I roll through the snow until I hit a tree, the wind knocked out of me. My sword lands in the snow a few feet from me.
+
+Mana moves from me into my cloak, the enchanted cloth repairing itself, but I can’t pay attention as the Predator is upon me, its mouth open, ready to devour.
+
+I try to push myself out of the snow, but I know it’s too little, too late.
+
+I won’t have time to cast my summoning. I should’ve done it at the start of the fight, but I’m still too scared of revealing my secrets. Still, I place my hand against the ground, ready to call on the spell in hopes for a miracle.
+
+The creature walks towards me, knowing that it will win, waiting to see what I’ll do. Something looks at me from behind the Predator’s eyes, watching me, testing.
+
+I don’t cast.
+
+Twin blades of flame cut the head off of the Predator, then slice through its body. It falls to the ground.
+
+I breathe a sigh of relief, then look over to Keve, who’s standing over the dead body of the warrior, several feet away.
+
+That’s right, he can extend the flames of his sword.
+
+I lean back, my head hitting the tree, as I take a deep breath of the cold air.
+
+Then my mind is working again.
+
+The necromancer had turned his attention to me for that briefest moment. It had wanted to know what I would do when backed into a corner. Was the other Predator his? Does he know how I killed the other one somehow?
+
+It’s a good thing I didn’t summon at the start of the fight if so. I have magic, but my fight with the warlock shows that I’m still not ready to fight the more powerful mages or necromancers. Judging from my first time casting Summon Legend Spirit, I can only hold one of my summons for a minute at most, and would be defenceless if the necromancer were holding something in reserve.
+
+I push myself off the ground, and look at the two human corpses next to the undead. Ideally, we’d be able to burn them in a pyre, preventing them from being raised again by the necromancer. The less he knows about us, the better, and I’ve read that reapers dispose of bodies to prevent necromancers from accessing their memories.
+
+But we don’t have the time. Who knows if he’s sending more undead after us, right now.
+
+“Grab a corpse, there’s a river not too far from here, we’ll throw them in.”
+
+Keve nods without question.
+
+I call Jasper to follow us, then pick up the Scout’s body. Keve grabs the larger warrior, and we walk them for a good ten minutes before finding a fast moving river, it’s currents deceptively deep.
+
+Hopefully there’s something in there that’ll find a meal of these two.
+
+I toss the Scout’s body in, and Keve does the same, then he follows my lead down another path.
+
+We’re staying off the main road for a while, but still heading west. I want to catch any more pursuers before we turn north.
+
+Shar takes to the sky, once more, watching our path.

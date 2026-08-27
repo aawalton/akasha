@@ -1,0 +1,257 @@
+---
+id: d650d17a-bb7d-5960-a67e-218ce7536e24
+page-type-slug: story-chapter-royal-road
+title: "Chapter 97"
+slug: 0097-chapter-97
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 97
+ownLength: 1994
+unit: words
+ownProgress: 1994
+publishedAt: 2023-04-24
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1191693/chapter-97"
+royalRoadId: "1191693"
+markedReadAt: "2026-06-29T20:35:09.888Z"
+---
+
+As the giant purple worm disappears, two shiny items drop from its corpse.
+
+I use appraisal as I pick up the large mana crystal and a round white orb. It's slightly purple-tinted, similar to the monster's skin color.
+
+[Purple Worm's Pearl]
+
+"Hmm, there's no info on this thing..."
+
+It lets off a light hum. The orb is no more than 1kg and rests firmly in the palm of my hand. I toss it up and down a few times before shrugging and throwing it into my item storage with the mana crystal.
+
+Everyone else in the group catches up and we continue to roam the flat dirt wasteland of a dungeon.
+
+Over the next half an hour, we trek straight forward and run into 2 more giant worms.
+
+I let Maria handle the next one. In one long continuous slash, she's able to freeze the front half of its body, taking out the beast in a single hit.
+
+Nessa, Abby, and Bruce take on the next attacker. As the monster erupts from the ground Abby skewers it in place with 8 massive razor-sharp cones of dirt and rock. Nessa bursts into flames and slices the worm's front side wide open forcing it to squirm and squeal in agony. Bruce follows at the rear, with an onslaught of hammer hits leaving the beast's jaw unable to function. With a series of fiery slashes and jagged rock stabbings, the monster is defeated with ease. Abby speaks up with a wide grin after the creature disappears.
+
+"I gained two whole levels from that!"
+
+Nessa nods in agreement.
+
+"Yeah, I gained two as well!"
+
+Bruce nods happily.
+
+"I gained one myself."
+
+He looks over to me.
+
+"Us three should handle the worms for now, I assume you and Maria aren't leveling up at all here."
+
+"You're right, we'll step back. You three need the levels more than us."
+
+We all agree and continue forward.
+
+Over the next hour and a half, the three of them improve tremendously. They fight 4 worms together, then 3 more individually. I use inspect and monitor each of their progress closely.
+
+Bruce uses 2 MP potions in total while making it to level 276 over the next couple of battles. He comes up with a new move using the sharp end of his hammer to rip the monster apart in just a few hits.
+
+Nessa consumes 3MP potions and makes it up to level 274. Her firepower is decent, but it still takes a few hits for her to slice the monsters in half. The long way that is... Nessa really tried to copy my move, it didn't work out as well as she'd hoped. It still got the job done eventually!
+
+Lastly, Abby grew the most in my opinion. While only drinking 2 MP potions, she grew to level 274 as well. I witnessed a new battle technique from her. While capturing the beast in a prison of rock spears, she conjured two reinforced stone daggers. With a graceful jumping maneuver similar to the stone pillars she used facing those Griffins, Abby threw herself over the worm and slid down its back with both daggers piercing its thick skin while growing them in size. By the time she reached the ground, the creature split into three separate parts....
+
+"How'd ya like that?"
+
+Abby walks back over to our group after this final battle with a confident smirk across her face.
+
+I reply.
+
+"Not bad, not bad at all."
+
+*THUDDDD*
+
+The two parts of the beast hit the ground on either side simultaneously as its middle piece crumbles to the floor.
+
+I use enemy detection as Abby collects her mana crystal and the rest of the group praises her for the unique kill.
+
+While squinting my eyes, I look out into the distance.
+
+"We're either at the boss room... or we're in trouble."
+
+I can sense a lot of high-level beings less than 500m away.
+
+Maria laughs and points forward.
+
+"That's the boss room! Come on!"
+
+We all begin running forward toward the specs on the horizon. We make it there in record time.
+
+Just under a dozen hunters are standing in an orderly line in front of a floating boss room portal. The heavily armored monitor beside it speaks up.
+
+"Newcomers! Welcome, this is th-"
+
+I cut him off.
+
+"We got it."
+
+He tightens his lips, then nods abruptly.
+
+"Next!"
+
+The hunter upfront steps through without another word.
+
+I inspect and appraise all the hunters in line. They all appear to be well equipped for this boss room. Not a single one of them is under level 270. I guess the weaker hunters are either leveling up as we speak or already got disqualified.
+
+"Next!"
+
+The line moves forward as I finish my assessment, then look toward the monitor.
+
+"Hey! How many hunters have come through here already? Just curious."
+
+He grins.
+
+"Oh yeah? Just curious? You getting nervous?"
+
+He chuckles to himself, then a few others in the front of the line let out small laughs as well. I roll my eyes.
+
+"Yeah. Terrified."
+
+I grin and continue.
+
+"So... how many?"
+
+He looks up at the sky momentarily counting on his fingers, then looks back at me.
+
+"I'd say... fifty or so. You're all still pretty much at the front of the pack."
+
+I nod slowly and squint at him for a moment.
+
+"Thanks."
+
+He nods back.
+
+"No problem. Next!"
+
+If he's telling the truth, we're making pretty good time.
+
+The line continues to move slowly. Another 5 minutes of waiting go by as 2 more teams arrive behind us. I turn to my own party looking them up and down.
+
+"We all set?"
+
+The four of them give me confident nods as the monitor yells out again.
+
+"Next!"
+
+I turn to the swirling portal and jump through with my sword pointed straight ahead.
+
+Moments later, I enter the boss room.
+
+It's dark, damp, and disgusting. I erupt into flames, lighting up my surroundings. It seems like an endless abyss all around me. I can't see the ceiling or walls, but the flat dirt ground shoots off in all directions indefinitely.
+
+I use enemy detection and inspect.
+
+[200m]
+
+[Lv. 285]
+
+I put my sword into my item box, then pull out the pair of daggers I've been itching to try out.
+
+"This won't be nearly as hard as that Griffin, I guess I can try a few things out in the meantime."
+
+I run forward while lit up in a ball of flames. The ground begins to shake and rumble as I get closer. Then, like clockwork, a massive purple worm erupts from the damp soil less than 50m away from me. It's barely visible in the dim light, but its sharp white teeth reflect off my flickering flames.
+
+I continue to sprint toward the beast at full speed while focusing on both my blades summoning a layer of wind magic around each of them.
+
+The worm lets out a horrendous roar and dives toward me as I release my attack.
+
+With two swift slashes, I bring both my black shimmering blades across my body with a powerful strike. Two invisible sharp gusts of wind fly at the incoming monster.
+
+*SHINGGGG*
+
+The invisible slashes make contact with the beast's ravenous jaws. Its entire front half is pushed backward on impact as blood explodes in all directions. The rows of teeth are split into 3 parts as the massive worm flails about releasing a deafening cry.
+
+"Not what I was going for... but not bad."
+
+I grin and jump up at the beast activating berserker, bloodlust, and intimidation.
+
+The monster stops flailing immediately as it's struck with a wave of fear. I concentrate on my glimmering daggers once again and release two more wind slashes straight at the injured monster's defenseless body.
+
+The beast is shredded to pieces moments later.
+
+*THUDDD*
+
+Portions of its lifeless body hit the ground as I land on the damp soil next to it. While twirling my jet-black daggers, I walk over to the pile of sliced-up flesh and wait for the beast to dissolve.
+
+Moments later, it drops a large mana crystal and a triangular jagged tooth.
+
+*Click* *Click* *Click*
+
+I tap one of my blades against the hard white surface, then throw both items in my storage with a smirk. The white transfer magic appears moments later and I'm transported to the next floor while placing my daggers into my item box and bringing out my sword.
+
+I step out onto hard orange rock and look down into a deep canyon.
+
+There are twisting rock patterns and tall smooth structures shaping various walkways throughout the endless pit. There's small green shrubbery in the shade of larger boulders, but no sign of a water source in sight. The artificial yellow sun is beating down on the landscape sucking it dry of any life.
+
+A white light flashes behind me as Maria appears and takes in the view with me.
+
+One after another, Abby, Nessa, and Bruce all make it through.
+
+I smile and confidently nod, then point down into the canyon leading to the backside of the dungeon.
+
+"Onwards."
+
+Our trek begins.
+
+We take a long winding path deep into the canyon. I use enemy detection and find discover most of the creatures around here travel alone. They're pretty high-level, but nothing we can't handle.
+
+After 20 minutes of walking, the five of us make it to a portion of the trail that branches out into an open field with more shrubbery than any other place in the canyon. It's still rather desolate, but the bright shades of green are calming on the eyes after walking in the sun for a while.
+
+There are two massive boulders at the back of the clearing. There seems to be an unspoken group consensus that we're taking a break here. We stop for a moment to drink water, eat a bit, and account for all our gear and potions.
+
+Just to make sure, I do one more sweep of the area with enemy detection. My eyes sharpen and I draw my sword as an entity shows up in my mind's eye...
+
+[100m]
+
+[Lv. 290]
+
+"Hey, we can take a break in a second! We have a visitor, incoming!"
+
+I point my blade at one of the two boulders on the edge of the field, as it splits in two....
+
+A murderous roar comes from behind it as a truly disgusting creature appears. A 6m tall behemoth of a beast stomps out from behind the broken rock.
+
+It looks rather humanoid, with light orange skin, long fangs, an ogre's stature, a giant's body, carrying a massive club, and wearing a long necklace with a green gem dangling from it. The monster's arms are hairy and much longer than they should be, reaching down to its overgrown toes. It's well built, but a layer of grime and fat covers up the muscles beneath. An overwhelming smell of body odor and rotting flesh fills the air as the beast approaches.
+
+I grit my teeth and run at the beast coating my blade in a layer of wind magic.
+
+*SHINGGGG*
+
+Moments later, I slice clean through the beast's thick neck like butter and turn around.
+
+"Well... that was easy. A little... too easy...."
+
+The monster's head rolls to the ground by my side. Its beady red eyes and long sharp teeth glare at me even after death.
+
+*THUDDD*
+
+*THUDDD*
+
+It begins to stomp its feet...
+
+I turn around to watch the beast grow back its head in a matter of seconds, then use Appraisal while jumping backward.
+
+[Lv. 290]
+
+Active Items:
+
+[Heavy Club] +400 Attack
+
+[Desert Troll's Charm] +45% Mental Strength
+
+Active Skills:
+
+Self Regeneration
+
+"We're dealing with a Troll! Everybody get back!"
+
+I erupt into flames while pointing the tip of my blade at the monstrosity as it turns toward me.
+
+"It's been a while since I fought a monster like you."

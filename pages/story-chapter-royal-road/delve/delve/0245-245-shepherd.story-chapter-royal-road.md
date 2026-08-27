@@ -1,0 +1,245 @@
+---
+id: 3932f3bd-97b9-528a-9b58-8f9da8272699
+page-type-slug: story-chapter-royal-road
+title: "245: Shepherd"
+slug: 0245-245-shepherd
+partOf: delve
+position: 245
+ownLength: 3435
+unit: words
+publishedAt: 2023-09-24
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1352624/245-shepherd"
+royalRoadId: "1352624"
+---
+
+At last.
+
+Standing atop a ridge in the gentle rain, Anya turned from the sight of the city to look over her struggling flock. She’d started thinking of them that way, even though she knew she shouldn’t. It was not good to compare a human to a sheep, even if her capabilities were as far above theirs as a shepherd’s were above those of the wooly animals.
+
+Even setting her magical powers aside, she was just...better. Smarter, faster, stronger. It was hard to see herself as one of them. And yet, they accepted her. Relied on her.
+
+Mostly, anyway.
+
+She was sure she’d have been able to carry the lot of them with her powers, which would have let them reach this city in a fraction of the time, but they’d balked at her suggestion. And so, they’d walked.
+
+“Anya, what is it?” asked Asten, the man who’d discovered her. He labored up the hill, puffing and blowing. “What do you see?”
+
+“The city,” Anya said, resisting the urge to help him as she turned and pointed.
+
+“Oh, praise El,” Asten said, reaching the top and taking in the city. He hesitated, then turned to her with a bow. “And praise you too, of course.”
+
+“Stop,” Anya said. “You know I don’t want praise. I’m just a normal person recovering from severe head trauma.”
+
+Asten laughed. “Who have you been talking to, to phrase it like that? And you are deserving of praise, so take it gracefully. If you hadn’t chased off those wolves, we’d have lost half of our stock by now.”
+
+Anya smiled, but then the expression froze on her face as she saw movement. There was a group rushing toward them. “People are coming,” she said. “Eight of them. They’re fast. I think they’re like me.”
+
+“Where?” Asten asked, searching the landscape through the rain, though she doubted he’d be able to see them at this distance. “Is it the Falking Guard?”
+
+Anya held back an unkind reply. Nobody had ever told her what colors were associated with the city or its Citizen ruler, so how was she supposed to know? Instead, she just gave him what he needed to answer his question for himself. “They wear black and gray. One has a banner. Two vertical lines like nails? Or fangs, maybe.”
+
+“Fangs?” Asten said, turning pale. “That sounds like—“
+
+“What is it?!” someone called from behind. “What do you see?”
+
+“Stop the carts!” Asten called, turning back to face the column.
+
+“They’re almost here,” Anya said, taking him by the shoulder—gently, always gently—and turning him around. “Right there.”
+
+“Identify yourselves in the name of the Adamant Empire,” said the leader of the newcomers, slowing to a walk and stalking forward, holding a very long knife in one hand. Knife didn’t seem like the word for it, but she knew no other. She did know what ‘Adamant Empire’ meant, though.
+
+These were enemies.
+
+She reached for her power but stopped herself.
+
+Her mind was running of its own accord, faster even than she could fling herself through the sky—and she could fling herself quite quickly indeed. Right now, it was telling her that the Adamants were Falking’s enemies and that Falking was no more. The city was there, yes, but the Adamant soldiers would not have come from there if it was still owned by the Citizen who shared its name.
+
+She might not know much, but she knew some things, and more importantly, she knew how to think.
+
+If she attacked and she was not as strong as she thought she was, she would die.
+
+If she did not attack, there could be peace.
+
+What did the Empire care for a little village in the middle of nowhere?
+
+Almost no time having passed, Anya spoke. “I am Anya,” she said simply, then gestured to Asten. “This is my friend Asten. We came from the village. They are just behind—”
+
+“We are aware of the size of your party,” Longknife interrupted. “Which village?”
+
+Anya’s brows crinkled, but Asten responded, sounding extremely on edge. “Melloway, my lords. It is—uh, was—a small—“
+
+“There are no lords in the Empire, barbarian, not as you mean it,” the leader interrupted. He turned to one of his subordinates. “Is it on the list?”
+
+“No,” was the reply.
+
+“Outside the zone,” Longknife said flatly, returning his focus to Asten. “We will get to you when we get to you. Take your people and return to your homes.”
+
+“But—“
+
+“There is neither food nor shelter for you here,” Longknife said. “The city is full to bursting, and it is only by the benevolence of the Potentate that we are feeding any of you to begin with.” He raised the long knife threateningly. “Turn back. No further warnings. We are stretched too thin to waste time arguing with peasants.”
+
+“Please!” Asten said, falling to his knees. “We—“
+
+Anya didn’t find out what Asten had been meaning to say, as the knife was falling toward his neck with enough speed to chop firewood. It didn’t land, of course.
+
+Force Crush.
+
+Longknife didn’t even get to make a sound—unless you counted the crack of bone as the soldier’s neck was forced down into his chest and his legs crumpled at the knees, one of them backward. Something strange happened then—something Anya hadn’t experienced when she’d tested this spell against the wolves. It was like there was some unseen barrier that stopped the magic from running to completion. Even more bizarre, the resistance vanished a heartbeat later, and another, wetter crunch sounded as the soldier was further compacted to little more than a sphere of pulped flesh and shattered bone.
+
+Anya released her grip, then stepped back as blood sprayed everywhere, freed from the pressure. The pile of meat struck the ground with a wet plop, but she barely heard it over the screams of the other soldiers.
+
+“Awakened!” one of them shouted.
+
+Mana started swirling around the yeller—the energy similar to Anya’s own, but hotter, somehow.
+
+Heat mana?
+
+Regardless of the form, it was a problem. And so, looking to solve it and worried about the resistance, Anya reached for a different spell.
+
+Force Wave.
+
+The soldiers’ screams changed pitch as they were blasted from the peak of the ridge. Their limbs flailed helplessly as they soared over the ground, unable to stop themselves.
+
+Anya frowned. It had worked, but she’d felt the resistance again. Her intuition was telling her that her shove should have been stronger, despite having nearly sent the soldiers halfway back to the city. She looked down at her hand in a mixture of wonder and confusion.
+
+Just how strong am I? And why can’t I use all my power?
+
+“What did you do!?” Asten yelled, and as she turned to him, he retched, spraying a foul-smelling liquid from his mouth.
+
+Anya’s eyes went wide. “What’s wrong?! Did they do something?”
+
+Asten just coughed, then retched again, more fluid splattering across the ground. She thought she saw a piece of an apple, and she understood what was happening, though not why. Her distress only grew higher as shouts of alarm rose from the villagers behind her, who’d clearly noticed something was wrong. She wasn’t sure how much they’d seen through the rain, but someone among them might know a way to help.
+
+Before she could call out to them, a loud horn blared out behind her. She whirled, and her eyes went wide as she saw clouds of mana rising from the city, hardening into barriers and orbs of Force and Heat...orbs that were flying directly toward her.
+
+Donkey rot!
+
+The foulest curse she knew seemed appropriate to use here, though what exactly it referred to, she was still unsure. Some disease or something. Urgently, she raised a hand, letting instinct guide her as she poured power into Force Sheet, the same spell she used to block the rain. She wasn’t sure it would work, but thankfully, it did. The balls of fire detonated against it, the Heat mana in them whipping chaotically as it dissipated. The Force mana, on the other hand, flowed into her. The name of the skill responsible arrived at the same time: Kinetic Absorption. It was not a memory. The knowledge came from the system, and it was not the first ability she’d discovered. She just wished it would give her a list.
+
+Force Pillar. Redirection.
+
+Anya flung herself forward into the air, inexpertly angling herself toward the threat so she could eliminate it. More enemy attacks rose—fire, lightning, ice, sometimes carried by arrows like those some of the villagers used to hunt. All of the attacks were charged with mana of different types, but Force Sheet stopped them all, proving Force to be the superior element as far as she was concerned.
+
+Force Crush.
+
+Much to Anya’s surprise, her magic didn’t take hold. It crashed into a glowing purple wall that formed in front of the party she’d targeted. Again, she felt an annoying sense of resistance. From the wall, yes, but also from the other thing.
+
+What is going on?! Stupid broken system.
+
+Anya bungled her Redirection, crashing into the ground and carving a furrow in the mud. She flung herself into the air again with another Force Pillar, then tried a Force Wave, but the purple barrier again resisted. She then considered that perhaps she’d been wrong and all the elements could resist each other. As if to prove how much she still had to learn, something pink and smoky slipped straight through her Force Sheet like it wasn’t even there. The magic splashed over her, filling her mind with static and…
+
+Is this pain?
+
+Shocked, Anya jabbed a palm forward, focused on punching through the enemy barrier, and the words came to her even as the spell formed at her fingertips.
+
+Piercing Bolt.
+
+More of the pink energy struck her as her spell flew, making her grimace, though the pain was trivial now that she knew what the sensation felt like. The magic was damaging her, but not much. She could take it.
+
+Her enemies could not.
+
+The man holding the barrier staggered as her magic struck him after passing through his wall.
+
+Piercing Bolt. Piercing Bolt. Piercing Bolt. Piercing Bolt.
+
+She had one spell that she knew worked, and she would use it as often and as powerfully as she could. The frustrating resistance was still there—she knew she should have been able to squash the soldiers like ants—but even with it, she finally managed to bring the barrier caster down. Once he was dead, it was a simple matter to snap the necks of the seven others he’d been protecting. She used normal Telekinesis for that, finding that her instincts had been wrong. Thanks to the mysterious resistance, her powerful single-purpose spells were no more effective than the weaker but more versatile manipulation magic.
+
+Unfortunately, that revelation was of limited usefulness, and there were more groups to deal with. Dozens now, each with their own barrier. On Anya fought, shrugging off damage as she experimented with more and more ways to deal it in return. She discovered Chain of Force, which was like the opposite of Force Wave—a pull instead of a push—except it also conjured a semi-physical chain to carry the effect. When one of the soldiers hurled a massive boulder at her, she discovered Faultline, which shattered the stone, and Rock Push, which sent the jagged shards zipping back along the same trajectory. The latter spell was mostly useless, worse than Force Wave in almost every way, but Faultline was terrific. With it, she tore up the ground beneath her enemy’s feet, then lifted great chunks with Force Pillar to drop them on their heads. Even better, the mana she’d spent on the spell came back to her and then some, gathered from all that moving stone by Kinetic Absorption.
+
+Confident she could keep this up basically forever, Anya took care not to lose herself in the intoxicating feeling of power. She fought with purpose, not for the thrill of it, and she was doing her level best to keep the devastation away from the villagers and the city. Screams from within the walls told of the terror her battle was creating, and so when she felt herself being herded away, she allowed it, though not without making sure that none of the enemies went for her retreating friends.
+
+When her opponents started layering those purple barriers behind each other, she began to grow frustrated. The damage from the pink spells was still little more than an annoyance, but she couldn’t dodge them easily with the way they tracked her. One minute passed, then two, but she wasn’t able to break through the doubled layers.
+
+Pausing her retaliation and sending herself high into the sky to check on the villagers, she saw they’d put quite some distance between themselves and the city. Thinking about retreating herself, she looked back at the Adamants in time to see yet another barrier form around them. This one was like a bubble, enclosing all fifteen of the remaining parties.
+
+Definitely time to go.
+
+With Force Pillar, she sent herself higher, then higher again, only to crash into another barrier as it formed above her.
+
+Donkey rot!
+
+Wishing she knew more curses, Anya let her rage blaze back to the fore. She lashed out with everything she had, hammering at the barrier above her, then the one below, but both held firm. She dove into the ground, using Faultline to try and tunnel free, but the enemy magic extended below the earth. More and more magic struck her, sneaking through her Force Sheets as the Adamants progressively learned how best to hurt her.
+
+This isn’t right. I’m stronger than this. It’s that stupid resistance!
+
+Anya closed her eyes, took a breath, then tore them open again, focusing on the crown of the barrier below her. She would break through it.
+
+And then, a skill name came to her, along with the knowledge of what it did.
+
+She didn’t use it immediately, though. Some setup was required.
+
+Force Pillar.
+
+Rubble and earth shot into the air, peaked, then began to fall.
+
+Force Exchange.
+
+The falling stones stopped, and there was a colossal boom as she shot toward the earth, all that energy transferred to herself. The acceleration was so abrupt, even her impressive reflexes barely saw her activate the new spell in time.
+
+Unstoppable Force!
+
+What happened next was...strange. Anya felt her body lock. Her feet touched the barrier, and she felt immense pressure on her whole body as she punched straight through. The strange part was that it didn’t feel like that had been all that had happened. Something else had happened too, some other possibility...except...not.
+
+Oddness, though, took a back seat to the reality of the forces at play.
+
+On contact, the entire dome was driven down into the earth before it exploded, shards of magic and stone becoming a razor storm that shredded her clothes and hurt far more than everything the Adamants had done to her. Not enough to indicate serious harm, but enough to make her eyes go wide, which was something she immediately regretted as she punched into the ground. The magic carried her on straight through dirt, then the rock below it, deeper and deeper and not slowing in the slightest. She couldn’t cancel the spell. She couldn’t even take a breath.
+
+Faultline! Redirection! Force Pillar! Faultline! Force Pillar! Redirection!
+
+Finally, something worked, but it took another few spells to fully reverse her momentum. As yet more earth erupted around her, she shot back into the sky with such speed that the air tore in yet another earsplitting boom. An instant later, she spat out of the top of the cloud of dust and debris, seeing the city shrinking below her beside the massive crater where the Adamant forces had been.
+
+And still were.
+
+From the smoke came a volley of those infuriating pink bolts, tracking her relentlessly.
+
+Anya clenched her teeth, rage clouding her sight more than any quantity of dust. The path of escape was open above her, but she didn’t want to escape. They’d hurt her. Tried to trap her. Tried to kill her friend. And they’d survived her attempts to punish them for it.
+
+I’ll do it again!
+
+Before she could put her determination into action, a flash of light from the southern sky made her whip her head in that direction. Her eyes went wide as she saw the beam streaking toward her, carrying enough Light mana for a god.
+
+“Dystees!”
+
+It wasn’t a curse, but a cry of recognition. When she’d asked, Asten and Nena had told her of the three greatest gods, of El, Dystees, and Karum—and of what happened when you damaged their Garden.
+
+Sure she was about to be smitten, Anya frantically hauled a Force Sheet into position, but the beam stopped short. It lanced from the horizon to a spot right in front of her in what felt like the blink of an eye, condensing into a man riding atop a panel of glowing light. He had dark skin and dark hair, like that of the miller, except Tern couldn’t float through the sky.
+
+And then came the smiting. Anya thought she’d learned what pain was, but she’d been wrong.
+
+Blinding white light. Agony. No space for thought.
+
+Losing control of her magic, she tumbled from the sky, burning, burning, burning. In her terror and anguish, she lashed out with everything she had in all directions. None of it did anything, blocked by glowing panels of impenetrable white light. Her frenzy came to an abrupt stop as something wrapped around her, smothering her power.
+
+The light faded, leaving only the echo of the pain as she thudded back-first into the ground.
+
+“Augh!” she gasped, sure she was dying. Spots swam before her vision as she opened her eyes, looking down to find glowing white chains binding her, not unlike those she could conjure. Each massive link held enough power to crush her more easily than she’d crushed that first soldier, and she knew the mysterious resistance would not even inconvenience them. She also knew they’d do it in an instant if she so much as twitched, let alone reached for her magic.
+
+“You are not a Citizen,” said a god in the shape of a dark-skinned man.
+
+“What?” Anya rasped, struggling to focus through her damaged eyes.
+
+Stepping down from the glowing platform to loom over her, the god crossed his arms. “I do not recognize your face. Identify yourself. Are you the same Force Mage who’s been harassing us near the gap?”
+
+“I—” Anya croaked, her mouth feeling almost as dry as her charred skin. She forced herself to continue, knowing that if she did not, she would die. “I am Anya.”
+
+“And who is Anya?” the god asked patronizingly.
+
+“I don’t...know.” Anya licked her cracked lips. “My memory is...gone.”
+
+“Oh,” the god said, disgust dripping from the word. “You’re one of her leavings.” He looked up at the sky, then spread his hands. “Did she not consider what a child would do, left with enough power to break the damage limit and without enough of a mind to know better?”
+
+“I...who are you talking about?” Anya said in a small voice, terrified he’d take offense at the question.
+
+The god only snorted, looking down on her again like she was mud on his shoe. “Did you have those villagers servicing you? Catering to your every whim? Would you have done the same with the city folk once you had beaten their defenders?”
+
+“What? No, they’re my friends! We came here for help, but one of the Adamants tried to kill Asten, so I—”
+
+The god held up a hand, and she instantly closed her mouth. “So that’s how it is. Somebody in that village deserves an accolade. Also, somebody in my army deserved what I’m told you did to him. Utter incompetent.”
+
+“I don’t understand,” Anya said. “Please, don’t hurt them— Ah!” She felt herself being lifted by the chains.
+
+“This is what happens,” the god muttered, ignoring her cry of pain. “This is why I cannot leave it be.” He raised his voice, addressing her again. “Rejoice, for your power makes you too useful to discard. Instead, I will give you a chance to help me.”
+
+“Where are you taking me?” Anya asked, not daring to struggle as she dangled below his glowing platform. “It hurts! Please, I don’t understand!”
+
+“You will,” the god said. “I will make sure of it.”

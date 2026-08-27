@@ -1,0 +1,191 @@
+---
+id: 6e625929-a90c-5de7-a96a-d16b8da622ce
+page-type-slug: story-chapter-royal-road
+title: "Chapter 86"
+slug: 0086-chapter-86
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 86
+ownLength: 1679
+unit: words
+ownProgress: 1679
+publishedAt: 2023-04-13
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1168997/chapter-86"
+royalRoadId: "1168997"
+markedReadAt: "2026-06-29T20:34:47.100Z"
+---
+
+[Test 1][Time Remaining: 22 Hours]
+
+Nessa and Bruce step out in front of me. I can see them visibly panting, their eyes have heavy bags under them, and Nessa’s legs are shaking a bit.
+
+I turn to see Maria, then see her join them in formation. I sigh and step forward to join as well. I guess it’s about time we get serious.
+
+“Hey, you two. I appreciate the help, but come on… I can tell you’re exhausted. I don’t mind taking this dungeon on with Maria. By all means, rest up.”
+
+Nessa smiles thinly and looks at Bruce, she nods to him. He won’t admit it, but I can tell the tank is nearing his limit as well. They both step back and let Maria and me handle this one.
+
+A small cloud of red dust begins to form in the distance. We slowly approach it, and finally, after a few minutes, the pack of monsters comes into view. I use inspect.
+
+[Lv. 249]
+
+[Lv. 243]
+
+[Lv. 243]
+
+[Lv. 243]
+
+[Lv. 243]
+
+[Lv. 242]
+
+[Lv. 242]
+
+[Lv. 241]
+
+[Lv. 241]
+
+[Lv. 241]
+
+[Lv. 240]
+
+[Lv. 240]
+
+[Lv. 240]
+
+I grin as I see a group of wild hounds charging toward us. They all have dark red fur, laser-focused eyes, and sharp-looking teeth. They’re 1.5m tall at most, and 3m long from head to tail. Their muscles are compact and ripple between long graceful strides. Some of them seem to be giving off a nasty dark red aura…
+
+The pack growls and each one of them lock their eyes onto different targets. These are some real wild beasts.
+
+I use appraisal on their leader.
+
+[Lv. 249]
+
+Active Items:
+
+[NONE]
+
+Active Skills:
+
+Intimidation
+
+Bloodlust
+
+Buffs:
+
+[+50% Speed + Agility + Mental Strength]
+
+I turn to Mara while bursting into flames and she begins to glow bright blue matching my display. We run at the ravenous hounds with our blades held at the ready.
+
+Once In range, I can feel the stares of intimidation from the pack making the hairs on my neck stand up. I activate berserker and continue forward without hesitating. In a battle of wills, whichever opponent has the higher Mental Strength stat will prevail using the intimidation skill. Maria and I are well above the necessary threshold.
+
+We make contact, and let loose! Maria freezes 5 hounds solid in a matter of seconds. I slice the heads of 3 clean off in a single focused blow while looking up with a satisfied smirk. My speed and agility are just fast enough to weave in and out of the monsters. Maria, on the other hand, is a bit slower. She’s using walls of ice to keep them occupied. On contact, she can freeze them solid.
+
+The dogs that glow red are significantly faster and exceptionally agile. It seems like they act much more recklessly, and jump straight into danger without thinking. This must be a side effect of their “Bloodlust” skill. I turn to Maria.
+
+“Keep the rest of them busy, I want their leader.”
+
+She nods and turns to the 4 remaining underlings growling at her with murderous glares. I face the leader. It has a powerful red aura around it, similar to my berserker skill, but with a slightly darker… more ominous crimson tint.
+
+I can feel the waves of energy coming off this beast. It’s attempting to intimidate me with all its might. I point my sword forward and activate my own intimidation skill.
+
+The moment my wave of energy hits the beast, I see the mutt’s eyes open wide as it attempts to growl and put on a final menacing glare. A few seconds later, it begins to whimper and falls to the floor with its head bowed down.
+
+I happily bow my head slightly as well, just to show the creature a bit of respect before slicing it into fiery pieces moments later.
+
+[Use Absorption]
+
+Skill: Bloodlust
+
+[YES][NO]
+
+I choose yes and turn around while deactivating all my active skills. Maria has finished her work as well, we stroll over to Bruce and Nessa. They stare at us wide-eyed in awe. Nessa speaks up.
+
+“Wasn’t that…. A bit overkill?”
+
+I turn to Maria, then we both chuckle.
+
+“Was it?”
+
+We turn to walk away from the piles of frozen and burning corpses without talking about it any further.
+
+“Come on let’s keep moving.”
+
+We continue at a pretty steady pace through the rest of this dungeon. A total of 4 more wolf packs attack, they range from 8 to 15 members each. The strongest leader so far has been level 252. Even with their bloodlust skill, none of them are much of a match for Maria and me. Nessa and Bruce joined in once just to see how they’d fare. Surprisingly, it was a pretty tough fight…. They worked well together and used Bruce’s shield to block and land cheap shots, but they were surprisingly slower than the hounds. Luckily, Nessa’s glowing sword made quick work of them and the intimidation skill only slowed them down slightly. She still got bitten a few times but used an HP potion after the battle finished. It was a good reality check for me. Monsters are still our enemies. It’s only a matter of time until one may be stronger than me….
+
+We continue to weave through teams and fight off wolves until facing off with other humans becomes unavoidable. It’s been just over 2 hours and I can tell Nessa and Bruce are on their last straw. They can perk up for battle, but that’s just life-or-death adrenaline they’ve been running off of for the last couple of hours. One more big battle is their limit, I can tell. At the back of the dungeon, I can sense a team of 6 that hasn’t moved for well over half an hour. We’ve been slowly approaching, but I’ve been hesitant to make contact. One of them has a higher level than me….
+
+Eventually, I let out a sigh and decide it’s time to see what’s happening over there. We make the trek over a few small hills and the boss room portal finally comes into view. The 6 people I sensed earlier are crowded around it. Their voices ring out from over 50m away…
+
+A big man with bright orange hair wearing heavy armor and carrying a dark black sword is facing 5 other men. He’s yelling and pointing his sword at them angrily.
+
+“OH YEAH? If you don’t want to pay, then I guess you’re not getting through!!”
+
+A thin, tall dark-haired group member stands up to the armored tank with his own sword pointed straight back at him.
+
+“It’s 5 against 1 buddy. We’re not paying you a single bronze piece. Get out of our way!”
+
+The big orange-haired tank lets out a sigh.
+
+“Too bad. I was really going to let you through.”
+
+He begins glowing bright white, then lunges forward grabbing the man by the left shoulder. There’s a flash of white light and he’s gone in seconds… The tank grabs some kind of potion from his item box and proceeds to drink it while running to his next target.
+
+The massive man is moving at rapid speeds… He may even be faster than me, my eyes can barely track him.
+
+The group of men begin yelling and attempt to attack the speeding tank, but their attacks miss as he weaves through the bunch of them in silence drinking potions and making them disappear instantly with a touch on the shoulder…. one by one….
+
+Seconds later, the massive tank looks around at an empty field, satisfied with his work. Soon after, he makes his way back to the boss room portal. Once 3m in front of it, he stops, turns around, sinks his sword into the ground, crosses his arms, looks directly at us, then yells.
+
+“Come on over! I just cleared a path for ya!”
+
+We all gulp simultaneously and don’t move a muscle. He puts on a friendly smile and keeps waving.
+
+“I won’t bite, just do as I say! Come on over.”
+
+I look over at the others. Nessa and Bruce are nervously staring at the man, Maria is glowing bright blue with her sword drawn.
+
+This man’s skill is not ordinary…. I’ve never seen anything quite like it. The group of 6 were standing together for a long time, and he gave them a few warnings before attacking. I’m not exactly sure what for, but at least he was a bit civilized about it. I speak up.
+
+“We’ll come down. I’d like to avoid fighting though.”
+
+The large man nods slowly.
+
+“So you’re the smart one of the group aren’t ya?”
+
+I don’t reply, but motion my team member to do as he says. Nessa and Bruce reluctantly agree. They’re the first ones to approach. Maria and I follow close behind. It just feels a bit more natural to have our shield wielder up front for now.
+
+As we make it to the bottom of the hill the orange-haired tank speaks up again.
+
+“Congrats win making it to the last floor. If you all want to make it past, you’re going to have to pay the tax! Line up, one at a time and I’ll be taking one item off of each of you! Then be my guest, enter the boss room!”
+
+He lifted his jet-black sword up and smirked while eyeing all of us head to toe.
+
+I use inspect and appraisal on him.
+
+[Lv. 311]
+
+Active Items:
+
+[Enchanted High Ogre’s Sword] +50% Strength
+
+[Heavy Steel Armor Set] +600 Defense
+
+[Enchanted Leather Boots] +300 Speed +300 Agility
+
+[High Ogre’s Pendant] +300 Strength
+
+[Enchanted Silver Ring] +30% Speed
+
+[Ring of Protection] +25% Defense
+
+[Lizard King’s Scale] +45% Mental Strength
+
+[Rodrigo’s Silver Bracelet]
+
+Active Skills:
+
+Equivalent Exchange
+
+I stare forward with a blank look reading all of his stats while he waves the sword around waiting for our response. The tank yells at us again.
+
+“So come on! What’s it gonna be? Pay the tax or pay the price!”

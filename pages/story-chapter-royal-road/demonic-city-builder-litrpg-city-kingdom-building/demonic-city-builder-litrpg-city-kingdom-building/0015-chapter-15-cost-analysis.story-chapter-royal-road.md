@@ -1,0 +1,123 @@
+---
+id: 1ab1f2ac-3d0f-5fff-9532-ba8c397137b2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15 - Cost Analysis"
+slug: 0015-chapter-15-cost-analysis
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 15
+ownLength: 1306
+unit: words
+publishedAt: 2026-05-23
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3436598/chapter-15-cost-analysis"
+royalRoadId: "3436598"
+---
+
+The city lord sat cross-legged on the wall, his demonic eyes closed. Next to him, Vorathrex had a perplexed look on his face.
+
+Above, the eye atop the tower watched. Wisps of purple lightning crackled along its surface.
+
+Centering his view above the clearing, Kairon once again issued the same commands. Wrath imps. Form into a wedge. Move forward at a trot.
+
+A line that could generously be called more a slant than a wedge pushed into the clearing. No. You three. Faster, you need to keep the edge clean on either side. No not-
+
+"What are they doing? This is a waste of time. We could be training," muttered Vorathrex.
+
+"One of our biggest advantages," the city lord said between adjusting his mental commands, "is coordination and communication. In my domain, that can't be ignored."
+
+Form three lines. Each imp with spear at the ready. Back line, spears on shoulders. Middle line, spears at the waist. Front, spears by feet. Boney, you stay in front.
+
+A mess of wrath imps began shifting around, that blank look in their eyes covering their faces. The two watched as the struggling claws and feet tried to find their specific spots.
+
+"How is this an advantage? Are you trying to make the humans dance?"
+
+"No, it's..." Kairon sighed in exasperation, cutting the orders off. "Vorathrex, I can see the entire battlefield and give our troops commands both silently and quickly. Tactically speaking, you have to realize just how big of an opportunity that is."
+
+The giant pointed with a meaty finger. "Tactically, this is a mess. Those imps will be slaughtered." He paused, shaking his big horned head. "And why are brood imps out there? They are not warriors. They work."
+
+Throwing him a sidelong glance, the city lord chose to ignore his comments. Instead he wrestled the problem in his brain. When floor managers back home wanted an entire department to do something, they sent a memo. He thought about that. And each time, it was followed simultaneously by thousands of clerks. Sometimes millions if it was a realm announcement. Why was that? System magic? Maybe...
+
+Hmm. But what if the problem isn't the system. Maybe instead, it's the commands themselves. My eye has a set of limitations, and a slight delay.
+
+Standing, he walked to the edge of the wall and looked out. Double file line. Just like Vorathrex taught.
+
+Kairon waited, and the double spear line formed as usual. Claws stamped, bodies moved, and the wrath imps stood at the ready.
+
+Step Back.
+
+This time, the imps stepped back as one. A small cloud of dust was forming above them, evidence of how long they had been doing drills.
+
+Simple commands work just fine. It's when I throw in too many variables that things fall apart. So what I need is a small set of simple and easy-to-follow commands that also allow me enough control over the battlefield to matter.
+
+So, Kairon paused and thought. He devised three simple commands, each a single word long.
+
+"Alright!" he shouted loud enough for all the imps in the clearing to hear. "Here is what we are going to do."
+
+***
+
+It took an hour to explain three new commands. Between Vorathrex's interjections and the wrath imps' battle brains, there were a lot of issues to be worked out. Once it was done however...
+
+Push! This time, the double line of wrath imps moved as a unit. Spears held shoulder over shoulder, bony armor glinting in the afternoon sun.
+
+Hold! The imps stopped, eyes flared to life.
+
+Back! The imps began stepping back, claw by claw, as one.
+
+"How was that?" he asked his general.
+
+"Simple. But limited."
+
+Kairon snapped his claws. "Exactly. And for more complex commands, we can use what you already taught them relayed back through Boney as the commander. It's not as clean or fast, and if Boney is impaired it falls apart. But it gives us two weapons. The blunt club, and the scalpel."
+
+Vorathrex sniffed, and looked meaningfully at Kairon. His amber eyes practically glowed as he spoke.
+
+"The humans. They smell much stronger. Must be descending through the pass."
+
+The city lord bit his lip, looking out at the formation of wrath imps. "Which means tomorrow, our visitors arrive. We have the rest of today to finish our preparations."
+
+***
+
+That evening, Kairon walked the city walls one last time. He watched from below as two lines of hungry imps approached the stockpile. Shiny handed one imp from each line a chunk of meat from the feeding pit, before moving to the next.
+
+Wrath imps and brood imps circled into small groups, sitting and gnawing greedily at their fill. Tummies filled, and so too did their spirits. They actually ate side by side tonight. Brood imps by wrath. There was chittering and occasional roughhousing, but the imps were intermingling.
+
+Tomorrow, we test that cohesion.
+
+Looking out, Kairon eyed the distant mountains. He couldn't see the pass from here, but he swore that he caught a glint of steel. The evening sunlight was muted and made it hard to be sure. Vorathrex climbed the stairs to the wall, three of his six hands gripping chunks of meat. The giant shoved one halfway into his maw and swallowed.
+
+"Fledgling. Are you afraid?"
+
+"Of what?"
+
+"Dying. That the humans will try to exterminate us. Do you not fear this?"
+
+The city lord tore his gaze from the mountainscape and eyed his general. "You know, Vorathrex, the only thing I fear is how much this meeting will cost me."
+
+"Cost you? I didn't know you intended to fight."
+
+Kairon gave a short chuckle. "Don't misunderstand, I have no intention to join the battlefield. The cost I'm worried about is in value."
+
+"You value your warriors highly? You don't want to lose them?"
+
+"To a point. But again, you aren't quite correct." The city lord hesitated. "I value the brood imps far more. You see, those worker imps down there are expensive. Each brood imp currently represents about five gold every day if I put them up to it. And until we expand, I can't even replace them."
+
+He sighed. "War is expensive. But that's what the wrath imps on our balance sheet are for. They are both expendable and interest free for my purposes."
+
+The giant snorted, hot steam coming from his nose. "You hoard gold more than a clan elder."
+
+"I suppose it's a good thing your elders aren't here then, isn't it?"
+
+Both demons sat in silence after that, Vorathrex chewing and Kairon thinking. "Fledgling, do you know why my clan exiled me?"
+
+"For being more trouble than you're worth, I suspect. Perhaps consuming something you should not have."
+
+A wry chuckle. "You are right. I consumed a clan elder, fledgling."
+
+Kairon let out a soft whistle. "I see."
+
+The city lord thought through the current hierarchical structure of his village, and winced. "Vorathrex. I feel I should take this moment to remind you that I am not your elder. Just think of me as... another warrior. But one who fights with the strength of their mind."
+
+Good natured as his reply was, Kairon was not unaware of the unsaid words. For his own reasons, Vorathrex consumed his superior. He's not above doing it again here if he thought he could get away with it. A stark reminder of just what his demonic general was.
+
+Kairon shrugged. Honestly though? It's really not much different than the viper's nest of managers I dealt with back home. One wrong move and they'd strike. Speaking of. I wonder how The System's getting along without me?
+
+His mind replayed the cacophony of error flags he left as a goodbye present upon his sudden departure. Probably just fine, he thought as he pulled up his interface one last time.

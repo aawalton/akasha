@@ -1,0 +1,165 @@
+---
+id: 6323ea88-569e-5b84-9156-c9f3a408ad2b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7"
+slug: 0007-chapter-7
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 7
+ownLength: 1386
+unit: words
+ownProgress: 1386
+publishedAt: 2023-02-05
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1106380/chapter-7"
+royalRoadId: "1106380"
+markedReadAt: "2026-06-29T20:32:01.556Z"
+---
+
+I arrived at Alpine Square and walked over to the dungeon entrance. I jumped through without another thought.
+
+I'm back already. I breathed in through my nose and took in the view of the familiar tall green grass, the bright blue sky, and the occasional tree out on the vast plane. I unsheathed my sword with my right hand and marched forward, it's time to kill some monsters.
+
+After a few minutes of walking I came across my first goblin. It snarled and came running towards me. I gripped my new sword with both hands and raised it above my head. For a moment I locked my eyes on the target, took a deep breath in and out, then swung with all my might.
+
+It felt so natural, like I had been training with a sword for years. It was a very heavy sword, close to 10kg if I had to guess but the added strength stat made using it feel as light as my old dagger.
+
+The silver blade sliced through the goblin from the top of its head and all the way through its torso like I was slicing warm butter. Goblins are weak compared to my current skill level, but I was astonished at my newfound jump up in sword handling.
+
+I just stood there and grinned ear to ear admiring my work.
+
+For the few hours I made my way through the dungeon getting used to my new sword and swordsmanship skill. With my natural advanced speed and agility plus the swords added strength stat I felt invincible. After hours of skill use and running around the dungeon like a madman swinging my sword, I was getting a bit fatigued.
+
+I had collected about 20 mana crystals and my pockets were getting full. It was mid afternoon and I was also getting pretty hungry. I walked back the way I'd came to the gate and decided to open my status.
+
+[Status Open]
+
+_____________________
+
+Name: Jay Soju
+
+Level: 26
+
+Hp: 135/135
+
+Mp: 45/135
+
+Strength: 67 [+50]
+
+Speed: 75
+
+Agility: 80
+
+Defense: 62
+
+Mental Strength: 68
+
+Skills:
+
+Absorption
+
+Swordsmanship
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]
+
+_____________________
+
+"My MP dropped that much???"
+
+I didn't realize it at the time but even just from fighting goblins, it looks like using my swordsmanship skill for long periods of time drains my MP. Noted, I'll have to get used to my MP usage and keep a closer eye on it.
+
+Swordsmanship is basically a passive skill that the hunter is constantly using in battle. Some skills like Battle Magic use a certain amount of MP per attack. Other skills like body hardening or swordsmanship will consume MP at a lower rate, but constantly drain MP as long as you're in battle. Of course, the more intense the battle become the more you will have to rely on your skill and hence, the more MP you will consume.
+
+I made it to the village market in no time and walked over to the general store with the old merchant.
+
+"Welcome back so soon Jay, what are you looking for this evening?"
+
+I dug into my back pockets and dumped a small pile of mana crystals onto the counter.
+
+"Looking to sell all of these. This sword is a beauty, glad I decided to keep it for myself."
+
+I grinned and turned to the side a bit so the setting sun could reflect a bit of light off the handle of the sword at the old man.
+
+"Glad you're having a good time kid, i remember my first couple years as a hunter haha. Just don't get into too much trouble, stay safe out there."
+
+He took the crystals and placed them on the measuring dish, the screen read: 20.6MU. We both nodded at each other. He took the crystals and put them under the counter, then started counting out bronze coins.
+
+"20 bronze work for you kid?"
+
+I smiled and nodded again.
+
+"Yep, perfect. By the way, do you have any MP recovery potions?"
+
+He handed me my bronze, then started looking around under the counter.
+
+"Of course, one moment."
+
+He pulled out 3 small glass bottles with light brown corks in the tops. They were no more than 200ml each and were filled with a light pink liquid that seemed to glow very dimly.
+
+"Here's a couple E Class MP recovery potions, I'll sell them to you for a silver coin each. 2 silver and 75 bronze for all 3, what do ya say?"
+
+My eyes widened.
+
+"1 silver each?? I didn't realize they were so pricey. I'll pass for today, maybe I'll buy some next week. Thanks though old man."
+
+"It's alright, see ya around Jay. Always a pleasure."
+
+I turned and walked away slowly. That was embarrassing... i couldn't have even bought one if I wanted too. Looks like I have 2 main goals this coming week. Make money and master my sword.
+
+I walked home and bought a sandwich at the corner store for 1 bronze coin on the way. I walk up my apartment building steps and see a pair of familiar blue eyes.
+
+"Ouuuah, you got a sword???"
+
+Maria eyed the sword on my back as I got to the top of the stairs. She was on her tippy toes and turning her neck to get as full a view of my weapon as possible.
+
+"Can I hold it??? Please Jayyy."
+
+I was a little thrown off guard.
+
+"U-Uh I mean, sure."
+
+I took the sword out of its sheath. Its silver body glimmered in last night of the setting sun. Maria grabbed the handle.
+
+"Thuddddd"
+
+As I let go to let her handle the blade, it instantly hit the hard flooring. Maria looked up at me with a slightly red face trying to pry the weapon off the floor.
+
+"Ooops"
+
+I laughed at little and picked the sword off the ground.
+
+"I forgot how heavy my own sword was, maybe someday you'll be able to handle it. Haha, when is your awakening date with your school anyways?"
+
+Looking a little disappointed at first, the mention of her own awakening brought a smile back to Maria's face.
+
+"You are really strong... that's so amazing Jay. I'm going to be a strong hunter like you soon! My exam is on Wednesday, just 4 more days!! I can't wait to get an ability!!"
+
+She started punching the air and making sounds like she was fighting off imaginary monsters.
+
+I just watched for a few seconds and smiled a bit until she got red faced again and stopped abruptly. She looked up at me.
+
+"Hey um Jay. Are you free on Wednesday?"
+
+".... I- Yeah I am, why?"
+
+"Well everyone in my class is allowed to bring one chaperone to our awakening. I don't really know anyone else here, I moved in here a month before you.. straight from my old high school in Vatarian City. It's been pretty hard to meet people, especially new hunters when I don't even have a status yet. Soooooo, would you come with me as a chaperone?"
+
+Her expression became more serious as she started pressing her index fingers together and looking at the ground.
+
+I had no idea she was new to the city. I don't really have any friends my age here either... much less any friends that are hunters. I've just been staying inside reading comics and "preparing" to be a hunter for the last year and a half after I graduated high school. This would be a good opportunity to meet some new hunters, and get to know the only neighbor in my building that's around my age.
+
+"Sure thing, what time on Wednesday?"
+
+I smiled and gave a thumbs up.
+
+Maria gave out a mini sigh of relief and relaxed before looking up at me again.
+
+"Great, see you here at 8am on Wednesday Jay!!"
+
+She giggled a bit as she turned with a half skipped back inside her apartment.
+
+"See ya."
+
+I hardly got the words out of my mouth before she was inside. I walked over to my own apartment across the hall, turned my key, opened the door, and flopped onto my bed with a smile on my face.
+
+Before I knew it I drifted off into a peaceful sleep.

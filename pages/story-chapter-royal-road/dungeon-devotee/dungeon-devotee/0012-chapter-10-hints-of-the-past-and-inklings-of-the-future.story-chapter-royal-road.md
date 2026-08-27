@@ -1,0 +1,523 @@
+---
+id: 7fc31411-d0e4-5eb2-a599-1aabc167356a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10: Hints of the Past and Inklings of the Future"
+slug: 0012-chapter-10-hints-of-the-past-and-inklings-of-the-future
+partOf: dungeon-devotee
+position: 12
+ownLength: 7599
+unit: words
+ownProgress: 7599
+publishedAt: 2022-07-01
+link: "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/939655/chapter-10-hints-of-the-past-and-inklings-of-the"
+royalRoadId: "939655"
+markedReadAt: "2026-06-29T22:39:25.265Z"
+---
+
+Edmund emerged to noise and light and heat.
+
+The noise of humanity cascaded through the air, the all-too-familiar clatter of people buying and selling and laughing and lying. It sent a wave of relief coursing through him, a sense that he’d somehow left the dungeon behind and returned to the city streets and bustling squares he’d once called home. If only for a moment, he could forget where he was.
+
+The light of a clear summer’s day shone down upon it all, glistening against polished steel, enchanted crystals, and the sapphire waters of a spring. Of course, neither sun nor sky could exist in such a place, but unlike the other more open floors Edmund had visited, the Depths made no attempt to obscure its subterranean nature. A hundred blindingly bright fixtures—their shape obscured by the brightness of their glow—cast the illusion of sunlight upon both the rocky, cave-like ceiling and the level below.
+
+The heat took Edmund by surprise. He’d thus far never found a floor within the dungeon to be anything other than a comfortable temperature, so the waves of heat that radiated from both the lights above and the cracked and dry ground below felt out of place—especially for a hub floor.
+
+Edmund stepped away from the entrance and took in his more immediate surroundings.
+
+In lieu of the built-up deck he’d found on the fifth floor, a simple fence cordoned off the area for new arrivals and those awaiting them. A few benches sat occupied, some by resting delvers, others by anxious friends and relatives, but compared to the previous hub, this one felt almost empty. There was no need for someone to keep the arrivals moving because there simply weren’t enough arrivals to warrant it. Only half as many benches lined the space, but only a third as many people actually used them.
+
+He’d only traveled five floors, but already Edmund could see the attrition begin to take hold. Whether the delvers had decided they’d had enough or the Eternal Depths had decided for them, it didn’t matter. The further he went, the fewer people he’d find. He supposed that was a good thing.
+
+Edmund stepped across the cracked and arid ground, his boots kicking up tiny clouds of dust as he crossed the cordoned-off entry area. With the lack of deck and its position nestled between two hills, he could only see a narrow subsection of the marketplace ahead, but it appeared similar enough to the previous one, if a bit smaller.
+
+A matching ring of stepping stones denoted where the safe area began and ended, though in contrast to the fifth floor, the inside teemed with life while the outside seemed dead. Desert palms, cacti, and hardy shrubs decorated the space, gorgeously framing the glimmering pond at the center.
+
+Liam had built a literal oasis in the desert of death and danger that was the dungeon’s other floors.
+
+As with the previous hub, the safe zone lay in a small valley, thus obscuring the rest of the floor from those within. Edmund would have to leave the safety of the market to get a better look around. He’d do that later.
+
+For the time being, he left the entry area behind, taking note of the two men in dust-stained armor keeping watch. The royal crest—a wyvern taking flight—decorated their chests. Edmund blinked. What were kingsguards doing in the Depths? He wondered if some traitor to the crown had escaped justice by hiding out in the dungeon.
+
+The guards didn’t stop or question him—an oddity given the helm that concealed his face—so Edmund let their presence slip to the back of his mind. He had other things to worry about, namely Liam, who chose that moment to surreptitiously materialize next to him. Before the dungeon’s avatar could say a word, Edmund spoke.
+
+“I know, I know. I’m going there first,” he said, charting a course directly for the waterline.
+
+Liam grinned. “You’re learning.”
+
+“You know, I don’t actually enjoy being covered in blood all the time. I just usually have bigger things to worry about. If you want to give out more of those bath tokens…”
+
+“Well, what do you know,” Liam said, overacting the surprise in his voice. “There’s an infinite supply of free baths right here!” He gestured with an open palm towards the pond up ahead.
+
+“Very funny,” Edmund said, not finding it funny at all.
+
+The crowd of various adventurers and merchants gave him a wide berth as he passed, curiously enough uneager to bother a man who was fully armored, covered in blood, and talking to himself.
+
+The hard dry dirt gave way to loamy, fertile soil as he approached the water, skirting along the bank until he reached a spot relatively free of other bathers. Keeping a careful eye on his gear, he stripped down and waded into the pond, the otherwise frigid water remarkably refreshing in the oppressive desert heat.
+
+Edmund took the time to meticulously scrub the blood and dirt and sweat from his skin, hair, and armor, knowing full well it’d all be filthy again soon enough. If nothing else, he recognized the utility of not looking like a complete mess while interacting with others.
+
+He emerged from the water feeling like a new man, his matted black hair pulled back, his now-clean armor reequipped, and his helmet sitting in his cloudkith satchel to leave his face exposed. Perhaps people would be more willing to talk to him if they could look him in the eye.
+
+They were. Oh Thrax, they were.
+
+Edmund made it less than ten steps from the waterline before a woman in mismatched platemail approached him.
+
+“Hi-um… are you looking for a group? We lost one of our members two floors ago and you look like you know what you’re—”
+
+“No,” Edmund grunted at her, stepping past. Even if his Aspects allowed him to party up, he doubted a group of delvers existed that would put up with his glacial pace through the dungeon. Worse still, Liam had promised him harder floors coming up. Edmund didn’t want to inflict such a difficulty spike on anyone else.
+
+He managed to walk twenty whole feet before a man in blue robes approached. “You look like a man who can handle himself. I’ve got two of the best mages the Depths have—”
+
+“Not interested,” Edmund cut him off, gruffly continuing on.
+
+They kept coming.
+
+Every few minutes, another delver, alone or with their entire group, would attempt to recruit Edmund to their party through various means. Some started with compliments, some with tales of their own exceptional ability, some by asking the question directly. One man even tried to convince Edmund he had no chance of surviving the floors ahead on his own, and that his best hope of continuing on was to party up with him in particular.
+
+Edmund rejected them all.
+
+Whether by the trail of failed attempts in his wake, the growing expression of frustration on his face, or simply because every single group on the floor had shot their shot, the recruitment efforts slowly dried up, leaving a particularly disgruntled Edmund to finally reach the marketplace.
+
+By his own estimation, he hadn’t accumulated much in the way of money, but he did have a few coins he’d picked up from various loot chests over the past few floors. He supposed he could’ve sold some of his gear if he so chose, but he doubted he’d get much. His barkbreeches and cuirass already had several gashes and punctures in them, and the rest of his equipment hadn’t fared much better. His newer pieces were still in fairly good shape, but that made him want to part with them all the less.
+
+Either way, he liked his gear. Sure, he felt he missed a short-ranged weapon to replace Rat’s Fang, but the nearly full-body coverage his current equipment offered was too valuable to part with. If he spotted a dagger or shortsword or something better suited for close-quarters combat that he could pick up for cheap, he’d jump at the opportunity, but at the moment, more gear wasn’t Edmund’s priority. He could get more gear anywhere—there were loot chests on every floor.
+
+He needed information.
+
+Liam had already professed a disinterest in offering Edmund Aspect advice, especially refusing to elaborate on what exactly a ‘paragon’ was or why it was important. Likewise, Madness, his most important Aspect, didn’t exactly have the best reputation. At best people ignored it, at worst they outright reviled it. If he wanted to learn more about his greatest strength, he needed a specialist.
+
+That was how Edmund found himself standing outside a canvas tent, staring up at a painted sign advertising ‘professional build advice.’ He glanced over to a man selling potions next door, gesturing up to the wood sign with his thumb. “They any good?”
+
+“Folks seem to leave happy, if that’s what you’re asking,” the vendor replied. “Can’t tell you if they survive down to the next hub, though.”
+
+“Thanks.” Edmund nodded before casting his gaze back up at the tent. Thrax knew if the advice within would be any good, but at least his fellow delvers thought it was. That had to count for something.
+
+With a sigh he pushed open the flap and stepped inside, the cool shade within immediately offering relief from the harsh false sunlight.
+
+Inside he found a tired-looking woman in scholar’s robes, sitting behind a wide oak desk cluttered with papers and books. Without looking up from whatever she was writing, she spoke. “Have a seat. It’s two silver to recommend your next Aspect, ten for a more thorough build analysis.”
+
+Edmund stayed standing. “What do you know about Madness?”
+
+“It’s two silver for a recommendation, ten for an analysis,” the woman repeated, still refusing to look up at Edmund.
+
+“It’s not a common Aspect,” Edmund continued. “I need to know if you actually have anything to tell me before I hand over my money.”
+
+The woman let out a long suffering sigh and sat back in her chair, finally meeting Edmund’s gaze. Her face was soft and wrinkled, showing the wisdom of age but not the wear of labor. Coarse, white hair sprouted from her head and fell limply to her shoulders. She squinted at him.
+
+“Madness is the nineteenth base aspect, opposite Serenity and close in proximity to War, Wrath, and—more so than any other—Eldritch. It’s an unpopular choice due to its unpredictability, social stigma, and less visible benefits. Its effects are highly personalized, though they usually carry the through line of seeing or hearing things that aren’t really there. Happy?”
+
+Edmund reached into his satchel to withdraw ten silver pieces, just short of his entire supply, and deposited the payment on the desk. Without breaking eye contact with the woman, he sat down. “Tell me everything.”
+
+The woman exhaled sharply. “Sweetie, you’re going to have to be more specific.”
+
+“Alright. You said Madness is personalized. What does that mean?”
+
+She shrugged. “Scholars don’t know much—the mad don’t often like talking to us—but we do know a few things. Most iterations of Madness cause their bearer to see or hear things that aren’t there, generally unbidden, and generally unwillingly. The value and form these hallucinations take varies, but usually they include some way of providing information that would otherwise be unavailable. There are rumors that at extremely high levels, users of Madness can interact more directly with their hallucinations, but those are just that. Rumors.”
+
+Edmund furrowed his brow. “You didn’t answer the question.”
+
+“I’m getting there, I’m getting there.” The old woman waved him off. “From what we can tell, everyone’s hallucinations are different, and the form they take usually derives from some traumatic event in their past.” She paused, her gaze intensifying as she seemed to stare into Edmund’s soul. “What happened to you?”
+
+“Nothing,” Edmund answered far too quickly. He could see the disbelief on her face, but she thankfully didn’t press him further. “What else do you know?”
+
+She shuffled through the papers on her desk as she spoke. “I have… here, a list of common confluences. A bit barebones, I’m afraid, but potentially useful. If you share your current build with me, I can offer advice on how best to proceed.”
+
+Edmund shook his head. At the very least, he needed more information before he’d be willing to reveal himself like that. Even if he didn’t mention his strange resonance with the Aspect, it would be apparent the moment he tried to explain the decisions he’d made so far. Combining anything and everything with a base aspect, let alone one as obscure as Madness, felt like suspicious behavior. He could only assume someone as knowledgeable as this scholar would notice the oddity.
+
+“Suit yourself,” the woman said, accepting his secrecy without question. “I will say, I’m glad you were willing to take Madness. Too often delvers make suboptimal decisions because they don’t like the aesthetics of something like Death or War.” She shrugged. “Well, if that’s all you’re willing to tell me, I’m not sure what else I can help with. Do you have any other questions?”
+
+Edmund paused, blinking as he took a moment to breathe. Thrax knew what kind of attention it would attract, but one question, above all, prodded at the back of his mind. Keeping his voice low and his tone even, he asked it.
+
+“What’s a paragon?”
+
+The scholar snorted. “Fancy yourself a legend, then?” She shook her head. “Paragons are just a story.”
+
+“Then tell me the story.”
+
+She exhaled, visibly taking a moment to gather her thoughts, and began. “The theory goes that resonance patterns are unique. That every sapient creature in all the various realms has one specific Aspect with which they, and they alone, resonate at a level far beyond any other. There are, of course, a vast number of Aspects and a similarly vast number of living beings. We know for a fact that no two people who’ve gotten that far have ever shared the same resonant Aspect, but that doesn’t even come close to real proof, or even evidence. The percentage of beings that even find their resonant Aspect is so low as to be basically laughable.”
+
+She leaned in, placing her elbows on the desk and weaving her fingers together. “A paragon is a concept, a purely academic one, that explores what it might mean for someone’s most resonant Aspect to be one of the base twenty-seven. Of course, the odds of that occurring would be twenty-seven in the comparatively infinite number of Aspects out there, but having that sort of resonance from the start would theoretically bestow an incredible amount of power.”
+
+Something in Edmund’s gaze must’ve drawn her attention, because she paused her explanation to address him. “Keep in mind this is all theoretical. As far as modern academia can tell, it’s never actually happened. Some scholars posit that the fundamental nature of the base Aspects could potentially even further empower our imaginary paragon—there’s a whole field of research on what makes the base Aspects base—but again, this is all theoretical. If an actual paragon ever appeared, he or she would change… everything. From upheaving existing power structures to revolutionizing our understanding of the very nature of the universe.”
+
+Edmund blinked and sat back in his seat, the fingers of his right hand drumming against the wooden armrest of his chair. “That’s quite the story.”
+
+“And it’s just that,” the woman replied. “A story.” She shook her head. “Unless you have any other questions, that’s all I can tell you, I’m afraid.” She slid a paper across the desk. “You’re welcome to take the confluence list—I have copies.”
+
+Edmund smiled and accepted the offered document. He’d paid for it after all. He stood. “Thank you.”
+
+“Don’t thank me yet,” the woman snorted. “I haven’t given you anything of substance, just theories.”
+
+“Still,” Edmund said, moving towards the exit. He stopped just short of the tent flap, craning his neck to look back over his shoulder at the aging scholar. “If there’s one thing I’ve learned, something doesn’t have to have substance to be useful.”
+
+She didn’t reply.
+
+He left her there, scratching her head behind her desk as he strode back into the light and heat and noise of the oasis.
+
+Liam was waiting for him, leaning back against a part of the tent that absolutely would’ve collapsed under any real weight. “So how’d it go?”
+
+“Do you expect me to believe you weren’t listening the entire time?” He kept walking, and Liam fell into step beside him.
+
+“Just trying to be polite about it.”
+
+“Since when have you been polite about anything?”
+
+Liam smiled. “Since when have you?”
+
+Edmund took a deep breath to keep himself from snapping at the dungeon’s avatar. “What’d you think?”
+
+“I think overall she did pretty well. Got some things right, at least. I can’t blame her for not knowing some of the more obscure stuff about paragons, but she completely missed the true nature of Madness. Then again, what can you expect from a woman who lives in a tent underground selling advice to people who don’t know any better?”
+
+Edmund stopped short, causing the man behind him to bump into him, curse him out, and continue on his way. Edmund ignored it all. “So what is the true nature of Madness.”
+
+“It comes down to a misunderstanding of reality. Your scholar friend seems to think there’s a strict line between what’s real and what isn’t, and that therefore everything Madness shows you isn’t actually there.”
+
+Edmund squinted at him. “The Aspect description literally says it’s not real.”
+
+“You’re falling into the same trap as that scholar. Not being real is different from not being there.” Liam exhaled. “Reality isn’t a static thing. Everyone experiences the world as a series of sensory inputs that they parse into meaning. What you would call reality is really just a set of inputs and interpretations of those inputs that everyone agrees on, and when someone disagrees…”
+
+“We call them mad,” Edmund finished.
+
+Liam snapped his fingers and pointed at Edmund. “The mad experience a different reality than the sane, a reality all their own. The truly mad accept that and learn to interact with their reality in different ways, and the maddest of all can impose that reality—or aspects of it—on everyone else.”
+
+Edmund blinked. “Are you saying that—”
+
+“It’s good you didn’t tell her, by the way,” Liam cut him off. “It was a risk asking the questions you did, and you’re lucky she’s too incredulous to realize what you are.”
+
+“And what am I, exactly?”
+
+“Something that—if she had her way—wouldn’t be allowed to move on to the next floor. You’d spend the rest of your life locked up in a tower doing parlor tricks for academics.”
+
+Edmund scoffed. “And she’d what, stop me from leaving?”
+
+Liam shook his head. “She wouldn’t.” He gestured across the oasis towards two neat rows of identical tents. “They would.”
+
+Edmund squinted across the glistening water, raising his hand to his forehead to shield his eyes from the false sunlight. Men and women in the same standard issue armor milled about the camp, each and every one bearing the royal crest. Edmund cursed. “Those aren’t just a few lookouts, they’ve got a whole Thrax-damned army down here. What are they after?”
+
+“Something important,” Liam said as if it weren’t blatantly obvious. “Why don’t you go ask them?”
+
+Edmund sighed. “You already know, don’t you?”
+
+“Of course I do,” Liam said. “I just want to see your reaction when they tell you.”
+
+Edmund let out a breath and set his sights on the hillside across the oasis, in which sat the open exit to the eleventh floor. A pair of guards stood before it, questioning any delvers before they could proceed. Edmund approached.
+
+The lead guard rattled off her question in the droning, tired voice of someone who’d spoken the same words far too many times, with a glint of hopelessness that told Edmund she’d yet to get the answer she was looking for. “In your delve so far, have you come across a blonde girl accompanied by three guards and a priest?”
+
+Shit, Edmund cursed internally. Liam had set this up, hadn’t he? He tried to keep his face even as he replied, desperately hoping his expression hadn’t already betrayed that he knew something. “What’s this about?”
+
+“Princess Amelia Morathian has gone missing. We have reason to believe three royal guards, under the instructions of a traitor, took her here against her will.”
+
+Edmund had to bite his tongue to keep from laughing at the idea of anyone making Amelia do something against her will. He similarly had to hold back the instinct to sigh at her stupidity.
+
+He’d figured, of course, that the last name she’d given him had been fake, and that the way the relatively young woman had ordered around her four more experienced companions meant she’d been important, but he hadn’t fathomed she’d be the heir to the fucking throne.
+
+But Edmund couldn’t say any of that, not unless he wanted the kingsguards to bring him in for interrogation. “Against her will? Wow, that’s terrible. How do you know she’s still alive?”
+
+“Her title hasn’t yet passed down to her younger brother,” the second guard explained. “She’s alive, and she’s down here somewhere.”
+
+“And you’re trying to find her,” Edmund reasoned aloud. “What if she’s further down than this?” He knew she’d have progressed faster than he, his thoroughness coming at the cost of speed.
+
+“We’ve yet to confirm that, but we have teams exploring the later floors as we speak. A group is already setting up a base camp on the fifteenth floor.” The guard glared at him. “Have you seen her, or not?”
+
+“No,” Edmund lied. “No, I haven’t. Sorry.”
+
+“On your way then.” The guard gestured him through.
+
+Edmund walked away, ignoring the exit to return to the oasis proper. He couldn’t quite say why he’d misled the guards; they just had Amelia’s safety in mind. Thrax, he himself had tried to talk her into leaving. He supposed a part of him wanted to respect her wishes—she didn’t want to be found, so he wouldn’t be the one to help them find her. Another, deeper, more selfish part, just wanted to retain the chance that he’d see her again.
+
+Liam rejoined him as he strode through the marketplace, a smug grin across his face.
+
+“You set this up,” Edmund said as a statement of fact. “You put us on the same floor on purpose.”
+
+Liam put his hand on his chest in a show of mock offense. “How dare you accuse me of such a conniving, manipulative thing that I absolutely did do?”
+
+Edmund grunted and kept walking.
+
+Liam scurried after him. “What, you’re not going to ask why I did it?”
+
+“You did it because you thought it would be entertaining,” Edmund said. “And now four people are dead.”
+
+“They knew what they were getting int—”
+
+“No, Liam, they didn’t,” Edmund cut him off. “If they’d known what they were getting into, they wouldn’t have fucking died. They would’ve known things would get more difficult the moment six of us were in the same place, and acted accordingly. You pulled strings to put us together, and now they’re dead.”
+
+“It’s a public floor, Edmund.” Liam’s voice remained even in spite of Edmund’s fire. “If they hadn’t run into you, they would’ve run into somebody else. Their lack of preparation is not my fault.”
+
+“And now they’re dead, and the heir to the throne of Linaria is running around the most dangerous place in the world alone.”
+
+“Careful,” Liam warned. “Those aren’t words you want to be overheard saying.”
+
+Edmund paused and surreptitiously cast his gaze left and right, checking for nearby kingsguards. Thankfully none were near. Ending the conversation then and there, he stormed off, ranting at Liam in his mind.
+
+It was bad enough, the march of innocent souls down the dungeon’s gullet, but something about Liam made it all the worse. Liam, at least as he presented himself to Edmund, wasn’t a predator. He wasn’t some beast following his nature and killing to survive. He enjoyed it. The lives of Edmund and Amelia and everyone else who’d ever set foot in the Eternal Depths were nothing but playthings to him, marionettes to dance on his strings until they were inevitably cut.
+
+No amount of loot or levels or accords or promises could make that okay.
+
+Edmund stopped at a booth selling grilled meat and vegetables wrapped in some sort of unleavened bread, spending a painfully large portion of his remaining coin on the meal. He relished every moment of it, the interplay of spice and fat dancing across his tongue as he devoured the first real piece of food he’d had in months. His sigil of the rootmother kept him alive, but drawing nutrients from the soil never left him feeling full in the way a hearty meal could.
+
+The last of his silver went towards renting a tent for the night, the basic cot inside the most luxurious sleeping arrangement he’d experienced since he’d set foot in this infernal place. By the time he awoke the following morning, more refreshed than he’d been in a lifetime, his mind was already set on upgrading that aspect of his equipment.
+
+Out of curiosity, he stopped first at a well decorated stall advertising portable camps, only to find such luxuries priced in terms of mithril, a currency so many orders of magnitude above anything Edmund had ever touched that it wasn’t even worth considering. He couldn’t even fathom how much Amelia’s particularly lush camp had cost.
+
+He looked into bedrolls and other relatively cheap options, but he’d already run out of money. He had no intent of selling any of his equipment, happy to trade comfort for survivability any day. He’d have to hold off until the next hub floor, when he’d hopefully have amassed more coin.
+
+His shopping done and his information gathered, Edmund set his mind on the path ahead. A part of him wanted to just go through the exit in the safe zone, take his Aspect, and continue on to the next challenge.
+
+That wasn’t happening.
+
+Liam had promised him more difficult floors ahead, and Edmund had no intention of facing that difficulty without taking everything he could from the comparatively easy floor on which he stood. He still held out hope whatever hidden exit he found would award coin in addition to equipment so he could purchase a bedroll.
+
+Picking a direction essentially at random, Edmund left the oasis to explore the desert beyond. He crossed the boundary of the safe zone with none of the reverence he’d afforded it on the fifth floor, accustomed, by now, to stepping into danger. He slipped his helmet over his head, tightened the strap on his satchel, and set off.
+
+He found himself mounting the steepest slope of those that surrounded the oasis, the arid soil crumbling and sliding beneath his feet. The treacherous terrain proved no match for his agility.
+
+Edmund had prepared himself for all manner of occurrences upon reaching the peak, ready for anything ranging from immediate attack to a horde of gatherers farming resources to an open, empty wasteland.
+
+He hadn’t expected to spot his destination immediately.
+
+The desert stretched out before him, co-inhabited by roaming beasts and packs of delvers bearing pickaxes. The latter dripped with sweat in the oppressive heat as they labored over glimmering veins that decorated the very surface of the land, while armed guards protected them from the former. They weren’t Edmund’s goal.
+
+The giant crack splitting the landscape in two was.
+
+It felt too generous to call it a ravine, the gap in the earth no wider than a child could step, let alone leap, but it stretched from wall to wall of the cavernous space, beginning just past the hill to the right of the entrance and continuing on for what must’ve been a mile. If there were any secrets to be found in this barren space, they would be there.
+
+More compelling still, though as of yet unconfirmed, wasn’t what Edmund saw, but what he thought he saw. In the distance, obscured by the blinding false sunlight and the waves of heat distorting the air, a tiny spot of color stood out in the overwhelmingly reddish brown landscape.
+
+A smudge of blue darted along the crack in the earth before disappearing entirely.
+
+Whether a mirage, a trick of the light, or the azure fox itself, Edmund had every intention of investigating.
+
+He set off, half sliding and half walking down the arid hillside as he approached the crevice. He kept his spear poised, its tip lowered to face the gulley which he saw as the most likely vector of attack. After all, he had to imagine the rarest and most valuable ores could only be found in the rift, yet not a single miner dared approach. Ten minutes into his walk, he found out why.
+
+The sound of dust falling and bouncing down a great distance first alerted Edmund to the threat. He whirled around to find two black chitinous legs reaching up and over a spot in the crevice behind him. Without hesitation, without waiting to see what would emerge or how his Madness would label it, he charged.
+
+A pair of claws, meaty and jagged, crested the ravine.
+
+Edmund lunged past them, jabbing his spear down and through the maw of the giant creature. It stiffened and stilled.
+
+With the threat eliminated, Edmund called forth the ethereal smoke to describe his fallen foe.
+
+Greater Chameleon Scorpion
+
+These desert predators can change their color to better blend in with their surroundings and ambush prey. A single drop of the venom in their tails is potent enough to kill an adult drake.
+
+Edmund balked at the description, realizing the foot-wide claws that protruded from the beast’s front weren’t its actual weapons, but without fully exiting the ravine, its tail had remained trapped between the walls. It was no wonder he’d had such an easy time downing it.
+
+The mention of camouflage also explained why he hadn’t noticed it when he’d first passed, making the concept of the scorpions all the more threatening. Without the enhanced hearing from his sigil of the azure novice, he wouldn’t have noticed the thing until at best it’d brought its tail to bear and at worst had already stung him. Edmund might’ve had some resistance to over-time damage, but he was no adult drake.
+
+He progressed more slowly after that, carefully scanning every inch of the ravine for any sign of the ambush predators. He caught two before they could emerge, but three more managed to get their upper halves out of the ravine before Edmund could end them. None successfully wielded their tails.
+
+As he walked, the parallels between the two hub floors jumped out at Edmund. On both he’d found himself walking along a feature of the landscape riddled with ambush predators, foes much easier to defeat if he could spot them before they struck—first the rockjaws in the creek on the fifth floor, and now scorpions in the desert ravine. He wondered if this was another of Liam’s themes, a bit of intentional design to guide delvers towards the hidden exit, or if he’d just been drawn to the ravine in the first place by its similarities to the earlier creek.
+
+Coincidence didn’t even cross his mind.
+
+A few of the laborers mining ore and hunting parties gathering leather from the giant snakes and rare hydras that wandered the desert gave Edmund curious looks as he progressed, but none attempted to warn him off his course. As the repeated recruitment attempts had driven home to him, he looked like he knew what he was doing.
+
+Sometimes, looks aren’t deceiving.
+
+Three easily-dispatched scorpions later, Edmund spotted another flash of something that didn’t belong among the reds and browns of the ravine: a tuft of fur, blue as the summer sky, caught between two rocks. He’d found his entry point.
+
+He noted, as he readied himself for his descent, how the landscape similarly pointed to this particular location. Two craggy hills framed his position to distant onlookers, and the ravine stretched just so much wider as to allow easier passage through it. At just over two feet wide, it would be a tight fit, but he would fit.
+
+Edmund first made sure to clear the area of any lurking scorpions, trekking up and down the ravine and killing whatever he could. He wouldn’t be strictly helpless as he climbed, but he’d lose his mobility advantage once he joined the monsters in the cramped quarters.
+
+He considered, briefly, casting a Magma Fissure across the ravine in an attempt to burn out any remaining monsters, but concerns over the dripping lava solidifying and blocking his path eliminated that option.
+
+Only once he’d thoroughly exhausted every bit of preparation he could think of did Edmund lower himself into the crack.
+
+The space within stretched just wide enough for his cuirass to maintain an inch of clearance in front, as long as the back pressed against the reddish stone. He wedged himself in place with his elbows and knees, tensing hard to overcome the walls’ desire to crumble. His spear he kept straightened, held in his right hand, the space too tight to practically hook it around his neck. At least this way he could use it to potentially fend off an attack, if only one from the right.
+
+None came.
+
+He traveled slowly into the depths of the earth, frequently pausing to awkwardly crane his neck in all directions in search of approaching danger. Even with such vigilance, he failed to spot the room until his knee slipped down and forward in search of its next anchor point and found only open air.
+
+Landing on the ledge was a simple matter of releasing his grip on the walls and allowing himself to fall a few feet before spending his windstep to halt his momentum and propel himself forward. He landed on his feet.
+
+The area was more a hidden landing than a proper room, a section of the wall carved away to form a space built in and hidden by the crevice, but it wasn’t the difficult to find nature of the place that claimed Edmund’s attention, nor the silver chest on the floor, nor the door hanging open to reveal the darkness between levels.
+
+It was the one-eyed man selling kebabs.
+
+“Well, would you look who it is,” William said, his good eye fixing on Edmund.
+
+“Told you he would find it,” Liam replied through a mouthful of kebab. He held up a quieting finger as he paused to swallow. “That’s two more kebabs you owe me.”
+
+William sighed as he put two more skewers onto the grill. “A word to the wise, kid,” he addressed Edmund. “Don’t make bets with your friend here. He cheats.”
+
+“I don’t cheat!” Liam exclaimed. “I said he would find it, not that I wouldn’t leave him clues.”
+
+“The blue fur,” Edmund reasoned aloud. “You didn’t reclaim it.”
+
+“Bingo,” Liam said. “And that wasn’t even action. I just had to not do something. Do you have any idea how easy it is to not do something?”
+
+Edmund ignored his prattling to settle his gaze upon William. “What are you doing here?”
+
+The man shrugged and leaned over the rough stone counter, his glass eye swiveling about to join his real one in staring at Edmund. “Selling kebabs.”
+
+“In a secret room? There’s nobody here.”
+
+“I never said I was good at my job.”
+
+Edmund groaned.
+
+Liam grinned.
+
+William continued. “I waited for you. Got mighty disappointed when you didn’t come back like you said you would.”
+
+“Sorry,” Edmund said curtly. “I got a bit stuck and had to move on to the next floor. Same deal as last time? An answer for an answer?”
+
+“No thanks,” William dismissed him out of hand.
+
+Edmund blinked. “I’m sorry, what?”
+
+“Not in the mood.”
+
+“Not in the mood for…” Edmund trailed off and glared at Liam. “You set this up, didn’t you?”
+
+Liam reached down to pull one of the skewers off the grill. “Don’t look at me, I’m just enjoying some delicious kebabs.”
+
+Edmund noted that though he’d implied it, Liam hadn’t directly denied the accusation. He didn’t press the matter. If Liam didn’t want to tell him, Liam wouldn’t tell him. He cast his attention back to William. “Why are you here?”
+
+“I have two passions in life,” William said, “good companionship, and a better story. Liam here provides the former, and you the latter.”
+
+Edmund stared at him.
+
+William smiled. “Can I interest you in a kebab? Two copper a piece.”
+
+Edmund shook his head. “I don’t have any mon—” He trailed off as his, Liam’s, and William’s eyes all turned to the silver chest next to the exit. He sighed. “There’s two copper in there, isn’t there?”
+
+Liam flashed the smuggest grin Edmund had yet seen. “There is now.”
+
+William glanced sideways at Liam. “I’d thank you for the business, but I know you only did it because you find it funny.”
+
+“It is funny,” Liam argued as he watched Edmund approach the chest. “Just look at the way he glowers. It’s amazing.”
+
+Edmund tuned them out as he swung open the silver chest, finding exactly two copper coins sitting atop an item he’d hoped he’d find.
+
+Scorpion’s Sting
+
+Deals major poison damage on blood draw.
+
+Edmund didn’t quite smile, but the scowl on his face did alleviate as he picked up the steel short sword. The blade itself bore a simple, yet elegant design, slightly narrower at the base than the tip to give it a sense of curvature and, presumably, guide opposing blades to the crossguard. The pommel was an obsidian-black replica of a scorpion claw, a scale reproduction of those he’d fought on his way there.
+
+Edmund stood and swung the two-foot-long weapon through the air a few times, getting a feel for the weight and balance of the thing. He let out a contented breath. He’d been lacking a short range weapon ever since he’d broken Rat’s Fang back on the eighth floor. This would do nicely.
+
+He pulled a matching scabbard from the silver chest and slid it through his chain belt, hooking it in place with the attached buckle.
+
+His loot collected, Edmund leaned back against the far wall and shut his eyes to consider his constellation. He had a few options.
+
+From the list he’d purchased from the scholar, he had his eye on the confluence Madness made with Death, Chaos, Wrath, and War, while Eldritch, of course, remained his top priority if he could ever find an appropriate shrine at which to form a pact.
+
+Alternatively, he still had multiple confluences available immediately, most notably Elements with The Recluse or Obsession. Both would upgrade Madness, and both would provide a powerful tier three Aspect then and there, a boon he’d need for whatever increasing difficulty awaited on the next floor.
+
+He settled on Obsession. The Recluse, while surely valuable, remained difficult for Edmund to evaluate, and after his run-in with Amelia’s group, he was hesitant to over-invest in derivatives of Solitude.
+
+After two runs through all his other options to confirm his decision, Edmund focused in on Obsession and Elements, and accepted his newest Aspect.
+
+Tier 3 Aspect: Focus - Silver Resonance
+
+Level 1 - Doubles spell damage when attacking a single target.
+
+He could work with this.
+
+It was narrow in the way that many of his Aspects were, but thus far the overwhelming majority of foes that had truly posed a threat to Edmund had been lone enemies. He knew that was subject to change, and he couldn’t trust Focus to carry him through every encounter, but double spell damage was a massive boon.
+
+Perseverance, Madness, and Elements remained unchanged beyond their increase in level, but Obsession’s description showed a new part.
+
+Tier 2 Aspect: Obsession - Gold Resonance
+
+Level 2 - Gain strength and agility for each consecutive day spent pursuing your obsession. Gain mana for each consecutive month spent pursuing your obsession.
+
+Not only did it raise an additional attribute—one he sorely needed given his recent investment in Elements—but it did so on the scale of months rather than days. He wondered if that meant he’d get more at a time, before realizing trying to compare the unquantifiable concepts of strength or agility or mana didn’t make any sense.
+
+Content with his rewards, Edmund allowed his constellation to fade away as his attention returned to the room as a whole. William and Liam both stared at him.
+
+“Feeling better?” Liam asked.
+
+Edmund ignored him, reaching back into the loot chest to grab the two copper coins and approaching the counter. By the time he got there, William already had a kebab ready. “Thank you for your business.”
+
+Edmund accepted the skewer, glaring at Liam as he spoke. “It’s not like I could afford anything else with just two copper.”
+
+William seemed to take that as a compliment. “I always strive for value.”
+
+Edmund ignored him too, biting into the grilled pepper on the kebab’s tip. It was good, far better, even, than he’d expected. Notes of garlic and paprika wove together with the char from the grill in a delicate balance that Edmund appreciated all too much. His mouth full, he nodded at William.
+
+It would’ve been dishonest to say something about the kebab seller bothered him. A lot of things about the kebab seller bothered him. From appearing in such an obscure location to being the only other person that could see Liam to somehow having a stall on the crowded fifth floor that nobody patronized, William reeked of suspicion. Thrax, the name ‘William’ was even often shortened to ‘Liam.’
+
+That last was a bit of a stretch. After all, the dungeon hadn’t come up with the name Liam, it’d stolen it at the same time it’d stolen the appearance of the boy Edmund had met in Dungeon Square what felt like an eternity ago. If anything ever were a coincidence, it had to be that, right?
+
+Whatever secrets William kept, Edmund decided he wanted no part in them. He had what he’d come for, from a wealth of information on paragons and the true nature of Madness, to Amelia’s true identity, to a valuable piece of equipment and even more valuable new Aspect. It seemed he’d missed the azure fox, but he looked forward to catching up to it on the next level.
+
+He thought, for a moment, to return to the oasis, potentially hire himself out as a guard watching over gatherers until he could afford a bedroll, but ultimately decided against it. He didn’t need a bedroll. It wouldn’t make him any more effective at accomplishing his goal and destroying the Eternal Depths. Spending Thrax knew how long working towards something with such little utility felt like a waste, and that was without even considering the potential loss of his Obsession bonuses.
+
+He finished his kebab. He deposited the wooden skewer on William’s counter. He rested a hand on the pommel of his new sword.
+
+With one last glare at Liam and curious glance at William, with the taste of kebab lingering on his tongue, with a mix of excitement and trepidation at the coming escalation of both difficulty and rewards, Edmund turned to face the exit, and stepped into the darkness.
+
+Edmund Montgomery Ahab, The Crimson Hand
+
+Aspects Unlocked: 11
+
+Tier 1 Aspect: Elements - Gray Resonance
+
+Level 4 - Provides access to the Firebolt spell.
+
+Tier 1 Aspect: Solitude - Red Resonance
+
+Level 5 - Gain increased constitution while fighting alone.
+
+Tier 1 Aspect: Perseverance - Gray Resonance
+
+Level 6 - Gain health regeneration.
+
+Tier 1 Aspect: Madness - Prismatic Resonance
+
+Level 7 - See beyond reality. Touch the unreal.
+
+Tier 2 Aspect: Sorcery - Gold Resonance
+
+Level 1 - Provides access to the Smoke Lash spell.
+
+Tier 2 Aspect: Obsession - Gold Resonance
+
+Level 2 - Gain strength and agility for each consecutive day spent pursuing your obsession. Gain mana for each consecutive month spent pursuing your obsession.
+
+Tier 2 Aspect: The Recluse - Gold Resonance
+
+Level 1 - Empower the effects of Madness while alone. Lessen the effects of Madness while accompanied.
+
+Tier 2 Aspect: The Island - Gray Resonance
+
+Level 3 - Grants resistance to over-time effects while in groups of two or fewer.
+
+Tier 3 Aspect: Focus - Silver Resonance
+
+Level 1 - Doubles spell damage when attacking a single target.
+
+Tier 3 Aspect: The Rift - Gold Resonance
+
+Level 2 - Provides access to the Rend active ability.
+
+Tier 4 Aspect: The Fissure - Silver Resonance
+
+Level 1 - Provides access to the Magma Fissure spell.
+
+The Crimson Hand
+
+Grants minor resistance to piercing damage. Bestows ownership of the Dread Gauntlet of Kor’Ilinesh.
+
+Trailblazer’s Sigil of the Azure Novice
+
+The second step on the Path of the Azure Fox. Increases agility. Grants a single windstep.
+
+Trailblazer bonus: Sharpens hearing.
+
+Trailblazer’s Sigil of the Rootmother
+
+Non-intelligent Strethian lifeforms will treat you as an ally. Gain the ability to draw water and nutrients from fertile soil.
+
+Trailblazer bonus: draw water and nutrients from all soil.
+
+Cloudkith Sigil
+
+Cloud-based lifeforms will treat you as an ally. Gain enhanced perception through vision-reducing effects.

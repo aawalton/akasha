@@ -1,0 +1,155 @@
+---
+id: 3be561c2-0c4c-5c30-bbe9-53d22e7d0e9b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29 - Maps"
+slug: 0030-chapter-29-maps
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 30
+ownLength: 1597
+unit: words
+publishedAt: 2026-06-11
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3522413/chapter-29-maps"
+royalRoadId: "3522413"
+---
+
+“You left Neve in charge?!”
+
+His liege hadn’t even told him that. That was worrying. Hector Hallen had always been a bold and audacious lordling. But it was only recently that Aldous was realizing just how conniving he was. How dark that blood in him ran.
+
+“Oh, come now! You love my cousin. Careful there!” Leaning forward, Hallen pulled back on the reins of his servant's horse. The man’s distress had distracted him so thoroughly that he nearly led his mount off-trail. “Nearly lost my most valued and trustworthy servant. Keep your eyes forward and mind sharp!”
+
+From behind, the rhythmic pattering of a dozen more mounts, all ridden by house soldiers followed in escort. Bend after bend was marked with fresh sets of hooves as they traveled. Right now, the going was easy. The start of the Spines. By tomorrow, they’d begin the real ascent.
+
+Hector looked back, nodding at the Lieutenant that rode on in their lead, eyes hard. “Keep an eye on this one, would you? I fear he might wander from the beaten trail.”
+
+“Of course, sir. I’ll be vigilant,” called Elson Bredford. Several muted orders were given to his troops. The lord turned away, just missing the golden shine emanating from under the collar of the man’s tunic.
+
+Shaking his head, Aldous took several breaths. “This is just all very sudden. Last night, you up and decided to go to the same tower that slayed a quarter of the garrison. Today, we’re already underway with an escort hardly befitting your station. I struggle to comprehend how this trek could possibly go well.”
+
+“A trek that you requested to join, so it can’t be all that bad!”
+
+“Well of course my liege. What servant wouldn’t?” he replied, voice just a little too eager.
+
+Hector looked over, giving him a sly grin.
+
+“And you think Solari paladins will take kindly to seeing you’ve not only pulled the wool over their eyes, but set off for the very place you hid? They won’t just end up catching us between the pass and these… these… wicked creatures?” spluttered Aldous.
+
+Lord Hallen snorted. “You see my future in a Solari inquisition do you, old Aldous?”
+
+“What I see, my lord, is an army of paladins to your rear and a mess they won’t be happy about. One that they will surely lay at your feet. Had you stayed and offered courtesy, maybe this could have been avoided. But now…”
+
+“Aldous. I know you’ve never been much of a rider. Not like me, at least. But you know, these paths up here always made for the best trails.”
+
+“That’s very good my lord, but I hardly see the relevance.”
+
+“Do you know why these mountains are called The Spines?”
+
+“Again, I fail to see the connection.” Sighing, the servant gave in. “I would assume it's due to how they stick up from the ground like such.”
+
+Hector held up one gloved hand. “You would assume wrong. Each season, the snows shift in such a way that the very paths we traverse in this pass alter. Like a spine, they roll and shift, bend and hold. Without the proper maps our trekkers update each season, you’d spend weeks up here just finding the right way through.”
+
+“Then it seems rather unfortunate you left Neve with last season’s -” Aldous cut off, realization dawning in his eyes.
+
+“My lord! You didn’t!”
+
+“Oh yes. I did. Funny thing, this season was a particularly shifty one. But! Not to worry. I have this spring’s copies with us. The only one, mind you.”
+
+The look on his servant’s face was of pure horror. “But.. But.. My lord, this. This is too far. How could you have done this? You’ve damned yourself! The paladins are going to be furious when Neve gives them last year's maps!”
+
+“They’ll hardly know until they’re knee deep into The Spines. What’s done is done. Besides, my friend. As my trusty servant, I’m sure we can figure something out. Together.”
+
+My god. He’s a monster. The Solari are going to arrive, find the place in Neve’s hands, and learn the lord’s run off with a guard contingent and…
+
+Aldous closed his eyes, feeling faint.
+
+And me.
+
+***
+
+“Aspirant Caen. Token.”
+
+The ranking camp guard stuck out one hand, his white and golden gauntlet bristling in the evening light.
+
+Instead of any true signet, Caen pressed two silver coins into the apostle’s palm.
+
+He didn’t even look down. Just closed his fist, and nodded. “Camp closes at sundown. If you are not back, the bishopric will make no exceptions. No entry will be allowed.”
+
+“Understood. My business will be prompt.”
+
+Leaning forward, Caen brushed his lips against metal. “By the five.”
+
+“By the five.”
+
+He shuffled off, moving as quickly as possible without drawing attention. He’d wanted to leave sooner, but events had prevented him from doing so.
+
+Practiced eyes took in his surroundings.
+
+I need to find the well before sundown. Missing the camp will be the least of my worries.
+
+Vestri was always a large city, but its cramped layouts and twisted streets made it feel even more so. In only minutes, Caen had taken over a dozen turns, each carrying him deeper and deeper into the city proper. Above, shabby wooden domiciles leaned forward. It seemed to him that they were held together by no more than grime, tack, and sheer will.
+
+One good point of the claustrophobic town? It also gave his journey easy cover.
+
+The street traffic helped too. Late as the hour was, beggars and haulers scurried about. Some on business, others skulking.
+
+An oxen-pulled supply cart clattered past, two burly men at the reins.
+
+Funny thing about Vestri. Due to it being on the border of South and Central Valdren, the support for the Solari was… tenuous. But it was still considered part of South Valdren, where support for The Solari was ironclad.
+
+Still. This is the last well I’ll have access to. Once we cross into the Central kingdoms, there'll be none left. I need to make sure Demetri has my reports. Anything I learn after today could take weeks to get back by horse.
+
+Caen paused. In his palm, the Solari medallion gleamed, the receding sun catching on its metal surface. Just ahead, a nondescript door stood. Three symbols were hastily carved into the frame.
+
+Here.
+
+Pressing the golden signet against it, he called upon the holy one’s will. And it answered.
+
+***
+
+Arthur Demetri scowled.
+
+“He’s only just made it to Central Valdren?”
+
+“Yes, your worship. However, he’s got several hundred enlisted from the South. The lords were keen to please him.”
+
+“Well that’s hardly surprising. Klive’s name alone should do that much. What’s your opinion?”
+
+“Candidly, father. I think Brother Brexin brazen, but not deaf. He’ll be hearing much of the same reports I am. Shakings in the ground, purple lights in the sky, and signs of the damned. No traffic in or out of the west pass. There’s something tainted here, and we need to make sure the lands are rid of it.”
+
+“Caen. I know the reports. I asked what your opinion was. Do you think Brexin to be successful in cleansing this sickness?”
+
+The hooded aspirant shrugged. “I have to believe he can…” He hesitated, before deciding to continue on. “But I don't like this. Not one bit. The air feels different, the people quieter, and the will… It feels… Tainted.”
+
+Arthur grumbled in agreement. “There’s just so much we still don’t know about these creatures. What magic do they have? Are they truly demons? How many are there?”
+
+“I don’t know yet. But you have my oath I’ll find out everything I can. If Brexin can’t rid whatever scourge this is, I’ll be sure word gets back to you. Along with anything else of value we learn.”
+
+“I know you will, child. I know you will.” He paused, considering. “And what of Hector Hallen? Have you heard of any change?”
+
+“No. Just that the lordship’s been unusually quiet. And still nothing about it has been sent this way. Not that I’ve heard of.”
+
+“Troubling. Very troubling.”
+
+Caen took a breath, feeling his reserves emptying. “I’ll need to be going, father. This is the last well I can draw on. From here, I’ll send word via horse.”
+
+Arthur nodded. “By the five, my child.”
+
+“By the five.”
+
+The high bishop watched as Caen’s face disappeared from his basin, the last wisps of today’s sun sparkling on the water.
+
+I really should see about petitioning Central Valdren for more wells. Maybe even a lord in the North. The magical basins are expensive to consecrate and maintain, but I feel the cost is more than worth it. Especially with what I fear is growing in Greensward.
+
+He grabbed the small bell sitting next to his basin and rang it, a soft chime filling his chambers.
+
+Behind, the ornate door opened and a serving boy rushed in, feet clacking on the marble. “Yes, Bishop Demetri?”
+
+“Send for William. And prepare us parchment and ink, if you please.”
+
+The boy bowed and departed hastily.
+
+Sighing, Demetri turned and looked out across the Holy Capital from his window perch.
+
+“Despite what I told Caen, Brexin is seeming more and more like a stopgap. An information source. Not a true sword. I’m getting the distinct impression we are going to need something decidedly more permanent in North Valdren. And someone more competent at its head. A champion smiled upon by the holy mother.”
+
+But for that, he’d need to approach the five.

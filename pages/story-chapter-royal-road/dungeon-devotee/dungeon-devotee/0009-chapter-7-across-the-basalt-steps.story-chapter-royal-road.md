@@ -1,0 +1,531 @@
+---
+id: 39e48b35-2588-5f40-97cf-4fd45f69b692
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7: Across the Basalt Steps"
+slug: 0009-chapter-7-across-the-basalt-steps
+partOf: dungeon-devotee
+position: 9
+ownLength: 6739
+unit: words
+ownProgress: 6739
+publishedAt: 2022-04-01
+link: "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/875407/chapter-7-across-the-basalt-steps"
+royalRoadId: "875407"
+markedReadAt: "2026-06-29T22:39:19.200Z"
+---
+
+Edmund found himself standing upon a large, uneven surface, surrounded by walls on three sides and empty space on the fourth. Foot-wide hexagons made up the floor beneath him, each some inch or so higher or lower than its neighbors, resulting in a treacherously varied yet ultimately level platform overlooking the abyss before him.
+
+Said abyss began roughly ten yards from the floor entrance, at which point the landing abruptly ended. Unwilling, for the moment, to step close to the edge, Edmund could only see darkness below. He could tell from where he stood it was a place delvers weren’t meant to tread.
+
+Instead, the dungeon-built path forward consisted of a series of pillars of the same hexagonal stone as the platform. Single hexagons. Others, of course, stretched up to support the individual hexes, but they reached their end far enough below the central pillars to be of little use. It was clear at a glance the Depths intended delvers to hop from pillar to pillar like stepping stones over a creek, except the five-foot gap between them required a quick pace, and any misstep would lead to a long fall and a short life.
+
+The roof of the cavernous space lay obscured in shadow, a fact that stirred Edmund’s mind to wonder what dangers lurked above. The smokeless torches on the wall seemed to selectively cast their light on the basalt platforms and pillars while carefully ignoring the ceiling and depths below.
+
+Perhaps more telling, to Edmund’s eye, were the series of larger platforms interspaced between the foot-wide pillars. Every ten hops or so stood a landing, visibly bereft of boon or bane other than a moment’s rest from the danger of crossing the steps. If monsters awaited him, those’d be the most likely place.
+
+The good news—of which Edmund would take what he could get—was that he could see the exit from where he stood. Across the chasm, past fifty steps and three larger landings, a broad ledge to match the one on which he stood connected to the wall. Already the door stood open and a silver chest taunted him.
+
+“See?” Liam appeared beside him. “Plenty of space to play with your new toy.”
+
+“Plenty of space completely exposed,” Edmund snapped. “On terrain that’d be laughably easy to hide a trap in.”
+
+Liam sighed. “Why do you have to be like this?”
+
+“You’re actively trying to kill me.”
+
+“And you’re actively trying to kill me!” Liam countered. “So what? That doesn’t mean we can’t be civil about it.”
+
+Edmund glared at him.
+
+Liam made a show of taking deep breaths to calm himself down. “The starting platform is safe. Barring your own incompetence, you won’t be harmed or at risk until you set foot on the first pillar.”
+
+Edmund nodded, ready to accept the dungeon’s word before deciding the better of it. “Define ‘my own incompetence.’”
+
+“Thrax, Edmund, you need to relax. I won’t harm you, but I can’t guarantee you won’t be harmed at all. For all I know, ten minutes into your training you’ll trip over one of these stones and hit your head and that’ll be the end of you. There aren’t any traps or monsters that’ll pose a threat to you on this platform. Happy?”
+
+Edmund didn’t answer. It wasn’t a question he could answer, truthfully. Instead he leaned his spear against the wall to his left, drew Rat’s Fang, and envisioned his constellation. With a simple thought towards his newest Aspect, its description popped into view.
+
+Tier 3 Aspect: The Rift - Gold Resonance
+
+Level 1 - Provides access to the Rend active ability.
+
+From there he focused further, his mind’s eye narrowing in on the golden light of the Aspect until it filled his perception. Only then, when his soul knew nothing but The Rift, did its ability click into place.
+
+Rend felt at once familiar and alien, a part of him that’d always been there but that he hadn’t noticed until that moment, like a muscle he’d just discovered and learned how to flex.
+
+In a sharp and brutal motion, he swept Rat’s Fang through the air in front of him, tugging on that muscle as he did. He felt something leaving him, a subtle sense of exhaustion taking its place, but such was the way of all new muscles. They had to be worked.
+
+Had he not amassed a great deal of experience swinging Rat’s Fang, Edmund would never have noticed the nigh imperceptible differences in the way it moved. The air seemed to part before it. The swish of the wind as it passed fell sharper and higher pitched on his ear.
+
+And that was it.
+
+Liam raised an eyebrow at him. “Not a very impressive ability, is it?”
+
+Edmund remained silent, maintaining his grip on his knife as he turned to face the wall behind him. With neither hesitation nor trepidation, he swung for the stone and activated Rend. It sliced clean through, carving an angled score through the hard basalt.
+
+“Ow!”
+
+Edmund spun around to find Liam clutching his head in his hand.
+
+“Be careful with that,” Liam said. “If I wanted to, I’d be within my rights to exterminate you for attempted tunneling.”
+
+“But I—” Edmund gaped at pained expression on Liam’s face, something about it landing wrongly against Edmund’s better sense. He squinted, looking past the grimace and the wince to find a familiar glimmer in Liam’s eyes. Edmund straightened. “That didn’t actually hurt you, did it?”
+
+“Nope!” Liam snorted. “But you should’ve seen the look on your face.”
+
+Edmund shut his eyes and took a deep breath, filling his lungs as full as they’d go, letting it all out in an extended exhale. He shook his head, turned away from Liam’s smug face, and continued his training.
+
+He spent a good hour practicing with Rat’s Fang, swiping it through the air this way and that with Rend at its edge. From there he stopped to rest, sitting and leaning back against the stone wall as he recovered the stamina he’d spent. Liam, apparently deciding Edmund’s training too boring to stick around for, had vanished to wherever dungeon avatars went. Edmund preferred the silence.
+
+His work with his dagger complete, Edmund moved on to other methods of activating his new ability. He found his bare hands unsuitable to the task, but the tip of his spear fit the bill. After another block of time spent practicing sweeping maneuvers with the weapon as opposed to the normal lunges he’d always employed, Edmund sat back down sweaty and content.
+
+Not only did Rend unlock the ability to use his spiderleg spear as a slashing weapon, but the added utility of being able to cut things from a distance could prove lifesaving.
+
+As he rested, Edmund puzzled over what line allowed him to Rend with his spear but not his hands, eventually coming to the conclusion it had something to do with the concept of sharpness. He supposed his fingernails, rough and filled with dirt as they were, should’ve been sharp enough, so perhaps some aspect of rigidity was at play as well. It was only then, as he caught his breath between bouts of training, that Edmund realized his dilemma.
+
+His stomach rumbled.
+
+With a groan he patted his bare hands along the basalt floor and walls, finding no soil on the bare stone that would allow use of his rootmother’s sigil. Without access to his ability to pull moisture and nutrients from the earth, Edmund had a new, more immediate objective.
+
+He needed food and water.
+
+The pillars would have to be his next step. He approached the ledge, squinting across the empty space to gauge the distance between the single hexagons he’d have to run across. At roughly five feet apart, he figured there’d be between five and six other hexagons between them where they connected. Since the same hexes made up the ground beneath him, he had a natural practice space.
+
+Counting out the hexes on the floor, Edmund plotted out a series of five particular spots, and set out to cross the opening platform stepping on only those. It was easier said than done, especially given that some of his targets sat lower than the stone around them, but he’d rather practice the harder version before attempting the unsafe version.
+
+Time after time he crossed the floor, varying his route to train himself to make adjustments on the fly or follow crooked paths. Only once he felt he’d mastered the skill did Edmund return to the ledge. He peered over, but found only darkness below. Bracing himself for what was to come, he tilted his head towards the ceiling and spoke.
+
+“What’s down there?”
+
+“Death,” Liam said, appearing to Edmund’s left.
+
+Edmund rolled his eyes. “What else?”
+
+“Darkness. A long fall. Probably a floor, eventually. I could go on.”
+
+Edmund grunted. “Are those pillars stable?”
+
+“That would be telling.”
+
+“Useless,” Edmund growled.
+
+Liam snorted. “I’m not here to be useful. I’m here to enjoy the show and provide witty commentary at appropriate moments.”
+
+“You’re here to be a pain in my ass.”
+
+Liam snapped his fingers and pointed at him with both hands. “Now you’re getting it.”
+
+“Alright,” Edmund said, backing away from the ledge for a running start. “Wish me luck.”
+
+“Have fun,” Liam said, noticeably not wishing Edmund luck.
+
+Edmund ignored him. He paused for a moment to call upon his Madness, but the illusory smoke called no attention to the basalt pillars, instead swirling ominously around the first landing across them. There would be danger there.
+
+Mentally preparing himself for combat upon his arrival, Edmund gripped his spear, set his jaw, and ran.
+
+Between his Obsession, his sigil of the azure pup, and his dedicated practice, the uneven surface on which he ran posed little challenge. Even without the Aspect of Agility itself, Edmund knew how to move.
+
+Every reflex in his body screamed against him as he raced towards the edge, but Edmund knew fear, knew danger, knew death. He brushed it all aside with nary a thought, clearing his mind of all but the immediate moment, the pounding of his heart, the rushing of his blood.
+
+He jumped.
+
+He didn’t think, he didn’t plan, he didn’t worry as he soared over open air. He didn’t stop to hesitate or allow his momentum to so much as flinch as his boot landed on the first pillar. As soon as he felt the stone beneath his foot, he leapt again.
+
+Before he knew it, he touched down on the first landing, taking three steps forward to slow and eventually stop his run. He brought his spear about, grasping it with both hands before the threat even showed itself. A quick scan of the platform itself revealed no signs of traps, but his Madness had warned him about something.
+
+His keen ears caught their approach before his eyes did.
+
+From three directions, all ahead of him, subtle scrapes and hisses echoed up from beyond the landing’s end.
+
+A sharp, segmented leg reached up over the edge of the platform. Another one appeared a few feet to the left. Then another.
+
+They climbed onto the landing all at once, three figures in the same dark gray as the basalt, each standing on four legs, with another two appendages raised up, extending from their four-foot-tall upper bodies, poised to strike. Madness gave the beasts a name.
+
+Lesser Cave Mantis
+
+Edmund struck first.
+
+He dashed aggressively for the beast on his right, choosing it to keep the others all to one side. The more of them he could take out while they were still spread out and close enough to the ledge to be knocked off, the better.
+
+It struck at him in the same moment he lunged for it.
+
+The act of the lunge forced him to lower his center of mass to some extent, thus placing his head within reach of the shorter beast’s limbs.
+
+So he ducked.
+
+The mantis’s right leg passed right over him, while its left slammed the sawlike blade of the limb into his right pauldron. Edmund winced at the sound of chitin scraping against stone, but he carried through.
+
+The tip of his spear skidded off the thing’s carapace, sliding up along its center until it reached the joint of its neck. Edmund pushed harder.
+
+Green fluid burst from the wound. The creature stilled. Edmund didn’t.
+
+He jerked his weapon back and spun to his left in a singular motion, flinging the dead mantis to the side as he turned to face the others he knew were bearing down on him.
+
+But they were too fast.
+
+The shaft of his spear collided with the front legs of the nearest mantis, the beast already inside his range.
+
+Edmund didn’t hesitate to drop the weapon as he dove forward, his spear clattering to the ground as he snatched Rat’s Fang from his waist.
+
+The mantis’s left raptorial leg slammed into Edmund’s side, scraping down along the length of his pale widow’s carapace until it snagged his belt. The frayed rope, which he’d worn since he’d first set foot in the Eternal Depths, proved insufficient to the task.
+
+It snapped.
+
+The force of the break buckled Edmund’s right knee, bringing his face in line with the mantis’s own, but he’d already committed to the attack. He slammed Rat’s Fang into the side of the beast’s head even as its mandibles reached for his neck. He didn’t wait to watch the thing die.
+
+On instinct more than anything else, Edmund allowed his legs to collapse under him, his entire body falling on top of the dead mantis in front of him just as a raptorial leg swept through the air above him.
+
+Edmund rolled to the right, the now-familiar maneuver of using the slope of a corpse to accelerate a roll coming easily. He landed on his back, his left shoulder slamming hard against something long and cylindrical—his fallen spear.
+
+He grabbed it and swung it up sideways in front of him just in time to catch another strike on its shaft.
+
+For a moment everything stopped, Edmund and the remaining mantis making eye contact as he held back its front legs with the shaft of his spear. It clicked at him.
+
+Edmund made his move.
+
+He swept his spear to the left, biting back the burst of fiery agony as the mantis legs slid down the shaft of his spear to rake over the knuckles of his left hand. The sawlike blades of the leg ground against the bones of his fingers, a painful, yet lucky, happening. Striking bone meant missing the much more severable joints.
+
+Edmund didn’t let that slow him for a moment.
+
+In the same motion that wreaked havoc on his hand, he swept the tip of his spear along the mantis’s exposed front, and Rent it in twain.
+
+The mantis fell to the ground in two pieces.
+
+Edmund heaved and swallowed back bile as the adrenaline withdrew from his system and the pain of his injury took its place. He sat down, clutching his left hand as his heartbeat gradually slowed and the fight replayed in his mind.
+
+It wasn’t until the corpses were already dissolved that he realized his mistake.
+
+“Shit,” he cursed through his teeth. He’d needed those. While hunger had receded thanks to the waves of nausea propagated by the pain in his hand, his throat had grown parched from the exertion, and he’d just let three potential sources of sustenance disappear before his eyes.
+
+He grunted, venting his frustration in the sharp, low-pitched noise as he evaluated his options. He couldn’t afford to wait around too long—the longer he went without water the weaker he’d become, but he similarly couldn’t charge forth immediately, not with his hand in its current state.
+
+Edmund resolved he’d wait until his hand recovered enough that he could use it, painfully or otherwise. In the meantime, he explored his platform as much as he could.
+
+It wasn’t much.
+
+The landing consisted of a roughly twenty foot circle of the same uneven hexagons, devoid of features. Edmund prodded at each of them with the base of his spear on the off chance some compartment lay hidden beneath, but found nothing. Over the edge he found his current platform supported by other hexagonal pillars that didn’t reach as high, but each sat too low for him to have any hope of climbing back up should he attempt to jump down to them.
+
+He noticed then, as he looked out across the chasm ahead of him, that that was true of each of the pillars except the last landing. The third of the larger stopping points between the loose steps had a more gradual slope between the platform itself and the lower pillars around it. Edmund resolved to explore them when he made it there.
+
+An hour later, he stopped to flex the muscles of his left hand, wincing at the spike of agony but swallowing the pain down his parched throat as he nodded with approval at the motion. It hurt like shit, but he could use it.
+
+Taking the remains of his rope belt, Edmund tied a tight loop around his right thigh and slid Rat’s Fang through it. It was an uncomfortable and precarious-at-best arrangement, but it held enough for Edmund. He couldn’t wield his spear properly with Rat’s Fang in his hand, and he dared not leave either weapon behind.
+
+Prepared as he could be, Edmund walked to the far end of his landing, turned to face the next series of pillars, and took off at a run.
+
+He paid little attention to the crossing itself. He didn’t look down to see where his feet landed on the small hexes. He didn’t pause or hesitate or allow himself to imagine what would happen if he slipped.
+
+He kept his mind focused on the fight to come.
+
+When he first set foot on the second landing, Edmund didn’t come to a halt. He didn’t stop to appraise his situation or search for the danger. He knew where they hid.
+
+He ran directly across the landing for the far edge, meeting the first mantis before it could even climb onto the platform. With a single swipe of his spear, he sent it tumbling into the darkness. He dispatched the second mantis in similar fashion, whirling to meet the third just as it finished its ascent. Alone, it proved little match for him.
+
+Edmund didn’t stop to catch his breath this time, falling to his knees before the downed mantis and catching as much of the green fluid they had in place of blood in cupped hands. He drank as much of the foul liquid as he could stomach, the nausea rolling through him not the result of pain for once.
+
+He stopped short of cutting into the creature for its meat, knowing if nothing else there would be more to fight on the next landing. His stomach couldn’t handle food at the moment either way.
+
+By the time he’d done his due diligence searching for secrets on the second landing, Edmund’s left hand had all but recovered. Even so, he spared another thirty minutes to allow his stomach to recover. The last thing he needed was to cramp up at the wrong moment.
+
+Only when he was good and ready did he set his sights on the third landing.
+
+The crossing came as easily as those before, and again he raced to the other side of the larger pillar to stop the mantises in their tracks.
+
+But none appeared.
+
+He circled the landing twice, his gaze constantly flicking about in search of a sneak attack, but nothing came. No traps, no ambushes, no monsters at all moved to attack him. He scowled.
+
+For lack of a reason to sit around waiting for something to attack him, Edmund turned his attention to the shorter pillars surrounding the landing. To the left side he found the tallest of them some four feet shorter than the platform itself, a distance he could readily climb up and down. Next to it was one yet three feet shorter.
+
+The path was precarious, the hexagonal pillars no more than a foot wide. He shimmied along them sideways, his chest pressed to the side of the landing in front of him.
+
+He’d made just over half a revolution when he found the opening.
+
+Two of the pillars that made up the larger platform suddenly stopped, forming a two-foot opening through which torchlight glowed. Edmund squeezed in.
+
+He found himself in a hidden chamber, enclosed on all sides other than the hole through which he’d entered. A single smokeless torch hung on the wall, illuminating the packed-earth floor littered with twigs and dried bones. It was a nest, a nest absent whatever had built it.
+
+Instead, an azure fox feasted on a dead mantis.
+
+It looked up at Edmund as he approached, green blood dripping from its jaw and matting the fur of its snout. At first it bared its bloody teeth at him, but with a twitch of its nose, recognition flashed through the creature’s mind.
+
+Out of nowhere it burst into motion, leaping unnaturally high through the air. It sailed right over Edmund’s confused form, its left hind paw planting firmly on the top of Edmund’s head and pressing off to continue its movement.
+
+Edmund whirled around just in time to watch its white-tipped tail disappear through the chamber’s exit.
+
+His mind reeled as he watched the dungeon reclaim the mantis on which the fox had been feeding, his keen eyes taking note of the various scuffs and patterns in the dirt. There had to have been at least four of the things, four of the things that the fox had killed on its own.
+
+He gulped.
+
+“Now this is interesting.” Liam appeared leaning against the back wall. “Looks like our rogue mob is on a delve of its own.”
+
+Edmund blinked. “What does that mean?”
+
+Liam shrugged. “Thrax if I know. Like I said, it’s more fun not to look into things like this. Peeking behind the curtain and all that.”
+
+“What?”
+
+“Nevermind.” Liam waved him off. “Get anything interesting?”
+
+The question struck Edmund as strange until he realized he could still feel the spot where the fox’s paw had landed on his head. With a thought he brought up his constellation, finding the image of the baby fox no longer lay curled up, but now sat upright.
+
+Trailblazer’s Sigil of the Azure Novice
+
+The second step on the Path of the Azure Fox. Increases agility. Grants a single windstep.
+
+Trailblazer bonus: Sharpens hearing.
+
+“What’s a windstep?”
+
+“Ooh, that’s a good one,” Liam said. “It’s a resource, one that generally replenishes from spending time with both feet on the ground, and one you can spend to take steps on empty air. How many do you have?”
+
+“One.”
+
+“Oh, thank Thrax,” Liam exhaled. “Any more than that and I’d have to intervene. There are rules about how powerful rewards are allowed to be for given difficulty levels.”
+
+Edmund’s eyes narrowed. “What kind of intervention?”
+
+“Anyway, even just one is incredibly powerful, especially on a floor like this one.”
+
+“Alright, don’t tell me,” Edmund said, kneeling down and unbuckling his pauldrons and cuirass. Azure fox aside, the mantis nest itself was a huge boon if for a single reason—it was built on dirt.
+
+The moment he lay back and his exposed skin touched the packed earth, his rootmother’s sigil went to work. He glanced over at Liam. “Why didn’t you tell me there was dirt down here?”
+
+“And miss watching you drink mantis goo? No way.”
+
+Edmund groaned. “I hate you.”
+
+Liam smiled wide. “I know.”
+
+Edmund took his time resting and siphoning moisture and nutrition from the soil. He let his health regeneration do its work and fully close the wound on his hand and his various minor scrapes. Only after the mantises respawned in their nest—unable to attack unprovoked thanks to the accords—did he eventually rise and leave the hidden room behind.
+
+The climb back up to the platform proper proved more precarious than the descent, but Edmund’s agility was more than up to the task, especially with the extra confidence courtesy of having a windstep as a safety net. He didn’t need it.
+
+With three crossings under his belt already, Edmund faced down the last series of basalt steps without fear. This final crossing would be the longest, twenty lone pillars standing between him and the end of the level. With determination on his face, he took off at a run.
+
+But he couldn’t leap.
+
+Just as he bent his front leg to push off the edge of the platform, his rear foot refused to pull away from the floor.
+
+Edmund stopped short, his center of mass leaning over the abyss as something held his back foot in place. He yanked at it, and it pulled him back over the relative safety of the landing.
+
+Just as he did, a mantis swept down from the ceiling on clear wings, its sawlike legs swiping right through the air above the closest pillar. Had he jumped, he’d have had no way to dodge the attack without falling to his death.
+
+His heart pounding, Edmund pulled back and looked down at his rear foot just in time to watch tendrils of ethereal smoke withdraw from it and dissipate into the air.
+
+Madness had saved him.
+
+Edmund cursed as he watched the mantis fly back up and disappear into the darkness that enshrouded the ceiling, his mind racing to parse through what had just happened.
+
+The smoke hadn’t warned him. It hadn’t alerted him to the threat and stayed resigned to giving him information he had no right to. It had stopped him, held him physically in place at just the right moment. At once, the newest addition to his Aspect’s description flashed through his mind.
+
+Touch the unreal.
+
+His Madness had progressed beyond seeing things that weren’t there. He could touch them now, and more disturbing still, they could touch him too. Edmund could only hope the things that weren’t there would remain on his side. It would be trivially easy for them to kill him if they wanted.
+
+Forcing away his worry about the strange and unpredictable yet clearly powerful effects of his Madness, Edmund stepped back to the far end of the platform and readied himself for another go.
+
+This time, the illusory smoke didn’t stop him.
+
+The mantis swept down.
+
+Edmund swung his spear.
+
+His reach advantage won the exchange, the tip of his spear Rending the airborne insect in two before it could even swing at him. It plummeted into the darkness in pieces.
+
+But that was all it took. The force of the blow, the transfer of momentum from one being to the other, knocked Edmund’s leap off course.
+
+Until it didn’t.
+
+With a thought he flexed his newest muscle, and the air beneath his left foot solidified for the briefest of moments. It was enough.
+
+The motion was clumsy and unpredictable, and rather than cleanly leaping to the top of the closest pillar, Edmund’s stomach slammed into the top corner, his body doubling over its top. For an instant he worried the force of the collision would break the stone, but the basalt pillar held.
+
+Edmund hung there for a moment, the top of the pillar digging into his abdomen as he wrapped his arms around it for dear life. He caught his breath, allowed his heart rate to slow as he forced his thoughts away from the dark abyss at which he stared.
+
+The first step of his climb was to tug at the handle on his spear to bend the tip into a hook, something he could loop around his neck to free up his hands. With that complete, he pushed himself up, his boots pressing against the side of the pillar to provide every bit of lift they could.
+
+His heart fluttered in his chest as he finally stood upright on the foot-wide hexagon, nothing but empty air around him for two yards in every direction.
+
+On the one hand, no second mantis descended from above to knock him off. On the other, without a running start he had little hope of leaping the distance to the next pillar, nor back to the landing.
+
+But he didn’t have to.
+
+As luck would have it, with the right bit of maneuvering, Edmund could fit both of his feet in their entirety on the top of the small pillar. It was a tiny bit of ground, but it was ground. A quick check to his constellation confirmed a cooldown ticking away below his azure novice’s sigil.
+
+For over five minutes he stood there, an eternity to spend so precariously perched above certain death. The abyss seemed to reach for him. His heart pounded, his breath quickened, his mind fought back an onslaught of dizziness the emptiness around him imparted.
+
+But Edmund didn’t fall.
+
+Once the cooldown ended, he didn’t hesitate to jump, stepping once on solid air halfway between the first and second pillars to build up speed before his foot landed on hard basalt. He leapt again, not allowing his momentum to fail him again.
+
+When at last he reached the ledge on the far wall, Edmund collapsed to his hands and knees as the familiar chime of a cleared floor echoed the air. He breathed in deep and clenched his sweaty palms and let the fear he’d so staved back wash over him and came away clean. He’d done it.
+
+With the flat expression that was the closest to a grin Edmund managed these days, he pushed himself to his feet, collected his spear from where he’d let it fall, and turned to face the silver chest.
+
+“Tell me there’s a new belt in there.”
+
+Liam appeared leaning against the wall, a smirk on his face and a single eyebrow raised. “Do you want there to be?”
+
+Edmund growled, “Please put a belt in the chest.”
+
+Liam winked.
+
+With a sigh, Edmund flipped open the lid to find a short chain, its links wrought of the same dark gray chitin as the cave mantises.
+
+“Ask and you shall receive,” Liam said. “It’s a bit ugly, but thematically, this floor doesn’t really mesh with most belt-making materials so…” He shrugged. “You get a weird chain-belt-thing.”
+
+Chain of the Lesser Cave Mantis
+
+Lightweight but strong. Provides protection against physical damage. Highly vulnerable to blunt-force damage. Good for catching and tangling things in its loops.
+
+Edmund wasn’t sure what the difference between ‘vulnerable’ and ‘highly vulnerable’ meant, but it didn’t stop him from fastening the chain around his waist. He could imagine a blunt object smashing one of the loops fairly easily, so he figured that’s what the description meant.
+
+He slipped Rat’s Fang through his new belt, discarding the old rope in the process.
+
+Loot collected, his thoughts turned towards his next Aspect. Having made all the combinations his constellation would allow, only the base Aspects remained open to him.
+
+Aspects
+
+As per usual, Divine, Infernal, and Eldritch were off limits until he made a pact with a celestial being. While not strictly unavailable, Edmund also dismissed any of the Aspects in opposition to his current build. Serenity especially, as the counter to Madness, repelled him.
+
+Wrath and War both lay in close proximity to Madness, with Chaos as a close third. Alternatively, given that the boots and vambraces he’d earned on the previous floor melded with darkness, Shadows presented itself as an interesting option. Blades might’ve synergized well with Rend, while Endurance might’ve proved useful given how often he got hit.
+
+But Edmund had another thought.
+
+His encounter with the flying mantis gave him pause, the realization that there’d be flying opponents on later floors striking him hard.
+
+He needed a ranged attack, and there was only one Aspect he knew of that would give him that immediately. Edmund selected it.
+
+Tier 1 Aspect: Elements - Gray Resonance
+
+Level 1 - Provides access to the Flame Dart spell.
+
+Just as Rend had manifested as a muscle he’d never known he’d had, Flame Dart lingered at the back of his mind, a channel into which he could pour his focus. On a whim he lowered his hand to the abyss and allowed his attention to slide down that spillway.
+
+A small flame, sharp and quick, launched from his palm into the depths, disappearing into the unnatural darkness.
+
+At once the channel in Edmund’s brain slammed shut, and most of his focus returned. Most, but not all. He hadn’t lost enough to set his mind spinning or thoughts meandering, but some clarity of thought had noticeably left him. The channel reopened two minutes later. His thoughts returned to normal after ten.
+
+Pleased with his decision and already excited to see what would happen when he combined it with Madness, Edmund dismissed his constellation and went to plan his next steps. It was only then that he noticed the small stone statue and offering dish that blended in so well with the back wall. Edmund approached it.
+
+The two-foot-tall figure seemed to depict some sort of demon. The offering dish stood empty. Edmund shut his eyes and reached for Madness to try and summon some sort of explanation, but Liam’s voice pulled him away.
+
+“Don’t touch that!” he barked, an unfamiliar urgency coloring his voice.
+
+Edmund blinked. “What? Why not?”
+
+“Step away,” Liam commanded. “That’s not supposed to be there.”
+
+Already Edmund wanted to disobey the order, but he knew better than anyone the value in taking the time to gather more information. He stepped back and turned to face Liam. “What do you mean?”
+
+“I mean, that’s a shrine to Xe’orinoth, one of the greater demons, and he absolutely does not have permission to present you an offer right now.”
+
+Edmund glared at him. “What are you talking about?”
+
+Liam shook his head. “I’ll be right back. While I’m gone, do not touch the shrine.”
+
+With that he vanished.
+
+Edmund knew, of course, that the dungeon had likely just dissolved its avatar to redirect its attention to some other part of its ineffable self, but for some reason the image of Liam yelling at some poor goblin trapped behind a desk covered in paperwork wouldn’t leave his mind. Again, he resisted the urge to touch the shrine.
+
+“Okay,” Liam said the moment he reappeared in the exact same spot. “I figured out what’s going on.”
+
+Edmund prompted the explanation with his silence.
+
+“So basically—” Liam clapped his hands together. “—and this is a big oversimplification—most delvers—not all, but a statistically significant percentage—will accept the first pact offer given to them. They see a shrine, they accept the offer, they make the pact. Because of this, when two or more celestial beings want to make a pact with the same delver, they enter a bidding process for the chance to be the first shrine that delver sees.”
+
+Edmund blinked. “But this… Xe’orinoth didn’t go through the bidding process?”
+
+Liam snapped his fingers. “That’s where it gets interesting. He did. He outbid two other demons and an eldritch icon for the right to place this shrine here, he just shouldn’t have been able to because your bidding process is ongoing.”
+
+“People are bidding over me?”
+
+“Not people, but yes,” Liam said. “But that’s not important right now. There are all sorts of rules in place for this process, a number of which had to be broken for you to be seeing this shrine right now. I took a look at it, and I think I know what’s going on: broken rules leading to more broken rules.”
+
+Edmund exhaled. “Just tell me what’s going on.”
+
+“The shrine isn’t here for you. It’s here for that fucking fox.”
+
+Edmund froze. “You’re telling me the azure fox made a pact with a demon?”
+
+“With Xe’orinoth the Fury, Devourer of Hordes and Ender of Hope.”
+
+Edmund gaped.
+
+“Shrines are only allowed to appear on instanced floors, which normally stops delvers from finding shrines that aren’t meant for them or their party members. But this fox of yours has already broken a dozen rules, and being on the same instanced floor as you is one of them.” Liam smiled and shook his head. “I swear, you just keep getting more interesting.”
+
+“So the fox has a pact,” Edmund breathed. “When do I get one?”
+
+“No idea,” Liam said. “Like I mentioned, bidding is ongoing. These things take time, and they take even more time when half the celestials have thrown their hat into the ring.”
+
+“Half?!”
+
+“Yeah, yeah, you’re very popular,” Liam waved him off. “No need to brag. On my end it makes for a massive administrative headache, but I’ll reap a tidy profit from it all once it ends.”
+
+Edmund groaned.
+
+“See? There’s so much to be excited for! It’s enough to make you want to just leap right through to the next challenge!”
+
+Edmund didn’t bother replying, simply turning away from the exit and the annoying avatar alike to turn his focus back to the basalt steps. For the first time in far too long, he had an opportunity to train, and by Thrax he was going to take it.
+
+Liam left him to it the moment he crossed back to the third landing, thankfully unmolested by any flying mantises. From there he descended back down into the nest to face the four insects within.
+
+He practiced against them for some time, taking them on again and again until he could do so without injury. He fought them one-handed. He fought without his spear. He fought them disarmed, grabbing one by the leg and using it as a makeshift weapon to Rend apart the others. He peppered them with Flame Darts, forcing himself to fight through the mind fog that came with overuse of the spell.
+
+He practiced his aim. He practiced his economy of movement. He practiced his brutality. He slept on the floor with his armor off, bare skin drawing sustenance from the hard dirt. Only once he’d killed the lesser cave mantises in every way a lesser cave mantis could be killed did he vacate the nest.
+
+He crossed back and forth between the third landing and the exit a dozen times. He launched Flame Darts at the ceiling in the hopes of provoking any mantises that hid in the darkness. None came.
+
+Long accustomed, by then, to the lack of sunlight or any concept of day or night, Edmund truthfully didn’t care how long he spent there. He took everything the floor had to offer, every secret, every battle, every lesson. It wasn’t until he’d learned his fill that Edmund even looked towards the exit.
+
+So it was with eager anticipation and steel determination on his face, a spear in his hand and a dagger on his belt, and a collage of dull green dried mantis blood coating his figure, that Edmund approached the end of the dungeon’s seventh floor and stepped into the darkness.
+
+Edmund Montgomery Ahab
+
+Aspects Unlocked: 8
+
+Tier 1 Aspect: Elements - Gray Resonance
+
+Level 1 - Provides access to the Flame Dart spell.
+
+Tier 1 Aspect: Solitude - Red Resonance
+
+Level 4 - Gain increased constitution while fighting alone.
+
+Tier 1 Aspect: Perseverance - Gray Resonance
+
+Level 4 - Gain minor health regeneration.
+
+Tier 1 Aspect: Madness - Prismatic Resonance
+
+Level 4 - See beyond reality. Touch the unreal.
+
+Tier 2 Aspect: Obsession - Gold Resonance
+
+Level 1 - Gain strength and agility for each consecutive day spent pursuing your obsession.
+
+Tier 2 Aspect: The Recluse - Gold Resonance
+
+Level 1 - Empower the effects of Madness while alone. Lessen the effects of Madness while accompanied.
+
+Tier 2 Aspect: The Island - Gray Resonance
+
+Level 2 - Grants resistance to over-time effects while alone.
+
+Tier 3 Aspect: The Rift - Gold Resonance
+
+Level 1 - Provides access to the Rend active ability.
+
+Trailblazer’s Sigil of the Azure Novice
+
+The second step on the Path of the Azure Fox. Increases agility. Grants a single windstep.
+
+Trailblazer bonus: Sharpens hearing.
+
+Trailblazer’s Sigil of the Rootmother
+
+Non-intelligent Strethian lifeforms will treat you as an ally. Gain the ability to draw water and nutrients from fertile soil.
+
+Trailblazer bonus: draw water and nutrients from all soil.

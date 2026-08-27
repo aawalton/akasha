@@ -1,0 +1,261 @@
+---
+id: 6dde4a17-c443-5d94-8608-5b8683bbc004
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18 - Open Ticket"
+slug: 0018-chapter-18-open-ticket
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 18
+ownLength: 3022
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3445491/chapter-18-open-ticket"
+royalRoadId: "3445491"
+---
+
+Edward felt like his heart was going to explode from his chest. "How.. far... do you think.. we've gone?" he rasped.
+
+"Not .. far enough" replied Bertrum. Grunts of agreement from squad mates around them. They'd been going at a trot since the battle, the bedraggled force nearly ready to collapse. Ahead, there was only a sparse green treeline between hell and freedom. Whatever had happened today made the entire unholy sand grow leagues in diameter.
+
+Edward looked to his friend. "How many men you reckon we lost?" Using a gloved hand, he wiped the blood and sweat that kept clouding his vision.
+
+Bertrum shook his head, eyes locked forward. "Less than fifty left. Too many gone."
+
+Thirty. Over thirty dead. Edward was just glad he wasn't one. Looking behind, he saw the two warhorses trotting along in the rear of the column. Commander Ashlan rode on one, eyes hard and gaze level. The other held the limp and shirtless body of Lieutenant Elson Bredford.
+
+"Formation, damn you! We're soldiers, not a mob." barked Ashlan. Edward just kept running. One boot in front of the other.
+
+His eyes paused on the man's chest. The lieutenant's chest armor had been cut away, displaying a golden medallion firmly fused to his skin. A grotesque bubbling still made a faint fizzling that could be heard over the jingling armor and panting of men.
+
+It's not burning anymore, but that sure isn't coming off. For just a moment, the corporal thought he saw black lines coming off that golden and holy medallion. It seemed like the skin around it was... darkening?
+
+The soldier went back to looking ahead before the commander caught him wavering. Spear still held taut.
+
+"Bertrum.. Is that smell.."
+
+"Yeah. It's stronger. And it shouldn't be. Not this far from that place."
+
+One month. This time, Edward promised himself. He would not come back to this place, no matter the reason. Visions of that beautiful plot of farmland drifted in his mind. Only this time, they were tainted with dying men and screaming demons.
+
+Lord Vask stood atop the cobbled gray stone walls of Fort Wynn. Along the northern horizon, he could just make out smoke peeking over The Spines.
+
+"What do you think that is?"
+
+"Not sure." He shrugged. "What I do know is that smoke isn't from a skirmish. Something far more happened, and I get the feeling events are about to get interesting." Rubbing his chin with one armored finger, he turned and began striding along the palisades.
+
+"Then I'm glad you sent that missive."
+
+"Aye." he said simply. He had told his second about his decisions in that respect, but the man's lack of subtlety was making him second-guess doing so.
+
+Either way, that message should have reached South Valdren a week ago on fresh mounts. The Solari know.
+
+Judging by what I'm seeing, I'm starting to wonder if they will bother with Hallen at all. They may just skip right past the fool and see for themselves what lies beyond The Spines.
+
+City Lord Kairon stood next to Vorathrex, both gazing at the much larger graveyard behind the tower. What once was a lonely stone grave was now a budding forest of grim tombs. From behind, a shadow crept from the wall. It cloaked the demon in a comfortable darkness, keeping the cheer of the morning from getting too close.
+
+The general shifted, still appearing off balance. He caught Kairon staring at the stumps along his torso. "They grow back. Takes time." He paused. "The plane took more than arms from me, fledgeling."
+
+No elaboration came, and Kairon didn't press for it. Instead they both stood. They weren't friends, but neither were they enemies. A typical working relationship, the demon reflected. Just one with scar tissue.
+
+When he felt the moment had passed, he gave his general one last look before heading off. Kairon walked leisurely through his small city.
+
+His population was already back to normal, seeing to morning work detail.
+
+Another wrath imp had spawned this morning. The little monster had enthusiastically joined his nine surviving brethren in training. Kairon did wonder if the new warrior even knew that training was much more tame than usual. Once Vorathrex is back to normal, I think you may find your new city just a bit more... demanding.
+
+He shrugged. Right now, that wasn't his concern. Nor was it tomorrow's. If events went to plan, it never would be. Kairon's firm belief in the enforcement of middle management would see to that.
+
+Before moving on from the wrath district, one last detail stuck in his mind. Each imp had a spear, belt, and dagger. A disjointed pile of more armor and weaponry still sat off to their side. Kairon nodded in satisfaction, tipping his head towards the mountains. If nothing else, I at least ought to thank you for funding my army for me. Though I should warn you. Next time, you might find the cost of making our acquaintance more than you're willing to stomach.
+
+Several steps later Kairon halted. Well. That's curious. By the base of the stones demarcating the spawning circle, there were new markings. He was certain those hadn't been there before.
+
+Approaching the circle, he raised an eyebrow. Someone tried to copy the demonic scripture. The scratches used, even that poor, were impossible to miss. All of them were both angular and deliberate, the hallmark of the harsh language.
+
+Whoever did it did so badly. It's the wrong stroke order, barely recognizable if you aren't looking, but the attempt... Well. Kairon had a hunch about which oaf had tried making it. It's honestly some wonder he could do it, being he just lost two arms and all. I guess he still had four left.
+
+Bureaucratic autonomy at its finest.
+
+In his own mind, Kairon's two learned demonic symbols still hovered. They released a pulsating, orange light that lit his mindspace. He could feel that together, they were starting to mean something. Kairon was still learning about demonic scripture, but unlike the human alphabet, he felt it was less about appearance and more about intent.
+
+If I just had one more, this goes from a pair to a trio. And three is enough for a sequence. Which means it might actually mean or do something. That thought brought his eyes back to the charred claw on his hand, and the missing one at his foot.
+
+He pulled up his interface, but this time he didn't even glance at the city readout. Instead Kairon's gaze fell on the pact with Vorathrex.
+
+The city lord navigated to the final page and read it one more time. A mix of sadness and certainty returned. Using Sovereign Eye, he looked at his general. He still stood by the graves, a conflicted look in his amber eyes.
+
+Kairon closed the pact, and clicked his tongue. Not yet. But the option is still open. An option that carried a steep price, and one that was increasing the more the big demon proved himself an asset to the city. Yet, demonic or human, one rule never changed. The steeper the price, the bigger the prize.
+
+The numbers that greeted the city lord's speculative mind were still hard to believe. Five weeks ago, Kairon never would have thought the little imps could have helped him build so much.
+
+And, now that the immediate human enemy was dealt with, it was time to expand. His city was a wound on this human world, and he would ensure it spread far as possible before the hosts even realized just what disease they were dealing with. To Kairon, that was the only way he could ensure not only the survival of his beloved imps, but his own demonic hide as well.
+
+Speaking of reflection... Kairon thought back to how much his life had changed. And, more importantly, the skeletons he'd left behind.
+
+The clerk had spent more than fifty cycles processing and fixing other people's problems. He'd filed their complaints, resolved their tickets, and closed their cases. And if his managers were to be believed, he'd been good at it. Perhaps the best, even.
+
+But this was the first time that a part of his mind truly began to comprehend a piece of advice his old manager had given him. "The real work, Kairon, isn't in closing cases. It's in making sure no one opens one up on you."
+
+Letting his shoulders loosen and claws relax, the city lord finally made one last admission to himself.
+
+Someone was about to open one on me. Several someones, if I had to guess.
+
+He meant to be ready for that too.
+
+On the far southern tip of the main continent, deep in the Solari Heartland, a bishop of the arch deity sat in worship. Soft palms clasped tight, held calm and steady. The warm sun beamed, lavishing the gardens of the Holy Capital in warmth.
+
+In such an environment, it was easier than ever to sink in meditation and prayer.
+
+Prayer that, with no warning, was broken.
+
+"Bishop! Bishop!" The private garden gate was flung open, a familiar young priest striding through. "I've just gotten word. Demons have been sighted, north of Valdren and just past The Spines."
+
+"Good morning to you too, William." High Bishop Demetri sighed, letting his meditative prayer slip away as he stood.
+
+"Ah," the boy rubbed the back of his head sheepishly. "Sorry, father. I just thought you needed to hear this."
+
+Demetri pursed his lips. "Oh I heard you. Heaven's boy, half the blessed garden probably did too."
+
+At this, William's cheeks went even redder. He was an unofficial member of Demetri's intelligence network, after all.
+
+The old priest waved. "Come with me."
+
+The duo walked in silence, robes trailing on the cobbled path. Not a word was spoken until they reached a secluded gazebo in the southernmost corner of the high gardens.
+
+"Sit, and before you start, think carefully. If what you spoke of earlier was true, I may be asked to recount of what you speak," cautioned Demetri.
+
+William nodded, took a seat opposite to the bishop, and clasped his hands. "What I said was true, your worship. I got word from our agents in South Valdren. We've heard... reports. Unholy reports."
+
+Demetri hummed thoughtfully, his jeweled hand clasping tight. "And what are these reports?"
+
+"Something perilous is happening in North Valdren. And before you ask, yes, it does look like the Hallen boy is involved."
+
+"And I take it he's not being forthcoming about what that something is," replied the bishop.
+
+"Unfortunately. From what we can glean, there's been troop movements and logistics that support a large-scale action north of The Spines. That in itself wouldn't be of concern. What is however... Father, I have it on several accounts that Lord Hallen sent troops to investigate demons."
+
+The bishop held his hands behind his back and sighed. "I'm not sure which worries me more. The fact that Hallen kept this from us, or that if your expression is anything to go by, these reports of the unholy may very well be true... This leaves us in quite the conundrum, does it not, William?"
+
+The priest knit his eyebrows and bit his lip. "Your worship?"
+
+"Oh come now. Don't be so shy, my son. If I'm to bring this to The Solarium and it turns out these reports are more story than truth, it'll be on my shoulders the five place their ire."
+
+William shook his head, likely realizing that if any from the arch deity were going to appreciate candor over poise, it would be Arthur Demetri, unofficial spymaster for the Solarium.
+
+"Point taken. And if you don't report this now, but it turns out there is truth to what Lord Vask claims, then the five may very well call you a heretic."
+
+"Indeed." agreed Demetri. "You know, I always thought the higher my station, the more immune I was to politics and scheming."
+
+William smiled slyly at that. "You chose quite the peculiar path with that in mind."
+
+Demetri waved his hands. "Holy or no, we all have our ambitions. Mine was just tied to worship and prayer. In any event, what of our agents in South Valdren. What do the lords there intend?"
+
+The smile faded on the younger priest's lips. "Well. Events have transpired so quickly that for all appearances, no one in the south seems to know what's going on in the north. The reports I got came from Lord Vask, you know. Anyway, even with the high loyalty South Valdren places on their stewardship to us, none seem keen to send a holy crusade north."
+
+Arthur Demetri frowned. "I tried telling the circle that we should have brought order to the North far sooner. Allowing the local lordship to squabble over territories was a mistake. The fractures in that forsaken region have left us glaringly uninformed."
+
+"I can't disagree, my worship..." A pause. "So what will you do?"
+
+Taking a deep breath through his nose, Demetri shrugged. "You said none of the South Lords were keen to send a crusade. And I'm not exactly excited myself to tell the five what's going on just yet. So... let's tread carefully... Say. When's the last time you spoke to Brexin?"
+
+"Arch Bishop Klive's boy? I don't know. I suppose I do see him every now and then at the galas, but between us I don't really acquaint myself with the man. His arrogance leaves too much taint for my liking."
+
+Arthur chuckled softly. "I bet it does. That's what we need in this case, however. Next time you attend one of those parties, tell Brexin I wish to speak with him."
+
+William's eyebrows rose. "Your worship? You intend.."
+
+He nodded. "I do. If we can convince the brazen boy to take matters into his own hands, we can have a private crusade of sorts." Which covers my own hide if matters go south, no matter the outcome.
+
+"And just how do you intend to do that?"
+
+"By offering him a cohort of paladins and some unruly and unholy lords to round up."
+
+Yanna loved dots.
+
+Green dots, specifically. Every ticket on her desk started as a colored dot. Red meant escalation. Yellow meant pending. Green meant closed, processed, done, and happy.
+
+On a good shift, Yanna could turn her entire queue green in four hours and spend the last two napping.
+
+Today's Savari batch had forty-six dots. Forty-three were already green. Two yellows she'd deal with in a minute. And one red.
+
+She cracked her knuckles and opened it.
+
+One hundred and one racial class inquiries. All submitted within minutes. All denied. SLA breached at 0.9%.
+
+"Ha!" She barked out a laugh loud enough to make Torren flinch at his desk across the aisle. "Some crazy bastard actually spammed a hundred tickets."
+
+"Language, Yanna."
+
+"Oh, shove it. Come look at this. Someone gamed the SLA."
+
+"Report it and move on. We have processing quotas."
+
+"Torren, I swear on everything holy if you mention quotas one more time today I'm going to stick your procedural handbook somewhere very creative." She was already scrolling deeper. The Savari had denied every ticket, as their standard behavior dictated. But then recompense triggered, and...
+
+She stopped scrolling.
+
+"Torren. Get over here."
+
+"I'm in the middle of filing a-"
+
+"Now."
+
+He came, reluctantly. Torren kept his desk spotless, his forms alphabetized, and his shift reports filed in triplicate. Yanna kept a half eaten sandwich in her top drawer from three days ago. They were not, by any reasonable measure, compatible work partners. And yet, somehow, they were the only two clerks in section nine who hadn't requested a transfer this quarter.
+
+"Read that," she said, jabbing her finger at the screen.
+
+Torren blinked. "That's not possible."
+
+"No shit."
+
+"Yanna."
+
+"What? It's not possible. You said it. I'm agreeing with you."
+
+He sighed with exasperation. "You know what I meant. As far as the recompense, The Savari Administrator designation was deprecated in update 14.7. That was twelve cycles ago." He was pulling up the reference manual. "Per Bureau Standard-"
+
+"I don't care what the standard says. Something approved this." She flicked to the next page. "Gets better. Race transition initiated from Human to Demon. Full realm displacement to an unbound plane came along with it."
+
+"Which one?"
+
+"Yeah that's odd. Some unbound realm I think. The Account just went totally crazy after that transition. Looks like whatever the monitoring division is getting back isn't complete."
+
+Torren straightened. She could practically hear the gears turning behind those painfully by-the-book eyes. "Then it's a defunct account. Standard recycling protocol, form 11-C, filed under-"
+
+"Torren. Shut up and look at the attachment. Incomplete doesn't mean gone entirely."
+
+The corruption readout loaded. Numbers from the account's last known coordinates, auto-pulled.
+
+"That's... that can't be right," he said.
+
+"Hundred point spike. Single day. From an unbound plane."
+
+"Unbound planes don't generate corruption. By definition. There's no system to-"
+
+"I know what unbound means, Torren. And yet." She gestured at the numbers. They were still climbing.
+
+He pulled up a chair and sat down.
+
+The account belonged to a Bureau clerk. Fifty cycles, provincial grade, and clean record. Good marks. Great marks, actually. Assigned to a city lord posting, and then the lunatic submitted a hundred junk tickets, tripped his own SLA on purpose, got himself turned into a demon, and fell off the map into a realm that was now putting up corruption numbers that made frontier worlds look quaint.
+
+"Kairon Svensen," Yanna read. "Provincial. Fifty years of loyal service and then, apparently, he lost his damn mind."
+
+"Or found it," Torren said quietly.
+
+Yanna looked at him. "Okay, so what does the book say we do?"
+
+He was quiet for a long time.
+
+"Form 27-A," he said. "Formal investigation request. Requires supervisor approval and interdepartmental notification..." He trailed off.
+
+"And?"
+
+"And this seems a bit extreme."
+
+Yanna leaned back.
+
+"No. This seems like fun. Pull the form," she said.
+
+"Yanna, you understand what you're initiating? The paperwork alone will take-"
+
+"Torren. The form. Now."
+
+He pulled it.

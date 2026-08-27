@@ -1,0 +1,163 @@
+---
+id: d530b946-2058-5caa-9d39-7dd443338f67
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11: Ice Witch"
+slug: 0011-chapter-11-ice-witch
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 11
+ownLength: 2235
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3466449/chapter-11-ice-witch"
+royalRoadId: "3466449"
+---
+
+Gerald leads me into his well-kept shop, a tasteful place that shows the man’s quiet wealth. He leads me to a set of chairs, both of which are covered in soft fur. Martha, Gerald’s wife, waves at me from the kitchen.
+
+I wave back as I sit down in the chair offered to me. I take in a deep breath, letting it out in a sigh. Shar jumps into my lap in her cat form, curling up.
+
+Gerald looks at the cat, then glances at me with a smile. “You look like you need rest.” He sits down across from me as his wife comes into the room and pours us both some tea.
+
+I smile wryly as I open my pack and empty it onto the table in front of Gerald. “I’ll sleep well tonight, I’m sure.”
+
+Gerald leans close, no doubt using his own skill to appraise the Artifacts. I describe each of their uses as he goes over them, knowing that our appraisal skills can give us different information.
+
+What follows is a short haggling session. I trust Gerald to give me a good price on the artifacts, but I also need him to find people for a full delve. Mages are expensive and rare, and if there aren’t any in the city that want to go, we might just have to go without one. Even then, we need to find people that can keep their mouths shut. I didn’t forget my promise to the Vishten in the ruin and I don’t want the people I bring to be talking about them.
+
+After we finish our haggling, Martha comes into the room with the agreed amount of money. Gerald tells me that he should have a group ready in two days. I keep one of the defensive talismans and fire wands as well as the books for myself.
+
+I stretch as we finish up, causing Shar to jump off of my lap. “Thank you to the both of you. It’s always a pleasure to do business with you.”
+
+“Of course Leo!” Gerald hesitates slightly before continuing, “Has there been any news from your Mentor?”
+
+I shake my head and stand up. “Nothing, not that I was expecting anything.”
+
+“Do say hi for me if you see him.” Gerald says, standing up with me and moving to the door.
+
+“I will.”
+
+We shake hands one final time, then I step out of the back door of the shop, Shar a step behind me.
+
+I keep a close eye on my pouch of money as I make my way back to the inn, wary of any thieves. Eventually, we return safely to the large inn. Cheerful music pours out from the door as I open it to the well lit tavern of the first floor. Laughter and the sound of rolling dice give the place a nice atmosphere.
+
+I don’t see Keve, which probably means that he’s still up in the room. I smile at a barmaid, catching her attention. “I’d appreciate a cup of the house ale and whatever soup is on the stove.”
+
+The barmaid smiles, accepting the coin I give her and sashays off towards the bar. I surreptitiously hand Shar the bag of money “Could you take this up to the room? You’re free to do whatever you want after that.”
+
+She nods her cat head, taking the bag and walking away.
+
+I find a nice spot at a card table. The table is playing for coppers, so I decide to join in for a hand as I wait for my food and drink.
+
+Two men and an older woman sit at the table, smiling and chatting away as we play. One of the men is likely a warrior of some kind, his face grizzled from a hard life. A long scar covers his left eye. He introduces himself as Grildor
+
+The second man is younger, and likely has a scout class if I had to guess. His eyes are sharp, catching everything. He’s a good storyteller, cracking up the rest of the group. His name is Daron
+
+I can’t pinpoint the older woman's class, but she’s clearly well traveled. Her gray hair is let loose around her shoulder, and she’s still in good shape for her age. She never introduces herself, but the others call her Libby.
+
+I lose the first hand, but I don’t really mind since my food and drink arrives shortly after.
+
+“I’m Leo by the way, not sure if I introduced myself.” I say, taking a sip of my drink as they deal me into another hand.
+
+“Well met Leo!” Daron says, glancing at his own hand. “What brings you to this town of thieves and the desperate?”
+
+“I’m an Explorer class, so I make my living out here in the frontier.” I answer, taking a sip of my drink to hide the fact that I got a bad hand. “What about the three of you? I can tell you’re not from around here.”
+
+Daron smiles, “We originally went to the Local Stronghold, looking for work with our mercenary crew.” He slaps Grildor on the back, causing the grizzled warrior to frown. “But Grildor here got on the bad side of the local Lord and was promptly kicked from the mercenary crew and out of the city. Being the crazy friends we are, we followed him into exile.”
+
+“Yer makin me look bad.” Grildor mutters.
+
+“You don’t need us for that.” Libby says, smiling to take the sting out of her words.
+
+Grildor opens his mouth to respond, but a young feminine voice interrupts him. “Hello there! Do you mind if I join you?”
+
+I turn to look at the newcomer, my brain stalling slightly. A girl slightly younger than me stands at the end of our table. Her hair is a silver-blue, flowing like a waterfall down her back. She smiles, exposing a dimple on the left side of her mouth. Her sky blue eyes catch mine, her expression changing slightly as our gazes stay on each other.
+
+I move over, making room on my side of the table. “We just dealt, I’m sure we can deal you in.”
+
+Daron nods. “Of course! You know the rules right?”
+
+She sits down next to me as her hand is dealt. “I’ve played it before, but it’s been a while.”
+
+Her clothes are made of a nice fabric, but are just a simple shirt and pants.
+
+Her eyes catch mine, and I realize I’m staring. I hold out my hand, “I’m Leo by the way.”
+
+She accepts my hand. Her skin is soft like a nobles, without the calluses that most people in the frontier have. “I’m Eyla. It’s nice to meet you! I’m embarrassed to say that I was listening in on your conversation. I heard you say that you’re an explorer? Have you seen the fallen cities?”
+
+I shrug, “I’ve only seen one. Usually I explore the homes of ancient archmages or lords. Have you guys seen any?” I turn to the others.
+
+Daron shakes his head, but Grildor and Libby nod. “We’ve seen the undead city up the coast. We traveled close with our band while protecting a mage from the Arcanists Guild. Wouldn’t have dared to get any closer than we did.”
+
+My attention focuses in on them. That should be the same city next to the spot marked on the map I got from the Angel’s statue. “You three mentioned that you’re no longer with your crew. You don’t happen to be looking for work, do you?”
+
+All three of the mercenaries perk up at my words. Libby is the one to answer me. “We were hoping to catch some work with a merchant, but we haven’t found anything.”
+
+I hesitate for a second before continuing. “There’s a merchant by the name of Gerald, if you tell him Leo sent you, he can have something for you in the next couple days.”
+
+The three mercenaries look at each other. “That’s mighty kind of ye.” Grildor says.
+
+I turn my attention to my food, finally eating some of the rather delicious soup. The next hand plays out, and I lose again.
+
+“Where are you from Eyla?” I ask, taking another sip of my drink.
+
+“Oh. I grew up in the Stronghold.” Her eyes catch mine again, her lips parting slightly in a smile. “But honestly my life hasn’t been that interesting. I’m more interested in your adventures. You must’ve seen all kinds of places while exploring.”
+
+“You’d be surprised by how much of the world is just outside of this little frontier town.” I say, my eyes closing slightly as I imagine some of the more amazing sights I’ve seen. “Floating islands with bright, glowing trees on them. Waterfalls with roars louder than a dragon. Ancient ruins with the history of our people written into their walls. I became an explorer because I truly love the world that lies outside of our walls.” I open my eyes, smiling slightly at the entranced look in Eyla’s eyes.
+
+“What’s the most beautiful place you’ve been to?” Eyla asks.
+
+My gaze moves to her hair, its color reminding me of a certain place. “There’s a forest a day or two north of here. This forest is forever covered in snow and ice.” My voice gets lower as I lose myself in memory. “In the morning, the light reflects off of the bright landscape, creating a beautiful world of white and blue. Every step you leave is recorded by the snow, and when you walk through it, you feel as if you’re the only person in the world, surrounded by a world of stunning white.”
+
+Daron clears his throat, making me realize that I have the attention of the whole table. “It’s your turn to bet.”
+
+I laugh, rubbing the back of my head. “Sorry, I got a little lost in my memory there.”
+
+Grildor snorts, “Hearin ya describe it makes it better. All I ‘member is the cold.”
+
+“You’ve been there?” I ask as I place my bet.
+
+“Once. I think I’ll take a better look at it next time.”
+
+“I want to see it.” Eyla says in a whisper, making me look at her. She turns from her cards to look at me. “Someday, I want to see it too.”
+
+We continue to play the game. Eventually, I win a hand, but the cards don’t really seem to be with me today. More drinks come to our table as the night gets later. I find myself getting caught up in conversation with Eyla. She’s surprisingly knowledgeable about theology and the history of the old world. I show her the book I’d discovered in the ruins describing many of the legendary figures of the old world.
+
+She shows particular interest in a woman known as the Ice Witch, a follower of Oathsworn Telo, the fourth sworn.
+
+It’s not hard to guess that whatever class Eyla has, it’s ice-aligned.
+
+“I’m honestly envious of you.” Eyla says as I put the book back into my bag. She smiles at me. “I wish that I had the freedom that you do.”
+
+My smile disappears. “It comes with a price. The world out there is dangerous. I’ve watched people die in front of me, torn apart by beasts, or murdered by those they trusted.” I lean back in my chair and look at the ceiling, then I tilt my head to look at her next to me. The corner of my mouth lifts in a slight smile,  “There’s a lot to be said for the safety of living behind walls. Don’t disregard what you have.”
+
+“Oh, I… I know that. But, I think I’d give away some of that safety just to see… more.”
+
+I laugh slightly, “How can I argue with that? That’s exactly how I felt when I chose my class.”
+
+Eyla glances at the window, then laughs slightly. “I could lose the entire night talking to you. I’m afraid I must go for now. I’ll see you next time.”
+
+With that said, she leaves the table, and heads up the stairs of the tavern.
+
+I glance at the three mercenaries. Libby and Grildor are distracted by their own drunken conversation, while Daron just shakes his head at me sadly.
+
+“What?” I ask, slightly confused.
+
+“How can you be that smooth and that stupid at the same time?” Daron asks.
+
+I blush, knowing what he means. “I’m an explorer, we’re not exactly known for living long or staying in the same place. And I think…” I look at the stairs she’d left to. “I don’t know.”
+
+Daron snickers. “Look, all I’m gonna say is that if I had a woman that beautiful interested in me, I’d do everything I could to spend more time with her.”
+
+Libby leans over to Daron, “Whatever happened to Laura? She liked you a lot.”
+
+Daron blushes red and covers his face with his hands. He mumbles something that I can’t catch.
+
+Libby throws me a wink before returning to her talk with Grildor.
+
+I snort, then stand up. I stumble slightly as the alcohol hits me.
+
+Yep, time to call it a night.
+
+I head up the stairs carefully, returning to the room to find Keve already asleep on his bed. Shar isn’t anywhere to be seen, and the window of our room is open.
+
+I stumble into bed, falling asleep.

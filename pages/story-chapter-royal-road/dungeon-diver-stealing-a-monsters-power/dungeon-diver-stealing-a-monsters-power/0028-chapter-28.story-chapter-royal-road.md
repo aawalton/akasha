@@ -1,0 +1,231 @@
+---
+id: 26a1ac0a-312d-547f-a686-62f60f672e7d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28"
+slug: 0028-chapter-28
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 28
+ownLength: 1796
+unit: words
+ownProgress: 1796
+publishedAt: 2023-02-14
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1113717/chapter-28"
+royalRoadId: "1113717"
+markedReadAt: "2026-06-29T20:32:45.867Z"
+---
+
+Abby and I walked out of the small brick building passing the two security guards on the way out.
+
+I was feeling too many emotions at once.
+
+I was happy and excited because my level just went up so much and I got to see a new dungeon.
+
+On the other hand, I was a bit frustrated and disappointed because Abby just held my hand through another dungeon and basically gave me free pity levels. Without thinking I turned to Abby and let my emotions do the talking.
+
+"Hey! You know I appreciate you showing me how these dungeons work and everything but I'm not getting the real battle experience a real hero would get if I went in alone!"
+
+She grinned a little.
+
+"A hero huh?"
+
+I nodded in agreement without much thought to it.
+
+"Yeah! Next time we face a dungeon together I'm going to be the one saving you! Got that?"
+
+She didn't respond for a second and reality hit me in the face, my cheeks went a little red and I stepped back. What I said was true... but I didn't mean to say it all out loud.
+
+"I-I didn't mean to say all that out loud."
+
+Abby just giggled and kept walking.
+
+I followed close behind. It was pretty much a silent walk until we got back to the Hunters Association building. She turned to me as we approached the front door.
+
+"Well, you said it Jay. Next time we hunt together you'll be stronger than me. Let's see it."
+
+Abby smiled and bobbed her head as she went back inside the building.
+
+I stood outside for a while. Then decided to take the train straight home. I didn't even get anything to eat or sell my mana, I just walked straight to my apartment and flopped onto my bed.
+
+My mind was foggy. Today's dungeon run was an eye opener... but it just didn't feel right.
+
+I defaulted to my usual mental defense mechanism and picked up an old comic from my dresser and began to read. It was the newest volume of a series where the main character recently became the "strongest hero". He now has all these secret unimaginably difficult missions that he needs to complete to save the world. In the end, of course he saves the world. So predictable, but I can't stop reading!
+
+A few hours later I smiled while closing the back cover. That was a pretty good one, I mumbled to myself.
+
+"A hero... what is a hero?"
+
+As I stared at the ceiling I pondered the word. A hero. Everyone has their own definitions for it.
+
+Someone who saves those who can't save themselves?
+
+Someone who stops evil from winning?
+
+Someone who makes the world a better place?
+
+Or is it just...
+
+Someone who is the strongest.
+
+That is the best type of Hero. They don't even have to save the day every time, just when they feel like it. They don't answer to anyone except for their own moral compass.
+
+At the end of the day is that even a hero? And...Why does it even matter if that's a "hero" anyways. Why does everyone even aspire to be a "hero"?
+
+In my drunken state of what I like to call "fantasy brain" my mind went back and forth from my bedroom ceiling to the many simulated worlds of comics I'd read about over the last few years. I came to a resounding conclusion. I mumbled it out loud.
+
+"I don't have to be a Hero, I just have to be the strongest. That's my new goal. No matter what, I will become the strongest."
+
+I let out a sigh and a smile as my self induced mental torture final subsided.
+
+"Gurrrrrgle"
+
+I'm starving. I haven't eaten since this morning.
+
+I grabbed a handful of silver, 3 bronze, and the 2 mana crystals from my hunt earlier and went off to the village market.
+
+I grabbed a quick bite to eat at the corner store on the way to see my old merchant friend.
+
+"Hey kid! How'd the auction go? Haven't seen you in a while."
+
+"It went well, my axe sold. I appreciate the introduction, but it was a bit sketchy down in Avery District."
+
+He nodded and chuckled.
+
+"What can I do for you today?"
+
+I placed the two mana crystals on the silver dish. The big black numbers read out 311.6MU.
+
+"I'll give ya 3 silver."
+
+"Deal."
+
+The old man handed me my silver.
+
+"Hey can I grab some MP and HP potions too. You have anything stronger? Last time my MP didn't fill all the way up, what's with that??"
+
+The man raised an eyebrow.
+
+"You're over level 100?"
+
+I eyed him back curiously.
+
+"Yeah. I am. Why?"
+
+"The potions you've been buying are E Class graded. They only heal up to 500 points per use. The D Class potions are graded up to 1250 points. They are 2 silver a piece."
+
+That's makes sense. E Class items have their limits I guess.
+
+"Hmm. Okay thanks for the info. I'm not too far over level 100 yet. I think E Class potions will be more worth my while."
+
+I put 6 silver down on the table.
+
+"I'll take 5 MP, and 1 HP. E Class."
+
+The man nodded and handed me a few bottles.
+
+We waved each other off and I headed back to my apartment. I'm all set for a hunt tomorrow.
+
+I drifted off to sleep pretty easily.
+
+The next morning I woke up feeling great. I slept like a baby.
+
+I got out of bed and got dressed. I grabbed my MP and HP potions along with 3 bronze and shoved them in my leather pouch. I grabbed my sword and jumped out the door.
+
+I headed straight towards the Pace Guild.
+
+After grabbing breakfast I walked through the guild's front doors.
+
+The tall blond woman greeted me.
+
+"Hey Jay how are you tod-"
+
+"Can I see Jack?"
+
+"Oh. Sure thing he's in his office."
+
+I walked to the back room and knocked before walking in.
+
+Jack looked up from a pile of paperwork and smiled thinly.
+
+"Morning Jay. What's up?"
+
+"I want to go to the cyclops dungeon today."
+
+Jack looked a bit concerned as he shuffled through a pile of papers.
+
+"I really can't take you today, and anyway that dung-"
+
+"That's fine. Where is it? I'll challenge it solo today."
+
+Jack put his papers and pen down looking at me with a serious look on his face.
+
+"Hey! Let me finish what I was saying. The cyclops dungeon has been getting reports of an unusual amount of mutants lately. It wouldn't be smart to challenge the boss, or even venture too far into the dungeon solo. I'll get you directions to the entrance building, but don't say I didn't warn you."
+
+I grinned.
+
+Jack shook his head slowly as he wrote an address on a notepad and handed me a small piece of paper.
+
+"I'd come with you today if I could, that'd be much safer. These damn regional reps are giving me so much paperwork this week. They always do this the month of exams."
+
+I just nodded. I wasn't sure what he was saying exactly, but it didn't seem to matter much.
+
+"Well, thanks! I'll bring back some loot for you tonight."
+
+"Great, take this. There's no guild items at the location because it's a partnered dungeon."
+
+Jack threw me a small leather pouch, it was an item box. I tied it around my waist.
+
+"Thanks."
+
+Jack nodded and went back to work. I waved and walked out of the guild.
+
+I looked down at the note and made my way towards the address he'd written down. It was about 20 minutes away by walking.
+
+Most of the streets and buildings I passed were familiar. I'd been through this part of town a couple times.
+
+Before I knew it, I'd made it to the dungeon entrance building. It was small park area. There were a few winding paths and large trees. In the center of the park there was a one story building that looked like it was built in a hurry. There were two security guards out front. I showed them all my necessary ID and passed in through the front door with ease.
+
+It was just an empty room with a portal at the back. I took out my sword and walked through.
+
+I entered a new world. It never ceases to amaze me.
+
+This was similar to the Orc dungeon I'd been in before. It had a large mountain range, but the hills and valleys were much less steep. I couldn't see a single tree in sight, it was a barren wasteland and a bit chilly. The sky was blue and there were a few white clouds.
+
+The air was thick. It was a completely new sensation to me. My breathing wasn't affected, but the air definitely had something in it that made me feel a little off.
+
+I decided to venture forward into the dungeon. I made my way down into one of the large valleys. I could hear a faint sound of running water at the bottom. It caught my attention and piqued my curiosity.
+
+I trekked down the wide valley area for about 10 minutes. I found the water source I was looking for.
+
+There was a stream running directly through the center of two mountains creating this phenomenon. The stream was about 5m wide and flowed rather quickly. To my surprise there was small shrubbery growing by it.
+
+I admired the natural beauty all around me for a moment until a loud sound broke my concentration.
+
+"THUDDDD"
+
+"THUDDDD"
+
+"RRRRRAAAAAAUUUUUUAAAA!"
+
+Seemingly out of no where a massive creature appeared 50m or so from behind a curving section of the river bed.
+
+The creature was about 6m tall. It's skin color was similar to all the rock around us but with a faint greenish tint. It carried a large black club with spikes on it and showed me its jagged disgusting teeth.
+
+Its head was connected to its large body, it looked like there was no neck as all. Just body connecting to head.
+
+Then it's eye... Yes, it's one singular eye. The beast stared me down with an enormous wandering eye that was bigger than my entire head.
+
+So this is a Cyclops.
+
+After the monster let out a mighty roar it charged towards me.
+
+Its speed was impressive, it basically matched mine.
+
+On second thought, maybe it was even faster....
+
+This seems like it's going to be a really tough fight.
+
+I gritted my teeth and readied my sword.
+
+I smirked.
+
+This is what I came here for after all, to become stronger.

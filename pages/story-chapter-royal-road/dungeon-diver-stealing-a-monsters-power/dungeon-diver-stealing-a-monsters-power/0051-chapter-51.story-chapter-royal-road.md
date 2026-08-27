@@ -1,0 +1,191 @@
+---
+id: c84d1fa8-071d-5b38-90d2-f646dd903102
+page-type-slug: story-chapter-royal-road
+title: "Chapter 51"
+slug: 0051-chapter-51
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 51
+ownLength: 1665
+unit: words
+ownProgress: 1665
+publishedAt: 2023-03-09
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1133362/chapter-51"
+royalRoadId: "1133362"
+markedReadAt: "2026-06-29T20:33:34.091Z"
+---
+
+I let the crowd of hunters go into the dungeon first. I'll take my time and venture a bit deeper today to find some harder opponents. I'm probably not ready for the boss yet, it'll take a few days before i can handle that solo.
+
+There's a large sense of tension from the other parties. This whole dungeon surge thing is a pretty big deal.
+
+Once it was my turn to enter I pulled out my sword and jumped through the glowing blue portal.
+
+I wandered around the Minotaur Dungeon without any problems. The monsters became stronger and stronger as the day went on.
+
+In 6 hours I faced off against 7 groups in total. There were a few other teams in the dungeon, so whenever I got nearby, I turned the other way to keep my distance. It was a little annoying at first, but overall it didn't really matter.
+
+The first 3 groups I fought were pretty easy. They were all level 155-165. It was just mana drops, no level gains at all.
+
+The next two groups were a bit harder. They were both lead by a boss with a pretty high level. One was Lv. 188, the other was Lv. 191. The Lv. 188 dropped an axe, the other 5 Minotaurs dropped only mana. I gained 4 levels from these battles.
+
+It's much easier to level grind now that I can use my opponents MP. I'm getting hit while blocking occasionally, but with every increasing level the damage is becoming less and less.
+
+The next group I fought had a surprising twist. It consisted of 4 total minotaurs. Their levels were 176, 177, 180, and 182. At first the monsters actually gave me a run for my money. They attacked in charges of two and had similar strength to my own. My only advantage was speed. I dragged the battle out for a long time while hardening for defense and absorbing their MP simultaneously landing cheap shots whenever I could. After this battle I had to drink an HP potion to recover fully.
+
+The more I fight in this dungeon the more I understand why guilds love to come here. These beasts are good fighters, but they don't have any mind-blowing moves. As long as a team has proper gear and teamwork, power leveling is a breeze.
+
+After this battle I gained 3 more levels and collected 4 huge mana crystals.
+
+My final group was even more of a challenge. It was a group of 2 minotaur. One was a level 161 and the other stood at a staggering level 202.
+
+The lower level monster was defeated very quickly at the beginning of the fight.
+
+The Level 202 was definitely a challenge though. It was very strong and very fast. My small frame and agility were my only upside when it came to basic stats. I had to play it very safe and slowly chip away at the beast while blocking its attacks with a hardened left arm.
+
+It chipped me down to about half of my HP before the battle was over. Both of these monsters just dropped mana crystals, no extra loot. I gained 3 levels from this battle.
+
+After this fight I took a small break to sit by a tree and check my status.
+
+[Status Open]
+
+____________________
+
+Name: Jay Soju
+
+Level: 182
+
+Hp: 465/915
+
+Mp: 880/915
+
+Strength: 437 [+125]
+
+Speed: 521
+
+Agility: 544
+
+Defense: 389 [+156]
+
+Mental Strength: 437 [+87]
+
+Skills:
+
+Absorption
+
+Swordsmanship
+
+Combat Magic [Fire Summoning]
+
+Inspect [Special Grade]
+
+Enemy Detection
+
+Body Hardening[Special Grade]
+
+Self Regeneration
+
+Spacial Magic[Item Storage]
+
+Plunderer
+
+Items Equipped:
+
+Golden Wolf Ring [+20% Mental Strength]
+
+Cyclops Eye Pendant [+40% Defense]
+
+Stainless Steel Sword [+125 Strength]
+
+_____________________
+
+After a quick rest I got up with a grin on my face and started heading back to the dungeon entrance. I need to stock up on HP portions, I didn't realize how tough some of these higher level minotaurs are. Plus, a bite to eat wouldn't hurt. I'll come back right after and continue this level grinding.
+
+It took about an hour, but I made it back to the floating blue portal and left the dungeon. I heard one team fighting a nearby group of monsters on the way back but didn't encounter any myself.
+
+I exited the dungeon and took the train back to the main Hub. When I made it up to the surface I could see a pretty big commotion going on by the E Class escalator. There were two extra guards in front preventing people from passing. One of them was speaking to a group, I couldn't help but listen in.
+
+"We're sorry to delay all of your hunting. There's been 2 large E Class breaks. It shouldn't be much of a problem, the bosses will be cleared soon. We have temporary raised the entrance standard to a D Class minimum for 1 hour. Please bare with us, this is for your safety."
+
+I raised an eyebrow. A couple E class dungeon breaks huh? Maybe it wouldn't hurt if I checked it out. I took out my ID and showed the guard while asking him a question.
+
+"Hey, uh. Which dungeons were the ones that had a break?"
+
+He nodded to let me pass.
+
+"There's a pretty bad goblin dungeon break, its lower level and should be cleared within the hour. The other seems to be a rat dungeon, it should be cleared much sooner. We just got news to shut off the area to newbies just in case."
+
+"Alright. Understood."
+
+I headed down to the E Class platform to check things out. They have a goblin dungeon here too? I wonder what it's like? The rat dungeon sounds disgusting, I don't mind missing out on that. The only break I've ever seen was that previous cyclops dungeon break... and I was very under prepared. This one should be fairly easy, some rare loot may drop if I have enough time to farm.
+
+It looks like there's a lot of people with the same idea as me. As I got down to the platform it was pretty chaotic. I read the info board and sure enough the train with all the parties surrounding it was the goblin dungeon. I could see about 20 other hunters in 6 separate groups ranging from 2-5 members. It looks like I'm the only solo hunter here.
+
+We all boarded the train and were off shorty after. It was a quick ride, no more than 3 minutes. Everyone on the train was getting anxious. They were either scared of what was in that dungeon or were just inching to fight. I for one, was itching to fight.
+
+Once the stop arrived we all piled out and went up the escalator to be met with a floating red portal. I could feel the dense magic in the air. This is definitely a dungeon break.
+
+I let a few people jump through first, but I followed soon after. We all dispersed once entering.
+
+It's actually pretty similar to the old goblin dungeon I used to hunt at. That brings back memories. Theres thick tall grass everywhere and occasional trees. It's basically an open plane dungeon.
+
+No more than 2 minutes in I already encountered a monster. It was just a goblin, I used inspect.
+
+[Lv. 13]
+
+I chuckled a little and cut it in half with a lazy swing of my sword. It is definitely stronger than your average goblin, but at this level I can't tell the difference. I walked further into the dungeon. A few more goblins ran at me, but they were defeated in seconds. I didn't even bother to collect the mana.
+
+After 10 minutes or so I was starting to get a bit discouraged. Did I really come down here for this?
+
+I was about to turn back, but then I heard a familiar roar.
+
+I used enemy detection and inspect.
+
+[Lv. 41]
+
+Something bigger is here.. I'm intrigued. I ran towards it with my sword ready. To my surprise it was a mutant hobgoblin! This is a pretty bad break, I didn't even know these guys could spawn outside the boss room.
+
+The monster charged towards me with its sword pointed straight ahead while grunting and hissing. It was an easy kill, I defeated it in seconds. This gave me hope though, there might be more unusual spawns around here.
+
+The air started getting denser and denser. This is a good sign, the magic is getting more concentrated. I kept using enemy detection and inspect with a very wide range to look for mutants.
+
+[Lv. 14]
+
+[Lv. 31]
+
+[Lv. 11]
+
+{Lv. 42]
+
+[Lv. 38]
+
+There were a variety of goblins and hobgoblins all over the place the further I went inside. I ran into a few other hunters, but it was nothing more than a short head nod and us running off in opposite directions.
+
+[Lv. 17]
+
+[Lv. 44]
+
+[Lv. 19]
+
+[Lv. 46]
+
+[Lv. 51]
+
+The levels were slowly increasing more and more. I kept walking further in towards the dense pocket of magic.
+
+[Lv. 124]
+
+It's 100m away...
+
+Now this is what I was looking for. The air is heavy and my sword is drawn. There's a calm silence as I walk slowly towards my future opponent.
+
+50m....
+
+I'm getting closer. Soon it'll be within range. There's a small patch of trees up ahead, it must be in there.
+
+20m....
+
+My face lit up when I saw the creature pop out of the tree-line.
+
+It's an old looking goblin dressed in a dark cloak and a leather hat. The monster is carrying a long wooden staff and has a large brown satchel that looks full to the brim. It let off a faint grey glow, it must be a magic user.
+
+This is my first time coming face to face with a Shaman. I can barely hold in my excitement as I tighten the grip on my sword and get ready to fight.

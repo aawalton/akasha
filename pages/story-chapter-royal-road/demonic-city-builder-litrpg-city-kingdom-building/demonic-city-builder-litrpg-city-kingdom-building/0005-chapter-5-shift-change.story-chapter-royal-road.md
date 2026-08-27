@@ -1,0 +1,249 @@
+---
+id: d3e19585-ccba-54ca-9cde-20b2b030480c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5 - Shift Change"
+slug: 0005-chapter-5-shift-change
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 5
+ownLength: 3068
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3423560/chapter-5-shift-change"
+royalRoadId: "3423560"
+---
+
+By the time night fell, the hunting party had returned and the wood crew was done for the day. The dipping sunset cast the orange hellscape into a murky shadow, but brought along a much-needed coolness. Fresh air blew over his scales, leaving Kairon in a cheery mood.
+
+He reviewed today's new notifications.
+
+Three timber. That number stuck out. It was slow. Very slow. Based on the building costs from before, it would take far too long at that pace before any construction could begin. He would come back to that after dinner.
+
+The hunting party had a much more satisfactory performance. Eight food from five catches? Whether it was their natural desire to eat, or just the prey in the area being docile, Kairon didn't know.
+
+Maybe I should consider joining them tomorrow? I may be able to identify process improvements for... Yeah.
+
+Kairon knew his strengths and weaknesses. He was not a fighter. Even if he wasn't in his old body, he wasn't about to go gallivanting off in the forest.
+
+So on second thought, let's hold off on anything so... adventurous for now.
+
+Using some underbrush, twigs, and a few small logs he collected, Kairon built a fire. "I suspect this will come to be everyone's favorite time of the day. From where I come, we call it supper."
+
+"FOOD?"
+
+"Supper. However, we are going to be civilized. Meals will be eaten with care, and you will not waste. Is that understood? Good. Give me one rabbit corpse. The rest is for all of you. I saw some puddles and a stream not far away for a drink if you need it."
+
+What followed was decidedly not very civilized. Rabbit guts, fur, bone, and blood were strewn across the clearing as the worker imps tore into their nightly meal.
+
+Now that he was a demon, he found his body naturally salivated at the thought of eating a full carcass. So, unskinned and bones and all, he tore into the tasty rabbit. The number of HR violations this crosses is obscene.
+
+As the city lord chewed, the campfire crackled in front of him. Kairon stared blankly into it, just watching the lick of the flames. His claws twitched. A short, jittery motion that nearly sent one straight into the fire before he caught himself.
+
+What was that? He hadn't willed that to happen. His arm had just moved.
+
+Kairon sat with his back to the fire after that. That is going under a whole new personal violation list.
+
+Behind him, the tower's base too seemed to react oddly with the firelight. Kairon turned, seeing the nearest black stones radiating.
+
+And at the fire's edge, he could swear he saw hellscape sand creeping over the pit's rocks and trying to reach into the flames, inch by inch.
+
+Probably nothing... Yep, yep, yep. Just the light.
+
+"Sleepy!"
+
+"FOOD?"
+
+"TIRED?"
+
+Chitters and squeaks sounded from behind. Looking back, Kairon saw the little creatures digging around in the dirt and sand.
+
+"Okay everyone. Let's call it a night. We sleep by the fire. Tomorrow, we work."
+
+Before long, eight sets of harsh snores filled the night.
+
+The last two imps hissed and snapped at one another over the same spot. They both wanted the spot closest to the tower wall, where the stone radiated.
+
+After a scuffle, the smaller one got shoved out. It chittered, furious at the loss, before slinking to the far edge and digging a new pit there instead.
+
+This is 50% fervor. Wonderful. Can't wait to see 30.
+
+A quick check with Sovereign Eye revealed why. Sustenance had dropped.
+
+Seven units of food translated to a flat sixty-three percent. One unit a day per imp, plus one for him. That made sense. So each day, they would need eleven units of food. Unfortunately, increased food production would have to wait. Other matters would take priority tomorrow.
+
+He found that he too drifted soundlessly to sleep.
+
+When he awoke the next morning, the hellscape boundary had moved again. Maybe a few meters outward. The grass at the new edge was already black, flaking into ash. The city lord's demonic eyes picked out a giant beetle scuttling away from the line, its legs working frantically.
+
+Corruption. Five a day is a few meters. It seems our settlement is literally eating the forest.
+
+Kairon stretched, back muscles and shoulders popping as he climbed to his feet. Another problem for later. Below him, the imps were already up and scattered about. Some were drinking from dirty puddles, others were chasing bugs or shadows. Kairon didn't know.
+
+He ambled over, finding a puddle himself and looking at the murky water. The imps had been drinking it since yesterday and none had gotten sick.
+
+Shrugging, he bent down and drank.
+
+It tasted sandy and bitter, but his body accepted it without complaint.
+
+"Demons have tough stomachs it seems."
+
+Day Two. We are going to make some changes today. After the human encounter from yesterday, we don't have a choice.
+
+A thought hit his mind before he could bury it.
+
+I was a human three days ago. And those soldiers ran screaming from me. Would I have run? If I'd been on patrol and stumbled across a demonic settlement housing a black tower, burning eye, and orange creatures screaming for food?
+
+Kairon wasn't sure.
+
+Bureau statistics put first contact failure rates at somewhere near ninety-four percent. So statistically, we are par for the course.
+
+He shoved that thought in the same drawer with the rest from last night. That drawer, Kairon reflected, is already getting quite full.
+
+The city lord had all the imps gather for the morning.
+
+"I don't want to alarm anybody, but I feel it prudent that we all understand our current straits. Some of you may remember," Kairon glanced pointedly at the six wood gathering imps, "that we met our neighbors. And unfortunately, it did not go... well." A pause. "I fear that after our, meeting shall we call it, from yesterday, the humans are going to return to their home and spread news that a demonic city is rising in their backyard."
+
+None of the imps seemed to have much of a reaction to it. Kairon coughed lightly. "To clarify, we will probably be having another meeting quite soon. And this time, I don't think they will be coming to talk."
+
+"Bring food?" asked one imp.
+
+"FOOD!"
+
+Kairon shook his head. "I don't believe so. I expect this time they will come and try to destroy us. No more food, no more village, no more anything for us. And I don't know about you all, but I like living. I have plans, and I don't mean for them to be ruined, whether it be by human, demon, or something else entirely. So today, as we get back to work, please bear in mind that minutes count. Work hard, and I promise you I shall do all in my power to keep you all alive and fed. Is that a deal?"
+
+"Raggggh!!!!"
+
+"Good," the demon said, exasperated. "Now, as I was saying, I want everyone to remember your roles from yesterday. Those are staying the same. Hunters, you're up first."
+
+Four imps turned to attention and clambered forth, each appearing just a touch straighter than before.
+
+"The humans came from the mountains." Kairon stuck his claw out, pointing towards the stony-tipped peaks to the south. "We want to avoid them for now. You will hunt only to the North, the opposite side over there. No one is to go past the treeline on the south side of the clearing. Not until we learn more."
+
+The demon thought of the massive shape he saw from yesterday and spoke up. "Oh one more thing. Did you see anything big and... scary looking during your hunt?"
+
+"NO. Just FOOD. Small."
+
+"Sticks! Big sticks."
+
+"Alright," he sighed. "From now on, I want you to be extra cautious. If anything seems out of place, return right away."
+
+With that, the hunting party set out for the day.
+
+Kairon turned his attention back to the remaining six imps. "For timber, yesterday's performance was... I'll be honest. If we weren't worried about a horde of angry sword-bearing humans coming back to raze our quaint little settlement, I'd call it a brilliant first day." The imps gleamed with pride. Shiny, however, shuffled uneasily.
+
+Delicately, Kairon continued. "Seeing, however, that we are indeed expecting that to be the case, the yields we saw just won't cut it. Today, we will strive for a much better output. For our city to grow, we need more timber and we need it fast. If I'm right, we have maybe four to six weeks before we can expect a return party. And three of those big logs or big sticks a day just isn't sufficient."
+
+Oh? That's the first time that happened. Kairon's happiness melted away when he checked his interface and found that even with the increase, Fervor had still dropped to 45% this morning.
+
+Likely due to the lack of food and dirty sleeping conditions. Plus whatever else imps want and we don't have. Yet.
+
+Sighing, he began issuing orders. He found that he liked using both Sovereign Eye and speaking out loud in tandem when possible. Kairon wasn't sure, but it seemed to help the orders sink in just a bit better.
+
+"So today, you are all going to gather wood. But we will do it differently. This should help us get more. To that end... You four are going to be haulers." Kairon tapped the heads of four little imps with a gleaming claw, including Shiny. That way, he can haul and supervise what they bring back.
+
+"The only job you have is to take one log at a time and bring it back to the stockpile." The little eyes on the imps went wide at the prospect. "Yes, yes, I realize that the big sticks are very heavy. However, you are going to roll it sideways here in a straight line. I'll show you how. That will still be heavy, but I suspect that once you get it going you'll have an easy time of it."
+
+"And for you two, you are cutters. You chew, and that's it. Nothing else. No hauling, no traveling between the treeline and back, just staying put and chewing trunks. If the haulers have not yet returned, keep chewing. Make a pile if you outperform their speed."
+
+Hell, if they're that fast, we may have to see to taking an imp off the hunting squad.
+
+"Shiny, I know that you can't supervise the cutters while hauling. I expect you to check in on them between runs. Understand?"
+
+"Yes. Get big sticks only."
+
+"Good boy."
+
+Kairon clapped, and sent the orders through Sovereign Eye. The imps took off.
+
+These changes were relatively basic in essence, but Kairon expected a significant impact on daily timber yields. Yesterday, much of the time he watched the timber crew, the imps were mostly hauling the logs back from the edge of the treeline to the tower and not cutting. Another challenge was that even with their tiny size, six sets of mouths had trouble fitting on a single tree trunk. He supposed he could break them into teams of two on different trees, but there was a second reason for doing it this way.
+
+Specialization. The same reason clerks had specific cases they dealt with. With time, the cutters should cut better and the haulers should haul better.
+
+Kairon rubbed his claws together, which he found made a surprisingly satisfying slicing sound. My plan... seeing how yesterday went with our neighbors, is to shift the early stages of this settlement from growth to combat. I just don't think we can risk another meeting with a human faction and not have protection. And to do that, I need to make our first wrath district and spawning grounds. It is a shame this stingy system won't let us place the spawning grounds in the universal slots.
+
+He again reviewed what that would cost to complete:
+
+So in total for his plan, he needed 175 timber, 5 stone, and 150 gold. Looking at the four timber and one stone currently in his stockpile, it seemed daunting. But with today's changes, Kairon was optimistic.
+
+What I'm betting on, and not entirely sure about, is what tools the wrath district is really going to give me. Soldiers spawning at a minimum. More, if my hunch is right. Once again, Kairon was feeling the distinct displeasure of not having a corporate handbook he could just look the answers up in.
+
+Chewing his bottom lip, he gazed south towards the mountain range. Too many questions. And not enough time.
+
+He walked to the edge of the clearing, the shouts and chitters of the wood imps getting started not far in the distance. The city lord gazed downwards, tracking each demonic foot as it traversed the hellscape. When he got to the boundary he placed one foot onto grass. The difference was immediate.
+
+A sort of dimming, just like the sun had on his scales. Only this time, it was domain. Like Sovereign Eye had been turned down a notch and his thoughts were half a beat slower.
+
+He stepped back on the orange sand, sharp again.
+
+Interesting.
+
+What's more, he'd noticed the wildlife was already avoiding the clearing. Birds flew around it, deer wouldn't cross, and even the insects crawled away. Yesterday, he chalked that up to instinct. Maybe, however, it was something else.
+
+From there, he spent the remainder of the day pacing up and down the clearing. When dusk came, Kairon reviewed the daily notifications and summarized his gains.
+
+The timber crew had worked twice as effectively as yesterday. It turned out that the hauling change alone was a massive improvement. Kairon grinned, sharp demonic fangs gleaming off the receding sunlight.
+
+Welcome to bureaucracy, my demonic friends.
+
+Dinner came quickly that night, the imps scampering up in excitement for their portions of meat.
+
+While they gorged, Shiny approached Kairon. In one small claw, he held a smooth river pebble. The city lord cocked his head. "For me?"
+
+"Yes. Shiny! Gift."
+
+Kairon took it and put it on the pedestal in the tower, next to the orange gemstone's glow. "Every city needs an art collection, I suppose."
+
+Shiny made a sound that might have been satisfaction, and scurried off to join the rest for dinner.
+
+Like this, a rhythm began. The imps would go out to work in the morning, with Kairon supervising. Come dusk, they would return to eat whatever the hunting party managed to bring back, and Kairon would reflect on the day.
+
+Each night, he made several adjustments. Mostly minor, but by day three the daily timber production had gone to over ten a day.
+
+The fourth day brought with it a fresh problem. The hunting party returned that night, three trotting at the usual pace. The last imp arrived by itself ten minutes later. A gash ran down its left side, deep and still oozing orange blood. In its claw, clutched tight against its chest, was a tooth. A wicked, white curved saber-like thing. Larger even than Kairon's own.
+
+"What happened?" he demanded as he met up with the injured imp. He gestured for the rest of the hunting party to join.
+
+The imp just shook its head and wouldn't let go of the tooth.
+
+Kairon looked at the other three hunting imps, staring up at him. "New rule. You do not leave an imp behind unless absolutely necessary for survival. Do you understand?"
+
+The imps looked down, shame coloring their cheeks.
+
+"Just like I protect you, you must protect each other. I won't waste one of you on something needless like being left alone. Just like with meals, we do not waste."
+
+Thoroughly browbeaten, the imps shuffled off to dinner.
+
+The city lord, however, gazed out over the evening forest line. The massive trees waved back at him, leaves catching and flowing with the evening winds.
+
+Just what exactly is out there? Kairon didn't know. But he needed to find out before one of his imps didn't come back. For now, there was nothing he could do.
+
+Sometimes, Kairon himself would try and help with the hauling. Yet, he found the gains to be only marginal. His lithe form was better for precise tasks, not brute strength. And the sun was just so... sapping. Like he was some kind of vampiric species.
+
+He was grumbling about that internally during his morning headcount when his stomach dropped. Nine. Only nine?! The massive eyeball opened wide, sweeping the clearing with its intense gaze. He checked the treeline, the stockpile, and the timber area. Where is the tenth? Where is Shiny?
+
+Thirty seconds later, Shiny waddled out from behind the tower, dragging a fieldstone nearly half its size. It deposited the rock at the stockpile boundary with a satisfied grunt.
+
+I didn't tell Shiny to do that. The imp had gone out, found a massive stone, and brought it back. On its own... While Kairon slept.
+
+He watched the imp dust off its clawed hands and settle back at its post like nothing had happened.
+
+...Impressive.
+
+By day ten, the stockpile was looking significantly better than where it began.
+
+Timber yields had been averaging closer to nine to ten a day, predominantly due to the chewers outpacing the haulers and Shiny making sure they always kept logs ready for hauling now. For any further increases, it would probably require the haulers getting stronger or new imps.
+
+Unfortunately, one other change was getting more and more clear with each day.
+
+Tonight, it had finally fallen below 40%, and it was evident.
+
+As he watched his workforce curl up in their little holes and fall asleep, he contemplated what he should build next. He'd been thinking more on the city's growth.
+
+There were two options as he saw it.
+
+First, prioritize growth. Get a camp for better sleeping conditions and increased fervor, or a feeding pit to help with food supply.
+
+Second, prioritize defenses. Rush the wrath district.
+
+Even as he looked at the rising and falling chests of his slumbering workers, he knew he couldn't afford to wait.
+
+The wrath district would come first. It had to. If the humans showed up like this, it could be the end of Kairon's city.

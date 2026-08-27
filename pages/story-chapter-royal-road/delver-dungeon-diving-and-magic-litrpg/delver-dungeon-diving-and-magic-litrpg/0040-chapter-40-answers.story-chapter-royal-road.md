@@ -1,0 +1,171 @@
+---
+id: 37ea1771-53f5-52fd-9b75-d08910fab657
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40: Answers"
+slug: 0040-chapter-40-answers
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 40
+ownLength: 2208
+unit: words
+publishedAt: 2026-07-08
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3650121/chapter-40-answers"
+royalRoadId: "3650121"
+---
+
+My studies on nonhumans have finally proven fruitful. In a Dralk tribe, far to the north, they practice a magic where they cultivate their internal mana into something magnificent. I am excited to explore this new avenue of magic known as "cultivation".
+
+The Stronghold is a thriving city in and of itself. Loud voices call out to each other near the entrance. Merchants, recruiting expedition teams. Explorers, preparing for their own adventures into the unknown.
+
+A guardhouse stands tall immediately inside the walls, larger than any intact building I’ve seen, a whopping three stories tall.
+
+Men and women train in the front courtyard, sparring and preparing themselves for the next possible attack on the bastion of humanity.
+
+I notice as people look at me, making note of my green hair, and moving out of our party’s path.
+
+“Alright, you three have been here before. Where’s the nearest inn?” I ask, looking over as merchants call out to us asking about the journey.
+
+Libby and Grildor look over to Daron. The young man purses his lips, as he looks over the street. “This way, if I remember correctly.”
+
+He turns with confidence, and our group falls into step behind him.
+
+Keve and Tanya both receive strange looks from the surrounding people as we walk. The group surrounds Tanya naturally, protecting the nervous girl from the attention.
+
+We’re led to a regular looking inn, and the proprietor doesn’t take more than a glance at us before telling us prices.
+
+I don’t haggle, since I have more than enough funds to cover it.
+
+***
+
+The Arcanist’s building is larger even than the guardhouse, a palace in and of itself. A wide staircase lead up to two large stone doors, carved with runes to the point I can’t read them all. Vines climb up the walls, almost artful in their placement.
+
+A couple of younger mages step out of the doors, wearing large gray robes with the symbol of the sun on their back. The symbol of the Arcanists. At the very least, the thick material of the robes must be nice in this cold weather.
+
+They stare at me as they pass by, then whisper something out of earshot.
+
+I don’t pay them any mind as I make my way up the staircase, my feet crunching in the thin layer of snow. I open the doors and pause at the entryway, taking in the place. It’s like seeing one of my delves before it becomes a ruin.
+
+The inside of the place is quiet, hushed whispers traveling across a marble floor. Everywhere is polished and clean, and a fountain burbles in the corner.
+
+My gaze is drawn to a young woman near the back, working at a desk. As a mage, and as a lord, I have power I didn’t have before. I could find my answers, learn why my family was banished, who my parents were… I step forward, ready to greet her, when a voice calls out to me.
+
+“Leo?”
+
+I pause, and turn into a pair of beautiful sky-blue eyes. She wears an intricate long blue robe, with half-moons placed on each arm.
+
+Eyla stares at me in confusion, then dawning realization and horror. She grabs my arm, and turns me away from the desk as she pulls me towards the corner. “What are you doing here?”
+
+I glance back towards the woman at the desk, but let her pull me. “Looking for your master.”
+
+“The De’Vereth are on the opposite side of the city.” She stares at my hair, “Why do you look like that? You know impersonating a…” She lowers her voice to the tiniest of whispers, “mage is punishable by death.”
+
+I knew that, but I’m not exactly impersonating one, just lying about my specialty. “I need to see Master Lorn.”
+
+Eyla hesitates, then nods, “Follow me, you stick out like black fur in the snow.”
+
+“What do you mean by that?”
+
+She doesn’t answer as she walks towards the exit, so I fall into step with her. She looks me up and down, and shakes her head as she tries to hide a smile, “You look like you just came in from the frontier, and everyone here is going to notice.”
+
+I look down at my simple brown shirt, legging, and boots, one of my nicer pairs if I’m honest. But you can’t go wrong with a good pair of boots.
+
+Then I look over to Eyla, who’s wearing an intricately embroidered robe, has silver slippers that sparkle in the light, and hair that has two silver pins holding it up.
+
+It’s a great reminder that I would’ve made a terrible rogue. I’m not the best at blending in.
+
+We step out the doors, and immediately come face to face with a young man with hair so red, it’s practically scarlet. Two other men stand slightly back, swords at their waist.
+
+“Eyla?” His gaze turns to me, going up and down my outfit with a frown, “Who’s this?”
+
+Eyla steps in front of me ever so slightly, a guarded expression that I’d never seen covering her face. “Someone I met in Onder.”
+
+His dark brown eyes narrow at me, “I don’t recognize you.”
+
+Eyla opens her mouth, but I place a hand on her arm, then bow to my head to the man, like I would a fellow Acolyte at the temple. “I am Leo, from Kolas’s Stronghold to the East.”
+
+He gives the smallest incline of his head, “From the east? New to the Arcanists then.” his eyes flicker to Eyla. “What business do you have with the De’Vereth?”
+
+“I was meeting with Master Taycor, when I saw Leo by chance.” Eyla smiled, a calculated expression that held no real emotion to it. “Master Lorn had expressed interest in seeing him again.” The man opens his mouth, but she continues before he can say anything, “If you want to know why, you can ask my master.”
+
+The man frowns ever so slightly, “I see. I do hope to see you later, Eyla.” He glances at me, then continues to walk into the building.
+
+Eyla lets out a breath as soon as him and his guards are gone, “Come on.” She starts down the steps.
+
+I glance back at the closed door he’d left through, then start after her, “Who was that?”
+
+“Brandon, son of the Arcanist’s Archmage.” The words are said with an amount of venom that surprises me.
+
+I look up, trying to remember the one time I’d seen the Archmage Fern. He’d hired my Mentor for a delve, and had accompanied us deep into the earth. It was the one time I’d seen someone else with a wand. He’d been old, and gray, with large cheeks and a wide smile. The grandpa-like figure had been leveling hard since before magic abilities even worked. “He looks nothing like Archmage Fern.”
+
+“Fern?” Eyla looks back at me, a brief expression of sadness covering her face before disappearing, “He died two years ago. Kram took his place.” She turns down the street, and enters a small building.
+
+The smell of roasted meat immediately hits me as Eyla leads me to a small booth in the back.
+
+She slides in to the booth, then gives an embarrassed smile. “I hope you don’t mind the stop. I’m starving.”
+
+I shake my head, and slide in opposite of her, “Not at all. Just a little… surprised.”
+
+A man appears beside us, materializing out of thin air, and immediately I feel my danger sense heightening. He doesn’t even look at me as he bows to Eyla, “Mistress Eyla, what can I get you?”
+
+“The usual please, and some quiet after.”
+
+He nods, then disappears as suddenly as he appeared. Rogues are terrifying.
+
+“We can talk safely here.” She pulls a pin out of her hair, letting if fall loose, then leans back into the booth. I find myself unable to take my gaze away from her. “How much can I trust you, Leo?”
+
+I look at her, trying to place the guarded young woman with the relaxed one I’d gotten to know on the delve. This moment right here, and what I’d seen on the road, those looked to be the truer side of her, but her raised guard and the words of Master Lorn make me wonder how deep I’m ready to fall.
+
+I’d thought the physical distance would make it easier for me to look at this analytically, remember that I’m not ready to anger Arcanists and Lords. But as I look at her, my gaze meeting her tired eyes, my brain stops thinking, and I want to tell her that she can trust me with her life. That she doesn’t have to be guarded, or alone.
+
+The food arriving is a welcome distraction, helping my brain work again. I wait for the strange rogue to be gone before I answer her question.
+
+“I have my secrets. Many of them, more than I’d like.” I let out a half-laugh, “but I’d like to think you can trust me. The real question I have to ask…” I look up at her again, “Is if I can trust you. Since we last met, there have been at least three separate attempts on my life, and I can’t help the nagging suspicion that you and your master have something to do with it. I want- I really want to trust you.”
+
+Some of that guardedness returns to her gaze as she analyzes me in the same way I’d analyzed her. Finally, she looks down and takes a bite of her food. She chews it slowly, then swallows. “I have a map.”
+
+She takes a deep breath, then lets it out, her eyes flickering to the closed door of the restaurant.
+
+“Archmage Fern was my grandfather. When he died, he left me everything, including a map that has been passed down in our family for hundreds of years. Someone in the Arcanists Guild knows about it,” she lets out a breath, “somehow.” She looks up at me, “Everyone who’s attacked us had a symbol of a crow, tattooed somewhere on their body. And they’ve tried to kill me just as many times as they’ve tried to kill you.”
+
+She looks down at her food, moving it around her plate as she frowns.
+
+“I was going to ask you to help me follow the map when you disappeared.”
+
+I think over the new information, then pause at the last sentence, “I didn’t disappear. Master Lorn saw me off.”
+
+Eyla frowns, and looks to the side in thought, “He didn’t tell me that...”
+
+I continue, rethinking the whole conversation I’d had with him during my escape from the city. “He tried to warn me away from you.”
+
+“What-” She pauses, then her face goes red. She quickly covers it with one hand and holds the other up towards me, “Never mind. I think I know.” She lowers her hands, a faint blush still on her face. “That makes a lot more sense. Still, I think you’re the best choice for this, and if they’re already targeting you too… How would you feel about being hired by me for a Delve?”
+
+I lean back into my chair, acting as if I’m considering the offer. The truth is, I absolutely want to go.
+
+An ancient map, leading to a prize everyone wants. A secret organization marked by a crow. And a destination from before the destabilization of mana. A level up from my Lore Mage class practically confirms my decision.
+
+It’s like I’m reading about one of the Legends.
+
+“I think, that I would very much like to go. Bright side is, I already have a delve team.”
+
+“You do?”
+
+I nod, “Same one we went to the Archmage’s Sanctum with.”
+
+She smiles, and we both finish our food before standing.
+
+She leads the way to the other side of the Stronghold, and to a large gated mansion with the symbol of half-moons on it. A pair of guards open the gate for Eyla, at which point she turns to me and bows her head.
+
+“Meet me at the northern gate of the Stronghold tomorrow with your team.”
+
+I bow my head in response. “I’ll see you then.” She walks inside, and the gates close behind her.
+
+I stare at where she left for a long moment, before turning and making my way through the decidedly nicer streets.
+
+A pair of guards make their way on horseback, another example of the comfort they live in now. There’s a reason that we’ve moved to rock-lizards to carry our burdens, or Stags if we need speed. Horses have too much trouble on the rough terrain of the wilderness, with few natural defences against predators.
+
+My gaze moves past the guards as I walk into a slightly less opulent district. A caravan of men and women in chains stumble past, many of them nonhuman.
+
+I look over them, my fists clenching as my mouth moves into a thin line. Then my gaze pauses on the most unlikely of people.
+
+A Leifen girl with a torn ear. Her gaze meets mine for a brief moment, before she quickly looks away.
+
+What in the hells is Lyla doing here?

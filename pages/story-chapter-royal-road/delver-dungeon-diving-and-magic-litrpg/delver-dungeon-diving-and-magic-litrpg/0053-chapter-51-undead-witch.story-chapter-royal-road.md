@@ -1,0 +1,187 @@
+---
+id: 67947962-9ee2-5422-b09b-f52a9ec0872b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 51: Undead Witch"
+slug: 0053-chapter-51-undead-witch
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 53
+ownLength: 1966
+unit: words
+publishedAt: 2026-08-04
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3769971/chapter-51-undead-witch"
+royalRoadId: "3769971"
+---
+
+Angel Levis The Cloaked, Second of the Oathsworn, much of his domain is kept secret for the safety of his chosen. It is said that his paladins fight in the darkness, saving us from the dangers we do not know, and killing that which stalks the night. He too, has powers that hide himself from the sight of even the greatest seers.
+
+- “The Acolyte’s Guide To The Divine” An introductory text gifted to all acolytes of the temple.
+
+The ivory door swings open, and I jump back as mana moves through the room.
+
+Blue fires ignite in the corners of the room, illuminating a circular barrier surrounding a surprisingly pristine corpse.
+
+White skin and long black hair cover a feminine body with sculpted features and flawless skin. A talisman rests on her forehead, and chains wrap around her wrists, connected to a spike that’s been stabbed into the earth.
+
+I only know that she’s a corpse from the eerie stillness of her body, no breath escaping her.
+
+A sharp hiss makes me look down at Shar, whose metallic fur stands on end as she stares at the corpse.
+
+“It’s an undead witch,” she says quietly.
+
+The corpse opens an eye, then turns her head unnaturally to look right at me. She sits up, her chains echoing through the room as she pulls herself towards me,
+
+“A human?” The words are harsh, spoken from a voice that had almost forgotten the ways of speech.
+
+I swallow, pushing down my fear of the unnatural creature in the room. My eyes study the rest of the room, trying to understand its purpose.
+
+On the other side of the protective circle, a desk is against the wall, a candle lit by that same blue fire to illuminate a book of some kind. There are other things on the desk, but they’re hard to make out.
+
+“And a golem.” she continues, her eyes crinkling as her voice smoothes into a seductive lilt “what delectable specimens. It has been a long time since I’ve seen a living soul.”
+
+I focus back on the woman, my hand on the dagger I’d just grabbed from the armory. It seems more specific to the undead than Angel Loseta’s sword, although I’m confident both could kill her.
+
+She shifts, the chains tightening as she sits puts her hands in her lap, “Come in. No need to fear me, little paladin. I am bound by more than my chains.”
+
+I step closer to the doorway, still not entering the room. Best I can tell, the circle around her is intact, but I know better than to follow any invitation from an undead witch.
+
+I’m not clear on the differences between warlocks and witches, but I do know that undead witches wield magics that are less direct. And they are to be feared.
+
+Any undead that looks this human is to be feared.
+
+“Please, it has been too long since I’ve heard the voice of a human. Give me your name, little paladin.”
+
+“I’m not that foolish.” I keep my voice curt, but I can’t help my curiosity. This undead wants to talk, and I want to know what answers she may have about this place. I’m definitely not confident in killing her. “What can I call you?”
+
+She chuckles, “You can call me Masia.”
+
+“What are you doing here, Masia?”
+
+She tilts her head, the talisman on her forehead tilting as her dark eyes stare into mine, a disarming smile spreads across her face “Sleeping. Maybe even dreaming.”
+
+I can’t help my curiosity at that statement, “Do undead dream?”
+
+“Oh. Curiosity fills you doesn’t it? You hold a sword, a book, and a wand. Yet, the book stays paramount, does it not? No, not the book, knowledge itself. Mystery.” She laughs to herself, “I will answer your questions. But for each one you ask, I will take one of my own.”
+
+I don’t respond right away, instead thinking over her words. I don’t know how she knows about my wand, but that isn’t what matters to me. No, it’s the fact that her words seem to have some kind of magic to them, more than they originally appear to.
+
+Closing my eyes, I think back to what I know of witches.
+
+It is recommended that they are to be dealt with by reapers of the Angel of End, Akarimano. That is because witches are crafty, hard to pin down. It takes a reaper of finality to trace their more insidious magics and kill them.
+
+In other words, I can't easily trust any deal that I make with her. So I wont enter anything that I cant get out of.
+
+I open my eyes to find her patiently waiting, watching me.
+
+“I can refuse any question you ask me.”
+
+“Of course.”
+
+“And this agreement isn't magically binding in any way.”
+
+“I suppose not.”
+
+I sit down just outside the door to the room and cross my legs. Shar hops into my lap, curling up there. “Do undead dream?”
+
+“Yes. Sometimes, it is a never ending nightmare, the hunger for the living clawing at our very being. Sometimes, I dream of my cat.”
+
+“Your cat?”
+
+She raises an eyebrow.
+
+“Don't count that as a question.”
+
+She laughs, an all too human sound for my taste. “Very well, I will let that one go. Consider it a favor.”
+
+I shake my head, “I’d rather not.”
+
+“Hmm.” She gives me a conspiratorial look, “Tell me, little paladin, how long has it been since the collapse of the world?”
+
+“Five hundred years, give or take a few. Records aren’t the most accurate from that time.” I pause, considering my next question, “Why are you in this room?”
+
+“What better way to learn about the undead, than to speak with one? I trained the Owls so that they could kill as many Crows as their hearts desired.”
+
+I perk up at the mention of the Crows, then immediately try to hide the reaction. I can tell that she saw it all the same.
+
+“What is your class, little paladin? Be specific, please.”
+
+“I’m an Explorer archetype, with a Delver subclass.”
+
+She leans forward, her eyes studying me in confusion, “You’re not lying.”
+
+I shift on the stone floor. “What reason do I have to lie?”
+
+“I don’t know the answer to that question. Which Angel do you follow?”
+
+I give her a look, I hadn’t meant for that to be my question.
+
+She gives me a playful smile, and I notice two of her teeth being slightly sharper than they should be.
+
+“I follow Angel Sehara.”
+
+A presence briefly fills the room, and the undead looks around in a brief moment of fear as she moves away from the edge of her circle, closer to the stake in the ground that holds her chains.
+
+She looks up at the ceiling, then slowly lowers her gaze to me, the talisman falling over her nose a second later. “Oh, you are dangerous.”
+
+“What are the Crows?”
+
+She stares at me for a long moment, her face completely blank and unreadable. “In my time, many groups took that name. Necromancers, ancient cults, and demon worshippers. The meaning behind the name is, of course, much more terrifying.”
+
+“What do you mean?”
+
+She holds up a finger, “My turn, little paladin.” She pauses, then lays back down in the middle of her circle. “No. I bore with our little game. Take your artifacts Delver, and leave me be for another five hundred years.”
+
+“Now who’s lying.”
+
+She waves her hand at me halfheartedly.
+
+I stand up, Shar jumping out of my lap. “Five hundred years, and you grow bored of your first conversation with a living soul.” my eyes move around the room, searching for some kind of trap or trick.
+
+I consider blowing my blue dust onto the doorway to see if I can find any of the runes that are making my mana detector go off, but I don’t think they’re that close. No, more likely it’s reacting to the strange flames and the circle around the undead woman. There’s definitely runes in that circle, I can see some of them glowing from where I am over here.
+
+After a second of indecision, I shake my head. There’s no way I’m going into that room with her.
+
+I turn away to go to the door of purple stone when her voice reaches me. “Oh, little paladin, a word of warning. I wouldn’t go too deep. There are creatures kept there that are worthy of your fear.” She sits up, her smile playing at the edges of her lips. “If you do find yourself too deep, you can always ask for my help.”
+
+I look her over, trying to judge how much she secretly wants to kill me and suck out my soul.
+
+I remember well my interactions with the undead paladin in Kolas’s stronghold, but that had been different. An angel had interfered to keep the man’s sanity. This woman carries no mark of the Angels that I can see, and I can see her hunger in the way that she looks at me.
+
+After a moment of studying the undead woman, I continue to the other door. This time I fully draw my sword.
+
+Masia was still bound by her chains, but that doesn’t mean whatever is in here will be the same. “Shar, do you feel comfortable scouting inside?”
+
+The cat yawns, then nods her head, slipping into the shadows next to the door.
+
+She reappears a moment later, “Whatever was trapped there is long dead.”
+
+I nod, then push the door open. Like the ivory door, it opens easily.
+
+This time, white flames ignite around the room, revealing a large pentagram, a skeleton at its center. Whatever had once lived in the room, it had been vaguely human looking, with the exception of its size and a pair of horns which curled back.
+
+I look around the room, to find the same setup, a desk in the back with items on it.
+
+Stepping into the room cautiously, nothing happens, and I continue to the desk in the back.
+
+A book lies open on the table, written in Merlan, the same language that the Archmage used. It’s in surprisingly pristine condition.
+
+I study it for a moment, then gently close it to reveal its title.
+
+Shar hops onto the table, studying it. “The Infernal, by High Priest Storm”
+
+I take the book, then open the portal to my library, and slip it inside.
+
+The rest of the table is mostly empty, except for a dried up inkwell, and notes that have long degraded with time.
+
+I still look over the desk again, then study the pentagon that had once trapped what was likely a demon.
+
+A shiver makes its way down my back.
+
+I turn away, bringing my hood up and activating Hide Presence as I make my way to the final and fourth door. The cloak claims to have the power to hide me from corrupted, and I hope that’s true as I channel my mana into it.
+
+Shar walks up to the last door, then turns away, “It feels the same as the one upstairs. I don’t think I can go through with it being closed.
+
+I nod, then hold my sword up as I put some force into opening the door. It opens slowly to reveal a stairway heading down into the darkness.
+
+Despite myself, Masia’s words echo through my head. Something dangerous is down there. Still, Sehara said there was something I needed from this delve, and despite all the artifacts I’ve found, I’m not sure I’ve found what she needed me to.
+
+So, with light held high, and mana flowing through my cloak, I step into the darkness.

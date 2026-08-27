@@ -1,0 +1,163 @@
+---
+id: 9c8262ba-d751-54fb-ab19-8ddee610ba5d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 50"
+slug: 0050-chapter-50
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 50
+ownLength: 1609
+unit: words
+ownProgress: 1609
+publishedAt: 2023-03-08
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1132501/chapter-50"
+royalRoadId: "1132501"
+markedReadAt: "2026-06-29T20:33:32.074Z"
+---
+
+I boarded the escalator down to the train station and made my way back to the main Dungeon Hub.
+
+It's really crowded this time of day. Most hunters are finishing up their raids and heading off to the market to sell all kinds of loot.
+
+I walked outside and started to head towards the market center as well, I am one of those hunters after all. It took me about 10 minutes to make my way over, I walked pretty quickly.
+
+"Hey kid! Welcome back!"
+
+The merchant smiled and looked me in the eyes curiously.
+
+"Which dungeon did you end up going to? Any of the ones I recommended?"
+
+"A couple of them actually. The Minotaur Dungeon is pretty cool."
+
+He eyed me closer while narrowing his stare.
+
+"You said you hunt solo though...right?
+
+"Yeah, I can handle it. Don't worry about me old man."
+
+With a grin I emptied my mana onto the table. It's almost 3 dozen crystals. The merchant raised an eyebrow and stared placing all of them on the measuring plate.
+
+"Looks like you can handle yourself pretty well after all, not bad."
+
+The scale read out 3881.66MU in big black text.
+
+"Hmmm, I'll give ya-"
+
+"Wait hold on I have more."
+
+I pulled out the two large axes and the merchant's eyes lit up.
+
+"Let me take a look at those."
+
+I handed him the axes and he examined them closely.
+
+"A 150 and a 200 strength boost axe. Not bad at all. Just like last time you sold me gear, I told you it'd be a better price at auction but I'm still happy to buy these from you today.'
+
+"Yeah, I'm looking to get rid of them quick. Still, I hope you give me a decent price."
+
+"I can do 30 for the 150 strength axe and 45 for the 200. You could easily get double in auction, but that's my price here."
+
+They are low prices, but I understand how the business works. Going to the auction would take up a full day potentially, its really not worth my time right now.
+
+"How about 120 silver for the mana and the axes all together?"
+
+He looked over everything and nodded slowly.
+
+"Yeah. That works. You want it in all silver?"
+
+I thought to myself for a moment. 100 silver is equal to 1 gold, I've never had a gold coin before... why not? It'll be easier to store anyways.
+
+"One gold, 20 silver."
+
+The merchant nodded and counted out my coins. I took them and placed the silver in my item storage as the old man took the mana and axes to the back of his shop. He did a small double take the moment I opened up my storage skill but didn't say a word. I didn't think much of it either, I was a bit distracted. The gold coin in my hand glimmered in the setting sun, my eyes were locked on it. I flipped it around in my fingers with a large grin on my face from ear to ear.
+
+With a wave goodbye I left the market and got a nice big meal at a family restaurant and strolled down the street with a full belly.
+
+I stopped by a convenience store to purchase one of the latest additions of a comic book I enjoy reading about hunters and Heroes.
+
+The sun had completely set now. After walking all the way back to the Inn I was greeted by the attendant at front desk before making my way up to my room.
+
+I took my usual long hot shower and went straight into bed. Today wore me out, but it also has me excited for the future.
+
+Once I got comfortable under the covers I opened up the comic and started reading. I'm starting to feel more and more like one of these characters I read about, but there's one difference between me and them. They all have some kind of deep trauma or mission to save the world that really drives them.
+
+Me? I just want to get stronger. Every new adventure I go on makes me want to dive even deeper into the dungeons. I'm starting to get more and more hooked on the thrill of making it out of dangerous situations by the skin of my teeth.
+
+Maybe that's just what they call an adrenaline junky? Every intense battle gives me a rush that pushes me to progress further every time. I have my eyes set on immediate goals, and I'll do anything to get there.
+
+I know my short term ambitions could be my downfall. The risks of my accelerated growth may not out weigh the rewards, but this is what I have to do while I still can.
+
+I've never felt more alive in my whole life.
+
+I guess it's a bit of a selfish reason to get stronger, but who cares... It's not like anyone is watching. I'm living for myself. This is what I enjoy doing everyday. I will become stronger.
+
+With an open comic magazine over my face I fell into a deep peaceful sleep.
+
+The next morning I woke up refreshed and ready to dive back into the dungeons. I hopped out of bed and went downstairs.
+
+The Inn Keeper smiled at me on the way out.
+
+"Off hunting?"
+
+I nodded and reached for the door.
+
+"Yep. Have a good day."
+
+"Ya know kid, there was a pretty big C Class dungeon break last night. It might be the beginning of a surge. Just be careful out there."
+
+"Alright, got it. Thanks."
+
+I left the Inn not thinking much of his comment. Dungeon breaks happen all the time in the city right? It's normal.
+
+After grabbing a small breakfast I made my way towards the Dungeon Hub. It was crowded this morning like usual all the way down to the main D Class platform.
+
+To my surprise I saw a team from the Tara Guild waiting for a train. It looked like there were some different members, but there was one face i recognized for sure. Their leader Hudson saw me and waved at me I peeked at the dungeon list and sure enough, that was the train for the Minotaur dungeon. He spoke up as I walked over.
+
+"Hey! Looks like we meet again! This is my morning shift, you off loot farming today?"
+
+I stood there with my arms crossed waiting for the train.
+
+"Yeah, I'm In the city for a little while. This dungeon seems to be perfect for me."
+
+"Screeeeeech"
+
+The train pulled up and we boarded. Hudson leaned up against the inside wall and looked at me.
+
+"Ya know, there's rumors we might get hit by a surge soon. This dungeon is very stable, so I doubt anything will happen. Just be careful about farming in any of the new dungeons until we get more news on the situation. Joining a party is probably a safer move as well."
+
+"I appreciate the warning, but I hunt solo."
+
+"Alright. I'm just looking out for a fellow hunter, that's all."
+
+I raised an eyebrow. I wasn't fully listening to what he was saying, I assumed it was just small talk or guild recruitment nonsense. He mentioned a surge too... just like the Inn keeper did earlier.
+
+"Hey, uh- one other thing. This surge? What is it anyways?"
+
+He looked at me with a smirk. The underlings in his party looked at me with a concerned look.
+
+"What?? Is it bad that I don't know?"
+
+Hundson replied.
+
+"You really haven't heard about it at all? There's been a few surges lately, about 3 big ones this year. The news is always trying to predict the next one haha."
+
+"Okay... but what exactly is it? Why is it happening in the first place?"
+
+"Well, we don't know exactly. It seems to be a large concentration of magic that surges through all the dungeons in the area. For a few days, some of the dungeons will start to break randomly. Elite teams from the Hunters Association and some large guilds have been put on guard to make sure the city and its civilians are protected . A few months ago during the last surge we had a high level C Class dungeon break. It breached the pre-built confinement and leaked some pretty large monsters into the capital. Luckily the Viridian Guild had a team nearby, they cleared it up hastily once they got to the scene."
+
+I nodded as I looked out the train window watching the cement walls pass by.
+
+"Interesting... You said this dungeon is very stable though?"
+
+Hudson nodded.
+
+"Yeah, this is one of the oldest D class dungeons in the area. It gets a lot of raiding traffic. The more magic items and mana that are taken out of the dungeon, the more stable it becomes. Even if the surge gets bad, the worst it'll do is spawn in a few mutants at most. That's my professional opinion at least."
+
+"Hmmmm. Interesting. This is good insight, thanks a lot."
+
+"No prob, just helping out. I don't want to sound like a broken record, but come by our guild any time!"
+
+"Sure, sure. Maybe I will."
+
+Hudson doesn't seem like a bad guy at all. Maybe I actually will stop by and check the place out once I finish farming this week.
+
+The train came to a stop and a lot of other teams got off at the Minotaur Dungeon platform. Seems like its pretty common knowledge that this is one of the safer dungeons to dive into today. I can't wait to get started.

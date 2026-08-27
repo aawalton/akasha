@@ -1,0 +1,213 @@
+---
+id: eba09830-681a-5016-ae94-397682e85205
+page-type-slug: story-chapter-royal-road
+title: "244: Sightseeing"
+slug: 0244-244-sightseeing
+partOf: delve
+position: 244
+ownLength: 3880
+unit: words
+publishedAt: 2023-09-17
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1345405/244-sightseeing"
+royalRoadId: "1345405"
+---
+
+Rain walked arm in arm with Ameliah, grinning like a fool within his helmet. Never in a thousand years would he have considered this scenario happening in this world. And yet…
+
+“This unit has a nice rear balcony on the second floor with a great view of its secluded back garden. I know it’s a bit far from the center of the cavern, so you may have to walk more than you’d like, but if you’ll follow me up the stairs, I think you’ll agree it’s worth it. As you pass the fireplace, note the golden inlay, which is actually the control for the illusory flames. Not that it ever gets cold enough to need…”
+
+Rain tuned out the chatty real estate agent, his face aching with his silly amusement and the effort to hold in his laughter. It was just so...wonderfully mundane. House hunting with his girlfriend.
+
+“Are you okay?” Ameliah whispered as they followed the real estate agent up the deepstone stairs.
+
+“Warm and fuzzy,” Rain whispered back, hugging her arm even tighter.
+
+Ameliah rolled her eyes, though he could tell she was also enjoying herself.
+
+“And here, the master bedroom. There are powerful privacy wards in the walls. When active, they are completely proof against Divination and are able to muffle sound to a variable degree in both directions. The last occupant was an enchanter, and a good one, I’m told.”
+
+“Is that so?” Ameliah asked playfully. “You hear that, Honey?” She pulled back to look at him, taking on the feel of a hungry lioness. “A private bedroom.”
+
+“Hey!” Rain protested, flushing crimson at just how serious that look was. The only teasing part was that she’d done it in front of the real estate agent.
+
+Rain glanced at the man—actually a Guild bronzeplate, too weak to be assigned to a patrol and thus fulfilling his civic duty by doubling as a real estate agent. Despite Ameliah’s blatantly suggestive tone, the fellow looked composed and professional.
+
+On the inside, however, his metaphorical ears were pointed straight up like a Doberman’s.
+
+Doubtless, he would be spreading gossip about Nadir’s newest mercenary couple all over the Guild Tavern when he got back.
+
+Just great.
+
+“What’s got you all hot and bothered?” Ameliah asked, smiling at Rain with false innocence. “I just meant we could talk without people listening in.”
+
+“Talking is not what you meant, and you know it,” Rain said, though having a place to converse openly about sensitive topics was a draw. He was damn tired of being spied on and incredibly frustrated about not knowing when it was happening. The fringe benefit was just a nice bonus.
+
+Got him, Ameliah said with her soul, accompanied by the feeling that she’d pounced.
+
+Who was running? Rain replied in the same way.
+
+The real estate agent politely cleared his throat, a professional indeed. “This way to the balcony?”
+
+“Right, the balcony,” Rain said, following, still arm-in-arm with Ameliah, though she slipped hers free as they walked out into the open air, whistling appreciatively at the view.
+
+The garden really did look quite peaceful in the unreal light. It was enormous, fenced in by tall hedges and containing its own hot spring and everything. The water steamed mysteriously, illuminated by enchanted lights set into dark metal fixtures about the grounds. He found himself wondering how frequently a Lighter had to come by to charge them up.
+
+Ameliah spun slowly, taking it all in before returning her eyes to Rain. “I vote yes. You?”
+
+Rain pursed his lips, considering. Moving beside her, he leaned over the waist-high railing to get a better look at the yard. This was the third place they’d seen and clearly the best. Thanks to the wards and its location, it was as private as it could be while still being in the cavern. Better still, there was plenty of essence in the air, with it far from the daily bustle of the digger barracks and the drama of the great houses. The long walk to the hot spring wasn’t a problem when they had their own. To do any better, they’d have to stay out in the wild.
+
+People are dangerous, but people can be reasoned with. Monsters, not so much.
+
+Rain lifted himself back up, then turned and leaned back against the railing with a nod.
+
+Ameliah nodded back, then addressed the real estate agent. “How much for a month?”
+
+The real estate agent quoted a number, and Rain just about toppled over the edge.
+
+In the end, it wasn’t that bad. Nadir operated much like Ascension in that it had a credit system for tasks beneficial to the community, but it differed through the lack of having its own currency. Everything had a reward in units of Tel or GranTel, from running patrol to delivering supplies to maintaining the district’s gardens. You could either take payment in cash at one rate or in credit at a variable, but significantly higher rate—provided you immediately applied it to a communal service like housing or food import. While what Alderman Juren had said about not being able to buy your way out of contributing wasn’t technically true, it was true in effect. You’d have to be an absolute nut bar to pay in cash, and even if you did, the district would just benefit differently, this time from your poor financial choices.
+
+Obviously, Rain and Ameliah chose the sane option. Securing the lease took a mountain of paperwork and a trip back to Nist’s office—Nist being the woman who’d set them up with the real estate agent—but they got themselves squared away without incident.
+
+“Where to now?” Ameliah asked, repeatedly tossing and catching the spherical ward key they’d been given. “Back to the bungalow?”
+
+“Not just yet,” Rain said, smiling. “Once we head back, I’ll have to start working on our mission in earnest, and I haven’t finished taking it all in.”
+
+He wasn’t just talking about the sights. For his planned changes, he’d need plenty of chaos for both raw material and time acceleration fuel. His stock was building even now, to Dozer’s mixed horror and enthusiasm. The Essence Slime was already inside and industriously scrubbing away, and there was no harm in leaving him to it while his tanks filled. It just meant he’d have more to start with when it was time to buckle down.
+
+“Lunch, then?” Ameliah asked, tucking the key away. “Something besides rations and half-cooked monster guts?”
+
+“Hells yes,” Rain agreed. “Let’s hit the Bank and the Guild first, though.”
+
+“Right, might as well get that over with,” Ameliah said.
+
+Rain inclined his head. If they were going to have a problem, he’d rather know sooner than later. Going out of their way to avoid interaction—performing all transactions through couriers and the like—would just make people curious. Hiding in plain sight was better.
+
+Of the big three, only the Bank and the Guild had offices here, and neither’s presence was really that problematic. Luna’s reach didn’t extend to this continent, and Rain doubted the greedy man had shared the details of their interactions with his competitors. The Banker having planted a spy here with specific orders to watch for him would be unlikely in the extreme, especially when the man thought—hopefully thought—Rain and the rest of Ascension were swimming with the fishes.
+
+The walk didn’t take long, and true to expectations, the Bank building turned out to be ostentatious to the extreme. Not on the outside—proof that Nadir’s HOA had teeth—but on the inside, all done up with Illuminator work depicting a veritable dragon’s hoard of riches. Walking to the front counter was like weaving through the Cave of Wonders, but once they got there, what followed was an almost suspiciously mundane transaction. The sack of Tel they’d built up over their journey from the surface was swapped for a much more volume-efficient quantity of GranTel, which they politely declined to deposit in an account. The conversion fee was highway robbery, but that was the Bank for you.
+
+Next, they visited the Guild, Rain feeling even more in control of the situation. While he had enough of a reputation to worry about being recognized, distance was powerful in a world without the internet. Even had the story reached this far, it would have been twisted, and he had his Sadiiri disguise to lean on. After the bumpy ride getting here along the metaphorical back roads, he half wished they’d decided to bite the bullet topside, visiting the Guild and taking the express elevator, but the powerful souls up there had rattled him. Down here, with no such concerns and not remotely as much traffic, there was no reasonable justification for avoiding Guilders any longer. The chance of running into someone who knew them, even by description, was laughably remote.
+
+The Guildhall was a long, low building, no less overwrought on the inside than the Bank had been, though they didn’t check the tavern portion of it. As if in competition with the other organization, the interior was done up with scenes of valiant adventurers facing off against fearsome monsters. He and Ameliah were immediately accosted upon entering and subjected to a sales pitch. After shaking off the recruiter, they visited the job board. Certain jobs were Guild-only, but most weren’t, with only a small additional fee levied on non-Guilders to offset the cost of managing the logistics that kept the city working.
+
+Unfortunately, nothing struck their eye, and the enchantment-charging quests he’d hoped to see were completely nonexistent. When he asked why, he learned that Xiugaaraa’s Lighters had their own guild and a near monopoly on that kind of thing.
+
+Leaving the Guild, Ameliah said she was thirsty and needed to refill her canteen. After leading him to a likely-looking pump in the square, she discovered the water in Nadir was naturally carbonated by the geothermal activity, much to her hilarious, coughing surprise. Once she recovered, they just hung out there for a little while, resting their feet because they could.
+
+Their talk turned to their impressions of the city as a whole, and Rain had the opportunity to consider the welcome lack of a Watch presence—welcome because the three squabbling factions all had vested interests in tracking down their wayward Custodian and interrogating him over the Warden’s disappearance. On the face of it, there was no Watch stronghold in Xiugaaraa simply because there were no unawakened in the city for them to protect. It was deeper than that, though, as there were plenty of reasons to have a base here, resource collection being the most obvious that came to mind. The truth was that the Watch and the Entente did not get along. The Watch wasn’t outright banned from the city or anything, as Rain understood it, but as an organization, they hated being subject to anyone’s rules other than their own, while the Entente hated it when someone came in and tried to enforce foreign order on their city.
+
+Done resting, Rain let Ameliah take the lead, and despite having said she was hungry, she led the two of them on a meandering path of exploration. The first thing of note that they found was the digger barracks, which was all but deserted at this hour. The bronze Geomancers and Equipment Users who made their living delving ever deeper were away at the main shaft, doing exactly that.
+
+Nadir was the lowest continually inhabited settlement in the Great Delving, but the tunnels extended quite a bit lower than that. The so-called Guild shaft was neither the first nor the deepest excavation, but it was the only one as of now that hadn’t either caved in or been deliberately sealed off after encountering a biome too annoying, dangerous, or outright impossible to tunnel through.
+
+Having nothing but a passing interest in any of that, the pair moved on, next finding a training ground which also turned out to be the location where they were meant to gather before dusk for evaluation and patrol assignment. Since they were there now, they decided to go ahead with the evaluation portion, subsequently dumpstering the pair of silvers that volunteered to test them. It was hard to remember, sometimes, how weak the average awakened was, unbolstered by Tallheart’s god-tier equipment.
+
+In any event, the casual display of power got them not just a patrol assignment, but a patrol leadership assignment, something that promised to more than offset the cost of their housing. With that, the Crysts from Legruz, and the opportunity to keep what they killed Riddick style, they stood to have a highly lucrative stay. Making money was secondary to collecting essence, but patrol helped with that too. Even capped on experience, monster kills still released huge bursts of essence into the environment.
+
+In other words, things were looking up.
+
+While both of them were truly ravenous at this point, the fortresses of the Great Houses were nearby, so they decided to check them out before caving to their stomachs’ demands. What they found were powerfully enchanted walls with full, eight-member teams of silvers patrolling them, staring daggers at their neighbors. They stopped at house Lomaris, though they didn’t go in, simply leaving a message about where they were staying and an invitation for Legruz to visit them once he was done getting spanked. With Illuminators being Runesmith-adjacent, Ameliah wanted Legruz to inspect their wards to ensure they were all they were cracked up to be, which Rain wholeheartedly agreed was a good idea. The real estate agent had honestly believed what he’d told them, but it was best to be sure.
+
+As they moved past the rest of the fortresses, they were challenged twice simply for walking by. Nothing came of it beyond requests to see their passes, hopeful offers of employment, and veiled warnings against accepting employment by anyone else. Able to literally see through bullshit, Rain easily navigated those conversations, conveying their intent to remain neutral and coming away with a better understanding of the tensions between the houses.
+
+Each had a gold stationed here, given the title ‘alderman’ and tasked to share in the district’s governance. Juren was just the first they’d met. On their tour, Rain glimpsed the souls of two others, hidden deep within their respective strongholds. From what the guards said—again ignoring the bullshit—the House golds were all roughly on par with each other in terms of strength, as was the one gold-level Guilder presently staying here. It wasn’t great, having that many people around who could squish them like bugs, but the situation was at least stable.
+
+Much of that stability came from First Otina, a high silver and the leader of the local Entente. For political reasons Rain was only beginning to understand, the peacekeeping organization wasn’t allowed to have golds, despite nominally controlling all lairs in Xiugaaraa’s territory, and speaking of lairs, there was one in Nadir, called by that same name.
+
+Wanting to verify a hunch, Rain suggested they locate the Entente stronghold. Ameliah agreed, and as they walked, he felt carefully for changes in the local essence. He was satisfied to discover that the essence density had indeed dropped ever so slightly by the time they located the fortress. When he focused with Mana Sight, he saw the faintest hint of a current in the local mana as it flowed toward, then down through the building. The Light aspect seemed more affected than the rest, drawn to an area of low pressure below the ground, out of his sight.
+
+The lair is down there, and it’s thirsty.
+
+He stared, scratching his chin through his faceplate as the guards watched him, but he didn’t care what they thought, lost as he was in his own contemplation.
+
+I don’t remember feeling this in Threecore. Todo: see if Mora can find out what percentage the lair’s at. If I’m right, it’s low. Do they have people with Elemental Refinement stationed here to feed it mana? If it was full, would the essence flow the other way? Is the lair Light aspect because the zone is, or is the zone Light aspect because the lair is? So many questions!
+
+“What are you thinking about?” Ameliah asked.
+
+“Nothing relevant to our present situation,” Rain replied, looking at her with a blink.
+
+“Our present situation being hungry?”
+
+“Our present situation being hungry,” Rain agreed, grinning. He pointed dramatically down the street. “Onward! To vittles!”
+
+Ameliah laughed, following, and a short walk later, they passed through a well-built fence of tall deepwood planks into the hot spring complex. Inside, the natural obsidian-like stone of the cave lay bare, forming dark walkways between the pools, which had been bottomed with pure white marble. Lit from below the crystal clear surface, they shone like reflections of the moon in a starless sky. A faint mineral smell hung in the air, not unpleasant compared to the chlorine odor Rain’s nose had been expecting for some reason. The atmosphere was also heavy with steam, and some of the smaller pools to the sides were literally boiling, even those with people in them. The only building was a circular one, at the exact center of the largest pool, built from something that looked like…
+
+Bamboo?
+
+Rain thought he’d been prepared for anything, but his expectations hadn’t included a tiki bar. A circular counter ran around the entirety of the structure, with the seating visible just below the water occupied by dozens of thirsty, hungry, and...predominantly nude bathers.
+
+“Should we take our armor off too?” Ameliah asked.
+
+Rain glared at her. She knew very well that removing any more than their helmets would be a horrible decision. She was only pretending otherwise to tease him. As useless as Obfuscation felt most of the time, unable to stop people from Divining the area around them, it was all that stood between them and being directly targeted by abilities like Seek, the tier-four capstone. The existence of that spell was terrifying, even knowing the numerous factors that complicated its use.
+
+“Distracting yourself, are you?” Ameliah asked, still grinning wickedly. “Trying not to notice all the toned skin and rippling muscles? You can look if you want, you know. I don’t mind. I know you belong to me. Oh, and I hope you don’t mind that I’m looking. That guy in the pool over there is—”
+
+“Oh, stop,” Rain said with a dramatic sigh, rolling his eyes as he stepped into the water. Warm liquid flooded into his armor to the sound of Ameliah’s laughter. He couldn’t help glancing in the direction she’d indicated, though, and when he did, he just about choked. “Holy Chris Hemsworth, Batman!”
+
+“I thought he was Thor,” Ameliah said, chuckling as she waded in after him.
+
+“That’s got to be a skill,” Rain said, shaking his head in disbelief. He unbuckled his belt and settled it over his shoulders to keep the contents of his various pouches dry. “Some sort of illusion. He’s an Illuminator or something.”
+
+“With that little mana?” Ameliah scoffed, the water rising above her waist. “Come on. Even if someone else did it for him, you’d see the enchantment.”
+
+Rain shook his head, using his arms to help himself along now that the pool was deep enough. “No. No way. No way anyone has that much lumberjack energy naturally. I refuse to believe it.”
+
+“Lumberjack energy?” Ameliah asked, laughing. “What?”
+
+Rain heaved a defeated sigh. “You know, I’m feeling really inadequate right now. The least you could do would be to say you agree with me and give me a little validation.”
+
+Ameliah laughed brightly, snagging his arm mid-paddle and looping it around her waist. “Oh, stop it. You’re at least as scrumptious as he is, and you know how I feel about you. You can feel how I feel about— Hey!”
+
+“You said I could,” Rain said, grinning as she splashed him. Of course, he immediately splashed back.
+
+“If you pigeon-heads get my steak wet, I will end you,” said an annoyed voice, and Rain wiped his visor clear to see they’d reached the bar and that one of the patrons had turned to glare at them, a silver Guild plate dangling against the man’s bare chest. A moment later, the woman beside him—similarly unattired but for her matching Guild plate—turned to glare as well.
+
+“Sorry,” Rain said sheepishly, quickly hauling his eyes away, but the Guilders had already returned to their meals.
+
+“Did he just say steak?” Ameliah whispered. She dismissed her helmet, tossing her bags onto the bar beside the pair. That got a head-turn out of the man, who then did a double take and almost dropped his fork.
+
+For some reason, Rain found he got quite a bit of satisfaction from that.
+
+That’s right, bozo. Flapjacks across the way isn’t the only eleven-out-of-ten in this place, and this one’s with me.
+
+He dismissed his own helmet, and this time, the Guilder actually did lose his grip on his cutlery. The noise of the deepstone fork clattering against the bar made the female Guilder turn and likewise recoil in shock.
+
+Is there something on my face? Do I have helmet beard? Oh, my eyes? I’m not using much mana, though...
+
+He turned to Ameliah for help, but she just laughed and gave him a look that conveyed both deep love and the opinion that he was being impossibly dense. Told you, she seemed to say.
+
+The male Guilder buried his face in his hands and groaned, mumbling something under his breath that Rain nevertheless managed to catch. “Gods, not another one. It’s not fair.”
+
+Wait...really? It’s not just Ameliah’s opinion; I’m...
+
+“Are you with the ambassador?” the female Guilder asked, sounding uncertain.
+
+“The who now?” Rain asked, still struggling with his personal revelation.
+
+“Him,” the woman replied, nodding toward the impossibly handsome man in the neighboring pool. “Though that answers my question.”
+
+“Ambassador from where?” Ameliah asked.
+
+“Rellagia,” said a new voice, that of the bartender—a heavyset man with a high bronze soul and crow’s feet at the corners of his eyes. “Pardon for interrupting your conversation, but are you fresh from the surface?” His voice took on an eager note. “Any developments since yesterday’s proclamation?”
+
+“Which country in Rellagia?” asked Ameliah, ignoring the questions.
+
+“I’ve forgotten,” said the bartender, waving a hand. “That was last week. Ekrustia’s where the action is now. I take it you haven’t heard, then? Darn.”
+
+“Heard what?” Rain asked.
+
+“The war’s over,” the bartender said, leaning forward, eager to share. “The Potentate declared victory and claimed the whole continent for the Empire.”
+
+“Fecht’s alive!?” Rain roared, lurching to his feet atop the submerged platform.
+
+“No, the new one,” said the bartender, obviously pleased with that reaction. “Vannon.”
+
+“I’ve never heard that name,” Ameliah said. “Should I have?”
+
+The bartender shrugged. “I hadn’t heard it either until yesterday, and I like to think I hear everything. I did know him by another name, though, as I suspect you do too if you’re at all interested in foreign affairs. Lightbreaker.”
+
+“Filth!” Rain swore explosively, almost slipping into the pool.
+
+“Hey!” the silver Guilder said, shielding his steak from the spray.
+
+Rain ignored him, sitting down and fixing the gossipy bartender with his full attention. “Start at the beginning.”

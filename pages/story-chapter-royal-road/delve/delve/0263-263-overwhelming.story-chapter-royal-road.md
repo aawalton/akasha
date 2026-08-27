@@ -1,0 +1,267 @@
+---
+id: ee42554e-ecc9-5632-b8c0-18d86d4b57d8
+page-type-slug: story-chapter-royal-road
+title: "263: Overwhelming"
+slug: 0263-263-overwhelming
+partOf: delve
+position: 263
+ownLength: 3621
+unit: words
+publishedAt: 2024-05-05
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1624064/263-overwhelming"
+royalRoadId: "1624064"
+---
+
+Dozer oozed through the camp, bonesack-humans bustling from here to there around him, doing this and that and only occasionally stopping to say hello. Rain-King was busy talking to Grannybrain. Ameliah-Queen was busy cleaning down by the wetway leading to the big salt. And Tall-Brother didn’t want to play.
+
+Dozer quivered, echoing some small part of Rain-King’s worry. Like Rain-King, Dozer wasn’t quite sure how to help. Tall-Brother’s Lilly was gone, but not gone, just like Grannybrain and Ameliah-Queen-Dadfather. There was the thing Rain-King called ‘baggage’ there too, actually. Only Ameliah-Queen wasn’t throwing herself at an impossible problem to avoid her feelings.
+
+Dozer released an unhappy pop.
+
+Feelings were good, but complicated.
+
+Reaching his destination, he turned his essence emission volume to the maximum. [Zero!!!!]
+
+[!!!!!]
+
+His daughter—Dozer couldn’t help but quiver with excitement at the concept of being a dadfather himself—spasmed in fright, almost upending the fish barrel she’d been scouring. Shock became indignation, transmitted through vibrations of essence too subtle for even Rain-King to interpret.
+
+Dozer squirmed with happiness.
+
+Zero had feelings too, more of them each day. Feelings meant smart. He’d been worried at first, but now, he was starting to think she might be even smarter than he was soon. The meaning-words she used with him were beginning to diverge from the limited spoken language of the bonesacks, taking on new layers of meaning as they made their own language together. It was terribly exciting.
+
+[Trick? No danger?]
+
+[Yes, no danger,] Dozer sent. [Just Dad.]
+
+[Dad!!!]
+
+Dozer wobbled with amusement as Zero managed to free herself from the barrel. There was one thing, though, which kept him from complete happiness—another thing he’d been worrying about, and the reason he’d come to see her today.
+
+Zero couldn’t Divide.
+
+It was not for lack of understanding. She understood what she needed to do. He had given ‘the talk’ as Rain-King suggested. It was not for lack of power, either. She had collected enough Tel several times over. She had collected so many they had started to make her sick, forcing her to spit out the extra.
+
+And yet, she could not do it.
+
+Rain-King said maybe because Divide by Zero impossible. He also said that was poor taste joke and he actually did not know. Maybe not old enough. Just guess.
+
+Grannybrain guessed too. Guessed Dozer was mash of living being and system puppet. Guessed system forgot something making Zero. Also guessed system had not forgot. Guessed system had placed restriction to stop world end in cleansing slime. Confusing. Scary.
+
+Ameliah-Queen’s advice was best. Said be patient. Said do not fear. But Ameliah-Queen did not know either.
+
+Nobody knew.
+
+Annoying.
+
+[What wrong?] Zero sent, having oozed over to him.
+
+Dozer was perhaps too honest in his reply. [Want grandchildren,] he sent.
+
+[Am trying,] Zero sent, her own sending shaded with shame.
+
+[Known,] Dozer sent with the flavor of an apology. [Not saying your fault. Had idea. Tell not work, so try show.]
+
+[Show?]
+
+[Zero want sister, or Zero want brother?]
+
+[Oh!] Zero practically vibrated with understanding. [Both!]
+
+Dozer sent a sense of determination, checking to make sure he had enough Tel for two attempts. [Okay. Will try. Warn, can not pick. Only suggest. They pick self, same as you.] He paused. [One could pick both. Some humans both, Rain-King says. Or neither. Complicate.] He paused. [You still happy as she?]
+
+Zero wobbled with uncertainly. [Yes? Matter?]
+
+Dozer sent back the equivalent of a shrug.
+
+[Happy,] Zero sent finally.
+
+[Good,] Dozer sent. [Okay. Listen careful.]
+
+[Listening!]
+
+Dozer readied himself, concentrating. He’d only done this once before, and Rain-King said safety was not guaranteed when you had only done a thing once before.
+
+Carefully, he extracted the required quantity of Tel from his stock, then reached for the skill granted to him as a Progenitor.
+
+Divide!
+
+As before, he swelled slightly before a constricting sensation began pinching him in two. Even being prepared for it this time, the sensation was still upsetting. Not painful, but upsetting. There was no question that it was working, though. The clump of Tel he’d portioned out vanished, and then the Division completed.
+
+*pop*
+
+[Hello!!!!] Zero sent, barely holding herself together through the magnitude of her glee.
+
+[Quietly!] Dozer warned, oozing to block Zero’s lunge. [Is baby. Won’t understand words. Only instinct. Do not scare.]
+
+[Touch?] Zero sent, cutting through the confused emanations from her new sibling.
+
+[Gentle okay,] Dozer sent, shifting to the side to let Zero through. At the same time, he extended a small protuberance toward his new offspring, making tentative contact. [Hello, One.]
+
+[?] One sent, quivering in mild shock as Zero made contact more roughly.
+
+Dozer leaned heavily on his class, sending soothing suggestions and layer upon layer of meaning. With pure instinct, he explained who he was and who Zero was. Family. He explained the nature of filth. Explained how it must be purged from existence.
+
+One quivered slightly, more overwhelmed than even Zero had been.
+
+Zero clearly sensed as much by the way she responded by blasting positive vibes out in all directions. Dozer wouldn’t have been surprised if even the most essence-deaf of humans could have felt it. Some had gathered to see-watch, but he knew none of them well, so he ignored them.
+
+[One is he!] Zero declared.
+
+[Up to One,] Dozer sent back gently. [Now. Were listening?]
+
+[No,] Zero lied. [Too excited. Do again.]
+
+Dozer sent back his skepticism, but complied, and soon, a second slime was quivering with the sudden and unexpected shock of life. [Hello, Two,] he sent warmly.
+
+[She!] Zero declared.
+
+[Listen that time?] Dozer sent.
+
+[No!!!!] Zero sent. [Do again!]
+
+[Can’t,] Dozer sent, finding that he actually couldn’t. He didn’t have enough Tel either, though making more would be only a small trouble. He suspected that he himself had a limit on how many times he could Divide in short succession, even with as strong as he’d grown. It would probably be best to wait a few days.
+
+[I try!] Zero sent, churning with determination.
+
+Dozer listened carefully as she oozed from here to there, moving her Tel all through her insides and straining to pinch off her membrane as he’d done, but it was no good. Her membrane wasn’t flexible enough, or she didn’t have the skill, or she was just too young, as Rain-King said.
+
+[You will do it one day,] Dozer sent as he began to feel her frustration growing. [Play with One and Two. Show them how to be.]
+
+[Yes!!!] Zero sent back, enthusiasm for the task bubbling over.
+
+From a distance came the voice of Rain-King, who’d been paying attention since not long after emotions had risen. [Congratulations.]
+
+[Thank!] Dozer sent back, quickly adapting to the more speech-focused flavor of the King-Link.
+
+[You know you’re going to have a problem with your naming scheme eventually, right?] Rain-King sent. [What are you going to do once Zero figures it out? Just keep incrementing? Hyphenate? Zero-Zero, Zero-One, and so forth?]
+
+[Will leave gap,] Dozer decided on the spot. [Next Five. Zero can have Three Four. Need teach about numbers more than three. Very hard. Good for her learning.]
+
+[One, Two, Five,] Rain-King sent with clear amusement, though Dozer wasn’t sure why. [I love it. I still think you’re not fully thinking this through, but I’ll leave you to it. I’m busy now, but I’ll stop by later to say hello.]
+
+Dozer quivered happily as his sense of Rain-King retreated, and he wobbled forward to join his now slightly larger family.
+
+Frozen wind tugged at the hem of Tallheart’s cloak as he stood alone atop the jagged tower. Perched upon the highest peak in his soul, the outcrop of magma brick protruded like a snow-swept thorn from the packed ice armoring the mountain. Other, lower peaks ringed the horizon, some of them burning with rivers of molten steel and gold. The distant echoing clang of a power hammer could barely be heard over the howling of the wind and the cracking creak of the ice. Even further, nestled between the imposing peaks, were the calm and pleasant valleys, one of them hiding his old family workshop and the memories of his past.
+
+Above, the sky was darker even than his mood, inky clouds of chaos screening a single emerald star. The size of the verdant gem was deceptive, as was its nature. His soul was inverted, its edge brought to the center where it could be more easily defended. The mountains and the living earth wrapped around it like the jagged inside of a geode—peaks like knives, aimed at the locked danger of the outside world. All of it, he’d mined from the stagnant, rocklike darkness. All that remained was vapor, locked to its purpose in the clouds of soot above.
+
+Tallheart’s voice, when he spoke, was a low rumble, almost lost beneath the weight of the silence. “Hesitation is not like you.”
+
+He turned, hearing a footstep and a quiet intake of breath as Snowlilly recoiled, her fingers having been poised to touch his shoulder. She wore the same dented adamant armor she’d worn upon the day of her death, her helmet dismissed to reveal the pain on her face. Her ice-blue eyes turned away from his for but a moment before a flash of familiar annoyance brought life back to her features.
+
+“How long have you known I was here?”
+
+“Since you have been here,” Tallheart rumbled with some amusement. “I sensed your arrival when you manifested a week ago, and I prepared myself to be flicked once more in the back of the head. Instead, I watched as you wandered, hiding yourself away whenever I drew close.” He blinked slowly. “As I said. It is not like you.”
+
+“Perhaps I am not me,” Snowlilly said softly, looking away. “Last time feels like a dream. Now, it is all more real. I know what I am. I comprehend what it means.” She met his eyes, the fire within them tempered by fear and doubt. “It means that I failed. It means I am dead.”
+
+“Yes,” Tallheart rumbled, stepping forward to embrace her. His antlers locked with hers as he wrapped his arms around her back, preventing their foreheads from coming into contact. “I have missed you.”
+
+“I know,” Lilly said, returning his embrace with enough force to crush stone. “I know so many things I should not. I know how you’ve been working with humans, treating them not as tools, but friends.” She released him, and he let her go to wrap her arms about herself as she turned to look up at the clouded sky. “I have felt it, my heart. I have felt your love for them and their love for you. It is anathema to all that I believed. And yet, with their help, you have done more for our people than I ever did. More than I ever could have.”
+
+Tallheart rumbled. “It has been a difficult adjustment for me as well.”
+
+“Liar,” Lilly scoffed, turning to fix him with a mocking smile. “You were always the soft one. The one with forgiveness in your heart for those who would drive us to extinction.”
+
+“I have no forgiveness for those,” Tallheart said, shaking his head slowly. “But it is not about species. It is about good people and bad. I wish you could have seen that before the end.”
+
+“I...wish I could have too,” Lilly said.
+
+The two of them remained like that in silence for what could have been hours. Tallheart did not mark the time, content to stand there in frozen memory.
+
+Finally, Lilly spoke again. “I am not going to stay. The system... I know I could fight it, and I know you could help me win, but I am tired, my heart. I want to rest.”
+
+“Rest here,” Tallheart said, agony twisting his chest as he found himself stepping forward, reaching out with a hand. “I forgive you. For all your failings and all the evil you think you have done, which is not so much as you believe. Please. Please do not leave me again.”
+
+Lilly laughed, tears nevertheless forming at the corners of her eyes as she stopped him with a palm to the chest. “No, that is exactly why I need to go.” She took her hand away to gesture at the brutal landscape. “You don’t need what the system wants me to tell you. You have already done that and more.” She sniffed, wiping the tears from her cheeks and looking scornfully down at her moistened fingers. “See? I am not me. The real me would have never let herself be reduced to this.”
+
+“Lilly...” Tallheart said, his own eyes damp with tears. “Do not go.”
+
+“You have to move on, my heart,” Snowlilly said, looking up at the emerald star in the sky. “For me, and for our people. The true crime would be to stop. To abandon all that we lived for.” She looked back down, tears flowing freely as she graced him with one final smile. “One last thing. That little project you’ve been working on? Those troublesome metals that refuse to combine?”
+
+“What about them?” Tallheart asked, the words tasting like ash in his mouth.
+
+Lilly gestured over the edge. “I saw your model down there. It is by far your finest work, and yet, you have got it all wrong. There is no puzzle to be solved. No hidden trick beyond what you have already discovered.” She reached behind her back, her hand returning full of shimmering white and silver gems. She held them up, smiling through her tears. “There is a clear path to what you wish. A path so simple, I fear you have forgotten it.”
+
+With a mighty heave, Lilly threw her handful of gems into the air, where they punched through the sooty clouds with more force than they’d have had if they had been arrows from her bow. As the darkness fled from their light, they formed a perfect lattice of stars, or rather, two lattices, the types distinct. As they moved together, they quickly tangled and bound, as they had in all his attempts. And yet, they did not stop moving.
+
+“If it won’t go...” Snowlilly said, her voice trembling with exertion. The stars moved, grinding against one another as some invisible force worked on them. “Force it!”
+
+There was a blinding flash, and the two patterns collapsed in an instant, melding into one flawless whole.
+
+Tallheart stared in awe.
+
+All that was needed was force. Pure, uncomplicated, overpowering force. He had simply not been trying hard enough.
+
+She is right. I did forget.
+
+He tore his gaze from the sky, intending to give her his thanks...
+
+But she was already gone.
+
+“Filth, why’s it so hot in here?”
+
+Ameliah looked away from the scene in front of her, a bead of sweat rolling down the back of her neck as Rain emerged from the lair’s mirage-like barrier.
+
+“Rain! Mana!” she felt as much as heard Tallheart demand, his normally low voice distorted by the hydrogen atmosphere.
+
+“Holy shit, Tallheart, what happened in here?” Rain demanded, his own voice creeping upward as the blue rings of Essence Well appeared around everyone present. It had been muffled by the protective wax she’d crammed into her ears, but as Ameliah looked back at Tallheart, she decided that the change in pitch came only partly from the lightweight gas infiltrating her love’s lungs.
+
+Tallheart’s state had been no less a shock when she’d arrived. The cervidian was shirtless—not because he’d removed it, but rather because the article of clothing seemed to have been burnt off him. Great smears of soot stained his hairless skin. His Ascension jacket was surviving for now, wrapped around his waist like a skirt, but the heavy fabric was blackened and burnt.
+
+Beyond all that, the antlered smith was sweating. His hair was drenched with it, and his shoulders were heaving as he drew heavily from the regulator he held in one hand. In his other, he held his hammer, with which he turned back to his monstrous adamant-clad anvil. With no further acknowledgment of Rain’s arrival, he resumed working, the very ground shaking with the full, unrestrained force of his blows. The lack of a damage limit was why they were in here.
+
+Covering one ear with a hand and wincing with every resounding impact, Rain signed with the other. “Ameliah, what’s happening?!”
+
+Rummaging for a moment, Ameliah tossed him the tin of wax, feeling her mana draining as Tallheart drew on the skills of their other party members. Myth and Reason were barely holding on, working frantically together with Fume Control to keep everyone from blowing up from the sparks. Kettel was only standing with Tahir’s assistance. Romer looked alright, but he had stationed himself well back from the insanity, there just to donate his skills.
+
+Shaking her head, Ameliah returned her eyes to Rain and gestured her reply. “Tallheart’s happening.”
+
+“I can see that,” Rain sighed, still wincing through the wax. “What’s he doing, though? Making his new metal? And why in here?”
+
+“More heat!” boomed Tallheart’s voice, snatching Rain’s attention from her reply. “Rain! Immolate! Saturate it!”
+
+Rain removed his own regulator to yell back. “Tallheart, are you insane? Without the damage limit, an explosion would—“
+
+“MORE HEAT!” Tallheart bellowed, and Ameliah felt Rain’s magic pulled through her as the smith used Immolate himself. He was also using Kettel’s magic and had been for a while. Fire blasted out to either side with each fall of the hammer.
+
+Rising from her perch near the ruins of the smelter they’d dragged in here, Ameliah caught Rain’s arm. “Just do what he wants,” she signed quickly as he turned to look at her. “Don’t worry. We’re handling it. Speaking of handling, I’ll handle cooling.” Drawing on his magic, she used Refrigerate, directly targeting everyone inside the lair.
+
+Even if I overdo it, a little Cold damage will be better than being baked alive.
+
+Rain shook his head in disbelief, then unleashed his magic, veritably dumping power into their surroundings. The lair trembled under the sudden pressure as she felt the inverted aura wash over her, bolstering her resistance as the temperature soared. She felt a rough friction from the two thermal auras as they ground past each other, but her practice helped her adjust to smooth things out. Rain still couldn’t use both together on his own, but Unity and a hefty dose of metamagic provided a serviceable workaround.
+
+“Good!” Tallheart yelled. “Do not let up!”
+
+What the hells is he doing? Rain seemed to repeat as he returned his focus to her.
+
+“He already made the new metal, but some of the base metals got left over,” Ameliah signed. “He’s just trying to work it now to get rid of the impurities.”
+
+“Excuse me?” Rain asked. “This is him trying to work it?”
+
+“It’s very tough,” Ameliah signed.
+
+The sudden end to the clanging came as a shock to both of them. Rain’s infusion of power had done the trick, apparently. Tallheart’s hammer fell to the ground with a heavy thud, blood smearing its handle, with more dripping from his fingers as he swayed. He still had plenty of health, Ameliah knew through the system, so she merely rolled her eyes at his excessiveness, leaving Tahir to deal with the self-inflicted injury. She got to her feet all the same, walking over to see what that excessiveness had wrought.
+
+Somewhat disappointingly, it was just a metal bar. Not an ingot—more of a rod, like a blank that could be forged into a sword, except perfectly cylindrical and barely the thickness of a pencil. The metal was practically drinking mana, glowing white hot in all layers of the spectrum as it drank Rain’s power.
+
+“Cool it,” Tallheart signed, beckoning Rain over. “Do not worry about the temper. It is pure, and that is what matters.”
+
+“Tallheart, don’t you think this is a bit much?” Rain asked, nevertheless doing as requested. Ameliah watched as he manipulated his domain to encourage Refrigerate to break down around the bar to be absorbed. He’d already been doing the opposite to stop his magic needlessly being absorbed by the heavy and now thoroughly battered anvil. The bar itself seemed to be helping him as the air temperature rapidly fell.
+
+“Pick it up,” Tallheart signed as the mana balance within the bar reached neutral and Rain deactivated his magic. “Pick it up, and you will see.”
+
+“I mean, okay,” Rain said, tapping the bar a few times before pinching it between his fingers, the mana draining from the metal more quickly than it should have for its size. Rain clearly noticed that, but something else seemed to catch his attention as he lifted it and swished it through the unbreathable air. After holding the rod up to one eye, he grabbed on with both hands and tried a bend, having absolutely no success.
+
+“Do you see now?” Tallheart asked, slumping to the ground where Ameliah had been sitting before.
+
+“Good work,” she signed, walking back over to sit beside him. “Is it going to be this hard to make every time?”
+
+“Probably,” Tallheart signed back, closing his eyes.
+
+“Tallheart, this stuff’s insane!” Rain said, standing atop the middle of the rod, balancing with one end planted in the ground and the other held in one hand. It still hadn’t bent in the slightest, and the mana within it was already completely gone. “It’s so light! And strong! And it practically eats mana!”
+
+“Now we just need a name,” Ameliah said.
+
+Tallheart removed his regulator to reveal something incredibly rare on his face—a broad, unmistakable smile. “Lillium,” he rumbled.

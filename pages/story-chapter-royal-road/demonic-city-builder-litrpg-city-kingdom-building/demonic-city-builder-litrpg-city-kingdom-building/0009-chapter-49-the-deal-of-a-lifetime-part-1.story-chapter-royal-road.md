@@ -1,0 +1,145 @@
+---
+id: 41aabc9c-1567-5584-bbe8-ee36525c6c02
+page-type-slug: story-chapter-royal-road
+title: "Chapter 49 - The Deal of a Lifetime - Part 1"
+slug: 0009-chapter-49-the-deal-of-a-lifetime-part-1
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 9
+ownLength: 1532
+unit: words
+publishedAt: 2026-08-06
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3775938/chapter-49-the-deal-of-a-lifetime-part-1"
+royalRoadId: "3775938"
+---
+
+Yesterday’s exploit had two major pieces of fallout. The first was… unexpected. And it was staring Kairon right in the face, his black claws trembling in annoyance at The Vault.
+
+Yesterday, he had fifty days. Today, just one night after the sigil’s enactment, it was thirty-nine.
+
+I just don’t understand.
+
+Well, fundamentally, Kairon did understand. He knew exactly what part of his favorite bedtime reading from the Demonic Compendium on City Regulatory Code must have been invoked. Only a single line in the entire package could have dropped that audit timer.
+
+Of course he knew such a clause existed before he used the sigil, but Kairon had no reason to believe anyone would bother to invoke it.
+
+Why would they?
+
+Yet, here he was. They had. Just the thought of it nearly made a vein bulge in his black scaled forehead.
+
+Had I known what these overeager fools would have done… Well. I would have done exactly the same thing and used the sigil. But that isn’t the issue!
+
+It wasn’t what they’d done that bothered him. It was how. The incorrect usage. Kairon considered himself an expert when it came to the fine print. And here it was, being misused. He couldn’t stand it!
+
+Proving the point, he shuffled through the pages of blue parchment and found the references he was looking for.
+
+Right here.
+
+‘An accelerated audit can be called only at the behest of appropriate auditory bylaws by a member of The Board in cases of extreme urgency.’
+
+A very broad definition, but Kairon hardly thought a few extra imps constituted extreme urgency.
+
+And just who could judge it as such? The Board.
+
+With a thoughtful grunt, he flipped through the compendium, finding the portion in the back that even Kairon could admit was a tad dry. Repetitive, even. But all desserts had their crumbs. This was just such an occasion.
+
+The glossary.
+
+Sliding through the glowing pages, he searched through definition after definition until he found what he was after. The line explaining The Board:
+
+‘The Board — Oversight body of the five eldest representatives for each demarcation of The Plane, managing, maintaining, and overseeing The Table’s meetings.’
+
+I’d like to have a word with this so-called board about this decision.
+
+Was Kairon abusing the system in a way it was certainly not intended to be via outside interference? Sure.
+
+Did a single day of spawning a few extra imps truly constitute such?
+
+Absolutely not!
+
+Growling to himself, he read the definition again. Those two little words kept jumping out.
+
+The Table.
+
+The same thought, the one he had the moment he’d read about it so many nights ago, resurfaced in his mind.
+
+What if I was at that table?
+
+Kairon let his mind revel in that thought. The more he’d done this, the more he found he liked the idea. When he was a clerk, he was never allowed at such meetings. The big tables were for the supervisors, or uppies as some of the rank and file referred to them.
+
+But I’m an uppie now, aren’t I? What else would a city lord be?
+
+“And uppies get to be at the table, do they not?” he remarked aloud.
+
+Well. Uppies should be allowed at the table. Only in this case, it seemed the demonic plane disagreed.
+
+Glowering, he visited one last spot in the compendium. The one that had initially soured his mood when he peeled open the overleaf and discovered everything within.
+
+In the list, over a hundred ranks spanning from ruling titles all the way to oversight and auditory ones were listed. Once achieved, you become eligible for a realm’s seat at the table.
+
+Just for good measure, Kairon ran his claw down the list. Down and down he went.
+
+Yep. Still not here. For some system-loving reason, nowhere on this list does it say Demonic City Warden, nor City Lord, nor anything to do with my fucking city!
+
+The message was clear. Demons in Kairon’s shoes weren’t meant to be at The Table. This Board wanted to suppress him. To keep him a fledgling.
+
+Oh, you silly, silly little demons. You thought you could keep me from taking my place at your little table? No. No, no, no.
+
+Admittedly, Kairon worried they might have. That he’d been strung into an agreement with no way to the top. Yet, a clawful of nights ago, when he allowed himself just that little extra bit of reading…
+
+A tiny treat had become a full course meal, dessert included.
+
+Just the thought of it made him grin.
+
+Soon. Very soon.
+
+Forcing the tangled web of emotions from his mind, he returned to the matter at hand. There was nothing to be done about The Table nor The Board for now. Events were in motion, with more to follow soon.
+
+Today, he needed to focus on the second piece of fallout from the sigil. The more palatable one.
+
+His city was pumping out brood imps like never before. To ensure that left them in the best spot possible, he needed to whip up some new Gantt charts.
+
+***
+
+Later that day, Kairon stood, claws on hips, staring at his newest projections. With the exploit now seemingly working, the exponential increase in daily brood imps threw it all out of whack. His carefully, meticulously made plans from the prior week were made entirely pointless.
+
+Yet, that was okay. Welcome, even. He enjoyed a good challenge of number crunching.
+
+In this case, he was trying to align those numbers in order to figure out one basic goal for his city. Survival. Unfortunately, Kairon was lacking information. As always.
+
+The demon studied the three scenarios in front of him. Three varying plans for what to build over the coming weeks.
+
+His working assumption, based on what he could piece together from Vorathrex’s whims and Hector Hallen’s tight lipped replies, was that there certainly were paladins coming. Frankly, there probably always would be. And by all accounts from the rumors Veron had shared before his transformation, they were a different beast entirely. Battling them would not be the same as fighting the Valdren militia.
+
+What to do, what to do..?
+
+If he thought those paladins would be here within a week, he’d go with his first chart. Another military rush like last time. To do it, he’d move the sigil to the wrath spawning grounds immediately, spawning eleven warriors per day. Then, he’d build the training grounds today and camps when able.
+
+If he thought the paladins would take more than a month, he’d go with the second chart. An economic long-game. Keep the sigil on the brood district, spawning twelve new workers a day in perpetuity, and build enough infrastructure to go for the third ring and spam wrath spawning grounds in a fresh district. Perhaps even explore smithing iron in a forge district and information gathering in a pact one.
+
+Speaking of…
+
+Kairon flipped open his interface, once again checking in dismay at the obscene cost of the third ring.
+
+It seemed that each ring had an increase in cost by a multiple of ten. His lip curled in disgust at the ridiculous amount of gold.
+
+Pure thievery, I’d call it. Extortion, even.
+
+At the current rate, they’d need months of processing timber in the feeding pit as gold to do it. Which, by the way, I don’t think is quite how the plane intended the feeding pit to be utilized. Not that Kairon cared. He had… contingencies in play for that.
+
+But that was the trick, wasn’t it. The current rate. One that would be changing drastically.
+
+Shaking his head, he returned his attention to the charts. The first two scenarios were both one side of an extreme. Economics vs warfare. However, the city lord’s gut told him what he needed was somewhere in between.
+
+That’s because he was betting he’d see paladins at his doorstep in two to three weeks. Maybe a bit more, with Hector’s scheming in the mix. That’s when he was betting their first contact with the Solari would occur.
+
+Which left the third Gantt chart.
+
+An altered version of approach one. Keep the sigil on the brood district for at least half a week, jump starting his economy. The sooner he had more brood imps, the more valuable each would be. After, move the sigil to the wrath spawning grounds to make eleven of them per day instead. When you did the figures, and he had, this gave him the highest number of wrath imps two to three weeks out and the infrastructure to support them.
+
+There were currently two variables that impacted their combat strength. The number of wrath imps, and the training those imps had. With this approach, he should be able to make the training grounds and ritual circle both by week’s end as well. He could even do another wrath spawning ground.
+
+The black scaled demon took one last, long glance at the trio of options. Then, nodded.
+
+The math just doesn’t lie.
+
+Path decided, he headed back to the city proper. It was time to check one last box and verify this whole sigil business really did pan out.

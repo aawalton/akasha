@@ -1,0 +1,201 @@
+---
+id: 8cfda335-7415-533c-b21e-71caaae0b065
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43"
+slug: 0043-chapter-43
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 43
+ownLength: 1432
+unit: words
+ownProgress: 1432
+publishedAt: 2023-03-01
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1126331/chapter-43"
+royalRoadId: "1126331"
+markedReadAt: "2026-06-29T20:33:17.451Z"
+---
+
+I dragged by body along the wet swamp floor towards the faint glow of a pink potion.
+
+My arm and leg had been sliced off, and my stomach has a large hole in it. There are 3 smeared trails of blood behind.
+
+I finally made it to the pile of cloth on the ground covering the portion of Talia's belt I managed to cut off during our short battle.
+
+I grabbed the bottle with my left hand and ripped the cork off with my teeth. I drank the potion and closed my eyes. Magic flowed back into my body.
+
+There's only one way I'll make it out of here alive. I have to try my new skill.
+
+"Self Regeneration."
+
+"Self Regeneration...."
+
+"SELF REGENERATION!"
+
+I kept repeating those words over and over in my head while concentrating on my wounds.
+
+I could feel the MP being consumed, but also a relaxing warmth came over my whole body.
+
+I opened my eyes and looked down to see my arm and leg slowly growing back. I focused even harder and the re-growth started to speed up.
+
+This skill is incredible.
+
+I can feel my bones and skin re-growing at a rapid rate. Seconds later I stood to my feet. My shirt sleeve and pant leg were gone along with one of my boots. That didn't matter to me one bit. I stared straight ahead towards the direction my attackers just left.
+
+They made the first move and failed to eliminate me... their lives are fair game.
+
+I darted forward making sure not to make too much noise. My MP was somewhat drained, but I have more than enough in me to plot my revenge.
+
+A state of rage came over me. I've never felt this way before... No one has ever deceived me quite like this, I will not forgive them.
+
+After a few moments I heard a voice and slipped behind a tree.
+
+"Another successful day in Vice City. I think it's about time we head off somewhere else, we might be getting a bit too hot here. One night to celebrate then let's checkout the Nurean Region next. I think a top 4 region might be a good change of pace befo-"
+
+"Enemy 20m behind us."
+
+I held my breath.
+
+They know an enemy is nearby, but there's no reason to ever guess it's me. I can't believe them! They're just talking casually like this is an everyday thing! How disgusting.
+
+I circled around their back and ducked behind the trees. I'm waiting for the perfect moment to strike.
+
+I watched them like my prey. I feel true hatred. They tried to kill me and took everything I own. All i did was help them out today... The world really is a cruel place. Now they'll get a taste of their own medicine. Karma always comes back around.
+
+There was an opening in the trees. I could see Cori scanning frantically and Talia holding her sword tight eyeing the trees and turning in circles slowly.
+
+Cori was staring directly in my direction, but my tree cover was too dense. I moved closer and closer making sure not to be seen until I needed to.
+
+"10m straight ahead"
+
+Talia nodded.
+
+"I don't hear it at all, where is this troll?"
+
+"I'm not sure its a troll. It feels like a human."
+
+Talia was inching closer and closer every second. Cori stood close behind her.
+
+We were less than 5m apart now, I was knee deep in swamp water gripping the backside of a tree.
+
+It's time.
+
+I focused on my fire magic into my palm to create an orb of glowing red light. This is going to be everything I've got, I only have one shot here.
+
+I jumped out from behind the tree onto dry land and lunged forward with all my strength. The look on Talia's face was pure fear, astonishment, and disgust. There was no time for her to even think.
+
+I let my orb of fire expand into the image of my lost sword. The flames erupted and devoured my enemy.
+
+"SHINGGGGG"
+
+I sliced through Talia's torso and followed through by stabbing Cori in the chest as he stood in awe close behind her. I let my flames expand further and with a fiery explosion I let out my anger with a blast of flames that depleted my MP back to 0 again. They were both burned to a crisp before i could blink.
+
+"CLANNGGGGG"
+
+I heard multiple items hit the ground along with a familiar ringing sound.
+
+[Level Up]
+
+[Level Up]
+
+"I... leveled up?"
+
+I couldn't help but to mumble those words out loud. How absurd. I didn't know humans had exp too....
+
+I looked at the ground to see a pile of swords and mana crystals beside Talia's body. The item box must have burned and released all of the gear, that's annoying.
+
+When I turned to Cori's body I grinned with delight.
+
+[Use Absorption]
+
+Skill: Spacial Magic[Item Storage]
+
+[YES][NO]
+
+I chose [YES] Immediately.
+
+Two skills in one day, not bad.
+
+I grinned and started to pick up all the gear and loot on the floor. The small items fit fine in my pockets but the swords and axe sat awkwardly on my back. This'll do for now though.
+
+The bodies started to disappear into the dungeon floor. Cori's started glowing red....
+
+As he disappeared a pile of items fell to the floor. Tons of MP and HP potions along with a few shiny silver coins hit the floor. My eyes went wide.
+
+This is everything that was in his dimensional storage compartment, even the fire stone.
+
+It was boiling the swamp water all around it. This stone is the real deal... Their story about how they got this thing must have been a lie... it's definitely not a D Class Item.
+
+I picked up an HP and MP potion and chugged both of them. Next I checked my status.
+
+____________________
+
+Name: Jay Soju
+
+Level: 157
+
+Hp: 790/790
+
+Mp: 790/790
+
+Strength: 378 [+125]
+
+Speed: 449
+
+Agility: 469
+
+Defense: 336 [+134]
+
+Mental Strength: 378 [+76]
+
+Skills:
+
+Absorption
+
+Swordsmanship
+
+Combat Magic [Fire Summoning]
+
+Inspect [Special Grade]
+
+Enemy Detection
+
+Body Hardening[Special Grade]
+
+Self Regeneration
+
+Spacial Magic[Item Storage]
+
+Items Equipped:
+
+Golden Wolf Ring [+20% Mental Strength]
+
+Cyclops Eye Pendant [+40% Defense]
+
+Stainless Steel Sword [+125 Strength]
+
+_____________________
+
+"Item Storage Huh?"
+
+I focused on my new skill and started glowing a faint white light. A rectangular tear in space opened up in front of me. I ignited my right hand in flames to reach down to grab the stone.
+
+It was burning much hotter than my own flames. I managed to drop it into my mini pocket of space and closed it up. I quickly used self regeneration to grow the skin back on my hand that had been burned to a crisp. That is one dangerous stone...
+
+I could sense it in my pocket world. I'm not sure how to describe it, but this space is now an extension of myself. If I were to open it anywhere I could definitely sense everything around it. Cori's claims made sense now.
+
+I started walking towards the dungeon exit again but stopped to test one more thing out. I opened up my pocket dimension and concentrated hard on the space within. It was pretty simple to move the the stone around within the space. I decide to throw a mana crystal in with it.
+
+Looks like it works. I can move things around within this space without them interfering with each other. This means all my new loot and gear will be safe in this pocket world right next to the fire stone. I placed everything inside my item storage. I don't even have to buy an item box now, this is great!
+
+With a big grin across my face I continued my trek back to the dungeon exit.
+
+I made it to the floating blue portal and jumped through.
+
+When I stepped to the other side I was not alone in the dungeon room....
+
+There were two tall men in nice suits and well built frames. One was blond and clean shaven, the other had black hair and a beard. They did not look like the types of guys I should be messing with right now.
+
+I gave them a nod and tried to walk passed to the escalator. One of them moved in front of the moving stairs and spoke up.
+
+"Stop right there. We need to have a word with you."
+
+They both stared directly at me without wavering an inch.

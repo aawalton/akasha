@@ -1,0 +1,183 @@
+---
+id: 648ed124-87c9-594b-9f32-1c249096d616
+page-type-slug: story-chapter-royal-road
+title: "Chapter 47 - Spreadsheets - Part 1 + ANNOUNCEMENT FOR BOOK ONE"
+slug: 0049-chapter-47-spreadsheets-part-1-announcement-for-book-one
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 49
+ownLength: 2084
+unit: words
+publishedAt: 2026-07-23
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3713496/chapter-47-spreadsheets-part-1-announcement-for"
+royalRoadId: "3713496"
+---
+
+The Numi clan scouting team bowed, their backs against the lowest tier in the amphitheater. Their furs were torn, bodies covered in dirt, and hair muddy. Clearly they’d been run ragged. Despite their condition, Gael was glad for it. They turned what should have been a five day ordeal into half that.
+
+“First, I want to commend all of you on making the trip as quickly as you did. I know that was no easy feat.”
+
+None of them spoke, but backs stiffened and chests puffed in pride. Forgotten were the hard days of travel. Instead, Gael’s sparingly given warm words glowed in their chests.
+
+“Now, given the sensitivity of your report,” began Elder Gael, “I have asked you here without your clan leadership. I would request that you keep both what you’ve seen, and what we say today to yourselves. Is that understood?”
+
+To emphasize the point, Rosk growled threateningly at her side. Senna too gave the dozen warriors a sidelong glance from her perch on her seat. Her reputation alone made that just as intimidating.
+
+“Yes elder!” said Chen. He stepped forward, the team leader for the scouts. “We understand. I will ensure that no Numi tribe person speaks of what we have seen.”
+
+Gael held up a finger. “You will ensure that not even Numi clan members hear of this.”
+
+He hesitated, before nodding. “I give my word. They will not.”
+
+“Good.” She stepped back, taking her seat and motioning with her hand. “Report. The other scout party we sent out also came back early, but with mixed results. However, I’m told you have more concerning findings?”
+
+Chen winced. “Yes, elder. We do.” He reached back into his pack, undoing it and removing the heavy corrupted piece of wood. He held it out, calloused palms trembling at the weight.
+
+Senna nearly fell from her chair, pointing. “That’s the taint! The taint I spoke of!”
+
+Gael waved her to quiet, before leaning forward with a frown. Carefully, she grabbed the log. The moment it was transferred to her grip, the elder’s eyes opened wide in surprise. Dark timber slipped from her grip and landed on the stage with a resounding thud.
+
+Rosk chuckled, rising from his chair and striding over to pick it up. “You’ve gotten old, Gael. Can’t even—” he cut off. Not because he couldn’t lift it, but at the weight. Hefting the log, he whistled. “The hell is this? Metal?”
+
+Chen shook his head. “No. We removed it from a blackened, dying tree. It is a sample, elders.”
+
+“A tree?” asked Senna. “What do you mean?” she asked, gaze intent.
+
+“The entire tree looked like this wood. Orange veins running through parts of it. It was… wrong. Its wood too dark, and branches winding like twine. Even carrying it felt off.”
+
+Rosk spoke up. “You see? We’re sitting here, sending out scouts, meanwhile Valdren is killing our forest. Maybe working with the Solari to use their magic on it!”
+
+“Rosk, please,” said Gael, giving him a look. She was truly beginning to feel like the only rational mind left in the entire clan. Turning to Chen and his clanmates, she went on. “Did you see any signs of Valdren soldiers? Any camps? Perhaps fires or the like?”
+
+Chen shook his head. “No elder. Not a single one. Just death and silence. In fact, when we got further west, the ground changed. It was not dirt, but some kind of orange sand.”
+
+“And the wildlife. Tell her about the wildlife!” urged one of the burly warriors in the back.
+
+Chen nodded. “Yes. Before we even made it to the shifted ground, the animals were nearly nonexistent. I honestly have no idea how the outcast tribes there are hunting. I’d bet most of the prey to be gone.”
+
+Gael thought, scenarios going through her mind. “This… doesn’t add up. How are the Valdren soldiers connected to the taint and wildlife? Would they truly poison the forest? To what end?”
+
+Instead of answering her question, Senna’s eyes were gleaming with accusation. “The taint is all that matters! I’ve foreseen it to be our downfall. The very leaves speak of it. They do. And those killings Tove showed us must be connected. I do not know how, but the coincidence is too much,” intoned Senna.
+
+“Who cares. Someone’s killing our forest, killing our people, and taking our food. We can’t keep twiddling our thumbs,” snapped Rosk.
+
+“I didn’t say we should!” retorted Senna. “Frankly, I agree with you. Even if you are a hard headed—”
+
+“Both of you!” barked Gael. “Enough. Please. This is becoming tiresome. Let me think.”
+
+Muttering, they both quelled and looked impatiently to Elder Gael.
+
+For her part, she went over the evidence. Yet, no matter how she adjusted the pieces, they just didn’t fit. Like a puzzle that wasn’t right. “From everything we’ve seen, the dying sphere of the forest is growing. You said it was at the end of your journey to the west?”
+
+“Yes elder,” confirmed Chen.
+
+“It’s growing. That’s true enough… Which means we need to find out why, and soon.”
+
+Beating Senna to her next outburst, she rushed to continue on. “However, the first rumors we heard of were over a month ago. So we do have some time. I think we need to go deeper. Find out what’s at the heart of this corrupted land.”
+
+Chen coughed awkwardly. “Elder, I don’t know if that’s possible. When we stepped onto those sands, it was like we’d been sick for a week. Every step was harder, the air thicker, and the smells.. I don’t know how deep that evil place is. But going into it is going to be quite the challenge.”
+
+“Tsk. I can make something to help,” sighed Senna. “An herbal recipe.”
+
+“It’s settled, then. Chen. Your team will return with Senna’s mixture and try to penetrate deeper. We’ll also be sending the other scouting team to survey more of the eastern clans for anything else. Time is short, but we shouldn’t be hasty.”
+
+Gael said as much, at least. She just didn’t truly know if she believed it.
+
+***
+
+The sound of rustling cloth filled the citadel. Sythara was on one knee, polishing and rubbing Veron’s marbled skin. Running tests.
+
+“This is… well, this is one more contradiction to everything I thought possible. Corruption intermingling with an unknown energy, resulting in a marble-like cocoon. The subject alive inside it? Is he conscious? Can he hear us? Can he see us?” breathed Sythara. Her elegant hands ran up and down the torso.
+
+“What is she doing?” asked Vorathrex, voice booming. Sythara didn’t even look up.
+
+“A root cause analysis,” muttered the demoness. “Never heard of it, pit dweller?”
+
+For the first time, the big guy didn’t take the bait. He only looked to Kairon for a genuine answer.
+
+“She’s working on identifying the root cause of what occurred here. That will hopefully help us find a method to revitalize Veron. Which, I will stress, is strictly in the observation tier of research.” The city lord directed that second bit at Sythara.
+
+“I know, child. I know. I can still enjoy the learning,” she replied quietly, shadowy tendrils tightening around her. “Our agreement left that much to me.”
+
+The city lord thought that was appropriate. For now.
+
+“Anyway. Shiny. Vorathrex. You both have your duties to the city. Speaking of, I wanted to make sure we’re all on the same page. Our little abode has found itself in a… familiar situation.”
+
+“You mean more angry humans, not enough time?” His wrath councilor cracked his neck, four arms flexing restlessly. Every time he saw those massive biceps and veiny muscles, he was once again reminded just how tremendously strong Vorathrex was. Kairon still hadn’t understood the root of what he’d paid for all those weeks ago, but whatever it was left him with ample power.
+
+“Yeahhhh. You could say that,” he said.
+
+Shiny crossed his little arms, claws at his chest. “Master. What bout human friend? Say anything? Help at all?”
+
+“Hector was very tight lipped about paladins. Whenever I asked, he became quite slippery.”
+
+“Why? You made deals?”
+
+“We did. But I suspect part of Hector was just giving in to his fascinations of demons, magic, and the unholy. And the other piece of him is playing both sides. If we survive the paladins, he’s made himself the only human middleman between us and the rest of their race.”
+
+“If fail?” asked Shiny, his impish brows furrowed in concern.
+
+Vorathrex yawned, showing just what he thought about that. “Then we deserve to fail, and are too weak.”
+
+“Then, for Hector,” replied Kairon, giving a very disapproving glance at the big demon, “he probably has some scheme in mind to frame this all as some elaborate hoax with him as the victim. Whether it will work or not, I don’t know. At least, that’s what I’d do in his shoes. Although… I’m still missing a lot of important information. Even after spending the entire day with that lordling, I feel like I only managed to pry loose pieces and chunks about Valdren and The Solari.”
+
+“And green folk.”
+
+“Yes. And those,” sighed Kairon. “Anyway, trust that your master has plans.”
+
+“Tricks, you mean.”
+
+Vorathrex’s shifting replies were… jarring. One moment he was an intelligent, politically savvy individual. The next, an all consuming demon that only respected strength. Almost as if he had two personalities, each clashing for dominance.
+
+The demon was formulating an acceptable reply when Bean came scampering into the citadel. Behind, Nod followed.
+
+“Harvest today!” chittered Bean excitedly. His orange spotted claws trembled with eagerness.
+
+“Morning, Bean. Correct! Today’s the harvest. And, just in time. I’m planning on making a second ashroot farm today, before we move on to the ritual circle for Sythara.”
+
+“Why? Food pile big.”
+
+“Yes… But we just dropped below two hundred food. At our population, that’s about half a week’s worth.”
+
+The little imp frowned. “But… so much! And now two farm?! Need more imp. Already so busy!”
+
+Shiny’s nose scrunched in irritation. “Not now Bean. Master need wood. More brood go there. Right master?”
+
+“Uh oh,” muttered Nod. It was sensible that the demonic resources manager was the first to worry about internal conflict. “Remain respectful!” he chimed in helpfully.
+
+Vorathrex snorted. “You can see to the food preparations. I am going to train the warriors. With what is on the wind, they are going to need it.” The big demon grunted, took one last long glance at Veron’s marbled torso, and then thudded outside.
+
+Kairon cocked his head at the imps. “You both realize that I charted this and…” Then, another thought struck him. “Shiny, how much wood do you believe we have?”
+
+The little supervisor shrugged. “Small pile. Need bigger pile.”
+
+They both keep describing resources in terms of how large the pile looks in the stockpile. But I know they can count.
+
+Kairon decided to test this.
+
+“Bean. How many workers do you have on your farm? Including you.”
+
+“Five!”
+
+“Shiny? How many imps do we currently have on Timber?”
+
+“Fourteen.”
+
+“Correct. So you both know numbers. Why don’t you use them for your resources?”
+
+His managers shuffled uncertainly, clawed feet moving the bits of dust and rubble left over on the tower flooring. Neither spoke up.
+
+“Oh, come now. Shiny, you watch the stockpile. Don’t you count what goes in and out?”
+
+“At first. But big stick more. Small stick less.”
+
+“Right, right. The system doesn’t value each item equally. But don’t you at least try and keep count?”
+
+“Remember hard. Too much,” added the imp.
+
+Pausing, the demon thought on this. The issue was clear. They needed book-keeping. Something simple enough his management could use, but more permanent than the sand charts that blew away each night.
+
+How had early settlements dealt with this? He went back through his mind, a catalog of thousands of tickets worked flashing through his thoughts.
+
+One such ticket pressed to the surface. An early civilization that submitted a complaint about a neighboring settlement over regional jurisdiction. That wasn’t what he cared about. He was more interested in a side story that the investigation had taken him to.
+
+“I… have an idea. I believe I know how to resolve this. Bean, I need you to dig by that riverbed for me. We’re going to need clay, or whatever mud this place has resembling it. Nod, Shiny. You come too. Today is going to be a training session!”

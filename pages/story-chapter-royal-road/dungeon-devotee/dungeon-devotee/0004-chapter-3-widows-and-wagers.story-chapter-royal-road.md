@@ -1,0 +1,421 @@
+---
+id: e89dc6f6-776e-5acc-8018-6ec3b3b43f7a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3: Widows and Wagers"
+slug: 0004-chapter-3-widows-and-wagers
+partOf: dungeon-devotee
+position: 4
+ownLength: 6345
+unit: words
+ownProgress: 6345
+publishedAt: 2022-02-19
+link: "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/848908/chapter-3-widows-and-wagers"
+royalRoadId: "848908"
+markedReadAt: "2026-06-29T22:37:08.958Z"
+---
+
+“I hate this level,” Liam greeted Edmund the moment he stepped out onto the third floor. The hallucination had apparently been waiting for him.
+
+Edmund blinked, casting his gaze to both sides in search of danger before daring reply. “You hate it, why?”
+
+“I could never quite put my finger on it,” Liam said, tapping the side of his face as if deep in thought. “I think it’s something about the way they move.”
+
+“The way what move?”
+
+Liam waved him off. “You’ll see, you’ll see.”
+
+Edmund looked past the apparition to fully take in his surroundings. He spotted nothing that moved—disconcertingly or otherwise. His only clues as to Liam’s meaning came in the form of the shape and appearance of the floor on which he found himself.
+
+Gone were the wooden panels of the first floor or the crossbeams and roots of the second. Nothing but bare dirt lined the walls, the passage split into segments by regular wooden arches supporting the ceiling. The same smokeless torches lit the way, and the same packed-earth supported Edmund’s weight.
+
+Unlike the two floors he’d visited thus far, the third floor was neither a wide open room nor a maze of tight hallways, but something in between. The hallway in which he stood was just that—a hallway—but the space stretched wide enough that Edmund could extend both his arms to their fullest and still fail to reach either wall by over a foot. That told him one of two things. Either whatever enemies lurked ahead would require him to maneuver in order to defeat, or they were simply too large to fit in a smaller space.
+
+He sincerely hoped it would be the former.
+
+Palming the knife at his waist, Edmund turned his gaze back towards Liam. “It’s a cellar again.”
+
+Liam raised an eyebrow at him.
+
+“All three levels so far have looked like cellars,” Edmund explained. “Why?”
+
+“You really are the least prepared delver that’s ever been in here,” Liam said. “It’s an introductory theme.”
+
+After several seconds of silence in which Edmund stared at Liam and Liam didn’t elaborate, Edmund finally gave in and asked the question. “What’s an introductory theme?”
+
+“The first four floors are instanced—separate for separate groups—and they always share a theme. It’s to give new delvers a sense of familiarity. You got the ‘cellar’ theme.”
+
+Edmund didn’t bother asking why a sense of familiarity was important for new delvers. He assumed it made killing them easier for the dungeon. Instead, another question arose. “Why the first four floors?”
+
+“Too many delvers. Half of all people don’t survive their deadliest day, which puts half of all people somewhere in the first few floors. If they weren’t instanced, that first floor would have to be the size of a city.”
+
+“And why four?”
+
+Liam sighed, visibly tiring of the questions. “The fifth floor’s the first hub. It’s not instanced specifically so delvers can meet up with merchants and other delvers. Groups usually join together to make up for lost members. After that it’s random. Some floors are instanced, some aren’t, at least until floor fifty or so. By then there are few enough delvers per floor that nothing’s instanced.”
+
+“How do you know all this?”
+
+Liam blinked at him. “This is basic info, Edmund. How do you not know all this?”
+
+“If you know so much, what kinds of monsters and traps are on this floor?”
+
+Liam tilted his head to the left. “That would be telling.”
+
+Edmund growled. “And what can you tell me?”
+
+“I think I’ve answered enough questions for now,” Liam said. “It’s your turn.”
+
+“What?”
+
+Liam stared directly in Edmund’s eyes, a sudden intensity filling his gaze. “Why are you here?”
+
+“Revenge,” Edmund put simply. “I’m going to destroy this place.”
+
+“I know that. Why? What are you getting revenge for?”
+
+Edmund didn’t answer.
+
+“That’s what I thought.” Liam exhaled sharply through his nose. “How about a wager, then?”
+
+Edmund narrowed his eyes. “What kind of wager?”
+
+“Let’s say… last floor you managed to find a secret that nobody’s ever found before. If you can find a secret on this floor, I’ll answer one question for you. If you can’t, you tell me why you came here.”
+
+Suspicion arose in the back of Edmund’s mind. His hands stuck with sweat. He leaned in. “What aren’t you telling me?”
+
+Liam laughed. “There’s an awful lot I’m not telling you. I don’t think you could comprehend exactly how much I’m currently not telling you.” He cracked his signature grin and held out his right hand as if to shake. “Do we have a bet?”
+
+“You’re on.” Edmund went to shake Liam’s hand, but his own passed right through the incorporeal vision.
+
+“Wonderful,” Liam said. “Best of luck, then. Try not to die.”
+
+Edmund opened his mouth to reply, but before a word could escape his lips, Liam had vanished. He sighed. With every passing day he grew more and more tired of the hallucination, valuable information or otherwise. Edmund sincerely hoped his Madness offered more than a blabbering imaginary friend, though if his suspicions were right about the strange floating text he kept seeing, it did.
+
+Strange bets with hallucinatory dead adventurers aside, Edmund set his focus on the hall ahead of him. Drawing his sword, he set out down the passage at a careful pace.
+
+He kept his eyes peeled for any signs of ambush, from things peeking out behind the wooden supports to the slightest bit of dirt out of place. He knew, of course, that the dungeon accords forbid deadly ambushes this early, but relying on the protection of the accords would only solidify bad habits, habits that would get him killed later on.
+
+Besides, he didn’t particularly fancy taking another spear in the leg. An ambush could be non-lethal and still hurt.
+
+Every few steps he slammed the pommel of his sword into the wall on either side, searching for loose dirt or the signature hollow noise of a secret passage or compartment.
+
+He found nothing.
+
+Edmund passed under three of the arch-supports as he progressed, tapping and analyzing every inch of the simple wooden constructs for hidden switches or mechanisms. Again, he found nothing.
+
+Beginning to suspect Liam had set him on this secret-hunt to distract him, Edmund put the idea out of his mind, redirecting his focus purely towards clearing the floor. He could continue his search once he knew there were no monsters waiting to pounce while he was distracted knocking on a dirt wall.
+
+The wide hall came to an end at a T-junction, the way ahead splitting left and right at ninety degrees. Rather than stepping directly into the adjoining hall, Edmund leaned down to peek his head out. He found a problem.
+
+Some twenty paces down the hall in each direction, a spider awaited. Their bodies alone stretched easily two feet across, four if he included the space their legs took up. Each had an identical carapace, hairless and smooth with solid chitin. Their legs were long and thin, each ending in a stiletto-sharp point. They glimmered pale gray in the torchlight. Soon enough, Madness did its work.
+
+Lesser Pale Widow
+
+The smoke-like letters vanished as quickly as they’d appeared, leaving Edmund with both a question and an answer. The lack of description confirmed that like the rootmother, he’d get nothing more than a name until the monster was dead. The name itself begged he wonder, if these were lesser pale widows, how big was a greater one?
+
+Edmund decided he’d rather not find out.
+
+As he retreated back into the hall from whence he’d come, Edmund pondered the dilemma before him. He’d have to travel down one of the two paths, meaning he’d have to fight one of the spiders first. While he did so, his back would be turned to the other one. While he could certainly hope the distance between the two would prevent the second from attacking, a patented combination of pessimism and paranoia refused to allow that.
+
+After a few minutes of trying and failing to come up with a way to use his Strethian Lash to bar the second spider from entering the fight, Edmund came to the only real conclusion available.
+
+He’d have to kill the first spider before the second could get to him.
+
+He didn’t like it. Without knowing how tough the carapace would be to pierce meant going in without a solid plan. Beyond that, on such a short clock, he couldn’t depend on the pestilence damage from Rat’s Fang to accomplish much of anything. He’d have to rely on the fighting style he’d cultivated against the giant rats and practiced against the rootmother.
+
+He’d charge in and deal as much damage as possible as quickly as he could with little regard for what wounds he took in return. The prospect of facing the second spider while injured gave him some pause, but no other option presented itself. Besides, ruthlessness had gotten him this far.
+
+Gripping his sword in both hands, Edmund swallowed back the knot in his throat, steeled his spirit, and charged.
+
+His heart raced as he rounded the corner and ran down the leftward passage, choosing his direction such that he could more easily keep his sword poised for a forehand strike. The moment his foot passed the threshold, both spiders leapt into action.
+
+Edmund was faster.
+
+His worn leather boots pounded against the dirt floor in time with the waves of adrenaline running through him. When he reached his target, he realized a new problem.
+
+The spider outreached him.
+
+With its hind legs it lunged forward, raising its two front legs and extending them to their full six-foot length.
+
+Two stiletto-sharp spider legs pierced Edmund’s abdomen before he was even close enough to take a swing. Pain exploded in his belly as the beast impaled him, but he couldn’t stop. Already he could hear the second spider skittering behind him. At least, given the nature of the spider’s joints, it couldn’t aim for his heart without exposing its underbelly. A gut wound, while horrifically painful and slow to heal even for Perseverance, didn’t stop him.
+
+Edmund stepped forward, driving the spider legs deeper into his abdomen. Blood dripped down his waist and hips. Agony raged behind the fog of adrenaline he so depended on.
+
+But Edmund couldn’t stop.
+
+His sudden forward motion pushed the widow off balance, jerking its front-section up as its legs bent to accommodate Edmund’s push. It was all the opening he needed.
+
+While the thing scrambled to regain its balance, Edmund plunged his rusty sword past the two venomous fangs, into the spider’s maw, and through the back of its mouth. The only indication he received of the thing’s death was the sudden burst of agony as the two legs still embedded in his stomach curled in on themselves.
+
+He wrenched himself away, yanking his sword free from the fallen spider in the same motion as he pulled himself from the legs impaling him. A fresh wave of pain greeted him hand in hand with the blood that poured from the now-open wound, but Edmund had long trained himself against pausing for such things.
+
+He spun around, bringing his blade about just in time to sweep away a fresh attack from the second spider. Dull as it was, his sword failed to more than bat the two legs aside, but that was all the opening he’d need.
+
+Edmund darted in, stepping past the spider’s reach. Rather than trying to re-maneuver his sword from its position off to the side, he let it fall to the ground, his hand ducking to his waist to draw his dagger.
+
+Holding it underhand, Edmund maintained his momentum towards the giant spider, using it to back up his every ounce of strength as he swung his arm in a great arc, plunging Rat’s Fang into the top of the widow’s head.
+
+Both he and the spider came to a halt.
+
+The beast twitched.
+
+Edmund’s heart raced. Pain ran up his spine. Blood gushed from his wounds.
+
+The spider curled up and died.
+
+Edmund let out a breath, relief flooding through him for a few precious moments before the adrenaline faded and the full force of his wounds bore down upon him. Somehow, through the storm of pain and rage and warm blood dripping down his lower half, another sensation caught his notice, not one of pain, but of pressure.
+
+He looked down.
+
+Just below the two stab wounds in his abdomen, one of the dead widow’s fangs pressed against his exposed skin, dripping venom down his waist.
+
+His eyes wide, Edmund carefully pulled back, leveraging the dagger still-implanted in the spider’s carapace to simultaneously push the corpse away. As the fang came away, the skin of his belly bounced back unbroken.
+
+Edmund fell back, not caring how hard he struck the ground as thoughts of his close call echoed through his mind. He muttered prayers of thanks to every god he could think of, to the demon kings, to the eldritch icons, to Thrax himself. Most of all he whispered thanks for the barkskin ring around his finger, without which he knew the spider fang would’ve delivered its deadly payload.
+
+He took a breath. In. Out. He forced himself to sit upright, grimacing through the pain as he dragged himself to the closed wall and leaned against it. At least this way if another spider wandered in, he’d see it coming.
+
+Sustenance trickled into him as his bare back pressed against the packed-dirt wall, fueling his body’s efforts to knit itself back together. Once he’d caught his breath, come to terms with how close he’d been to dying, and made reasonably sure nothing had heard his fight and come looking for him, Edmund mentally reviewed the fight. One conclusion stood out. With his limited arsenal, Edmund could think of precious few ways he could take down another spider without sustaining injuries, not with them outreaching him as much as they did.
+
+“I need a new spear.”
+
+“Say please.” Liam’s voice made Edmund flinch as it appeared out of nowhere.
+
+Edmund turned to find the hallucination standing casually over one of the rapidly-dissolving spiders. “What are you talking about?”
+
+Liam grinned and tilted his gaze up at the ceiling. “The dungeon can hear you, you know. Ask and you shall receive, and all that.” He winked. “It doesn’t hurt to be polite.”
+
+With a groan, Edmund looked up—as if the dungeon were above him rather than all around him—and repeated his statement. “I need a new spear, please.”
+
+“We’ll have to work on your tone,” Liam quipped. “But I’m sure that’ll do for now.”
+
+“Where do you keep—” Before Edmund could even finish his statement, Liam had vanished once more. “Asshole,” he grumbled.
+
+It took just under an hour for Perseverance to patch him back up, a full third of the time he’d expected. It appeared even though the description hadn’t changed, progressing his Aspect to level two had significantly increased its power. An hour, of course, was beyond an eternity in battle, but even if he never reached the point where Perseverance could heal a wound mid-fight, increasing the scope of what he could and couldn’t recover from could prove invaluable.
+
+His injuries sealed shut, Edmund stood, stooped over to collect his sword and dagger from where they’d fallen, and set out once more.
+
+Both of the two possible directions came to ends at right-angled turns, effectively splitting the original hallway into two parallel paths. Since, as far as Edmund could tell, both halls traveled in the same general direction—away from the entrance—he simply continued on down the leftward path he’d originally taken.
+
+He allowed his pace to quicken somewhat, maintaining his careful eye for traps and ambushes while reducing the thoroughness with which he checked for secrets. He could always circle back if he didn’t find anything before clearing the floor.
+
+It wasn’t long before the hall opened up into a wide chamber, the wall to Edmund’s left continuing on while the one on the right gave way to the massive open space. If he’d craned his neck to the right, he might’ve seen the other hallway leading into the same room from the other side. He didn’t.
+
+He only saw the spider.
+
+Edmund didn’t need the ethereal text to know this was no lesser pale widow. It came anyway.
+
+Pale Widow
+
+He gulped.
+
+Even with its legs bent, the thing was as tall as him. Its carapace stretched easily five feet across and three thick, posing Edmund a twofold challenge. He’d not only have to somehow reach the thing, but strike in a place his weapons were long enough to deal lethal damage.
+
+His Madness conjured the same image of a floating crown above the spider’s head he’d seen on the rootmother, though the widow’s name was noticeably the normal smoky gray rather than the rootmother’s angry red. Edmund took that to mean the thing was a boss, but not a rare spawn. He took by the still-closed exit door behind it that it wasn’t optional either.
+
+He grimaced.
+
+A number of plans presented themselves as Edmund appraised the beast from a safe distance, but one by one they fell apart. If he tried to get under it and attack from below, the massive spider could easily just crush him under its body weight. Similarly, even if he could somehow get on top of the thing, the ceiling was low enough and its legs long enough that the beast could slam him against it. From the front, sides, and back, he’d never get close enough to the carapace to strike a lethal blow.
+
+The longer he stood there, the more he planned and plotted and analyzed, the more plans he crafted and dismissed, the more certain Edmund became that he only had one option.
+
+He had to take it down.
+
+At first he reached for his sword, only stopping when he remembered what’d happened when he’d swung it at a spider’s legs before. The dull blade had simply batted them away rather than cutting through. While Edmund held out some hope that the comparatively massive widow before him would have a bit more inertia, he couldn’t trust his sword to deal real damage to anything as readily mobile as one of eight legs.
+
+With a gulp, he pulled his hand away from the sword at his waist and moved instead for the rope over his shoulder.
+
+Strethian Lash
+
+When swung at a target, strands of root will unravel and attempt to grasp it.
+
+As his heart fell back into the familiar pounding rhythm he’d come to associate with battle, Edmund split the coil between his two hands, took a deep breath, and stepped into the boss room.
+
+The widow reacted immediately.
+
+A brutal screech filled the chamber, specks of venom and spittle spraying from the beast’s mouth as it roared. Edmund stepped forward.
+
+The spider charged him, setting a frightening pace across the open room. Its pointed legs sunk an inch into the dirt with each stride, giving a solidity to the widow’s motion the lesser versions had lacked. This thing didn’t skitter. It stampeded.
+
+Edmund waited as long as he could. In the tight quarters he’d fought in so far, he’d yet to have a good opportunity to practice with his rope, and if he made a mistake, Thrax knew he wouldn’t get any second chances.
+
+Despite the difference in size, the widow went for the same basic attack as its predecessors, simply running in, stopping, and aiming for a piercing strike with its two front legs. Edmund was ready for it.
+
+The moment the thing’s front legs left the floor, Edmund dove forward and to the right, leaping as close as he could get to the three left legs still on the ground. He landed in a roll, miss-executing the maneuver just enough for two of his vertebrae to bruise against the hard earth. Still he kept moving, coming up onto his left knee and throwing the lash with his right hand.
+
+The coil straightened into a line as it flew, arcing around the outside of the widow’s legs and colliding with two of them. The reaction was immediate, as threads of roots burst from the weave to wrap around the two spider legs, effectively binding them together. Edmund grinned. He’d hoped for that.
+
+What he hadn’t hoped for was the loose end of the rope to continue falling until it struck the ground. The tip unraveled where it struck, splitting into a dozen, then three dozen individual strands of root that then burrowed into the dirt.
+
+He had an anchor point.
+
+Edmund grinned. Tossing aside his plan of tying its legs together, he pushed himself to his feet and darted not away from the beast, but towards it. Gods knew how long the lash would hold it, and he needed to secure its other side before it could break free.
+
+Loop after loop unwound from the coil in his left hand as he ran, his rope a resource of limited range now that one end had planted itself into the ground. If he missed his next throw, the free end would bind itself into the dirt, and he’d be able to throw his rope no more.
+
+The widow screeched and yanked at its stuck legs, opting to lash out with its free rear limbs rather than trying to turn around. Edmund saw the strike coming from above, diving forward in an attempt to outrun it.
+
+The blow pierced his left calf, drawing blood and sending a jolt of pain up Edmund’s spine, but it landed enough to the side that it took only flesh with it. Blood dripped down his leg as his foot went limp, but he managed to tear himself away rather than being pinned to earth.
+
+He landed on his face, desperately keeping his left hand up to keep the coil of rope from hitting the ground. If it dug in now, his plan would fall apart.
+
+Without pushing himself up, without taking careful aim, Edmund craned his neck to line up his throw, and let loose.
+
+The lash only snagged a single leg before falling to the dirt and burrowing in. It’d have to do.
+
+On instinct more so than any tangible bit of information, Edmund rolled to his right just as a spider leg slammed into the ground where his head had been. His heart raced.
+
+Adrenaline blocking out any sense of fear or realization of how close he’d come to death, he pushed himself to his feet. A quick test confirmed his injured calf couldn’t handle his weight, so he hopped with as much haste as he could manage back to the two legs he’d first bound. He drew his sword as he moved.
+
+As he reached the leg directly anchored to the ground, he grabbed it with his left hand to stabilize himself. The sharp chitin sliced into his palm as the spider tried and failed to jerk the leg free, but Edmund didn’t care. He raised his sword, and he swung.
+
+The result was immediate and twofold. Under the force of his own adrenaline and Obsession-infused strength, the rusty blade snapped in two. At the same moment, blue blood sprayed from the spider’s leg. The loss of hydraulic pressure within the limb caused it to buckle, putting a definite end to the widow’s attempts to yank it loose.
+
+Edmund fell more than stepped to the next tied-up leg, again stabilizing himself against it. As he watched the first limb collapse, he realized he didn’t need to sever any tendons or cut any joints, he needed only to poke a hole and let the pressure do the rest.
+
+He spun the broken sword in his hand, reversing to an underhanded grip, plunged the jagged end into the second leg.
+
+With the loss of two of its legs, the widow had no choice but to plant its remaining left legs into the ground else it fall over. They made perfect targets for Edmund’s blade. One by one he drained the thing’s left legs of their hemolymph. The ground itself shuddered as the beast collapsed into the dirt. From there it was a simple task of plunging Rat’s Fang into its eye.
+
+A chime rang out.
+
+The door swung open.
+
+A wooden chest arose from the floor.
+
+Edmund fell back onto the ground, sitting upright as he gazed at the dead widow and grinned a cheshire grin. Another floor cleared.
+
+He took a few moments to catch his breath, allowing the stress of combat to give way to the relief of survival and joy of victory. While his leg recovered, he shut his eyes and allowed his constellation to fade into view. He had an Aspect to select.
+
+Having combined all the Aspects he had, only the base options remained open. As per expectation, Madness and Perseverance already glowed stably with their positions in his soul, while the three celestial Aspects remained locked away. At some point he’d want to form a pact with a celestial being—most likely an eldritch icon given Eldritch’s proximity to Madness—but that would have to wait.
+
+For the first time, Edmund looked over his options and nothing immediately came to mind.
+
+Given that none of the base Aspects glowed with any more resonance than the dull gray that was the baseline, he’d have to judge his choice by two parameters: how well it filled a gap in his abilities, and how well it would combine with Madness.
+
+Unfortunately, the various combinations of Madness hadn’t been well mapped out, an understandable truth given the Aspect’s unpopularity. Somebody out there probably knew what he could make with it, but Edmund certainly didn’t. He’d be left making guesses.
+
+Chaos and Death both shared some similarities with Madness, which, if nothing else, implied they’d work well together. Alternatively, Strength and Agility, while simple, were both traits he used extensively in combat. The higher-concept Aspects like Spirit and Unity felt like they’d be more powerful combined with other Aspects than on their own, and Edmund couldn’t afford to give up immediate power. Not here.
+
+Only a single Aspect glimmered an even slightly different color than the collection of grays that filled his vision. The barest hint of red shone through in a distant corner, an Aspect Edmund had never once considered resonant.
+
+Solitude beckoned.
+
+Edmund found it curious. He’d never considered himself a solitary person. For most of his life he’d surrounded himself with others.
+
+Yet there he was. Alone.
+
+A part of him rejected the Aspect, still held out hope he’d find a party to travel with or companions with which to share his burdens. Another knew that could never happen, that he could never, in good conscience, drag another human being down the path he trod.
+
+In the end, it wasn’t resonance nor proximity nor even an idea of what the Aspect would do that made Edmund’s decision for him, but an inkling that its power might come with a condition he’d already fulfilled. If nothing else, it’d be that much stronger for the next floor, add that much to his chances at survival. That was enough. He took a breath, reviewed his previous choices and the options before him once more, and made his decision.
+
+The Aspect of Solitude solidified itself within his soul.
+
+Tier 1 Aspect: Solitude - Red Resonance
+
+Level 1 - Gain increased constitution while fighting alone.
+
+It was a simple ability, passive just like the ones before it, but Edmund could already see its potential. Considering he always fought alone, he expected the conditional Aspect to prove comparatively stronger than any other of the same level, tier, and resonance. With a grin, he opened his eyes and let his constellation fade away.
+
+Liam was waiting for him, standing over the distinctly long and narrow loot chest with a smug look on his face. “Ask and you shall receive.”
+
+Edmund sighed, stopping to run a hand over his injured calf. The wound was still raw beneath the hole in his Strethian barkbreeches, but a quick test proved his leg could take enough weight for him to limp over to his loot. “You don’t have to gloat,” he muttered as he swung open the wooden chest to reveal the spear within.
+
+“I don’t have to,” Liam said. “But I want to.”
+
+Edmund ignored him, picking up the strange weapon. The thing had a clear point and base, but the shaft was divided into eight segments of unequal length. Some kind of mechanism stuck out from the bottom end. Before he could ask, the ethereal letters explained.
+
+Spiderleg Spear
+
+A spear in segments. Twist the handle on the base to unlock, then push or pull to bend the joints.
+
+With a scowl, Edmund turned the pale chitin weapon over in his hand and grasped the handle on the base. With a twist it came loose, and he found as he pulled it the segments along the shaft bent. Pulled all the way, he found he held a long J-hook rather than a spear. At the moment, he couldn’t quite fathom how that might be useful, but he felt certain it was.
+
+With a nod, he re-straightened the spear to its full eight-foot length, twisted the handle to lock its shape and looked up to Liam. “Now I just need a way to carry this around without occupying my hands.”
+
+Liam rolled his eyes. “It’s just want want want with you, isn’t it?”
+
+Edmund blinked. “That reminds me, I have a secret to find.” As he turned and left, Liam called out to Edmund’s back.
+
+“Good luck with that!”
+
+Edmund did what he did best, and ignored him.
+
+His first order of business was to fully explore the floor’s layout, a task which took no more than three minutes. As it turned out, both prongs of the fork led to the same boss chamber, leaving Edmund with one room and a loop of hallway to search. He got to work.
+
+Approximately two hours of poking, prodding, knocking, and squinting at dirt later, he began to suspect he might’ve been played. If there was a secret, it couldn’t have been that well hidden, could it?
+
+But Edmund was nothing if not thorough.
+
+The shape of the parallel hallways left a perfectly square section of wall in the center of the floor, a space within the level’s layout that practically screamed unused space. If there was anything to find, that’d be where.
+
+But after another hour of analyzing every inch of central wall, Edmund had nothing.
+
+Liam yawned. “Are you finished yet?”
+
+“Almost.” Edmund scowled. “There’s something I’m missing.”
+
+“Ooh, I know this! Is it sanity? Happiness? A sense of self-preservation?”
+
+“You practically told me there was a secret on this level,” Edmund said. “You wouldn’t have done that if there was nothing to find.”
+
+“Unless I made that wager specifically knowing there was nothing to find,” Liam said.
+
+Edmund sighed. “Maybe you’re right, but I think I still have something left to try.”
+
+Liam raised an eyebrow. “You do?”
+
+Edmund nodded. “Madness doesn’t give me descriptions of things after I kill them. It didn’t for the rootmother, it didn’t for any of the pale widows, but it did for that first Strethian tender. It gave me a very specific description that helped me find the tunnel.”
+
+“So?”
+
+“So Madness can help me find secrets,” Edmund reasoned. “I just need to figure out a way to activate it.” He ignored whatever scathing retort Liam had prepared so that he could shut his eyes and bring up his constellation once more. This time, instead of watching the overview or reading the descriptions of his various abilities, he focused in on the prismatic glow of Madness.
+
+He zoomed in his mind’s eye, cutting his field of view until only Madness filled his vision with its blinding every-colored light. He watched it glow, brilliant and solid as a fixture of his very being. It beckoned to him, and he reached out in response.
+
+The world flashed white, and Edmund’s eyes shot open. The prismatic light lingered in his view as an afterimage, floating about the room as his gaze shifted. As he watched it shifted from a shapeless blob into first a square, then a vertical rectangle, then finally, an outline of a door. He blinked once, and then it settled upon the wall.
+
+His heart in his throat, Edmund approached the illusory door, extended his hand, and grasped the handle. It felt real and unreal at once in his grasp, somehow both there and not. He turned the knob, pulled it open, and revealed a small room beyond. With a grin, he turned to Liam. “Looks like I w—”
+
+“I have to go,” Liam cut him off, his words uncharacteristically sudden and sharp, tinged both with the brightness of shock and the subtle lingering darkness of something Edmund’d never expected to hear from the hallucination.
+
+Fear.
+
+By the time the words even registered in Edmund’s mind, Liam was already gone. “You still owe me a question!” he yelled into the empty air. The empty air didn’t reply.
+
+With a sigh, Edmund turned away from the boss room and stepped into the secret chamber, approaching the silver chest that was its only occupant. He swung it open to reveal a cuirass the same pale gray as the spiders.
+
+Pale Widow’s Carapace
+
+Provides protection against piercing and poison damage. Vulnerable to blunt-force damage.
+
+Edmund didn’t hesitate to don the chest piece, finding it fit perfectly upon his wiry form. The concept of armor weak to blunt force struck him as strange, but any protection would be better than bare skin. He called upon Madness once more in an attempt to check for further secrets, but without his certainty that there was something to find, the smoke didn’t appear. After a quick scan of the tiny room to confirm he wasn’t missing anything, he returned to the boss room.
+
+The pale widow had long since dissolved, and the dungeon seemed to bear no intention of respawning the boss monster. Disappointed he wouldn’t have a chance to practice against it, Edmund decided he could still use the open space to train with his Strethian lash.
+
+But first he had to get it out of the floor.
+
+While the spots that had wrapped themselves around the widow’s legs had rewoven back into the rope proper, both ends still anchored themselves in the dirt. Edmund tried everything to get them free. He pulled from every angle, he tried and failed to dig into the ground, he even attempted to trigger Madness again on the woven roots. Nothing worked.
+
+For a moment he wished Liam was there to offer advice, but the hallucination had yet to return after whatever had spooked him. With a sigh, Edmund turned to his last resort.
+
+He drew Rat’s Fang.
+
+By his reckoning, cutting the rope free cost him a few feet of length on either end, a not particularly significant loss given its fifty-foot starting length. The more disheartening discovery was the realization that he’d likely lose as much every time he had to anchor the rope into the floor, walls, or ceiling. He supposed it made sense. All gear wore down eventually, and a tool as powerful as the Strethian lash should have a limited number of uses.
+
+The trouble was, a limited number of uses made it awfully difficult to practice with the damn thing. As he re-coiled it and slung it back over his shoulder, Edmund resolved to buy a mundane length of rope when he reached the fifth floor, if for nothing else than to practice without depleting his lash.
+
+For the time being, he set his practice aside, lay his spear and his rope and his dagger on the ground, unclasped and removed his cuirass, and curled up on the dirt floor.
+
+His sigil of the rootmother replenished his body’s nutrient and water supply as he slept, leaving him fresh and ready for the next day’s work when he finally awoke. With his jaw set and his plan laid out, Edmund moved not for the exit, but for parallel hallways.
+
+The dungeon might’ve denied him the chance to practice against the boss, but lesser pale widows still appeared every hour like clockwork. Holding his spear not with the white-knuckled grip of desperation but with the loose and flexible grasp of an experienced fighter, Edmund faced down the spiders that had once given him such trouble, and went to work.
+
+He spent nine days fighting the lesser widows, tracking the progress of time not in ticking seconds or night’s sleeps, but in the nigh-imperceptible boosts in strength and agility from pursuing his Obsession. He fought them one-handed. He fought unarmored. He fought them faking injuries to every body part and extremity he could think of. He fought them with his spear, his dagger, the broken edge of his sword. He tore at their limbs with bare hands and wielded their own stiletto-legs against them.
+
+He fought and he fought and he fought. For lack of an instructor he forewent technique, passing up on tactics in favor of sheer brutality and deadly instinct.
+
+By the tenth time Edmund’s strength ticked up, by the time he’d beaten every lesson the widows had to teach into his very being, Liam still hadn’t returned.
+
+It was alone that Edmund left the spiders behind, returned to the empty boss room that had become his camp, gathered his meager belongings, and gazed into the gloom between floors. He cast one final thought for how far he’d come, how much he’d achieved, and how unfathomably further he still had to go, before deciding to move on. Whatever Edmund had done to so frighten Liam would have to wait until he cleared the next floor.
+
+So with a nod, a stony expression, and a spear in his hand, Edmund stepped into the darkness.

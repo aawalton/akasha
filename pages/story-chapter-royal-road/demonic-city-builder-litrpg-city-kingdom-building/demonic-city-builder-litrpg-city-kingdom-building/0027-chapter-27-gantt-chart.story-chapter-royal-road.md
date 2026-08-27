@@ -1,0 +1,261 @@
+---
+id: 96f18a3c-dff2-5e82-a7b7-e34d4929493e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27 - Gantt Chart"
+slug: 0027-chapter-27-gantt-chart
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 27
+ownLength: 2395
+unit: words
+publishedAt: 2026-06-06
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3499439/chapter-27-gantt-chart"
+royalRoadId: "3499439"
+---
+
+Nine building slots. Each.
+
+Both of his new districts could support an additional eighteen buildings. Mathematically, it made sense. The rings closer to the tower would be much smaller in area.
+
+But triple the number of building options? He hadn’t expected that.
+
+“Shiny, this is Sythara,” introduced Kairon.
+
+The little brood imp had joined them inside the tower, his cheeks and face still smudged with sand and dust.
+
+“Hi. Like eyes.”
+
+“Hmm?”
+
+“They shiny.”
+
+Seeing she wasn’t going to reply, Kairon did instead.
+
+“Sythara, this is our councilor of brood. He’s in charge of the working class. Shiny, Sythara’s our new councilor of void. She’ll be heading up research, under my supervision, of course.”
+
+A frustrated glare was shot his way.
+
+“Just for the time being! After a few weeks, I’m sure we can loosen the reins, so to speak. Come with me please.”
+
+The city lord tried standing up, but ended up stumbling and landed back on the hard stone with a thud. His leadlike foot wasn’t cooperating.
+
+“Shiny. Fetch me a stick please.”
+
+Moments later, he had a firm walking staff gripped tight in one hand. The support finally got him upright and standing on two feet. Mostly.
+
+“Whew. I hope this sigil is worth it. This is really going to be a pain,” he huffed.
+
+“You made a bargain. Complaining about it is unsightly.”
+
+“I know, I know. I just didn’t exactly know what I was bargaining for, mind you. But a deal’s a deal.”
+
+Scaled arms trembling with the effort, he began making his way out of the tower. “Come.”
+
+Shiny scrambled in front of him, worry written on his expression. “Master.. You okay? Maybe meet here?”
+
+“No. I need sand.”
+
+“Bring to you?”
+
+A smile touched the demon’s lips, making each shuffled step feel just a touch lighter. “Thank you. Perhaps next time.”
+
+The trio continued on. One struggling to inch forward, another beside him in concern, and the last following in resignation. As they went, the demoness’s eyes traveled from building to building, assessing her new home.
+
+“Child, this settlement truly is but an infant. Is this what I’ve tied myself to?”
+
+“We might be young, but we are on the precipice of growth!” replied Kairon between heavy breaths. “Which,” he coughed, “is precisely what I want your input on.”
+
+She didn’t look convinced.
+
+When the three passed the other brood imps, Sythara was greeted by a series of uncertain squeaks and pointed claws.
+
+Seeing the spectacle, Shiny spoke up. “She strong. Be good!”
+
+“Strong?”
+
+“FOOD?”
+
+“No!”
+
+“Bring food?”
+
+Eight little imps scrambled around, all trying to get a look at the billowing shadows that were Sythara. When one got too close, she simply glared at them until they slunk away.
+
+“Please, forgive the rather crude nature of our workers. They are very… focused on sustenance. Growing takes fuel, does it not?”
+
+“So not only have I bound myself to a pile of rocks and sticks, but a community of lessers?”
+
+Kairon stopped, eyes going hard. He took a moment to catch his breath before swinging around, taking care not to lose his balance.
+
+“While you may be a ‘named’ demon, as you called it, each living creature here is an important part of our city. Every claw works together. I can’t dig, build, or haul all the materials we need. And, unless you’re hiding something from me, neither can you. That's something I suspect you might want to keep in mind, particularly when it comes to your transition here. My advice is to approach this as a new experience. One that might be able to teach even you.”
+
+Turning, the city lord continued on, ignoring the fiendish eyes boring a hole in his back.
+
+***
+
+Two trees were bulldozed aside as muscled arms pressed forward. Branches, leaves, and dirt cascaded from the canopy above.
+
+“That fledgling is trouble. He calls upon things he does not understand. Things I do not understand. What does he expect to occur?” spat Vorathrex.
+
+“General?” asked Boney. The wrath imps marched behind, keeping a healthy distance between themselves and the angry behemoth.
+
+“What happened?” asked another warrior.
+
+“Master okay?”
+
+“Yes. Idiot. Master is strong.”
+
+Vorathrex didn’t reply. He just kept ambling forward, orange eyes fierce.
+
+By the time they reached the village, his snorts and growls had mellowed out. Mostly. Boney still wasn’t taking any chances.
+
+Nostrils flaring, Vorathrex turned and waved at the flattened village. Around, burned canvas, toppled huts, and ransacked stores lay exposed to the elements.
+
+And there were bodies. Lots of bodies.
+
+“Spread what we brought around. Make sure to do so naturally. Our fearless fledgling likes his tricks,” he ordered.
+
+Even if he does not fully understand our kind.
+
+Sixteen wrath imps began unpacking dusty rucksacks.
+
+***
+
+Three forms leaned against the city’s walls, black stone rising behind them. They specifically chose the side opposite the horizon, where the afternoon heat was kept at bay.
+
+“How does research work? And, just how can our city unlock new rituals for construction? Oh! Also, what exactly is essence?” fired off Kairon eagerly.
+
+Sythara was about to reply when the last remark cut her short. “Child? You don’t even know what essence is?! Bah, I knew you were a crude one. But this? This is less than I expected. I once again wonder how I ended up here.”
+
+”Good fortune I’d say. Truly. I think you’ll find that the more you provide for our city, the more it gives to you in return.”
+
+“It had better.” She sighed. “Before I answer, understand that the demonic plane is very isolated. It does not work as this world does.”
+
+“Sure. I’m no stranger to compartmentalization.” He looked at Shiny, the tiny imp busy monitoring the distant brood imps.
+
+“I don’t know what that is… But for demons, many of us never stray far from where we are created. Our realm is… fractured.”
+
+“Interesting. How does that relate to essence and research?”
+
+“Tsk, tsk. So impatient. Just know that while I’m not a crude demon like you, even my knowledge has its limits. Things you may think I know but I cannot. This does not mean I am holding back.”
+
+She gave him a meaningful look. “However, essence is very commonly understood where I am from. Demons and underdwellers alike treasure it.”
+
+“Why so? And, more importantly, how can we use it?”
+
+Sythara smirked, finding a spot in the sandy hellscape to settle down.
+
+“To put this in a way you can comprehend, essence has knowledge inside. It can be unlocked and used for your city. But, to do so, I need a ritual circle. I did not see one on the way over here. Where do you keep it? Take me there and I can demonstrate this for you.”
+
+The city lord deflated at this. “Ah. That… You see, we don’t have one. Yet.”
+
+Sythara gave a snort, void black tendrils billowing out into the hellscape and knocking dirt lazily aside. “I should have known that much.”
+
+“But! We can make one! Just… Here. This is a great time to discuss our building plans.”
+
+Standing, Kairon began carving a series of boxes, lines, and shapes in the sand. It took him several minutes, hobbled on one leg as he was, but eventually he managed to get something that resembled a Gantt chart.
+
+The pair watching looked on expectantly, but instead of explaining, the demon frowned.
+
+“No, no. This won’t work.” He made a crossing motion in the sand, then moved further away from the city and tried again.
+
+“I do not hear a lot of discussion. Why are you drawing in the sand by yourself? Is this how we grow? By playing like newborns?”
+
+Kairon didn’t reply. He only drew on. Shiny, for his part, stood still. One eye on his master, the other his workers.
+
+“Ah. We’d run out of food like this. Not going to work.” Another line was drawn.
+
+This repeated for the better part of half an hour. Even in the shade as they were, the heat was starting to become quite uncomfortable.
+
+Finally, Sythara spoke up. “Child. Would this not be easier to do at night?”
+
+Kairon waved absently. “No time.”
+
+He continued on, wobbling and adjusting the latest attempted model.
+
+The challenge is that up until now, I’ve been too tunnel visioned in how we’ve built and gathered. If I want to ensure we get as many brood imps spawning as fast as possible, while not hitting our population limit or starving…
+
+It was a balancing act. One with several major assumptions. Fortunately for Kairon, crunching figures and threading figurative needles was his specialty.
+
+“Ah! Shiny, we are going to split your crew up. Two imps on stone, preferably the strongest, and then seven, one being you, will stay on lumber. For now, all of it will be saved. No corrupted wood to the maw for gold.”
+
+“Two groups? No hunt?” asked Shiny.
+
+“Only to start. Our newest spawns will funnel in as fresh hunters. I’ve run the figures here…” he drew another gash in a pile of pebbles. “This is the best way to do this.”
+
+Sythara snorted.
+
+Ignoring her, he continued on. “Around week two, if everything is going smoothly, we’ll have a new hunting crew. Say five. Enough to tide us over until we figure out the growth time and yields of Ashroot.”
+
+Shiny nodded.
+
+“Then, we’ll start funneling everything into increased timber production. For us, it's how we get both wood and gold.”
+
+Kairon ran a few more scenarios in his head. “This really does work much better. If all goes well, our city will be booming in three weeks' time. Yes, yes. This looks good.” The demon made one last change. “Hah! There we go!” he cheered, nearly taking yet another spill in the dirt.
+
+Straightening, he turned to his councilors. “This is my plan. No, forgive me. This is our plan.”
+
+“What are those?” asked the demoness.
+
+“These are Gantt charts.”
+
+“Who Gantt? Shiny?” interjected the imp.
+
+“No. It's a process. Basically, it shows how long everything's going to take and in what order it needs to happen. I used to love these things. Such fun!”
+
+Shiny and Sythara just stared blankly at the sand.
+
+“Erm. No matter. The important thing is that we have a path forward which won’t leave us starving, nor delay our growth a day longer than need be. Each rock and stick here represents what we build, who will build it, and when it will happen.”
+
+“I assume the little rock at the start is for my ritual circle?”
+
+“Actually… No.”
+
+“Why?” growled Sythara. “You seem to have essence. I can use this to unravel secrets. These will give you options for new rituals. Is this not what you want?”
+
+“It is. But before I am willing to spend resources on research, we need to increase our worker population. Else we delay our economy’s boom too long.”
+
+“I disagree,” stated Sythara.
+
+“That's okay. Now, this is how the next several weeks will look. Shiny, I have a specific worker split you’ll be doing. I won’t lie. It’s going to get chaotic. For this to work, you’re going to have to balance crews on timber, stone, and hunting concurrently. And it’ll shift as we learn more about our yields.”
+
+“Wait, wait, wait. It is most certainly not okay. What am I meant to do? Just sit here and watch you children make a mess of things?” cut in the demoness.
+
+“Hold that thought. We’ll have your ritual circle in about two weeks' time. Or three…” He paused, considering.
+
+“Four at the most. It just depends. In either case that isn’t too long, and in the meantime you can get started on that onboarding!” encouraged Kairon.
+
+She didn’t look pleased.
+
+“Our first building will be the spawning grounds for more brood imps. Then immediately afterwards, we need our first ashroot plot up and running.”
+
+Sythara was about to complain further but Kairon continued, purposefully shifting his back in her direction so he momentarily couldn’t see her.
+
+“What this relies on, and there’s no information here to predict this, is how long Ashroot takes to grow and in what amount it yields. Of all the roots grown in plots like this that I know of, they are both evergreen and fast to harvest. Sometimes even in a week or two. If that is the case here, this works. We’ll move onto making a camp, a second brood spawning grounds, one to two more plots depending on the ashroot yields and harvest times, and then finally, yep you guessed it, the ritual circle!”
+
+As the list of buildings grew, so too did the darkness in Sythara’s expression.
+
+“And if this cycle of construction ends up not working? If these roots take too long to grow or the fields burn? Then what? We all starve and I still have no circle to do the only thing I came to this realm to accomplish!”
+
+“Now, now. If, and I do mean if that happens…” Kairon trailed off, thinking hard for a moment. “Then we pivot.”
+
+Sythara threw her hands up, darkening fog wafting into the air. “Oh good! We pivot.”
+
+He used his walking stick to point out a specific point in his model. “Frankly, if that was going to happen, we will know in about two weeks' time. With new imps spawning, our food surplus is going to get very dicey at that point.”
+
+“Also! I should mention that even if it does work, we may have to halt spawns for a few days to get more camps up.”
+
+“This is madness,” muttered Sythara.
+
+“No. This is the only way I see us growing fast enough to deal with the paladins.”
+
+“The what?” hissed Sythara.
+
+“Oh. You don’t know about that.” Kairon rubbed the back of his neck. “I’ll fill you in later. Suffice it to say, there is likely an army of them headed this way. And behind them, more will surely follow.”
+
+I probably should also tell her about Valdren and the tribes. Meh. Later. She seems a bit worked up as it is.
+
+Her clouds of smog began trembling. Whether in fear or rage, he wasn’t sure.
+
+Thankfully Shiny chimed in. “Master? How manage all imps? At same time.”
+
+“Great question! Do you know what an assistant is?”

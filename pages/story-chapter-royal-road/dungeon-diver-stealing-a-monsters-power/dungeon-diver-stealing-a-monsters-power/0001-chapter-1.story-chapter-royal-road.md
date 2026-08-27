@@ -1,0 +1,229 @@
+---
+id: 7743d3e1-ac01-51ef-806d-9460dc79347b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1"
+slug: 0001-chapter-1
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 1
+ownLength: 2196
+unit: words
+ownProgress: 2196
+publishedAt: 2023-02-05
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1106310/chapter-1"
+royalRoadId: "1106310"
+markedReadAt: "2026-06-29T20:31:48.650Z"
+---
+
+I woke up in a daze after hearing a series of loud knocks at the door. My head was pounding, I shouldn't have stayed up so late last night reading comics. It's a bad habit of mine.
+
+"Jay! Rent is due."
+
+Ahhhh man, is it the first of the month already?? I grab my black jeans with rips in the knees off the foot of my bed and put them on. I couldn't find the shirt I was wearing last night so decided I'd look for it later.
+
+"I'll be right there Mr. Winser, give me a minute."
+
+I open my bedside table. There's 2 silver coins, 36 bronze coins, my iron dagger, and a half empty bottle of water I bought on the way back from dungeon diving last night. With a sigh of relief, I grabbed the 2 silver coins and walked over to my door.
+
+"Here you go sir, have a nice day."
+
+Mr. Winser grabbed the coins and nodded at me.
+
+"See ya next month kid."
+
+I close the door and mentally relax myself a bit.
+
+Rent is paid, life is good... Out of nowhere I started to feel lightheaded and my vision started going blurry. Luckily I caught myself on the door, shook my head a bit, and straightened up. I walked over to my bed again to grab that left over bottle of water.
+
+As a chugged it my head started feeling better and I almost heard my younger sister's voice yelling at me.
+
+"Jayyy you have to remember to drink your water when you wake up!"
+
+It's more like I need to drink more water in general. I get so sucked into my fantasy worlds sometimes, I forget the real world is moving on around me. I start muttering to myself.
+
+"Sighhhh, alright time to get up."
+
+I find a new shirt from the closet in the corner of the room, throw on my boots, tuck the iron dagger into a small sheath in my jeans and grab 3 bronze coins before I walk out the door so I can buy some breakfast on my way to the dungeon.
+
+"Morning Jay, are you going out to hunt today?"
+
+My neighbor Maria was sitting outside her apartment waiting for me to come out.
+
+"Yes Maria, just like everyday."
+
+"You know, I'm going to be a hunter soon too! My first college term starts next week. I'll get to see my status and be a great hunter just like you ya know."
+
+"Oh really? Looking forward to it!"
+
+I really wasn't taking in all the words she was saying, I was just making small talk and zoning out in my head like usual. She is really pretty though, that was at least half of what I was thinking about during most of our interactions.
+
+Maria has short blond hair that barely touches her shoulders and bright blue eyes. Plus she says good morning to me pretty much every day since I moved in here a few months ago. She's my daily dose of dopamine before I go to work in the dungeon everyday.
+
+After a few more smiles and meaningless conjecture I walk down one flight of stairs to the street to make my way towards my team's usual meeting spot. I became a hunter myself 2 months ago but not in the conventional way, plus I'm only a porter.. my team's weakest link. I'm really not as great as she thinks...
+
+Most people become hunters when they turn 18 or 19 right after they enter college. It's pretty normal in society for students to pursue a hunter's career. Over half of the population is, or was a full time hunter at some point in their life. There's good money in selling mana crystals for the energy inside them, and also many other magical items for various reasons.
+
+Most people hunt for 2-4 years while they're studying in school. It never hurts to get some experience in the dungeons even if you're going to work in the corporate world.
+
+My family situation is a bit complicated. I wasn't able to go to college after high school so I never had the opportunity to open my status early. On my 20th birthday I decided to open my status on my own.
+
+[2 Months Ago - Flashback Story]
+
+Opening your status is what some call "awakening" or "becoming a hunter". It's pretty straight forward. All you have to do is kill a monster in a dungeon and your status will be revealed.
+
+If you're not awakened yet it's common practice to go with an experienced party the first time.
+
+I woke up on my 20th birthday and decided to do just that. I walked to a dungeon about 3km from my old apartment and paid a party of five 10 bronze each to help me out. Out of pocket it was 50 bronze in total. Half a silver coin is a lot for me, but i thought of it as an investment worth while.
+
+Other than the money.... I came completely unprepared, thankfully the party leader lent me his old dagger.
+
+I went to a dungeon called the "Alpine Square Dungeon", it got the nickname "Starter Dungeon" or the "Alpine Square Starter Dungeon" because it only has goblins. Goblins are some of the weakest monsters. They can be defeated by most normal people without awakened abilities if they have a good weapon.
+
+The team of five lead me through the dungeon portal. It was a big blue glowing circle standing straight up at a perfect 90 degree angle to the ground. As we walked through, I saw a whole new world i had only read about in the news and in comics...
+
+Dungeons aren't always as dark and dreadful as the word itself sounds. "Dungeons" are just the name the government decided to give to the occurrence of "pocket worlds" popping up. The first occurrence was over 80 years ago. The current world and economy is built around the idea of dungeons and hunters as a whole.
+
+This particular dungeon is a grassland dungeon. It has a bright blue sky, minimal trees, and thin light green grass that came up to about my knees. The party leader let me admire the new world for a moment before we ventured in.
+
+We walked in a straight line for about 5 minutes, then I started hearing shuffling and loud grunts.
+
+A small creature that looked something like a deformed child standing about a meter tall started charging towards me. Its skin was dark green with a face similar to a 90 year old man. It was covered in wrinkles and scars from head to toe.
+
+The worst part was that I could smell its stench from over 5 meters away. The goblin was holding a dark black object that looked like a stone sharpened into some kind of makeshift knife.
+
+"All right boy, we have your back but it's up to you to take down this goblin. Welcome to the dungeon! Hahaha"
+
+They all started laughing a bit, but the leader seemed very supportive so I felt safe. I held the dagger in my right hand and watched the goblin as it charged towards me. I mumbled...
+
+"5 meters... 3 meters.... It's here..."
+
+With my eyes wide I decided to strike it's disgusting looking face and quickly lunged in towards the opposite side of its knife hand. It let out a loud squeal as my dagger pierced its right eye and the monster started gushing blood. It came at me again without hesitation. The same move, just a simple charge. I went for its face a second time and had a direct hit followed by quickly jumping out of the way.
+
+With two successful attacks I felt confident that I could defeat this goblin without a scratch. I looked at the little green creature as it started sprinting towards me again. To my surprise, this time it grabbed its knife with two hands in the middle of its body. I was thrown off guard so I just jumped out of the way as fast as I could and fell on the ground tripping over my own feet.
+
+The goblin turned and gave a menacing stare. It sprinted towards me again while I had nowhere to go. I couldn't get up in time so I decided to take his attack full on. I braced my left arm and took on his attack while positioning myself to counter.
+
+It was painful, but surprisingly the goblin was not as strong as I expected. It made a small gash in my arm but at the same time I managed to stab it in the neck. It squealed a bit, but within seconds it went limp and fell to the floor.
+
+"Ayeee, nice job kid. 3 hits, that's not bad for your first time!"
+
+He clapped a few times and walked over to me.
+
+I then heard a loud sound ring from inside my head.
+
+[Status Open]
+
+_____________________
+
+Name: Jay Soju
+
+Level: 1
+
+Hp: 7/10
+
+Mp: 10/10
+
+Strength: 10
+
+Speed: 11
+
+Agility: 12
+
+Defense: 10
+
+Mental Strength: 10
+
+Skills:
+
+Absorption
+
+Items Equipped:
+
+Iron Dagger
+
+_____________________
+
+I looked at the light blue holographic screen in front of my eyes for a full minute in awe with the biggest grin across my face.
+
+"Hey let me take a look kid, I can tell you what it all means."
+
+I showed the party leader my status screen.
+
+"Alright, so now that you've awakened you've gained a few new abilities normal people don't have. First of all, you've become about 3 times stronger just from awakening. Each of your stats will grow stronger every time you level up. The base level for everyone's stats is 10, but it looks like your speed and agility have a few extra points. This is pretty normal, it just means you're going to be more of a speed type fighter than anything else. Your speed and agility will level up a bit faster than your other stats. Not too bad, looks like you'll be on the front line kid!"
+
+"T-Thanks! And what about my skill, I research hunters a lot but I've never seen this one. Have you?"
+
+"Hmm absorption, I haven't seen that exact one. Maybe you got a unique or a rare skill, you're lucky kid. I'd assume it absorbs HP or MP from your opponent. There's some gear and magic items that can do that too, but it's nice you have a skill for it so you wont have to spend any money for those abilities. I'd be happy to have a skill like that, I'm sure guilds will be all over you in a few months."
+
+"True. Well, thank you again."
+
+For another 5 minutes I kept staring at my status screen until I heard the grass moving. Right in front of my eyes was another goblin, I went into full attack mode immediately. I lunged at it before it could even react and i cut it down in two slashes.
+
+[Level Up]
+
+_____________________
+
+Name: Jay Soju
+
+Level: 2
+
+Hp: 12/15
+
+Mp: 15/15
+
+Strength: 12
+
+Speed: 13
+
+Agility: 15
+
+Defense: 12
+
+Mental Strength: 12
+
+Skills:
+
+Absorption
+
+Items Equipped:
+
+Iron Dagger
+
+_____________________
+
+"I leveled up?"
+
+I muttered as I stared at my status screen again. The team leader laughed a bit.
+
+"Ahh the good old days, I remember when it was that easy to level up."
+
+I looked at him with a confused look.
+
+"What do you mean? What level are you guys?"
+
+They each showed me their status screens. The leader was a level 37, all the other members were between level 30 and 35.
+
+"We have been hunting consistently for a little over a year now, mostly just to make a living. This dungeon is a safe and easy way for us to get a good workout in everyday and enjoy our lives."
+
+As he said that the goblin I just killed started to disappear in front of my eyes. I heard stories that the dungeons absorb monsters once they've died, even hunters too. Apparently anything that dies in the dungeon will disappear in a matter of minutes.
+
+As the goblin disappeared it dropped a small pink crystal behind, it looked about the size of a bronze coin. The team leader picked it up and threw it to me.
+
+"Catch, it was your kill so it's your crystal. This one too!"
+
+He threw me a second crystal, I must have been so focused on my new status that I missed the first goblin that disappeared.
+
+"Alright, congrats kid. We're taking you back now, this is what you paid us for."
+
+We all turned around and trekked back to the dungeon exit.
+
+10 minutes later, we were outside the dungeon standing in Alpine Square Park.
+
+"Keep the dagger, you'll need it."
+
+"Oh really? thanks! A-and thank you for today!"
+
+They all waved and went back inside the dungeon. I looked down at the dagger and the two small crystals in my hands with a grin on my face.
+
+"Best birthday ever!"
+
+I finally achieved a status. I can be a hunter for real now.

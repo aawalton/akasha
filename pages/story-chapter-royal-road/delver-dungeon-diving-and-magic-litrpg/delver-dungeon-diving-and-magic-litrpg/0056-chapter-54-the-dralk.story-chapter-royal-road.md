@@ -1,0 +1,191 @@
+---
+id: fe19e4b2-1b4b-5044-8324-660e7c307253
+page-type-slug: story-chapter-royal-road
+title: "Chapter 54: The Dralk"
+slug: 0056-chapter-54-the-dralk
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 56
+ownLength: 2035
+unit: words
+publishedAt: 2026-08-14
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3814673/chapter-54-the-dralk"
+royalRoadId: "3814673"
+---
+
+I have finally learned something about the strange powers of the Dralk. They organize their power much the same as mages. They have told me of four stages, although I am certain there are more. Each stage has three steps that a Dralk must climb. They do not tell me much, but these are my assumptions based on my observations of their social hierarchy and the powers of those deemed lesser than their peers. The first stage allows them to sense their energy. Most children seem to be here, although a few adults find themselves incapable of their unique magic, perhaps similar to mages. The second stage allows them control the mana within their body, increasing their speed and strength. Best I can tell, the third stage is where they can externalize their mana, within short distances of course, nothing to the level of a true mage. They tell me nothing of the fourth stage, although I have my suspicions.
+
+An Empirical Examination Of Twisted Magics by High Mage Artus
+
+I take a deep breath of fresh air. Being underground for so long made me forget how nice the forest air feels. Behind me, the vines that cover the entryway slowly move back into place, waiting for their next victim. It’s hard to tell the time under the canopy, but there’s still enough light to see by.
+
+I’m exhausted.
+
+I study the Living Forest, a section of the wilderness that I know dangerously little about. Huge trees take up the space, leaving wide swathes of land for undergrowth under the shade of their leaves. Drops fall from the leaves above, hitting the ground in large plops. The whole forest glows purple and blue, mixing well with the natural greenery. Moss, trees, and more have the soft glow to them.
+
+Shar takes to the sky ahead of me, and I step forward, making my way to where I know the camp to be. It's a ten minute walk, not terribly long, but still far enough that I feel the need to be cautious.
+
+Several minutes into the walk, Shar flies back down landing on a branch near to me. "A group is approaching."
+
+I step behind a root, and lay low against the ground, activating Hide Presence.
+
+The sounds of the forest echo out, birds chirping, small animals rustling through the branches as the branches themselves move, either with the wind, or through the control of some of the more dangerous trees. Under me, something large moves through the earth, a very slight rumble following its movement.
+
+I stay low. In the distance, a behemoth fights another creature, roars barely reaching me.
+
+The breaking of a branch draws my gaze, and I see the silhouette of someone moving through the underbrush. They pull an arrow back through a longbow, pointing it in my direction, but not exactly at me.
+
+Another movement, and I see a second person in the tree above me, searching the ground.
+
+They know I'm here, but not where.
+
+I reach into my pocket, grabing my wand, as my gaze shifts to Shar. She watches from the branches above.
+
+I motion with my head towards camp, and she gets the message, taking to the sky.
+
+Movement to my side brings my attention to one of them walking down the path I'd been following. He stops in the middle of the road, searching the undergrowth. His height, long claws, and wooden mask tell me that my magic isn't going to do much.
+
+I've encountered the Dralk.
+
+"We know you're here," The man says in accented common. "Come out, or we will flush you out."
+
+Slowly, I push myself up from the ground, then deactivate Hide Presence.
+
+The Dralk man looks at me, his hand resting on the sword at his waist.
+
+I release my grip on the wand, instead laying my hand on the sword at my waist.
+
+"A human? Your kind are not welcome here." The man narrows his eyes at me.
+
+A voice echoes from the tree nearby, a Dralk woman that I hadn't seen speaking in their own language. It's been a while since I've spoken the language, but I still pick up bits and pieces, "What are you … for? Kill the …."
+
+"….. Alora, There may be more. We must … them all." The man says back, his voice a command to the woman.
+
+I clear my throat, trying to piece together what I can say with my meager vocabulary, "I am honored student of Master Elto. I- you not kill me? Bad blood, bad honor."
+
+Silence greets my statement, every Dralk freezing in disbelief. The Dralk have a very insular culture, and their language was not something taught to outsiders easily.
+
+"I've never heard of a Master Elto." The man says, his hand tightening around his sword.
+
+Angels, that's right. That's not his real name, just the one he uses in human lands. "That's not his real name, but I am his student all the same."
+
+The Dralk's eyes narrow, "Elto means-"
+
+I cringe, and interrupt him "I didn't give him the name."
+
+Silence stretches between us, as the man judges me. "You are not welcome here, return to your lands human." He turns, walking away.
+
+"I can't."
+
+The man freezes, and I see out of the corner of my eye as one of the archers in the tree pulls their arrow back.
+
+"I'm a Delver, and the Angel Sehara has tasked me with a ruin nearby."
+
+He fully turns towards me, stepping closer. "That ruin has strong guardians. You will not be able to delve."
+
+"I've already been inside."
+
+He studies me, "You will give us any items you've found."
+
+I give a nervous laugh as I run my hand through my hair, "I uh… I can't do that."
+
+"Why is that, human?"
+
+"Like I said, this isn't a delve for myself. I need some of those items, but I'm happy to work out a split."
+
+He steps towards me, his long claws on full display, "That is unacceptable."
+
+I take a small step back, my hand falling to the weapon at my side, "You said it yourself, there are strong guardians there, which means that you can't get the items without me. A split is only fair."
+
+"Why do you wait, Vakar? Kill the … and be done with it." The woman's voice from the trees, yet again.
+
+"I will not … my hands with the blood of a …." The Dralk man, Varkar's, voice is harsh, he looks at me with a small tilt of his head. "Bad blood, bad honor."
+
+"More … from the path!" This voice is different, a younger voice.
+
+Ah damn.
+
+Grildor roars as he runs down the path, a covered man of fire running beside him as reavers climb through the trees behind them. Immediately, arrows fly out.
+
+My danger sense goes off, and I jump to the side, an arrow piercing the ground where I'd been standing.
+
+I pull my sword out, only to find Varkar directly in front of me, his blade against my throat.
+
+I gulp, ready for death, but it doesn't come. His eyes stare into mine for a long moment as blades and arrows clash behind me.
+
+"Can you call them off?" He asks.
+
+I nod, careful of the blade at my throat.
+
+His sword moves away from my throat, leaving a thin trail of blood.
+
+I turn around, and shout. "Grildor! Keve! Pull back."
+
+He shouts something at his people as well.
+
+The mercenary glances at me, then steps back. Keve jumps back beside him, a thin trail of blood moving down his arm. The reavers as well, receive a message from Tanya, falling away and moving through the trees.
+
+Both sides stare at each other as the rest of my team arrives. Eyla, Daron, Libby and Tanya step out of the woods. I notice a faint frost covering the ground around them, and quickly look away. It looks like the Dralk haven't caught on yet.
+
+I meet Eyla's eyes, and she gives me a worried look. I do my best to put on a comforting smile.
+
+Vakar keeps his blade out, as he looks between us.
+
+"My delving party."
+
+"I see."
+
+He doesn't say more, and I keep silent, waiting for him to speak.
+
+“I must speak with the Folkan, if they agree to your deal, then you will finish your delve and leave.”
+
+I bow my head, “That is a fair deal.”
+
+He makes a swift motion with his hand, and four, no, five Dralk break away, heading deeper into the forest. A small incline of his head towards me, and then he walks confidently behind his people.
+
+I let out a breath, then feel at the cut on my neck, holding my fingers out to see the blood. That wasn’t how I expected my first encounter with my master’s people to go.
+
+Libby walks up to me, touching my neck gently before I feel her energy flow through me and close the wound. “It’s just a scratch. I’ll Cure Poison as well, just to be sure.” A soothing feeling travels through my body, hitting my heart, then traveling through to my extremities.
+
+“Thank you.”
+
+She nods, then turns to Keve, hurrying over to clean the cut on his arm.
+
+Shar lands on a branch nearby. “They’ve moved on.”
+
+I look over the group, and they look back at me. “Let’s head back to camp. I’m exhausted.”
+
+Everyone nods, then we fall into our usual formation as we make our way back to the angel statue.
+
+I practically collapse as soon as we’re past the barrier. Traveling back up through the ruin was stressful enough with Reavers around every corner, but that encounter with the Dralk didn’t go how I expected it to.
+
+I knew they were isolationist, but the way my mentor had raised me, I guess I thought I would be different.
+
+Haaaah.
+
+I cover my eyes as I lie there on the ground, and the others get to starting the fire. Daron sits on a log next to me and gently pokes me with a stick, “you alive, boss?”
+
+“Just barely.” I look past my fingers to see him smiling, and Eyla trying to hold back laughter as she sits down on the ground next to us.
+
+“As soon as we have the fire hot enough, Tanya’ll have the food ready in no time.” Libby calls. I look towards her to see her cutting up some herbs. She looks over, meeting my eyes. “We were starting to get worried. Almost hit your two day mark.”
+
+“Has it been that long? I haven’t slept yet.”
+
+“How’d it go down there?” Eyla asks.
+
+I sit up, then motion for everyone to come closer. “Might as well let all of you know what I’ve found.”
+
+Keve finishes the fire, then walks over with Tanya and Libby. Grildor is the last one to arrive, having partially removed his armor.
+
+The fire crackles, and I thank Tanya as she hands me a small wooden cup of water.
+
+“Eyla,” I meet her eyes, as she gives me a questioning look, “your map has led us to the hideout of an organization called The Owls.”
+
+The others lean in as I start to describe the levels of the ruin, and the danger’s I’d encountered within. We pause as Tanya puts several delicious looking skewers of meat over the fire, then I continue with the items I’d so far identified. My notebook comes out at that point, showing what I’d mapped so far. I leave out my interactions with the Witch, and Zakar, keeping that to myself. Yes, it was a colossal mistake, but not one that I feel I need to share immediately.
+
+By the time I finish, food is ready.
+
+I take a bite of the meat, grateful that I’m having something more than cold jerky and stale bread.
+
+Our dinner is interrupted by the sound of footsteps outside the Angel Statue’s barrier. A familiar Dralk man stands there, looking at where the simple statuette rests.
+
+I stand up, my plate falling to the floor forgotten as I take in the visage of my Mentor.

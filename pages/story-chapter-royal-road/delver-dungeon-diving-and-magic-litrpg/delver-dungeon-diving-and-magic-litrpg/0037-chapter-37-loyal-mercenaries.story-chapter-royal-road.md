@@ -1,0 +1,189 @@
+---
+id: f6c8dc20-2c16-5f21-b029-7a69859830b1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37: Loyal Mercenaries"
+slug: 0037-chapter-37-loyal-mercenaries
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 37
+ownLength: 2049
+unit: words
+publishedAt: 2026-06-25
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3590539/chapter-37-loyal-mercenaries"
+royalRoadId: "3590539"
+---
+
+Grildor is still some distance away, leaving me to deal with three men who are suddenly finding themselves between a mage and a sprinting tower shield.
+
+I know what their decision is going to be, which is why I’m immediately forming another spell-circle. I have no idea how to craft a second tier circle, we haven’t covered it yet, which leaves me with the rather simple spells of the first tier, amplified by the power of the wand in my hand. More mana leaves me as I decide on the symbols.
+
+Three people, at least one of whom has a passive speed enhancement, and I need to delay all of them.
+
+Stillness, Ice, Ground
+
+The spell activates, and a thin sheet of ice covers the road. The fastest one turns towards me, runs, and immediately trips to the ground, rolling to a stop a few feet away from me.
+
+The other two see that, and step forward cautiously.
+
+I turn around and run at Jasper, vaulting over him to land on the other side. The lizard looks up at me with annoyance as I raise my wand again.
+
+The fastest one pushes himself off the ground, then, ducks under an arc of flame, as Keve lands back on the road between me and them. Reavers, about half the size of the one I’d first fought in the Archmage’s Sanctum, crawl from the forest, surround the three warriors.
+
+Grildor arrives at that moment as well, and the three warriors, realizing they’re surrounded, fight with all they have.
+
+Keve engages the fast one, while Grildor rams into one of the others, and sends him sprawling across the ice. Reavers descend on the third one.
+
+My increased perception barely allows me to follow the fight between Keve and his opponent, as they exchange a series of devastating blows.
+
+Keve’s tattoos glow even brighter, and I feel the heatwave from where I am behind Jasper, the ice on the road melting instantly. He moves with a speed that outstrips the other warrior to cut his head off, then dashes in a trail of fire to help Grildor with his opponent. The third is slowly being wrapped in webs by the reavers.
+
+I slowly stand up from behind Jasper as the last of them is killed.
+
+The heat in the air disappears as the glow coming from Keve lessens. He stands there, breathing heavily, his breath sending plumes of moisture into the air.
+
+Grildor turns towards me, and shouts out “Y’ alright lad?”
+
+I slowly walk forward until I’m standing beside Keve, who still hasn’t lowered his scarf. I stare at the large warrior with caution, then look behind him to find three more familiar figures approaching. “Yeah. My heart’s still…” I take a deep breath “What are you four doing here?”
+
+The reavers stream away from the corpse, climbing up to a familiar Lin girl and disappearing into tattoos that run down her arms. Daron and Libby also arrive, huffing with exhaustion.
+
+Daron puts his hands on his knees as he gasps for breath, “How do you move so fast with so much armor, you big brute?”
+
+Grildor just smiles at his companion, then turns to Libby, who is breathing heavily, but seems better off than Daron. “He’s wonderin’ how we knew. Figured yer the best at explainin.”
+
+Libby nods, then steps closer, barely sparing a glance for the bodies in the road, “We should head to Onder, I’ll explain on the way.”
+
+I nod, now that the adrenaline is fading, I can see that they’re being genuine, and let go of the last of my suspicion. It does nothing for me here. I motion for Keve to lower his scarf. He nods, and pulls it down, exposing a bloodied lip. He must’ve gotten it from one of the archers in the trees.
+
+A small whistle, and Jasper starts moving, following us. Shar also takes back to the skies, while Daron keeps an eye out on the forest around us.
+
+As we start moving, Libby lays a hand on Keve, and the wound on his lip heals. “A little over a week ago, some people started asking around about an explorer and a non-human warrior.” She looks at me, a knowing look in her eyes, “We’d been about to leave on a trip for your merchant friend, but as soon as we caught wind of the questions, we let him know. He had us keep an eye on them, and when they set up on the road outside of town, we camped nearby under the shade of a Carver Tree.”
+
+I stumble at that. Those trees are called that for a reason, the bodies under them do not look nice.
+
+Tanya, who is listening with an anxious look, speak up, “They’re nice if you talk to them.”
+
+Libby gives a hesitant smile, “Daron has a skill that allows him to watch from a distance. He’d been keeping an eye on them, and when we saw them interacting with you…”
+
+“I came runnin’.” Grildor gives a loud laugh, “Gave ‘em quite a spook, didn’t I?”
+
+My vision zones out as I process the information. It’s not good. A little over a week ago lines up with when we lured that party into the undead village. If they weren’t alone in searching for us, then whoever was behind them would be smart to wait at the nearest human settlement. No one survives in the wilderness alone for too long.
+
+Are they all demon worshippers? Or are they related to the necromancer somehow? That doesn’t line up. None of it makes sense. If they’d been necromancers, the ambush near the village wouldn’t have worked, which now that I’m thinking about it, could’ve gone real bad for us.
+
+I get the feeling that there’s more than one group at work here, but I don’t have the specifics to know who. At most, it’s three different groups.
+
+The people who chased us through the wilderness.
+
+The demon worshippers who Lyla killed.
+
+The necromancer in the city, who was searching for the mage with the map, me. Or… I assumed that was me.
+
+I’d thought that it had to be me due to the importance of the map I’d copied from Angel Kolas, but there’d been another mage targeted by necromancers, hadn’t there? One who’d been specifically targeted as soon as we left the city.
+
+Why were Lorn and Eyla away from the stronghold. What had Eyla told me?
+
+“Politics. The Arcanist’s guild is full of it.”
+
+Was that the player I was missing? The Arcanists. But what could they want with me? What do they think I have? As far as they know, I’ve sold everything to the De’Vereth.
+
+“Leo?”
+
+I pause in my thoughts, then look over to Tanya, who sends me a nervous smile.
+
+“Jasper’s hungry. Can I feed him?”
+
+I look back at the big guy who’s trudging along behind us. “Yeah, go ahead.”
+
+She smiles wide, then hurries over to the rock-lizard. The Lin girl looks better than when we first met, although she still has that sickly vine on her neck. I don’t know enough about the Lin to say why that might be.
+
+I look away from her as we catch sight of the city’s gates.
+
+There’s no one entering the city, and the guards watching the gate look particularly bored.
+
+I spot a reaper lounging next to a fire, but they don’t even look up as we approach. Things must’ve calmed if there’s only one reaper here.
+
+We go through the gate without any trouble, and our group makes our way to the inn. I get Jasper safely in the stable, then meet back up with the others.
+
+Tanya and Keve draw gazes as we walk through the doors. The owner of the inn is working the bar, so I motion for the others to wait and walk up to her.
+
+“Do you have a private table available?”
+
+She smiles at me, and tosses me a key, “In the back. I’ll send Mary to get your orders.”
+
+“You’re amazing.”
+
+She gives me a wink, then heads over to speak with a person at the bar.
+
+I wave for everyone to follow me, and make my way towards the door leading to the kitchens.
+
+We draw some looks, and I start to worry that if someone is looking for me, word’ll spread quickly that I’m here.
+
+The kitchen staff ignore us as we make our way through to one of the back rooms, where a private table is available.
+
+We settle into the room, with Keve sitting next to me, and the other four arranging themselves on the opposite end of the table. Moments later, a girl arrives to get our drinks and food.
+
+“Are you four still leaving for Gerald’s trip?” I ask once the girl is gone.
+
+Libby shakes her head, “Not as far as I know.”
+
+“Good, then I’d like to hire all of you on with my personal funds.”
+
+Libby shares a look with Grildor, who gives her a large smile, then looks at Daron who enthusiastically nods. Finally, she looks at Tanya, but the girl is busy holding and talking to a small furry animal that looks vaguely like a fox.
+
+Libby smiles at the distracted girl, then looks back at me, “We’d be happy to. What do you need?”
+
+“Everything I’m about to say stays in this room.”
+
+She nods, and I trust her. These people have proven they can be trusted.
+
+I lean forward, resting my elbows on the table, “Someone is after me and Keve. I have theories, but I’m not sure why.”
+
+I pause as Mary returns with our drinks. I take a sip of cider, then pause to enjoy the sting of the alcohol. Civilization has its perks.
+
+We all spend a few seconds with the drinks, before Libby turns to me, “And you want our protection?”
+
+“Yes. And I’ll want you to escort me to the Stronghold Deragun , just…” I pause, considering things before continuing with what I’m thinking. “not as an explorer.”
+
+A look of confusion passes over her face, “What do you mean?”
+
+I glance at Grildor, who holds my gaze with a knowing look, “You saw it, didn’t you, Grildor.”
+
+He nods, “Wouldn’t’ve said anythin though.”
+
+Libby looks at him for a second, then turns to me with a raised eyebrow.
+
+“I can use magic.”
+
+That brings silence to the table. Even Tanya looks up from her furry fox to look at me.
+
+With perfect timing, Mary returns to the table, bringing a round of food. I pull some coins from my pouch, and hand them to her with a small thank you.
+
+I take a bite of my food, watching the mercenaries consider what I’d just told them.
+
+“Why do you want to enter the stronghold as a Mage?” Libby asks.
+
+“A few reasons.” I put my fork down, despite the rumbling of my stomach. “Whoever is after me is looking for an Explorer. Secondly, I think the Arcanists guild is involved somehow.”
+
+“How’re you going to get past the class orb?”
+
+“That’s a secret I can’t share.”
+
+Libby leans back, and takes a bite of her food, chewing on it as she thinks. Finally, she holds out her hand, “It’s a pleasure to work with you again, Delver Leo.”
+
+I take the hand and smile, “I’ll let Gerald know that I’m stealing you away for a while. I also have to make a trip to the Temple before we go.”
+
+“Perfect. Daron’s gotta prepare for his wooing of that Laura girl anyway.” A small smirk plays at the edges of her lips.
+
+“Hey!” Daron looks up from his plate, already half empty, “I’m not doing any wooing.”
+
+Grildor claps the younger man on the back, rocking his whole body, “No need t’be shy. I’ll halp ya.”
+
+“No nonono.” Daron holds up his hands, “I’ll be fine on my own, thank you.”
+
+“What’s wooing?” Tanya asks.
+
+Daron covers his face, “Libby, you tell her. You’re the one who brought it up.”
+
+I eat my food as the mercenaries continue their joking and laughter. I’d missed this.
+
+Glancing over at Keve, I see a small smile on his face. Looks like he’d missed these guys as well.

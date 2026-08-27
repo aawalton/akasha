@@ -1,0 +1,257 @@
+---
+id: edb649a3-865f-508d-a460-89bf467d4136
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31 - The Brood"
+slug: 0032-chapter-31-the-brood
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 32
+ownLength: 2030
+unit: words
+publishedAt: 2026-06-15
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3542402/chapter-31-the-brood"
+royalRoadId: "3542402"
+---
+
+The moon was low tonight. Its dull gleam drew a shadow on the hellscape sand, revealing a gathering.
+
+Fang blinked.
+
+Where am I?
+
+He replayed last night. Boney bested him in a game of stones, there was evening meal… deer, wasn’t it? And then… Sleep. He passed out in his bunk. Technically, it was a brood imp’s bunk in the latter half of the camp. But space was crammed. Master had said a new camp was coming soon, yet it was only fitting that the warriors took priority. Right?
+
+Then he noticed the cloth in his mouth.
+
+“Good. You awake.”
+
+“MFH?!” he tried yelling, but all that came out was a series of grunts.
+
+“No one can hear. We outside wall,” said a small-statured creature. It was hard to tell who in the darkness of night. He could just make out the silhouette, standing firm. At its side, two slightly larger shadows waited.
+
+“Attitude bad,” it continued. “Not okay.”
+
+And then it hit him. These were brood imps?!
+
+Fang hissed, biting down hard on his cloth gag.
+
+Shaking his head, the little red imp crossed his arms. “This problem. What we do?”
+
+“Mffh!!”
+
+Six pairs of scrawny arms held the irate warrior, eyes hard and jaws set. The captured wrath imp squirmed, thrashed, and shoved. But it was to no avail.
+
+“You steal bunk. You push. You shove. You punch. You take food. You bad.” Every pronouncement was met with a drawn line in the sand. By the end, six carved gashes marred the ground.
+
+“Why you here? Any imp know?” The leader looked at the others.
+
+“NO.”
+
+“FOOD?”
+
+“We eat him!”
+
+“Don’t like!”
+
+“Punched me!”
+
+“He stole bunk!”
+
+A clawed hand was held up, halting the complaints. Taking a slow step forward, the tiny imp reached down, face hovering over the stocky soldier.
+
+“I remove cloth. You scream, we hurt. Understand?”
+
+An angry glare.
+
+SNAP.
+
+A rock came down, breaking the warrior’s nose. Warm blood splattered over its cheeks.
+
+The rage in its eyes widened, a muted scream filled the night. If it wasn’t for the cloth, half the city would have woken.
+
+“You understand?”
+
+No reply other than heavy breathing through its nose. In, out. In, out.
+
+SNAP.
+
+This time the rock came down on a hand, fracturing bones.
+
+SNAP. SNAP. SNAP.
+
+The elbow, the ankle, and the stomach.
+
+The proud, stocky warrior was reduced to a sobbing, whimpering mess. This wasn’t a battle. It was torture. A beat down.
+
+“Mess.” Kick. “With.” Kick. “The.” Kick. “Brood.” Kick.
+
+“This what happen. Got it?”
+
+Nods from the others came in agreement, more than a few feet itching to join.
+
+The warrior was at a loss. Part of his body hurt. It hurt bad. Worse than when he lost yesterday’s duel to Red. But the other part of him was in shock. These tiny brood imps, the same ones who spent all day chewing on trees and carrying stone, were giving a beat down. On him.
+
+Apparently he was taking too long. This time, a rain of kicks, stomps, and blows came down not just from the leader, but all the little gremlins.
+
+He tried several times to shout out, to escape, to fight. But there were just too many.
+
+When they finally paused, chests heaving and claws raised, the warrior tasted more blood than air.
+
+“Understand now?”
+
+This time, he shook his head up and down. Weak, jittery motions.
+
+Seeing his broken spirit, the small imp removed his gag. The warrior drew in several ragged breaths of fresh, beautiful air. “I… Warrior,” he rasped.
+
+A chortle. “Weak warrior. We brood. Strong.”
+
+There was a pause, then the largest of the brood imps spoke up. “We kill! Must!”
+
+“Yes! Kill!” cried another.
+
+“FOOD!”
+
+The warrior’s eyes, already marred with sand, blood, and grime, went wide. They were going to kill him?
+
+“No.” The little leader grunted. “We not waste. Life valuable. Worth many shiny.”
+
+The other imps didn’t seem convinced, but none challenged their de facto boss.
+
+He waved his claws. “To the hole.”
+
+The warrior was confused. What did that mean? Moments later, he found out. The bulky imp was shoved hard, plummeting down into a ditch. He landed with a hard thunk. Above, glowing orange pupils glared down.
+
+A cloud in the sky moved just right, allowing the moonlight to illuminate the inside of the hole. For a moment, those eyes halted, staring at something else. The imp studied the dirt, evaluating something.
+
+Still half in shock, the wrath soldier looked over.
+
+What he— oh.
+
+The orange, sandy walls he’d expected had morphed. About halfway down the crude ditch, the excavated dirt and sand became a compact, brown mix. Old root wood was compressed together with dead organic matter. And, most interestingly… the glow. There were purple, luminescent veins, flowing and diffusely spreading.
+
+Fang’s attention whirled back to the leader.
+
+“Good. Now sleep here. Tomorrow, you better. If bad, back to hole. Understand?”
+
+No reply. The wrath imp was trying to process everything. The brood imps, the beat down, the weird dirt, and now those veins…
+
+“Take too long.”
+
+In the night, the reflection of a particularly shiny rock was raised in the air.
+
+This time, the warrior understood.
+
+***
+
+Kairon was doing some reflecting. He found himself doing that more and more these days. Currently, he was retracing his journey to this plane.
+
+There was a lot that was odd about it. But one detail kept sticking out. The system notification he’d gotten.
+
+“What does the title ‘provincial demonic city warden' mean to you?”
+
+Sythara gave him an odd look. “You ask silly questions,” she said, expression growing curious.
+
+They aren’t silly when you consider I became a demon only weeks ago. Though, she doesn’t know that. Probably best to keep it that way.
+
+“Yeah. But it just seems out of place. Why provincial and warden?” Kairon muttered.
+
+When it came to contracts and agreements, word choice was paramount. Just consider the difference between lord and warden. One guards, the other rules.
+
+“Master!” came a tiny voice. “We ready!”
+
+Twelve brood imps approached, each in good spirits. The sight made Kairon smile. Happy workers meant a happy boss.
+
+Wait. Is that… Blood? Hmm. It could be messy eating, but it could also be a sign of infighting. I’ll need to add this to my agenda with Shiny. He filed that away for later. There was a farm to make. If they didn’t get their food production up and going, a little blood would be the least of his worries.
+
+“Oh. Good, good. Let’s begin!”
+
+He focused on Yes.
+
+This time, Sovereign Eye let him place the plot exactly where he wanted. A purple overlay in the shape of a large rectangle moved as he willed.
+
+Where to put you… Close enough for easy travel, but far enough for any future expansion.
+
+He chose an area fifty meters from the city’s northern gate—the side opposite Valdren and The Spines. If matters did become dire, Kairon wanted his food source safely behind his settlement.
+
+Choice made, demonic scripture rose from the ground. Letter after letter was carved into the hellscape. Surprisingly, this perimeter was more square than circle.
+
+While the imps chanted and streams of purple and orange steam drifted skywards, Kairon looked at what remained in his stockpile.
+
+If this field takes more than two weeks to harvest, I really am going to have to pivot into hunting expeditions. Perhaps Sythara would be willing to help. As part of her onboarding, of course.
+
+Before him, the hellscape sand began to shift. A faint, purple glow blanketed over it. One that took hold and pulled. The terrain morphed, melding as if it were a liquid. From below, the violet light grew. With it, the ground opened, making a grating, metallic sound.
+
+“Now that’s interesting.”
+
+In all his time in this world, Kairon had only ever seen what was on top of the ground. He always assumed corruption simply erased what lay before it.
+
+But that doesn’t appear to be the case.
+
+Excavated and exposed as the rend was, he made out a clear boundary. There was a layer of sand a handful of paces in depth. Below it, however, was a compacted domain of organic matter.
+
+Roots, debris, subterranean carcasses, and insects cascaded from the rising soil, spilling back downwards into the hellscape crevices.
+
+Before he could study it further, the dirt gushed. The purple void from the demonic plane called, and rows of blood red soil answered. A wave of fresh terrain rose, filling the gap in space. Within moments, a smoking bed of hellish farmland was made.
+
+This reframes my assumption of how corruption works. I’ll need to explore this further later. What might lay beneath the surface? How could it impact resources?
+
+The city lord had his musings cut short by the notification that popped up.
+
+“Where was I? Ah, yes. Farming. Let’s see… More information than I expected. So this plot only requires a week to harvest three hundred food…” Kairon began running the figures in his head. “I’ll need to draw up another chart before we head back, but I think we can make this work. The only consideration…”
+
+When his Sovereign Eye had connected to the plot, he sensed something. A hidden need.
+
+“Gah! I should have foreseen this.”
+
+Sythara tittered. “Regretting not making the ritual circle instead?”
+
+“No, no. Not that. I didn’t consider that these plots require workers. Shiny might not like this,” he sighed. “I’m going to have to cut the hunting squad. Entirely. The three there and the two next spawns will need to be farmers. Potentially more.”
+
+“Why? Can’t these seeds just grow?”
+
+“No, I think these roots will take daily maintenance. And without proper tools, that work is going to be difficult. The state of these fields will likely have a direct influence on the yields. Right now, it says three hundred. But if we don’t care for it, our weekly harvest could be far less.”
+
+“Do you understand farming? It seems you are making many assumptions,” observed Sythara.
+
+“Being this is my domain, I do have a sort of… connection to these things. But… No. I have not done much in the botanical sciences. That doesn’t mean we can’t apply other methodologies here to learn, however.”
+
+While the imps returned to their afternoon duties, Kairon considered that last line of text in the notification.
+
+Fertility Coefficient: 0.6x
+
+That coefficient is interesting. I wonder what influences it? Our land has a top layer of sand and dirt. But beneath…
+
+Beneath he’d just seen a new world of ecology. Largely dead ecology, but still.
+
+He hummed softly. So many variables. We’ll need to test and find which actually impact that coefficient.
+
+While Kairon wasn’t a gardener, The Bureau did have some select plants in the office as part of a wildlife initiative. And when you gave them too much water, they drowned. There was obviously more to it…
+
+But that’s not right. There are demonic plants. They could survive, and possibly even thrive, on corruption. Another variable.
+
+The problem was quickly becoming more and more complex. Thoughts of optimization swimming in his head, Kairon trekked back towards the city. He was just getting in a rhythm of stick and step, when Sythara made a high pitched squeal.
+
+“What the fuck!” she screamed.
+
+His eyebrows went up. He turned around, expecting to find another scuffle, but saw… nothing. The demoness was missing.
+
+“Sythara? Are you okay?”
+
+“Who dug this in the middle of the fucking road!?”
+
+“You know, it’s not really a road…” said Kairon, walking over to investigate.
+
+Twelve brood imps and one black scaled demon gathered, peering downwards.
+
+Below, an irate Sythara glared. Her elegant body was in a tangle of shadows. Limbs, sand, and darkness strewn in equal measure.
+
+That wasn’t what caught Kairon’s attention, however. He was more interested in the purple veins glowing diffusely. And that same excavated, subterranean domain.
+
+Fascinating.
+
+Today had made one thing clear.
+
+Corruption doesn’t erase. It converts.
+
+Kairon’s domain wasn’t destroying the world beneath it. It was changing it.
+
+Whether it would be for the better—only time could tell.

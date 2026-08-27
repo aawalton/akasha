@@ -1,0 +1,213 @@
+---
+id: 51c3d6ec-c5dd-59c9-92c9-253c7a8d23dc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 39"
+slug: 0039-chapter-39
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 39
+ownLength: 1513
+unit: words
+ownProgress: 1513
+publishedAt: 2023-02-25
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1123134/chapter-39"
+royalRoadId: "1123134"
+markedReadAt: "2026-06-29T20:33:09.208Z"
+---
+
+The train left the platform and we were off.
+
+"Hey uhh. What's your name? I'm Jay by the way."
+
+The light skinned girl looked at me and smiled.
+
+"Nice to meet ya Jay. I thought you'd never ask. My name is Talia, this is Cori."
+
+She pointed to the man. He nodded at me with a small grin.
+
+I nodded back.
+
+"Well, nice to meet both of you. Do you live in the city?"
+
+Talia rolled her eyes.
+
+"For the moment, yeah. We've been traveling through a few regions these last few months. The goal is to see the whole country and making good money while we're at it."
+
+Cori looked at the ground. He was an odd guy.
+
+"Ahh okay. So you two have been to many other places... If you don't mind sharing some knowledge with me, what are the guilds like in the big cities?"
+
+Talia's eyes perked up.
+
+"So you want to join a guild? You're a D Class Hunter. Pretty much any small guild will pick you up and give you a decent contract, there's hundreds of them in the city."
+
+"Yeah, I assumed so. What about the bigger guilds? Do you know anything about them?"
+
+"Well, there's a couple pretty big guilds in Vice city. The 3 main ones are invite only, you probably wouldn't ever even be able to walk through their doors without being at least a C Class hunter with some kind of crazy skill."
+
+I looked at her with curiosity now. It's not just small talk anymore, this is interesting.
+
+"What are their names?"
+
+"Uhhh let me think. There's the Viridian Guild, that's the biggest one in Vice City right now. The Luna Guild and Fury Guild are definitely tied for a close 2nd."
+
+I grinned and nodded. I turned to look at the cement walls flying by out the window.
+
+"Interesting. I bet they have access to some really neat dungeons"
+
+I could see Talia's reflection in the window like a mirror, she made eye contact with me and continued talking.
+
+"Yeah but we're just a couple of D Class Hunters. Even if they have scouts everywhere in this city there's no way they'd reach out to us."
+
+"Yeah, yeah. I can dream."
+
+She grinned.
+
+"Screeeeeech."
+
+We made it to the troll dungeon.
+
+The escalator up was exactly the same as the dungeon I visited yesterday. At the top there was a very similar room with a floating blue portal at the back.
+
+Talia and I drew our swords, Cori stretched his arms and got into a readied state as well.
+
+We all jumped through.
+
+This is definitely a new dungeon environment for me.
+
+The ground is moist and the air is very humid. There are small swamp patches everywhere I look.
+
+The moss smells weird and pond grass rose up to my knees everywhere I stepped. Thankfully there are no bugs in sight, that's a relief. I hate bugs.
+
+When I look out far into the dungeon I can see thousands of trees. Most of them are pretty short and have long green vines hanging off their sagging branches.
+
+This is honestly a pretty gross dungeon, I should have done a bit of research before I agreed to come. I'm definitely going to have to do a deep wash my boots, or just buy a whole new set of clothes after this raid...
+
+When I squint my eyes I can make out the shadowy outline of what looks like a large tree in the back of the dungeon.
+
+"Hey, have you guys been here before? What are these troll monster like, and is that a tree back there?"
+
+Talia spoke up.
+
+"Yeah we've been here a few times this week with teams of 3 to 5. Trolls drop good mana. They're pretty tricky to kill, but with the 3 of us it shouldn't be a problem. We have two sword users."
+
+"What about that tree?"
+
+"Oh yeah, that's where the boss room is. I've never gone that far in, just heard the stories. Apparently it's a pretty tough boss, powerful magic."
+
+I nodded.
+
+"Okay. So we'll just stick around these parts for now and farm trolls. Got it."
+
+She nodded.
+
+Cori spoke up. This was the first time I heard his voice. It was light and quiet.
+
+"One enemy. 100m ahead."
+
+He must have some kind of enemy detection skill. I activated mine as well to see what he was sensing.
+
+A large creature was moving towards us at a consistent speed right in front of us like he said.
+
+I readied my sword and started walking cautiously in the direction of the incoming opponent.
+
+Cori backed up and Talia took the lead in front of him.
+
+"It's just us fighting. Cori is our support type. He'll find enemies, then help with finishing them off. The actual combat will be handled by us. Okay?"
+
+I nodded while keeping my eyes locked straight ahead. The creature was moving much faster now. It was less than 50m away.
+
+The soft swampland makes it much harder to move around with ease. I'm going to have to focus on my footing a lot more during this battle.
+
+Moments later I heard heavy footsteps splashing around in the muddy water less than 10m away.
+
+Talia yelled.
+
+"Its here! Immobilize the enemy and don't let your guard down for one second. Even if it looks dead keep your weapon ready for battle."
+
+"Got it!
+
+Talia was in a very serious battle mode right now. These trolls must really be no joke...
+
+Moments later it finally came into my view.
+
+*GRUNT* *GRUNT* *GRUNT*
+
+A nasty looking green creature came out from behind a wet sagging tree. Its arms were very long, they were almost touching the ground. The smell coming off this beast was similar to rotting flesh.
+
+It had a wide nose and its bottom teeth grew out like small tusks.
+
+The monster stood around 3m tall, each of its fingers had long claws that looked as sharp as knives. It was a menacing creature, but I've faced much scarier looking opponents before.
+
+I used inspect to see what I was really dealing with here.
+
+[Lv. 148]
+
+This monster is a few levels higher than me, but I'm sure with Talia's help it won't be too difficult to defeat.
+
+"Alright it's game time Jay. Let's do this!"
+
+We both stood in front of the disgusting creature as it charged forward.
+
+"CRRRUUAAARR!"
+
+The troll made a shrieking sound as it started to swing its arms and charged towards us.
+
+It had a very irregular and awkward movement style. This worked in its favor I guess. It was harder to tell which way it'd swing its arms at any given moment.
+
+The troll was quick, but I was definitely quicker.
+
+It looked strong... but just by the way it moved I could tell I was much stronger as well.
+
+How could this thing be a higher level than me? This seems way too easy.
+
+I out ran the monster and made a quick doge to its right. Its clawed hand flew passed me as I maneuvered myself behind it.
+
+This creature isn't the smartest tool in the shed either...
+
+Talia dodged to the left and the beast started eyeing her.
+
+It made an odd jerking motion and started sprinting towards her and away from me.
+
+Talia could definitely handle this mindless beast herself, but I wanted to show her that I can pull my own weight.
+
+First impressions are everything.
+
+I readied my sword and followed the monster as it hobbled away.
+
+I planted my right leg on a hard bit of ground making sure not to get stuck in the mud and jumped forward straight at the toll's backside.
+
+"Shinnnggg"
+
+"THUDDDD."
+
+I landed a picture perfect slash directly to the back of the monster's neck. Its head came clean off and landed in a patch of moss.
+
+I stared down at its disgusting head and its body fell into a shallow swamp behind me.
+
+I looked over to Talia with a satisfied smile on my face.
+
+"Well, that was easy. Clean hit right?"
+
+For some reason she didn't look happy for me... I spoke up and tried to lighten the mood.
+
+"Come on!! You're upset I took the first kill or something?"
+
+She still didn't even crack a smile. Talia just stood there holding her sword straight ahead looking off in the distance behind me.
+
+"Stay alert Jay! I told you. Don't underestimate these things."
+
+I stared back at her with a confused look.
+
+Then I heard movements of another troll.
+
+They must travel in pairs... or even groups..? Is this what Talia meant?
+
+I turned around and my eyes went wide.
+
+This is not what I was expecting at all.
+
+The body of a troll was climbing out of the shallow swamp... yes, just the body.
+
+I gripped my sword tightly and stared at the abomination before my eyes.
+
+The troll I had just killed... seemingly came back to life and its ready to fight me again!

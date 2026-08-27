@@ -1,0 +1,139 @@
+---
+id: fab0d20d-d05a-521b-bc9d-7dd83ddd3a95
+page-type-slug: story-chapter-royal-road
+title: "Chapter 93"
+slug: 0093-chapter-93
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 93
+ownLength: 1421
+unit: words
+ownProgress: 1421
+publishedAt: 2023-04-20
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1187153/chapter-93"
+royalRoadId: "1187153"
+markedReadAt: "2026-06-29T20:35:01.662Z"
+---
+
+Battle cries fill the air as dozens of hunters charge by swinging their weapons preparing for battle. We all step out from under the guarded tent area, and that same mirage of rippling light from when we previously entered reappears.
+
+The plain, flat, never-ending grassland dungeon distorts in front of my eyes and the genuine landscape appears in front of me.
+
+The five of us made it less than 50m before stopping to stare and take in the view.
+
+Three tall mountains stand before us. The furthest one towers over the others easily 3km higher than the solid ground we stand on now. The bright green grass below our feet remains, but the beautiful view of snow-peaked mountains with thick trees at their bases is a breathtaking sight to behold.
+
+Hunters run off in all directions to climb the first peak, I squint my eyes to see large winged creatures flying high in the sky casting shadows onto the landscape. Their exact features are hard to distinguish from this distance, but the excitement kills me. I grin ear to ear.
+
+“Let’s do this. My guess is, the boss room lies on top of the tallest mountain.”
+
+I smirk.
+
+Without another word, we join the charge forward into the unknown.
+
+Most groups of hunters seem to be minding their own business. It’s the first floor in this new test, after all, the pressure is moderately low. There isn’t much point in fighting one another just yet.
+
+After 10 minutes of light jogging and some minor deforestation, we make it through a light patch of trees that covers the base of the mountain. The teams around us have dispersed throughout the surrounding area. There are no noises of any other teams in our general vicinity.
+
+As we make our way through the heavily wooded mountain base, the abundance of plant life begins to thin out the higher we climb.
+
+Another 15 minutes pass, and I hear Maria’s excited voice call out from in front of us.
+
+“Hey! Guys! Check this out!”
+
+We all hurry up to see what the fuss is and make our way toward her. The light is shining very brightly through the trees as I climb up a small rocky ledge to where Maria’s voice came from. A warm smile appears on across my face as I walk out onto an overlook.
+
+We all stand on the massive flat boulder free of trees blocking our view to see the other two mountains towering above us and a deep valley below. The bright yellow artificial sunlight shines down on us with a magnificent glimmer.
+
+We stare off into the distance for a moment until we’re rudely interrupted by a massive gloomy shadow.
+
+The dark black outline of a large bird-like creature with wings blocks our view of the sun. It’s followed by the ear piercing Shriek of a monstrous beast.
+
+*THUDDDD*
+
+A pair of sturdy legs hit the solid rock ground 30m in front of us. The fur is golden brown and a thin yet powerful tail wags back and forth along the stone floor.
+
+My eyes open wide in awe as a massive 5m tall Griffin glares back.
+
+The monster’s towering upper body has elegant feathered wings with razor sharp talons on its front legs. The rear has golden brown fur, a long curving tail, and the ferocious looking claws of a lion.
+
+I grin with anticipation, but hold myself back and look over to Abby, giving her a nod.
+
+The green haired girl steps forward, understanding my intentions. She’s new to the team, I’m the only one here that trusts her or has even see her fight. First impressions are very thing after all. She speaks up while she begins to glow green.
+
+“I handle this one. Stand back.”
+
+The four of us watch filled with curiosity. I quickly use inspect before their brawl just to gauge its strength. This beast is level 256.
+
+“All yours.”
+
+The fight begins.
+
+Abby runs at the creature bending the rocky ground beneath her feet.
+
+The Griffin lets out another ear-piercing screech as it locks its yellow eagle eyes on the glowing girl running its way. With a single wide flap of its wings, the monster takes flight and hovers over 10m in the air looking down on all of us.
+
+Abby continues to run forward as the ground shakes violently under our feet. The rocks begin to shift, and large pillars of stone start forming in front of her.
+
+A tall moving stone staircase of pillars erupts from the ground as she runs forward stepping gracefully to each one flying high in the air to meet the winged beast at its level.
+
+With blinding speed, the Griffin makes its move. The front legs armed with talons stretch out in front of it as the monster dives forward to attack its prey.
+
+Abby places her hands to her sides and two large spears of rock materialize from the pillars she walks on.
+
+With talons and spears at the ready, the two collide moments later in a deafening clash.
+
+*CLANNGGGGGG*
+
+The sound of the reinforced stone hitting the harder-than-metal talons creates the sound of steel swords colliding as the two warriors clash. Sparks fly.
+
+They seem to be on even grounds at first. Both opponents stop in their tracks, but a true victor is soon to come out on top.
+
+Abby glows even brighter, and the spears of rock holding the Griffon back begin to deform and melt. The monster pushes forward, but I see a smirk appear on her face. The rock around the griffin’s talons reforms into a massive rectangular block of stone locking the beast’s front legs together in mid-air.
+
+In the confusion, the monster shrieks and flails its front legs about. Abby continues to form more spears of stone from the pillars below throwing two straight at the beast’s left wing while it’s distracted.
+
+A gruesome ripping sound can be heard from below as the elegant beast falls to the rocky floor with two large holes in its wing.
+
+Abby follows, shifting the rock beneath her to step down with ease facing the monster right in front of us yet again.
+
+The Griffin begins to glow with a faint yellow light and its eyes glimmer sharply.
+
+I sense something’s off, but Abby doesn’t seem to waver.
+
+The beast runs at her with its wings folded to its sides. Its sharp beak and focused gaze come hurdling at the green glowing girl.
+
+*CLANGGGG* *CRACKK*
+
+Abby attempts to block its charge with a wall of stone. The sharp beak of the massive creature pierces through with incredible newfound strength.
+
+I watch the monster land a direct hit to the center of Abby’s body, leaving her bloodied but not broken just yet.
+
+She takes the hit and grabs the Griffin’s beak with both hands. While glowing even brighter and spitting out a mouthful of blood, 6 large spears begin to form beneath both Abby and the beast.
+
+*SHINGGGGG*
+
+The enormous half-bird, half-lion cries as its body goes limp from being skewered in all directions.
+
+Humongous pillars of jagged rock lift the monster into the air as Abby lets out a sigh of relief and turns to us.
+
+“So, did I make the cut?”
+
+I smirk and nod while looking at the others.
+
+Maria watches with her arms crossed and one eyebrow raised. Nessa grins wide, and Bruce leans on his shield holding a big thumbs up, replying to her.
+
+“I’d say so. Not too bad!”
+
+She walks back over to us as the rocks behind her sink back to the ground lowering the dissolving Griffin’s body.
+
+“Good. You’re up next.”
+
+I watch from a distance with a satisfied look as the four of them examine the fallen creature’s body before it disappears back into the dungeon. They look like they’ll get along.
+
+“All right, glad we settled that. Let’s keep it moving!”
+
+We set off down towards the next mountain. This first climb was easy, we didn’t even have to scale the whole peak. This next mountain looks a bit more troubling. The trees are thicker and we’ll have to walk right over its peak to get to the last one. Trying to walk around would take much longer than necessary.
+
+I activate enemy detection, but it doesn’t help much here. Sure, we can avoid some opponents if need be, but I can’t tell hunters from monsters anymore. Everything in this dungeon is above level 250.
+
+One mountain down, two more to go.

@@ -1,0 +1,199 @@
+---
+id: 9576e42f-2f62-5319-a2a8-00244560bd58
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40 - The Wardens"
+slug: 0042-chapter-40-the-wardens
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 42
+ownLength: 2281
+unit: words
+publishedAt: 2026-07-07
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3642411/chapter-40-the-wardens"
+royalRoadId: "3642411"
+---
+
+Ahead, spires of smoke drifted into the air. This time, the smoke came from places it should. Cooking fires, makeshift chimneys, and smoking racks.
+
+Not death. Not decay. Not carnage.
+
+Tove bit down on his lip, the anger from those memories resurfacing. Anger that he was determined to find retribution for.
+
+Shaking himself, he looked ahead. He could just make out the tops of dozens of earth-made structures. Roofs and crude chimney stacks poked out of the cliffside ahead, slowly built up from decades of exile. Even after all that time, the eastern tribes preferred more natural domiciles. Living with nature, as opposed to against it, they tended to be built into large oaks or against cliff sides serving as foundations.
+
+In time, they’d added onto that foundation with structures made of mud, wood, and stone. Every time Tove came here, it felt at odds with the rest of the realm.
+
+His caravan was just cresting the main trail when a squad of warriors slid out from the trees. One second there was an open path, the entrance to the village in sight. The next, six rangers stood in their way.
+
+"Hold! Hold!" ordered their leader.
+
+Something's wrong.
+
+The group obeyed, Tove at their head.
+
+"Woodsman. State your business."
+
+"We are traders from the west," replied Tove, half in surprise. Scouts never waited out here. And their faces…
+
+This is… unexpected. Been here a dozen times, and never has anyone asked for my 'business'.
+
+Seeing the group didn’t seem satisfied, he bowed, rucksack jingling. "I am Tove, clan of none. We wish to enter the village. To trade and share important news."
+
+A second ranger stepped forward, putting their palm on the shoulder of the first. "Easy, Bensin. Let's hear them out."
+
+The first ignored him. "What news?" he snapped.
+
+Tove looked between the two, uncertain of what was going on.
+
+I don't like where this is going. If there's any chance they don't let us through… The thought of being turned away here, or even delayed, sunk in his stomach like a stone. He couldn't let those bastards' slaughter of an entire clan go unshared. Not to mention whatever sickness they were tainting the forest with. The wardens were the only people Tove knew of that could possibly do something about it.
+
+How can I get through this pass without having to risk them not believing us, or worse… Then he caught the wooden talisman around the second ranger's neck. So, he took another strategy.
+
+One palm raised upwards. "We carry the names of twenty. Maren, and her clan."
+
+Bensin's eyes darkened. He nodded shortly, raising one palm in return. "We accept the twenty—"
+
+"No!" Tove shouted, stepping forward and tugging the cloaked hand down.
+
+"Tove… careful," warned Gray from behind.
+
+The ranger tightened, free hand reaching for the dagger at his waist. His second’s quick hold from behind was the only thing that kept it from drawing.
+
+Taking a deep breath, he continued. "No," Tove repeated, more gently this time. His expression firmed, staring at the second man behind him. "These twenty must be given in calling."
+
+Around, the rangers reeled. Once a calling was invoked, the elders were bound by ancestral rite to gather the tribes and hear the caller's words. But it came at a cost.
+
+"I—" began the first ranger, only to be cut off by the second.
+
+"No. Clansman Tove. You understand that if the elders judge your calling frivolous, you will be exiled.”
+
+“I do.”
+
+“And, you understand that if the clan's people themselves judge your calling to be unwarranted, your life is forfeit.”
+
+He bit his lip, thinking back one last time to those dead bodies. I have to. To share this. I must.
+
+“I do.”
+
+"Ves! You can't seriously be considering allowing this! This—"
+
+Ves gave his comrade a hard look. "With everything going on, they might know something the elders should hear. And they've made a calling. Do you wish to forsake our ancestors' sacred rites and rituals, now of all times?"
+
+Bensin stared, gripping the bow slung around his back. "Fine. But if this goes poorly, it's on your head."
+
+Ves grunted and turned, looking at his compatriots. "A calling has been made. Alert the others."
+
+The four other rangers' eyes widened, but they obeyed, scurrying off up the trail.
+
+Minutes later a horn blew in the distance. A long, somber note. Then others joined it.
+
+One of the newest traders edged up behind, getting Gray’s attention. "What's all that? I’ve never heard it before.”
+
+“The calling.”
+
+***
+
+Tove was almost second-guessing his actions. All he could hear was the roaring. More than five hundred tribes people, each competing to be heard.
+
+The amphitheater was carved from the hillside itself. Ten natural tiers of dirt, pressed and molded into crude steps, descended to a wooden stage at the bottom. One side opened to cliff, showing The Spines in the distance. A reminder of where they all came from. The rest was entirely surrounded by dirt and clan.
+
+And all of it was chaos.
+
+Pulling his cloak protectively around his body, the trader strode briskly down the steps. They were little more than crude notches, carved ages past into the hillside. Behind, his crew followed in tow. Gray said something, but Tove had no idea what. It was far too loud.
+
+Wooden mugs were shoved from hand to hand. More than one scuffle had already broken out. The lower the tier, the higher the standing, and every clan wanted to be closer to the stage.
+
+His eyes stayed down, lest he trip and meet the clan elders face first. The staircase was steep. It had to be, to accommodate the incline.
+
+By the time he reached the bottom tier, Tove could have singled out more than a dozen men and women that had escalated from words to fists.
+
+The three elders waited on the stage. Despite the noise, none of them looked impressed.
+
+He gave a short bow. "We greet the Wardens!" Tove shouted. He wasn't sure they even heard, the fury of the crowd was so great.
+
+They must have, for elder Gael stood. Her gray curls flowed down like roots to her waist, evidence of her age. Both her gray eyes were still as stone, watching everything. She descended from the stage, before putting her mouth to his ear.
+
+"Trader Tove. Your calling has been accepted. Join us, and share your news."
+
+With that, she stepped away, returning to the center of the stage and gesturing for him to join.
+
+The words were short, but he'd met Gael before. She was always a rational woman. Reason and logic dictated her mindset. Today, however, something about the way she moved. The way she spoke. It felt off. Just like the scouts at the entrance.
+
+She too seems on edge. Maybe Valdren's infection has spread further than just one clan. Well. More reason to share what we've learned. What we've witnessed.
+
+Taking a deep breath, Tove walked onto the stage. Before he could pass the other elders, the biggest human he'd ever seen rose from his seat. Elder Rosk was an old war chief, and his scarred body showed it. He smiled, sharpened fang-like teeth glinting. "This better be worth pulling five hundred clans people from their hunts. For your sake, boy."
+
+Tove returned the challenge, eyes hard. He’d gotten the same from commanders past. “It is, elder. I wouldn’t have made it otherwise.”
+
+In fact, I’m pretty sure of all the elders, Rosk will be the one to find my news the most motivating. It's the other two I need to worry about.
+
+He gave Tove a hard slap on the back, nearly sending him sprawling. "That's the spirit, boy! Keep your head up! We'll let the tribes decide if your news is truly so dire." With a raucous laugh, he sat back down, taking a long swig from the mug at his side.
+
+Tove steadied himself and strode to the center of the platform. Once there, Elder Gael joined him. Casting her gaze out at the crowd, she raised a wooden staff. Four leaves were carved into its thick length, each representing a cardinal direction.
+
+Like a wave receding into the tides, the crowd stilled. Primal, hungry eyes turned from drink, scuffle, and threat, to Gael. And then, to Tove. The message was clear. A challenge.
+
+"Tove of no clan has made a calling. We, The Wardens, have answered. He carries the names of twenty."
+
+Nodding gratefully, Tove walked forward. "Before I give unto the name of our brethren, I have news."
+
+Best to be to the point. Looking at the impatient faces, he didn't have long.
+
+"We come from the west. By the tribes nearest the Leagues. During our last expedition, we encountered a village. Twenty folk, the names I carry. Good greens, ones I met more than once." He made eye contact with many of the tribesmen here, trying to impress his point upon them. "Greens that made us food when they didn't have to. Sent us off fed and warm despite our goods being paid for. Goods many of you have come to rely on."
+
+He let that sink in.
+
+"The twenty I spoke of weren't just found dead. They were slain. All of them. In cold murder.”
+
+At his words, murmurs of unrest spread through the crowd.
+
+"And not just slain by any! But by Valdren soldiers!" he proclaimed.
+
+"Valdren?!"
+
+"Proof!" shouted a voice from the second tier.
+
+“How do you know this?! Why would Valdren declare war on the tribes?” asked another.
+
+Tove was ready for that. Rummaging through his rucksack, he grabbed a furred bundle before tossing it on the stage in front of him. It unfurled, dozens of Valdren crests scattering across the stage. They clattered in a heap, exposing the dried blood on their metallic surfaces.
+
+Eyes widened, gasps came, and people stood. From below, Gray sighed.
+
+“I fought for Valdren. Only kingdoms from North Valdren have armor like that,” said a burly man on the third tier.
+
+“Aye! Me too! I was a smithy up there. Pass me that.”
+
+For several minutes, the bloody evidence was distributed to the higher ranking clans, elders, and tribes people. And, as exiles that could speak on the matter surfaced, more and more eyes hardened. Even out here, the eastern clans had newer arrivals that remembered. That knew.
+
+Finally, Elder Rosk lost his patience. The murmurs, the frustration, the whispers. Like a kettle boiling over, the massive war chief erupted from his chair, fangs bared, fist raised above his head.
+
+“Enough! Enough! Our own people, slain by the hands of our exilers. By Valdren!” he roared. Leaning down, he grabbed several of the metal badges and flung them into the crowd. “I say this. You spill greenfolk blood? We’ll spill yours in return, Valdren, and then some! We’ll send you back to the other sides of The Spines for good!”
+
+Mugs were thrown, hands were raised, and screams of outrage filled the gathering.
+
+"War! War! War!" began a chant. First a few, then a dozen, then a hundred. In mere moments, the entire forest rumbled with the war chant of the clans.
+
+Rosk turned to his fellow elders, snarling. "Did you hear this? War! The clan wants WAR!"
+
+***
+
+The amphitheater was quiet now. Just the wind, the distant sounds of camp life, and three figures that remained. It took some doing, but finally the clans people had taken their drink and shouts elsewhere. Now, the elders needed to decide.
+
+"This is what I warned you about. Yet, neither of you listened. I heard of this taint weeks ago. If what the trader showed us is true, the sickness of the forest must be connected to whatever Valdren is doing," spoke Senna.
+
+Rosk laughed. “You mean those leaves you’re always talking to? That’s all well and good, but for war we need more than the whims of our ancestors. We needed proof. Like what the little trader showed us. Maybe next time your leaves can give us that.”
+
+“What of the dead oak limbs we found near the game trails?” growled Senna. “Or that deer carcass, the one from the Numi clan, that had purple veins? Or the violet lights more than a dozen reported seeing a week ago? Was that not proof enough?”
+
+Gael sighed. "At the time, I agreed with Rosk. There’s always been oddities in Greensward. I assumed this was just… new. It all seemed outlandish. But with what was shared with us today… Well, I'm beginning to think we should have moved quicker to investigate them."
+
+Massive shoulders shrugging, the large warrior stood. “It hardly matters. We’ve seen what we seen. I’ll ready the clans to march for war.”
+
+Carefully, Elder Gael stood and put one hand on the big guy. “Rosk. Does this not seem a little odd to you? Or you, Senna? Does this not seem off?”
+
+“Of course it does! What’s off is we’re here, sitting and toiling away, while more clans could be under the sword of those metal bastards!” snapped Rosk.
+
+Senna looked at them both, considering. “Something is off. I think it would be presumptuous to try and cross the Spines, but what if we sent the tribes near The Pass. If any soldiers were there, they could be met. If not, we can at least investigate the taint of the forest.”
+
+It was decided. Despite the lingering uncertainty in Gael’s mind, the other two elders were for marching. So the clans would march. The preparations for such would take several weeks. But march they would.
+
+Gael just hoped they weren’t making a mistake.

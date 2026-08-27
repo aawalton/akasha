@@ -1,0 +1,279 @@
+---
+id: 898124f5-58da-5202-a528-5949ac5f32d5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21"
+slug: 0021-chapter-21
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 21
+ownLength: 1590
+unit: words
+ownProgress: 1590
+publishedAt: 2023-02-09
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1109567/chapter-21"
+royalRoadId: "1109567"
+markedReadAt: "2026-06-29T20:32:31.604Z"
+---
+
+The next morning I woke up full of energy and got dressed quickly. It's time to grind some levels.
+
+I grabbed my sword, 1 leftover HP potion, 4 silver coins, and 3 bronze. I walked out my front door and bought breakfast on the way to the village market.
+
+I had a brief conversation with my old merchant friend and purchased 4 more MP potions. Today I was Orc hunting.
+
+15 minutes later I arrived at the Pace Guild. I was greeted by Jack in the lobby.
+
+"Hey Jay! I was expecting you. Take this."
+
+He handed me a small card with my face and a Pace Guild Logo on it.
+
+"What's this?"
+
+"It's your Pace Guild ID. Show it to any private dungeon run by or partnered with the Pace Guild and you'll have unlimited access. Let me walk you to the Orc Dungeon today."
+
+"Okay sure."
+
+We strolled through the park. I studied the ID and we made it to the white fair tent in a few minutes.
+
+I showed the guards my new ID and they just nodded.
+
+We entered and Jack started rummaging through one of the top shelves in the guild's item racks.
+
+"Here take this for today!"
+
+He tossed me a small pouch, it looked just like the one I had on my waist.
+
+"W-Why? I already have a bag to carry mana and potions."
+
+Jack smirked.
+
+"That's an item box like I showed you yesterday. It's magic item. You can store all the swords and mana in there, it won't weigh you down. Just hand over the whole bag at the end of the day."
+
+My eyes widened a bit.
+
+"Oh yeahhh. Awesome!"
+
+I tied the bag around my waist right beside the pouch I already brought for today.
+
+"Well, I think I'll be alright solo today. I'll just be exp farming. I think I can handle myself."
+
+Jack nodded.
+
+"Thought so. See you later tonight. Careful, best of luck in there!"
+
+We both waved each other off and I entered the dungeon.
+
+I started off by exploring the dungeon to appease my own curiosity. I trekked around exploring every mountain and valley this dungeon had to offer. It took my about 4 hours. In this time I faced off against 12 Orcs. I didn't have to use my fire magic once. My increased speed and agility stats were almost unfair at this point. I zipped around them and defeated each Orc in 2 shots or less. I could take them out in 1 hit if I hit a vital organ with enough power. I gained at total of 2 levels from the 12 battles, I also had to use 2 MP potions. They weren't very efficient monsters for leveling, but it was good battle experience.
+
+[Status Open]
+
+____________________Name: Jay Soju
+
+Level: 94
+
+Hp: 475/475
+
+Mp: 475/475
+
+Strength: 230 [+50]
+
+Speed: 269
+
+Agility: 282
+
+Defense: 207
+
+Mental Strength: 230 [+46]
+
+Skills:
+
+AbsorptionSwordsmanshipCombat Magic [Fire Summoning]
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]Golden Wolf Ring [+20% Mental Strength]
+
+_____________________
+
+The Orcs dropped pretty large mana crystals, I placed them all in the item box. One of the Orcs dropped a long silver sword, I placed it in the item box as well. To my surprise it disappeared completely. When I stuck my hand back into the bag I could still feel the cold metal handle.
+
+It's a mini pocket world on my waist... pretty cool.
+
+After my long morning of warmups I decided to face off against the boss.
+
+I approached the light grey spinning portal and jumped through with my sword ready.
+
+Almost Immediately 3 Orcs came charging towards me. This is the most I've faced at once.
+
+I decided not to take any chances and just go all out from the start. I erupted in flames and sprinted towards the approaching beasts.
+
+Within a few seconds all 3 Orcs were sprawled out on the floor. Their necks were sliced wide open with crimson flames crackling in the silence of the empty cave. That was easy.
+
+"GRUAAAAAAAAR!"
+
+The boss appeared. To my surprise he looked much less menacing than our last meeting. My first time facing the Orc boss was a mutant after all...
+
+The monster carried a long sword this time, it didn't have that axe like the mutant. He was almost 5m tall, and a deep green color.
+
+"Sighhhhhh"
+
+I was really looking forward to a good fight, I guess I'll settle for some easy sparring practice.
+
+The beast charged towards me with disappointing speed.
+
+I sprinted towards it straight on as well. At the last moment I erupted in flames covering my body and sword. The beast shrieked as I narrowly avoided its blade and sunk mine deep into its upper chest through the leather armor.
+
+I continued my momentum pulling out my sword and flipping over the Orc. Then, I focused all my fire magic into the tip of my blade. Without hesitation I planted my right leg and jumped with my sword in both hands to land a critical strike into the monster's upper spine.
+
+"GRRRRRUAAAAHHHHHH!!!"
+
+The monster let out a roar as flames shot all the way through its body.
+
+It fell to its knees. I jumped back and positioned myself for a final attack. I finished it off the next moment with a fiery strike letting its head roll to the floor engulfed in flames.
+
+[Level Up][Level Up]
+
+____________________Name: Jay Soju
+
+Level: 96
+
+Hp: 485/485
+
+Mp: 210/485
+
+Strength: 234 [+50]
+
+Speed: 275
+
+Agility: 288
+
+Defense: 211
+
+Mental Strength: 234 [+47]
+
+Skills:
+
+AbsorptionSwordsmanshipCombat Magic [Fire Summoning]
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]Golden Wolf Ring [+20% Mental Strength]
+
+_____________________
+
+"This is too easyyyy!"
+
+I yelled out while watching the body of the Orc boss burn to a crisp.
+
+Apparently certain forest type beasts are very weak to fire, including this Orc species. I should enjoy it and reap the benefits while I can.
+
+I collected the large mana crystal before being transported back to the dungeon's start point.
+
+It was about mid day, but it'd get late soon. I trekked back towards the boss room as fast as I could. It took about an hour and a half, I fought 4 more orcs on the way but didn't level up. I drank a pink potion to restore my MP before entering the boss room.
+
+A few minutes later...
+
+[Level Up][Level Up]
+
+I was transported back to the dungeon start point with a large mana crystal in my hand.
+
+"Okay... one more time."
+
+It was getting a bit late in the day but I needed to beat the boss one more time...
+
+2hrs later, 5 Orc battles, and 1 last MP potion I made it to the boss room again. Our battle was fast, but I didn't get the exact result I wanted...
+
+[Level Up]
+
+"Ah mannn! Only 1 level?!??"
+
+I was transported back to the dungeon start point.
+
+I started sprinting up and down all the close by mountains. I wanted to find as many Orcs as possible... as quick as possible. I could tell I was so close to leveling up!
+
+"1 Orc, 2 Orcs, 3 Orcs....."
+
+1 hour later...
+
+"...7 Orcs, 8 Orc-"
+
+[Level Up]
+
+____________________Name: Jay Soju
+
+Level: 100
+
+Hp: 505/505
+
+Mp: 60/505
+
+Strength: 243 [+50]
+
+Speed: 286
+
+Agility: 300
+
+Defense: 219
+
+Mental Strength: 243 [+49]
+
+Skills:
+
+AbsorptionSwordsmanshipCombat Magic [Fire Summoning]
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]Golden Wolf Ring [+20% Mental Strength]
+
+_____________________
+
+"LETS GO!!! Finally!!!"
+
+I yelled on top of a mountain overlooking the dungeon as I pulled my sword from an Orc's head.
+
+I grinned as I walked back down the mountain and made my way out of the dungeon.
+
+I did it. I reached level 100.
+
+I walked out of the dungeon tent. It was very dark out. I stayed really late today... oops.
+
+Minutes later I entered the guild entrance to be greeted with a nod from the tall blond woman.
+
+"Hey could I talk-"
+
+"Head to his office, he's back there."
+
+"Oh okay, thanks."
+
+I walked into Jack's room after knocking.
+
+He looked up and smiled.
+
+"You were in there for a long time... how'd it go?"
+
+"Great."
+
+I smirked and emptied the item box.
+
+Around 3 dozen large mana crystals, 3 boss crystals, and a long silver sword fell out.
+
+Jack nodded with a look of satisfaction.
+
+"Good haul. Looks like you were busy today."
+
+"Yep, I'll be back tomorrow. Well.. honestly I'll be back here everyday this week. See ya tomorrow!"
+
+"Good to hear Jay! We've got more dungeons too. I'd be happy to show you around a bit. There's a cyclops dungeon out by the edge of town. It's recommended for level 130 or higher to solo the regular monsters and 150 is good for the boss. A Cyclops is half rock type and half forest type. They won't be as weak to fire as the Orcs.... but having a fire attack will definitely be beneficial!"
+
+I raised an eyebrow.
+
+"Alright. Good to know. I'll take you up on that offer soon. Let me finish up my training in the Orc dungeon. Maybe next week I'll try that one out with you as my guide."
+
+Jack nodded.
+
+"Perfect. Always a pleasure. Have a good night Jay."
+
+"You too, see ya."
+
+I walked out the front door of the guild with a huge smile on my face.
+
+I opened up my status and stared at it all the way home. I'm really level 100... I can apply for a D Class rank now!

@@ -1,0 +1,153 @@
+---
+id: d3ae9b8b-00d2-5bf4-a591-cd03dddef672
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5"
+slug: 0005-chapter-5
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 5
+ownLength: 1424
+unit: words
+ownProgress: 1424
+publishedAt: 2023-02-05
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1106376/chapter-5"
+royalRoadId: "1106376"
+markedReadAt: "2026-06-29T20:31:57.455Z"
+---
+
+I slowly walked home thinking about the last few hours in my head over and over like it was a dream.  When I got to my apartment building I walked up the small staircase to my door, twisted the key, and went inside.
+
+I threw the mana crystal onto my desk, put the long sword up against the wall next to my closet, took off my clothes and boots, then turned on a steaming hot shower. I scrubbed every last speck of dirt and blood until my skin hurt, then I just stood there and let the hot water roll down my back.
+
+Once I was content I turned the water off, dried myself with a new towel, threw on some boxers and jumped in bed.
+
+It was about noon, but I was too exhausted to care. Within a few minutes I was fast asleep.
+
+Around 8 or 9 at night I finally woke up with my stomach growling, I needed some good food asap. I put on my other pair of black jeans with no holes in the knees and a random black tee from my closet, threw on my boots then stood and stretched a bit. I grabbed the mana crystal on my desk and walked out the door to the village market, it was Friday night so there was bound to be something good open tonight.
+
+I walked up to the old merchant I used to sell my mana crystals to. I toss him the crystal I had acquired earlier in the day.
+
+"How much can I get for this one?"
+
+He looked at me with his right eyebrow raised a bit and placed the crystal on the measuring dish. In big black numbers I saw "41.3MU".
+
+"Now that's quite a rock you brought in today, I'll give ya 40 bronze coins for it."
+
+"Deal."
+
+He took the crystal and placed it in a drawer under the shop counter. Then he pulled out 40 bronze coins.
+
+"U-uhh I didn't think this through."
+
+I said as I awkwardly shoved all the coins into my left pocket. The merchant laughed a little.
+
+"Pleasure doing business with you, hope I see you again soon!"
+
+I turned and smiled.
+
+"You too, I'll drop by tomorrow morning I have a sword I'd like you to look at."
+
+"Alright, I'm looking forward to it."
+
+I went straight to the bar, ordered a huge plate of wings and a draft beer. I needed a full belly, and an empty mind.
+
+I stayed for a few more hours and drank a few more beers. Nothing crazy, just enough to have a good time and relax a bit. Around midnight I went back home and managed to fall asleep again for a few hours.
+
+I woke up very early the next morning with a few things on my mind. I needed to get this sword checked out, and I needed to report what happened in the dungeon to the Hunters Association.
+
+If it were up to me I'd keep it a secret, but it was known in some circles that I was the porter on this particular squad of 5 for quite a while now. The fact that they were all just missing and I was still walking around would slowly become rather suspicious. It's better that I file a report ASAP. There may still be some backlash because I was a lone survivor. People will have their theories, but at least I won't get in trouble with the Hunters Association if I just report it today.
+
+After last night I had about 26 bronze coins left over from the mana crystal I sold, add that to the 33 I had in my bedside table and that's 59 bronze coins on total.
+
+I'm broke... and out of a job.
+
+I guess I'll have to go back to hunting goblins, especially after this news gets out, no one will want to party with me.
+
+I grab my sword and 15 bronze coins for breakfast plus whatever else I'll need to buy today. I head out the door and towards the village market.
+
+I saw the old merchant and give him a smile and wave from a distance.
+
+"Hey boy, welcome back so soon. What can I do for you today?"
+
+I hand him the sword with a satisfied smile.
+
+"Can you tell me anything about this sword? I received it in a boss fight as an item drop I'm trying to see what it's worth."
+
+"Sure thing, I have the [inspect] skill. I can see any magical item's true value and purpose at a glance."
+
+He looked at the sword for a moment and his eyes widened a bit.
+
+"This is a nice piece of art you've got here. It's a stainless steel long sword with a strength buff built in. Whenever you use this sword in battle you will receive a +50 boost in your strength stat. Not a bad find. I'll buy it off you for 6 silver coins."
+
+"6 silver coins???"
+
+That's 3 months rent in one drop. I'd have to be crazy not to accept this offer... Then again, it's a pretty valuable sword that I could use to get much stronger in the future.
+
+I just paid rent, I'll have plenty of time to make money this month. When else will I get the chance to get my hands on a magical item like this?
+
+The shop keeper repeated himself.
+
+"Yes, i can offer you 6 silver coins. I'll still be able to make a small profit, I'm sure I can find the right buyer for a sword like that."
+
+I gripped the sword and thought to myself for a few more seconds, then I shook my head.
+
+"I'm going to have to refuse to sell today, I'm sorry. I'd like to use this sword myself. Maybe you have a sheath that'd fit a sword this size? I'd like to be able to easily carry it around on my back."
+
+The merchant looked a bit disappointed, but carried on without hesitation to make his next sale.
+
+"Sure thing, here's a black leather sheath that will match your sword and appearance quite nicely. "
+
+"I like it, how much?"
+
+"10 bronze coins for you."
+
+After breakfast I have 12 bronze left in my left pocket, just enough. I place 10 on the counter leaving 2 in my left pocket. I take the sheath, place my sword inside, and sling the strap over my right shoulder and under my left arm.
+
+"This will definitely do. Thanks again. I'll be seeing you soon old man."
+
+"Always a pleasure, see you soon."
+
+I hop on the next train out to the hunters association. While watching the houses fly by outside the window I pop up my status and take a look...
+
+[Status Open]_____________________Name: Jay Soju
+
+Level: 26
+
+Hp: 135/135
+
+Mp: 135/135
+
+Strength: 67 [+50]
+
+Speed: 75
+
+Agility: 80
+
+Defense: 62
+
+Mental Strength: 68
+
+Skills:
+
+AbsorptionSwordsmanship
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]
+
+_____________________
+
+Alright. So that [+50] makes sense now. It's thanks to my new sword... but this new skill...
+
+This new skill..?!? Wait... It really wasn't a dream... My absorption skill... It...
+
+It really allows me to absorb a monster's skill once I defeat it. I just didn't realize until now because I'd been fighting goblins with no skills to take.
+
+All my tests were useless because I was just testing for the wrong thing. I shook with excitement but also some nerves. This whole situation has its ups and downs.
+
+It's good, because I finally have a skill that'll be useful for fighting: "Swordsmanship". I've read its like intuition that takes over and the user becomes one with his sword in battle. The user grows in experience as he fights more battles. A skill's power is very dependent on the users level. Swordsmanship is one of the most common skills, but still it's one of the most useful. I'm excited to try this skill out, maybe I'll get a chance later today.
+
+There is a downside here. I have a very odd unique skill. Not many people acquire unique skills, and on top of that a skill with this much potential... I could be targeted by a number of groups for too many reasons to count. It's best I keep this a secret for as long as I possibly can.
+
+"Screeeeeechhh"
+
+The train finally came to a halt at my stop. I stepped out onto the open platform and make my way towards the Hunters Association building.

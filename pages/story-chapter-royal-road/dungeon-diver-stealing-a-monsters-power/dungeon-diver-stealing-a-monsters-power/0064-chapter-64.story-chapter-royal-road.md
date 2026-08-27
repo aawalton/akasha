@@ -1,0 +1,313 @@
+---
+id: 88d67e57-72ed-5041-9951-70a3a8df40fc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 64"
+slug: 0064-chapter-64
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 64
+ownLength: 2559
+unit: words
+ownProgress: 2559
+publishedAt: 2023-03-22
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1145637/chapter-64"
+royalRoadId: "1145637"
+markedReadAt: "2026-06-29T20:34:01.162Z"
+---
+
+Bernard walked me up the stairway back to Bri’s room, or better yet, her lair.
+
+“How was your shopping trip? Find anything good?”
+
+She walked towards us as I stepped into her office. Bernard stayed back and let me approach.
+
+“Yeah, I got a few things!”
+
+I lifted the new necklace off my chest while kicking up my right foot to show the new boots.
+
+Bri nodded and walked towards her desk. A large black rectangular box rested in the middle of it. She glanced over at me, then back to the box.
+
+“Come open it, I think you’re going to be happily surprised.”
+
+A mischievous grin appeared on her face. I didn't care, I walked over to the case with a smirk of my own.
+
+I stood over the box with both hands hovering over either side. Bri stepped back and I gulped to calm my nerves. The box hummed quietly, it must be some sort of containment item.
+
+*Click*
+
+I grabbed both sides of the box and opened it in one swift movement for a grand reveal.
+
+The room felt different the moment my eyes met the blade. It’s almost like it has a mind of its own and it just found its new owner… I can't shake the feeling it's watching me.
+
+It’s a long sword with a very similar shape that I’m used to, but it’s jet-black and glimmers blood red depending on how you look at it In the light. I can already tell it's a one-of-a-kind piece.
+
+I reach towards the handle and that feeling of being watched becomes stronger and stronger.
+
+I tighten my face and got into a sturdy stance, it only feels natural. I grab the sword and hold it high up in the air.
+
+It began to glow a dim crimson shade the moment I grasped it, but the color returned to black a few seconds later. The blade’s handle feels warm to the touch. Initially, it felt like there was foreign energy flowing into my body, but now it feels very natural like the energy belongs to me. There’s a significant strength stat boost, I feel incredible.
+
+I looked the sword up and down as I brought it back down to my side. The feeling of being watched is totally gone now. I didn’t just imagine it out of excitement, did I?
+
+Next, I check my status.
+
+____________________
+
+Name: Jay Soju
+
+Level: 211
+
+Hp: 1060/1060 [+500/500]
+
+Mp: 1060/1060
+
+Strength: 512 [+384]
+
+Speed: 606 [+364]
+
+Agility: 630
+
+Defense: 451 [+180]
+
+Mental Strength: 512 [+102][+128]
+
+Skills:
+
+Absorption
+
+Swordsmanship
+
+Combat Magic [Fire Summoning]
+
+Inspect [Special Grade]
+
+Enemy Detection
+
+Body Hardening[Special Grade]
+
+Self Regeneration
+
+Spacial Magic[Item Storage]
+
+Plunderer
+
+Telekinesis
+
+Items Equipped:
+
+Golden Wolf Ring [+20% Mental Strength]
+
+Cyclops Eye Pendant [+40% Defense]
+
+Dark Elf Boots [+60% Speed]
+
+Extra Life [Bonus 500 HP]
+
+The Flame Emperor’s Sword [Fire Aspect][+75% Strength][+25% Mental Strength]
+
+_____________________
+
+“The… Flame Emperor’s Sword…?”
+
+I gripped the handle tighter and smirked. Bri walked towards me.
+
+“I thought you’d like the name, I came up with it myself. I think you have great potential.”
+
+I turned to face her and bowed politely.
+
+“Thanks. When's the fight?”
+
+Bri smirked.
+
+“The next match is in a little under an hour. I put your name on the roster and registered you in the U250 league. I’m your sponsor, so don’t die out there. It’ll make me look bad.”
+
+“Hey! Ya know I wasn’t planning on it!”
+
+“That’s a special sword. I don’t think I’ve made one quite like it. It’ll definitely have a wild spirit in the heat battle.”
+
+“It’ll what?”
+
+She grinned and turned towards the door.
+
+“I think it’s better if you find out on your own. Let’s head off to the Rumble Dome, I’d like to watch your match. Bernard, hold down the fort while I’m gone.”
+
+“Yes, Ms. Briana. Leave it to me.”
+
+With a nod he walked downstairs and left Bri and me standing alone in her office.
+
+Bri put her finger up in the air and the light in the room started to slowly disappear as she walked toward the stairs.
+
+I took one last good look at my sword and put it into my item box so It’d be accessible without using my storage skill. I followed her all the way down to the cellar and through the heavy metal door.
+
+“This way, it shouldn’t take too long.”
+
+Again, I feel like I’m being dragged around.. but I signed up for this. There’s no backing out now. Plus, I’m itching to try out this new sword. Preferably on some monsters, but people will have to do for the time being.
+
+With my boosted stats and new items, there’s no way anyone could be even close to my league… right?
+
+We walked through the underground market in silence for a little under half and hour until finally Bri spoke up.
+
+“This is it.”
+
+She stopped and turned to a normal-looking metal door. It seemed like all the other ones, but a few people were standing outside it waiting in line. We did the same.
+
+After another 5 minutes the line got to us and we waited in front of the metal door. A small area near the key hole opened up and a voice came out.
+
+“What’s the password?’
+
+Bri rolled her eyes.
+
+“It’s Ms. Briana, I don’t need a password!”
+
+I could hear the locks on the doors clicking and turning rapidly and the door swung open.
+
+“Y-Yes ma’am, welcome back to the Rumble Dome. Please find a seat in any high rollers booth you’d like.”
+
+Bri grinned and nodded at the short skinny man behind the door and she motioned for me to follow her in.
+
+My eyes opened wide as we walked forward into the underground room. It had high ceilings that went up about 20m. This must be connected to a warehouse or something on the surface and they just hallowed the building leaving a frame above ground.
+
+The room itself is about 50m by 50m wide and long. There are poorly made metal bleachers that go up about 5m and VIP-looking booths on top of each of them. Most of the crowd is on the ground. If I had to guess, there are about 150 people packed into this room screaming and shouting at the spectacle in the center of the room.
+
+I’ve never seen anything like it…. Now I understand why its called the Rumble Dome.
+
+There’s a circular white flooring that is about 15m in diameter in the center of the room. The entire floor is surrounded by a fence like material that encapsulates the fight pit in a dome looking structure. The metal is covered in wires and powered by magical items to protect the audience from what happens within. It’s a makeshift mana shield, it’s continuously shaking and forcing the ground rumble all around it.
+
+What a sight to see… this is the Rumble Dome. Bri spoke up.
+
+“Enough staring, let’s get up close. We have enough time to watch one fight before yours.”
+
+I nodded and walked forward with her.
+
+We weaved through the crowd of cheering fans drunk off the excitement of violence.
+
+Once we got close to the dome the rumbling was pretty intense. It’s really loud, but people here don’t seem to mind at all.
+
+In the arena right now there were two fighters in the middle of battle. There’s a short blond man with a scar across his eye holding two daggers and zipping around the circle attempting to land hits on his opponent. The opponent seems to be a tank of some sort. He’s a heavier set man, so he can’t match the speed of his opponent. All he’s doing is positioning himself behind his shield and blocking every attack that comes his way.
+
+The crowd seems to love it.
+
+It’s interesting, but these are clearly some lower-level D-Class fighters, maybe even high E-class with decent gear. I can follow their movements very easily.
+
+Still, it’ll be entertaining to watch.
+
+I stood there watching the match ensue with my arms crossed while Bri patiently watched as well.
+
+After 3 more minutes of pointless running around the dagger user started slowing down. He must have used up a lot of his MP or just regular endurance. The tank made his move.
+
+With a loud yell, he jumped out from behind his shield while the dagger user attacked and faced him head-on. The tank raised his right hand and green vines sprouted out. He glowed bright green and let out a considerable amount of mana. It looks like this is his finishing move, he’d been conserving MP and waiting to use it.
+
+Moments later the vines wrapped tight around the exhausted dagger user and he yelled out in agony as they slowly squeezed the life out of him.
+
+“THAT’S IT! I FORFEIT! I FORFEIT! YOU WIN!”
+
+The tank dropped him to the ground and he gasped for a breath. The tank raised both hands in the air and celebrated.
+
+Half the crowd cheered and went wild, the other half booed and threw trash at the cage where the dagger user lay on the ground.
+
+As the tank pumped his hands in the air and retrieved his sword I heard a loud voice echo from above. The crowd settled down.
+
+“That’s it for our U150 match today!! Our winner by forfeit is Tanner Mason! Congratulations!”
+
+Two workers opened up the cage. Tanner bowed and kicked the kneeling dagger user on his way out. The crowd went wild again. They're ruthless.
+
+“Our next match will start up in about 10 minutes, get ready folks. We have two new U250 fighters that will be competing to get a crack at our reigning champion for the main event! You’re not going to want to miss this one! Please make sure to place your bets before the fight begins.”
+
+I spun around to look at Bri, she just happily grinned at me.
+
+“Come on, this way.”
+
+She motioned for me to follow her.
+
+“Hey! What’s this about?? I only need to win 1 fight right?? What’s all this about a main event.”
+
+Bri kept walking and didn’t turn around.
+
+“Correct, forfeit your second match if you wish. You have to win your first one before we can talk about that though.”
+
+“Fine.”
+
+I followed her to the opening in the cage and watched an amateur medic carry the dagger user out of the cage.
+
+A worker approached us.
+
+“Welcome, Ms. Briana! We haven’t seen you in a while, glad to see you back with a new fighter. You’d like to use the name listed here?”
+
+He turned a paper to her and she nodded. I tied to get a look but he folded it in half and faced me.
+
+“All right, please take out all the necessary items you’ll need for this match. HP and MP potions are prohibited, anything else goes. I’m going to have to ask you to take that item box off your waist. Items concealing potential banned items are also prohibited, this is more of a common sense ruling.”
+
+I nodded and took my sword out of my item box. It didn't glow red this time, the blade just felt normal. I scratched my head for a moment, then untied the pouch and handed it to Bri.
+
+“Uhh could you hold this for me?”
+
+“Sure, but I want you to wear this.”
+
+Seemingly from out of nowhere Bri handed me a dark black mask. There are red marks over the eyes that appear to be flames and small horns that come off the top, it's almost like a demon’s face. I guess it looks cool… but…
+
+“W-What is this? Why?”
+
+She grinned.
+
+“It’s just a good luck charm. You might not want any more people to see your face down here, especially while you fight. Wouldn’t you say so?”
+
+I gulped and looked around. She’s right… Not a bad idea.
+
+I took the mask and place it on my face. It magically fit like a glove. There aren't any holes in it, but i can see and breathe fine. I didn’t feel any different, and there's no change in my status.
+
+“Thanks. Appreciate it.”
+
+“No problem. Best of luck out there. Again... Remember to not die, I’ll look bad.”
+
+With a smile, Bri turned and made her way to the back of the room into one of the VIP high roller seats.
+
+I grinned and rolled my eyes.
+
+The worker spoke up and pointed inside the ring.
+
+“All right kid, get to the back corner. Your opponent should be here shortly.”
+
+I nodded and walked to the back of the ring as he asked.
+
+The crowd began to chatter.
+
+I stood there in all black head to toe with a demon mask and holding a jet-black sword. I hope I look cool.. this isn’t overdoing it right?
+
+Less than a minute later a tall man with long flowing white hair approached the cage door. He wore lightweight silver armor from his shoes up to his neck. His face carried a blank expression as he looked at me with crystal-clear blue eyes. His skin is pale white and he glides gracefully as he walks.
+
+What kind of outcast is this? I was expecting a grunt with a club…. Not some noble knight.
+
+He talked to the worker and pulled a long silver sword from an item box before nodding and entering the ring.
+
+The door shut behind him and we stared at each other as the metal cage rumbled the ground below.
+
+A loud voice echoed above us.
+
+“Thank you all for waiting! Our first U250 fight of the day is about to get started! Please welcome our two brand-new fighters!”
+
+The crowd went wild.
+
+I looked around to see all eyes on me. It’s nerve-wracking but also exhilarating.
+
+“I’d like to introduce our first fighter, the proud 11th son of our very own underground trade commissioner Mr. Solace. 21 years old, 186cm tall, and 93kg. His overall fight record in the Rumble Dome is 0 Wins, 0 Losses, and 0 Ties. It’s all going to change today, let’s hear it for Xavier Solace!”
+
+He let out a thin smile and waved to the crowd as they clapped and cheered.
+
+“Next, we have a new recruit being sponsored by the one and only Ms. Briana. It feels like a lifetime ago since she dominated the Rumble Dome herself, we can’t forget a legend!”
+
+The crowd jumped and screamed erupting into madness.
+
+I looked around in awe. I had no idea she was such a big deal….
+
+“Could this new recruit continue her legacy? Only time will tell! Coming in at 20 years old, 181cm, and weighing 84kg. With an overall fight record in the Rumble Dome of 0 Wins, 0 Losses, and 0 Ties. Please Welcome, The Flame Emperor!”
+
+I froze…..
+
+She really submitted my name as the Flame Emperor….
+
+I guess I have to go with it now....
+
+I slowly raised my sword up into the air and let my MP flow through it. It glowed light red as I activated my fire magic.
+
+A massive eruption of flames ignited around the blade as I pointed it to the ceiling.
+
+The building shook and ear piercing cheers came from the audience. The crowd went absolutely wild!

@@ -1,0 +1,91 @@
+---
+id: 4641609f-ed39-5a7a-a094-df7659f90417
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6 - Marching Orders"
+slug: 0006-chapter-6-marching-orders
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 6
+ownLength: 1247
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3423563/chapter-6-marching-orders"
+royalRoadId: "3423563"
+---
+
+"I just don't see a way to make this work, my lord. The treasury won't hold forever."
+
+Hallen took a long sip of his drink, before setting the glass down and studying his advisor. "Aldous, why must you always be so dreary? For God's sake, man, we have the charter for the west pass in writing. Today should be a day of celebration!"
+
+"Yes, my lord, but consider that historically there is little to no traffic or trade through the pass. Just whom, may I ask, do you think will pay these tolls?"
+
+Hallen frowned, grabbing the goblet again and swishing it thoughtfully. "You know I really thought you were more shrewd than that. Do you know what my dear cousin told me?"
+
+Aldous scoffed. "Neve? That man has told you a great many things, and few of them ever seem to hold much truth. It'd be best for us all if the fool would keep his travels elsewhere."
+
+"Yes, well be that as it may, I have it on good authority this may be different. You see... I hear there may be a path to the Northern Leagues through the west pass and Greensward."
+
+His servant's eyebrows rose, but that was the only reaction the old man deigned to show. The young Lord Hallen continued, unperturbed. "And if we can find that route, good Aldous, we don't need to worry about all those angry letters from Lord Vask. He can keep his little forts to our west."
+
+"And if this pass doesn't exist, or even if it does, do you truly think the leagues would trade with you after what your father did?"
+
+"Aldous, Aldous, Aldous. If there's one thing The Leagues are always looking for, it's trade. And-"
+
+Before they could continue, the study door burst open. Captain Breck stumbled inside, dripping rainwater and mud with every step. "Apologies for the late intrusion, Lord Hallen, but I bring news that cannot wait."
+
+Hallen leaned back in his chair, thoughts of trade forgotten as he glowered at the stained carpet. "Aldous, make sure we have someone see to that... mess please. Now, Captain Breck... So good to see you." Hallen sighed. "I'd say take a seat, but given the state of your dress... I'm not so inclined. What is it that couldn't wait until you could at least clean up?"
+
+If Breck was bothered by the pointed remarks, he chose not to show it. "Yes, yes, yes. My lord. Demons are to the north. Demons!! Something wicked and evil, truly. They resided in a tower made of stone so perfect and dark. I've never seen anything like it. And on top, there was a floating eyeball. An eyeball! The size of a cart. And it looked at us. It was... It was terrible, my lord. Just terrible!" The captain was speaking in a rush, each word coming out quicker than the last.
+
+The mention of demons had Hallen's eyes narrowing. Something cruel came alight behind them. "Demons? Really? Describe them to me."
+
+"Red ones, with clawed hands and sharp fangs... and a big black one with scales and claws bigger than my belt dagger."
+
+With each word, the interest in Hallen's eyes grew more and more. "Oh my..." he gasped quietly. "And how many, did you say?"
+
+"I didn't, my lord... About seven. Perhaps more lurking inside the tower itself. We couldn't be certain." Breck straightened, finding his composure. "We withdrew in good order after conducting a full reconnaissance of the area."
+
+Aldous glanced at Breck's empty hands. The captain had left with a spear, but currently held none.
+
+Hallen, for his part, stood, walking over to Breck and making an inviting gesture with both hands. "Captain Breck. How would you like to be my guest for dinner tonight? I know it's a bit late, but I'm sure Aldous can find us something from the kitchens. We have so much to discuss." The way he said that last line brought a chill over even Captain Breck's spine.
+
+The captain hesitated, looking to Aldous for support. None came.
+
+"Ah. You see my lord, the travels were quite rough. We returned as quickly as we could to get you the news... I'm not sure if I'd make a proper guest," he said finally.
+
+"Oh, I'm sure we'll manage. Think of this as a reward!"
+
+The captain still didn't look convinced.
+
+"You wouldn't refuse your lord, would you?"
+
+"I... I... I suppose not."
+
+"Splendid! If you would, please-"
+
+Aldous coughed delicately into his gloved hands. Hallen glared at the old man, before sighing and turning back to Breck. "Wait in the parlour downstairs would you? I'll be with you shortly."
+
+Captain Breck's mouth opened and closed several times, but no noise came out. Finally, the soldier took a deep breath, bowed, and departed for the stairs.
+
+By the time the soldier was out of earshot, Aldous had a serious look on his face. His already pale skin had somehow gotten even whiter.
+
+"My lord, I know your fascinations, but this is hardly the time. With everything going on, we must truly consider what is best for our house."
+
+"Must we...?" asked Hallen, pursing his lips thoughtfully. "Aldous... Just consider it! Demonic creatures. Actual, real, breathing demons! How exotic, isn't it? Possibly those that are from another realm? Stone that we've never seen, darker than night itself? And inside that stone, who knows what these creatures are hiding. And only what, seven of them?"
+
+"Seven that he saw, my lord. And those seven, mind you, weren't human. We don't know what they're capable of, and how many more may have been hiding or not seen. The men were in a panic, and by Captain Breck's account, I tend to think they took one look at the place and left without a second glance."
+
+"Yes, yes. The man's a coward. We know that. But... Aldous. Our fortunes may have just turned. If we pull from the garrison, and send a force of say... eighty men? That would leave enough in case Vask gets any ideas. And once we conquer this mysterious tower..."
+
+Aldous stared, horrified at his liege. "That. You can't seriously be suggesting that we not only hide this news, but actively try and fight these... these... creatures?"
+
+"Oh, I very much am. In fact, I'm contemplating going myself. With everything going on, it might be worth it."
+
+If Aldous was uncertain of his lord's motivations, this made him all too sure now.
+
+"My lord! That is beyond foolish! This. Even if you are successful, what would we tell The Solari and their paladins? Surely their agents would know that half the garrison, and you yourself went North. They'd know something was there, and if they caught wind that you hid unholy sightings from them..."
+
+Hallen rubbed his chin, humming quietly. He let out a long, disappointed sigh. "Yes, yes. You are right, of course. I can't go. But if I were to stay... We could send the force under Ashlan and call it a patrol. Maybe pass some rumors through the local taverns that we needed to set up better roads on the pass. I think we could do that, couldn't we? Yes... Yes, this could work very well."
+
+"My lord, please-"
+
+"That's enough! Aldous, you are invaluable and loyal. But tonight, you need to trust my judgement. Now, leave me to think. Tomorrow, we meet with Commander Ashlan. I mean to have the expedition gone within the week."

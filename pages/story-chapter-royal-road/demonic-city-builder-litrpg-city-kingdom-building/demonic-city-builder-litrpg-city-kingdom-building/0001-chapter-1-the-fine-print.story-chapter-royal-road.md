@@ -1,0 +1,197 @@
+---
+id: 55067c7b-84be-54a2-80c5-d2ee8d25b12d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1 - The Fine Print"
+slug: 0001-chapter-1-the-fine-print
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 1
+ownLength: 2539
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3423389/chapter-1-the-fine-print"
+royalRoadId: "3423389"
+---
+
+Plop.
+
+Well, here we are! Kairon gripped the hem of his cloak and breathed in. Fresh valley air flowed into his nose and out through his mouth. The feeling was far more natural and real than anything that the System Bureau could "create". Though, The System itself only knows how many pathogens I just inhaled.
+
+Grimacing, he made a concerted effort to put that from his mind. Instead, he forced himself to just take in the moment. Bright chirps filled the air, cut only by the rustle of leaves and gurgle of a nearby stream.
+
+Just as Tavaren promised. A cozy valley start, heavenly and perfect in every way imaginable for a new city to be built upon. It ought to be. Over fifty cycles with a track record most clerks couldn't hope to match. Perfect marks.
+
+Plop.
+
+And so it begins. Running careful fingers down his garments, Kairon pressed the fabric smooth.
+
+"Hello there?" came a voice from behind, followed by a small cough.
+
+"Yes, yes; just a moment, now," Kairon replied with just a touch of firmness in his voice. In his experience, expectations were made not just by what you said, but how you said it.
+
+He waited just a second to ensure the point was made and no reply was coming.
+
+That seen to, he looked down at the golden medallion affixed to his collar. Provincial City Lord. Scrunching his nose, he tried his best to suppress the burst of delight the sight brought him. So much work, all for just a tiny piece of metal. He slightly straightened the badge out, flicked it for good measure, and nodded.
+
+It seemed even the sun itself approved of his care, for not a moment later a brilliant spark of gold reflected from its surface.
+
+Kairon snorted and glanced up at the sky. I see you up there, almighty overlord.
+
+Plop, plop, plop, plop, plop, plop, plop, plop, plop.
+
+And that's ten. All of them. Kairon turned slowly, letting his cloak flare out behind him. He ran his gaze across the ten newcomers that had just been plucked from their respective realities and migrated to their new homes.
+
+"Greetings all! I am City Lord Kairon! And I am so very glad to meet you all. Now, we have much to do and little time to do it. Before we begin, are there any questions?" Some might call asking that foolish. But Kairon valued those who sought knowledge. It was the mark of a sound mind. A mindset that he wished on more than one occasion his own supervisors had shared.
+
+Ten sets of eyes were immediately drawn first to him, then to the badge on his chest. A burly man with a peppered beard spoke up first.
+
+"Hey, uh, why does that badge say Provincial City Lord?"
+
+"Yeah, I was told that the migration came with certain assurances. Weren't we supposed to be coming out with a Prince?" chimed another voice. A red-haired woman with a shrill, grating tone.
+
+"That's right! Prince Tavaren. Where is he?" demanded another man.
+
+The gazes were growing more confused and concerned now. Kairon's grin didn't entirely disappear, but it did falter. "Oh. Yes, that..." A few coughs. Not awkward, just clearing the throat.
+
+"Well, as it happens, Tavaren noticed that all of you are, strictly speaking, more qualified and competent than typical migrants to the frontier. And, seeing that each of you did pay for a premium transportation package, Tavaren and The Bureau felt that some restructuring was in order."
+
+"And that restructuring was to replace a titled prince with... a provincial nobody?!" demanded the first man. Grunts and general sounds of agreement were quick to follow.
+
+Despite the general mood of his new villagers, Kairon wasn't perturbed. Not in the slightest. In fact, he had always found a special satisfaction in overachieving. This seemed to be just such an opportunity.
+
+He clapped twice before cutting in. "Now, now. Listen up here. I understand that seeing the word 'Provincial' on my badge, paired with the fact that your new leader isn't who you expected, is cause for concern. Trust me, if I were in your shoes, I'd be up in arms. Who wouldn't want a prince of the realms and all the benefits that come with them instead?"
+
+He paused, letting that sink in.
+
+"But what you might not realize is that I actually work for the very System that brought all of you here. Yes, that's right! The very same almighty one you all know and fear so well."
+
+One or two sets of eyes, probably the sharper of the batch, widened at this. Kairon was fairly certain that instead of scorn, he saw assessment in those.
+
+However, the rest. Well. They weren't so happy.
+
+"Great. So, you can get in contact with your boss or something and have Tavaren sent here? Sort all of this out? Maybe refund our contributions, too?"
+
+Lots of eyes brightened at that. Kairon, however, hissed at the word.
+
+"Refund?!" Kairon nearly spat the word, before licking his lips and tasting it. The feeling it left on his tongue sizzled with bitterness. A sensation akin to poison.
+
+"Please don't use that word. It's... the system doesn't like it. It tends to cause... unforeseen consequences. You know, I've seen more than a few worlds turned inside out with such demands." He chuckled ruefully.
+
+"As a matter of speaking, one such realm demanded a-. Ah. You know what, never mind all that business. Nasty stuff." Kairon was about to continue his recount, but was getting the distinct impression that would not be wise.
+
+I expected some pushback, and even wanted some, but I suppose nothing I say is going to really fix matters here. Best to move on with this.
+
+"Okay, here is what we'll do. I need to do some light reading. In the meantime, why don't you all get to know each other. As you can see," Kairon gestured at the piles of crates and sacks behind the crowd, "there is food and provision aplenty. Eat, drink, and relax in the sun."
+
+The wiry clerk thought that'd be the end of it, but it seemed he was wrong.
+
+"Now, wait just a minute. We have far more to discuss and I want to return to our earlier conversation," began one of the women. Before the others could agree and start an all-out riot, Kairon quickly cut in.
+
+"I should note that there is both fresh ale and warm rations in those stores. And, mind you, much of it will not keep. Even if it did, we will be restricting daily consumption for the time being after I'm done with my reading. So, I would suggest you all have your fill while able."
+
+He half expected more arguments, especially at the notion that their unpopular new leader might have the gall to restrict their food stores.
+
+Instead, it was like watching a pack of rabid wolves. All but two of the villagers dove on the stores. Moments later, after shooting suspicious glares his way, the stragglers followed.
+
+I guess that's what limited supply does. Especially when said supply is free.
+
+Rubbing his hands together, Kairon turned around and made his way to a nearby maple tree. The warmth of the day caressed his skin, melting off the worst of the sour mood left in the air. By the time he made it to the gnarled stump, he'd even started a little hum.
+
+Now... Time to see what I can squeeze out of our greedy overlord. Snickering to himself, Kairon sat down in the shade, made himself comfortable, and willed his menu open.
+
+Let's see. So this is how this looks from the other side. Inventory, skills, level, party, city - we'll come back to you later... but what I want should be here somewhere... please be here, please be here...
+
+Flicking through several options, he dug around for a couple of minutes. Then, in a hidden little footnote under the contract menu, he found what he was looking for.
+
+Here we are. Opening the file, his eyes narrowed. Now in his element, Kairon's brain whirred to life.
+
+Pages flowed by as he reviewed the file. Time passed as Kairon read, each letter and word cozying up in his brain like wyverns in their mother's embrace. He had studied many contracts such as this, but they were always made on a per-user basis. A little laugh escaped his inner thoughts. If people knew just how many users actually got one of these contracts even on an hourly basis, well... I'd like to see the look that put on their faces.
+
+As he read on, the sun above drifted from the lip of the hills leaning over the valley, finding its spot high above. At some point, Kairon did get up to satisfy his thirst and bodily needs before returning. He wasn't sure when. Time spent was time wasted, one of his old friends always used to remark. A senseless saying, but one that had a certain kernel of truth in there. Somehow.
+
+Soon, the light of day disappeared, night claiming its place. Even with just the moon as his guide, Kairon read on. It wasn't until the next morning that one of the villagers finally got his attention.
+
+"Why aren't you building anything? Shouldn't we be doing something?" came a female voice. He didn't even look up.
+
+"I'm reading. Please, don't disturb me unless there is a true emergency. Actually, not even then. This is extremely important, and if I miss anything, well... Let's just say the ensuing events could turn out quite poorly for all of us."
+
+If Kairon had bothered to look up, he might have noted that the expression on the girl's face conveyed she already believed events had turned out poorly. He didn't, though. He just read.
+
+There was a reply after that, but by that point, Kairon was reabsorbed in his work.
+
+The next day and a half was mostly the same. Villagers came up, poked and tried to talk to Kairon, normally were ignored, and went back to gorging themselves on food stores and drink. All the while, he was busy filing away knowledge like a squirrel before winter.
+
+"Hah! By the system's beard!" He'd found it! They tucked it away, under footnote 148 B, but it's there.
+
+The System Bureau strives for a Service Level Agreement (SLA) commitment of no less than 1%. Failure to comply with this entitles the contractee to recompense in relation to the inquiry of note. And when you connected that with what he read yesterday in a section about complaints, it was made clear that in his specific contract the SLA only applied in terms of valid responses, not necessarily granting those responses. So if he requested a pallet of gold but got nothing other than a gentle reminder not to waste some sorry clerk's time, it would be of no consequence for the SLA commitment.
+
+If, however, the system couldn't give him a proper response to a valid request... His plan should work.
+
+Now let's see... What options do I have... If Racial class isn't there, this could be problematic...
+
+Incursion, no... Realm displacement... No... There! Racial class inquiry Good! Very good!
+
+If he submitted a request The System couldn't satisfy, well, it should do what it always did with unresolved issues. An automatic elevation.
+
+And in my case, Tavaren's princely classification should still be floating around in the contract data.
+
+The recompense clause was clear on this point. When a racial class inquiry couldn't be resolved through normal channels, the system defaulted to upgrading the contractee's classification to the next available tier.
+
+Time to put this to the test. Returning to his menus, he navigated until he found the Submit an Inquiry button.
+
+Click.
+
+Click. Click.
+
+Do you want to submit a Racial Class Inquiry?
+
+Rolling his eyes, Kairon selected in the affirmative.
+
+Please enter inquiry detail.
+
+And... one bit of his reading marathon came back to him. Something to the extent of "Note that as a tier 0 provincial lord, your inquiry will be reviewed by a Savari Clerk." Basically, a robot. Which is precisely what he was counting on. Now, he needed to put something that would trigger a failed response. And he knew just how those unintelligent Savaris worked.
+
+Racial values incorrect. Should be considered nobility.
+
+Click.
+
+Kairon only had to wait around three seconds before a reply came back.
+
+The grin on Kairon's face became shark-like. Blood was in the water, and he could smell it. Racing back to the contract, he saw a tiny little asterisk in the bottom corner of the page next to the footnote about the SLA clause.
+
+A giggle escaped Kairon's lips before he clasped a hand over it, quieting himself like a schoolgirl. Perfect. His hope was that the system wasn't properly updated, as it often wasn't for a shocking amount of time, and that Tavaren's information would mix up with his own and grant him the benefit of nobility.
+
+Click. Click. Click.
+
+And again.
+
+Again.
+
+About thirty clicks later...
+
+Warning. SLA rate is now under 5%. Contact an administrator? Kairon nearly fell, his mental fingers jabbing "no" over and over. That would be quite bad, and quickly ruin things. Thankfully, he finally convinced the stubborn box to go away.
+
+Crisis averted, he went back to clicking.
+
+Halfway there. So far, so good... A few more clicks and he'd have his Prince title. The villagers would eat their words along with their ale. Well. My ale.
+
+Kairon was so absorbed that he nearly missed the gathered crowd around him. He caught something about "waving like a fool" and "giggling like a girl" but put that in the back of his mind. There would be time soon enough to speak sense into the others. For now, more clicking.
+
+Taking a deep breath, Kairon did finally pause at this point. Just for a second. If anyone happened upon his little abode from The System and noticed what must be an absolute mountain of error logs and flags, this could get quite messy.
+
+So, without further delay, he finished up.
+
+CLICK.
+
+There was a pause. Like reality stuttering in real time. And then...
+
+And then a peculiar note. One that Kairon wasn't exactly expecting.
+
+"Savaris... Have administrators?" he muttered. They shouldn't. He'd never heard of one being in a supervisorial role like that. "Hang on just a moment, can you repeat that?"
+
+I wonder if I might have pushed things juuuust a little too far. He had precisely two seconds to ponder that unpleasant possibility before Kairon had his equally unpleasant answer.
+
+"What? No, no, no. My race is fine. It's the title. The nobility title. If you could just take a peek at that, it would be very appreciated," said Kairon in an increasingly nervous voice.
+
+"Hello?! What is happening?" The words being shouted at him from one of the men in the crowd finally got through. Provincial City Lord and retired System Bureau Clerk Kairon Svensen had just enough time to look up, open his mouth, and take a single breath to reply.
+
+Then a pillar of hellfire erupted from everywhere all at once.

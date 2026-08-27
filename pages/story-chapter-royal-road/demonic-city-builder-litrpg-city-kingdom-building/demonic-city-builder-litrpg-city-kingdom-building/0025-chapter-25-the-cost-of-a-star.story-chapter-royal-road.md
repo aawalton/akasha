@@ -1,0 +1,275 @@
+---
+id: 56722602-48ab-57cc-88c5-e439992c7ac6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25 - The Cost Of A Star"
+slug: 0025-chapter-25-the-cost-of-a-star
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 25
+ownLength: 2067
+unit: words
+publishedAt: 2026-06-02
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3481184/chapter-25-the-cost-of-a-star"
+royalRoadId: "3481184"
+---
+
+Sovereign Eye activated.
+
+In his head, the only two demonic scripts Kairon had managed to learn hummed eagerly. They felt... restless. As if they could sense their brethren.
+
+Together they watched as the circle below was drawn.
+
+Rather than expanding outward, the ritual filled inward. The new ring of scripture was being etched just beyond the wrath district's crimson-tinted stone, carving out another ten meters of the existing foundation.
+
+So the first ritual required the extra timber cost because it was laying the groundwork, and each ring after will claim a piece of it.
+
+The city currently held a fifty-meter radial foundation with enough room for four, maybe five rings.
+
+Probably four with what I have planned. But what then?
+
+The thought of limited growth never occurred to Kairon. He'd find a way beyond that.
+
+A question for later.
+
+Where lines of scripture finished carving, steam hissed. Fumes of sulfuric iron pressed into the air, the tower, the buildings, even the stone foundation itself. Kairon had long ago become accustomed to the scent of demons and hellscape. But this was getting to be a bit much.
+
+His eyes, the real ones, watered at the scent. Moments later, they started burning.
+
+"Kairon... What's happening? Holy mother, that smell. I can't..." Veron's voice was choked off as he put layers of cloak and cloth over his face to mask the stench, coughing violently.
+
+"What magic is this?" asked a much more muffled Veron. No reply came.
+
+The imps were too busy grabbing clawfuls of gold while Kairon was focusing on trying to learn more from the demonic language.
+
+Last time you melted my toe... The time before you burned my claw... What price will it be this time?
+
+Kairon wanted to negotiate. Unfortunately, he just didn't know how.
+
+Clawed feet started clattering across stone as the workers began ferrying out the gold. Every piece of shiny metal was left in specific points on the ritual diagram. The more that accumulated, the brighter the glow became.
+
+From above, it was like watching a cauldron. Orange and purple tinted steam unraveled and spun, small red impish dots moved about, with a large black tower thrumming at the epicenter.
+
+Slowly, a bridge was strengthened between two metaphysical places. And something tugged. Connections were formed from the demonic to the now, each carrying a thread that Kairon's mind could practically see.
+
+It's taking the corruption. I'm sure of it this time. Now... So many symbols... Which one should I try to gain?
+
+They all felt the same. Even with all his experience so far, no symbol really felt different. How could he tell what they meant? It was like drawing straws.
+
+I need a way to differentiate these. Is there anything I could do that might allow me to...?
+
+On a hunch, he focused on the two in his mind. The moment he did, a resonance formed. Two chimes echoed and dual orange waves of energy pulsed outwards. They washed over the ritual circle, each demonic letter reacting differently. Some illuminated bright as miniature stars. Others gave only a flicker.
+
+There was a tiny moment of elation. That's it! I can use the level of light to-
+
+A purple dagger of ice stabbed into his mindspace. Along with it, each symbol from the ritual returned its own signal. Each was different. Each brought a cacophony of emotions, feelings, and meanings he had no real concept for. All warred for existence.
+
+An instinctual part of him tried cutting the connection to Sovereign Eye, but it wouldn't budge. The pain was frozen.
+
+Kairon crumpled to the ground and tasted blood. Vaguely he felt the touch of Veron's hands on scales, but he ignored it.
+
+All he saw was the ritual being built below.
+
+Still in the fetal position, his mind had a measure of relief as the noises calmed. But the ice remained.
+
+Even so, he only had a single thought. A singular drive that cut through the agony.
+
+Learn.
+
+Kairon wasn't a warrior, but he considered himself a scholarly demon. And the only thing the city lord desired more than gold was forbidden knowledge. Peeking behind closed books and doors alike.
+
+So despite the frigid lance of pain that refused to melt, he pushed on. For what was pain but one more cost to pay?
+
+His mind replayed that mess of sounds and noises that still seemed to reverberate.
+
+I need to be more careful and focus on one at a time.
+
+Unfortunately, Kairon was aware that this ritual and the accompanying mental space were on a timer. Glancing at their progress, he estimated the imps would be done in just a couple of minutes.
+
+With a gentle touch, he tried again channeling the two scripts in his mind space. This time, he made sure to only focus his intent towards a single script in the circle. One that he remembered had glowed brighter than the others.
+
+DING.
+
+A chime, this one loud and clear. He waited. No pain came. Well, no additional pain. The mind-splitting headache was still the same.
+
+Tentatively, Kairon tried the same with another symbol near the east side. It too was one of the brighter ones.
+
+DING.
+
+Another chime, this one slightly softer and different in pitch.
+
+He continued on like this, keeping one eye on the imps' progress and the other on the script. By the time he had done a dozen, he'd stopped going off memory and was systematically mapping them all.
+
+Moving as fast as he dared, he tested fifteen, twenty, then twenty-five.
+
+I have a set of symbols that react strongly, some that react weakly, and some in between. But I still have no point of reference for what that actually means. Is a stronger connection better, or does it just create a different outcome? Or is the connection not stronger or weaker, just different?
+
+Experiments and questions began forming, but the imps had just finished bringing the last of the gold and were now taking positions on the circle's perimeter.
+
+I need to choose. Based on the process last time, I can only comprehend one of these at a time.
+
+He was about to stop his tests and just go with one of the brightest connections, figuring that might be best, when something odd happened.
+
+Frowning, Kairon tested that last symbol one more time.
+
+Huh.
+
+It had no reaction. None. He'd tested perhaps thirty different letters, and every single one had at least a glimmer of a reaction. This one had none. An extreme.
+
+Kairon liked extremes. When he wanted to stress test a new process, he always started with outliers as inputs. That tended to have both the most informative and interesting results.
+
+It also tended to be the most volatile.
+
+In the clearing, nine brood imps began to sing and chant. Each word felt wrong, and sounded even worse.
+
+Time's almost up. The brightest symbol, or the dead one?
+
+The demon gave himself several precious seconds to ponder that choice. In the end, he went with his gut.
+
+He channeled the intent from both of his demonic scripts, and pushed it towards the tiny, nondescript symbol that had absolutely no reaction.
+
+A magnetic sense of something popped in his mind. Like last time, Kairon expected to pay a cost for this. Perhaps a scale, a claw, or the like.
+
+He was partially right. Only he slightly miscalculated.
+
+The spear of ice that until now had been present, like an overbearing weight in his brain, dropped.
+
+It condensed and compressed, glowing brighter. Kairon had just a second to register what was about to happen before the star-blue lance of power seemed to leave the figurative mind space and flash into reality.
+
+Before he could so much as brace himself, his right foot was skewered. The scale, skin, muscle, and bone from the ankle down froze.
+
+The vacuum of pain in his mind brought so much relief that he hardly minded having his foot impaled.
+
+Huh. It actually doesn't hurt as bad as you'd think, given the circumstances. Actually, I can't even feel my foot. Oh dear.
+
+If Kairon had been standing, he was fairly certain he'd have been back on his face.
+
+Demonic Script +1
+
+The cost was paid. Kairon might never walk again, but he had a shiny new symbol in his brain.
+
+Only it wasn't shining.
+
+The new symbol was in the shape of a morphed star, each point splitting off in random directions. It had a curiously abnormal geometry.
+
+The star bobbed closer to his other two scripts, their orange glow throwing shadows off it in his mind.
+
+With the eye of a researcher, Kairon watched curiously.
+
+If my assumption is correct, you should make some kind of sequence together. Maybe one I can use.
+
+Instead of glowing orange like the other symbols, this one began to lose its color.
+
+Oh. That's fun. You are a little darker than-
+
+SHRUMP.
+
+Kairon's mouth gaped in a mix between astonishment and horror. The star, like some kind of eldritch black hole, opened. And both of his existing symbols disappeared.
+
+Demonic Script -2
+
+What.
+
+He pulled up his domain interface.
+
+Fascinating. So it absorbed my other scripts?
+
+A normal person would be horrified. Kairon, however, was elated.
+
+Power didn't just disappear. It didn't go to waste. It was spent. And when you paid for something, you received something equivalent in return.
+
+Kairon's foot was frozen, and he gained an interesting new symbol. Now he'd lost two scripts, and gained... something.
+
+There was a shiver, a wobble, and a twitch. Then the star just floated happily, apparently satisfied with its meal.
+
+Kairon reached out to touch it. The moment he did, a notification appeared.
+
+Demonic Script -0
+
+That's odd.
+
+He touched it again.
+
+Demonic Script -0
+
+Hmm.
+
+Kairon was so absorbed in this he didn't notice Veron shaking his shoulders, nor the fact that the ritual was done and nine brood imps were lazing about.
+
+Normally at this point a researcher would notate their findings, consider different options, and move forward carefully.
+
+Kairon, however, just couldn't help himself.
+
+This is perhaps the most interesting occurrence since I've come here.
+
+Touch.
+
+Demonic Script -0
+
+Touch, touch, touch.
+
+Demonic Script -0
+
+Demonic Script -0
+
+Demonic Script -0
+
+Each time he did this, Kairon watched that little dark star. Each time he clicked, it started wobbling.
+
+Mentally shrugging, the demon lord started jabbing the star rapidly in his mind.
+
+Demonic Script -0
+
+Demonic Script -0
+
+Demonic Script -0
+
+Demonic Script -0
+
+Demonic Script -0
+
+Demonic Script -0
+
+Demonic Script -0
+
+...
+
+***
+
+Veron was a little concerned. No, he was absolutely terrified.
+
+When the clearing turned orange and the sky purple, he was concerned.
+
+When the imps began chanting and singing in a language that sounded like violence and death, he was concerned.
+
+When more gold than he'd ever seen in his life was swallowed into the ground only to be replaced with a glowing light, he was once again concerned.
+
+But when the tower, foundation, and entire city started quaking so violently he nearly fell over, he became terrified.
+
+"Kairon!" he roared. "What is happening?!"
+
+"Testing... The star is wiggling. One moment," the demon muttered.
+
+"NO. We aren't wiggling. Kairon, the ground is shaking." Veron looked up, eyes staring at the stone ceiling. Then he cast his gaze outside the tower.
+
+"Kairon, the walls are too. I think... I think the tower is going to fall over... Whatever you are doing, you should really stop before-"
+
+"No, it's fine. Testing. Almost done. I think I poked it enough!"
+
+The ranger took a step, set on shaking some sense into the prone demon, but the unsteady rumbles sent him sprawling.
+
+Outside, imps chittered, trees shook, and sand vibrated.
+
+"Master!?"
+
+"What happening?"
+
+"FOOD?!"
+
+"HELP?"
+
+"God damnit. Survive the destruction of my village only to die in a stone tower for you. Let's go!" The ranger took to crawling, dragging his body over to Kairon and finally grabbing hold of the scaled form's shoulders.
+
+Somewhere far in the direction of the razed village, too far for anyone to hear but well within the bounds of the shaking realm, a five-hundred-pound red demon roared. "Kaironnnn!!!!! STOP."
+
+Veron was just about to pull him out of the tower when, as suddenly as it came, the shaking halted.
+
+Outside, the ground quieted. Sand stilled. And one very worried human sighed in relief.

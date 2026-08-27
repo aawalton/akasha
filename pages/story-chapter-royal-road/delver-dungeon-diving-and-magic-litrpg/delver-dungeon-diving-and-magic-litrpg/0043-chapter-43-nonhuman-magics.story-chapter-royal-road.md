@@ -1,0 +1,185 @@
+---
+id: 082b9676-dfe9-5851-8ffd-f65ac707827c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43: Nonhuman Magics"
+slug: 0043-chapter-43-nonhuman-magics
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 43
+ownLength: 2129
+unit: words
+publishedAt: 2026-07-14
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3677216/chapter-43-nonhuman-magics"
+royalRoadId: "3677216"
+---
+
+Today’s lesson isn’t big. I’ve been visiting an old Reaper Temple near Alanna’s City, and I was reminded of some of my first lessons with the Archmage.
+
+He told me, “What we practice here is dangerous. Angels, and Devils alike fear magic, because magic is, and always will be, the great equalizer. Fear a zealous priest as much as you fear the demons in the night. Both will gut you simply because they were told to.”
+
+There’s some truth to his words, but while I think that the Archmage is a brilliant man, he fails to understand something integral to human nature and the divine. The Angels and the Devils don’t fear us for our power, they fear us because of what troubled men might do with it. I too, fear what someone like the Archmage could do with it.
+
+***
+
+I hold the little rock in my hands, focusing on the flow of my mana to power the ward I’d written into it. I haven’t had much time to study warding and improve the runic structure I’d chosen, but it works well at its task.
+
+Preventing people from finding us.
+
+I’m not taking chances after the month I’ve had. Shar and Daron keep a good look out, while I’m focused on the maintaining the ward.
+
+As I travel, I do have some time to think, which makes me wonder about my fight with the Blood Mage. I don’t know a whole lot, but I do know blood mages were outlawed, along with necromancers, spiritualists and a few more esoteric archetypes and classes I don’t know about.
+
+Either the law has changed, or the Archmage believes himself above the law if his son is practicing a banned class.
+
+Not to mention, Lyla had said that nonhuman husks had been thrown out of the stronghold. Could they be taking their blood and doing something with it?
+
+I know there are some books in the library discussing the more dangerous magics. It wouldn’t hurt to learn about blood magic, just to better understand what kind of enemy I may have just made.
+
+Shar flies overhead, and I look up to watch as she dodges away from another larger bird and dives into the trees. The other bird gives up quickly, and Shar returns to the sky minutes later.
+
+I glance up at the sun. It’s close to the earth, giving us an hour or so left before sunset. I call out to the group, and change our direction towards a clearing that’s marked on my map.
+
+Shar returns to us as she sees us stopping, landing on a nearby tree.
+
+We set up the Angel Statue, then Keve leaves to gather wood, Shar keeping an eye out for him.
+
+The mercenaries set up a firepit, and begin putting up our tents.
+
+As the others move around me, I stop my channeling through the rock, and lean against Jasper. I reach into my Private Library, and pull out the book on warding. Thankfully, this one is written in common. I’d been in a rush last time, but now that there aren’t any active magical traces on us, I take my time reading through the pages, turning them slowly as I study the basic wards it covers.
+
+Despite calling them basic, it seems to expect me to have an understanding of simple principles I don’t understand. I manage to muddy through, but I can tell I’m still missing things.
+
+The more I read, the more I understand the tiny inefficiencies in the quick ward I’d drawn to protect us. I’d been forced to, to make sure it worked.
+
+I look around for another rock, but there aren’t any nearby, so I settle for a rather nice stick.
+
+I take one more look over the runes outlined in the chapter I’m reading, and start my inscribing.
+
+Runes are a language in and of themselves, but their meaning and shape changes for each other rune in the sequence, creating a complicated web of symbols.
+
+I have no idea how the first runesmiths managed.
+
+I mess up one of the inscriptions, and toss the branch into the firepit as it combusts into flame.
+
+Eyla sits next to me, and holds out another branch, this one surprisingly straight and sturdy. More a staff than a stick.
+
+I take the branch, “Thank you.”
+
+“What are you doing?”
+
+I glance at the book, then start the inscription, my finger tracing slowly over the branch as I draw each rune. “I’m crafting a ward. The one I have isn’t that great.” I pause in my scripts, studying it, then continue slowly. “Hopefully this one will take less concentration when I’m finished.”
+
+I feel her gaze on me, making me wish I could look up and see her expression. Sadly, the project requires all of my attention.
+
+Soon enough I finish, a line of script spiraling down the staff.
+
+I channel my mana through it, and breathe a sigh of relief as it requires barely any of my attention. The barrier that snaps into place feels smoother somehow.
+
+Eyla’s eyes snap up above us. “Is that it?”
+
+“You can see it too?”
+
+She nods. “What’s it do?”
+
+“It’s a weak magical barrier. It blocks a first circle attack spell. According to Shar, that should be enough to block most scrying.”
+
+“First circle spell?” She tilts her head.
+
+I can’t help a small smile as her hair falls over her face. Then her question hits me. I hadn’t really thought about sharing the magic I was learning, mostly in fear that the Arcanists would hunt me to the ends of the earth. I’m not even sure someone without a Mage Archetype could learn it.
+
+I turn towards her, and I catch sight of Shar and Keve walking towards us.
+
+They activate the Angel artifact, and step through into our camp. Keve sets a large pile of wood down to the side, then gets to building the fire.
+
+The rest of the group join us around the small firepit Daron had prepared.
+
+“Any trouble?” I ask Shar as she lands on Jasper’s head.
+
+She shakes her feathers, snow falling off of her and hitting the ground, “A couple wolves stalking a deer nearby, and Snapping vines covering the ground to the west. No one seems to be following, and no fires.”
+
+“Are the vines off of our path?”
+
+She nods.
+
+“Good. We’re going to be off my map soon. Keep an eye out for any village ruins. I don’t want to be caught off guard by any undead, and there were more than a few villages on Eyla’s map.”
+
+Shar nods, then glances down at the book I have in front of me. “More on wards?”
+
+I nod, and pull the book up, “I was rebuilding, since the rock was…”
+
+Shar snorts, “Bad.”
+
+“It did what it had to.” I flip a couple pages, then hold it up to her, “I wanted to check with you. Am I reading this right?”
+
+Shar hops closer, peering at the page. “An undead ward. I don’t see anything wrong with it.”
+
+“It needs to be carved into silver.”
+
+Shar turns her head so that one crow-eye is looking at me “Yes.”
+
+I pull the book back, tracing its page with my finger, “So the material you write the runes into effects what they do?”
+
+She shifts into a cat, and hops to the ground to sit on her haunches, “You didn’t know that?”
+
+I shake my head. “Maybe some Stronghold Runesmiths know that, but I didn’t.” I look at the staff I’d carved the scry-ward into. “How does wood affect things?”
+
+Shar shrugs, then climbs up into my lap before curling up. “I don’t know.”
+
+I shake my head at the cat, then look at the book. I need to take some time to search for something a little more basic when I have the chance. I feel like there’s so much I’m missing.
+
+In front of us, the fire grows, and Tanya pulls out one of her pots, filling it with nearby snow.
+
+***
+
+We continue down the path for another couple of days, and I find the staff to be much easier to use. Plus, it doubles as a walking stick.
+
+I spend my evenings working on magic. After having doublecasted that counterspell during my battle, I feel closer to second-tier magic more than ever. Something about it eludes me, so I change my practice to the tricks mentioned in Eridor’s Journal. Having two identities in a spell makes for some wild effects, approaching Novice magic, but it seems to lack the power I see whenever Eyla casts her magic.
+
+Finally, during a break in my practice, I decide to continue my reading of Strange And Unusual Magics. The author had briefly mentioned something practiced by the Dralk, called cultivation. But then he’d just moved on, and as I finish the book, there’s not another mention until I turn the last page. A list of the author’s other works cover the page. I pause as I find exactly what I’m looking for.
+
+An Empirical Examination Of Twisted Magics by High Mage Artus
+
+I open the portal, and now that I know what I’m looking for, I quickly find the book.
+
+I open the book and start to read. It’s a dry and boring examination, with more written on what they can do, rather than how they do it. Still, I discover a couple of interesting tidbits as I read.
+
+My Dralk friend is quiet about how exactly they manage their strange magic. I’m not sure if this is because of the language barrier, or whether I am pushing for secrets that are not meant to be shared. Finally, he seemed to grow bored of my questions. Below is his explanation for how they “cultivate”.
+
+“Honored Artus, look at the shadow. See how it turns with the light of fire. They mix, always one, always the other. I cultivate by pushing my light, and turning the shadow. Do you see? It can only be seen as two, a… opposite.”
+
+Those words said, the Dralk lifted his hand, sliced forward, and extended claws of shadow that cut through the light. I observed his meditation the next day, but his natural defences prevented any of my observation spells from seeing the workings of his internal mana.
+
+I lower the book, my light stone illuminating the top of my tent.
+
+Opening the tent, I make my way to the fire, where Keve sits quietly.
+
+I don’t understand what the Dralk meant, but he might.
+
+The Vishten looks up as I approach, and I sit next to him, working with him to explain what I’d read.
+
+***
+
+Two days later, Shar catches sight of Kolas’s walls, and we increases our pace. On the evening of the third day, we can all see them, giving our group some much needed energy.
+
+I still keep us to a careful pace, but even I let out a sigh of relief when the large gate comes into view.
+
+Vishten Warriors stand guard, they faces covered with their scarves until we get close enough that they recognize us.
+
+Keve shouts something out in his language, and they respond with laughter.
+
+The gates open, and our tired group makes it through.
+
+They set us up in a small wooden house, created by one of their more experienced craftsmen.
+
+I’m sitting in a small chair, reading, when a noise across from me makes me look up.
+
+Eyla sits down, her eyes watching me with an unreadable emotion.
+
+“I’m okay with secrets. They’re necessary. I have plenty of my own. But what you’ve done should be impossible. I thought you were playing at being a mage using some item you found, and I covered for you, with my mentor, and with the Arcanists.” She leans forward, her blue eyes holding mine, “But I see you practicing magic late into the night. You can choose to keep your secrets if you want, and I won’t ask after this. But I told you about this map because I trust you, because I need someone, I need an ally and I need a… friend.” She lets out a breath, then pauses. “I’m honestly hoping you can trust me too. I want you to trust me.”
+
+I set my book down, and look at its cover as I absorb her monologue. “There are some things I can’t tell you, even if you ask.”
+
+“I know. And I’ll admit part of this is my curiosity.” She lets out an embarrassed laugh, “I live for magic, it’s all that I have.”
+
+I smile, “I know the feeling. Go ahead and ask. I’ll be as honest as I can.”
+
+“What’s a first circle spell?”

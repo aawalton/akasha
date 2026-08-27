@@ -1,0 +1,235 @@
+---
+id: 9289b634-635d-5443-aa16-a411c346b106
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37 - Dessert"
+slug: 0039-chapter-37-dessert
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 39
+ownLength: 2450
+unit: words
+publishedAt: 2026-06-30
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3610464/chapter-37-dessert"
+royalRoadId: "3610464"
+---
+
+By dawn the next day, the imps had gotten off to an early start. Partially to try and make up for this week’s interruptions.
+
+Kairon was careful to keep an eye on things, lest yesterday’s mistake be compounded by overwork. Yet, to his surprise, the brood imps seemed eager to prove themselves. When they realized their master did not, in fact, approve of destroying their own camp, they’d been driven into a frenzy.
+
+As for the warriors… The demon pursed his lips and called on Sovereign Eye.
+
+Above, the purple sphere squinted. It watched, letting him see the glances being shot from imp to imp. The looks the wrath imps were still giving their brood brethren. There was still animosity there. But with it, an uncertainty.
+
+Where’s Vorathrex? I’d like his opinion on this. The big guy has spent more time with the warriors than anyone else.
+
+Kairon tried zooming out, shifting the massive eye around to find him.
+
+He frowned. Vorathrex wasn’t in the city. Searching beyond, Kairon looked around the walls and outskirts. Still missing.
+
+Great. He only admits yesterday that humans are expected by nightfall, and then chooses now of all times for seclusion? At least from what he said, the actual number of approaching people is small.
+
+When the red giant initially mentioned humans, Kairon feared it was the paladins. However, he finally had relented and told Kairon it was a small party. Smelled weak, Vorathrex had said.
+
+Kairon was holding onto hope that meant diplomacy was on the table. For now, though, hope was all it was.
+
+Sovereign Eye pulsed, and his vision soared. The violet, oracle construct above the tower glowed bright and grew. The further he looked, the higher the eye floated above the tower. Like a balloon, it floated into the air. And so too did Kairon.
+
+He started searching his domain.
+
+Forty-two corruption a day is marginal compared to the tribute granted by the humans’ pitch flames, but for constant passive growth? Its impacts were significant.
+
+In just the last week, the corrupted lands had steadily grown. And it wasn’t stopping. What once was six leagues of hellscape in all directions was now closer to eight.
+
+More interestingly, several hundred paces of upward trail headed into The Spines was now his. Gray, rocky pathing worn by thousands of boots now was sand, dirt, and corruption. A slight depression was the only evidence of where the road once lay.
+
+And the mountain itself… It was like looking at a rock dipped in oil. Where his vision pressed, orange and red splotched.
+
+This should make for an interesting greeting. I wonder what will happen when this entire mountain range falls under my domain? What would it uncover?
+
+That brought up another thought. He’d learned that corruption changed what was under it. So, what would it do to the sediment, rock, and caves under the mountain?
+
+Interesting…. Very interesting.
+
+Returning his attention back to his search, Kairon went the opposite direction. He needed to find Vorathrex.
+
+Not by the river beds… Not by the treelines… Where are—ah! There you are.
+
+Only, the scaled demon was uncertain as to why his wrath councilor was still several hours' walk away. He was lumbering back, heavy steps leaving oversized footprints in the hellscape.
+
+At this pace, he should be back before nightfall. But why was he so far out? Vorathrex normally slept against or near the walls. He was always going on about how relaxing their warmth was.
+
+Kairon’s eyes narrowed.
+
+Did yesterday’s council meeting cause resentment?
+
+He’d thought the convocation had gone well, all considered. The only true hiccup was Vorathrex himself. The big oaf had kept the approaching humans secret until yesterday. Due by tonight, he’d said. As if that was warning enough.
+
+Learning about them so late was… unexpected.
+
+Vorathrex had been quite open about the humans’ progress last time, giving the city much needed warning. A boon Kairon was hoping to rely on going forward.
+
+He was now realizing that reliance was on tenuous grounds. And, more importantly, so was Vorathrex.
+
+That demon isn’t my loyal servant. I need to ensure I see him as… a volatile coworker. One good at their job, but with baggage. Perhaps in time that will change. But for now, he has his own plans. And I have no idea just what they are.
+
+He pondered that.
+
+It was possible he was overthinking. That he just needed to let off some steam from the housing battle yesterday.
+
+But his demonic heart said otherwise.
+
+Something more is going on. I just don’t know exactly what.
+
+He’d need to make… considerations. Just in case. The city lord filed it away for later.
+
+Kairon sighed, breaking the connection from Sovereign Eye. “I’ll come back to you another time. I have customers arriving soon,” he said to no one aloud.
+
+There were preparations to make.
+
+***
+
+The trail’s descent was even more tenuous than its climb. Lord Hallen’s convoy had taken to walking, horses drawn by rein at their side.
+
+“Is the view not marvelous, Aldous?” called Hector. The lord was a dozen paces ahead, eagerly trekking down the sloped ridge.
+
+His servant frowned. “It certainly is something,” he muttered.
+
+In front of them, the sight was daunting. So much so that it seemed as if the party was descending into a hellish desert.
+
+“Are you certain you want to go through with this?” asked Aldous, eyeing the wicked tangles and barren wasteland fast approaching. And, just visible in the distance, the tower. A purple light gleaming from its tip. “Truly, we could return. It isn’t too late. I’m certain I could speak with—”
+
+“Oh, for god's sake, Aldous! Just look at this! Have you ever seen anything like it? And you want to go running home? No, no. I admit, my mind did wonder if I’d made the wrong decision before. But now…” Hector breathed out, eyes gleaming. “Now I’m more sure than ever. The rest of the world doesn’t know what’s here. But we do.”
+
+“The rest of the world is learning, my lord. And when they find that you’ve kept this from them…” The servant shook his head somberly. “I fear what will come of that.”
+
+“Bah!”
+
+From his side, Lieutenant Elson approached. His own horse clopped down the path, shoes precariously digging into the rocky terrain. The soldier’s face was pale, evidence of how little he wanted to be here. However, the determined gaze he held made it clear that duty sat above all for Elson. Even if it meant returning to the place where dozens of his brothers had fallen.
+
+“My lord! I suggest we make camp soon for the night, and then head into the…” he paused, gathering his will. “The unholy land tomorrow.”
+
+“Mmm. You see, Aldous? Here’s a man that shares your disagreement with my coming. But instead of fighting me every step of the way, he’s ensuring we get to our destination safely.”
+
+“So you say,” grumbled the servant. He pulled his black travel cloaks closer, the last of the mountain lands still keeping the wind brisk and biting.
+
+“I agree Elson! Let’s see to it. Tomorrow, we make for the tower. I can’t wait to meet these most exotic creatures!”
+
+“Yes, my lord!” replied the soldier.
+
+To his back, the ranking guard lieutenant held one hand over his chest. Even now, it was growing warmer. And, just visible beneath the collar of his shirt, it glowed.
+
+***
+
+Today’s work rush had yielded just enough timber to make the second camp. By the time the ritual had finished, a new hold was torn through space. With it, an identical domicile to the first had risen. Like its twin, the camp was small, made of wood framing, and walled by hellscape clay. At the top, a canvas roof protected it from the elements.
+
+“This ours!” demanded Shiny. Behind him, the brood imps nodded in unison.
+
+“Food!”
+
+“Eat here!”
+
+“EAT!”
+
+Boney snorted. “Keep it. We have other. Closer to master,” he retorted. To his back, the city’s warriors growled in agreement. They made an imposing group. Muscled forms with bristling armor. Bunched together as they were, the warriors morphed together like one giant mass of flesh and bone.
+
+“Actually, that was my plan,” cut in Kairon. “The fully repaired camp, which I stress is entirely identical to this one, will be home to the warriors. This newly constructed one will be assigned exclusively to Shiny and the working imps.”
+
+The city lord had opted to place it in the Brood district, choosing to save his wrath and void slots. The wrath especially were limited. And, one of the two left was marked out for the upcoming training grounds.
+
+The demon drew his gaze over the gathered imps, forty-three pairs of eyes looking back at him. To one side a mob of workers surrounded Shiny. The tiny runt had his arms crossed, looking on expectantly. On the other side was Boney. A larger group made up of the warriors standing at his heels.
+
+“Anyway. To why I gathered you all here. I wanted to stress just how happy I am with the turnaround we made. Terrific work everyone! I mean it. Even though yesterday was a bit… hectic, I feel we are now back on the right trajectory!”
+
+All the imps, wrath and brood alike, puffed their chests, banged their armor, and stamped their claws. Pride shined in their little faces.
+
+“Together, we’ve grown. As I’ve told the rest of the council, I want to make an apology of sorts. For not taking the proper responsibility and seeing to your needs sooner.”
+
+“Master?”
+
+“No!”
+
+“Not true!”
+
+Calls and shouts from many of the imps filled the city proper, pride melding to shock and distress. How could their master do any wrong?
+
+Kairon’s calculating eyes did catch one troubling detail. Unlike the rest, Boney and a small selection of the wrath imps did not join in. Instead, they stood still, expressions flat. He thought he saw a glimmer of recognition and acceptance, but not to the degree he would have preferred.
+
+He sighed internally, before returning his full attention to the entire crowd.
+
+“No, no. None of that,” Kairon spoke loud enough to subdue the murmurings. “I mean it. All of us can learn. Most of all, me. That being said, this does not mean violent behavior without proper justification is warranted.” He took a moment to look pointedly at Boney, and then Shiny.
+
+“We will be taking steps in the future to properly deal with such… situations. No one will be exempt.”
+
+He stopped, letting that sit with the imps. When he was satisfied that most seemed to understand, he brightened.
+
+“Now! Onto better topics. I want to take this moment to officially announce some exciting news!”
+
+The crowd of imps chittered, little eyes going wide and fangs gleaming.
+
+“What?!”
+
+“News!”
+
+“FOOD!”
+
+“Stupid brood. Be quiet. Can’t hear master,” complained a warrior.
+
+“Yes. Shutup,” snapped another.
+
+He waited, his workers and warriors finally settling down.
+
+“Some of you have likely already heard, but if not, let me be the first to inform you. We have launched a new department. Demonic Resources. It will be located on the north side of the tower,” said Kairon, pointing with his free claw at the citadel. “Whenever something makes you unhappy, instead of taking to violence, you tell DR.”
+
+“DR?”
+
+“FOOD?”
+
+Kairon plowed on. “One of our newest imps, Nod, is taking charge of the DR department. They’ll be more than happy to listen to any grievance, complaint, or problem you have.”
+
+From the back, Boney spoke up. “But why? Just brood imp? What do?”
+
+“Good question!” cut in Kairon. “All issues are going to be recorded and brought to my attention. Yes, Nod is a brood imp. But it doesn’t matter what kind of imp, demon, or creature comes to him. All will be listened to equally. Nod knows that if I find any evidence to the contrary, there will be swift action.”
+
+At the front of the brood imps, a tiny imp, just like his name suggested, nodded. “File…” He struggled with the next word, before getting it out. “Complaint. File complaint!”
+
+“Then what?” pressed Boney.
+
+“Then you trust that your city lord has your best interest in mind, and will take appropriate measures.”
+
+The warrior huffed. He didn’t look defiant. Not exactly… He looked… Kairon couldn’t put his claw on it. Disgruntled maybe? He upped the priority of speaking with Vorathrex on his mental to-do list.
+
+“Like brood more,” muttered another warrior.
+
+Sighing, Kairon put his claws on his hips. “I do not like any imp more than another. You are all part of our city, and if any of you feel otherwise, you can come and see me personally.”
+
+“Or tell me!” added Nod. “File complaint!”
+
+Several imps gave him curious glances.
+
+There was more squabbling, but Kairon felt the situation had been stabilized and he could return his focus to other matters.
+
+After quick words with Shiny and Boney to ensure everyone got tucked away safely, he set off for the tower.
+
+***
+
+Once inside, he paused. He was about to go check in on Veron when a blue light caught his eyes.
+
+Setting down his walking stick, he limped tenuously over to the three piles of glowing parchment. Each was lined with fascinating regulatory code. Code that described the ins and outs of demonic legality as it related to his city. So far, he’d indulged in reading half of what was there. He planned on finishing the rest by week’s end.
+
+Like fine wine, he was rationing it out. He feared material such as this would be in short supply in this new realm. And wine wasn’t meant to be gulped, but sipped and enjoyed after all.
+
+Giving the papers one longing glance, he caved. “Maybe just… a little treat.”
+
+He used one claw to flick to the next unread parchment. He skimmed the top, a section on classifications for demonic tribute costs, and continued down to…
+
+“Huh. Now that really is peculiar. Why would you include this…” He cocked his head. Turning, he flicked his eyes to the third stack, and shuffled through it as well.
+
+“Where was that… Ah hah! There you are."
+
+He snagged another paper and held it by the first, frowning. “This doesn’t…”
+
+And a spark lit in his mind. One that had grown all too faint since leaving The Bureau.
+
+“Oh my,” he breathed.
+
+He intended for this to be a little treat. To hold him over until he had time to polish off the rest of his bureaucratic meal. Instead, it seemed he’d skipped straight to dessert.

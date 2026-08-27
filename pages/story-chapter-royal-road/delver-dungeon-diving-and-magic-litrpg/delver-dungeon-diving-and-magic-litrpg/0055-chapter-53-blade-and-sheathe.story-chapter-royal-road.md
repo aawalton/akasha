@@ -1,0 +1,205 @@
+---
+id: 5201d3ff-47ad-55b0-9bd0-7a213cfc5087
+page-type-slug: story-chapter-royal-road
+title: "Chapter 53: Blade And Sheathe"
+slug: 0055-chapter-53-blade-and-sheathe
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 55
+ownLength: 2046
+unit: words
+publishedAt: 2026-08-10
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3796920/chapter-53-blade-and-sheathe"
+royalRoadId: "3796920"
+---
+
+I don’t know if this is a terrible idea or not, but I don’t have a whole lot of time to contemplate my decision. She’d sworn on the angels, and those are oaths not easily broken, even by an undead.
+
+The creature down there, it’s not something I can face on my own, and without my summons, I’ve lost my biggest trump card. The door isn’t closing either, which means that whatever was trapped down there, I’ve just given it an opportunity to escape.
+
+She watches me calmly as I approach the glowing circle that surrounds her.
+
+There’s no time to disable the runes of the circle, so I pull my divine blade from its sheathe, and stab down.
+
+Light flares, and it resists for the briefest second, then the Builder’s blade cuts through, a jagged line breaking the circle.
+
+The witch has a sharp intake of breath, another sign of surprise. She covers it quickly, “Do not touch the talisman. Take the spike out of the ground.”
+
+I hesitate for a second, but another roar from the depths spurs me forward.
+
+She doesn’t move as I enter her range.
+
+Identify Artifact.
+
+Spike Of Binding
+
+Made from the bones of the divine, this spike binds an undead witch to the earth, disrupting any attempts at powerful magic.
+
+I reach for the spike, and grunt with effort as I pull on it. Slowly, the ground releases it, and it pulls fully from the earth.
+
+I stumble back, but shackled hands catch me, supporting me.
+
+“Give me the spike.” Her voice says right beside my ear.
+
+I move away from her arms, then hand her the spike. It turns into dust in her hands, leaving only the shackles around her wrists, and the chain leading to nothing.
+
+The roaring from the depths stops.
+
+“Good.” She closes her eyes taking a deep breath, then turns to me with a smile. “You are a foolish little paladin, but I do not blame you for it.”
+
+She looks at me for a long moment, then steps past me. A wave of her hand, and something in the air of the building changes.
+
+The door to the depths opens wide on its own. She walks leisurely towards the door, barefoot against the ground. “Stay with me,” she says without turning.
+
+Shar presses her body against my legs, watching the woman as she starts her descent. I look down at the small golem, then follow the woman back down the stairs.
+
+An eerie silence fills the earth, only broken by the witch’s footsteps.
+
+The man below had stopped roaring, and a tenseness fills the air as nothing pops up in front of us.
+
+The witch, Masia, walks without a care through the healer’s rooms, once again reaching the stairway.
+
+A soft hum, coming from the witch, fills the space, an eerie tune in the darkness that continues down the stairs as we make our way to the large portal, the owl with its broken wings staring out at us.
+
+The man waits there, a black blade drawn as the tendrils of darkness reach up around him.
+
+“Masia, what are you doing?”
+
+The woman ignores him as she slows to a stop, her gaze moving around the cavernous space.
+
+“I do not fear you, witch of the void.”
+
+“Then why did you wait for me?” She smiles, her gaze narrowing on the man.
+
+The man frowns, his eyes moving past her to settle on me, “He can’t hide from me now, if you attack me, I will kill this pet of yours.”
+
+“Zakar.”
+
+The man freezes at his name, then takes a step back.
+
+“I know your true self, Zakar.” The world starts to twist around her, reality fracturing and breaking as her voice moves across the space. One moment by my ears, the next on the other side of the cavern, “I know of your desires, your fears, the pride that I will so enjoy shattering.”
+
+The man lifts his hand, circle upon circle of magic forming until it reaches six circles.
+
+Masia laughs, then with a wave of her hand, a single spell circle forms in an instant. I try to read it, but the runes are twisted, bleeding as if they don’t belong to this world. I don’t recognize any of their shapes.
+
+Zakar’s 6th circle spell shatters.
+
+She raises her hand, and Zakar screams. A force is pulled from the man, darkness leaving the body and taking the form of a ghastly creature of magma and shadow.
+
+The body falls to the ground, nothing more than bones and rotted skin.
+
+Masia closes her hand into a fist, an ethereal scream continuing to escape from the creature.
+
+Two 3rd circle spells form around Masia at once, then a fourth circle spell forms above her, all of them with the strange bleeding runes.
+
+The creatures that was Zakar is compressed, turned into two physical forms, a twisted blade and its sheathe. A single eye looks out from the blade, twisting and rolling from pain.
+
+Masia motions with her hand, and the blade flies into her hand, the sheathe following a second later.
+
+She calmly sheathes the blade.
+
+The world descends into silence.
+
+I step backwards, my back hitting the wall as I continue to channel Hide Presence.
+
+I’ve never seen anything like that. Power that bends reality, breaks it, to such an extent.
+
+Masia looks down at the dagger, with a sharp smile, the two sharp teeth suddenly much more evident. “My word is kept, little paladin. I will not harm you, or yours. Still our deal is uneven. As a thank you for my freedom, I will warn you. Do not open any of the cells deeper in, creatures more powerful than Zakar are kept there.” She turns, looking straight at me, through every hiding ability I have. “The prize you are looking for is behind this statue, only accessible to one of Owl blood. Owl blood you smell of, but do not possess.”
+
+She smiles wide, a large 7th circle spell forms under her, flowing into the teleportation runes that fill the room. The teleportation array glows, and the floor shifts. Dust flies into the air as seven stone circles of runes turn, realigning and changing. They grow bright, as power fills them for the first time in five hundred years.
+
+“Until we meet again, little paladin.” A dark void reaches up around the witch, encompassing her until only her eyes are visible behind the talisman that floats over her nose. Then she’s fully covered, and the darkness fades. The glowing runes of the teleportation circle dim, becoming dormant once more.
+
+I stay frozen against the wall for a long time, trying to slow my racing heart. I focus on my breath.
+
+Breathe in.
+
+Breathe out.
+
+Slowly, my muscles relax, and I find the energy to push myself off the wall.
+
+“What kind of mistake did I just make?” The words come out with a slight tremor.
+
+“A big one.” Shar says. She tries to seem calm, but I can hear the fear in her voice as well.
+
+“We’re heading up.” I say, my voice brokering no argument.
+
+Shar nods, then hops onto the stair ahead of me.
+
+Our progress back up to the room where the witch had been captured is quick, nothing blocking our path.
+
+I pause right outside her room, my eyes finding the book on the desk in the back.
+
+I run into the room, and grab the book, quickly stuffing it into my bag.
+
+Then it’s back up, towards the surface.
+
+***
+
+Keve takes a deep breath, the energy of the world flowing through him, and into his chest, then through his body, traveling through the kalich’i that cover his body in intricate patterns he’s only begun to map.
+
+The fire of the sun moves through him, then returns to his heart, where he breathes out once more, the impurities leaving him to enter the world.
+
+Another breath, another cycle.
+
+The process continues for as long as the sun peaks out from the clouds that have covered it through much of his journey with the strange Delver, Leo.
+
+Just as the sun is setting, something changes, a fundamental difference in the energy as it flows through him. It becomes cleaner, easier to move. His next breath pushes against the world with the power of the flame of the Vishten.
+
+Keve opens his eyes, a small smile playing at the edge of his lips. He’d felt on the precipice of this change for a while, and now that it is complete, he feels a new level of power available to him. Ready, for when he chooses to reach for it.
+
+He glances over at the young Lin girl, Tanya, who continues to meditate with her back to the large tree they sheltered under. Beside her, a large human man also meditates, just beginning to sense the power within him.
+
+Keve could appreciate how Grildor dedicates himself to the meditation, despite the man’s seemingly unstudious personality
+
+Holding his arms above his head, Keve stretches, loosening his muscles for the test he wishes to put them through.
+
+Laughter comes from the nearby campfire, and Keve glances over to where Daron entertains the older human woman, Libby. Beside the two, their group’s mage is busy with her reading, turning the pages of the handwritten journal Leo had gifted her.
+
+Watching their courtship is quite fascinating to Keve. For a man who moves with such confidence, Leo seems to struggle with women. It helps the dual classed delver-mage seem much more Vishten to Keve.
+
+Keve makes his way to his blades, where they lean against a large rock. Their handles of bone were specially carved for him by his father, the blades themselves having been passed through his bloodline for hundreds of years.
+
+He ties them to his waist, then stands on the edge of the Angel statue’s barrier. A predator is nearby, on the path that Delver Leo will travel down, and Keve intends to deal with the creature before it can hunt his friend.
+
+He pulls his scarf over his face, readying for battle.
+
+There, it stalks through the undergrowth, the twilight hour giving it the confidence it needs to move.
+
+Keve draws his swords, then steps through the barrier, allowing it to reform behind him.
+
+He keeps the light of his fire dim, not wanting to alert the creature.
+
+It walks on four legs, taller than Keve by a few feet. It’s long claws dig into the earth as it moves through the damp dirt, recent rains having given the forest new life.
+
+It pauses, it’s snout rising to the air.
+
+Keve moves, fire following his footsteps as his blades ignite with the ferocity of a warrior.
+
+Blood is drawn, and the creature roars, turning to him.
+
+Keve channels the power within him, igniting the flames within his body. His kalich’i brighten with his power. The power of the sun itself battling back against the twilight of the night.
+
+His blades meet the claws of the predator, and his swords cut through as he pushes his power into them.
+
+It bites for him, but he has already moved, flames following his steps once more as he jumps above the creature.
+
+His power flows through him and his weapons. He slices down.
+
+Not a sound echoes through the forest, except for the soft landing of Keve’s feet against the ground.
+
+Then the beast falls.
+
+Keve hadn’t used a single class skill, instead relying solely on his cultivation. He was empty now, but it was progress.
+
+Terrifying progress.
+
+How did he compare to other Vishten? Surely such power would’ve seen them out of hiding if all of them were capable of it.
+
+He looks down at his bloodied swords, and they reflect his eyes, visible through the scarf he covers himself with.
+
+The blades were made for his magic, that he knows, even if no one told him. Were his people once capable of it, and if so, why had they forgotten?
+
+He looks back up at the corpse, wipes his blades against it, then sheathes them so that he might carry the beast back to be cut and cleaned.
+
+They will have plenty of meat for their stay.

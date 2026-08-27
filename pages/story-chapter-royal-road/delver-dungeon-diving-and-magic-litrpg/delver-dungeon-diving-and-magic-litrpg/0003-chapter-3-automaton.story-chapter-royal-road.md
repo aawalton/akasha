@@ -1,0 +1,191 @@
+---
+id: 7b0ffb3e-90ab-5b52-a8a1-a94cf3c112fb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3: Automaton"
+slug: 0003-chapter-3-automaton
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 3
+ownLength: 2274
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3442836/chapter-3-automaton"
+royalRoadId: "3442836"
+---
+
+I look at my hand, still filled with the dust that was once the class orb. I rub it between my fingers, watching as the dust that changed my life falls to the floor.
+
+A Lore-Mage. Now isn’t the time to mess with a new ability, but my curiosity makes me want to immediately activate it.
+
+I clench my fist, shaking my head. The new ability doesn’t sound dangerous, but you never know. It’s basic safety to use new abilities when you’re in a safe location. It could drain all of my mana, leaving me exhausted and vulnerable. Plus, my mana is already strained from how much I’ve been using it during this delve.
+
+My brain honestly hasn’t caught up with the fact that I have a second class now. It’s amazing, and a little terrifying. I don’t know what this means, but the implications are astronomical.
+
+With a rough shake of my head, I turn my attention back to the room, looking first at the empty chest, and then to the Automatons that line the wall. It’s important to focus on the delve, I can think about other things later.
+
+Most of the automatons are large humanoid mechanical things, leaning against the walls of the room. A few smaller ones also stand at the far end.
+
+I’ve only ever seen a few automatons before; powered by mana and made through the long lost techniques of enchanting, most of them died when we could no longer repair them. Still, I know of two strongholds to the east that still stand thanks to the protection of more powerful automatons.
+
+I study the automatons carefully. All of them look to be inert, and I’m sure they’re worth a fortune. I walk down the line until I reach the end, where a humanoid automaton as tall as my knees and made of a material I don’t recognize kneels down on the floor. The material is a smooth black metal of some kind.
+
+I use Identify Artifact on it, curious if it will tell me the material is.
+
+Shar: Lvl 12 Shifter Scout Unit
+
+Long has Shar slumbered with her brethren, waiting to reawaken
+
+My breath catches as I read the description. I’ve never had the chance to identify an automaton. I didn’t know that they had names, levels and classes! At least now I know that they’re still alive and functioning, just… sleeping? I really don’t want to wake them up, there’s no saying how they’ll react to their masters having been dead for centuries. I also don’t feel comfortable selling what could be living creatures, which means I’ll probably just have to leave them in this room for now.
+
+I sigh as I stand up and turn to the door at the far end of the room. I check it carefully for traps, but find none. Paying careful attention to my danger sense, I open the door.
+
+I walk into a well kept office, filled with bookshelves. A single bed and a desk are at the far end of the room. The room itself is completely untouched by time, with no dust or decay on any of the furniture or books.
+
+A sound from behind me makes me spin around, my hand moving to the sword at my waist.
+
+The automaton that I had identified stares up at me, its hands resting on its hips. “Who are you?” its mouth doesn’t open as a distinctly feminine voice asks me the question accusingly.
+
+My mouth opens a few times before snapping shut. “My name is Leo. You’re, uh, Shar, right?”
+
+“What are you doing in the Archmage’s sanctum, Leo?”
+
+“Delving? I’m a, um, Delver. Sorry, I wasn’t expecting to talk to anyone down here. I thought you were asleep.” I shift awkwardly, still keeping my hand on my sword. The automaton hadn’t shown any signs of aggression, but you never know with old world technology.
+
+“I was. Until you scanned me with your mana.” The small automaton rubs its elbows in a surprisingly human gesture. “It was very invasive. Are you stealing from the Archmage?”
+
+“I’m sorry, I didn’t mean to- no! Well, not really. I’m pretty sure ownership disappears after five hundred years of being dead.” My eyes lower, feeling a little guilty about the fact that I’m looting the belongings of a long dead civilization.
+
+The eyes of the automaton widen, and it’s only now that I notice that they actually have blue irises. “The Archmage is dead?”
+
+Her voice breaks my heart and I lower my head, “Oh, you, uh, you didn’t know?”
+
+Snickers echo through the room as the expression on the automaton returns to normal. “I’m just messing with you. I know he’s dead. An Archmage isn’t worth much without mana.”
+
+The room falls into silence after that statement. I glance into the room with the bookshelves awkwardly. “Well, I should probably get on with-”
+
+“I need your help.” Shar interrupts me, her eyes locking with mine. “If you help me, I’ll let you imprint me with your mana.”
+
+I pause, not knowing what imprinting means exactly. I don’t want to tell her that though, and I have a pretty good guess. “What do you need?”
+
+Shar looks at me for a moment. “I need you to fix me before I die.”
+
+I stop in surprise at the statement. “You’re dying?”
+
+The small automaton gives me a small nod. “Can I come closer?”
+
+I hesitate for a moment before releasing my grip on my sword and kneeling so that I’m closer to her level.
+
+She walks over to me and I realize that she has a slight limp, her entire body leaning to the left. Once she’s close enough to me, she pulls one of her arms off, completely removing it from her body and revealing a complicated layer of mana circuits that I don’t even come close to understanding. “My mana circuits have been damaged, and I’m slowly leaking mana, I need you to fix me.”
+
+My shoulders drop as she explains to me the issue. “I don’t know anything about mana circuits, or automatons. I’m not sure if I can help you.”
+
+She holds her detached arm up, pointing into the room. “The archmage has his entire collection of books in there. There must be something in there that will teach you how to help me.”
+
+“Why can’t you-”
+
+She shakes her head before I can even ask the full question. “Automatons can’t redesign our own circuits.”
+
+I stand up, taking in the room full of books with my gaze. “Alright. Come on.”
+
+I walk into the room, taking off my pack and picking up the first book on the shelf. Shar follows behind me, having reattached her arm. I watch as she struggles to climb up onto the sole bed in the room, eventually pulling herself up and staring at me.
+
+I look at the book in my hands, then back at the little automaton. “I can’t read this language.”
+
+The automaton stares at me, taking a second to process what I said. “You can’t read?”
+
+I hold up the book I’d randomly picked off the shelf. “I can’t read this language. It’s one of the languages we lost when we isolated in the strongholds.”
+
+The little automaton tilts her head in confusion. “You lost languages?”
+
+I put the book back on the shelf, pulling out another one in the same language. “Have you been down here since the death of the Archmage?” I go through the books one by one, pulling them out before putting them back. None of them have any words on their covers, forcing me to open them before finding out I can’t read them.
+
+“I’ve only woken up twice. You’re the first human I’ve met since the Archmage.”
+
+I talk as I continue my search. “After the mana disturbance, most humans fled to strongholds. With our magic gone to us, any creatures we had enslaved, warred with or hunted were free to hunt us down like an infestation. Not to mention the dead coming back to life to kill us from within.” I finally find a book in a language I can read, but it’s a simple bestiary. I put it back as I continue my search. I pull out a few books that look like they are about automatons or mana circuits, even though I can’t read them. “We lost more than just languages as we were nearly hunted to extinction. Most of the knowledge of the old world is gone to us.”
+
+“Oh. That’s sad.”
+
+I nod, “It is. Anything nonhuman would argue that we deserved it.”
+
+“I’m not human, and I don’t argue that.”
+
+I look over to the little automaton, who looks back at me with surprisingly compassionate eyes. I smile at her. “Thanks. Our own histories are filled with holes, so it’s hard to know for sure what we were like. But even if we were evil, no child deserves to die for the sins of his race.” I clear my throat as I go back to sorting books. “It must’ve been hard for you, out here on your own.” I frown realizing the room full of automatons behind me. “At least you have your fellow automatons.”
+
+I see Shar shake her head from the corner of my eye. “My brothers and sisters depleted their mana many years ago. I am the last one until… until they are brought back.”
+
+“I’m sorry to hear that.” I say as I finish the shelf, not finding any books on Automatons I can actually read.
+
+I turn to the next shelf, getting started on it. The rest of our time passes in silence as I go through books and Shar watches me.
+
+With a sigh, I close the last book on the last shelf. I’d found many books that looked to be about Automatons, but I can’t read any of them.
+
+I turn to the little automaton, but she already knows what I’m going to say. Her eyes look at me, filled with despair.
+
+It twists my heart.
+
+“I… I can try something, but I might need you to watch over me after I do it.” I move to the door to the other room, closing it.
+
+Shar tilts her head with curiosity. “I can do that.”
+
+“Come here and show me your damaged mana circuits.”
+
+She slowly gets off the bed and limps over to me, removing her arm and revealing her inner circuits. I still have no idea what I’m looking at, but I ignore that as I activate my newest class ability.
+
+Wisdom Of An Ancient
+
+Mana flows through my body, leaving my hands as I shape it into a symbol in the air. My own mana strains with the power I put into the symbol.
+
+“What wisdom do you seek?” A deep ageless voice reverberates through me.
+
+Shar doesn’t react to it.
+
+“I seek to repair the mana circuits of an Automaton.” I tell the voice.
+
+“The wisdom you seek is given to you.” The voice transforms from the deep agelessness into an older man’s gentle tenor as it speaks. Arms wrap around mine, guiding them as I reach out to Shar. She does her best to hide a flinch as my mana interacts with her circuits. “Circuits are all about the clean flow of mana. Shar’s mana flow has been obstructed, I will show you how to clear the obstruction.”
+
+With precise movements of my mana, Shar’s circuits are slowly repaired through the guidance of the voice. Once it is finished, my arms pull away and the spell releases.
+
+The last of my mana leaves my body and I collapse to the floor exhausted.
+
+I take slow breaths, calming my beating heart as I stare at the ceiling.
+
+You have proved your ability to work with magic circuitry! Would you like to accept the 2nd profession of: Apprentice Golem Smith?
+
+Yes or No?
+
+I swipe the option to the side, wanting to just rest before I think about a life changing decision, like taking a profession I’ve never heard of.
+
+A familiar face blocks my view, staring down at me with surprise and gratitude.
+
+“You did it.” Shar touches my forehead with her surprisingly warm metal hand. “Thank you.”
+
+She looks uncertain for a moment, then holds up her hand. I watch as the hand transforms into a claw, the metal looking like liquid as her hand shifts. Before I can react, she cuts my arm with the claw, drawing blood.
+
+“Ow!” I call out weakly, surprised by the attack.
+
+She touches the blood to the still open mana circuit of her other arm, turning it a dark red. “And my side of the bargain is kept. I look forward to working with you Leo!”
+
+“Did you have to cut me?” I ask softly, unable to muster the energy to feel angry.
+
+“It is the easiest way of imprinting your mana onto me.” She says. She puts her other arm back on, attaching it seamlessly. Then her body starts to transform, turning into a small black cat before my very eyes. Her metal outer layer turns into sleek fur that looks surprisingly soft. So that’s what it meant when her description said Shifter Scout Unit.
+
+She walks onto my chest, laying there as her eyes meet mine. “You can rest, I will keep watch until you are ready to move again.”
+
+Name: Shar
+
+Race: Shapeshifter Golem
+
+Class: Shadow (scout)
+
+Lvl: 12
+
+Profession: None
+
+Titles: Imprinted to Leo Grayson (explorer), Ancient Artifact
+
+Class Abilities:
+
+Lvl 1: Walk Through Shadows
+
+Lvl 5: Identify Class (general)
+
+Lvl 10: Become Shadow

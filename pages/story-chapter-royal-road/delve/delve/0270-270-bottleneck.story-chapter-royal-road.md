@@ -1,0 +1,213 @@
+---
+id: e64c9e6f-feba-5867-a942-b5ff215e797e
+page-type-slug: story-chapter-royal-road
+title: "270: Bottleneck"
+slug: 0270-270-bottleneck
+partOf: delve
+position: 270
+ownLength: 2748
+unit: words
+publishedAt: 2024-12-10
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1949001/270-bottleneck"
+royalRoadId: "1949001"
+---
+
+These days, it took quite a bit to make Rain out of breath, so as he swung the two-handed sledgehammer, the tortured burn of his lungs was really saying something. With his body under Velocity’s influence, the heavy lump of carved deepstone at the end of the hammer’s sturdy handle felt like an obstinate star resisting his efforts to pull it out of the sky. And pull he did, though not as hard as he could have, for precision was his goal, not destruction.
+
+The hammer fell, and with one resounding strike, Rain drove the rail spike through the wooden tie, making the section of rail jump as it was pinned into place. Both the spike and the rail were made of a nameless alloy of nickel, copper, zinc, beryllium, and a bunch of other leftovers they’d had from their smelter operations going back months and months. It wasn’t quite whatthefuckium, as there were no Tel included, but it was close. Whattheyhadium, perhaps, for they’d used up all of their steel, titanium, and aluminum. They were even out of tin, else they’d have just made bronze.
+
+Hence, railroad.
+
+This track would be nothing like the continent-spanning network Rain described to Luna, simply leading from the canal to the main base. Temerity was out at the moment, anchored offshore of the as-yet-unnamed island they planned to use for exchanging goods with the Banker’s Goldships. Vanna, Samson, and a complement of several hundred volunteers were there too, working on clearing land for something of a cargo yard. It was too soon for Luna to have gotten them the ore that they’d asked for, but the island itself had sand and rock aplenty, which, ore-wise, was a damn sight better than the muck they’d been raking from the canal.
+
+Temerity would be back this evening, hauling as full a load as the construction team had managed to gather, hopefully already melted down by the ship’s smelter. Tallheart was blocked until it got here, unable to complete the second airship without aluminum, titanium, and steel.
+
+Of all the supposed hells, one of them surely had to be dedicated to logistics.
+
+The vibration of the strike still reverberating in his bones, Rain released the hammer and stomped down on the rail to realign it before scooping up another spike. It felt heavy in his hand for a moment, but only until he browbeat Velocity into accepting it as ‘worn’, at which point it felt light as a feather. Faster than an observing eye could follow, he maneuvered it into place, jamming the point into the waiting wood and aligning it for his next strike. Before the hammer’s handle had even hit the ground, he snatched it up again, raising it high over his head and impressing on Velocity the notion that he wasn’t wielding it.
+
+The speed-boosting Aura—and Arcane speed-boosting skills in general—didn’t increase speed in the physical sense. Instead, they let the affected entity skip through space itself, covering more distance in less time without affecting momentum. Since his target wasn’t an entity, wibbly-wobbly physics-defying damage rules didn’t apply. If he wanted the hammer to land with sufficient force, he had to accelerate it outside the spell’s effect, something the system did not like for anything that fell into one of its item categories. It was the opposite problem of the spike, really, and it meant his muscles had just as much work to do in a fraction of the time.
+
+With his Strength boosted, that was all well and good, but things added up after several thousand repetitions. He was not Velika. He didn’t have the physical stats, let alone the skills to help his body cope with speedster bullshit, and he paid for it with pain and sweat. Without the proper skills, biology was the limit. Meat.
+
+Being able to Jump Good was one thing. For control, he needed tools he didn’t have. Nerve impulses only moved so fast, and the bylaws of the soul-body connection stated that his accelerated thoughts still flowed through his poor, overworked meat brain. Beyond three or four times normal speed, it was like trying to play an FPS with a one-second-plus ping, except it wasn’t an FPS; it was QWOP.
+
+The system can do it, which means so can I if I can just figure out those damn runes. You’d think a mind reader would be better at teaching, not that I’m interested in lessons from her right now.
+
+Rain’s thoughts raced ahead of his laggy body as it continued to work. Velocity’s limits weren’t all he was pondering. His Clarity-addled soul was more than up to the task of splitting his attention further than this. Partitioned off as much as a non-Mentalist could manage, his soul avatar was toiling away on various captainly tasks—for example, coming up with a plan for dealing with Legruz.
+
+The Illuminator, his many-limbed steed, and Nim were due to arrive today under the care of the Ascension group ousted from Xiugaaraa. Yesterday’s council meeting about whether to allow visitors into camp had been a spicy one, mostly because of what would happen if said visitors decided they wanted to leave.
+
+Rain still didn’t like the answer, which was they wouldn’t be allowed to. And yet, the benefit of having them here was too great to justify turning them away.
+
+Rain’s only consolation—if you could call it that—was that it might not matter for much longer anyway. Winter had come late to the Bloodmarsh, but it had come all the same. The leaves that had shielded them until now were falling, and though they were expanding below ground, there was only so much they could do.
+
+Problems upon problems.
+
+Velika’s group was also due back today, and he had to break the news to Meloni about the whereabouts of her husband. He wasn’t looking forward to it. Dealing with the outrage over an awakened horse while so many were waiting in line would be easy by comparison.
+
+The railroad, though...
+
+Real, tangible, uncomplicated progress.
+
+It was soothing.
+
+Pushing the worries that had slipped out back into his inner self, Rain sunk further into the work, occasionally pausing to tuck away a completed Aura Anchor—for he was constantly making them at this point—or to drink or choke down Guild rations to keep his overworked body fueled. Meter by meter, he cut his way through the former swamp, the ground already stabilized by the improved drainage. Occasionally, he had to fell a tree, but as mentioned, it hardly mattered, and they needed the wood too.
+
+Hours later, the most unexpected thing happened. He finished.
+
+Without anyone arriving ahead of schedule.
+
+Without anything exploding.
+
+Without Reece bubbling up some fresh bullshit to ruin his afternoon.
+
+Panting, Rain stood staring at the completed railway, feeling as though steam should have been rising through the seams of his armor with the crispness of the air. Tallheart stood beside him, having been working no less hard on the project and for similar reasons, but his fatigue was in his eyes rather than his body.
+
+Synchronizing with his inner self, Rain confirmed the lack of explosions as he recalled the dozens of reports he’d read while he’d been working. The ‘command complex’ had three different stone boards, crewed by Vanna’s Admin-council underlings. With her away and Tarny stuck behind enemy lines, somebody had to take up the slack.
+
+“Shall we test it?” Tallheart rumbled, gesturing to the waiting cart train.
+
+“If by we, you mean you, Mr. Locomotive,” Rain said. “Choo choo.”
+
+“Mmm,” Tallheart rumbled. “An engine will have to wait.”
+
+“Like so many things,” Rain said. “I—“
+
+Something touched his domain. It wasn’t a person, or even the sense he got when domains overlapped, as Tallheart’s overlapped his right now. He cut himself off so sharply with a reflexive blast of Velocity that, in raising his hand, he’d have fired his gauntlet through the treetops had it not been locked to his wrist.
+
+I knew it was too good to be true. No way do I ever just finish a project without something happening.
+
+“I felt it as well,” Tallheart rumbled, at rigid attention and staring to the east. “But I do not know what it was.”
+
+“I don’t know either,” Rain said, lowering his voice and spinning through his perimeter of Detection anchors and coming up empty. “It felt like... I don’t know. It felt almost...polite? Can essence feel polite? Is there politeness essence?”
+
+Tallheart rumbled with uncertainty.
+
+There was a pop as Dozer appeared, landing on Rain’s shoulder, but he didn’t even blink, spinning up a parallel mind again to deal with the slime.
+
+“What’s going on?” Ameliah asked, dropping out of the sky.
+
+“Dunno,” Rain said. “You felt it too?”
+
+“Yeah,” Ameliah said. “Thought I imagined it until I felt you two react. Any idea what it was?”
+
+“No, but I may be able to find out,” Rain said.
+
+[Wake up,] he sent to Reece.
+
+There was a brief pause.
+
+[Hello to you too. Still holding that grudge, huh?]
+
+Rain ignored the challenge, cutting straight to the point. [Something touched my domain, like a construct, but it immediately dissolved. It felt like it was trying to get my attention. It felt polite, but don’t ask me how. Any idea what that could be?]
+
+[Oh,] Reece said. [Well, shit, kid. You just lost the game.]
+
+Rain would have sworn if this conversation hadn’t been taking place in the space between breaths. [One, damn you, you monster, and two, that’s not helpful. You know something. Spit it out.]
+
+Reece sent a mental sigh. [What you felt was a Big-League hello. When you visit someone’s house, it’s only polite to knock. It means someone important found you and that they suspect what you are. Don’t tell me you were dumb enough to respond.]
+
+[Obviously not,] Rain sent back. [Why, am I supposed to?]
+
+[Customarily, yes.]
+
+[Customarily... Don’t you think you could have mentioned this ‘custom’ before?]
+
+[I should have,] Reece said. [Sorry.]
+
+Rain’s brain stalled.
+
+Did she just...apologize?
+
+[Now stop crying about it and move on. I’ll write you a primer later.]
+
+There it is.
+
+[Whoever sent that, they’re not going to just go away,] Reece continued, half musing to herself. [Since you didn’t respond, they’ll either barge into your turf and stomp all over it, assuming you’re a nobody, or they’ll try some other polite means of contacting you. Honestly, the first plays better for us.]
+
+[Who do you think it is?] Rain asked, himself already running through a very short list.
+
+Reece sent the impression of a snort. [You’d better hope it’s Nem. After him, I’d give even odds to Jien and Lightbreaker, given recent events, but neither’s likely. Beyond that, you seem to have a thing for stepping on toes. Maybe Blue’s brother came to reclaim her? The Rellagian monarchs leave their throne rooms more than you’d think, but then again, they’re the least likely to have been able to track you down. Unrelated, why’s the phrase ‘Blue’s brother’ familiar?]
+
+[It’s a movie,] Rain said. [You can watch it later. We’re in the middle of a crisis here.]
+
+[I’m the one who’s supposed to remind you to stay on topic,] Reece sent. [You’re right, though. You’d best get to it. Do I get to watch this trainwreck?]
+
+[You do,] Rain said, taking control of the screen in Reece’s living room and piping in the feed from his visual cortex. [Don’t make me regret it.]
+
+[I’ll be good,] Reece said. [Can you make me some popcorn?]
+
+Rain didn’t justify that with a response. He left the connection open as he returned to normal speed, finding Ameliah and Tallheart watching him expectantly.
+
+“Well?” Ameliah asked.
+
+“It was a greeting,” Rain said simply. “Probably Guardian Nem.”
+
+“How did he find us?” Ameliah asked.
+
+[Hells if I know,] Reece said.
+
+“Hells if I know,” Rain parroted, using soul-subtext to clarify the answer’s origin. Nobody was near them—now, out of politeness; before, out of healthy respect for silverplates moving heavy objects at alarming velocities—but they were still in public. “Play it cool for now. It’s possible we’re being Scryed. Play trains with us?”
+
+[Trains!] Dozer sent, leaping from Rain’s shoulder into one of the cars. The slime had calmed down enough for Rain to allow his parallel thread to collapse, but he was ready to bring it back at any moment. [Push, push!]
+
+[When I said trainwreck, I wasn’t being literal, you know,] Reece observed, able to see the completed track through his eyes. [What the heck have you been doing all morning? Was building this really a good use of your time?]
+
+[I just can’t win with you, can I?] Rain said. [Stay inside to work on runes? Get sassed. Work on something practical outside? Get sassed. What do you want from me, exactly?]
+
+[Have I not been clear? Be a PERSON. Play cards. See a play. Go dancing. Have ridiculously hot awakened sex.]
+
+[...]
+
+Reece cackled. [She’s right. You are too easy.]
+
+“Come on, Dozer,” Rain said, stepping forward to grasp the edge of the cart. “Hold tight.”
+
+Mercifully—or perhaps not—Rain was saved from further conversation on that topic by the sudden clang of an alarm bell. It came from the east, from the exact direction from which he’d felt the disturbance.
+
+[No play?] Dozer sent. [Danger real?]
+
+[We’re about to find out,] Rain sent, sharing a glance with Ameliah and Tallheart before all three of them sprinted off through the trees. He felt Dozer vanish, then reappear with a pop, clinging to his shoulder again as they raced forward.
+
+They arrived roughly at the same time as Halgrave, who must have been asleep or something from the lack of armor. The powerful goldplate looked wrong without it, but no less imposing, especially with his massive crystal hammer propped on his shoulder.
+
+“Rain,” said Fredek, leading the patrol they found waiting for them. The Passivist pointed into the trees as the aspirant with the bell muted the clapper. “There.”
+
+“I see it,” Rain said, regarding the blue orb hanging there. About the size of a pumpkin, it hovered at chest height, invisible to Detection but shining with mana. Switching Mana Sight to active mode gave the aura something to latch onto and it subsequently identified the orb as a skill construct.
+
+“Courier Orb?” Rain guessed. He summoned the tier-two spell’s description to review.
+
+Courier Orb (0/10)
+
+Summon a spherical construct and entrust it with an item for delivery to target entity or location.
+
+Maximum Item Volume: 10cm3
+
+Maximum Item Weight: 10g
+
+Range: 5 km
+
+Requires 10 ranks in Arcane Sentinel
+
+“Yes,” Halgrave said, Reece answering simultaneously, though he alone continued. “Do we have anyone with Courier Orb?”
+
+“No,” Ameliah said.
+
+“Didn’t think so,” said Halgrave, adjusting his hammer. “Well, so much for obscurity.”
+
+“Let’s see who it’s from,” Ameliah said, walking forward and summoning her armor.
+
+Rain tensed. On its own, the spell did what it said, but metamagic existed. For all he knew, someone had crammed an entire mountain into the thing. Granted, the orbs were supposed to match the size of what they transported, but that was the thought of a man about to be crushed by a mountain.
+
+Fortunately, nothing mountainous happened in response to Ameliah’s tentative prod. The construct merely dissolved, dropping a wooden canister to the ground.
+
+“Scroll case,” she said, crouching down to collect the item. She flipped it over in her hands, then removed the cap to pull forth a single, rolled sheet of paper. After a brief external inspection, her tension faded and she stood, walking over to hand it to him. “Here. I think it’s for you.”
+
+“Thanks,” Rain said, regarding the crenelated shield symbol pressed into the wax seal. Breaking it with an armored finger, he unfurled the creamy sheet—vellum, actually, not paper—and began to read, Tallheart looking over his shoulder.
+
+Custodian Rain,
+
+I received your message, and I agree that we must speak urgently. I regret that I was forced to Divine your location, and I hope that you will not view it as a provocative act. Out of respect for your autonomy and privacy, my contingent has camped five leagues due east on a hill where the ground is not quite so wet. Come alone or with as many attendants as you desire. If I do not hear from you within one hour, I will be forced to come to you. With the state of the world, the Watch cannot wait.
+
+Warden Nem

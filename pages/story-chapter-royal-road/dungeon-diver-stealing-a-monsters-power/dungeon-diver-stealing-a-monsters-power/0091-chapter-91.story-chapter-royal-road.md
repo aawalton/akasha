@@ -1,0 +1,349 @@
+---
+id: 666cdce2-8d1a-52e4-94ca-b247cf05112c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 91"
+slug: 0091-chapter-91
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 91
+ownLength: 2829
+unit: words
+ownProgress: 2829
+publishedAt: 2023-04-18
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1184869/chapter-91"
+royalRoadId: "1184869"
+markedReadAt: "2026-06-29T20:34:57.543Z"
+---
+
+[Time Remaining Until Test 2: 15 Hours]
+
+I slowly walk over to the slim blond young man. He instantly makes eye contact and waves me over.
+
+"Hey, hey! The name's Tripp, nice to meet ya! Looking to help out in a little dungeon cleanup?"
+
+I continue to approach him slowly, then use inspect and appraisal. He's a bit taller than me, dressed in the casual green and black Hunters Association raiding uniform, doesn't wear any armor, and wears a pair of silver daggers on his waist.
+
+[Lv. 322]
+
+Active Items:
+
+Special Grade Platinum Ring [+55% Mental Strength]
+
+Enchanted Leather Boots [+35% Speed][+35% Agility]
+
+Reinforced Steel Dagger Set [+400 Strength]
+
+Active Skills:
+
+Dagger Mastery
+
+Instant Nullification
+
+I look the man up and down thoroughly. An interesting idea comes to mind, my curiosity gets the better of me sometimes... I reply.
+
+"Sure, I'd be interested in helping a fellow dagger user out. How tough is the break today?"
+
+Tripp's face lights up and he puts out a hand for me to shake.
+
+"Is that right? A fellow dagger user? And you're a C class or what? All we need to do is keep an eye on the exit, it shouldn't be too long until the advanced team takes out the boss. We just need to keep the mutants at bay for a little while."
+
+I shake the man's hand and smile back. After pretending to sift through my item box and reaching around in my pockets I begin to put my sleep-deprived battle-crazed plan into action.
+
+"I left my ID at home, unfortunately. I just came by to check out the commotion. I assume you're all understaffed because of the exams right?"
+
+He nods, then turns to the large black-haired dark-skinned tank, and a petite blond-haired woman.
+
+"Yeah exactly. Either way, we'll be heading out soon. Just wanted to pick up a member or two from the crowd here just in case. We're from the Association by the way, if you couldn't tell by the getups."
+
+He points to his outfit while taking out his ID card to show me he's definitely with the Hunters Association.
+
+While using conceal, I wipe all the skills off my status except for Dagger Mastery and the Fire Combat magic, then flip my status for him to see.
+
+"Well, I'd say I'm about qualified. I did just pick up a new pair of blades, I've been meaning to test them out."
+
+Tripp raises an eyebrow and studies my stats for a moment, then looks up at me with a sigh.
+
+I can tell he's going to ask for my ID anyways... Some sort of distraction is needed here. I take out the pair of shining black daggers from my item box and give them a twirl. It feels so natural... This is just like my swordsmanship skill. Dagger Mastery is a passive ability that grows alongside my level progression.
+
+I look at the man with a slight grin.
+
+"Well... what do ya say?"
+
+He looks over his shoulders both ways, then back at me with the same sly grin.
+
+"Come on then, let's go. Our boss is stuck out at that C Class exam tonight, might as well have some fun."
+
+He says something to the other two team members, then walks right through the D Class gate motioning for us to follow. Tripp shows his card and the guards nod us past just like that. We're off to the Lizardman dungeon.
+
+After making our way downstairs and boarding the train, Tripp looks me in the eyes and speaks up as we leave the station.
+
+"So, you from out of town or something?"
+
+I reply.
+
+"Yep. Just stopping by for the exams I- I mean, one of my friends is taking it this weekend."
+
+He smiles.
+
+"Oh nice, nice. You do seem familiar though, I could have sworn I've seen your face somewhere before."
+
+I gulp.
+
+"Yeah, maybe. I come to the city a lot. Might even get a place here soon."
+
+"Oh yeah?"
+
+"Yeah, it's nice out here."
+
+"...."
+
+Tripp stands up.
+
+"We'll, anyways. This is Sandra and Mike. Mike is a heavy tank, definitely overkill for today's outing. Sandra is a healer. Again, we won't need her, but can never be too sure ya know?"
+
+I nod.
+
+"Nice to meet you two."
+
+They both nod back but don't say anything. Tripp interjects.
+
+"Hey come on you two! I know it was supposed to be our night off, but things happen!"
+
+Mike speaks up.
+
+"Yeah yeah. This should be a simple one anyways, I don't know why you have to bring this kid along. You could have handled it yourself. Honestly, Sandra and I could have stayed back too."
+
+Sandra nods and pouts. Tripp rolls his eyes and speaks up while smiling at me.
+
+"I want to see what the new dagger user in town can do! Ya never know, maybe we can add a new recruit to the Midnight Squad."
+
+I raise an eyebrow.
+
+"The what?"
+
+Sandra lets out a sigh and interrupts.
+
+"Ughh. The midnight squad. It's what Tripp likes to call our nightshift duties."
+
+I grin... then let out a little chuckle. Mike laughs lightly as well. Tripp jumps back in.
+
+"Hey! It's a cool name. Anyways. This will take half an hour at most. Our only order is to guard the exit until the raid team finishes up in the boss room, got it?"
+
+We all get serious as the train comes to a screeching halt.
+
+"Got it."
+
+Moments later, we all climb the escalator and jump through the glowing red portal to enter the Lizardman dungeon.
+
+I look around the moment we arrive inside. It's the same arid desert wasteland I remembered. The air is dense with excess magic though. We all walk forward about 50m, then Tripp speaks up.
+
+"All right. This is good. Jay and I will fight out front, I want to see what he's made of. Sandra and Mike, feel free to stay back. I'll only need help if there's some outrageous mutant here."
+
+The healer and tank stop in place and start up a casual conversation as I walk up front to join Tripp.
+
+"So... are there breaks like this in the capital often?"
+
+The hot desert continues to beat down on us with its bright artificial sun. Tripp replies.
+
+"Yeah, we get one or two a week. It's not such a big deal, this one was just a little out of the ordinary. The Lizardman dungeon is fairly stable. It must be a bit of recoil from the surge last week."
+
+I nod and start playing with my daggers looking out into the distance.
+
+"Makes sense."
+
+After 10 minutes of waiting around, and constant complaining from the two hunters behind us, a small dust cloud appears. I point it out with the tip of my right blade.
+
+"Looks like we'll finally have some company."
+
+Tripp grins.
+
+"The wave is here, we were just on time."
+
+Sandra's voice rings out.
+
+"We were ten minutes early."
+
+He continues.
+
+"Anyways... The first fight's all you Jay, Iet me see what you've got."
+
+I eagerly continue to twirl my daggers. They're definitely not as invigorating and stat-boosting as my sword, but a quick trial run before going back into the labyrinth is exactly what I wanted.
+
+I use inspect and enemy detection.
+
+[150m]
+
+[Lv. 269]
+
+[Lv. 266]
+
+I smirk as the two mutant lizardmen come into view. They're each around 3.5m tall, with dark green scaly skin, and light armor. One is carrying a long spear and the other carries a shining silver sword. Their humanoid features stand out in their torsos and lower bodies, but their heads are of pure lizard. Those yellow beady eyes lock on me as they approach and their long red tongues flail about as they let out battle screeches.
+
+I nod to Tripp, and run at the monsters. I ignite into flames and immediately activate bloodlust. My body and blades are both completely engulfed in flames. The crackling fire around me hides the ominous aura, I just want some extra speed to show off.
+
+The two scaled beasts lunge at me with their spears. I jump through the middle of them with a graceful twist, narrowly dodging their attacks letting my daggers whistle through the air outreached on either side of my body.
+
+*SHINGGGG*
+
+Leaving trails of fire in my wake, the two lizardmen's heads topple to the ground. I turn around deactivating my skills and give a slight bow.
+
+Tripp nods slowly as I walk back in their direction.
+
+"Not bad, not bad."
+
+He looks me up and down.
+
+"You wear a whole lot of jewelry, are those all magic items? Are you going to war or something?"
+
+We both let out a laugh, then I reply.
+
+"Is it a lot? I just thought I might as well wear them all, the more power the better right?"
+
+He sighs.
+
+"The more power the better? I guess so."
+
+We both stare off into the distance as another dust cloud appears. I turn to Tripp.
+
+"You're up."
+
+He smiles and steps forward. The man takes the daggers from his waist and eyes the approaching enemies.
+
+A pack of three shows up moments later. Two lizardmen lead the charge, they're level 267 and 268. They both carry long silver spears and look identical to the ones I faced previously.
+
+The third monster looks much different. It's slightly tinted red, and carries a long wooden staff. It's level 277.
+
+Tripp turns back to me before sprinting off toward the beasts.
+
+"Looks like I got the fun ones!"
+
+I watch him curiously as he charges forward at the trio.
+
+*SHINGGGGG*
+
+The dagger user bobs and weaves through the oncoming spear attacks and does a near picture-perfect copy of my jump and spin move from earlier.... Minus the flaming blades obviously.
+
+The heads of the two beasts fall to the floor as he mimics my bow, then smiles and turns to the odd-looking lizardman.
+
+To my surprise... the monster ignites its body into a ball of fire. I use appraisal.
+
+[Lv. 277]
+
+Activate Items:
+
+Lizard King's Staff [+40% Mental Strength]
+
+Active Skills:
+
+Combat Magic[Fire Summoning]
+
+My eyes open wide as I watch Tripp face it off. He stops in his tracks about 15m in front of the mutant and begins glowing bright white, then a barely visible wave of energy radiates off of him.
+
+The moment that wave hits the lizardman, its flames completely die out. The beast stands there in confusion as the dagger user sprints forward and readies his blades.
+
+Seconds later, the mutant's head rolls to the dungeon floor next to its underlings.
+
+Tripp spins his knifes around, then places them back on his waist and walks over to me.
+
+I give him the same slow nod of respect.
+
+"Not bad. That's a nifty skill you've got there."
+
+He grins.
+
+"You showed off, so I had to as well."
+
+I smile back, but in reality, I'm a little bit scared of what that skill can do. It's a good thing we're on the same team here...
+
+We continue our friendly competition for the next 15 minutes or so as we cut down half a dozen more waves. Each of them increases in level and size just slightly. The last one had a level 289 mutant fire user, I got to fight it. The mutant was pretty strong, but I managed to easily overpower it. All of the monsters dropped a good amount of loot as well. I kept a few handfuls of mana crystals, two spears, and even one of the mutant's staffs. I'll have to bring it to the market later to see how much its really worth.
+
+Tripp gave me a quick lesson on the rarities of elemental magic in dungeons as well. Apparently fire magic is the most common. Lightning comes next. Then earth, followed by ice, water, and wind. Then lastly, the two rarest types of magic are light and dark.
+
+I also got a bit nosey and asked how much the Hunters Association pays them for this work. Apparently, they get paid 3 gold a month to be on active guard duty cleaning up any potential breaks, or whatever extra things the "Midnight Squad" is assigned to do. Plus, the three of them go on 2 mandatory raids per week to farm resources for the Association. Pretty neat gig.
+
+About 2 minutes after that final wave was defeated, the entire dungeon started glowing with a bright white light. Tripp spoke up.
+
+"Looks like the raid team took out the boss, we're headed back!"
+
+Moments later, the transfer magic took us right back to the dungeon's entrance.
+
+The small room was filled with 9 people including myself. A team of 5 stood there covered in blood smiling to themselves. They're all men. It's a team with 2 tanks, and 3 rogues. On second thought, they could be swordsmen.. or maybe just a bit of both. Overall, they all appear to be tough fighters.
+
+One of the tanks lifts his head to us and laughs.
+
+"Hey Tripp, you missed a good fight. This break was a doozy, that lizard gave us a run for our money!"
+
+The other team members murmured and laughed as they all made their way down the escalator. Tripp made some small talk with the tank as we followed close behind and made our way back to the main D Class platform.
+
+The tank and healer tiredly gave me a nod and wave goodbye as they went back upstairs to their post. Tripp on the other hand, had more to say.
+
+"Ya know, I'm sure I can put a good word in for you at the Association. There's always a need for more C Class and above hunters! Most move out to some of the stronger regions once they land better deals with guilds or private teams, so if you're planning on moving into the city I'm sure you could strike a good deal for yourself!"
+
+I gulp, then remember he still thinks I'm a C Class Hunter... Sure, I insinuated that I was... but I never flat-out said it.
+
+I scratch my head nervously.
+
+"Ya know. I appreciate it, but uhh. Maybe you could- uh not put in a word? I'm sort of trying to keep a- low profile. Just doing my thing, and not get the Association involved."
+
+Tripp squints his eyes and stares at me for a moment.
+
+A very long moment....
+
+Then he finally replies.
+
+"Well, fine by me. I won't say a word."
+
+He smiles wide and turns to go, then says one last thing.
+
+"Maybe we'll meet again soon if you'll be around more. I'll keep an eye out, there aren't many high-level dagger users out here ya know!"
+
+Tripp starts walking up the escalator without another word.
+
+I wave and shout out.
+
+"Hey, thanks! Was a pleasure fighting with you guys. Appreciate it, I'm just going to train a bit more, I uh-"
+
+He's already gone. There's no point in finishing what I had to say I guess.
+
+It's getting really late.
+
+I look around at the empty dungeon platform and shake my head vigorously, then murmur to myself.
+
+"You idiot!! What was that??? You're in the middle of an exam!!! What are you doing Jay??"
+
+I take a deep breath in while looking over my shoulders, then let the breath back out.
+
+I take the next train to the closest dungeon possible, I don't even check to see which one it is. I use a dungeon walker the moment I step inside and make it back home.
+
+The walk back to my apartment feels unbelievably long. The last hour or so keeps repeating over and over in my head. I talk to myself as I walk in the dark using one flaming finger as a light.
+
+"I just wanted to try out my new daggers... On the bright side, I can use them pretty well if I need to now. But-"
+
+I gulp.
+
+"I think it'll be fine."
+
+Finally, my apartment steps come into view and I make my way inside. The moment my door closes I fall face-first onto my bed and fall into a deep sleep.
+
+~ 8 hours later
+
+*KNOCK** KNOCK* *KNOCK*
+
+"Jay!!! We gotta go!!!"
+
+Maria is pounding on my door. I roll out of bed, stretch my arms and back, then make sure I have everything I need before opening up.
+
+"Hey Maria how was y-"
+
+"I slept fine, you?"
+
+I smile as she looks at me with a face full of urgency.
+
+"I slept fine too, I j-"
+
+"Great, let's go! There's no time to waste!"
+
+She points off in the distance toward the starter dungeon as the sun begins to rise. I chuckle and shut my door.
+
+"I guess you're right."
+
+We walk down the steps together and head back to the starter dungeon. It's time to get back to business.

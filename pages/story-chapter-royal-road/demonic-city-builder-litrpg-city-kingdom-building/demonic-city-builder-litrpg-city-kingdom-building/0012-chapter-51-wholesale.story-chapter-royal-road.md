@@ -1,0 +1,227 @@
+---
+id: 9c9f22de-d7a4-5d15-928d-730104cac976
+page-type-slug: story-chapter-royal-road
+title: "Chapter 51 - Wholesale"
+slug: 0012-chapter-51-wholesale
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 12
+ownLength: 2248
+unit: words
+publishedAt: 2026-08-11
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3798225/chapter-51-wholesale"
+royalRoadId: "3798225"
+---
+
+The essence in his grip melted between his claws. From within it, tiny script unfurled. Glowing and pulsing, it flowed like a river into the column of gray stone. Moments later, it was done. Before him the universal obelisk looked the same.
+
+“Huh. Did it… work?”
+
+Suddenly a purple light bloomed. A trail of demonic symbols oozed from the stone, spiraling from the obelisk to the center of the basin. Once they ran into the center, they halted. At the very bottom of the basin, where the script coalesced, a violet orb appeared. It pulsed, glowing and dimming every few seconds.
+
+“Well, I guess that’s that. Sythara, I assume you can take it from here?”
+
+“You assume I can just take it from here,” she muttered. The demoness exhaled loudly. “Yes, child. I can. After some rest.”
+
+He frowned. “You were in the basin for hardly a minute. Is that all you can handle per day?”
+
+“The summoning of all the totems was taxing to witness. Tomorrow, I shall begin.”
+
+Despite her words, those sapphire eyes glimmered. Excitement was budding in them. His demoness had spent weeks waiting for her circle. And, finally, she had it.
+
+“That works for me, void councilor. I look forward to your findings.”
+
+***
+
+Edward drove the hoe hard into the soil, making sure to angle it just right in order to split it. Grunting in approval, he pulled it back. The blade made a swishing noise as loose chunks of dirt were crumbled and stones pressed aside.
+
+Again.
+
+The ex-corporal moved onto the next row, preparing it too for planting. Some hated work like this. But Edward? He lived for it.
+
+Edward halted, considering that.
+
+I lived.
+
+That simple fact was what mattered. After everything, not all the garrison soldiers could say that. Somewhere in the back of Edward’s mind, he knew before long, even more would join that grisly group.
+
+Pausing for a breath, he looked skyward, only just now realizing how late it’d gotten. Turns out when you weren’t slaving away for the local militia, time really did fly. As if to drive the point home, a gentle breeze blew, ruffling his tunic and leggings.
+
+“That’s enough for now I reckon.” Grinning with the satisfaction of a proper morning’s work, he walked up the winding gravel path he’d raked and filled last week. Picket fences lined either side, demarcating his two plots to the front of his home.
+
+He smelled the stew before he got there.
+
+***
+
+Edward never got his stew. Instead, he found himself trudging to town. The lady needed flour, salt, and eggs. So he would get flour, salt, and eggs. Stew could wait. Or so she said.
+
+For the second time today, the veteran was reminded just how nice it was to have such mundane problems to worry about. So he walked on, a cheer in his step.
+
+An hour of fast trekking later, he arrived in Hallensford. Aptly named. It was the last stop before the pass, the stone walls and parapets visible just to the north.
+
+Within the town itself, a much cozier abode waited. Edward hadn’t been here since a few weeks ago, but he came in from time to time. His eyes roved about, finding the familiar cottages strewn on either side of the cobble streets.
+
+It was a stark contrast to the stone garrison constructed in the distance, and the Spines that sat behind further yet.
+
+The ex-soldier growled at that. He knew what those mountains held. A gate. One that led somewhere he vowed never to return.
+
+Suddenly, he stopped. It was quiet. Too quiet. No children played outside, no carts clattered down the path, and no runners came up and down the way.
+
+Now a bit on edge, he continued onwards. By the time he made it to the market, he was certain of it. Something was definitely off.
+
+Seeing a familiar face, he waved. “Potter! How goes it?” he called. The old smith took one look at him, grunted, and kept walking.
+
+“Potter?” He jogged over, catching up to the limping man. “Everything alright? The town seems… out of sorts.”
+
+The smith paused, looking the farmer up and down. “You haven’t been in town for a while have ya, boy?”
+
+“No sir! Just been working the farms. Hoping to finish seeding by week’s end. Lady had me run into town to grab a few things.”
+
+Potter made a noncommittal reply, before setting down his pack, metal and ore jingling inside. He looked both ways, before dropping his voice. “Listen, lad. Some paladins came through here not a week past. Things are… tense. I’d be about your business and head back. Quickly.”
+
+“What? Paladins…” Understanding dawning, Edward rubbed a hand over his face, moving the mess of hair from his eyes. “You mean… real paladins? Why were they up here?”
+
+The smith glowered. “Didn’t I just tell ya to be about your business?”
+
+“Pot. I was on the trek that came from the Greensward. With Commander Ash—”
+
+The smith hissed, clapping a hand over his mouth. “Boy! That name is not to be spoken. That…” He hesitated, as if he didn’t want to say the words. “The man’s a heretic. No one’s seen him since The Solari were here. Arrested, I heard. So don’t you go around sayin’ his name. If the wrong sort hears ya askin’...”
+
+Those words brought a cold fury into Edward’s mind.
+
+Those golden metal do-gooders took Ashlan?
+
+Edward knew not every soldier was worth the armor they wore, but Ashlan was a good commander. The entire garrison knew. Hell, he was why most of them made it back in one piece. And now he was arrested?
+
+Seeing the look on his face, Potter whispered in his ear. “No one here likes it any more than you do, son. But think of your farm. Think of the Missus. Don’t lose it over a hot head.”
+
+It took several deep breaths, but he knew the smith was right. Him getting worked up over it would only get himself and his family taken too. The thought of a Solari cell was enough to splash an icy coolness atop that heated anger.
+
+Regaining his senses, he gave Potter a bob of the chin, expression flattening.
+
+Seeing he wasn’t trying to burst out yelling, the smith moved his sooty palm from his mouth. “And a bit of advice. If you’re headed to the market, stock up. There’s been unusual happenings. Flashing lights, rumblings, noises, and… Something ain’t right. I’ve been considering heading south myself. You and the lady might want to do the same.”
+
+With that, the old smith snagged his bags, grunted, and set off. As he watched the old man disappear behind a street corner, the veteran could only think of one thing.
+
+None of us should have ever gone to that wicked place.
+
+***
+
+Shiny walked through the brood district. Both of the brood camps were full. Full!
+
+The brood had grown to fifty. A big, shiny number.
+
+Munching on his allotment of ashroot, he found a nice spot in the dwindling evening light to settle down. He rested his back against a camp’s wall, looking up at the pretty horizon. In the sky, an orange-yellow sun kissed the lips of the distant treeline.
+
+“Boss!” said Sing, breaking him from his musings.
+
+Looking over, Shiny gave a small sigh. “You get?”
+
+Sing handed him a bundle of glowing purple grub. Shiny frowned. “Feel light.” He looked inside the sack. “Is light. Why so little? Should be more! We have fifty. Fifty imp want.” Then, a new thought filled his mind. Sing was bigger than the other brood. Maybe…
+
+“Did you eat? Sing!” Shiny stood, clawed hands going to his hips.
+
+“No boss! No!”
+
+“Then where go?!” asked Shiny. His orange eyes had gone dangerously still. He trusted Sing. But Sing was stupid. Perhaps stupid enough to steal from him.
+
+“Promise! Promise not eat!” cried Sing.
+
+Shiny bit his lip, really looking at the fat little imp. Trying to parse if that tummy was just a bit larger than it ought to be.
+
+Before he could finish his analysis, a new duo, having heard the commotion, ambled up to join.
+
+It was Clod and Bean.
+
+“He right,” interjected Bean as he approached. “Sing not lie. Dig extra holes. But find less.”
+
+Clod nodded.
+
+Shiny huffed in annoyance. “I see.”
+
+“You… See?” asked Sing carefully. His expression made it clear he most certainly did not. If anything, he still looked quite worried his boss might accuse him of stealing the goods.
+
+Things were going so well. They had a big stash of shinies. But it could be so much bigger. If only stupid Bean could dig better.
+
+Sniffing, he stopped that train of thought. What had master said? Feedback and input. His underlings were giving him feedback. It was up to him to listen, ask questions for clarification, and then make a decision.
+
+So he took another approach. “Why?”
+
+“Huh?” asked Bean.
+
+“Why less,” urged Shiny.
+
+Bean traced a claw over his nose, thinking. “Not sure. I dig hole. Just like usual. But…”
+
+“But?”
+
+“Ground different. Change.”
+
+“Show me.”
+
+The group marched outside the walls, walking for about fifteen minutes until they found the spot Bean had been digging at.
+
+When they arrived, the group parted, letting their boss come through. Quickly, Shiny scampered up to the hole. Like the rest, it was roughly the size of two imps, and a few meters deep.
+
+Peering inside, he assessed the interior. “Look normal. Except…” The layers were the same. Orange sand bled into compressed dirt, debris, and geology. But it looked slightly less bright. Darker. And where there were normally purple grubby bits, it was bare.
+
+Shiny could tell something was a bit off, but it didn’t make him understand where all the precious luminescent grub had gone off to.
+
+Bean pointed. “That.”
+
+Shiny studied the hole closer, and saw what Bean was pointing at. A white root sticking out of the side of the dirt, tangled with a nearby cavity. One that looked suspiciously similar to where the purple grub was typically found.
+
+Wait.
+
+He looked at the half eaten ashroot in his claw. Then back up. Then, to the farms that weren’t so far off from where they stood.
+
+Is that same root?
+
+Shiny thought about that. Hard. Why would the white root be here too? It was a tasty food for them to eat. But before they could eat it, it had to be harvested. And before it was harvested, it had to grow.
+
+Which required fuel. So maybe… It hit him. Master’s plants must like grub too. And the selfish white roots were stealing them all!
+
+“It’s ashroot! It eat our grub!” he proclaimed.
+
+“WHAT?” shrieked Clod.
+
+“NO!” squealed Sing.
+
+“Uh oh,” muttered Bean. “Want me dig? I try break? Get rid root? But… I like root. Taste good too.”
+
+Shiny pondered what to do. “No… No, no. We not destroy. Master need ashroot. We need ashroot.” If they couldn’t destroy the mean roots, what could they do instead?
+
+The supervisor looked at Bean. “Have tried dig further? Walk more?”
+
+Bean nodded. “It little better. But tired. Don’t want walk. Take too long.”
+
+And, a feeling inside Shiny made him think that the selfish roots would grow further and further anyway.
+
+So if the roots were going to follow anyway, maybe they just needed a bigger source.
+
+“Hmm.” His orange eyes roved over Bean, landing on his discolored claws. Bean was a good digger. Maybe better than the roots. Also, Bean didn’t like walking. But he did like digging. A lot.
+
+“Bean…” Shiny pointed with one claw at the hole. “Dig deeper.”
+
+Bean’s pupils went wide. “But master say we should only dig—”
+
+“Deeper!” repeated Shiny. “We find more. Before root!”
+
+***
+
+It took several hours. Bean’s claws were tough, and he really was a good digger. But the soil got harder and harder, with rock beginning to appear. Clod, Sing, and Shiny all helped to dislodge and move those out of Bean’s way.
+
+By the time the dust had cleared and dusk had long since come, the imps stared at their work in wonder.
+
+“What this?”
+
+Shiny dropped into the now deeper ditch, poking the thick purple veins. As they dug further down, the spider webs of purple veins grew thicker. When he touched it, he hissed in surprise. “Warm.”
+
+Yet, more important were the clusters of luminescent grub. But it was different. Instead of small purple patches in root cavities, what they’d found was entire fist sized growths of the grubby stuff. Where it was once just purple, it now had a greenish hue running through it.
+
+Another change became apparent too. At the bottom of the hole, translucent filaments were just visible. Shiny didn’t know what they were. But master might.
+
+Speaking of… He should tell master, right? Only… Master had said he was part of something called middle management. Which meant that some information only Shiny needed to know, and master should only be told when needed.
+
+And for now, Shiny had found a way around the selfish ashroot stealing all his grub. So they could pursue learning more about it, while finding more grub. He’d tell master. Eventually. For now, a new word popped into his mind. One master had said offhandedly but felt just right for the occasion.
+
+“Brood grow. Not just sell little. No… Sell lot. Sell… Wholesale!”

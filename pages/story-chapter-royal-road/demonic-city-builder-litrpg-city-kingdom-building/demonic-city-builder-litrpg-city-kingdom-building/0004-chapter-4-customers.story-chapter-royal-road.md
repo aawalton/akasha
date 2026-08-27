@@ -1,0 +1,165 @@
+---
+id: 7468a861-ed62-5392-8480-8bb839a2edd7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4 - Customers?"
+slug: 0004-chapter-4-customers
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 4
+ownLength: 1333
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3423558/chapter-4-customers"
+royalRoadId: "3423558"
+---
+
+Trees, trees, trees.
+
+That's all Corporal Edward had been seeing as he trudged along with the twenty other members of fourth company.
+
+"Remind me again what the hell our good captain expects to find out here?" he grumbled.
+
+"You aren't curious about that big ol' black tower?" replied the squad mate closest to Edward.
+
+"Oh come now, Bertrum. What tower?"
+
+A good-natured slap on his back was the only reply as they marched onwards.
+
+"Being smart are ya." Edward just smirked.
+
+With my luck, this new trip is bound to screw up my separation pay. Two months. That's all I have left on this forsaken service contract. That promised plot of land was what kept him going. One boot in front of the other. Eyes forward.
+
+Since they had left the mountains behind and entered the massive and endless forests, or Greensward as it was named by the locals, the tower hadn't been sighted again. Just buzzing forest life and game trails.
+
+That was about six hours ago. Edward was about to pester Bertrum about the likelihood of the Captain calling a stop before nightfall when a glint of orange between the underbrush ahead stole his attention. Peering closely, he swore he saw movement.
+
+"I see something ahead!" he shouted. Shouts behind him echoed his sighting.
+
+"Aye, aye. I hear ya. Double file, march formation. Form up!" barked the captain.
+
+The click-clack of boots and stomps of men straightening to attention sounded off. Finally glad to have something other than walking to do, the soldiers eagerly made lines and stood ready.
+
+"Forward. Something's ahead, and I mean to know what. Keep your wits about you, ya hear."
+
+A general chorus of acknowledgements ran through the lines. As one, the militia troops walked on.
+
+Edward kept his eyes locked on the rucksack of the man in front of him, spear held ready. Several moments later, the brush around them parted, soldiers spilling out into a clear, open terrain.
+
+"Why is the dirt so orange?" muttered Bertrum.
+
+"And hot. I can feel that in my boots," hissed Edward.
+
+It was warm enough that even through his service boots, his toes were quickly growing uncomfortable. And the smell... It was a mingling of sulfur and iron that was decidedly unpleasant.
+
+That is not normal. Very, very not normal.
+
+That's when something below pulled at him. The feeling originated inside the ground, faintly tugging at the hem of his cloak.
+
+Nope!
+
+He stepped back immediately, sticking to the back of the column and keeping both feet firmly planted on comfortable, safe brown dirt.
+
+The rest of the men were feeling it too.
+
+"RAGGGHH?!"
+
+"What?"
+
+"Over there!"
+
+Mouths stood open, agape at the sight of six orange imps chewing on a tree. Behind them loomed a massive tower made of a stone not one man here had ever seen. And being North Valdren was right up against The Spine mountains themselves, that was saying something.
+
+"I don't see any grooves," whispered Bertrum beside him, staring at the tower. "No chisel marks or mortar lines. Ed, that thing wasn't built. It looks almost like it just grew."
+
+"What is... By the blessed lord, what wicked creations are these?" asked Captain Breck. The soldiers around him, all sense of order receding in exchange for bewilderment, had no answer other than silence.
+
+"S-Sir. Why is there a giant eyeball on top of that tower?"
+
+"I don't know soldier. This is something evil and tainted. Not in all my years have I seen anything like... like that. Now keep quiet, and let me think," hissed the captain.
+
+"Yeah but sir. I swear it is looking right at us. At me, in fact. I think it knows we're here."
+
+"I said quiet!"
+
+Unfortunately for the captain, he didn't try quite hard enough himself to keep his own voice down.
+
+Almost in unison, the creatures stopped their working and turned, six sets of glowing orange eyes focusing on the soldiers.
+
+Five of the imps' eyes went wide, razor-sharp fangs glistening. But the last imp, one just a bit shorter than the rest, just stared.
+
+Is that thing... evaluating us?
+
+Before he could ponder that more, the other five imps yelled in guttural, high-pitched voices.
+
+"Raggh!!!!"
+
+"FOOD?"
+
+"FOOD! FOOD FOOD FOOD FOOD!"
+
+"Master said hunt! FOOD!"
+
+For just a moment, Edward was absolutely rooted in place. Shock and bewilderment warred in his mind. He just couldn't stop looking at that sixth imp. It didn't scream like the rest. Instead, it looked at the soldiers, then up to the eye on the tower, and then back to them. As if nothing had happened, it went back to chewing on the tree.
+
+The whole reaction was extremely unsettling.
+
+Lord Hallen and Captain Breck will want details. He counted six creatures, tucking the number safely away in his brain for later. Six orange imps, one scary tower, and a big eyeball.
+
+For Captain Breck's part, while he may have been a veteran, his service record was made up of dealing with petty squabbles between the splintered lordship in North Valdren. This was far too much for him.
+
+"Men!" bellowed the captain.
+
+"We... We must get word of this atrocity back through the pass to Lord Hallen! Fallback!" The order was shouted, but Edward noted that Captain Breck was already backing away into the forest.
+
+Some superior officer he is.
+
+"Wait!!!!!" cried a voice. "Greetings! I am Lord Kairon! Please, don't be alarmed." From the tower came a lithe creature over two meters tall, covered in raven black scales and brandishing wicked sharp claws. It covered the ground between them with large, inhuman strides, eating the distance up faster than the imps chewed those trees.
+
+The fallback became a full-blown sprint for the trees.
+
+"RUNNNN!!!!"
+
+Around Edward, the sound of clattering spears and armor filled the forest. Men dropped whatever they could to make running easier. However, Edward's hands were locked white around his own shaft. You don't drop your weapon. Not ever.
+
+He was the last into the treeline, giving one final glance back. The creatures hadn't followed. All were already back chewing on the tree.
+
+Kairon stopped and sighed, staring at where just moments ago the first humans he had met from this world had been. I should have foreseen something like this happening.
+
+Placing his claws on his hips, the demon looked towards the timber crew. "What did they say? No, what did you say?"
+
+"FOOD!"
+
+"FOOD FOOD FOOD FOOD!"
+
+That's what I was afraid of.
+
+"I see. Please, my lovely imps. If you see any other humans, they are not food. Do not talk to them. Do not try to eat them. Don't ask for food or. You know what. Just come find me. Understood?"
+
+The imps all grunted.
+
+"Good. Now back to work, if you please." He watched as the party finished chewing down the first log for today, and began dragging it back towards the stockpile. Shiny was squeaking orders, making sure all the imps were in line. Even so, it was slow going.
+
+He left them to it.
+
+The squad of Valdren soldiers didn't stop running until the trees swallowed the clearing entirely, and then some.
+
+Finally, a halt was called. Captain Breck, breathing hard with his hands on his knees, straightened and swept his gaze across the soldiers.
+
+"Right," he wheezed. "Here's what happened."
+
+The captain took several breaths, trying to maintain a sense of command. "We located an unknown structure, conducted a reconnaissance, assessed the threat, and withdrew in good order to report our findings."
+
+Several soldiers looked back blankly.
+
+"Is that clear?"
+
+No one spoke.
+
+"I said, is that clear?"
+
+A ragged chorus of agreement came back in reply.
+
+Edward looked at the men around him. He counted at least eight empty-handed, and half as many without armor. Bertrum's face was the color of white ash.
+
+Withdrew in good order. Ed bit his tongue hard enough to taste blood. But he nodded along with the rest.
+
+Two more months.

@@ -1,0 +1,317 @@
+---
+id: 25232a2a-95b5-5702-b2a3-79413234af99
+page-type-slug: story-chapter-royal-road
+title: "Chapter 81"
+slug: 0081-chapter-81
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 81
+ownLength: 1707
+unit: words
+ownProgress: 1707
+publishedAt: 2023-04-08
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1163185/chapter-81"
+royalRoadId: "1163185"
+markedReadAt: "2026-06-29T20:34:36.598Z"
+---
+
+[Test 1][Time Remaining: 43 Hours]
+
+I use enemy detection to navigate through the rest of the rat dungeon avoiding as many monsters as possible.
+
+By the time we make it to the boss room I can sense over 30 teams scattered across the wasteland behind us. It seems our detour allowed for a lot of other parties to catch up.
+
+We enter the boss room.
+
+It’s a dark and damp cave-like room. I instantly hear the scraping claws of rats coming our way.
+
+Maria glows blue and looks at me.
+
+“I’ll handle this one.”
+
+I nod.
+
+A wave of rodents appears from the backside of the cave followed by their leader. It’s a giant mutant rat, similar to the one we fought on that hill earlier.
+
+Maria charges forward freezing the oncoming wave while jumping through the air and aiming her sword at the mutant’s neck.
+
+*SHINNNNGGG*
+
+She turns to me with a grin as the large rat’s frozen head falls to the floor shattering into ice.
+
+“Three down”
+
+I walk over to her and reply.
+
+“Seven to go.”
+
+The rats begin to disappear. We collect the mana crystals while waiting for the transfer magic to kick in. Moments later, a white light brings us to the next floor.
+
+The sky is bright blue and there isn’t a cloud in the sky. The grass is short and light green. It’s covering rolling hills with occasional trees.
+
+I smile.
+
+“Now this is more like it.”
+
+I use enemy detection and inspect to quickly survey the area.
+
+It seems like there’s a decent amount of monsters in the area, but they travel in groups of 1 or 2 at most. They’re all between levels 90 and 110. I can only sense 6 teams ahead of us at the moment. That is, in this dungeon anyway.
+
+We begin walking forward.
+
+After about 20 minutes of peacefully taking in the artificial sunlight and beautiful blue sky our first pair of monsters appear.
+
+Two light blue globs of liquid creep over a hill in front of us. I turn to Maria.
+
+“Slimes. I’ve fought these before. Physical attacks won’t hurt them, we’ll have to use only magic.”
+
+She nods.
+
+“Got it.”
+
+Without much effort, we both run up the hill and destroy the slimes in our path with Fire and Ice.
+
+We continue running forward deeper into the slime dungeon. That peaceful walk was nice, but It’s time to pick up the pace again.
+
+I continue leading the way to avoid nearby teams. Our path isn’t exactly straight, but Maria doesn’t seem to mind. As we approach the boss room I sense a team of 3 standing in place.
+
+I use inspect and enemy detection.
+
+[500m]
+
+[Lv. 266]
+
+[Lv. 259]
+
+[Lv. 255]
+
+I turn to Maria and point out the specs of people in the distance.
+
+“We have company. Looks like they’re standing outside the boss room.”
+
+She nods and we slow down to cautiously approach them.
+
+[300m]
+
+I can vaguely make out a glowing grey portal in the distance now. They’re not jumping through for some reason…
+
+[100m]
+
+Maria and I point our swords forward and continue to walk slowly at them. The level 266 steps in front of the others and raises his hands in the air.
+
+We walk within talking distance and he yells out. He’s visibly out of breath.
+
+“P-Please, could we ask you to do us a favor!”
+
+It’s a man carrying a silver sword on his back and is dressed in standard leather and steel armor. He’s a bit shorter than me, with short black hair and brown eyes. As we approach, he keeps his hands raised. The two men behind him don’t say a word. They seem tired too, it looks like they’ve been running for a while.
+
+I raise an eyebrow and use appraisal on the 3 of them.
+
+[Lv. 266]
+
+Active Items:
+
+[Steel Sword] +250 Strength
+
+[Leather Chestplate] +150 Defense
+
+[Steel Wrist Guards] +150 Defense
+
+[Enchanted Leather Boots] +200 Speed
+
+[Ring of Protection] +35% Defense
+
+[Rodrigo’s Silver Bracelet]
+
+Active Skills:
+
+Team Buff[All Stats +25%]
+
+Crafting
+
+[Lv. 259]
+
+Active Items:
+
+[Steel Sword] +250 Strength
+
+[Leather Chestplate] +150 Defense
+
+[Leather Wrist Guards] +100 Defense
+
+[Enchanted Leather Boots] +200 Speed
+
+[Ring of Protection] +25% Defense
+
+[Rodrigo’s Silver Bracelet]
+
+Active Skills:
+
+Swordsmanship
+
+[Lv. 255]
+
+Active Items:
+
+[Heavy Steel Shield] +300 Defense
+
+[Leather Chestplate] +150 Defense
+
+[Leather Wrist Guards] +100 Defense
+
+[Enchanted Leather Boots] +200 Speed
+
+[Ring of Protection] +25% Defense
+
+[Rodrigo’s Silver Bracelet]
+
+Active Skills:
+
+Body Hardening
+
+Extreme Defense
+
+“What do you want…?”
+
+The three of them seem to be your run-of-the-mill, middle-aged, small-town guild hunters. They may be decent fighters, but nothing special sticks out to me. This is so odd…
+
+The man in front speaks again.
+
+“Please defeat the slime boss for us, we’ll do anything!”
+
+He bows.
+
+“I-uh-what?”
+
+“….”
+
+I turn to Maria, she shrugs, then I turn back to the man with a confused look on my face.
+
+He speaks.
+
+“None of us have any combat magic abilities. We can’t defeat this boss with just our swords.”
+
+I chuckle, then Maria chimes in.
+
+“We should just kill them now! Sending these three back to the start would be a better use of out time, I mea-“
+
+I cut her off mid-sentence while pointing my sword at the leader’s neck.
+
+“Let’s hear them out. We’ll do it, what can you give us in return? She’s right, you may be better off leaving this exam if you came this ill-prepared… but I’ll help you if you can help us.”
+
+I grin.
+
+The man smiles back thinly and turns to his teammates. They sift through their item boxes and pull out a few bottles of potions.
+
+I shake my head and roll my eyes, then point to his left hand.
+
+“How about that ring? You said anything.”
+
+The man gulps, then nods slowly and takes off the golden ring containing a small dark green gemstone on the face of it.
+
+“Very well.”
+
+I motion for him to place it on the edge of my blade. He does and I bring the ring closer to put it on. It magically fits next to my other ring and I grin as I feel the effects of its defense buff.
+
+I turn to Maria.
+
+“You want anything?”
+
+She eyes the men up and down then replies.
+
+“Give me your MP potions. I want at least half.”
+
+They hand Maria 7 MP potions in total. She sighs, then puts them in her item box.
+
+“This will do. Let’s kill the boss before another team comes along.”
+
+I nod.
+
+“Agreed.”
+
+The three men look at us with hopeful eyes. I guess we were their only chance of getting through this dungeon.
+
+All 5 of us step into the slime dungeon boss room.
+
+The room seems to just be a smaller version of the dungeon we just left. The grass is green and short. The hills raise up around us in all directions creating an arena-type environment.
+
+Moments after we enter, a large blue glob of liquid appears. I use inspect.
+
+[Lv. 151]
+
+Maria grins.
+
+“I got this.”
+
+I nod.
+
+“Go for it.”
+
+She begins to glow bright blue while running at the slime with her blade out in front.
+
+*SHINGGG*
+
+Maria slices the slime in half. The points of contact begin to frost over and consolidate into Ice.
+
+Instantly, the blob freezes into a solid and falls to the ground in two parts. She brings her blade back around and shatters the Ice to bits.
+
+Maria holds up four fingers, then points one down to the floor.
+
+I yell back and smile.
+
+“Six to go.”
+
+We all walk over to her as the fragments of ice begin disappearing. The team we came with hasn’t said a word since we entered this room. I see the two men take off their rings and hand them to their leader.
+
+The white light appears and we’re all transported to the next floor.
+
+*CLANGGGG*
+
+I roll my eyes as I activate body hardening to block the sword being swung at my back.
+
+“Seriously…?”
+
+The team leader staggers backward with fear in his eyes after his failed attempt at a surprise attack.
+
+I look at Maria, then briefly take in the new landscape of a mountain range dungeon.
+
+“You were right. These fools weren’t ready. We should have saved the time and killed them earlier.”
+
+She grins and starts glowing blue.
+
+The man speaks.
+
+“H-How? I-I’m sorry. Just how strong are you two?”
+
+I ignite my blade into flames and motion for Maria to handle the other two men. She nods and I walk towards the leader who tried to stab me in the back, literally…
+
+He raises his sword and I activate berserker while continuing to cover my entire body in flames. I sprint toward him and instantly land a hit across his chest. My speed is in another class than his…
+
+I turn back to see the man still standing, but flames are burning brightly from his chest. He turns to me with bloodshot eyes and starts glowing bright yellow.
+
+“YOU AREN’T GOING TO TA-“
+
+*SHINGGGG*
+
+I launch another attack before he finishes his sentence. A blow straight to the neck. He dissolves instantly in a bright flash, being transported back to the outside world. I turn to Maria and see two statues of Ice in front of her.
+
+She laughs.
+
+“I think we should just leave them.”
+
+I nod.
+
+“Good idea. Serves them right.”
+
+We leave the frozen men behind and begin walking deeper into the new dungeon. I use enemy detection to scope out the landscape and sense 8 teams ahead of us. One of them isn’t too far away, and there’s a hunter with a higher level than me…
+
+I grin and point to a rocky mountain in the distance covered in dark green pine trees and small boulders.
+
+“This way, another detour. Get ready for a real fight.”
+
+Maria nods and turns to me as we depart.
+
+“Sure, let’s do it. But umm, I’m curious about something…. What was the ability you used to block that sword attack earlier?”
+
+I stop walking to look Maria directly in the eyes. She speaks up again.
+
+“Jay… Do you have a third skill?”

@@ -1,0 +1,317 @@
+---
+id: 31b23806-edbb-5081-a9a9-1a1a10cf0390
+page-type-slug: story-chapter-royal-road
+title: "Chapter 66"
+slug: 0066-chapter-66
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 66
+ownLength: 2600
+unit: words
+ownProgress: 2600
+publishedAt: 2023-03-24
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1147579/chapter-66"
+royalRoadId: "1147579"
+markedReadAt: "2026-06-29T20:34:05.262Z"
+---
+
+Bri smiled while looking straight ahead at the ongoing performance.
+
+“Theodore is strong. Much stronger than you.”
+
+I gulped.
+
+“Really? Should I drop ou-“
+
+“No. You’ll be fine. As long as you take control of that sword.”
+
+“Take control?”
+
+“Yes. If you let it push you around like that again, its violent nature may consume you.”
+
+I felt my stomach churn as I looked over at my sword.
+
+“S-So that was real? I really killed him in cold blood…
+
+I paused and looked at the ground, then back up to Bri. Reality is slowly setting in.
+
+“What did you do to me?! What did you put in that sword?! What’s going on here?!”
+
+Bri grinned and finally turned to look me in the eyes.
+
+“It was the element stone that YOU brought me. I didn’t do anything. Whatever monster that stone came from has a wild spirit that remains even after death. If you want to continue using your blade you’ll have to tame the beast, or it will tame you.”
+
+The sword glowed a faint red color in the corner of the room then returned back to black.
+
+I stared forward at the beautiful women performing in the ring to try and calm my mind.
+
+“By the way…. You don’t have to fight again, our agreement is complete. It’s your choice to decide if you’d like to continue. Either way, take these.”
+
+Bri handed me an HP and MP potion. I didn’t really need them but chugged both just for the sake of it. She’s right… our agreement is complete. I could walk out of here right now and never see anyone in this underground hell hole again.
+
+I nervously looked back at my sword, then remembered the exact moment I killed that innocent man. My heart pounded and my stomach churned. The mixture of frustration, anger, and anxiety became overwhelming. I began to sweat and fidget overthinking everything. There’s only one thing that puts my mind at ease in situations like this….
+
+“I’ll fight.”
+
+Bri grinned and turned back to the entertainment.
+
+“Good.”
+
+We watched the show in silence as my anxiety grew. It felt like there were eyes gazing at me from the back of the room where my sword lay.
+
+It wasn’t even glowing or emanating any energy, I think it’s just pure paranoia at this point…
+
+Finally, I heard the announcer’s voice chime in as the dancers left the arena.
+
+“I hope you all enjoyed the show! Now! It’s almost time for our main event! Let’s have our fighters come forward, the brawl will begin in under 5 minutes.”
+
+I looked at Bri and she nodded slowly.
+
+“Best of luck out there.”
+
+I looked her in the eyes before putting on the black and red demon’s mask. Then, turned around and grabbed my sword. I swung the door open and left without saying a word.
+
+Again, as I walked through the crowd everyone parted all around me. No one wanted to get close. People grinned in awe, others scowled in disgust. It seems to be a mixed crowd.
+
+I made it to the cage and the same worker from before let me in. I stood alone in the middle of the ring with all eyes on me.
+
+I could hear the crowd’s mixed reviews all around me…
+
+“Boooooo!!!”
+
+“He’s really fighting again already?”
+
+“Theodore will destroy him!”
+
+“I think the Flame Emperor could be our new champ! I like this guy’s style! Kill or be killed, no questions asked.”
+
+“Murderer! How can you stand up there with such a lack of honor? Take off the mask!”
+
+“This will be the fight of the year! I’m betting on the new kid!”
+
+“My money’s on Theo all the way, you’re crazy!”
+
+“Get it started!!! I want to see this brawl already, enough waiting!!!!”
+
+I had to just start blocking them all out. The more I try and listen the more anxious I become. With a deep breath in and out, I raised my sword up in the air and ignited it into a burst of flames.
+
+I stared deep into the jet-black flaming sword and yelled.
+
+“THIS IS MY FIGHT ALL RIGHT! I’M YOUR WIELDER, YOU MUST OBEY ME!”
+
+The crowd went silent and the blade stayed black. There was not even a hint of a response from the sword and I just looked like an idiot in front of the crowd….
+
+They all started to murmur again.
+
+Seconds later the announcer spoke up while I still held my flaming blade high in the air.
+
+“Thank you for the intro! With that, our main event is about to begin! We’ll get started with the man in the ring! You all know him well, the winner of our previous match coming in at 20 years old, 181cm, and weighing 84kg. He holds an overall fight record in the Rumble Dome of 1 Win, 0 Losses, and 0 Ties. Please Welcome back, The Flame Emperor!”
+
+About half of the crowd cheered and clapped, but it was nothing like my last introduction. I looked around and bowed while giving them another burst of flames before bringing the sword back to my side.
+
+“Now… The moment you’ve all been waiting for…. Coming in at 29 years old, 198cm, and weighing 121kg. With an overall fight record in the Rumble Dome of 47 Wins, 0 Losses, and 0 Ties. Please Welcome our U250 reining champion, Theodore The Destroyer!”
+
+*THUDDD*
+
+*THUDDD*
+
+*THUDDD*
+
+The door of the cage opened up and a massive man walked through. He wore a thick silver chest plate, an odd necklace with a large tooth hanging from it, wrist guards, high boots, and a gladiator-style helmet that only revealed his eyes and mouth.
+
+The champion carried a tall rectangular shield and a massive metal club almost as tall as me.
+
+He had tan skin that almost looked orange, and muscles bulged out from every possible place they could. His steps shook the ground as he towered over me.
+
+The crowd went crazy! As the cage door shut the room exploded into cheers and yells. They threw their shirts and hats in the air as they chanted in unison.
+
+“THEODORE!”
+
+“THEODORE!”
+
+“THEODORE!”
+
+“THEODORE!”
+
+“THEODORE!”
+
+I gripped my sword and stared at the menacing beast of a man.
+
+I used inspect.
+
+“Lv. 220”
+
+Level… 220… and he’s the champ? How is this possible…?
+
+I curiously looked him up and down then remembered I picked up a new skill from my previous fight. I wonder what it’ll show me.
+
+“Appraisal”
+
+_____________________
+
+Active Items:
+
+[Steel Helmet] + 100 Defense
+
+[Steel Chest Plate]: +100 Defense
+
+[Minotaur’s Wrist Guards]: +175 Defense
+
+[Steel Boots]: +150 Speed
+
+[Dragon Tooth Pendant] + 30% Mental Strength
+
+[Large Steel Shield]: + 200 Defense
+
+[Steel Club]: + 300 Strength
+
+Active Skills:
+
+[???????]
+
+_____________________
+
+I raised an eyebrow and grinned. This is a neat new skill I picked up.
+
+He’s a level 220, and his gear seems pretty standard. Just by looking at him, his defense and strength are most likely the strong points. Compared to my own base stats and gear, I don’t think we’re that far off.
+
+How can he be the undefeated champion of this division with such average gear and not even a maxed level? I wonder what those question marks under the active skills section are.
+
+The announcer’s voice began to ring in my ears. I shook myself out of deep thought and gritted my teeth to stare down at my new opponent across from me.
+
+“Everybody knows the rules! There’s no time limit in the ring, all tricks, magic items, and abilities are allowed! The winner will be decided by knockout, forfeit, or death. As seen in our last match, anything goes. A forfeit places you in your opponent’s mercy! We will begin at the sound of the bell.”
+
+Theodore stomped his feet and pointed the metal club at me.
+
+“You’re dead meat.”
+
+I grinned and pointed my sword back at him while letting the flames burn bright.
+
+“I could say the same thing about you.”
+
+He smirked.
+
+*DING*
+
+Theodore charged forward at me with incredible speed, it’s comparable to my own. I reacted on instinct and twisted my body to the right barely dodging his massive club swing past me.
+
+I sprinted to the opposite side of the cage and watched the large man plant his leg and turn around to stare at me with bloodshot eyes. He’s impressively nimble and quick for his size… he has almost no gear buffing his speed. Are these really just his natural stats?
+
+Before I could think, he sprinted at me again with a murderous aura around him. It took me all the strength in my body to dodge to the right side again. His club came centimeters from my head this time.
+
+I gulped and held my sword tight as the beast of a man turned to face me again. He smiled wide and his eye’s looked even crazier this time around. They became more bloodshot and focused directly on me.
+
+This time… I’ll find a way to counter.
+
+He came charging towards me with blinding speed. I challenged his attack with my own speed channeling a large amount of MP into my sword and preparing to use body hardening to soften the blow of his attack.
+
+*SHINGGGG*
+
+I swung my sword with all my might and twisted my body to curve around his club. I managed to land a small hit on his left shoulder where there was no armor… but it wasn’t a deep gash. Is his defense really that high???
+
+The moment I landed my attack, he registered this and corrected the swing of his own club.
+
+*THUDDD**CRACKKK*
+
+Theodore landed a hit on me directly in the stomach. I had time to create a layer of crystal body hardening, but somehow it cracked and shattered instantly.
+
+The wind was knocked out of me and my eyes opened wide as I flew across the ring to hit the back cage wall. My world felt like it turned slow-motion as the square necklace on my chest exploded into a thousand pieces.
+
+That means his hit did 500 HP worth of damage minimum, and I even protected myself with body hardening. I checked my status, it read 1050/1065 HP and 990/1065 MP. My extra life is gone already.
+
+I got to my feet and burst into flames to see him running at me again. With no time to think I sprint out of the way with all my might and narrowly miss the high incoming club.
+
+Bri was right… he is a lot stronger than me. Possibly faster too… and better defense…. But HOW? Is it his skill? What’s going on???
+
+Theo ran at me again with the same bloodshot eyes and a grin ear to ear.
+
+“Come hereeeee! It’s only a matter of time now!”
+
+He swung his club and lunged forward, he isn’t tiring one bit. All I can do is dodge.
+
+He came at me four more times and I swerved around his club nearly getting hit with a fatal blow to the head every time. His precision is getting more and more dialed in with every attack. He may be right… it’s only a matter of time…
+
+We stared each other down on opposite sides of the ring. I’m trying to stay focused as best I can, but the crowd is making a lot of noise.
+
+“Come on!!! I came to see a fight!!!”
+
+“The Flame Emperor Isn’t so tough now!!!”
+
+“THEODORE! THEODORE!”
+
+“Get him!!! He’s almost tired out!!!”
+
+“What a wimp! Looks like the Murderer has met his match!”
+
+The whole crowd is turning against me, and all I can do is run. How did I get myself into this situation anyways….
+
+*THUDDDDDD**CRACKKKK*
+
+I got distracted….
+
+Theodore had run towards me and launched his usual frontal attack. I noticed after it was much too late. While hardening my abdomen and bracing for the impact he struck my left side and sent me flying through the air to the backside of the cage again.
+
+The black crystal fragments flew everywhere and I coughed up blood as I regenerated and stood to my feet as fast as I could. My status read out 535/1065 HP and 875/1065 MP.
+
+I gritted my teeth and glared at him.
+
+Theodore charged in again.
+
+I dodged.
+
+Over and over.
+
+We played cat and mouse for another 40 seconds straight.
+
+The crowd booed me and chanted for Theodore as he tired me out.
+
+I attempted to use telekinesis at one point, but every time the blade got close he easily swatted it away with his club or shield. It contains less mana when I’m not directly in contact with it, so I found it was just draining MP unnecessarily and stopped trying this attack method.
+
+Theodore has had enough of me, I can tell he’s getting frustrated.
+
+“You annoy me kid! I’m gonna end it right here and now!!!”
+
+He ran at me with his shield held in front of him and the club behind his back. I got in a comfortable position to get ready for a dodge to either side.
+
+Once he got closer I decided to jump to the left. The moment I did, he awkwardly followed… With his shield up front, he swerved to the left. I continued to run, but he stayed close behind zig zagging until we got closer and closer to the back of the cage.
+
+He pulled the club from behind his back and cornered me on the left and right side with his incredible wingspan. I gulped and scanned the area. His massive legs, shield, and club have me comply boxed in.
+
+Theodore raised his club in the air and yelled as he swung it down towards me.
+
+*CLANGGGGGG*
+
+The only thing I can do is block.
+
+I swung my fiery black blade up to meet his club. All that’s left is a battle of strength and will.
+
+Instantly, I could feel his strength overwhelm me. I erupted into flames and forced as much MP into my blade as possible.
+
+Simultaneously, I plundered Theodore’s MP to get a steady source of mana. His club overpowered my sword, and I’m being pushed to the ground attempting to latch onto any bit of leverage I can manage.
+
+I yelled out to my only hope remaining, the sword in my hands.
+
+“IT’S TIME. FIGHT WITH ME!”
+
+Theodore Smirked and pushed his club down with more force as I pushed every last drop of MP into my blade.
+
+“COME ON!!!!”
+
+Sweat flowed down my face as the sword refused to answer.
+
+“OBEY ME!”
+
+Still… Nothing…
+
+“FINE. I’LL DO IT MYSELF!”
+
+I stopped sending MP into the sword and sent it directly to my own body erupting into a ball of fire 5m in diameter and covering my body in black crystals.
+
+We both yelled as Theodore’s club crushed me under its immense weight, and I attempted to burn him to a crisp.
+
+Theodore jumped back out from my ball of fire as he landed his brutal attack. I let my flames dissipate and regenerated my broken bones. I checked my status again. as I spit out a puddle of blood. It read 20/1065 HP and 545/1065 MP.
+
+I stood to my feet and glared at the massive man in front of me as he patted out the flames covering his body. He was burned all over but didn’t seem to be phased by it. This is truly a monster…
+
+His eyes met mine and I raised my blade.
+
+It finally began to glow red.

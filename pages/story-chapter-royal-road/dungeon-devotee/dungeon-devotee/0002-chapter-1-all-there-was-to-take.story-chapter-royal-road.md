@@ -1,0 +1,279 @@
+---
+id: cee5c416-e971-54ce-973c-fd7d153c3889
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1: All There Was to Take"
+slug: 0002-chapter-1-all-there-was-to-take
+partOf: dungeon-devotee
+position: 2
+ownLength: 4140
+unit: words
+ownProgress: 4140
+publishedAt: 2022-02-17
+link: "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/847734/chapter-1-all-there-was-to-take"
+royalRoadId: "847734"
+markedReadAt: "2026-06-29T22:37:04.926Z"
+---
+
+Only once his stomach had calmed and the bleeding had stopped and the agony of his broken rib had faded into a dull ache did Edmund allow his thoughts to turn towards his rewards. He’d let the pain run its course, forcing himself to experience it in full before he allowed himself the distraction of choosing an Aspect or examining the loot. This, he thought, was delving in its purest form, pain before reward.
+
+The idea would’ve made him sick if his body had any more sickness to give. As it was, Edmund felt only exhaustion.
+
+He didn’t move from where he lay upon the cold ground, welcoming the discomfort of the hard earth against his skull, a reminder that where he was, comfort was a lie. With a deep breath, he shut his eyes, sent his thoughts inward, and allowed the constellation of Aspects to appear in the darkness behind his eyelids. His options were as sparse as they’d ever been.
+
+Aspects
+
+The twenty-seven base Aspects glimmered before him, some shining brighter or darker than others in measure of how well they resonated with him as an individual, how powerful they’d be if he chose them.
+
+Five of the base Aspects stood out. The first, of course, was Perseverance, the one Aspect Edmund already had. Instead of shimmering like a star, it shone solid and white, solidified as a part of his soul.
+
+The last three, Divine, Infernal, and Eldritch, didn’t shine at all, their sigils gray and obscured, as if hidden behind a veil of fog. He’d need to strike a deal with a celestial being to access any of those three.
+
+The fifth and final Aspect of note sent a simultaneous wave of terror and awe down Edmund’s spine. Even as isolated from the goings on of the Eternal Depths as he’d been in his youth, Edmund had heard all manner of legends and horror stories alike that came to mind as his mind’s eye stared at the resplendent view before it.
+
+Everyone knew that an Aspect’s power was governed first and foremost by how well it resonated with the individual that chose it. Some of Linaria’s greatest heroes had spent decades filling out their constellations, carefully combining Aspects and selecting confluences to create the Aspect that they perfectly embodied.
+
+It was an imprecise science, but most accounts agreed the color and brightness with which an Aspect glowed best defined one’s resonance to it, starting from the dull gray of most base Aspects and moving up the spectrum to red, yellow, green, blue, and eventually, violet. Some whispers told of levels beyond even that, but they were just that: whispers.
+
+All of this must be distinctly understood for a soul to grasp the full extent of the shock and fear that sent Edmund’s heart pounding, his face pale, and his hands trembling.
+
+The only thing more horrifying than the sight of an Aspect that shined with the full spectrum of the rainbow, a prismatic beacon so bright it washed away the rest of his constellation, was which particular Aspect it was.
+
+Madness beckoned.
+
+Minutes dragged on like months as Edmund lay there, staring with closed eyes at the brilliance before him. Any other Aspect he would’ve chosen in a heartbeat. Whatever prismatic resonance meant, it had to have been powerful, a boon Edmund would desperately need if he wished to truly best the Eternal Depths.
+
+But not Madness. Madness had a reputation.
+
+The academics found it an interesting matter for debate. Did taking the Aspect of Madness drive one mad, or did one have to be mad in the first place to ever willingly choose it? Perhaps it was some combination of the two.
+
+Edmund didn’t have time for a scholarly debate. He had a decision to make. Was the power this strange type of resonance offered worth the risks associated with choosing Madness? The fact he lay where he did, under-equipped and underpowered for the Eternal Depths, didn’t speak well of his risk-reward analysis.
+
+For what felt like an eternity Edmund pondered, turning the conundrum over and over again in his head until he’d bent it so sideways it ceased to exist to him as more than a vague concept. He approached the problem from a dozen different angles, beating it into submission from every which way, and coming out the other side with the same conclusion over and over again.
+
+Madness wouldn’t be so resonant if he weren’t mad already.
+
+Once he’d accepted it, the decision came easily. Edmund hadn’t journeyed to the Eternal Depths to grow as a person. He’d come for one reason and one reason only. He didn’t have to be sane to claim his revenge.
+
+He just had to be powerful.
+
+Edmund chose Madness, watched its prismatic glimmer soften and solidify as it cemented itself upon his soul. He didn’t know how it would affect him. He didn’t know what boon it would grant. He didn’t even know what confluence it would make with his Aspect of Perseverance. Only one thing was clear.
+
+Just as Edmund chose Madness, Madness chose him.
+
+It took a minute to fully incorporate his new Aspect, a process that left Edmund feeling no different than before, at least until he focused in on his constellation.
+
+Edmund Montgomery Ahab
+
+Aspects Unlocked: 2
+
+Tier 1 Aspect: Perseverance - Gray Resonance
+
+Gain limited health regeneration.
+
+Tier 1 Aspect: Madness - Prismatic Resonance
+
+See beyond reality.
+
+Both Aspects would go up in tier and grow stronger as he combined them with others, though while Edmund understood how health regeneration could gain power, the description beneath his newest Aspect had no such clear course for progression. Thrax, he didn’t even know what it did now.
+
+The soft scratch of claw against wood pulled him from his reverie, sending his heart racing with a fresh wave of fear.
+
+Edmund’s eyes shot open as he lurched upright, ignoring the dull pain of protest from his still-recovering rib. It faded behind the veil of adrenaline quickly enough. He glanced to his left.
+
+There, in the same corner they’d originally nested, lurked two giant rats, alive as they’d been but hours ago.
+
+Edmund panicked. He wasn’t ready. His rib still hadn’t fully recovered, his sword still sat on the floor a dozen paces away, he still didn’t know how to utilize his new Aspect. He gulped. None of those facts had any bearing on the truth that those rats were back, and Edmund had to defend himself.
+
+He pushed himself to his feet.
+
+The rats didn’t move.
+
+He grabbed the wooden spear from where it lay at his side, its surface sticky with blood from rat and Liam alike.
+
+The rats ignored him.
+
+Leveling the spear at the beasts and never once moving his eyes away, Edmund slowly sidestepped across the room, making his way towards the exit and the wooden chest next to it. Still the rats didn’t attack. Edmund wondered why.
+
+Spear still pointed in their direction, Edmund kneeled next to the chest and pulled it open, laying eyes for the first time on his reward for defeating the dungeon’s first floor. Two items greeted him.
+
+The first was a dagger, curved like a claw but otherwise simple in design. As he stared at it, something occurred that Edmund had never before experienced, something he wasn’t sure if he could attribute to the dagger, the dungeon, or his own Madness. Either way, he didn’t trust the ethereal text that appeared before him.
+
+Rat’s Fang
+
+Deals minor pestilence damage on blood draw.
+
+Edmund blinked the letters away, picking the knife up by its crude, leather-bound handle and slipping it into his rope belt. It was the kind of item Liam would’ve loved with his Aspect of Knives. Given his experience so far, Edmund preferred the wooden spear. It, at least, allowed him to keep some distance.
+
+He pushed past the memory of the boy who would’ve been his friend to move on to the second item in the chest, a pocket-sized book stained with blood. No unreal text materialized in Edmund’s vision as he picked it up, the imprint on its cover identifying the item for him.
+
+The Dungeon Accords - A Pocket Guide
+
+Edmund flipped it open to find a name inscribed on the inside of the cover: Laura Setois.
+
+That explains the blood, Edmund thought as he cast a careful glance back up at the rats. They hadn’t moved. Of course, this book could’ve belonged to any would-be delver named Laura. Gods knew Edmund had never asked her last name. But to find it there, in the loot chest on the very floor Laura had died, that was too much of a coincidence.
+
+The dungeon had given him his dead party member’s book as loot.
+
+Edmund leafed through the summary of the dungeon accords, the agreements forged between the Eternal Depths and representatives of humanity, the rules, as it were, the dungeon promised to follow in exchange for humanity’s continued attempts to plunder it. Laura had quoted them at him earlier.
+
+He flipped through to the section she’d mentioned, by far the largest in the pocket guide. He skimmed past the various laws outlined in the fairness accords, pausing at last at the excerpt he sought.
+
+New Spawns
+
+New traps cannot be spawned after a delver enters a floor. New enemies spawned after a delver enters a floor cannot attack unless the delver attacks them first. See accord 18531.41 for further details.
+
+That explained the rats. The dungeon had respawned them while Edmund had recovered, but under the fairness accords they couldn’t attack unless he attacked them first. He exhaled, allowing some of the tension in his jaw to slip away.
+
+Edmund spent a few minutes flipping through the book in search of accord 18531.41, but apparently the full agreements and details therein didn’t fit in a pocket guide. He’d have to make do with the abridged version. Another section explained why only two of the six rats had respawned.
+
+Group Size
+
+Floor difficulty must scale to the size of the group. The scale need not be linear, but a party of one will not face challenges meant for parties of ten outside of specific circumstances beyond the twenty-ninth floor. See accord 12983.88 for further details.
+
+The dungeon was making things easier for him. The guide was right about the scale not being linear—together they’d faced the rats six to five, now he faced them two to one. At least, Edmund figured, he’d stand a chance alone.
+
+Loot collected and Aspect chosen, one decision remained.
+
+The door to the next floor stood open behind him, promising more dangerous monsters, deadlier traps, better loot, and another Aspect. The way out opened up across the cellar, a chance to leave the Eternal Depths with his life.
+
+Edmund took neither option.
+
+He forewent escape, vowing to himself he wouldn’t leave his goal behind. At the cost of another day spent waiting in line, he might’ve found four new inexperienced teammates to trip over, but that idea held little appeal. Laura’s blood still coated the pocket guide. Liam’s taunting face atop that pike still appeared whenever Edmund shut his eyes.
+
+No. Edmund cast one more lingering look at the dungeon’s exit and turned away. There was nothing for him out there.
+
+He didn’t even stop to consider moving on to the second floor. Not yet.
+
+Perhaps it was in the way the dungeon seemed to taunt him. Perhaps it was sense breaking through to him for the first time since he’d decided to enter the Eternal Depths. Perhaps it was his own Madness guiding his thoughts. Whichever it was, Edmund made his choice.
+
+He gripped his spear, placed a hand on the knife at his belt, and looked away from the exit and path down alike.
+
+Edmund turned and he glared at the two rats in the corner, a single conclusion resonating through his mind.
+
+He wasn’t yet finished here.
+
+Ferocity on his mind and steel in his spirit, Edmund grasped his spear with both hands, leveled it at the closest of the rats, and charged.
+
+Whatever the fairness accords considered an attack, the rat didn’t sit there and let him impale it. At his approach, it snarled and twirled at him and bared its fangs. Edmund accounted for the motion as best he could, but the beast was quick.
+
+His spear struck it in the shoulder, piercing deep before it struck bone and snapped like a twig. Edmund dropped the broken shaft and reached for his knife, momentum carrying him forward towards the rat.
+
+Its claws sank into his belly at the same time his knife plunged through its eye.
+
+Agony erupted within him, fiery torment exploding like a storm within Edmund’s abdomen. Even behind the fog of adrenaline it raged, coursing up his spine and through his mind as if intent on breaking him.
+
+But he was already broken.
+
+Edmund pulled his knife free and plunged it in again, a bellow of rage he didn’t recognize echoing through the empty cellar. He stabbed it again and again, claiming what little vengeance he could for all the loss, all the pain, all the death, before another set of claws raked across his back.
+
+Edmund reversed his grip on the knife before pulling again from the devastated corpse of the first rat before swinging blindly and wildly behind him. From the force of the strike he knew he’d hit. From the hiss of rage that followed, he knew he hadn’t killed it.
+
+He tugged perpendicularly on the knife, using its position stuck in the second rat as leverage to pull himself around and destabilize his foe. A fresh wave of agony ran through him as the first rat’s claws were pulled from his stomach, but Edmund had other dangers vying for his attention.
+
+Holding the knife in the rat’s side to keep it in place, Edmund’s other hand shot to the side to grab the half of the spear that had fallen to the floor.
+
+The rat clawed at him, fighting through its own injuries in a desperate bid to escape the iron grip on the knife holding it still. Edmund took the assault unflinchingly, red lines blossoming along his chest as both it and the flimsy rag of a shirt that protected it were torn to shreds.
+
+With the splintered back-half of the spear, Edmund struck. Once, twice, three times he swung the makeshift stake at the beast, before at last he got past its squirming motions and desperate defense.
+
+The broken spear pierced its eye, and the rat joined its nest mates in death.
+
+Edmund collapsed backward, breath heaving and heart pounding as he bled upon the dungeon floor, his health regen barely keeping up with the blood loss. The pain washed over him, a tidal wave no longer held at bay by the urgency of the moment. He let it. There would be more coming, he knew. Best to grow accustomed to it sooner rather than later.
+
+The rats had already respawned by the time he’d recovered from his wounds, but Edmund didn’t hesitate to challenge them again. He simply walked back to the trap that had killed Liam, carefully pressed on the trigger with his bloody half-spear, and broke off the new pike that emerged. Fresh weapon in hand, he returned to the rats.
+
+The second time he did better, landing his first strike with fatal accuracy before falling into a brawl with the other rat. It only took half an hour to recover from the gash in his side and bite wound on his arm. The third time he only took a single hit.
+
+Through it all, Edmund put his Perseverance through its paces, accumulating and regenerating injury after injury for gods knew how long. Down here, there was no passage of day and night, only the orange glow of smokeless torches and the stench of drying blood.
+
+His Madness, on the other hand, seemed to do precious little. He’d still yet to determine what seeing beyond reality meant, and other than the floating text that appeared whenever he looked too closely at his loot, Edmund didn’t have a clue.
+
+At least, he didn’t until, upon watching the two rats reappear in the corner for the fourth time, a familiar voice rang out behind him.
+
+“What are you doing?”
+
+Edmund froze.
+
+“You realize the floor’s clear, right?” the voice continued. “You can’t get any more loot or Aspects here.”
+
+Ice running through his veins, Edmund turned to find Liam, alive and uninjured, sitting casually on the wooden chest that’d once held his loot. “You’re not real.”
+
+Liam laughed, a short and sharp thing. “That’s a matter of perspective.”
+
+“I watched you die.”
+
+“Exactly.” Liam smiled and tilted his head. “I might not be real from most people’s perspectives, but from yours…” He spread his hands out to both sides. “Here I am.”
+
+“Madness,” Edmund breathed, far quieter than Liam should’ve been able to hear from across the room. “I’m hallucinating.”
+
+“For what it’s worth, reality is overrated. All the best people can see past it.”
+
+“You mean all the best people are mad.”
+
+Something about Liam’s smile shifted, the friendly whimsy of it giving way to a cheshire grin that seemed to at once comfort and threaten Edmund from the other side of the cellar. “You never answered my question. Why are you still here?”
+
+Edmund tightened his grip on his spear, the third one he’d taken from the simple trap. “I’m practicing.”
+
+“Against rats?” Liam asked. “You do know the next floor will have different monsters?”
+
+“It’s not about the rats,” Edmund said, turning his gaze away from the hallucination and back towards the beasts. “It’s about the fight. Making a battle plan, reacting to the ways it falls apart, taking hits and fighting past them.” He swallowed. “I’ve fought these rats four times now and I still can’t win without getting hurt.”
+
+“So you’ll keep risking your life for no reward?” Liam asked. “Have you considered the existence of training yards? Or maybe you have the wrong tools. You could leave and find a different weapon, or go to the next floor to earn another Aspect and more loot.”
+
+Edmund set his jaw, refusing to look back at Liam. “Or I could opt not to take advice from a hallucination.”
+
+Liam laughed once more, the mirth returning to his voice. “Maybe you should. Maybe that’s what makes your Aspect so powerful: a hallucination that gives great advice.”
+
+“That’s enough from you,” Edmund snapped. “I don’t make a habit of trusting hallucinations of my dead friend, and I certainly don’t trust any that show up here.”
+
+“Fine by me,” Liam replied, leaning back on his left palm. “If you don’t want my help, I’m happy to sit back and enjoy the show.”
+
+Edmund charged for the rats, letting his rage and confusion wash away under the deluge of adrenaline. All thoughts of Madness and strange hallucinations vanished behind the singular, pressing need to win this fight.
+
+His first lunge with the spear struck true, piercing the rat through the brain before snapping against the back of its skull. Edmund let the weapon fall to the floor, his dagger already drawn as he’d been holding it in the same hand as the spear. He swung at the second rat, but his knife struck bone and skidded off.
+
+The beast pounced.
+
+Edmund fell under its weight, the sharp agony of claws digging into his chest barely reaching the back of his mind. As the thing’s fangs made for his throat, Edmund’s own fang slammed into its neck. And again. And again. Somewhere in the brawl, his panic faded, his instincts retreated, his adrenaline drained away, and the rage returned.
+
+By the time he pushed the dead beast off of him, heaving with deep breaths and body sticky with blood and sweat, his wounds had already begun to knit themselves shut. He wiped off his knife on the pile of bloody rags that had once been his shirt, not even stopping to look back at Liam before setting his eyes on the spot where the rats would respawn and muttering a single word.
+
+“Again.”
+
+Time seemed to stretch as Edmund battled wave after wave of giant rats. He lost count somewhere around the seventh or eighth time, in much the same way he lost all track of time down in the false cellar. He didn’t care. He accounted for his efforts in injuries, not attempts. Three claws in the stomach. A slash across his left shoulder. A pair of fangs in his hand. A gash along his neck. A glancing bite on his bicep. A faint scratch down his back.
+
+Over and over and over and over and over again his tendons snapped, his flesh rent, and his blood flowed.
+
+Until it didn’t.
+
+Only Thrax, the dungeon, and the gods themselves could’ve said precisely how many attempts it took, how many hours or even days passed as Edmund forged and reforged himself in the same crucible again and again until the results satisfied him.
+
+He slept the odd hour here and there, comfortable that the newly-spawned rats wouldn’t attack while he slumbered, yet somehow incapable of anything resembling a full night’s sleep. He drew sustenance from the rats he killed, finding he had a few moments between their slaughter and the dungeon’s reclamation in which he could claim what nourishment he could. He relieved himself in a corner by the entrance, the stench failing to overpower that of the blood that clung to him.
+
+A dozen times he considered leaving the dungeon, but there was nothing out there for him. With no coin to purchase food or lodgings, the best he could hope for was a sip of well-water and a trek out to the river for a bath. With everything that’d happened, such comforts felt somehow hollow. So, on he fought.
+
+Somewhere along the line, Liam had vanished. Edmund didn’t know when. At first he’d figured the apparition had grown bored watching him fight the same monsters ad nauseam, at least until he realized that allowing a hallucination that level of agency felt like an easy way to accelerate his descent into madness. On the other hand, given his current behavior, he doubted there was much further down to go.
+
+He glanced over to the open door, to the looming darkness that would take him to the next floor of the dungeon.
+
+There would always be further down to go.
+
+He kept fighting even long after the rats ceased being able to injure him, finding new challenges by artificially adding wrenches to his battle plan. He purposefully let his foot slip as he charged. He dropped his knife. He jerked his spear slightly to the left, hitting bone instead of flesh. Each time he added to the volatility of the brawl, forcing himself to react and improvise to each unique situation.
+
+Edmund got everything there was to get from those two rats, and he paid for it in blood. Obsession was nothing if not thorough.
+
+Until, at last, after some unknowable passage of time and incomprehensible number of fights, Edmund sat down. He looked left, at the two dead rats rapidly dissolving in the corner. He looked right, at the empty loot chest where Liam had sat. He looked ahead, at the unnatural gloom that masked the way to the next floor.
+
+And Edmund grinned.
+
+He grinned as a thought struck and rang like wedding bells in his mind, a celebration of beauty and connection between two beings bound for life, ’til death do they part.
+
+The Eternal Depths would give him everything he needed to destroy it. Beyond the loot and the new Aspects that awaited him on every future level, he had sustenance before him, a roof over his head, and an endless supply of opportunities to hone his skills. Something about that little truth felt truly wondrous.
+
+So it was that, with a smile, Edmund pushed himself to his feet, and allowed, for but a moment, a hint of excitement to penetrate the curtain of rage he’d built. Excitement to unlock the confluence between Perseverance and Madness, excitement to discover what boon his Madness granted, excitement to see what challenges and rewards lay before him.
+
+Most of all he felt excited to make progress, to take one more step towards his ultimate goal.
+
+With his right hand grasping a freshly-claimed wooden spear and his left resting upon the pommel of Rat’s Fang, Edmund Montgomery Ahab had, at long last, taken all there was to take from the first floor of the Eternal Depths, so with a grin, a glimmer of hope, and a maelstrom of fury, he set his sights on the path ahead.
+
+And stepped into the darkness.

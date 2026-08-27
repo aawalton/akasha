@@ -1,0 +1,203 @@
+---
+id: 1052f49f-2273-5abf-aaf6-d3b46cde683c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 78"
+slug: 0078-chapter-78
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 78
+ownLength: 2212
+unit: words
+ownProgress: 2212
+publishedAt: 2023-04-05
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1159596/chapter-78"
+royalRoadId: "1159596"
+markedReadAt: "2026-06-29T20:34:30.285Z"
+---
+
+We walk into the large white-walled room.
+
+Hunters of all kinds are standing around talking within their guilds. I can see a massive group from the Hunters Association with well over 50 people in identical outfits. We walk by them closer to the stage, then I hear my name being called out.
+
+“Jay??? Is that you?”
+
+I turn to see a familiar face pop out from behind two large tanks. A short woman with bright green eyes and matching florescent green hair runs toward me. She’s wearing the dark-colored Hunters Association raid suit and minimal armor. I stare forward in disbelief.
+
+“Abby?!”
+
+She jumps up in the air smiling.
+
+“Who would have thought?? I haven’t seen you in a while… I can’t believe you’re already level 250… and… You too??”
+
+Abby points at Maria.
+
+She smiles hesitantly and nods, then Abby continues to talk.
+
+“It’s a pretty big turnout today. I heard they made a last-second change to the exam because of the recent surge in the city. Exciting isn’t it?!”
+
+She looked at me wide-eyed.
+
+I smiled and opened my mouth to reply.
+
+Then a tall blond swordsman and a thin black-haired mage appear behind Abby. They’re both very light-skinned and have serious looks on their faces.
+
+“Hey, Abby! This is our competition you know. Don’t tell them all our secrets…”
+
+Abby rolls her eyes playfully.
+
+“Jay, these are my teammates for the first part of the exam. Meet Connor and Dasha. We may be competing later on, but it can’t hurt to be friendly now.”
+
+She grins and looks at us. The swordsman and mage scoff, then turn around. Connor speaks up.
+
+“The exam is about to begin, finish up with your little friends and come join us when you’re ready.”
+
+They turn and leave, Abby stays.
+
+“I think they’re just nervous about making a good impression and passing the exam, usually they’re pretty nice people. Don’t mind them!!”
+
+I nod.
+
+“Looks like everyone is on edge around here.”
+
+We look around as more people enter the crowded room. Hunters are fidgeting and arguing all around us. It’s definitely a rather tense environment.
+
+Abby speaks.
+
+“Well, anyways. I hope we meet again during the event. Possibly as allies… not enemies. See ya Jay! Oh- and Nice seeing you again Maria!”
+
+Just like that, she hops away into the crowd of Hunters Association minions. I kind of wanted to talk longer and ask her a few things… but I guess that’s not happening.
+
+Maria finally talks.
+
+“You know Abby well?”
+
+“I- uhh, Yeah I guess. We used to train together. That is until I joined the Pace guild and took leveling seriously… I still don’t know much about her. She seems nice enough though.”
+
+Maria nods.
+
+We continue to weave our way through the crowd closer to the podium.
+
+Once we finally got within 5m or so a commotion arose. Two men from different parties were yelling at each other loudly. They both seem to be their party leaders. One is a tall muscular man with short black hair, heavy silver armor, and a long sword. The other is a tall thin man with long brown hair and two black daggers.
+
+The swordsman’s voice is loud and deep. He seems to be yelling at the dagger user for taking to one of the female mages on his team.
+
+After 3 or 4 verbal exchanges back and forth they begin full-blown yelling at each the for no reason… Everyone backs up and starts forming a small circle as they grit their teeth and stare each other down.
+
+The brown-haired man starts to glow light grey and gets into a half-squatting stance with his daggers held in attack mode by his side. The swordsman begins to glow light green as he points his long silver blade at the man in front of him and yells out.
+
+“You really want this? I’ll kill ya before this exam even starts!”
+
+The dagger user grins.
+
+“Bring it on tough guy!”
+
+They both yell and run toward each other with their weapons drawn.
+
+I can’t believe it…
+
+They’re really starting a fight in here…
+
+*CLICK*
+
+A bright light flashes from the back of the room as the door opens. I’m blinded for a fraction of a second.
+
+Once the light fades I’m hit with a wave of shock, then can’t help grinning with excitement.
+
+The dagger user and the swordsman have stopped dead in their tracks. Both of them have their weapons less than a meter away from each other’s necks. The only thing stopping them is… Rodrigo.
+
+The tall olive-skinned man is standing in between their blades stopping both of them with a single index finger on each hand. He’s staring straight ahead with a blank look on his face.
+
+“That’s enough.”
+
+Instantly, the two men drop their blades and bow their heads.
+
+Rodrigo nods and slowly walks through the crowd toward the podium.
+
+It’s silent. The only thing making noise are the footsteps of our exam master’s black shiny shoes as he gets on stage.
+
+The crowd slowly moves toward the podium as he looks out at all of us with his emotionless white eyes.
+
+“Welcome. We have closed the entrance. Everyone in this room will be attending the C Class Exams.”
+
+The crowd watches attentively.
+
+“We have all met briefly on your way in, but just to remind you all I will introduce myself. My name is Rodrigo Morales. I’ve been an A-Class Hunter in the Association for 8 years now. I will be the only instructor for your exam today.”
+
+The audience starts murmuring to each other. I look at Maria. She looks back at me and whispers.
+
+“It’s really starting…”
+
+I grin.
+
+“It really is.”
+
+Rodrigo continues.
+
+“If you would all look to the back of the room, you’ll see 40 C-Class and above Hunters from the Association that will be monitoring your progress and reporting back to me. They are all wearing yellow armbands. If you need help or have questions during the exam, feel free to track them down.”
+
+The whole audience turns their heads to see a long line of hunters in the back of the room.
+
+“You’re all here because you’ve made it this far already. Level 250 is a big achievement in the world of hunters, but progressing further is a much greater challenge. The dungeons in your future will be nothing like the ones you’ve faced before, that’s why we have this exam. It is a rite of passage. If you can pass, then you’re ready to continue your journey. If you fail, you may always come back and take it again. Let’s see. Raise your hand if this is your first time taking the exam.”
+
+Maria and I raise our hands, then slowly look around the room. To my surprise… There aren’t as many people raising their hands as I thought there would be.
+
+“That seems about right. This year we have 348 applicants from around the entire Vice Region. 96 of them are first-time applicants. Overall, the Association has submitted 71 applicants, the big 3 submitted 64, 44 smaller guilds have submitted 172, and there are 41 independents. This is a record-high number of applicants in the Vice Region. This only means our exam will be even more strict. It will consist of 3 tests. You must pass all 3. If you fail 1 test, you fail the entire exam. Less than one third of you will be walking away with a C Class certification.”
+
+The crowd began to murmur again.
+
+“Without further ado, I will explain the rules of our first test. Please, everyone, look down at your left wrist. If you do not have a silver bracelet on, speak up or leave this room immediately.”
+
+Silence fills the room.
+
+“Great. These bracelets have been crafted with my unique skill, along with the help of a friend. They will be a vital part of our first test. Each bracelet has 2 extra lives stored inside it. This means the magic item will absorb all the damage that your body would normally take in from a fight. Once your HP reaches 0, the bracelet reverses the physical effects on your body and teleports you in full health back to a starting point that I’ve already set. Understood?”
+
+The entire crowd talks amongst themselves for a few seconds with confused expressions.
+
+“I will demonstrate how it works.”
+
+All of a sudden Rodrigo raises his left hand and a blinding white light fills the room. I feel extremely hot for a fraction of a second and almost cry out in agony… but then the pain is gone moments later.
+
+The white light fades and I can’t believe my eyes…. The ground beneath me is made of stone slabs and I can see a bright blue sky as I look up. There are large green trees and mountains in the distance. Right in front of me, there are over 300 hunters confused and dazed taking in their surroundings as well.
+
+I hear Rodrigo’s voice and see him standing on top of a large boulder with a floating green portal in front of it.
+
+“Now, you all have 1 extra life remaining.”
+
+It clicks in my head. He just killed us all… instantly….
+
+I gulp. He continues.
+
+“Due to the recent surges in the capital, many unique dungeons have been popping up in the wilderness just outside the city. One of the most unique ones is this brand new labyrinth.”
+
+I gasped and stared at the glowing portal with wide-open eyes.
+
+“With permission from the Hunters Association and my surveillance, our exam will be taking place inside. Your first test will be defeating the boss on floor 10 within 48 hours. The maximum number of hunters allowed to pass this first test is 200. I will be waiting on floor 11 to begin the next stage.”
+
+The audience of hunters went wild. First of all, the shock of literally dying and instantly being brought kilometers away from the city is a lot to comprehend. But also, the fact that our exam is being held in a labyrinth… This is a pretty big deal!
+
+Rodrigo speaks up again.
+
+“For those of your that aren’t familiar with labyrinths, let me give you a quick refresher. Once entering the labyrinth you will be transported into a normal-looking dungeon. Most of the time, the starting dungeons are lower E ranked. Every time you defeat a dungeon, the boss room will spawn you up to the next “floor”. We call them floors to keep it simple, but they are just dungeons that progressively increase in difficulty. The easiest dungeon is “Floor 1” and the floor numbers raise as the difficulty increases. Once you challenge a boss, you cannot leave through any portals. You either defeat it, or it defeats you. If you’d like to return to the outside world while in the normal labyrinth, you may take the exit portal on each floor that leads to the floor below. These will appear at the start point of each dungeon and when walked through they will spawn you back in front of the boss room portal of the previous lower floor.”
+
+The entire audience listens attentively.
+
+“As I said before, you have 48 hours to complete the first 10 floors and meet me on floor 11. If 200 of you make it before the 48 hours is up, then our timer will be cut short. Killing and sabotaging other hunters is allowed. Each player has 1 extra life. Your silver bracelets will transport you back to this very spawn point outside the dungeon. It may be in your best interest to sabotage other hunters on the higher floors so they have to waste time climbing the labyrinth again. Killing hunters without an extra life is allowed, but may be frowned upon. It will not guarantee a failing score but will be taken into consideration for your hunting profile. With that being said, anyone that loses their bracelet, know that you are risking your life to become a hunter. If you’re not ready, you may leave at any time. This is all part of the exam, only the strong will move on.”
+
+I looked over at Maria, she looked at me as well. We both gripped our swords tight.
+
+“I have also placed a few gifts on varying floors along the way. There isn’t nearly enough for all of you, but I’m sure those of you that find my presents will find them helpful.”
+
+He grins.
+
+“There is no minimum or maximum team size requirement for this first test. Get to the 11th floor by any means necessary. Form your teams and get in a line facing me.”
+
+Everyone lines up in a surprisingly orderly fashion. Maria and I manage to squeeze in near the front, probably in one of the top 20 positions.
+
+“Once the last person enters the portal, the timer will begin. I wish you all the best of luck. Meet you on the 11th floor!”
+
+Rodrigo steps back into the portal and disappears.
+
+The line begins to move forward rapidly as everyone runs through after him.
+
+Moments later, Maria and I jump through the green portal ourselves.
+
+We enter the Labyrinth.

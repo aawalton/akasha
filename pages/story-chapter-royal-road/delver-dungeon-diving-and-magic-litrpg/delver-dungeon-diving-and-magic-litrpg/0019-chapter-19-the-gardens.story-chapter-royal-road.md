@@ -1,0 +1,185 @@
+---
+id: 137b6dd6-c1a7-5dfe-ab3a-2f3960136fbf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19: The Gardens"
+slug: 0019-chapter-19-the-gardens
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 19
+ownLength: 2052
+unit: words
+publishedAt: 2026-06-06
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3502443/chapter-19-the-gardens"
+royalRoadId: "3502443"
+---
+
+A powerful necromancer, in his hubris, took the ashes of a devil, and created a mixture of undead evil the likes of which the world has never seen. High Priests of the Reapers, Starkeeper Tanya and Eternal Light Elvi, warped through the void to fight the power which had grown beyond the necromancer who raised it.
+
+Everyone is mostly how I left them, sitting around a small fire, and chatting in the setting sun as they rest. I can see the restlessness in the mercenaries, but that will hopefully be over when we begin our extraction of the library and the gardens.
+
+Keve moves over on the log he’s sitting on, making a spot for me, and I sit down with a sigh.
+
+“We were startin’ to worry.” Grildor said as he handed over a bowl of delicious looking soup.
+
+I smile in thanks as I take the wooden bowl. “It took longer than I thought.” I take a bite, and close my eyes in enjoyment, “This is good.”
+
+“Thank you!” Tanya pops up from where she’d been lying in the wet leaves of the tree. “Cooking is a lot like alchemy, and I enjoy them both.”
+
+I hide a smile as water drips down the vines over her ears, then take another bite. “What have you guys been up to while I was gone?”
+
+“Libby and Daron hunted the meat you’re eating.” Tanya says excitedly. I look over to the two mercenaries who give me a small wave and a nod.
+
+“You’re in a chipper mood,” I’m happy to see it, she’d been down ever since the battle with the undead.
+
+“Some little ones hatched!” She holds out her hand, and a twelve-legged Reaver spider the size of her hand climbs out of her wrist.
+
+“Angels!” I stumble backwards, tripping over the log I’d been sitting on as the tiny reaver sits on her hand with curious eyes.
+
+Grildor bursts out laughing as Tanya wilts a little.
+
+“Sorry.” Tanya says quietly.
+
+Grildor pats her on the back, “Don’t apologize lass! Scared the wits out of me too,” He gives her a wink, “I was just better at hiding it.”
+
+She brightens at the warrior’s words.
+
+I push myself off the ground, and sit back down. My poor bowl of soup had been caught by Keve, and he hands it to me unspilled. “The Ichtl’e are scary.” he says with a small smile.
+
+“Thanks.” I take the bowl back, and take another bite, watching as the creature climbs back into the tattoo on her wrist. Now that I’m watching closer, I can see that the tattoo has changed, several small reavers surrounding the clutch of eggs. “I’m surprised they hatched so soon.”
+
+“Lucky timing.” Tanya says as she leans against one of the Rock Lizards.
+
+A tent moving draws my attention Eyla, who stretches before joining us at the fire. “Did she show you her spiders?”
+
+I clear my throat and ignore the question.
+
+She laughs, “So what’s the plan for tomorrow, oh leader of ours?”
+
+I focus back up at the question, “I’d like to do the gardens next…” I explain the vines we encountered during my first delve, then look at Tanya, “We’ll be counting on you to identify and help us organize any plants that are still alive down there.”
+
+Her look turns serious as she nods, “You can count on me.”
+
+I look at the tent beyond Eyla, “How’s he doing?”
+
+“Recovering. Slowly, but surely.” She smiles at Libby who gives a small salute, before turning back to me. “He trusts me to handle this.”
+
+“We’ll be counting on you.” I finish the last of my soup and set it to the side. Everyone’s attention turns to me as I stand up, “I’m going to catch some rest, and we’ll continue into the depths in the morning.”
+
+A series of agreements and goodnights follow my announcement, making me smile. The group was growing pretty close.
+
+Shar follows me into my private tent, padding on soft paws as I make my way over to my bedroll.
+
+I put my bag down, then rummage around in it, pulling out several of the books I’d been reading in the Archmage’s Sanctum.
+
+I stare at them for a long second, remembering the latest ability of my mage class.
+
+Private Library.
+
+The power rests at the ends of my fingertips, and I can feel two different ways to use the spell. The simplest one needs a book.
+
+I grab the book on top of the pile, a bestiary I’d been considering gifting to Tanya. Then I cast the magic.
+
+Mana drains from my hands, drawing glowing hazel symbols into the air. Finally, the spell finishes, and a small book-sized portal opens in front of me.
+
+Hesitantly, I place the book through the portal, then pull my hand back.
+
+The portal snaps closed, leaving only the faint sense of mana in the air. I take a deep breath, then cast the spell again, creating another portal.
+
+This time, I reach in, and pull the book back out.
+
+I hold the book in my hand, then close my eyes to get a sense of how full my mana is. It’s the least mana intensive of any of my spells, best I can tell. Maybe, a tenth? It’s hard to quantify.
+
+That does leave one other form of the spell. The one that doesn’t require a book.
+
+I glance at the flap of my tent, the soft voices at the campfire reaching me through the leather hide.
+
+I hold my hand up, and cast Private Library again.
+
+This time, more of my mana is called, draining me as several symbols fill the air with their hazel light.
+
+A door of ancient mahogany begins to take shape, not quite fitting into the tent.
+
+I hurriedly stop the spell, dispersing my mana before it can fully form.
+
+The door fades, leaving faint cuts in the top of my tent where it had begun to destroy the leather in order to form itself.
+
+Note to self, don’t cast this spell in a confined space unless I want to destroy my surroundings.
+
+I open the small portal, and begin to place several of my books in it.
+
+“Impressive.”
+
+I glance over to Shar, who’d been watching all of my experimenting with half-lidded eyes. “What do you mean?”
+
+“You’ve been a mage for a few weeks, and you’re already conjuring private realms.” She looks down, clawing at the earth under the tent. “I can see why they thought this was the next step for your people, despite the warnings.”
+
+I look at the golem, “You know the people who created the system, don’t you?”
+
+“I was a golem of the Archmage.” She answers, a strange sadness in her voice. “Without his support, the system wouldn’t exist.” She pauses, “And humanity wouldn’t have fallen.”
+
+I place the last book into the portal, then let it close. “You said that I was creating a private realm, what do you mean by that?”
+
+Shar tilts her head, studying the spot where I’d had the portal open a second before. “I’m not an expert in magic. Golems can’t be mages.”
+
+“But?”
+
+She gives me a smile, showing all of her teeth, “But a private realm is a realm carved from the spirit-void by mana. It is only accessible to you, or those you choose. The magic you used to craft it have defined its purpose. I don’t know what that purpose is.”
+
+I look at my hands, studying the mana that I can’t see, but know is there. “It’s a library, I don’t know much more than that.”
+
+“Such terrifying magic crafted without knowledge or understanding. Maybe that’s good. It limits you, just as much as it powers you.” Shar looks into my eyes, wisdom hidden behind her unreadable orbs. “You should rest, Delver.”
+
+I lay down in my bedroll with a sigh, “you’re right, in many ways. It’s terrifying to think about what magic could do if it wasn’t limited. Necromancers are just one example of that.”
+
+Shar is silent for a long time as I slowly drift off to sleep, but her final words hit me just as the land of dreams begins to call, “You have the power to break past those limits, Leo. You have the library of an Archmage at your fingertips.”
+
+***
+
+The next morning, we once more craft a bridge of ice, and delve into the ruins. This time, instead of going left into the webs, we go right.
+
+The air is heavy with humidity, and familiar vines start to show themselves.
+
+Tanya immediately runs ahead of the group, studying the vine with fascination. “Human-eaters!” She calls back to the group, “I’ve never seen one before.” her voice grows quieter as we catch up to her and she studies the leaves on the vine. “It’s so young. You killed the eldest on your way through?”
+
+“I think so.” I answer, “but we didn’t go into the actual garden.”
+
+She frowns, as she follows the vine down the hallway, “Did you kill them or cut the flowers?”
+
+I pause at the idea that cutting the flowers didn’t kill them, “Cut the flowers.”
+
+“That’ll make this harder.” Tanya reaches out with her hand. One of the vines that grows up and down her arm slowly moves forward, wrapping around the young vine of the hallway. Then she’s silent.
+
+I look back at the rest of the group, but they’re as lost as I am.
+
+Ten minutes pass, and she doesn’t move, so we settle down in the corridor, chatting quietly as Tanya stands there with her eyes closed.
+
+Another ten minutes pass before she moves, drawing our attention. She stretches, her vine returning to her. She takes her backpack, and begins rummaging through it. “We have a deal! Keve and Leo, both of you can’t use your mana. I told them that we’re different from the people who hurt it before, and it agreed to grant us passage in exchange for some healing I can give it.” She pulls out two full glass vials and a larger empty one.
+
+She uncorks all three and pours the two smaller ones into the larger one, then plucks a leaf from one of her vines with a small wince. She places the leaf into the vial, then corks it and shakes it up.
+
+She holds the mixture up to her face, studying it for a long second before smiling. She looks up at me. “Ready?”
+
+I do my best to hold back my smile at her excitement, but can’t quite hold it. “Lead the way.”
+
+She pauses, her expression going blank, then she quickly turns around, “Right. I’ll, uh, do that.”
+
+The vines don’t move as we travel deeper into their territory. The signs of our previous passage are evident, from rotting flowers on the ground to vines cut in half. Thankfully, Tanya doesn’t seem too bothered by the damage.
+
+I mean, just cause she has vines, doesn’t mean they’re related or anything. Still, I was partially worried that she’d have some kind of kinship with the apparently sentient plant.
+
+Eventually, we reach the largest stem where I’d cut down the first flower three times my size.
+
+Tanya steps over to the scabbing stem, and pours the concoction she’d made onto it. Mana travels through the plant, going through every vine in the hallway.
+
+“That should do it. We can go to the garden now?” Tanya looks at me.
+
+I nod, and motion towards the door next to the dead flower.
+
+Grildor steps forward now, and the vines move away from the door, opening a path for us. Grildor watches them warily, before pushing the door open.
+
+Our party enters the room slowly.
+
+A beautiful greenhouse fills the space, sunlight coming from several stones on the ceiling.
+
+A surprisingly pristine set of tools hang on hooks on the wall, and another table sits next to them, several plants growing out of the drawers. In the room itself, large semi-transparent square boxes hold plants of all different kinds, some fruiting, others dying. A few of the boxes were no longer visible, whatever plant that had been in them having broken free of its barrier.
+
+Tanya claps her hands together as stars enter her eyes.

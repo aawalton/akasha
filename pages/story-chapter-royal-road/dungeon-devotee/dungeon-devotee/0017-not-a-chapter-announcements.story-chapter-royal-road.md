@@ -1,0 +1,33 @@
+---
+id: 9a2dc6bb-9136-58ec-8c00-00bcbeaf63ac
+page-type-slug: story-chapter-royal-road
+title: "[Not a chapter] Announcements! "
+slug: 0017-not-a-chapter-announcements
+partOf: dungeon-devotee
+position: 17
+ownLength: 309
+unit: words
+ownProgress: 309
+publishedAt: 2022-11-26
+link: "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1049120/not-a-chapter-announcements"
+royalRoadId: "1049120"
+markedReadAt: "2026-06-29T22:39:36.620Z"
+---
+
+Hello beautiful people!
+
+I come to you out of schedule with some exciting news: Into the Darkness, book 1 of Dungeon Devotee, is now available on amazon!
+
+Book 1 covers the first fifteen floors of Edmund's journey, up to and including next week's chapter.  As promised, the book is not coming to Kindle Unlimited, so it will remain here on royalroad for all to enjoy for free.  To that end, I have a favor to ask you.
+
+Leave a rating or review.
+
+Reviews are the lifeblood of indie authors, and the only way those of us who can't output 5 chapters of content each week have to justify posting to royalroad at all.  I'm not asking you to buy the book.  I'm not asking you to subscribe to my patreon or otherwise spend a cent of your hard-earned money.  All I ask is that you take thirty seconds to click over to amazon and leave a rating or review.  It's far and away the easiest and best way to support stories like this.
+
+For those audio nuts among you, we're still some time from a dungeon devotee audiobook, but I can tell you that sometime in 2023 I'll be putting the audio up on spotify for free.
+
+In other news, I have one last bit of housekeeping: by popular demand, I'm taking this opportunity to renumber the chapters so that each chapter number aligns with what floor of the dungeon Edmund is on.  I imagine for most of you, royalroad's progress tracking should make the transition simple.  Just be aware that as of now, the story starts with chapter 0, November's chapter is now chapter 14, and December's will be 15.
+
+As always, thank you all so much for reading, for commenting, and for being the most patient serial readers on this entire website.  I love you all.
+
+-Nixia

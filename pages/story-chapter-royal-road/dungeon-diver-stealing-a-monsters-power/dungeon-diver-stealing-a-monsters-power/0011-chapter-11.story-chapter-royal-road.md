@@ -1,0 +1,269 @@
+---
+id: 0a866937-609f-5fc0-ac33-5e2a7cf403e2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11"
+slug: 0011-chapter-11
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 11
+ownLength: 2569
+unit: words
+ownProgress: 2569
+publishedAt: 2023-02-05
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1106385/chapter-11"
+royalRoadId: "1106385"
+markedReadAt: "2026-06-29T20:32:10.370Z"
+---
+
+I saw a bright green head of hair bobbing above the tall grass approaching us from a distance.
+
+"Alrightttt everyone, how'd it go?? Everyone has acquired their status? No serious injuries? Anything important to report?"
+
+Our group murmured a bit but no one spoke up.
+
+"Sounds like everything went well, congratulations to the new students. Now let's leave the dungeon!!!"
+
+We all left the dungeon in a much less organized manner than how we entered. When we made it outside I saw a middle aged man in a casual dark blue dress shirt and black dress pants with shiny black shoes. Then Abby spoke up.
+
+"Students, I'll leave you with your teacher Mr. Carlson. Chaperones come with me for a moment, I'd like to thank you all."
+
+The students swarmed over to their teacher, Maria looked at me.
+
+"Thanks again Jayyy, I'll see you later!!"
+
+I smiled and waved.
+
+"See ya later Maria."
+
+Then I walked with the chaperone group and waited around with a bored look on my face.
+
+I came here today to meet some new faces. But everyone was either way too old, or honestly way too young... I did get to help out Maria today though, so it was an overall success. I can't complain.
+
+"Thank you all for coming out today...."
+
+I zoned out a bit, it just sounded like a generic corporate thank you speech. I couldn't be asked to listen.
+
+".... and if you have any questions or want to join the Hunters Association please drop by our local government office anytime. We'd be happy to help. With that being said, I'll dismiss all of you. Thanks again for helping our up and coming hunters today!"
+
+I was still spaced out staring off at the pond and trees in the Alpine Square Park.
+
+The crowd dissipated and just left me mindlessly standing there with the two Reps in the middle of the square.
+
+"Helllloooooo??? Helllllllooooo?"
+
+I saw a hand being waved in front of my face with a bright green background. Once my eyes focused again I saw Abby staring at me... uncomfortably close to my face just like she had in that office building.
+
+"You know I have off work for the rest of the day, wanna see something cooool?? I am pretty new to this city, you seem to be the only hunter close to my age. Plussss, I don't know anyone else with two skills like me."
+
+Abby was talking really fast and jumping up and down in front of me. Everything that had happened in the last 10 seconds was throwing me a bit off guard, without thinking much I just replied.
+
+"Y-yeah sure, what is it?"
+
+With and excited grin she grabbed my right wrist and started tugging me along.
+
+"Come on, let me show you Lexington Wolf Dungeon. The Association is about to approve it for public use, it just popped up like last month."
+
+With a startled look on my face I just let her drag me along. This is what I wanted today wasn't it? To meet new hunters my age... and who am I to say no to a woman like her.
+
+After a full minute of walking in the direction opposite my apartment I started to rethink my decision. This was way past Alpine Square in a part of town I've never even seen before.
+
+I shook my head and took in a breath of fresh air returning more of my mental clarity.
+
+"Hey wait a second!!! Where is this place?!! And what exactly is this place? A new dungeon?? You know I'm not even level 30 yet."
+
+She just replied without looking back at me and dragged my arm again.
+
+"Heyyyy don't worry, it's an E Class dungeon. A bit harder than the one you're used to raiding, but I'll be with you. I'm a D Class hunter, I can protect you with my eyes closed if need be. Plus I think you're ready."
+
+She turned and did that head bob with her eyes closed that numbed my logical senses again.
+
+I just decided to go with it, she had a good point according to my wondering mind. All my reasoning was thrown a bit off by the absurdity of the current situation. I decided to throw all common sense to the side and just enjoy myself right now.
+
+After another 5 minutes of walking we stopped in front of an old-school looking movie theatre.
+
+There was a large sign above the entrance that read "Lexington Theatre". There were two guards out front and a couple large pieces of construction equipment close by. One of the men looked up.
+
+"Good morning Ms. Sotoro."
+
+He nodded and looked back down at his paperwork as we walked inside without another word. The inside of the theatre looked like it had been re modeled a bit, the white walls felt oddly familiar like the white walls in the Hunters Association. Then I saw it, at the back of the long room was a floating blue portal. My eyes went wide.
+
+"This is a dungeon site??"
+
+Abby looked amused.
+
+"Yepp, I already told you. This is the new E Class dungeon the Association has been exploring. It should be open to the public in a few days, but come onnnnn. It's always more fun to do something before you're allowed to righttt."
+
+I nodded my head in nervous agreement, but was also oddly excited. I'd never been to any other dungeon sites, and had been training all week. I was honestly itching for something new.
+
+"Alright let's do it."
+
+We walked forward, I drew my sword, and we jumped through the portal.
+
+When we popped out the other side I took in my surroundings.
+
+I looked up first. There was a light orange sky with white clouds slowly drifting by.
+
+Then I looked down. I was standing on hard sandy dirt without a plant in site.
+
+Lastly, I looked out into the dungeon. There were large rocks every 200 meters or so but it was basically a desert wasteland.
+
+It was a fascinating scene. I took in the view for a minutes as Abby stood by my side analyzing her surroundings as well.
+
+"It's a nice change isn't it? Nothing like your old Alpine Dungeon right?"
+
+I nodded slowly.
+
+"You're right, this is a big difference. It's really amazing."
+
+Then I realized something.
+
+"Wait, what kind of monsters are here? And how strong are they really??"
+
+I was a bit panicked realizing that this situation was actually happening, not just a day dream.
+
+"It's in the name duhhh. They're wolves, and they're not that strong don't worry. Maybe a bit stronger than the Alpine Boss, but you can handle it."
+
+My face went white.
+
+"The normal monsters here... are stronger than the Alpine Boss?????"
+
+I gripped my sword harder and started scanning the horizon.
+
+"Yeah yeah, again don't worry Jay. Anything you can't handle I'll take down. Think of this as a training session. Let's have some funnnnn!"
+
+Abby skipped off into the dungeon. I was both excited and scared out of my mind. I muttered to myself.
+
+"What the hell have I gotten myself into....?"
+
+I just put on a nervous grin, gripped my sword even tighter, and followed the green haired skipping girl deeper into the dungeon.
+
+5 minutes of walking passed...
+
+Then 10 minutes....
+
+15 minutes.... Silence in the wide open desert.
+
+Until...
+
+"Grrrrrruuuurrrr"
+
+Out from behind a large orange boulder a huge grey and white wolf with a scar over its right eye slowly emerged with all of its teeth showing.
+
+My brain shifted. I immediately went into battle mode.
+
+I gripped my sword, gulped, and squared up with the beast. I heard Abby laugh a bit, she jumped on top of the 10m high boulder like it was nothing.
+
+"All you Jayyyy, I'll be up here if you need me."
+
+I hardly noticed her, but registered her actions while I kept my full focus on the behemoth in front of my eyes.
+
+This was no ordinary wolf. On all fours, it was easily 150 centimeters tall. From nose to tail, I'd say at least 4 meters long.
+
+It was an animal built for combat in the wild, one wrong move and I'd be a goner.
+
+It made the first move charging full force straight at me. I made the decision to do the same. In a split second we were both sprinting full force at each other with full intention to kill.
+
+Once I was in striking distance I went straight for its neck. By the time I had swung my sword the wolf had shifted to my left and had its open jaw pointed straight at my torso. I jumped back with all my force. I felt the tension flow through every muscle fiber making up my hamstrings, quads, and calves with that lunge.
+
+This is going to be a real fight...
+
+Standing roughly 3 meters apart in the open desert we faced off once again with a newfound respect for each other as opponents.
+
+We were in agreement that our first encounter was an even matchup. The wolf snarled, i gritted my teeth. We both lunged back in. The starting moves were picture perfect from our last clash. I went for the same shot at its neck... but of course, with no intention of committing to the same move.
+
+This time, at the last second I jumped up and over the wolf while swinging my sword in a windmill partern all the way from behind me to above my head. I was locked on, targeting the wolfs back.
+
+As I was gearing up my attack it chomped where my mid section had been moments ago. I let out an battle cry and swung down with all my might.
+
+"Ahhhhhhuyuuayyaaaa"
+
+The wolf registered what was going on too late. It had to move its head at an odd angle to see me from its left eye. It attempted to dodge, but I landed a clean slash on its back before I lunged away.
+
+Again, we stood 3 meters apart. The wolf bleeding from the gash on its back. Of course, as a warrior focused on battle it was not showing any signs of pain in its movements.
+
+The wolf snarled and stared me down, I grinned and gripped my sword. This second round was a win for me, i could tell by the change in mood. It's now or never, this next exchange is about to get really serious.
+
+We dove in towards each other in a similar fashion. I decided to go for a full on frontal attack. With my sword up in front of me it's good offense and defense at the same time. Plus, I can make a quick decision to go to either side depending on the wolfs movements.
+
+The monster decided to do the same thing. A clash of full force frontal attacks was about to commence.
+
+I swung my sword right at its face as it let out a roar and showed me all of its drool dripping teeth. The wolf made a powerful lunge to my bottom right side. It was following the trajectory and speed of my sword to a T just before impact. It shifted its neck faster than my eyes could track and smashed it teeth against the flat side of my blade.
+
+In the quarter second i was overpowered and out maneuvered. I couldn't believe it.
+
+The wolf's neck was dangerously close to my blade. If I had better footing I could slice its head clean off without a problem, but this is what the monster had planned for. It lunged in with my confusion and used its front left claws to dig deep into my chest leaving 4 gash marks from my left peck to my right lower abdomen.
+
+"Ahhhhhuuuaaaaaahh!!?!!"
+
+I yelled as I turned my body away from the attack. The wolf continued its momentum speeding past me and out of my blade's range.
+
+Round 3 went to the wolf.
+
+We squared off again, both dripping blood but not budging an inch. This last round will decide it all, I can't let my guard down again. This is a highly intelligent monster, not comparable to anything I'm used to fighting with my sword skills.
+
+This is a real life or death challenge.... and I'm enjoying it.
+
+Before I could fully get my thoughts together our final round was starting. We both locked glares and charged in, it felt like the world around me was moving slower. I remembered this feeling. It was familiar....
+
+I lunged in for a full on frontal attack again, the wolf read my movements and answered with its own frontal charge. I brought my sword up and to the right of my body getting ready to swing with every last store of energy I had left.
+
+As we drew even closer I let out my battle cry and swung. There was a silence in the air. The wolf recognized my attacked and was already preparing its counter as my blade fell.
+
+Like before, the wolf shifted its weight and went for the flat side of my blade. This time however, I did not stop my attack. I let the blade crash down, even with the added momentum from the wolfs counter.
+
+The blade pierced into the tough sand coated rocky earth. The blade was submerged half a meter in the ground.
+
+I was basically naked on the battle field in the eyes of the wolf.
+
+It saw my situation as a weakness, but in my eyes it was an opportunity. The monster lunged forward over the useless sword with its hungry jaws and clamped down onto my left leg. I gritted my teeth and blocked out the pain. Without hesitation I used its jaw as an anchor. I planted my right foot in the ground and pulled my sword from its rocky tomb.
+
+With an uppercut that had no regard for the well being of my left leg, I used both hands to swing my sword up and out of the sand with all my might.
+
+Time basically stopped.
+
+"Ruuuuuuaaaawwwwwaaaarrrrrr"
+
+My blade pierced the underside of the monsters neck and a huge wave of blood covered our battlefield.
+
+I could almost read its mind while watching its one eye go wide. It never saw this attack coming, In the wolfs mind its dinner was already caught.
+
+I felt the teeth loosen on my leg as the monster let out more cry's of agony. I finished my slash and steadied myself for another. I had to take the opportunity in front of me.
+
+As the monster backed up a step, I lunged in with all the strength left in my right leg and and finished my previous slash.
+
+After that move, I fell to the ground following the momentum of my sword downward. In the corner of my vision I could see the lifeless wolf's head falling at the same speed as me with its body still upright.
+
+"THUDDDD."
+
+"I win."
+
+I with my left cheek resting on the warm sand I smiled and closed my eyes.
+
+[Level Up][Level Up][Level Up]
+
+_____________________Name: Jay Soju
+
+Level: 31
+
+Hp: 13/160
+
+Mp: 45/160
+
+Strength: 80 [+50]
+
+Speed: 89
+
+Agility: 94
+
+Defense: 73
+
+Mental Strength: 80
+
+Skills:
+
+AbsorptionSwordsmanship
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]
+
+_____________________

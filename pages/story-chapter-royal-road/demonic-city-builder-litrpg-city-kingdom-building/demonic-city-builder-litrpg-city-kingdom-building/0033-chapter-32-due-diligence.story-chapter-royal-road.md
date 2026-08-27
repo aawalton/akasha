@@ -1,0 +1,279 @@
+---
+id: f4e4d090-6050-54c7-a980-626ecf832211
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32 - Due Diligence"
+slug: 0033-chapter-32-due-diligence
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 33
+ownLength: 2507
+unit: words
+publishedAt: 2026-06-18
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3555080/chapter-32-due-diligence"
+royalRoadId: "3555080"
+---
+
+Pots clattered, copper jingled, and ale vases sloshed.
+
+Tove drew from his pipe, the scent of bittervine wafting through the caravan. Behind him, a dozen traders trudged.
+
+“Keep off that orange muck,” he shouted.
+
+Affirmations and disgusted grunts answered. Men shot glances at the orange sand and dirt mix, where dead trunks and winding roots lay in heaps.
+
+To his right, Gray was poking at a soil cavity with a large stick.
+
+“Any idea what you think it is?” asked Gray. Despite his age, the old woodsman was sharp and agile as ever.
+
+“Some kind of sickness. I don’t like it. Makes me feel… wrong. And it smells like something you’d find in a forge. Iron.”
+
+Gray nodded. “Aye. You think the village…” he trailed off, glancing at the other traders.
+
+“No. Maren’s clan is just beyond that ridge. The taint seems to be holding just east of it.”
+
+“Almost coming from the pass…” mumbled Gray thoughtfully.
+
+Looking down, Tove double-checked that he remembered the new cooking goods.
+
+He reached into his overstuffed peddler’s bag, digging through wares and trinkets until he uncovered the copper pans and bowls. They were sturdy stuff. He’d smuggled them from The Leagues on the west. That fact wouldn’t go over well, not with clans people. Their isolation mindset wouldn’t tolerate it. But, they wouldn’t ask. Never did.
+
+The exiles weren’t dumb. They knew, but as long as no one said anything, everyone believed what they wanted and lived a little easier for it.
+
+Hopefully Maren and her folk had a good harvest of Gloomcap. The precious stuff was hard to come by, and the demand for it had grown ravenous. The Leagues wanted all the caps they could get their hands on. And maybe they’ll know more about this orange, tainted muck and dying forest.
+
+So far, no other clans from the northwest had spoken of it.
+
+Still. The smiling faces of green folk, thrilled to see Tove’s caravan, lightened his mood. Some sweet to wash away the bitter.
+
+Western clans were the least populated. Most had tended to head westward. Only recently had more people begun migrating this way. But that isolation came with hospitality.
+
+That being the case, they typically thanked trade with food. Good food, too. Last time, it was a simmering stew of roast with savory herbs and spices. Many of which were only harvested and grown out here.
+
+Thoughts of tender meat were still fresh in his mind when the village came into view. Tove was relieved.
+
+I knew it! That disgusting, tainted muck hadn’t reached the —
+
+“No. No, no, no, no! My god…” he rasped in disbelief.
+
+He’d expected a gathering of busy people, hard at work before dusk. Instead, he found only smoke. And it wasn’t from cooking. It was from carnage.
+
+The ground was littered in a smoldering, grey ash. It was evidence enough of flames that petered out days ago. Around, the bodies lay. More than twenty of them, all in various states of death and butchery.
+
+Several men vomited and retched.
+
+“What happened?” asked Gray, wiping his mouth clean.
+
+“The forest didn’t have to taint these folk. Something else found them first,” Tove muttered.
+
+Gesturing the group to follow, he crept into the village. Booted feet crunched softly on charred terrain. Not from taint, but ash.
+
+Bodies weren’t the only victim of whatever came of Maren’s clan. Everything, from structures, supplies, and camp was… defiled.
+
+To his right, a burlap tent was caved in. Piles of buried lumber to his left. And more demolition beyond.
+
+My god.
+
+***
+
+“Tove.” Gray knelt, a rucksack in his grip.
+
+Squatting down, his leader snagged it. He didn’t try to stop him. The look in the young man’s eyes had gone very, very cold.
+
+“This… this is Valdren. I know that crest.”
+
+“From your time in the militia there?” asked Gray. He’d known Tove a long time. Been the one to find that industrious young man. Always with more ideas than coin.
+
+Only now, a crimson rage marred that idealistic face. An expression deep with a burgeoning fury.
+
+“They… did this?” he hissed. “Gray. The forest’s sickness. I think… I think it was them. Valdren’s up to something. And they’ve planted it right here, on the corpses of our brethren." Tove shook his head, words spilling out like blood. “I bet Maren’s people found out what they were up to, confronted those bastards, and were slain for it.”
+
+Around, others were finding more of the same. Broken spears, armor, and gear that all reeked of Valdren troops.
+
+By the time the traders had finished their investigation, they hadn’t found any concrete answers as to the motivation. But Tove held strong in his theory.
+
+Gray looked over, concerned for his friend. Tove’s body carried a rage like that of the clan’s ashes. Hot, smoldering, and deathly gray.
+
+I haven’t seen Tove like that in a long, long time.
+
+Gray, however, was as confused as he was disturbed. He decided to say as much.
+
+“Why would they do this? Valdren never had any goodwill for us greenfolk, but why would they want to kill the forest? Let alone butcher the innocent people in it? It doesn’t make sense. And this isn’t even the closest clan to the pass. There are a few others further south.”
+
+“Like the ones we just came from,” replied Niva. Her yellow eyes narrowed, staring at Tove expectantly.
+
+“Aye. But they were fine. All of them. We’d have heard if something like this happened elsewhere,” replied Gray.
+
+There were a few grunts at that.
+
+Tove wasn’t swayed. His mind was made up. “I don’t know what Valdren’s game is. But I’ll tell you this. It only takes one man to order an atrocity. And when that man’s in command, men listen. Believe me. I’d know.”
+
+No one replied after that. Several here knew of Tove’s past. And those that didn’t had picked up enough not to ask.
+
+“Alright. Plans changed. We make east for The Wardens. Just to make sure we don’t get into any trouble, we stay to the outskirts of any dead forest and that… infection Valdren spread.”
+
+Gray wanted to speak up. To ask why the bodies weren’t just killed, but butchered. Why entire limbs were missing? Why soldiers would leave their rucksacks? How Valdren could have even managed to kill a forest? Why none of this made any logical sense?
+
+But he didn’t. Instead, he shouldered his pack, grit his teeth, and followed. When you worked with Tove, that was the way. He ordered, you listened.
+
+The terrible irony of that wasn’t lost on the woodsman.
+
+***
+
+Fervor was starting to drop. Kairon was fairly certain that was due to the lack of housing for his newest imps. In a few days, he planned to remedy that with a new camp.
+
+What really bothered him was that last line.
+
+Sigils: 1
+
+I’ve invested heavily to get this single sigil. But all I have to show for it is the tick on my interface…
+
+Peering again at the floating dark sequence, Kairon pursed his lips. He had a theory as to what the sigil should be doing. But it wasn’t working.
+
+The city lord stared at the scripture written into the pole of the stockpile. Squatting down, he ran one claw over the wooden demarcation.
+
+If I could learn to translate this, I’d know how this functions. How you store resources. How you connect with my city interface. And, more importantly, how I could exploit that.
+
+Possibility such as modifying rituals, buildings, and demonic craft flowed through his mind. But right now, he had no idea what even a single symbol actually meant. And that was an issue.
+
+He studied the violent lines of demonic text, humming softly. A hypothesis in his mind floated. Like the dark sigil, it waited. Just asking to be implemented.
+
+His thoughts were interrupted by a small cough.
+
+“Master!”
+
+The imp had approached at some point. Kairon wasn’t sure when. Probably some time ago, judging by the impatience on his face.
+
+“Oh! Shiny! Good, good. You’re here. I wanted to give you a heads up. Starting today, I’m going to be trimming the hunting squad.”
+
+“Trimming?”
+
+“Er. Cutting. All of it, actually. The four hunters, and likely the next spawn or two, are going to be assigned to the new plant plot.”
+
+“Plots? The red stuff?”
+
+“Yes! Exactly. It will hopefully be a safer and more reliable food source that we can scale.”
+
+“What is scaling?”
+
+“It's how we ensure our city has a set of assets that can grow in tandem with our population. Just please plan accordingly.”
+
+“Master? Plot need dig?”
+
+He pursed his lips. “Yeah. The farming crew will likely be doing a lot of digging. If I had to guess, we’ll even see something like a demonic weed infestation before long out there.”
+
+“Idea. You take Bean.”
+
+“Bean?”
+
+Shiny gave him a look that said he should know what, or as it turned out to be in this case, who Bean was.
+
+“Bean. Good worker. Digs lots. Makes holes.”
+
+“Ah! You think he’d be an apt farmer?”
+
+“Maybe. Maybe not. You try. Trade hunter?”
+
+Kairon thought it over, and then nodded. “I’ll do that. For now, one of the hunters will join your timber squad. Have Bean meet me at the farm. I’ve already ordered the others to wait for me there this morning. I’ll send the extra to the trees you’re working.”
+
+Seeing the look on Shiny’s face, Kairon cocked his head. “What is it? Something wrong?”
+
+“Need assistant.”
+
+“Ah. Sythara isn’t doing well enough?”
+
+“Mmm. She fine. Just loud. No. Need another. But train. So better.”
+
+Kairon’s eyes widened. The little monster was already thinking of his own middle management.
+
+“Ah! A fan of home grown talent. That’s a strong proposal. When you pursue promotion from within, it’s very important to start training for management roles early on. Did you have anyone in mind?”
+
+At this, Shiny looked uncomfortable. As if what he was going to say next pained him, but he knew it to be true. “No. My imps… not smart.”
+
+Apparently it took more than digging in the dirt to get a reference from his supervisor. “Oh, come now. There must be at least one or two standouts?”
+
+He crossed his arms. “Hard tell. Some stronger. Some faster. But smarter? Not sure…”
+
+Rubbing a claw under his chin, Kairon tossed the question around in his mind. How did The Bureau identify top candidates for growth? What did they do to filter through employees and find those fit for promotion?
+
+“I have an idea.”
+
+“Yes?”
+
+“You’ll see. I need you to go sift through whatever we still have left from the soldiers. The human ones, that is.”
+
+“Why?”
+
+“I want you to see if there is any different colored cloth, shirts, or garments. Specifically, I’d like red, yellow, and green. But anything could do.”
+
+The little imp sniffed. “Not sure. Most that gone. Vorathrex took.” The last word was spoken as an accusation.
+
+“Yes, yes. To the village I know. But there has to be some left, no? Just check. Let me know this evening, please! I have something special in mind. Something I think will solve this problem of yours.”
+
+And perhaps a few of my own.
+
+His supervisor didn’t look convinced, but he still gave a short nod and scampered off.
+
+Now! Time for some farming.
+
+***
+
+Sythara glared at the two brood imps.
+
+She’d suggested to that shiesty little demon that these should be assigned as her first underlings. Instead, he informed her these were ‘probationary assignees’ as part of her ‘onboarding procedures’.
+
+Growling under her breath, she watched the two imps staring at the exposed riverbed. Their little legs were ankle deep in the mucky water.
+
+“Tsk, tsk. Children. Put those down.”
+
+They turned, claws full of pebbles. “Why?”
+
+“Yeah!”
+
+“Those are too small. The larger ones matter more.”
+
+She regretted the words before they left her mouth.
+
+Before she could rescind them the workers dropped their hauls, turned, and trudged further into the riverbed. Fish bones and exposed debris crunched under their feet. A mess of corrupted and very dead aquatic life floated aimlessly in the hellish puddle. Like some kind of sickly, hellish soup.
+
+Sythara found it rather comforting. A piece of home, nearly.
+
+Jutting out of the puddled water was a massive flat rock, big as an imp. Together, the two imps were trying to pick it up. The stone didn’t even budge.
+
+Sighing, she walked over and flicked each of the tiny brood imps on the forehead. Her shadows cocooned around the trio, blanketing the surface. The muddy water trembled, tiny waves echoing from her tentacles.
+
+“This rock is far too big. Mayhaps when you are bigger it will be within your grasp.”
+
+“Glow!” shouted one.
+
+“Yes! See!” echoed the other.
+
+“Gah! You are no better than newborns. I don’t care if it—Oh. My oh my. What’s this?” Her sapphire eyes opened wide, turning into prisms as she bent down.
+
+Underneath the flat stone, a brilliant sheen emanated in the brown water.
+
+“Big stone!”
+
+“YES!”
+
+“No. Hush. Both of you.” She shifted her shadows at a pile of medium sized rocks behind her. “Stop wasting time. Your master hates that, no? Now, now. Don’t give me that look. Be good and pick those up. Ferry them back to the stockpile and come back here. Immediately. No stopping, no games of stones, no picking up anything you think is interesting.”
+
+Spirits slightly crushed, the duo followed her orders.
+
+“Now what do we have here…”
+
+After a brief inspection, she had her answer. “Not a lot of it, but enough for some basic tools and crafting. I could use this for some interesting experimentation… I’m sure those two won’t think to mention it to their master.”
+
+A slight burn pulled at the back of her neck.
+
+Intrinsically, she recalled the pact burning inside her mind. The moment she did so, an ethereal chain of violet came into being. One only she could see. Complex scripture glowed on each link.
+
+It spooled from her torso, across the rolling sands, and into the city proper. When her gaze went back to the shine beneath the puddle, the chain rattled.
+
+“Tsk, tsk. I know, I know. Cursed pact.”
+
+The re-written research clause removed her ability to use research materials at her own discretion. At least until she finished her onboarding. And, unfortunately, ores and minerals loosely fit under that category. Not disclosing her findings could be considered a breach.
+
+Standing, she looked back to the tower, glowering at the massive purple eyeball floating above it.
+
+“Did it… Just wink? Cheeky child,” she growled. “I’ll find a way around this deal of yours. And when I do, you may regret binding me so.”
+
+Dusting off her knees, she stood and made her way out of the riverbed. Off to inform a certain demon that he had a small deposit of iron ore in his domain.

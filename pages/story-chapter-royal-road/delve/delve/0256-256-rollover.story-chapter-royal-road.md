@@ -1,0 +1,239 @@
+---
+id: 8abe5204-0723-560f-8342-07f0aec1b57d
+page-type-slug: story-chapter-royal-road
+title: "256: Rollover"
+slug: 0256-256-rollover
+partOf: delve
+position: 256
+ownLength: 3593
+unit: words
+publishedAt: 2024-01-07
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1468552/256-rollover"
+royalRoadId: "1468552"
+---
+
+Zero quivered uncertainly, confused about what she was meant to do.
+
+Like this! Floofy-Cloud seemed to say, demonstrating for her one more time.
+
+Zero listened with all her might as the ⟬furry bonesack slime⟭ dropped the bulk of himself to the ground, his long-bone protuberances waving ineffectually as they traced an arc over his body. Soon, he was propped up on them again, vigorously thrashing the air with his final protuberance, the extra floofy one he usually used for that mysterious purpose.
+
+Zero thought.
+
+Zero thought and thought.
+
+Zero thought and thought and thought, but despite Rain-King’s thinking-chill, she did not understand.
+
+“You can do it,” said Cloud-Mother, using her ⟬greater bonesack slime⟭ noises. “Go on, Zero. Roll over! It will be fun!”
+
+Try! Floofy-Cloud seemed to say, nuzzling at her encouragingly with his nuzzler.
+
+Zero tried. Zero did not understand, but Zero tried.
+
+She formed her own protuberances and wriggled them until they made approximately the right motion.
+
+“You did it!” Cloud-Mother exclaimed.
+
+“Boof!” said Floofy-Cloud.
+
+“Ah, perfect,” said Rain-King’s voice from outside the thin film of their enclosure. “Hey, Meloni. It’s Rain. Can I come in?”
+
+“Ah!” Cloud-Mother said. “Rain? Sure, but what—?”
+
+“Thanks,” Rain-King said, entering.
+
+Zero urgently oozed behind a pillow.
+
+Rain-King kept speaking. “I need a place to hide out while I deal with something urgent soulside, and I don’t want to run all the way back to my tent. Can I impose on you for, say, fifteen minutes?”
+
+“I’ll make tea,” Cloud-Mother said. “Stay as long as you’d like. Jamus should be back soon. I’m sure he’d love it if you joined us for supper. You really should visit more.”
+
+“Great, thanks, and yeah, I know, but busy, busy! You know how it is. Zero, what are you doing, hiding behind there? Oh, you’re shy, huh? Well, aren’t you adorable? Yes, yes, Cloud, you’re adorable too. I know, I know.”
+
+Most of the words between Cloud-Mother and Rain-King were lost on Zero, but she had recognized her name. She had been heard! That was bad! Rain-King was too grand and too important to be hearing her!
+
+Maybe if she stayed very, very still...
+
+“Cloud, enough! Depths, you’re soaking me! Get off! Right, Meloni, if anyone asks, tell them I’m here, but on break unless the world’s ending. Going under in three, two, one...Zero.”
+
+OH NO!!!
+
+Despite the initial rush to get settled, Rain found he had plenty of time to prepare for his conversation with the Warden. So much so, in fact, that he was quite lost in the process of working through his observations from the lair by the time a knock made him tear his eyes from his interface. He blinked, then looked toward the door. “You’re supposed to use the button.”
+
+“What?” called a muffled voice on the other side.
+
+“There’s a call button beside the door. You push it, and it chimes to—you know what, never mind. Just come in.”
+
+The doors opened with a pneumatic hiss, revealing the Warden standing there with a highly compressed Dozer sitting on her shoulder.
+
+“Finally,” Vatreece snapped as she walked in. “I know what you’re doing, you annoying bastard.”
+
+“What are you talking about?” Rain asked, busy inspecting her pseudo-soul. “Can we maybe start with hello?”
+
+“Hello,” the Warden said with a huff, planting her hands on her hips as she stopped in front of his desk. “I’m talking about this little power play. Making me come to you. Like I need the reminder that you own me.”
+
+“Okay, back up,” Rain said. “Firstly, I was in the middle of something; secondly, you said you needed time; and thirdly, did you forget what the note said? You’re your own person-slash-construct-slash-ghost thing. Clearly, you know that, given you’ve changed your outfit.”
+
+“Uh-huh. Very cute. Pretending you weren’t spying that whole time, eh?” She scoffed. “No, you were watching and pretending like you weren’t. You wanted to see what I’d do.”
+
+“No,” Rain said tiredly. “I was keeping tabs on where you were, yes, but that’s it. Dozer would have told me if you were causing— Okay, you know what? We’re starting over. Hello, Warden Vatreece’s memory construct, how are you? I’m fine, thanks. Please, no, don’t trouble yourself. Saving you was no trouble at all. Have a seat.”
+
+“Just call me Reece,” Vatreece said, dropping into the indicated chair with a snort. “On the way here, I decided the Warden is dead. I’m part her, part you, and part I don’t fucking know what, so Reece will do. She always hated that name, and it should help me create some mental distance.” She considered him with a smirk, toying with the platinum plate dangling from her neck before removing it and tossing it across the desk. “There, that’s yours now, Warden. How can this helpless prisoner serve?”
+
+“No mind games,” Rain said, inspecting the plate briefly after he caught it. It looked like the silver Watch plates he was familiar with but with more engraving and a golden border. He set it on the desk and rubbed the bridge of his nose. “Let me be perfectly clear about this, Reece. You are not a prisoner. Out the door, take a left to the shuttle station, and there, you can catch a ride to the nearest airlock. I’m sure you know what the system will do to you if you leave my soul, but if that’s a road you want to walk down, that’s your business.”
+
+“Ha! Suggesting I off myself?” Reece inclined her head toward Dozer. “You’re even angrier than he was.”
+
+“I did NOT suggest that,” Rain said tiredly. “Again, no mind games. All I said was that I wouldn’t stop you.” He shifted his gaze to Dozer. “Dozer, Zero and Cloud are outside with Meloni. Thanks for guarding our guest, but it’s just going to be a lot of bickering now. If you want to go play, feel free.”
+
+[!!! o7 !!!] Dozer sent, then vanished with an enthusiastic pop.
+
+“Such a ridiculous creature,” Reece said, brushing the shoulder where Dozer had been perched. “We need to talk about him.”
+
+“We need to talk about a lot of things,” Rain said. “Let’s start with what the hells you—and by ‘you’ I mean your original—were thinking. Information’s hard to get out of Ekrustia these days, but it seems like your clash with Fecht ripped reality a new asshole. Was that the plan? I distinctly recall that being the opposite of the plan.”
+
+“Rats,” Reece said with not nearly enough emotion. She clicked her tongue. “Did I at least kill him?”
+
+Rain’s temper snapped, and he shot to his feet. “Yes, not that it matters!” he yelled, slamming a hand down on her discarded badge and shattering it into smoke. “Lightbreaker took his place, then took over the whole damn continent!” He forced himself to take a breath before continuing, but when he did, his voice was like ice. “The Citizens are dead. Who knows what’s happening to the people. We got out, but millions more didn’t. I ask again. What. Were. You. Thinking?”
+
+Reece heaved a heavy sigh and looked away. “That it was worth the risk.”
+
+“Bullshit,” Rain said, falling back into his chair.
+
+Reading her pseudo-soul felt as easy as breathing, but he didn’t believe the remorse he was feeling from her for a second.
+
+“Avoiding damage to the world was the goal,” Reece said, looking back at him like he was a particularly dense shrub. “The fact that I failed is just that, a failure. You wouldn’t have liked what Fecht would have done if I hadn’t acted. He was dying. I was dying faster. I chose to lance the boil while I could. Unfortunately, it seems to have blown up in my face.”
+
+“Oh, unfortunate, is it? That millions of people are dead or enslaved?”
+
+Vatreece crossed her arms. “What do you want me to say? That I’m sorry for what I did? Because I’m not. I’d do it again. Thing about power, you have to make the hard choices at the worst times. There’s always a chance they’ll go wrong. You know that. I know you know that. So stop hassling me.”
+
+Rain rubbed his temples. “No one should make a choice like that alone. No one should be able to.” He looked away with disgust. “We’re getting nowhere. I don’t agree with your methods, and you don’t agree with mine.” He met her gaze again. “We both agree there’s a problem. Let’s talk about how we fix it.”
+
+“That’s the first smart thing you’ve said all day.”
+
+Rain ignored the barb. “I have questions.”
+
+“I’m shocked,” Reece lied. “Well then? What’s first? Which burning conundrum has topped your list? How to raise your cap? What hidden skills you should take? What bakery makes the best dinner rolls on the continent?”
+
+“You tell me,” Rain said. “What is the most important, time-critical thing that you think I need to know?”
+
+Reece barked out a laugh and uncrossed her arms. “Good! Unfortunately, I have no bloody idea. You’ll have to catch me up. I’m a little out of date, you see.”
+
+Rain nodded, having expected as much. He called up his notes and began to speak, starting with the Warden’s physical intervention in Barstone and leaving very little out—personal details aside. He even went into various dead-ends in his research, banking on the off-chance he’d missed something. Through all of it, and in contrast to how she’d been acting until now, Reece proved to be a shockingly good listener. She asked clarifying questions when he was unclear but never derailed him or challenged him on anything. She just let him talk, making small gestures as he did. When he paused to ask her what that was about, she said they were mnemonic keys, necessary without the vast machinery of her platinum Mentalist’s mind. The frustration he felt from her about it seemed genuine.
+
+By the time he finished with his undercooked theories from the lair that morning and the discussion with Velika, Rain had calmed down considerably. Drawing potential from a spigot on his desk to make himself a coffee, he leaned back in his chair and took a sip. “And that’s all I have to say about that.”
+
+Reece got the reference from her palpable flash of annoyance. She didn’t comment on it, though, merely making one last gesture as if closing a book. “I have it.”
+
+“And?” Rain asked, taking another sip. He made his tone provocative as he continued. Getting a rise out of her would give him more data on whether she was presenting him with false signals. “Do you need time to digest all that, seeing as you didn’t rip it straight from my mind this time? Any thoughts? Any opinions?”
+
+“I think you did phenomenally,” Reece said. “Well beyond my expectations.”
+
+Rain barely avoided doing a spit-take at how genuinely she’d meant it. “Excuse me?”
+
+She HAS to be playing with me. If there’s a book on Reading, she wrote it.
+
+“Don’t expect me to repeat it. Some of your theories are a bit...well...completely wrong...but you’ve got a good handle on the basics. We’ll talk about it later. Are you going to make me one of those?”
+
+“I—sure,” Rain said as he worked to catch up.
+
+“And put honey in it, you tasteless barbarian,” Reece said. “You might like it straight from the swamp, but some of us are a little more refined.”
+
+Rain grumbled something, but he made her a honey bear once he finished making her drink. If she wanted to ruin it, she could do it herself.
+
+“Thank you,” Reece said with a smirk, pausing to inspect the bear-shaped squeeze bottle, though the shape apparently wasn’t what had caught her attention. “Rank zero? Really?”
+
+“It doesn’t change the taste, and I’m interested to see what you can do with it,” Rain said.
+
+“Still pretending you weren’t watching me?” Reece asked, flipping open the bottle and positioning it over her mug.
+
+“Not pretending,” Rain said vehemently. “I only left you potential, not soul. And gods, how much are you putting in?! Stop!”
+
+“What?” Reece said, squeezing the bear like it had mauled her family. She let go only to squeeze again, and only after another massive glug did she set it down with a smirk. A spoon grew from the surface of the liquid to meet her hand, which she swirled around until the coffee and honey were mixed together into a disgusting, syrupy sludge.
+
+Watching her claim and manipulate the essence was all kinds of interesting, but just...
+
+Rain shuddered as she took a sip.
+
+“Passable,” Reece said, giving the mug a speculative look before setting it down. “Okay then. Most important thing. Hmm. Well, not picking a fight with Lord Jien for a start.” She waved a hand. “Also, not spreading those little pamphlets of yours around, but that ship has sailed. Your plan is to scale hard and scale fast, yes? Mirroring your own ascent?”
+
+“Pretty much. We can hide like bugs and wait to get squished, or we can get big enough to survive the boot. And it won’t be picking a fight if we don’t get caught.”
+
+“Oh, you will get caught,” Reece said. “You think nobody’s ever tried stealing from the Bank? One hit, maybe two, then they’ll roll out the expensive countermeasures. Jien might not be platinum, but he’s high gold—high sapphire by their stupid system. You do not want to be on his radar. You think Luna’s dangerous? He doesn’t even rate.”
+
+“So what do you suggest? How do we deal with the Bank if we can’t touch them?”
+
+“Work with Luna and take it slow,” Reece said with a shrug. “The devil you know and all that. You make him money, you make the Bank money. He’ll know how to toe the line and who to pay off. The top three will be happy so long as they get their cut.” She took a sip of her coffee, then gestured with the mug. “As an aside, good work on Ascension’s codes in that specific regard. It’s much harder to stamp out corruption once it’s taken root. I would know.”
+
+Rain nodded. “I do want to talk to you about politics and the Watch situation, but we’ll get to that in a moment. Velika is a more pressing problem, if only because she’s in my face. She’s not going to tolerate sitting around much longer, and I can’t get her to go to therapy. I’ve tried. She needs an outlet.”
+
+“Remember, you brought this on yourself,” Reece said, pausing to suck her teeth. “Well, if you want missions for your leashed maniac, I should be able to give you a few suggestions. The depths, for one, but I assume you already thought of that.”
+
+“I did. We don’t have a good way to get her there. If we send her to the Great Delving, she’ll cause an international incident if someone so much as looks at her funny. There’s the crack near Vestvall, but that’s on the wrong side of an ocean and deep in enemy territory. Tallheart knows a few spots we might try across Ekrustia, but those all have the same problem as Vestvall. You wouldn’t happen to know of a secret, unclaimed access point on this continent, would you? Or of any lairs just lying around in the wilderness for the taking?”
+
+Reece snorted. “No, nothing unclaimed. Accessible, though?” She raised a hand, counting on her fingers. “First, there’s Etter’s Gap in Sadiir. Rank twenty-five at the bottom and owned by mercs who don’t care who you are so long as you can pay. Second, the...the...shit, what was the name? The something pass. Stupid memories. Anyway, it’s in the Azure Range. There are chasms at rank nineteen, and they’re open to anyone who flashes a Guild plate or is motivated enough to climb over a few mountains. There’s also the Thunder Chain off the eastern coast of Nov. Most of the caves are flooded and are thus a complete pain in the ass, but some of them go all the way to rank forty. The Novians don’t patrol them nearly as often as they claim. That’s three. Pick one. Oh, and there’s also Brightside, but you know about Brightside.”
+
+“I have other plans for Brightside,” Rain said, working to contain his excitement. He drew essence from the tap, shaping it into a notebook. “If you’ve got more spots, even if they’re only rank one, write them down.”
+
+“Sure, sure,” Reece said, folding her arms. “Missions for the masses. Full disclosure, it might take me a while. I’m still working to sort out my memory. It’s like an audiobook on shuffle in here.”
+
+“Of the three places, which—“
+
+“Can’t tell you,” Reece interrupted as he placed a ballpoint pen beside the notebook for her. “They have their pros and cons. Scout them, talk it over with your advisers, let her pick; I don’t care. Any of them will keep her busy.”
+
+“Right, more important things,” Rain said, controlling himself. “Thank you.”
+
+“Never say I’m unwilling to earn my keep,” Reece said, flicking the potential spigot with a finger. “Can I get one of these in my house?”
+
+“Done,” Rain said, though of course he would keep an eye on how much she drew. He took a moment to consider what to cover next, holding hands over his eyes before dropping them and scooting his chair forward. “Okay, now that you’re caught up, I’ll ask again. What’s the most important issue I need to tackle first?”
+
+Reece nodded. “You need to pick a side.”
+
+“A Watch faction?” Rain asked, guessing her meaning.
+
+“Yes,” Reece said. “Specifically, you need to pick Nem’s side, and not so he can help you, but so you can help him. A Custodian’s influence won’t mean much, but it’s better than nothing. The fact that he hasn’t already brought the other guardians in line concerns me. Of the three, he’s the only choice.”
+
+“Why? Annerlain seems okay, from what I’ve heard.”
+
+“Annerlain is a moron who’d see us wage open war against the entire world in the name of saving it. He’s like you, but worse. An idealist without a plan. As for Olicia, don’t let her conviction fool you. She is a greedy, power-mad, scheming piece of shit who’ll say anything to get what she wants. She’d keep the Watch together, but it wouldn’t be the Watch by the time she was done with it. Nem may be a traditionalist and a hardass, but he knows what the Watch is supposed to be.”
+
+“What about Guardian Tanergal? Sana says he’s popular with the younger officers.“
+
+“Tanergal?” Reece laughed. “Tanergal doesn’t know his ass from...his ass from... Damn it! Anyway, hells, you know more about the soul than Tanergal.”
+
+“Is that a requirement?” Rain asked. “So Olicia, Nem, and Annerlain all—“
+
+“Know more than you do, yes, as do Burrik and those other ‘monsters’ of Xiugaaraa. Anyone with any real power does, to varying degrees, and you’d do well to keep your damn mouth shut about just how far you’ve come. Until you can stand with them as equals, you will play dumb, do you hear me? Under no circumstances will you tell any of them that I’m riding along in your skull. Maybe, MAYBE, Nem, but not until you gain his trust.”
+
+“I wasn’t planning on telling anyone anything,” Rain said. “So, Nem, then. How do I get to Vigilance to talk to him?”
+
+“You get yourself invited,” Reece said, resting her hand on the notebook. “I’ll have a think about it and ghostwrite you a letter. Ghostwrite, get it? Because I’m a ghost?”
+
+“I got it,” Rain said. “It’s really weird to hear you use expressions like that, by the way.”
+
+“Know what’s weirder?” Reece asked, finishing off her despoiled coffee. “Having to remove ‘Mordor’ from the list of dangerous places I gave you earlier after struggling to sort out whether it was real or not.”
+
+“I can see how that would be a problem,” Rain said. “Do you want to talk about it, or...?”
+
+“No,” Reece said.
+
+“Okay then,” Rain said. “In that case, did I hear you say you know how I can raise my cap?”
+
+“Did I say that?” Reece asked, smirking at him.
+
+“Yes. Did you mean, like, without a blue?”
+
+“Ah, ah, ah,” Reece said, wiggling a finger at him. “Priorities, Custodian. I do know a way to do exactly that, but it’s slow and dangerous. Remember, if you die, I die. Lending Nem your aid comes first. Deal with that, and then we’ll see.”
+
+Damn it.
+
+“Looks like we’re done here,” Reece said, picking up the notebook and getting to her feet. “I’ve got a letter to write and a brain to unscramble, and you’ve got an ex-Citizen to distract. How do I call you when I’m done?”
+
+“I’ll make you a phone,” Rain said, getting to his feet as well. “Hold on a second. I want to ask a few more—”
+
+“Nope,” Reece said, turning for the door. “We’ll be here all day if I let you set the pace, and you know it.” The door hissed open at her approach, which was good, as she’d have crashed straight into it otherwise.
+
+“Ha, knew you wouldn’t lock it,” she said, pausing in the doorway. She lingered there for a moment more, then gave him a single, sharp nod. “Thank you for saving me.”
+
+“You’re welcome,” Rain said, but she’d already walked away.

@@ -1,0 +1,163 @@
+---
+id: 7b3b893f-2c60-58a2-8dba-c09686f85faa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4: Dungeon"
+slug: 0004-chapter-4-dungeon
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 4
+ownLength: 2202
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3442992/chapter-4-dungeon"
+royalRoadId: "3442992"
+---
+
+The weight on my chest eventually wakes me up. I open my eyes to see a black cat calmly looking at the only door to the room. It looks like Shar hadn’t moved during my small nap.
+
+A quick internal check shows me that a decent amount of my mana has recovered from my first use of a spell and the subsequent work I’d done on Shar’s mana circuits, although my mana is nowhere close to its full capacity. In the corner of my vision, the prompt offering me a second profession begs for my attention. I ignore it for now, knowing that I should dedicate some time to thinking about it before I accept.
+
+I shift slightly, causing Shar to jump off of me and pad around on her four limbs.
+
+“How long was I out?” I ask, sitting up and reaching for my pack of belongings. I pull out some water and some jerky, slowly eating it.
+
+Shar sits back on her haunches, licking her paw like a normal cat would. Her tongue is black and carries the metallic sheen of her humanoid self.  “Not too long.” she answers, eyeing me. “You recovered pretty quickly.”
+
+I put the canteen back into my bag before equipping it and standing back up. I adjust my sword on my belt, double checking my knife as well. “I guess it’s time for me to continue on my way then.”
+
+“Where are we going?” Shar asks, turning back into her humanoid form to look up at me.
+
+“So you’re coming with me then?” I ask the small automaton.
+
+She nods.
+
+“Hm,” I look up at the ceiling of stone as I think about my options. “It’s probably best if I find a way back to the surface, I wasn’t planning on this delve taking longer than a day and don’t have the rations to stay here too long.”
+
+Shar nods her head, “I know the Archmage’s sanctum well. I can lead you out… As long as the tunnels haven’t collapsed.”
+
+I nod to her, taking one last look around the room full of books. They’re likely worth a lot, but I’m already carrying a lot of weight and it would take a while to find a buyer for books in a lost language. Still, I grab a couple of the lighter books that look to be about automatons- sorry, golems. I should probably get the name right in my own head. I can try to translate the books later using my new class’s skill, or I can find a scribe to translate them for me. I also grab the bestiary I can read.
+
+I carefully place them in my pack, then take out my notebook to catalog the two rooms and what I found in them for the next delve.
+
+With that finished, I grab my metal ball and my light, then place my backpack on and make sure everything is secure. “Do you have everything you need, Shar?” I ask as I finish my preparations.
+
+In response, Shar transforms into a small black bird that looks vaguely like a crow. She then hops on top of my backpack. “There’s nothing here that I can take with me.”
+
+I twist to look at her, “Can you transform into anything?”
+
+“I was designed to take the form of small animals.” She hesitates for a small moment before continuing. “But I prefer the three forms I’ve shown you.”
+
+I nod, still a little curious about the magic at work. I take one last look around before leaving the room. We pass by the inanimate golems against the wall, their heads lowered, without the light that Shar’s eyes show. My gaze lingers on the chest that held the class orb, part of me wishing that there had been more in there.
+
+I walk out of the room and into the large open tunnel that I’d been traveling through. The wall of runes that I had drawn glows softly to me, my mana visible only to my eyes.
+
+I touch the wall, sending my mana through the runes I barely understand. With a mental effort I destroy all of my additions to the runic text.
+
+The broken wall that is the entrance to the rooms regrows, appearing like solid stone once more.
+
+I step back, sweating slightly from the powerful exertion of my mana on my runes.
+
+I wipe away the sweat with my sleeve, then place down the rolling metal ball. There’s only one way to go, and it’s back the way I came. The ball rolls off ahead of me and I follow calmly behind it.
+
+The tunnel is completely dark except for my light. Unfortunately, the ceiling is far enough above me that my light doesn’t reach it. It gives me a sense of vastness that makes me uncomfortable and I find myself looking up every couple of feet, searching for anything that might be watching me.
+
+Shar adjusts herself on my backpack. I can’t tell if she’s excited or nervous, but she’s clearly filled with energy.
+
+Shar eventually jumps off of my backpack, flying out of the circle of light that my light-stone produces. I keep walking, only slightly nervous that something might happen to her while she’s out of my sight.
+
+I stumble over some debris on the floor, forcing me to look down. This must’ve been where I fell through the floor.
+
+I look up, seeing the faint glow of the lights that lit the second floor.
+
+A weight on my shoulder makes me jump. I turn my head to see Shar looking at me curiously.
+
+“Were you scouting ahead?” I ask her, shifting some debris with my foot.
+
+“I was,” She confirms, picking at one of her feathers. “The tunnel out of here has collapsed. We’ll have to leave through a broken dungeon cell.”
+
+I look up one more time, then back to the crow-like golem. “Lead the way. It’s not like I’m getting out the way I came.”
+
+Shar jumps off of my shoulder, shifting into a black cat midair and landing on the ground. She walks to the end of the circle of light before looking back at me.
+
+I follow after her, keeping the darkness at bay. We reach a split in the path and Shar leads me to the left. It’s another few minutes before Shar makes a sudden turn into the right wall, and disappears.
+
+I walk closer and realize that there’s a hole in the wall just big enough for me to crawl through.
+
+Shar’s cat eyes look at me through the hole. I snort. “Is the tunnel really collapsed or do you just want to make me crawl through here?”
+
+Shar tilts her head. “While watching you crawl will be amusing, this is the only way out that I know of.”
+
+“Hmm.” I give a small smile before sighing. I reach down to unbuckle my sword, taking off my backpack a moment later. I kneel down and push both items in front of me, following them through the tight space.
+
+I push my stuff through the confined space for longer than I would’ve liked, but eventually shove it out into a more open space, pulling my body through a moment later. Rusted bars torn off their hinges are all that is left of the cell door of the room I emerge into. I put my backpack back on, and rebuckle my sword to my waist.
+
+“I hope we don’t meet whatever did that to those bars.” I say idly as I double check all of my equipment.  “I agree.” Shar says from next to the bars. She’s now in her small humanoid form, running her metal finger along the edge of the bent metal.
+
+I lift the metal ball over the bars and step into a long hallway filled with similar cells. “What was this place?” I ask.
+
+“The Archmage’s dungeon.” Shar answers, already moving past the many barred doors.
+
+I peer into one of the cells, seeing the long dead bones of a prisoner covered in dust. Some of the cell doors are open, while others have doors that are completely made of stone. One cell has what are clearly torture implements layed out on a table.
+
+I may be a Delver, but I draw the line at looking for loot in ancient torture dungeons. I have no desire to anger some centuries old ghost.
+
+I notice that Shar has pulled ahead of me, still in her human form, so I pick up the pace to follow her.
+
+A bang from a large metal door makes me jump. The door bangs again and the mana detector at my waist vibrates slightly.
+
+Yeah, nope. I’m not opening that door.
+
+Shar appears beside me, looking at the same door. “I can see what it is, if you’d like.”
+
+The door bangs again.
+
+“Yeah, I’d- I’d appreciate that,” I say, my hand on my sword.
+
+Shar steps into one of the shadows caused by my light. She sinks into the shadow, likely using one of her class abilities.
+
+I stand there for a few seconds, my eyes constantly on the edges of my light as the banging continues, worried that something else might come out of the darkness. It’s not paranoia if there really are things out to get you.
+
+Shar steps back out of the shadows, immediately drawing my attention back to her. “It’s an undead of some kind. It’s general class is ‘monstrous’”
+
+“Damn.” I say, my eyes on the door. The undead were one of the many reasons humans were forced into strongholds and the main reason why we still haven’t recovered any of our major cities. Incredibly hard to kill, with classes of their own, undead were empowered by the destabilization of mana instead of destroyed by it.
+
+Without a combat class, I don’t like my odds against an undead that has likely been around for centuries. I’ll just have to hope that the door keeps it contained.
+
+Another bang makes me jump. “Let’s keep going.” I tell Shar, turning away from the door and moving forward with a brisk pace, my metal ball still checking for traps.
+
+I bring my notebook out, marking the cell on my map so that I can have someone on the delve team actually kill it when the time comes.
+
+We arrive at a large metal door blocking our way. Shar walks up next to the door, placing her humanoid hand on a set of runes I didn’t notice.
+
+A clicking sound echoes through the darkness as the door unlocks and swings open towards us.
+
+“That’s helpful.” I say. I kneel down next to the runes and blow some blue powder on them to light them up. I carefully write them down into my book and note their function.
+
+“Thank you. I won’t be able to do that too many more times.”
+
+“Why’s that?” I ask, brushing my knees off as I stand back up.
+
+“The runes recognized the Archmage’s mana, but since your mana is now mixing with his…”
+
+“I see.” I frown, then shake my head. There’s nothing to be done about it.
+
+I turn my attention to the next room. The room has the same soft lighting that the upper levels had. A half-rotted table is in the middle of the room, one of its legs fully collapsed. I imagine that this was a room for the guards that had to keep an eye on the prisoners.
+
+The metal ball I send ahead of me makes a crushing sound, and I step closer to see bones, splintered by the weight of the ball.
+
+I step closer to examine the bones, cursing as I realize that they have the same shape as the bones in the spider’s cocoons. I’ve still yet to see one of these guys living, but whatever they are, they clearly know how to use weapons considering the arrowheads I saw with the other body.
+
+These bones are old, but the fact that there are more of them implies a group that lives in these ruins. A group that probably won’t take too kindly to a human passing through their territory.
+
+I run my hand through my hair, considering the logistics of bringing a full delve team down here. I’ll have to make peace with whatever lives down here if they’re going to let me bring a team through. That is, if they even speak my language, or if they don’t try to kill me as soon as they see me.
+
+There’s no use dwelling on it, so I move past the bones and to the other door.
+
+This door opens without any trouble, leading into a large hallway. There’s enough natural light in here that I decide to turn off my own light stone.
+
+Shar transforms into a black bird, resting on my backpack. I walk forward, paying careful attention to the metal ball.
+
+I walk forward only a few feet before passing through some kind of mana barrier. Immediately, I turn to look for somewhere to hide.
+
+An arrow flying by me and burrowing into the wall makes me freeze.
+
+It looks like I found the creatures living down here.

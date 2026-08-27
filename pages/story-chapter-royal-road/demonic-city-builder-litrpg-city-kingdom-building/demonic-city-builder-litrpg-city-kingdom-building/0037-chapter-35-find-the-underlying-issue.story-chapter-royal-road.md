@@ -1,0 +1,249 @@
+---
+id: 8c486117-166e-538e-bba7-cef0ac5f914c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35 - Find The Underlying Issue"
+slug: 0037-chapter-35-find-the-underlying-issue
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 37
+ownLength: 2104
+unit: words
+publishedAt: 2026-06-25
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3587389/chapter-35-find-the-underlying-issue"
+royalRoadId: "3587389"
+---
+
+Fang was very nervous.
+
+He sat in a bunk, legs shivering.
+
+“We sure this smart? Maybe master mad?”
+
+“Pfft. Why Master care?” sneered Boney. “He likes strength. We strong. So we get camp.” Grunts of agreement joined him.
+
+Twenty-four wrath imps. Twenty-five bunks. The math didn’t leave much left.
+
+“No sleep outside. Not for us,” he continued.
+
+At Boney’s orders, the warriors had taken it upon themselves to claim the entire camp building. All of them seemed very satisfied with the arrangement. Except one.
+
+“This… Seem risky. Brood be mad,” tried Fang.
+
+“Brood weak,” scoffed one warrior.
+
+“Yeah. Gather wood,” added another.
+
+“And rocks.”
+
+Fang shook his head in disagreement. He tried to get his comrades to understand. “Not weak,” he said meekly.
+
+Boney snorted. “Since when? Do they train? Swing sword? Swing spear? Fight? No. They weak.”
+
+This wasn’t good. Fang knew it. But his fellow warriors wouldn’t listen. He scooted back, inching against the wall. Maybe no one would notice him if he stayed far enough away from the door. That’s what he hoped, at least.
+
+***
+
+Shiny had a great day. Work went good, and the brood was growing. Everything was going great. He was just considering what to tell Master, when Bean came running up.
+
+“Bean? Why not farm?”
+
+“Shiny! Problem! It bad!”
+
+“Hmm? With farm?”
+
+“No! Warriors in camp.”
+
+Shiny shrugged. “It bit early. But that okay. Maybe they tired. We work hard.”
+
+Bean shook his little head violently. “Noo! They took camp. All! No bunks left.”
+
+Shiny’s orange eyes darkened.
+
+***
+
+Vorathrex lounged against the wall, enjoying the warmth of the stone. The black foundation soaked up heat throughout the afternoon. By evening, it made for a lovely end to his strenuous day. Taut muscles relaxed, weary bones eased, and his mind settled.
+
+“Ahhhh. I must make sure that little fledgling doesn’t get rid of this spot. It’s quite nice.” As comfortable and satisfied as he was, the big demon could hardly stop his eyelids from closing. They were getting ever so heavy…
+
+“Brood! With me!” came an irate shout.
+
+“What?!” he spluttered. Shaking his head, Vorathrex sat up.
+
+Through the gate marched a column of fifteen brood imps. The runt was at their head, the rest behind. Little red legs strode with purpose.
+
+“We not stand for this! We brood! And the brood strong!” called Shiny.
+
+“Strong!”
+
+“EAT!”
+
+“FOOD!”
+
+“Brood! Brood! Brood! Brood!” A chant began, getting louder and louder.
+
+Vorathrex was dumbfounded. “What are they doing?” he muttered, still half asleep.
+
+He blinked several times, his fuzzy gaze trailing the mob as it pressed through the city right to… the camp. Wasn’t the camp full? How were they all going to fit?
+
+Honestly, he didn’t really care. The big demon just wanted quiet. And the little gremlins were only getting louder.
+
+***
+
+Fang heard the shouts first. He raised his head, looking at the door. “Boney… Hear that?”
+
+“Hear what?” The soldier had his legs propped up on his bed, arms behind his neck.
+
+“They coming.”
+
+“Who?”
+
+“The brood.”
+
+“Huh?” The stocky warrior sighed, opening his eyes. “What wrong? You act weird. Why scared—”
+
+He cut off, head reeling as a thrown rock pummeled him straight in the jaw.
+
+***
+
+Kairon woke up to a massive dip in fervor. Around him, glowing pieces of demonic parchment lay in three organized piles.
+
+The stacks, however, were forgotten when he read the top of his readout. The remnants of drowsiness were washed away. He read it again. And then a third time.
+
+How did fervor plummet so low?!
+
+He knew that the population boom would be tight, but he had been careful to ensure they didn’t go over capacity. Kairon double-checked his figures.
+
+Precisely as I expected. Our population is still under budget.
+
+For it to drop that fast, something catastrophic must have occurred. The question was what.
+
+A sinking feeling formed in the pit of his stomach.
+
+***
+
+“It’s too early for this, child. You figure this out. I’m returning to my slumber.”
+
+Sythara took one look outside the tower, decided that was more than enough, and retreated back inside.
+
+Kairon didn’t reply. He just stood, claws gripped iron tight around his staff, taking in the scene before him.
+
+Every imp in the city was currently sprawled around the camp. Not in the camp. Outside it. And, unless his eyes deceived him, most of them sported gashes, bruises, or wounds of some type. Nearly forty imps, all in various states of disarray.
+
+Most were asleep, some were groggily sitting up, and a few were glaring. When he followed their gaze, he saw why. The camp was… not a camp. It had been destroyed. The door was ripped clean off the side, fist-sized holes marred the walls, and nearly a quarter of the roof was caved in.
+
+I was so preoccupied with reviewing the regulatory reading that I didn’t even notice… this?
+
+Shaking his head, he made his way forward. Brood and wrath imps alike awoke, hearing the thudding of their master’s walking stick. None spoke. They only watched on. Some in shame, others in fear, and a few in… anger?
+
+Is that… snoring? It was coming from inside the camp.
+
+For now, Kairon ignored all the imps. He walked past injured brood and wrath imp alike. Instead, he limped directly into what remained of the domicile’s entrance.
+
+“What are you doing…” he sighed.
+
+Inside, curled up happily in the middle of the wooden floorboards, was a massive red form. Approaching the slumbering giant, Kairon nudged him on the head with his staff.
+
+Snores turned to a gurgle, and the big demon flung upwards. His fists came up, ready for violence.
+
+“What!? Oh. It’s you, fledgling. Why did you wake me?” he rasped, arms and form relaxing.
+
+“Why did I wake you?” Kairon asked. “Vorathrex, why are you sleeping in the camp? And, more importantly, what happened here?”
+
+The big giant sniffled, rubbed one big palm over his face, and yawned. “The brood and wrath imps had a disagreement. I ended it.”
+
+“I see.”
+
+A picture of what happened was starting to form in Kairon’s mind. “There was no way to end this disagreement in a more sustainable fashion to city property?”
+
+A meaty finger pointed outside. “They did this.”
+
+The scaled-demon’s eyebrows rose. He looked pointedly at the Vorathrex-sized hole in the roof. “Yes. I’m sure,” he drawled.
+
+To the rear, Boney and Shiny had both worked up enough courage to join the demons inside. They stood, shoulder to shoulder, peering uncertainly through the damaged doorway.
+
+Kairon addressed them without turning. “Both of you. See to the others. Ensure wounds are cleaned, the injured are cared for, and that no additional misunderstanding surfaces. Shiny, you are to meet me in the tower once done. Boney, you are to ensure the wrath imps stay behaved. Understood?”
+
+“Yes master!” they replied in unison. The lack of argument showed just how draining last night must have been.
+
+“As for you,” he said, turning to his wrath councilor, “the imps may have been the ones to come to blows. But you could have defused this situation in a more appropriate manner.”
+
+Vorathrex frowned but said nothing.
+
+Point made, Kairon pulled up his interface. The massive purple eye above the tower opened wide, a new option appearing.
+
+In front of him was the material cost of the battle, but behind him was the physical one. It was the latter he truly cared about.
+
+“We’re going to make some changes. Vorathrex, gather yourself. I am calling a council meeting.”
+
+***
+
+Three demons and one tiny imp were gathered in the citadel chamber. Even sitting as he was, Vorathrex’s form towered above them all, with Shiny opting to stay standing.
+
+“Do we all understand what today means?” Kairon asked in opening.
+
+“That Vorathrex is incapable of babysitting the little ones,” answered Sythara.
+
+Kairon cut in before an argument could ensue. “No, no. While I agree Vorathrex could have handled this more gently, I’ve had time to reflect on what happened. The fault is as much mine as anyone else’s. Perhaps more.”
+
+Shadowy tendrils flicked in amusement. “Child, are you not always saying how you can not do everything? What was that word you used?”
+
+“Delegation,” said Shiny. His little red arms were crossed, lips pursed.
+
+“Actually, not this time. Delegation had nothing to do with this. First, I want to use this as a learning experience. What do you think caused the imps to come to blows?”
+
+“Not enough beds,” answered Shiny.
+
+“Too loud,” added in Vorathrex.
+
+Sythara was about to add something, but Kairon gave her a meaningful look. She kept quiet.
+
+“True. But, consider this. When something goes wrong, one thing my colleagues used to always say is what’s the root problem? The true issue? What you just told me are symptoms. What we need to identify is the underlying cause.”
+
+There was silence. Kairon didn’t answer. This was important. While he didn’t expect his councilors to know the solution, he did want to cultivate a culture of critical thinking.
+
+Finally, Shiny spoke up. “Camp too small?” he tried.
+
+Kairon grinned. “In this case, that isn’t something we can change. Not yet, anyway. But I like where you are headed. Any other guesses?”
+
+“Discipline. The imps need to understand the consequences. And to know how you expect them to conduct themselves,” said Vorathrex.
+
+Sythara snorted a laugh. “Child, come now. The devourer is speaking of discipline? Is that what you learned in the pits? How to behave?”
+
+At the mention of the word pits, Vorathrex’s eyes darkened. The atmosphere in the room changed.
+
+“No, no, no. One fight is enough for today!” snapped Kairon. “How can we expect our underlings to act civilly, if we, their leaders, can not? And Vorathrex, prove Sythara wrong,” he added.
+
+For a moment, the tension remained. And then it dissipated. Mostly.
+
+Satisfied for now, Kairon continued. “I want to go back to what you said. Vorathrex, I’m actually more partial than you might think to your answer. Discipline could be the underlying issue. I don’t think it is, but I like that you went a step deeper.”
+
+He let that hang in the air, then went on. “Could we improve discipline? Yes. Would that help? Probably. But I think what occurred today stems even deeper. Think one more layer down.”
+
+Sythara flicked a pale hand, waving impatiently. “Well tell us then boy. What is it?”
+
+Putting his claws on his hips, Kairon looked around. Seeing that his council was growing impatient and no more suggestions forthcoming, he obliged. “Alright. I believe something more systematic is at play here. As our city grows, issues are bound to happen. Especially with different types of imps and demons intermingling.”
+
+“Yes, yes. This is obvious. I fail to see how this is an underlying issue, as you call it, unless you intend to cull the little ones and stick with the warriors,” interrupted Sythara.
+
+Shiny stiffened. “You stupid. Warriors won’t gather. How you get food? Wood? Materials? Yourself? I doubt this. You lazy. You just scream. And you weak. No. Cull the warriors. They fat. Eat our food,” he snapped.
+
+The shadowy demoness just shrugged, cleaning one of her black talon-like nails absent-mindedly.
+
+“No one is getting culled,” eased Kairon. “I promise. You didn’t let me finish,” he said, eyeing the demoness.
+
+“What we’ve been describing are just the effects of the true problem. The underlying issue is we have no way to know how happy our population is. What their problems are. What they like and don’t like. How their week went. Did they enjoy their dinners? Do they like what they do for work? Are they getting enough sleep? I can go on.”
+
+Shiny was starting to nod. “Yes! We have issues. Many of those.”
+
+“And I’m not saying we can fix them all. Not right away. And, for some, not at all. But we need a way to know what these issues are. In last night’s case, had we known a large number of imps were unhappy about sleeping outside, we could have acted.”
+
+“Scaling!” added in Shiny.
+
+“Yes!” Kairon nearly fell over atop his walking stick in the excitement. The little devil was once again connecting dots not even Vorathrex or Sythara cared to.
+
+“As we scale and get bigger, these problems will matter more and more.” He paused, letting that sink in.
+
+“Now, being that we understand the underlying issue, we can move onto the solution. In this case, I already have one.”
+
+All eyes looked at him expectantly.
+
+“Have you ever heard of DR?”

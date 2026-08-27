@@ -1,0 +1,147 @@
+---
+id: 3b829633-62fb-5774-bf68-1174a228ffaf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 54"
+slug: 0054-chapter-54
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 54
+ownLength: 1308
+unit: words
+ownProgress: 1308
+publishedAt: 2023-03-12
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1135974/chapter-54"
+royalRoadId: "1135974"
+markedReadAt: "2026-06-29T20:33:40.120Z"
+---
+
+We all moved forward in line and approached the two guards. One of them recognized me.
+
+"Hey, welcome back. Looks like you do have a party."
+
+I nodded.
+
+"Yep."
+
+We all handed our IDs over and made it down the escalator to the D Class platform. It's a mess down here today. There are very large groups waiting by the train platforms but not boarding. Some of them have up to 10 hunters in a single party.
+
+I don't even know how that would be profitable. I guess everyone just wants a crack at some potential rare loot from dungeon breaks. They are all camping out waiting for an announcement of a new break.
+
+We walked through the crowd to the train platform that would bring us to the minotaur dungeon. Less than 5 minutes later our train arrived and we boarded. Hudson spoke up.
+
+"Another day in the dungeons, what a life huh? The minotaur dungeon should still be fairly safe today. There is a guild order to clear the boss room if we get close. Plus to do maintenance where we see fit.."
+
+I replied.
+
+"Maintenance? What do you mean by that?"
+
+He grinned.
+
+"It just means we will have to defeat any mutants we come across to relieve some magic pressure. A routine check of the boss room wouldn't be a bad idea either, can't let too much energy build up. Especially on the peak day of the surge.
+
+"Okay. Good to know. I didn't know dungeons worked exactly like that. I haven't seen a mutant in this dungeon yet though, only a few abnormally high levels. Have you?"
+
+"Yeah, there's an occasional mutant. Should be no problem, our team can handle it. We're all high enough level and have some good skills to combat tough opponents. I'm hoping to submit one or two guild members for the C Class exams coming up in 2 weekends from now. They're holding them here in the city."
+
+Nessa's eyes lit up.
+
+"Ohh you're talking about the C Class exams? Hopefully I'll be able to apply, I'm less than 50 levels away."
+
+I raised an eyebrow.
+
+"Oh yeah? Hopefully I can make it in too."
+
+She smiled. Hudson spoke up.
+
+"These will be your last easy levels. Trust me, I've only been in a few C Class dungeons. I don't level up much anymore. I'd much rather train recruits than face off against those monstrosities."
+
+I can only imagine the type of monsters in the higher level dungeons. It's making me excited thinking about it. I spoke up.
+
+"Hey, if the dungeon doesn't show any signs of irregularities I'd rather go off and hunt on my own. No offense, I just would like to have the levels and loot to myself."
+
+Hudson nodded slowly.
+
+"Makes sense. Sure."
+
+Nessa looked at me with a disappointed look on her face. I met her eyes and replied.
+
+"Hey, don't look at me like that. I'll stick around for a little while, we'll fight together for the first few monster sighting."
+
+Her face lit up again.
+
+"Screeeech"
+
+The train stopped by our platform and we all got off to make our way up the escalator.
+
+Soon after we all jumped through the floating blue portal.
+
+There are 6 members to our team. I used inspect on everyone.
+
+There's me. I'm level 182, but clearly that's not a perfect representation of my strength.
+
+Hudson is level 265. Other than his physical strength and long sword I don't know anything about him yet... he's definitely strong though.
+
+Nessa is Lv. 206. She seems quick, but doesn't doesn't carry any weapons. There could be something in her item box, or maybe she has some kind of interesting skill that doesn't require a weapon.
+
+There are two other girls on the team. One of them has long black hair, pale white skin, wears a black raid suit, and carries two daggers. She is level 178. The other girl is dark skinned and very tall, she's slim with curly brown hair and carries a thin silver long sword. She is level 184. The two of them seem to stick together.
+
+There's one last team member, he seems to be a tank. He's short, but very thick. When we entered the dungeon I saw him pull out a massive shield, nothing else. Maybe he focuses on only defense? I'm not sure yet. He's level 198.
+
+We all walked together into the dungeon. Hudson led the party while Nessa and I walked closely. The other 3 members walked right behind us.
+
+The dungeon didn't feel much different at all today. Dungeon breaks usually have dense magic concentration in the air. At least we don't have to worry about that.
+
+After about 20 minutes of walking we came across our first pair of monsters. I used inspect.
+
+[Lv. 158]
+
+[Lv. 161]
+
+Two Minotaurs were standing around in an empty field. They didn't notice us yet. Hudson spoke up.
+
+"You're the guest, why don't you take the first hit. Nessa, be his backup"
+
+We both nodded.
+
+I pointed my sword at the monsters and made my way towards them. Nessa followed close behind. She didn't take out a weapon or activate any skills.
+
+As we drew closer to the Minotaurs I decided to ignite my blade. This is the only skill I'll be using in front of this party today, I might as well give them a little show before I go off and hunt solo.
+
+As my blade erupted into flames the closest monster turned its head to look at me. We were about 20m away and the one up front started to charge with its axe held high.
+
+"CLANGGGG"
+
+Sparks flew as our weapons collided and I pushed the beast backwards. My recent level ups have upgraded my strength considerably. In the monster's confusion I darted underneath it and swung at its abdomen with a fiery uppercut. The monster let out a roar as I ran behind it and finished the job with a final attack to the back of its neck.
+
+I let out a burst of flames to make sure the deed was done and looked at my work with a satisfied grin. That was easy.
+
+Nessa was watching from about 10m back. She looked at me with a grin on her face ear to ear.
+
+"Fire huh?"
+
+I nodded while pointing at the other minotaur with my blade.
+
+"Yeah. One down, one to go. I'll leave it to you."
+
+She nodded and reached into her item box to pull out a long sword.
+
+My eyes widened a bit. A sword? Why didn't she pull that out earlier?
+
+The other Minotaur realized its partner had been slain and didn't look happy about it. Nessa started running towards the beast, and it locked its eyes on her.
+
+Then something unexpected happened...
+
+Right in front of my eyes I watched Nessa's blade turn dark red and become covered in a blanket of flames. It's definitely fire magic, I couldn't mistake it for anything else.
+
+"CLANGGGG"
+
+Sparks flew and flames shot up in the air as Nessa overpowered the monster in front of me. She left huge gashes in the Minotaur and left fire reside identical to mine after every hit.
+
+I stood there in awe as she brought the monster to its knees, then to a pile of ash beside the one I defeated.
+
+She walked over to me with a smile on her face while putting out the flames on her blade. She placed it back into the item box on her waist and spoke up.
+
+"That's a pretty good skill, thanks for letting me borrow it."
+
+Nessa winked and walked right past me with a smile. I stood there facing the two identical flaming corpses with a blank stare across my face.
+
+What did she just do....?

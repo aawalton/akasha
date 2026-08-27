@@ -1,0 +1,447 @@
+---
+id: 80d7b7fb-6a72-553a-885c-ffc73729ec98
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: That Which is Hidden"
+slug: 0003-chapter-2-that-which-is-hidden
+partOf: dungeon-devotee
+position: 3
+ownLength: 6321
+unit: words
+ownProgress: 6321
+publishedAt: 2022-02-18
+link: "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/848363/chapter-2-that-which-is-hidden"
+royalRoadId: "848363"
+markedReadAt: "2026-06-29T22:37:06.948Z"
+---
+
+If the first floor had been a cellar infested with rats, the second one was abandoned.
+
+Edmund stepped from the darkness between levels to find himself standing in a narrow hallway, lit in the dim orange of a single torch. Instead of wooden paneling covering the walls, nought but two crossing beams supported each section between regular vertical arches. At least, they had once.
+
+About one in five of the crossbeams had collapsed to the floor, sitting or leaning there in various states of decay. Those that managed to stay on the wall remained so not through stakes or nails, but through the web of cordlike roots that had crept through the dirt walls, capturing the rotting beams as if in a net.
+
+The ground was the same packed earth as the floor above, although there it’d been trodden yet well-kept, while here it cracked and bulged where yet more roots pushed out from below. The place looked like it’d been abandoned decades ago, a thought that contrasted with the still-burning torch upon the wall, but Edmund supposed affordances must’ve been made for visibility. There was no way the fairness accords allowed for a second floor in pitch darkness.
+
+The one new feature claimed Edmund’s attention first. Before taking a single step away from the exit, he reached with his spear for the wall on his left, only a few feet away. With a deep breath and a watchful eye, he prodded at the network of roots.
+
+Nothing happened.
+
+Not one to set his paranoia aside at a simple poke, Edmund drew his knife and carefully stepped closer. Slowly, cautiously, his jaw set and his eyes squinting against the gloom, he reached out with his dagger. It wasn’t until the very tip of his knuckle made it within precisely six inches of the roots that they struck.
+
+Three thin whipcords burst from the web of roots, lashing themselves around Edmund’s wrist even as he tried to jerk away. He let out a gasp, instinctively pulling and twisting with his hand, but the bindings held tight.
+
+Heart pounding, he let his spear fall to the ground, freeing up his left hand to draw the rusty sword from his belt, unwilling to bring his free hand any closer to the grasping plants than absolutely necessary. The roots let him.
+
+Allowing his caution to slip away in the face of urgency, Edmund stepped closer to the wall of roots to bring about his blade, swinging it with all his might at the cords around his wrist. They bowed under the force of the blow, his dull sword bending the roots rather than cutting them.
+
+Edmund cursed.
+
+Sweat beaded on his brow as tendrils of fear began to twirl in his mind, failing to latch on and fully cultivate the seeds of panic, yet managing perfectly to accelerate his breathing and narrow his focus. He gulped.
+
+Taking a deep, but quick, breath to force himself to calm, Edmund pulled back with his right hand, the bindings chafing against his wrist as he held them taut. With a grunt, he hacked at the roots. The blade bit, but didn’t pierce. He swung again.
+
+It took seven awkward, left-handed swings to cleave through the three cords, sending him stumbling back when he finally cut free. He caught himself before back-stepping into range of the roots on the other wall.
+
+Edmund exhaled, returning his sword to his belt to pull the loose roots from his wrist. Other than a red ring around the base of his hand where he’d against them, the roots had left him unharmed. No thorns had pierced his skin; no toxins had leached through. The roots hadn’t even held tight enough to cut off circulation.
+
+Edmund recalled a passage he’d read from Laura’s pocket guide that he hoped applied to the roots.
+
+Trap Difficulty
+
+Traps on the first five floors must either be visually apparent or non-damaging. Traps on the first twenty floors must either be visible or non-lethal. Traps on the first fifty floors must be detectable.
+
+Considering how well the roots blended into the environment, Edmund concluded they didn’t qualify as visually apparent, and thus weren’t allowed to deal damage themselves. Of course, getting a wrist or ankle caught up in these roots could prove plenty lethal in the middle of a fight, but at least on their own the roots were probably harmless.
+
+Of course, ‘apparent’ or otherwise, the roots were visible, and on later floors such things could certainly prove deadly.
+
+Resolving to keep away from the walls as much as he could, Edmund put away his knife and cast his eyes downward to collect the spear he’d dropped. He found only empty floor.
+
+His spear was gone.
+
+“Thrax damnit,” he swore, realizing his mistake. The spear was neither gear he’d brought nor loot awarded to him, but a part of a trap, a piece of the dungeon itself. The moment he’d let it go for longer than a few seconds, the Eternal Depths had reclaimed it. Edmund cursed again. He’d known this would happen, that he couldn’t keep a hold of the spear forever, that it would either break or return to the dungeon eventually. He’d just hoped to find a replacement before that happened.
+
+Not allowing himself to wallow in his mistake, Edmund drew his sword with his right hand, reprioritizing his weapon with the greatest reach. He kept his left hand free for the time being, resting it on the pommel of his dagger, ready to draw or whip away to grab something or grip his sword with a second hand.
+
+Prepared as he’d ever be, Edmund stepped down the hall.
+
+“You need a bath.”
+
+Edmund whirled, acting on instinct hard-won against the rats as he whipped his sword around. It passed clean through a smirking Liam.
+
+“Seriously, you stink.”
+
+Edmund scowled and took a long, thin breath in. Long accustomed to his own stench, he caught only the scent of moisture and stale air. He frowned. “And you don’t.”
+
+Liam paused, visibly confused by the words as he furrowed his brow. “Do… do you want me to?”
+
+Edmund grunted, pulling back his sword and returning to his exploration. Despite the lack of footsteps behind him, he knew Liam followed, mostly because the dead adventurer refused to keep his mouth shut.
+
+“Strange floor you’ve found yourself on,” Liam spoke with a volume that spat in the face of any attempt Edmund might’ve made at stealth. “It looks like nobody’s been down here for quite some time.”
+
+“It’s by design,” Edmund whispered. “The roots are a trap.”
+
+“Oh, sure,” Liam said, casually dragging his hand along the roots. They ignored him. “I just think you might be the first delver to find this floor in a long while.”
+
+Edmund stopped his careful progression down the hall. “What does that mean? And how could you know that?”
+
+Liam shrugged. “I know lots of things.”
+
+The words sent Edmund’s mind reeling. If his hallucination could know things he didn’t… perhaps Madness actually would prove a powerful boon. Of course, it was just as likely Liam was making shit up, a concept Edmund really didn’t want to deal with at the moment. They’d have all the time in the world for discussion once the floor was clear.
+
+Shaking focus back into his head, Edmund continued on along the passage, until, after some hundred paces, it came to a junction. Without looking back, he asked, “Which way?”
+
+Liam didn’t reply.
+
+A cursory glance down each passage revealed more hallway up until a corner blocked all vision. Edmund spent a solid few minutes squinting down each path, counting the number of torches, the fallen crossbeams, how far each seemed to go before turning, every detail he could gather without stepping foot down either path.
+
+Liam let out an exaggerated fake yawn.
+
+Grunting once more in annoyance, Edmund turned down the rightward path. He made eighteen steps of careful progress down his chosen tunnel before the spear pierced his thigh.
+
+He didn’t cry out. He didn’t jerk away. He didn’t flinch. What was a spear in the leg compared to claws through the gut?
+
+Edmund reacted immediately, plunging his sword through the roots in the wall. A high-pitched screech rang out as he struck something. He pulled his sword back and struck again.
+
+He felt more than heard the thing die as the wooden spike in his leg jerked painfully downward before falling out entirely. For eighteen tense seconds, he jerked his head back and forth, watching both ends of the hall for anything coming to investigate the screech. Nothing came.
+
+He allowed himself to sink to the floor to take weight off his wounded leg, panting as he did. Without pulling his gaze away from his vigilant watch, he hissed at Liam. “What the hell was that?”
+
+“All ambushes on the first ten levels must be visible and strike non-lethally before going in for the kill. All ambushes on the first fifty levels must be visible. See accord one-three-nine-oh-nine-point-two-three for further details,” Liam quoted from the pocket guide.
+
+Edmund took deep, angry breaths as he sat there, figuring he may as well try and wring some answers from the hallucination while his leg recovered. “You said nobody’s been to this floor in some time. Why?”
+
+“It was phased out,” Liam explained, “the design deemed too difficult. Death rate hit over fifty-eight percent at one point, when second floors are only supposed to sit around thirty-nine.”
+
+Edmund paled. “Fifty-eight percent?”
+
+Liam nodded. “While difficulty goes up, death rates actually need to go down the deeper the floor is. The first floor sits around fifty, and it falls by roughly ten percent each floor before eventually settling around two percent. That’s an oversimplification—it’s actually a logarithmic scale optimized for…” He shook his head. “You have no idea what I’m talking about.”
+
+Taking the hallucination at his word for the time being, Edmund followed up. “If this floor was phased out, how did I end up here?”
+
+Liam shrugged. “I can think of two reasons. After your stunt with the rats, either the dungeon thought you could handle more of a challenge, or it thinks you’re a problem and is actively trying to kill you.”
+
+“It’s actively trying to kill everyone,” Edmund snapped. “It’s a dungeon.”
+
+“Not entirely,” Liam replied. “If everyone who came in died, no-one would come in. The death rates are very optimized.”
+
+Edmund growled, “You mentioned that.”
+
+Liam clapped his hands a single time, holding them together just below his smiling face. “Anyway, the good news is if you do survive, there’ll probably be some real nice rewards at the end.”
+
+“Enough chit chat,” Edmund snarled, pushing himself to his feet against the protest of his now scabbed-over leg wound. “Let’s see what we’re up against.”
+
+With that he turned to the roots to his left, from which a short wooden spear still protruded. He bent down to peer through the gaps in the roots, finding the three-foot-tall corpse of some kind of plant creature behind them. He sighed. The thing was visible, but only by the loosest of definitions. No wonder the death rate had been so high. He could already imagine an unaware delver taking a spear to the leg and reflexively jerking away, right into the grasping roots of the opposite wall.
+
+The good news was, if the floor’s predators were ambush-based, Edmund would be relatively safe as long as he stayed put. He’d take advantage of that to gather as much information as he could.
+
+He stood, leveled his sword at the roots between him and his dead attacker, and started hacking.
+
+The comparatively long reach of the weapon meant his hands never got close enough to trigger the binding roots, but its rusty edge meant each root took several swings to fully cleave. He spent the better part of three hours heaving and sweating as he labored to clear the roots, but time was one of the few resources Edmund had in excess.
+
+When at last he’d cut enough of a gap to feel comfortable getting close, he kneeled down to examine the corpse.
+
+A humanoid the size of a nine-year-old greeted him, with green skin and verdant leaves instead of hair. It bled yellow sap from the two stab wounds in its torso, fortunate hits from Edmund’s perspective as he noticed the layer of bark protecting it from the waist down. Its weapon, the spear that had pierced Edmund’s leg, was unfortunately scaled for its size, and thus not much longer than Edmund’s sword. It would be useless to him.
+
+Just as he was wondering why the dungeon hadn’t yet absorbed the corpse, the ethereal floating text he’d come to associate with Madness popped into view.
+
+Strethian Tender
+
+These plantoid warriors dig tunnels beneath the root systems of trees they consider sacred. The roots protect them, and they protect the roots.
+
+Edmund blinked and the text vanished, leaving him with yet more questions. The description had mentioned tunnels, yet the tender he’d killed seemed to have been lurking in a gap between the wall and the roots. He didn’t see any tunnels.
+
+Scowling, Edmund craned his neck back to look up at Liam. The hallucination didn’t speak, but the slight upturn of his lip and the glimmer in his eye was all Edmund needed. The dungeon hadn’t reclaimed the body for a reason.
+
+Edmund grabbed the corpse by the ankle and tugged it away from the wall. It left a trail of sticky sap on the floor, but Edmund didn’t care. His eyes were fixed on the place it had hidden.
+
+A tunnel, less than three feet in diameter, revealed itself.
+
+“Well,” Liam said, “I guess now we know how they get around. I’m not sure that’ll help us spot future ambushes, but more info is always—what are you doing?”
+
+His sword belted and his dagger drawn, Edmund answered with his head and shoulders already in the tunnel. “Exploring.”
+
+Liam blinked, muttering just loud enough for Edmund to hear, “Madness, huh? You paragons are a special lot.”
+
+“What was that?”
+
+“You really are mad,” Liam clarified. “Who in their right mind crawls into a tunnel barely big enough to move in, let alone fight, when they know it’s teeming with monsters that can fight inside?”
+
+Edmund grunted. “They’re waiting in the walls to ambush me. If I can come at them from behind, they can’t do that.” He didn’t bother explaining further before lying prone and wriggling into the passage. Soft blue light illuminated the tunnel just enough that Edmund could make out the few feet in front of him, its source a mystery to the delver. No torches burned here.
+
+His lean and wiry form just barely squeezed through the tightest sections, his shoulders rubbing against the walls on both sides. The earth was damp around him, moisture from the soil mingling with the blood and sweat on his skin and seeping into what remained of his clothing. He pulled himself forward through the claustrophobic space with his elbows, Rat’s Fang clasped tightly in a reverse grip with his right hand.
+
+Should another Strethian tender appear, he would be ready to bat its spear away with his left arm before going in for the kill with his right. It wasn’t a good plan, but in Edmund’s experience, good plans fell apart just as quickly as bad plans.
+
+Liam didn’t follow him into the tunnel, the hallucination apparently above crawling through the dirt. Edmund welcomed the lack of distractions.
+
+Loose bits of stone and dead root mixed in with the soil tore at Edmund’s elbows as he moved, but he paid the minor cuts little heed. Now that he was in their tunnels, he couldn’t trust the tenders to simply wait in ambush. If they found him, he’d have a fight on his hand.
+
+But they didn’t.
+
+He found them.
+
+Four times as pushed on through the cramped tunnel did Edmund turn at a junction that led him directly to the exposed back of a tender lying in wait for an unaware adventurer to pass through the hall in front of him. All four died with a single strike from Rat’s Fang.
+
+The nature of the tunnel meant after each kill, Edmund had to shimmy backward until he reached the junction again and could take a different path, the space too cramped to turn around normally. Edmund readily accepted that bit of discomfort in exchange for the easy takedowns.
+
+By the fifth monster he killed, he began to wonder just how large this second floor was. By the seventh, he began to fear he’d never find the exit crawling around in the tender tunnels. Just after his eighth kill, Edmund found something better.
+
+The tunnel opened up into a broad, circular chamber, easily ten feet across, though short enough that Edmund couldn’t stand fully upright. He counted four additional tender-tunnels leading away from the room, but they didn’t hold his attention for long, competing as they were with the space’s dominant feature.
+
+A web of roots stretched along the floor and ceiling alike, gathering together from all directions to join with the thing at the room’s center.
+
+It had a humanoid face, soft and wrinkled and grandmotherly, yet green as any he’d seen on the tenders. Its eyes were closed, its expression that of peaceful slumber. The thing had no body to speak of, at least not in the way Edmund thought of bodies. Instead its face seemed to peek through a column of roots attaching it to the networks on the floor and ceiling. As Edmund drew his sword, Madness gave him a name.
+
+Strethian Rootmother
+
+He received no description other than the angry red color of the text and a golden crown that seemed to hover above the rootmother’s face for a few seconds before vanishing. Edmund didn’t know what that meant, but he had a guess or two.
+
+He drew his sword.
+
+The rootmother didn’t move.
+
+Edmund charged.
+
+The roots quivered beneath his feet.
+
+He swung.
+
+The column burst into action all at once. Four cordlike roots whipped out from four different spots to grab Edmund’s wrist mid-swing. Two more swept at his leg, leaving red scores across his left calf. The pain failed to even register through the haze of adrenaline.
+
+With his left hand, Edmund grabbed his knife, swiping it at the roots around his wrist. He failed to cut through them, but as yellow sap beaded on the spot he’d struck, the roots recoiled as if in pain.
+
+He pressed his advantage, stepping in even closer to swing with his sword one more. Dull as it was, it barely made a score in the column before bouncing off.
+
+The roots struck once more, six of them striking at Edmund like whips across his bare chest. Six red lines appeared where they’d passed. The attack didn’t force him back. It didn’t knock him over or scare him off.
+
+It did distract him long enough for the rootmother to grab his sword.
+
+Foregoing his wrist entirely, dozens of roots swept over the blade where it’d struck the column, wrenching it from Edmund’s grasp.
+
+Edmund jerked away, switching Rat’s Fang to his newly free right hand.
+
+The rootmother took the offense. A score of roots lashed out from all sides of the column, striking at Edmund from every direction. He kept his arms high, keeping the cords away from his throat as they cut shallow gashes all over his body. He let them.
+
+With his right hand he swept with his knife, catching three of the roots midair. Again he failed to cut through them, but again they recoiled.
+
+He stepped forward.
+
+Again the roots whipped at him, and again he warded them away from his neck at the cost of his body. Blood dripped down his brow, his back, his chest. It fell into his left eye, forcing him to shut it.
+
+He struck with his dagger again, drawing yet more beads of sap with Rat’s Fang. The rootmother seemed to shiver with each hit.
+
+But she wouldn’t go down that easy.
+
+The roots swept at him again, this time carefully avoiding his blade and body alike.
+
+Seven roots from different directions grabbed his left wrist, yanking his arm out of the way to expose his throat. Nine more wrapped around it.
+
+Panic laid claim on Edmund’s mind as he took one last desperate gasp of air before the roots crushed his windpipe. He swung wildly with his free hand, his knife biting into roots wherever it could.
+
+Even as they choked him out, the roots continued their barrage. A thousand whips dealt him a thousand lashes, each cutting deeper and deeper into his flesh. Still he fought. Still he raged. Still he claimed what blood he could with his dagger’s razor edge.
+
+But it wasn’t enough.
+
+However he writhed and kicked and cut, however many glancing blows he made with Rat’s Fang, the roots around his throat refused to budge. As his lungs screamed for air, his heart raced with adrenaline, and his body burned with the agony of a thousand lashes, consciousness began to slip away. First his struggling slowed. Then, as the weakness of his body finally overcame his will to fight, he stopped lashing out entirely.
+
+Only then did the darkness take him.
+
+Edmund came to to Liam’s face staring down at him with disdain.
+
+“You’ve really done it now,” Liam said.
+
+Edmund blinked the fog from his mind. “Done what?”
+
+Liam sighed. “If you didn’t have the dungeon’s attention before, you definitely have it now.”
+
+Edmund scowled. “I thought I already did. How else did I end up on a phased-out floor?”
+
+Liam didn’t answer.
+
+Edmund pushed himself upright, rubbing first his eyes and then sore back of his head where it’d struck the ground after he’d fallen. “What happened?”
+
+“See for yourself,” Liam replied, stepping aside with a flourish and he gestured to rootmother behind him.
+
+Two dozen fist-sized black spots littered the column of roots, from each of which stretched a spider-like web of jagged lines along the root network. They had just begun to crawl across the green, grandmotherly face when the rootmother had died.
+
+Edmund blinked. “What happened to her?”
+
+“You did.”
+
+Perhaps it was the fuzzy state of his recently-conscious mind, or the blood loss from his vast array of wounds, but it took Liam’s glance at the curved dagger on the ground for Edmund to realize what had saved him. “The pestilence damage.”
+
+Liam winked at him. “You might be simultaneously the luckiest and stupidest delver to ever set foot in this place.”
+
+“What does that mean?”
+
+“Besides being grossly under-leveled to attempt a dungeon at all?” Liam asked. “Maybe the part where you crawled into that deathtrap of a tunnel, except wait, that wasn’t even the stupidest thing you’ve done today. You managed to top that by running headlong into a fight with a rare boss that nobody’s managed to kill in the entire history of this Thrax-damned floor, only to actually fucking beat the thing.”
+
+Edmund stared wide-eyed at the hallucination. “I’m… I’m sorry?”
+
+“Oh, don’t be.” Liam’s mood flipped at the drop of a hat. “You’re remarkably entertaining.”
+
+Edmund sighed, deciding he’d had enough of humoring his hallucinations as he pushed himself to his feet. He approached the dead rootmother, wondering why the dungeon hadn’t yet reclaimed it. The matte gleam of rusted metal answered his question quickly enough.
+
+The damn thing still had his sword.
+
+With a sigh he stooped over to collect Rat’s Fang from where it’d fallen and went to work sawing at the roots that’d stolen his sword. He found them a lot easier to cut when they weren’t actively trying to kill him. As he worked, he peppered Liam with questions.
+
+“You said I killed a rare boss, what does that mean?”
+
+Liam shrugged. “It means what it sounds like. A boss is a uniquely powerful enemy for a given floor. Sometimes fighting them is required to progress, sometimes it’s optional. Rare enemies are just that, rare. Usually hard to find or otherwise out of the way, generally especially dangerous, and always optional.”
+
+“If they’re optional, why would anyone kill them?”
+
+“Spawn killing those rats for two weeks was also optional, but that didn’t stop you.”
+
+Edmund didn’t reply. Liam knew he’d needed that practice.
+
+Liam let out a long breath. “Check your constellation.”
+
+Edmund obeyed, lowering his knife and shutting his eyes to bring up his Aspects. Above the constellation of stars claimed, unclaimed, and undiscovered, floated a simple image. He recognized it immediately as the rootmother’s face. “What’s that?”
+
+“A sigil,” Liam explained. “Unlocked for accomplishing a difficult feat. They’re rare. Incredibly rare at such an early floor. The fact you’re the first person to beat this particular boss likely means it’s especially powerful.”
+
+As Edmund’s focus honed in on the sigil, a description popped up.
+
+Trailblazer’s Sigil of the Rootmother
+
+Non-intelligent Strethian lifeforms will treat you as an ally. Gain the ability to draw water and nutrients from fertile soil.
+
+Trailblazer bonus: draw water and nutrients from all soil.
+
+Edmund read and reread the tooltip three times before he managed to speak. “That’s incredible.”
+
+On the face of it, the sigil bore little combat utility, but the simple advantage of being hydrated and well fed could make a world of difference. Not having to worry about scrounging for safe food or water on floors that may or may not have had it was already a greater boon than he could’ve hoped for.
+
+“Sigils generally are,” Liam replied. “Be warned, you can only have three at a time. If you unlock a fourth, you’ll have to lose one. Permanently.”
+
+Edmund nodded, too excited about his latest ability to care about potentially losing sigils in the future. “Do optional bosses always drop sigils?”
+
+“No,” Liam said plainly. “Neither do all rare enemies. Rare bosses usually do, but again, not always.”
+
+“So why do people kill optional bosses if they don’t get sigils for it?” Edmund asked as he cut through the last root in his way and yanked his sword free.
+
+“Because,” Liam said, gesturing to the rapidly-disintegrating rootmother, “they do always get that.”
+
+As the column of roots dissolved into the floor, a small silver chest appeared where it’d stood. Edmund made a mental note of ‘bosses equal loot’ as he kneeled down to open it, resolving never to skip an optional boss if he had the choice. As he lifted the lid to the chest, his Madness generated a description of the simple-looking polished wood ring within.
+
+Lesser Barkskin Ring
+
+Increases skin toughness.
+
+He didn’t question the ethereal text before immediately slipping the ring over his middle finger. It fit perfectly.
+
+With a few hesitant flicks to his arm, Edmund felt somewhat tougher, but certainly not enough to stop a blade. He hoped his Madness would provide more details as he upgraded it, but the skill had already granted him a wealth of information. Aside from helping him find the tender-tunnel, the enemy and item descriptions so far had proved invaluable. Even Liam, as disconcerting as it was to converse with a hallucination, had proven a veritable wellspring of important knowledge.
+
+Madness being Madness, he did have to question the veracity of any bit of information it granted, but at least for the time being Edmund knew the ring was harmless. He recalled the passage from the pocket book on the subject.
+
+Cursed Loot
+
+Items in loot chests may not be cursed. Loot obtained through alternative methods cannot be cursed on the first ten floors. See accord 08159.74 for further details.
+
+Of course, Edmund had no idea what alternative methods there might’ve been to obtain additional loot, but he figured he’d know them when he saw them. He looked away from the wooden ring on his finger to ask Liam another question, but found he stood in an empty room.
+
+Liam was gone.
+
+Edmund figured he’d grown tired of answering questions, though he did wonder where else exactly hallucinations had to be. Adding that to his list of questions to ask when Liam next appeared, Edmund took one last look around the rootmother’s chamber and picked a passage by which to leave.
+
+The moment his bare chest touched the moist soil of the narrow tunnel, he felt a trickle of something flow through him. A moment later his belly felt fuller and his throat less parched. It seemed his sigil of the rootmother activated whenever his skin made contact with usable dirt. Edmund whispered a prayer of thanks for the boon.
+
+Similarly, thanks to his barkskin ring, the bits of dead root and stone mixed in with the soil no longer scraped and cut his elbows, making the entire tunnel-crawling process altogether more comfortable.
+
+He killed the first tender he found, slitting its throat as it lay waiting for an unwary delver to walk down the hallway in front of it. Shoving its corpse to the side, Edmund cut his way through the roots that hid the tunnel entrance—the task far easier when said roots didn’t try and grab him—and stepped out into the hall.
+
+He stopped to stretch his neck left and right, working out the stiffness that had built up after hours spent in quarters too cramped to stand fully upright, before deciding what to do next.
+
+With his new sigil, the roots on the walls no longer posed a threat, but Edmund had no idea if the tenders counted as intelligent or not, and he didn’t particularly like the thought of walking up to one to see if it stabbed him. He considered his two goals.
+
+The first, of course, was to clear the floor and find the exit, two goals which required further exploration one way or another. The second was to learn as much as he could before moving on.
+
+With the roots pacified, walking through the halls felt significantly safer. He’d open himself up to ambushes from the tenders, but if any of them took to moving about and found him crawling through their tunnels, he’d have no way to escape. At least in the halls he could move around.
+
+Similarly, he decided he’d learned all there was to learn from sneaking up behind the tenders, and while a potential fight within the tunnels might’ve provided some valuable practice, he didn’t fancy his odds of winning.
+
+On the other side, out in the hallways he could practice spotting tenders hidden in the roots, a skill at the moment he found somewhat lacking.
+
+Decision made, Edmund picked a direction and set off, carefully scanning the walls on both sides for signs of ambush.
+
+He didn’t spot his first tender until it was already within striking range.
+
+But it didn’t strike.
+
+“Huh,” Edmund muttered, blinking at the humanoid plant as it stared up at him. “I guess they aren’t intelligent.”
+
+With the roots and the tenders both pacified, as far as Edmund knew nothing remained on the floor to challenge him. For safety’s sake he kept a watchful eye as he progressed, but he no longer bothered to kill the tenders he found. Thrax knew how many of the things Edmund walked right past, but he did manage to start spotting them from further and further away.
+
+Denied any meaningful way to wring more practice out of the floor, thoroughness demanded he at the very least fully explore the maze of hallways. After the rootmother, he doubted there would be more secrets to find or new monsters to kill, but he wouldn’t know for sure unless he checked.
+
+Keeping his eyes open, he picked a wall and followed it exclusively until he found himself back at the floor’s entrance. Continuing along said wall, he made an entire revolution around the level until he reached the entrance again. Stopping for a moment to visualize the layout, he concluded there was an outer hallway that circled more halls in the center. Once he knew that, finding the unexplored section proved easy enough.
+
+True to expectation, no new traps or monsters revealed themselves, leaving Edmund somewhat confident he’d cleared as much of the floor as there was to clear when at last he found the exit.
+
+Unlike the floor with the rats, the door hadn’t opened when he’d killed the rootmother or cleared out the tenders. Instead, he needed only lay a hand on it for the invisible bell to chime, the loot chest to rise from the floor, and the broad wooden door to swing out and reveal the veil of shadow between levels. Apparently this floor’s clear condition was simply to find the exit.
+
+He forewent both the exit and the wooden loot chest to first claim his more exciting reward: another Aspect.
+
+He shut his eyes and envisioned the constellation of Aspects, thinking for a moment that many of them seemed to glow either slightly brighter or dimmer than they had a few weeks ago. Edmund wondered if that meant he’d changed as a person.
+
+Madness, of course, maintained its strange prismatic hue and blinding brightness, while most of the others flickered a dim gray. Edmund skipped right past the base Aspects, already knowing his optimal choice would be to combine Madness and Perseverance into their confluence. The resonance with which it shone confirmed his decision.
+
+It wasn’t yellow. Nor was it orange, nor brown, nor anything in between.
+
+Obsession glowed gold.
+
+That made two Aspects that resonated with colors Edmund had never heard of. Gold he could somewhat understand. He’d probably consider himself a man obsessed, and if there were levels of resonance beyond the colors of the rainbow, copper, silver, and gold all made sense. He supposed it was possible prismatic was beyond gold, but it was equally possible it meant something else entirely.
+
+Adding it to his list of questions for Liam, Edmund set the matter aside and locked in his choice. Just as before, the flickering golden glow solidified as Obsession joined with his soul.
+
+Edmund Montgomery Ahab
+
+Aspects Unlocked: 3
+
+Tier 1 Aspect: Perseverance - Gray Resonance
+
+Level 2 - Gain limited health regeneration.
+
+Tier 1 Aspect: Madness - Prismatic Resonance
+
+Level 2 - See beyond reality.
+
+Tier 2 Aspect: Obsession - Gold Resonance
+
+Level 1 - Gain strength and agility for each consecutive day spent pursuing your obsession.
+
+As expected, the two Aspects he’d combined had both gone up in level, though the increase in their power didn't show in their descriptions yet. As a second tier Aspect, Obsession was already more powerful than Perseverance, even without the difference in resonance.
+
+He found his newest Aspect’s description both his most detailed and disappointingly vague. Edmund had no idea how to quantify an increase in strength or agility, nor how much he’d gain for each day that passed. At least he knew his obsession.
+
+He was going to destroy the Eternal Depths.
+
+A part of him wanted to stay back, live and train on this second floor for some extended period of time simply to stack up Obsession’s bonus, but that irked Edmund for two reasons. Firstly, as long as he could survive, pressing further would always progress him faster. Secondly, he had no idea where the Aspect would draw the line between actively pursuing the dungeon’s end and waiting around for Obsession. If he waited around for a day longer than he felt he truly had to, he risked losing his streak. Edmund made his mind up then and there.
+
+He had no intention of resting until he’d accomplished his goal.
+
+Happy with his progression, he set his sights on the loot chest. It was wooden again, like the one on the first floor rather than the silver one from the rootmother. He knew that meant his barkskin ring was more powerful than Rat’s Fang or the piece he was about to get.
+
+He opened the chest.
+
+The first item he spotted was a coil of rope wound from the cordlike roots that coated the walls. Edmund needed only stare at it for a few seconds to summon the ethereal text.
+
+Strethian Lash
+
+When swung at a target, strands of root will unravel and attempt to grasp it.
+
+Edmund slipped the coil over his shoulder with a manic grin, already imagining a dozen uses for the lash. He’d spotted at least eight different merchants selling both magical and mundane varieties of rope back in dungeon square, but had been unable to afford any at the time. He’d make good use of this.
+
+Beneath the coil sat what at first glance seemed to be a pile of tree bark, but once Edmund lifted it, it unfolded into a pair of pants. He imagined wearing them he’d look quite a bit like the Strethian tenders had with their unclothed torsos and bark-covered lower halves.
+
+Strethian Barkbreeches
+
+Provides protection against physical damage. Vulnerable to rot and fire damage.
+
+Edmund didn’t hesitate to disrobe and don his new leg armor. He would’ve preferred something to replace his long-destroyed shirt, but torn and bloodstained as his pants had been, they wouldn’t have lasted much longer anyway. He’d take what protection he could get.
+
+His loot equipped, his Aspect chosen, and the exit open before him, Edmund stopped to take one last look around the maze of earth and roots. He thought back on his discovery of the tender tunnels and the fight with the rootmother, resolving to be more careful in the future. If Liam was right and he did have the dungeon’s attention, he shivered at the thought of what that might mean.
+
+With a satisfied grin, a hand resting on the coil of rope around his shoulder, and the barest hint of pride at the rewards he’d won, Edmund took a deep breath, squared his shoulders, looked ahead, and stepped into the darkness.

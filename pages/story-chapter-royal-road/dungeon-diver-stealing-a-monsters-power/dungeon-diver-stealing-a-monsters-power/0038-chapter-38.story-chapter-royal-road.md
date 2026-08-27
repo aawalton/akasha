@@ -1,0 +1,193 @@
+---
+id: c07454f6-e315-5915-a16f-c72b806a4358
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38"
+slug: 0038-chapter-38
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 38
+ownLength: 1602
+unit: words
+ownProgress: 1602
+publishedAt: 2023-02-24
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1122292/chapter-38"
+royalRoadId: "1122292"
+markedReadAt: "2026-06-29T20:33:07.141Z"
+---
+
+I headed off in the direction Rei pointed.
+
+I was alone in the city now.
+
+It feels so nice to be alone in places where no one knows who I am. I love the feeling of being anonymous until I decide not to be.
+
+Anything I do or say in public will be forgotten in the wind moments later. I'll never see anyone here again unless I make the conscious effort to do so.
+
+This city makes me feel free.
+
+I walked for about 10 minutes with a wide grin on my face, then I arrived at the residential district.
+
+It was definitely a tourist filled area, but that's what I am too. Most of the buildings were 5-10 stories tall. Some were older looking, others were newly built and higher class.
+
+I walked towards one that seemed to be in the middle range of affordability. I want to stay somewhere nice, but not too pricey.
+
+The building was tall and grey with bluish white windows. I walked through the front door and was immediately greeted by a short man with a button up vest and a long black gelled mustache that protruded from his face on either side.
+
+He was sitting behind a long wooden check-in desk.
+
+"Welcome to the Element Inn, how can I help you today Sir?"
+
+"I'd like to get a room. A single, nothing special."
+
+The man nodded and looked at a pile of papers.
+
+"Our going rate is 1 silver a night, how long would you like to stay?"
+
+"1 silver a night?? I-Uhm, could I get a discount for staying a full week? I'm new to the city."
+
+He nodded and sifted through his papers again. This is clearly tourist pricing, they're making a killing. It wouldn't hurt to ask for a little discount.
+
+"A single bed and bath, I can do 5 silver for a 7 night stay. You'll be on the top floor."
+
+"Great."
+
+I smiled and counted out 5 silver on the table in front of me. This hotel is pricey... Honestly this whole city is pricey. I need to start making some money, I'm almost out of the reserves i brought with me.
+
+The Inn keeper took my silver and handed me a key. It had dark black letters printed on it "1011".
+
+"Tenth floor, room 11. There's an elevator around that corner. Maids will come to clean your room everyday at noon, checkout is 7 days from now at 11am. Got it?"
+
+"Yes. Thank you."
+
+I walked away from the man waving as I got in the elevator.
+
+He didn't even ask for my ID. That was odd.
+
+*DING*
+
+The elevator stopped at the 10th floor and I stepped out to walk down the hall towards my room.
+
+I twisted the key and walked inside.
+
+It was actually a bit nicer than I expected. There's a large bed in the center of the room and a bathroom with a shower included.
+
+The linen on the bed is white and a lamp stood on the bedside table next to a large glass window that filled up the entire back wall of the room.
+
+The window had a slight bluish tint. I guess that was just the hotel's aesthetic, It looks pretty modern.
+
+The view outside the window is a pretty amazing. The sun is setting, I can see all the neon signs and outlines of people walking around in the residential district.
+
+Off in the distance I can see the train station and the huge market center. Every direction I looked is eventually blocked by massive silver skyscrapers in all directions, but overall its a really nice view.
+
+I placed my new sword up against the wall and undressed to get in a nice hot shower.
+
+The water pressure at this Inn was amazing. The hot water never ended, I haven't felt this relaxed in a while.
+
+Afterwards, I flopped into bed and watched the sun set completely behind the city's skyline.
+
+What a day.
+
+As I fell into a peaceful sleep I thought about a few things.
+
+Tomorrow I'm going to start slow. A medium grade D Class Dungeon will be a perfect warm up for this week.
+
+I need to find a good merchant at the market to start buying and selling Mana crystals and potions too.
+
+Once I get the hang of things here I have 3 main goals.
+
+The first and most urgent goal is to start making money. I'm sure it won't be too hard to farm loot.
+
+The second goal is to level up. I had a nice day off today, but I feel stagnant when I'm not getting stronger.
+
+Lastly, I need to start farming skills. I finally have the option to dive into many dungeons all in the same place. This is where my absorption skill will start to show its true potential.
+
+After a nice long rest I woke up to the rising sun.
+
+I was out the door and ready for an exciting day minutes later.
+
+My first stop was the market. It took me about 10 minutes to make my way over. It's even more crowded than yesterday, all the early morning hunters are here to stock up on gear.
+
+I strolled around for a few minutes until one shop caught my eye.
+
+It looked a bit run down, but that's what I'm used to. The gear on the shelves looked perfectly new, it was just the shop itself that showed some wear and tear.
+
+"How ya doin kid."
+
+The old store owner approached me while I was looking at his merchandise.
+
+I couldn't help myself from smiling. He reminded me of the old merchant back home, I like this place more already.
+
+"Hey, you have any E Class potions? I need an MP and an HP."
+
+This is almost the last of my money, I hope I can get some D class potions after a few successful dungeon raids.
+
+"Sure thing kid, 2 silver."
+
+I placed 2 silver on the counter and nodded.
+
+The old merchant handed me my potions and I placed them in my item box.
+
+"The name's Roger by the way. Good luck out there today."
+
+"Thanks! Im Jay. Nice meeting you!"
+
+I waved and walked away. That seems like the shop I was looking for. I'll come back there later today to sell my loot.
+
+Now it's time to make my way towards the Dungeon Hub.
+
+The large black building was swarming with hunters today. I made it inside and showed the guard by the D Class Dungeon escalator my ID.
+
+Just like that I was through. Minutes later I made it down to the subway platform and was very surprised to see so many people at the station.
+
+There were a ton of groups in the center platform yelling out all kinds of things.
+
+"2 Tanks needed, we're raiding the golem boss for exp today!"
+
+"Loot focused raid! Healing Mage needed as soon as possible!"
+
+"Any combat magic users?? We're raiding for exp today! Will pay for boss kills if you can carry!"
+
+There were all types of teams forming. Many jobs were being advertised and filled. This is much more organized than the E Class platform.
+
+I walked further in to check out the list of dungeons. There were over two dozen middle grade D Class ones available nearby. I scanned the list and tried to pick something out. It was hard to choose.
+
+I stood there with my hand on my chin for a moment until I heard a girl's voice behind me.
+
+"Hey Swordsman! We're raiding the troll dungeon today. Loot focused, exp isn't the priority. We average 5 silver each for an 8 hour raid, interested?
+
+I turned around to see a light skinned girl that looked a bit older than me. She had dirty blond hair and wore dark clothing. She was no more than 160cm tall and had a long silver sword on her back.
+
+A man stood beside her. He had the same colored hair and wore very similar battle gear. His facial features were very feminine and his frame didn't carry much muscle. His skin was very pale and he stood 170cm or so. He didn't carry any weapons.
+
+They were an odd pair. I used inspect out of curiosity.
+
+The man had a [Lv. 136] over his head, and the woman's blue text read [Lv. 151].
+
+They're about my level, and they probably know a lot more than I do about this city's dungeon system. If all the need is my strength, it'll be a good deal for me. 5 silver a day is solid as well.
+
+"Sure. The Troll Dungeon is a medium grade rating right?"
+
+She nodded.
+
+"Yep. You're quite quick to agree, very trusting. Not from around here are ya?"
+
+I shook my head.
+
+"Nope. You got me."
+
+She smiled.
+
+The man beside her still didn't say a word.
+
+"Well, the train is about to arrive. A team of 3 will do the trick. Let's make some money. No boss fights, we're just farming regular trolls today. We split the mana and special drops 3 ways, no exceptions. Sound good?"
+
+I nodded in agreement and walked with them over to the platform's edge as a train arrived.
+
+"Screeeeeeech"
+
+We boarded and were off to the troll dungeon just like that.
+
+Maybe I am a bit too trusting...
+
+For some reason I had a good feeling about these two. I don't think they're here to do me any harm.
+
+I wonder what this raid will be like? I've never seen a troll before.

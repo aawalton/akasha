@@ -1,0 +1,225 @@
+---
+id: 4b1ae657-35e2-54b6-9bf7-478798debdc9
+page-type-slug: story-chapter-royal-road
+title: "266: Ten Points"
+slug: 0266-266-ten-points
+partOf: delve
+position: 266
+ownLength: 3523
+unit: words
+publishedAt: 2024-08-18
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1763522/266-ten-points"
+royalRoadId: "1763522"
+---
+
+The push into the heart of the Adamant Empire took the remainder of the night, the dual revelation that Lavarro was both alive and working for the Adamant Empire dominating the conversation for much of it. Eventually, however, with the culling army behind them and no way to get more information about the rogue Force Mage short of landing—which would have been tantamount to suicide—topics had shifted back to what they saw below them.
+
+Having stayed at his post for all but a brief nap, Jamus had been the one to observe most of it. The night was dark, but not so dark he’d been unable to spot the lights of cities and the shadowy telltales of mysterious constructions between. Shu hadn’t been to this part of the Empire, let alone seen it from such a vantage, but he’d nevertheless been able to identify most of it by description.
+
+The first notable mega-project they’d passed was an open pit mine. Not a delving, just a mine, but one that had to be over two kilometers in radius. Right next to that was a forest that was not a forest, but a farm, like the one in Three Cliffs, but oh so much larger. Row after row of trees, grown by magic, harvested by a veritable army of Undama with enchanted axes and an even larger army of slaves without, all to be turned into charcoal. That, in turn, fueled the forges that smelted the ore from the mine. To keep this massive workforce fed, there was a magically cooled and hydrated greenhouse complex where hearty food was grown year-round in defiance of the local aridity.
+
+A few hundred kilometers later, they’d neared what Shu had declared to be the northern training ground. What it looked like was a battlefield, tents pitched in fortified groupings here and there across the blasted landscape, each encampment large enough to house a full battalion. And there were many encampments. According to Shu, the northern training ground was said to host ten thousand unawakened recruits—training, preparing, and fighting each other in endless war games to decide who’d be given the chance to do it for real. And it wasn’t even the largest such facility in the Empire, just the largest north of the desert.
+
+And all of that was just what they had found in one small stretch of land no wider than the distance between Fel Sadanis and Vestvall. They were still far from Pridestone and the industrial heart of the Empire.
+
+Other places in the world took on such projects, Jamus knew. Rellagia, for example, was not dissimilar in the scale of its unawakened armies, though there they fought each other for real. In the DKE, Oman had been a great exporter of food, the Citizen sharing the city’s name having built up his own small army of Nature Mages. But that was just one city.
+
+What differed here was the scale.
+
+How the Adamants had not already conquered the world, Jamus could not fathom.
+
+And so, with the sun starting to rise and a towering gyre of clouds on the horizon, he decided to do the scholarly thing and find out.
+
+“Hey, Shu?”
+
+“Yes? Do you see something?”
+
+“Nothing but cloud,” Jamus said, smoothing his still-incomplete map before closing his notebook. If there was one thing this flight had made apparent, it was just how terrible the rest of the maps he’d seen were when it came to the Empire’s interior. He was no longer remotely concerned about his coming out worse.
+
+Looking up, he found Shu had craned his neck around to look at him, so he quickly clarified. “We are still too far for me to say if it’s the Maelstrom for certain, but on the chance that it is, I have a question to ask before things become exciting.”
+
+“Ah,” Shu said, looking forward again. “Ask.”
+
+Jamus glanced over his shoulder at Tarny, who was piloting again. Staavo was below, either resting or checking on the ship’s systems. Tarny seemed indifferent to the conversation, so he forged onward. “Where does it all go? The food, the ore, the weapons, the soldiers. All of it. How can the Empire produce so much and not overflow its borders just from the mere accumulation of stuff?”
+
+“Ah,” Shu said, going silent for a long time. “I believe it is two things. First, you have never met a Dimae.”
+
+“Your nobles, right?”
+
+“Nobles with extra steps,” Shu said, the unexpected Rainism making Jamus chuckle. “They are the wheat from the chaff,” he continued. “The gold from the tailings. The exceptional few, elevated from the masses through martial skill. They are given privilege as befits their station. That privilege is inherited for one generation, like given their chance to prove as like.”
+
+He sighed, waving a hand without looking back. “In practice, likeness is always proven, and in that proving, the privilege propagates. Even before my defection, I had come to see social elevation as a lie to control the masses. Undama beget Undama, Dimae beget Dimae, and Pexus beget Pexus. The advantage of parentage is too great for one such as me to overcome, even having been granted my own small measure of privilege at Danton’s Spar. But this is not what you asked.”
+
+Shu paused, taking a moment to collect himself before he continued. “You may think of Dimae as nobles, for it is close enough, and Pexus as nobles above them. The thing to understand is how the higher classes live. When not on campaign, they enjoy lives of opulence and excess that would shock our resident Sea King into embarrassment over the inadequacy of what he names luxury. The southern cities, particularly Pridestone, adhere to the Principle of Excellence through Excess. The idea that to have the best of a thing, you must sift and winnow and discard. In practice, there is little excellence. Only waste.”
+
+“Oh?”
+
+“Indeed. Newly minted Dimae are different, still serving in the army and upholding the ideal that earned them their place. As they retire and it comes time to reap their reward, they degrade. The rot worsens with each generation in the same way that children are ruined by overly doting parents. Softness is antithetical to the philosophy of the Empire, yet it rests soundly at its corrupted core. In my time outside its borders, I have grown to appreciate foreign nobles. Simple. Uncomplicated. They, at least, are honest about what they are.”
+
+“It still doesn’t seem like enough to explain the Adamants’ lack of expansion,” Jamus said, rubbing his chin. “Prior to the war, of course. What was the second reason you mentioned?”
+
+“The land is shallow,” Shu said. “It takes a mountain of iron to forge a pebble of adamant, as the saying goes. Whether a natural fissure such as the one in Vestvall, or one created through the toil of generations such as the Great Delving, there is no easy access to the depths in the Empire’s historical bounds. What strength they have, they built without the bounty of the deep.” He sighed, bitterness clear in his voice. “We were taught that the northern lands are rich with Blues and that the evil Citizens—“
+
+“Sorry to cut this off, but are you two seeing this?” Tarny asked, wrestling the controls as another tremor shook the ship. Droplets of sleet had started to ping against the fuselage, the agitated clouds stretching even above their impressive altitude.
+
+“I am seeing it,” Shu said, his tone changing to one of shock. “This storm is both larger and further from us than I believed.”
+
+“I don’t see any cracks in reality,” Jamus said, setting his eye to the scope again. “Just a wall of wind, and...oh! Lightning.”
+
+“Gods, this is insane,” Tarny said. “No wonder it’s raining in the DKE. How much water is it throwing up? Where is it all coming from?”
+
+“The land, I think,” Shu said. “The desert seems... We may not be as far south as we thought.”
+
+Suddenly, Staavo’s voice came from below. “Tarny! What do you have for gas pressure?”
+
+Jamus blinked, tearing his eyes from the storm. He looked back at Tarny in time to see the Beacon go pale.
+
+“Dropping fast!” Tarny shouted, the ship lurching wildly as they were hammered by the strongest gust yet.
+
+Jamus would have flown out of his chair if he hadn’t been strapped to it, and a loud thunk and a curse told him that Staavo hadn’t been so lucky.
+
+“Core’s kicked it!” the old scholar called, proving he was okay for the moment.
+
+“Pressure’s dropping even faster now!” Tarny shouted, the ship tilting as he steered them into a banking turn. “That’s not— Is the tank—?“
+
+“The tank’s fine; the fucking gas is breaking down inside it!” Staavo yelled.
+
+And he’d had to yell, as the roar of the wind was growing louder. The Muffle runes were failing too, it seemed.
+
+Rain’s Radiance anchor mounted to the communications console started to flash urgently, and his eyes snapped to it.
+
+L...o...s...i...n...g......c...o...n...n...e...c...t...i...o...n
+
+I...n...t...e...r...f...e...r...e...n...c...e...
+
+A...n...c...h...o...r......i...n...t...e...g...r...i...t...y......d...r...o...p...p...
+
+“Rain’s losing his anchors!” Jamus yelled without waiting for the remainder of his message.
+
+Staavo staggered into view, blood dripping from a nasty scrape on his forehead.
+
+“Shit!” Tarny swore, the lights flickering as another gust struck. “Are you okay?”
+
+“Just a bump,” Staavo said gruffly. “I’ve had worse getting out of bed.”
+
+“You were correct before, Staavo,” Shu said flatly. “I do know it, now, the fact that we are going to die.”
+
+“Not the time for Adamant humor, Shu,” Tarny said as the deck rolled beneath them. “Okay, I’ve got us turned around. We’re headed away from it.”
+
+“We’re still losing altitude,” Staavo said, blood pattering to the floor as he watched Tarny’s instruments over his shoulder.
+
+“Both engines have lost power,” Tarny said as the lights flickered once more, then died. “Gas pressure zero. I think the batteries degraded as well. They had alchemical components. Controls are still responding, at least. Good thing we never installed those hydraulics.”
+
+“Shit,” Staavo swore, slamming a hand against the bulkhead. “If the core doesn’t restart, we’re fucked.”
+
+“So go punch the core instead of the wall,” Tarny said. “Jamus, get to comms. Signal Rain. Tell him we may be going down.”
+
+“On it,” Jamus said, unbuckling himself as Staavo retreated once more.
+
+Rain’s anchor was still flashing, though its light seemed feeble. The message was just an urgent request for their status. Thankfully, the turbulence lessened as they transitioned into a long, silent glide, but by the time Jamus got the stone board set up and relayed their status, Rain’s anchor had cracked. In the conversation that followed, he learned to his horror that it and the Detection anchor were the only two left. Worse, they were still degrading, no matter how hard Rain tried to keep them together.
+
+Indeed, in the middle of Rain’s next frantic series of instructions, the Radiance anchor shattered with one final flash, the fragments of crystal going dark. The Detection anchor might still have been working, but there was no way to tell.
+
+“What is it?” Tarny asked as Jamus looked up, seeing the horizon looming much larger out the windows. “What did he say?”
+
+“We’re on our own,” Jamus said, his mouth dry. “The Radiance anchor just failed, and if Detection hasn’t, it will soon. We’re to... He said we’re to find an isolated spot in the desert. After that, I don’t know. He got cut off.”
+
+“Core’s junked,” Staavo said, returning before Tarny had a chance to respond. “Can’t tell what’s wrong with it. It’s just dark, and the emergency restart isn’t working.”
+
+“Do not take us directly east,” Shu warned. “There are settlements that way. If we fall too low, we will be seen.”
+
+“Acknowledged,” Tarny said, the ship gently turning as he worked the controls.
+
+“Will we be able to land, do you think?” Jamus asked.
+
+“I don’t think we should,” Staavo said, rummaging through one of the lockers and emerging with a health potion. All of them could immediately tell something was wrong with it. Instead of a brilliant red, it was a murky brown.
+
+With another muttered oath, Staavo cast the spoiled potion away. They all jumped as the potion glass—which should have been up to such abuse—shattered on impact with the bulkhead, filling the cabin with a rancid scent.
+
+“Well then,” Jamus said, patting his pockets. He pulled out two potions of his own, finding that they too had gone brown and cloudy. He couldn’t even tell which had been mana and which had been health. Rather than throw them aside, he simply tucked them beneath his seat.
+
+“My equipment seems to be fine,” Shu said.
+
+“Mine as well, that I am wearing,” Jamus said, touching the stud in his earlobe, then summoning his status book to double-check. Pages turned, showing that the earring’s enchantments were still fully functional.
+
+“Here,” Tarny said from the controls, and the warmth of Summer hit Jamus like a wave. “Some regeneration is better than nothing.”
+
+“Thanks,” Staavo said, unscrewing a ring from his finger and inhaling as the overhealth hit him. He slipped it back on and wiped the drying blood on his forehead, revealing unbroken skin. “It probably has something to do with souls. Anything we were wearing in an item slot was protected. Everything else...”
+
+Tarny clicked his tongue. “Perhaps. What did you mean, Staavo, we shouldn’t land?”
+
+“It does not appear that we have a choice,” Shu said.
+
+“We can choose how gentle it is,” Staavo said. “Even broken, the Empire could learn all kinds of things from this ship that we don’t want them to. They already have titanium, so at least we don’t have to worry about that. No, I say we pitch down and plant the nose straight into the biggest rock we can find.”
+
+“I do not like this plan,” Shu said.
+
+“We eject first,” Jamus said. “We have parachutes, and once we’re below five kilometers, Levitate should become functional once more.”
+
+“I am aware of the contingency procedures,” Shu said. “I still do not like this plan. Will the ship not crash on its own?”
+
+“How far from here, though?” Tarny asked. “If we send it straight down and parachute after it, we’ll be able to get to it and finish the job before anyone comes to see what caused the explosion.”
+
+“I suppose,” Shu said. “I would still prefer a gentler landing, even if we must brave it without the captain’s Wards.”
+
+“Too risky,” Staavo said. “This ship’s not designed to land without power, especially not now with the hull enchantments fried.”
+
+“Ah, I had not considered those,” Shu said. “I retract my complaint.”
+
+“Well,” Jamus said, staggering to his feet. “If we’re going to bail out, we should be quick about it. Gather what you can, then meet in the cargo bay.”
+
+“No, we meet back here,” Tarny said. “We go out through the windows. I don’t like the odds of someone rigging the controls and making it out through the hold before we hit. The glass will have weakened just like that bottle.”
+
+“I find myself wondering why it hasn’t broken already,” Shu said, now unstrapped and shoving various items into his pack.
+
+Tucking the stone board under one arm, Jamus hustled for the stairs. Once down, he joined Staavo in going through the various compartments, prioritizing food and water over all else. There wasn’t much else to take, really, though Staavo apparently thought otherwise. After smashing the core out of its housing and tucking it away in his pack, he pivoted and began ripping cabling out of the walls.
+
+Recognizing that the heavy wire could be used as rope if nothing else, Jamus went to help, grabbing whatever tools and scraps of equipment might be useful for things other than their intended purpose. Last, he snagged the Ranks board and shoved it in his pack before toting it and a pair of chutes up the stairs.
+
+Once he was strapped up with his parachute on his back and his pack on his front, he held the stick for Tarny. The Beacon locked the rudder and clambered out of the chair, and not long after that, they were all ready.
+
+“Here,” Staavo said, tossing a large, two-handed mallet to Shu. “Go wild. If we get split up, meet at the crash site.”
+
+“Watch your eyes,” Shu said, advancing with the hammer.
+
+One gentle tap was all it took, and the whole pane he’d struck shattered, exploding outward. Only then did Jamus realize that the cabin had held its pressure through all of this, though the sudden outflow had already reversed with the wind rushing in.
+
+“Levitation?” Tarny signed from near the opening, catching Jamus’s eye.
+
+“Still too high,” Jamus signed back after trying and failing to get a response from the spell. He placed a hand on Staavo’s shoulder and yelled in his ear. “You three go with the parachutes! I’ll rig the ship! I’ve got the best chance of surviving if something goes wrong!”
+
+Staavo nodded, then offered up a loop of cable and shouted as he gestured to the flight stick. “Tie it before you jump! We have to make sure it hits hard!”
+
+“Understood!” Jamus yelled back. “Now go, all of you!”
+
+“See you on the ground,” Tarny signed, then moved Shu, who had climbed up into the broken window and was clinging with both hands. All of them had done a test jump back at base in preparation for this mission, with Ameliah there to catch them if something went wrong, but there was a big difference between that and this.
+
+It almost came as a surprise, then, when Shu glanced back only once before crouching down and hurling himself into free space, just barely missing the wing as the air caught him and dragged him away. Tarny went next, then Staavo, waving goodbye with a cheeky salute before casting himself into the unknown.
+
+With no real way to aim for a rock as suggested and no reason to linger, Jamus quickly looped the cabling around the console. He slipped a coil over the stick, braced himself, then yanked hard.
+
+The deck pitched sharply, and he nearly lost his grip before he got the controls secured. Only thanks to the Strength enhancements on his earring did he manage to make his way to the broken window, fighting gravity, wind, and the craft and its contents tumbling around him. Once he got there, it was less that he jumped and more that he was hurled free.
+
+Unfortunately, a jagged piece of glass ripped into his pack on the way out, and his chute instantly deployed. With no chance to scream, the expanding fabric hauled him straight into one of the freely spinning props.
+
+It did not feel great, to be honest.
+
+The real problem, though, was that he’d become tangled. As he recovered from the brutal impact—mostly absorbed by his health—he found himself being towed toward the ground at alarming speed by the falling mass of metal.
+
+A tremor ran through him as Levitation came into range, and he immediately activated the spell only to blast the breath out of himself by the straps still wrapped around his chest. In the game of rope tug between his magic and the ship, his magic had plainly lost.
+
+His hands moving with speed and surety, Jamus deactivated the spell and pushed aside panic. He began searching pockets of his robe, a task made difficult by the way it and his jacket were being whipped by the wind. Finally finding what he wanted, he proceeded to demonstrate why no adventurer worth their plate ever went anywhere without a pocket knife.
+
+The straps parted easily before the well-maintained blade, and then he was loose, but by then, the ground was very, very close.
+
+Levitation!
+
+Slowly, ever so slowly, his rate of descent decreased, and yet the ground was still hurtling toward him. Before long, Inconceivable struck with force enough to have hit the damage limit for sure, detonating in a hail of metal scrap and broken rock, and yet still he fell.
+
+It was only after another fifteen or so seconds that the wind began to truly die down. Those fifteen seconds felt like they’d taken as many years off his life.
+
+His toes were no higher from the dirt than the roof of Staavo’s old tower when he finally neared equilibrium. He swiftly started to resist his own spell lest he be sent hurling back into the sky, and before he knew it, he touched down, barely even having to bend his knees.
+
+Jamus smoothed his jacket over his robes, ignoring the frantic beating of his heart as he looked up for his companions. He spotted first one chute, then another, and finally the third, all drifting down slowly after him.
+
+Heaving a great sigh of relief, he saw something else that made him pause. Smiling despite everything, he took three calm steps forward, extended a hand, and snagged his hat out of the air before it could hit the ground.

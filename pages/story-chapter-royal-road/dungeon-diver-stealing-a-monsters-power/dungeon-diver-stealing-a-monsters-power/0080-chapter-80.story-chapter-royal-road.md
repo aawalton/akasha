@@ -1,0 +1,339 @@
+---
+id: d10f1bf3-8753-5d55-b219-a9432f92e038
+page-type-slug: story-chapter-royal-road
+title: "Chapter 80"
+slug: 0080-chapter-80
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 80
+ownLength: 2368
+unit: words
+ownProgress: 2368
+publishedAt: 2023-04-07
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1161903/chapter-80"
+royalRoadId: "1161903"
+markedReadAt: "2026-06-29T20:34:34.281Z"
+---
+
+[Test 1][Time Remaining: 46 Hours]
+
+As we walk further into this new forest dungeon the trees get thicker and the soil becomes rockier. I can still see the sky overhead, but it’s a huge change of pace from the meadow-like dungeon we just departed from.
+
+Maria and I continue jogging at a steady pace through the forest. About 20 minutes into our trek we hear movement in front of us deep behind a patch of thick green leaves.
+
+I use inspect and enemy detection.
+
+[30m]
+
+[Lv. 44]
+
+[Lv. 51]
+
+Moments later, two large hobgoblins come running into our vision with their swords pointing at us. They stand over 2m tall, have light green skin, hold long silver swords, and wear rags for clothing.
+
+Maria and I sprint forward and slice them both in half without activating an ounce of magic.
+
+We continue running forward like nothing happened.
+
+After another hour and a half, and 4 more hobgoblin encounters, we finally make it to the boss room portal. I turn to Maria.
+
+“Seems like the teams are getting pretty spread out. We only saw one in this dungeon.. and it was at the very beginning!”
+
+She nods.
+
+“Yeah, maybe that camping team thinned the crowd in front of us and we’re just outpacing the crowd behind for now.”
+
+“True, you’re probably right…”
+
+“You ready?”
+
+“Ready.”
+
+We jump through the floating grey portal and enter the floor 2 boss room.
+
+The ground is hard, and the light is dim. It feels exactly like the previous boss room, just with walls completely made of stone.
+
+Footsteps begin to sound as a 3.5m tall mutated hobgoblin appears.
+
+I use inspect.
+
+[Lv. 68]
+
+Before it can even let out a roar, Maria runs forward and cuts it’s head clean off. She turns back to me.
+
+“Two down, eight to go!”
+
+I nod slowly, then let out a small laugh.
+
+A few moments later the corpse disappears and the white light appears transporting us into a new dungeon.
+
+I open my eyes to see a unique sight.
+
+It’s a wasteland….
+
+The ground feels soft and wet, but still easy to walk on. There’s very minimal plant life here, and the soil is an off-putting reddish-purple color. The entire landscape is full of mildly sloping hills with no trees in sight.
+
+As I look up, the sky is grey with a hint of blue… This dungeon is depressing…
+
+“Let’s walk this one. I think conserving energy would be the best thing to do right now.”
+
+Maria nods and we walk forward into the dungeon with caution. The moment we do, I hear a rumbling in the distance.
+
+I use enemy detection and inspect. Instantly, I sense over 20 monsters running our way between levels 70 and 100.
+
+“Here they come!”
+
+Maria replies.
+
+“Already??”
+
+We both grip our swords tight and get ready for whatever beasts are about to show their faces….
+
+The rumbling gets closer. It sounds more like hundreds of footsteps now. I can hear clicking, scurrying, squealing, and scraping sounds coming closer and closer.
+
+Then on top of a small hill in front of us, a wave of giant rats appear…
+
+My stomach drops.
+
+I’m not scared of them because I think they’re dangerous… these things… just look disgusting….
+
+Over 20 fat brown rats crawl over the top of a dirt hill and charge toward us. I can smell rotting flesh from here. They have beady red eyes, long pink noses, crooked white teeth, matted brown hair, and scar-covered fleshy tails.
+
+They’re over 2m long…
+
+I look at Maria. We both gulp and run at the wave of rodents.
+
+I ignite into a ball of flames and Maria begins to create a barrier of Ice fragments all around her. I swerve off to the right, and she takes the left. Together, we release a wave of magic up the hill of rats and obliterate them all in the blink of an eye.
+
+We continue our charge all the way up the hill, not stopping until every last one of them is frozen solid or burned to a crisp. Once we make it to the top I activate enemy detection again, and widen my search distance.
+
+“There’s… thousands of them… everywhere…”
+
+I can sense groups of rats piling together across the entire dungeon. Doing so used up a bit of MP, but I’ll manage. It let me pinpoint a few other teams as well. It looks like there are 7 other parties in here with us. Their numbers vary, but none are too close by.
+
+I turn my head to a far corner of the dungeon as I sense an odd presence. It’s kind of strong… but is definitely not a hunter. I point in its direction.
+
+“Let’s make a quick detour, I’m curious about something. I might pay off.”
+
+Maria looks up at me.
+
+“Okay, fine with me.”
+
+We turn and begin to trek toward the odd presence.
+
+After traveling about 1km off track, we finally near our destination. There were 3 more waves of rats along the way, all increasing in size. Our last ambush consisted of over 50 rats.
+
+They’re easy to kill, but pretty hard on the eyes…
+
+I point to a large dirt hill in the distance.
+
+“That’s it. We’re here.”
+
+The moment I open my mouth, the beast I was looking for appears.
+
+I use inspect.
+
+[Lv. 143]
+
+“Nothing special… but we’re getting somewhere.”
+
+On top of the hill stands a massive mutant rat. It’s easily 4m long and covered in scars with dark black matted hair. There seems to be a glowing white light behind it as well. It’s making the rat stand out in this gloomy environment.
+
+I grin and run at the monster. It screeches and a wave of rats appears behind it. There are easily a hundred of them…
+
+I burst into a ball of fire and begin massacring the wave. Maria follows close behind and begins freezing dozens of them at a time as well. Every time I land a hit with my sword I use plunderer to restore my MP.
+
+Moments later, we both make it to the top of the hill leaving trails of fire and ice behind us.
+
+*SHINGGG*
+
+In perfect synchronicity, Maria and I cut the mutant rat into pieces. We stand on top of the hill admiring our handiwork.
+
+Although, after a while, I have to cover my mouth and nose as the burning rat corpses disappear one by one.
+
+The white light from earlier doesn’t fade as the mutant disappears. It seems like there was something on top of this hill before we got here. It was just hidden by the wave of monsters.
+
+Finally, the burning flesh turns into piles of mana crystals and reveals a glowing white box on the ground.
+
+We look at it, then at each other, then back at the box. I walk over and examine it.
+
+It’s about a meter long, half a meter tall, and half a meter wide. It’s completely white and is humming like a mana shield. There are no handles or indicators of how to open it.
+
+“What could this be…?”
+
+I reach my sword out toward it and tap the blade against the top of the box.
+
+*CLICK*
+
+The lid flies open and reveals a piece of paper, 2 potions, a silver ring, a bag of dried fruit, 4 large bottles of water, and another bag of dried meats.
+
+I grab the note and read it.
+
+“It looks like you have found a gift box, luck is on your side! These items may help you on your journey, use them wisely to stay alive.
+
+-Rodrigo”
+
+I turn the note over for Maria to read, then I use Appraisal on the potions and ring in the box.
+
+Active Items:
+
+[D Class MP Potion]
+
+[D Class HP Potion]
+
+[Enchanted Silver Ring] +150 Speed
+
+“Interesting… let’s split this up evenly. You can have the ring, I think you need it more than me. Next rare item drop is mine though, got it?”
+
+She smiles.
+
+“Sure thing!”
+
+I toss Maria the ring, and we take half the food and water each. Maria drinks an MP potion on the spot, and I place the HP potion in my item box. Apparently, Maria has already used up a full MP bar, I guess we have used a lot of magic in this dungeon so far.
+
+I look around and see over a hundred mana crystals all over the hill…
+
+“It’d be a waste not to pick these up right…”
+
+Maria laughs.
+
+“I guess s-JAY!“
+
+“STOP RIGHT THERE!”
+
+*CLANGGGGG*
+
+Two silver daggers appear out of nowhere and I instinctively raise my sword to block them as I hear a deep voice yell at me. The daggers scrape against my blade overpowering me and pushing me to the floor. I scan the area with enemy detection, inspect, and appraisal to try and figure out what hit me.
+
+Nothing registers at first…
+
+Then a man appears 10m in front of me seemingly out of thin air. The stats finally show.
+
+[10m]
+
+[Lv. 279]
+
+Active Items:
+
+[Steel Dagger Set] +300 Strength
+
+[Enchanted Steel Armor Set] +400 Defense
+
+[Enchanted Leather Boots] +200 Speed
+
+[Griffin’s Talon] +40% Mental Strength
+
+[Rodrigo’s Silver Bracelet]
+
+Active Skills:
+
+Dagger Mastery
+
+Stealth
+
+The man is well-built with short dirty blond hair and light skin. He has brown eyes and wears a few pieces of medium-weight armor. He looks a bit too bulky to be using daggers… but I guess that’s his thing.
+
+Standing around 180cm tall, he’s about my height. Just a lot more muscular.
+
+He yells out.
+
+“Hand over everything from that box and I’ll spare your lives!”
+
+I step forward.
+
+“Yeah right…. Bring it on!”
+
+He smirks and takes a slow step backward.
+
+“Don’t say I didn’t warn you.”
+
+I grip my blade and ignite it with flames.
+
+He takes another slow step back.
+
+Then disappears…
+
+I scan the area around me with enemy detection, but his presence is gone. While turning around in circles I begin to ignite my full body in flames.
+
+“Is this some kind of.. teleportation ski-ARGHHH”
+
+*SHINGGG*
+
+I feel a sharp dagger pierce my right side. The man appears from nowhere and lands his attack this time around. I begin to swing my blade back at him, but he disappears in front of my eyes.
+
+My sword slices through the air. I cough up a bit of blood and regenerate my wound while letting my flames burn even brighter.
+
+He appears 10m in front of me with that same smirk across his face.
+
+“I’ll say it again, give me everything you got from that box and I’ll spare your lives.”
+
+Maria yells to me while glowing blue and running at us.
+
+“JAY!! You-“
+
+“Let me handle this Maria. This guy is starting to piss me off.”
+
+She stops mid-stride and nods, then steps back.
+
+“Hmmph. Okay, I’m here if you need me.”
+
+I turn back to the dagger-wielding man.
+
+He takes a step back, then another, then, poof…. He’s gone again.
+
+I scan the area, but like before, there’s no sign of him. It’s silent, the only noise I can hear is the crackle of my own flames.
+
+*SHINGG*
+
+A silver dagger appears out of nowhere and pierces my left thigh. The man becomes visible and I swing my flaming sword again, not hesitating from the pain this time.
+
+*WOOOSHH-SHICCC*
+
+The man disappears as my blade comes down… but I hit something…
+
+“ARHHGHH! HOW???”
+
+The man reappears 10m away with a small gash on his right arm. It’s bleeding onto the ground and he’s glaring at me.
+
+My eyes open wide. Then I remember… I’ve seen this before. Back a long time ago when I trained with Abby in that Bat Dungeon. The boss could do the same thing.
+
+This is a stealth skill...I took a glimpse his status, but it didn't click with me at first. He’s not teleporting, he’s just disappearing from my vision.
+
+I grin, then activate berserker. My senses heighten and my strength increases. I lock eyes with my prey. I’m filled with confidence now that I understand what’s going on. He smirks and takes a step back into nothingness.
+
+I sprint forward and scan my surroundings with a new objective in mind.
+
+It’s faint… but I can hear the pitter-patter of light footsteps coming at me on the left side. I instinctively predict his movements using the sound of his feet and slight movements in the wet dirt to launch an attack of my own.
+
+*SHINGGGGG*
+
+It’s a direct hit! The man appears visible again as I make contact with my flaming sword. It cracks right through his chest plate landing a devastating blow to his midsection. Blood flies and he yells out in pain while falling backward.
+
+I stand over him with my sword drawn at his neck, then activate intimidation.
+
+A wave of energy hits him and he freezes with fear.
+
+“I want everything you’ve got. Looks like the tables have turned.”
+
+The man doesn’t respond at all, he just stares forward with dilated pupils.
+
+“Fine. I guess we’ll do this the hard way. Just like you wanted.”
+
+I bring my sword down and cut the item box from his waist, then pierce my sword through his chest plundering MP as his body disintegrates and transports back to the respawn point.
+
+I pick up the pouch and turn to Maria with a smile while looking inside.
+
+“There are 4 HP potions and 2 MP, nothing else. What do you want?”
+
+She nods slowly.
+
+“As much MP as I can get.”
+
+I throw her 1 HP and 2 MP potions. I take 3 HP for myself.
+
+“There, that’s fair.”
+
+I drink one of the HP potions, then throw the other two into my item box. I have 8 in total now, I couldn’t care less about the MP potions. I get mana for free by killing monsters, Maria can have them all.
+
+She looks at me curiously for a moment but accepts the potions without a fuss. We collect the mana crystals covering the hill, then start walking back the way we came.
+
+Our next stop is the boss room.

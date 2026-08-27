@@ -1,0 +1,233 @@
+---
+id: 88e4e243-762b-5421-b321-2a3e86c1b181
+page-type-slug: story-chapter-royal-road
+title: "Chapter 58"
+slug: 0058-chapter-58
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 58
+ownLength: 1842
+unit: words
+ownProgress: 1842
+publishedAt: 2023-03-16
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1139813/chapter-58"
+royalRoadId: "1139813"
+markedReadAt: "2026-06-29T20:33:48.370Z"
+---
+
+I look around to see all my new team members fighting for their lives in battle.
+
+The team of 3 has done some pretty good work on their Minotaur, with a little more time they'll be able to finish it off.
+
+Nessa is visibly exhausted, but she's landed a few good hits on the boss with me so far. If I had to guess, I'd say it still has 90% of its HP left. There's no way we'll be able to beat it with the strategy we're working with now.
+
+I'm out of axes to throw, I left my sword on the ground about 20m away, and we're running out of time. Hudson has 30 seconds left of his stat buff at best.
+
+The boss begins to sprint towards me grunting and cracking the earth beneath its massive legs.
+
+I have to think.... This is the moment in every battle where I feel the most alive. I'm calm, but on the edge of my breaking point as well. My brain is working on overdrive, flashing every past battle experience over and over in my head trying to use instinctive pattern recognition to solve my current predicament. It's the most stressful, yet best feeling in the world.
+
+The boss is less than 10m away from me now, it's seconds away from a brutal attack. At this moment an idea finally popped into my head. I yelled to Nessa and positioned my arm backward in the direction of my fallen sword.
+
+"Hey! How many MP potions do you have on you?"
+
+She yelled back.
+
+"Just one left!"
+
+I smirked as I used telekinesis to make my sword fly back into my right hand.
+
+"CLANGGGGGGG"
+
+The moment I gripped my sword the Minotaurs axe came down. I created a thick wall of crystal hardening on the front side of my body and took on the majority of the blow with my sword.
+
+"CRACKKKK"
+
+I watched my sword begin to splinter in front of my eyes as the axe pushed me backward. This beast overpowered me again. It followed through with its strike and broke my sword in two. The axe slammed into my torso and shattered my black crystal armor throwing me backward sliding a solid 15m across the rocky ground.
+
+While coughing up blood I checked my status. It read out 275/950 HP and 540/950 MP. I have to put my final plan into action now if we want to have any chance of surviving this. I chugged my last HP potion and watched the boss quickly turn towards Nessa.
+
+I stood out in the open with half a sword and a malicious grin across my face while igniting into flames. I threw my broken sword at the Minotaur's head and used telekinesis to ensure a direct hit.
+
+"HEYYYY!!! YOU'RE FIGHTING ME, BIG GUY!!!"
+
+The dull piece of metal hit the back of its head and the beast shifted its focus back to me. I yelled to Nessa.
+
+"Take that MP potion to Hudson right now! I'll distract it! Use Mimic on Hudson's skill and give me a double buff. This is our only chance!"
+
+Her eyes went wide and nodded. Nessa ran towards Hudson while the boss stared me down getting ready for another attack.
+
+We're almost 100m away from Hudson. I have to stall for as long as I can.
+
+The boss charged. I just ran away. There's no point in fighting for these next 10 seconds. All I have to do is distract it for a little bit longer.
+
+I sprinted far away from everyone. With the Minotaur inching closer and closer every second all I'm focusing on is how fast I can move my feet.
+
+5 seconds later...
+
+The boss is right on my tail. It's less than 10m away from me, but I don't dare look back.
+
+5 more seconds go by, my lungs are burning and my legs have never moved this fast. I feel the ground cracking under every step I take. The beast's breath is hitting my back. I've run out of time...
+
+"CLANGGGGGG"
+
+I hear the swing of the axe behind me and harden my back the best I can while bracing for impact.
+
+Black crystal fragments fly everywhere as my defenses are shattered along with a few bones in my lower spine and I'm thrown 20m forward in the air even further from the battlefield.
+
+I immediately regenerate my broken back and climb to my feet with a groan. I check my status to see 135/950 HP and 410/950 MP.
+
+The monster is charging towards me for its final fatal blow. I ignite my entire body into flames and prepare for whatever it'll throw at me next.
+
+Then I see a ripple of yellow light coming my way across the ground. She made it just in time. Nessa really pulled through.
+
+I run forward to match the charge of the boss and concentrate my fire magic into the palms of my hands. We're less than 10m apart as I plunge into the fast-approaching yellow light.
+
+I feel even more energy surge into my body. My steps speed up, my magic feels stronger, and I looked at the monster with a very new perspective.
+
+As we were about to collide I narrowly dodge the axe flying towards me and swerved around its right side. The monster is still very quick and definitely much stronger than me, but the battle I'm fighting in now seems like a slow-motion version of before.
+
+With the element of surprise, I dodged its blade and managed to get behind it. I planted my right leg and turned, carrying a fist full of fire. I shaped the fire magic into a sword and plunged it deep into the Minotaur's back while letting out a yell.
+
+I released as much of my fire as I could into the monster while absorbing MP at the same time. This may be the only time I can catch it off guard, I'll take advantage of this situation as much as I can.
+
+The monster let out a vicious roar and twisted its body to shake me off for a full 4 seconds. I managed to do some serious damage. It was not happy about it.
+
+The beast jumped in the air and leaned back. At this moment I knew I overstayed my welcome and darted off as fast as I could.
+
+"THUDDD"
+
+The boss fell on its back attempting to crush me, but also succeeding in putting out some of the flames.
+
+It got to its feet immediately and stared me down. I made the first move and started running at it, I need to keep the pressure hot while the advantage is mine.
+
+The double buff will wear out in less than a minute. I'll have to get it done just like every other battle of this nature; dodge, weave, and only take guaranteed hits. It's still stronger than me, but I finally have a speed and agility advantage. This is what I'm used to.
+
+I sprinted forward and spun around its axe. The boss learned from its last failure and turned its body when the axe swing missed, I wasn't able to get behind it this time.
+
+I assumed this would be the case. Mid-turn I focused a large amount of fire magic into my palms and created a dense orb of flames. I let the orb fly out of my hands and used telekinesis to direct its path. The monster's axe was down on the ground, and its attention was focused on not letting me behind it.
+
+The orb of fire flew towards the monster's face and made an impact right in the center of its forehead. It exploded letting out a massive amount of energy and flames.
+
+The boss let out a roar and put its arms in the air flailing in pain. I took this opportunity to summon my fire sword and jumped up to make a deep gash across its chest. On the way down I sliced open its right leg deep to the bone letting my fire burn bright and absorbing MP in the process.
+
+It shrieked and flailed but soon set its focus on me again. The monster was getting tired. It began moving slower, but its deadly stare never changed. This beast will not give up until the end.
+
+The boss initiated a charge this time and I matched it. I easily dodged its axe swing and ran around its backside. The beast attempted to turn with me, but it has become too slow to keep up with me. That gash on the right leg must have really done a number on it.
+
+I concentrated every last bit of MP I had into a final blow. My sword of fire burned bright as I jumped up and sunk it deep into the back of its neck. I let out a yell while releasing a blast of energy that brought the beast to its knees.
+
+A well-fought battle. Without my team members, I couldn't have won this one.
+
+I absorbed as much of the dying monster's MP as I could while continuously releasing fire magic into its body. The boss let out a final grunt, then I heard a ringing in my head that confirmed my victory.
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+____________________
+
+Name: Jay Soju
+
+Level: 211
+
+Hp: 280/1060
+
+Mp: 205/1060
+
+Strength: 512 [+128][+128]
+
+Speed: 606 [+152][+152]
+
+Agility: 630 [+156][+156]
+
+Defense: 451 [+180][+113][+113]
+
+Mental Strength: 512 [+102][+128][+128]
+
+Skills:
+
+Absorption
+
+Swordsmanship
+
+Combat Magic [Fire Summoning]
+
+Inspect [Special Grade]
+
+Enemy Detection
+
+Body Hardening[Special Grade]
+
+Self Regeneration
+
+Spacial Magic[Item Storage]
+
+Plunderer
+
+Telekinesis
+
+Items Equipped:
+
+Golden Wolf Ring [+20% Mental Strength]
+
+Cyclops Eye Pendant [+40% Defense]
+
+Buffs:
+
+[25%+ All Base Stats]
+
+[25%+ All Base Stats]
+
+_____________________
+
+"I gained... 22 levels..."
+
+Even while sharing the exp with 5 other team members, that is some serious level gains. My stats are significantly buffed temporarily too. I feel great...
+
+The body of the Minotaur disappeared in front of me and two large items fell from the corpse. A massive mana crystal rolled to my feet, but beside it lay an item that made me grin ear to ear.
+
+The massive dark horn of the Minotaur glimmered a deep dark crimson color in the faint light of the dungeon. It was left as a reward for my battle. I could feel the boss emitting a strange aura of dominance even after its death. With a smirk, I placed it in my item storage.
+
+Moments later I looked up to see a few members of the team running towards me in the distance. Then, after a few seconds, the rest of them followed close behind.
+
+It looks like we all made it out of here alive. What a relief. This could have totally gone another way.

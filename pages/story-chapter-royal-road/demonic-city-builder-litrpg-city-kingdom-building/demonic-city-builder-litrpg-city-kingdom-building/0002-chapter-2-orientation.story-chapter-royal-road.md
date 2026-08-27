@@ -1,0 +1,249 @@
+---
+id: 8014953e-ff99-51de-b201-34e338d5a6b1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2 - Orientation"
+slug: 0002-chapter-2-orientation
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 2
+ownLength: 2300
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3423469/chapter-2-orientation"
+royalRoadId: "3423469"
+---
+
+One second Kairon was in a gorgeous grassy valley, staring at the lively crowd around him. The next, a column of flame was stretching from ground to sky. He watched with a detached, unregistered horror as the wildlife, trees, and rock were scorched beyond recognition. And in the middle of it all, the screams.
+
+Kairon had no idea what they were saying, but it hardly mattered when moments later they stopped. Only the rush of flame and the whoosh of displaced air in the valley could be heard.
+
+Kairon's vision went black.
+
+With a snap, the world flung back into being. Kairon had several moments of vertigo before dropping to his knees and vomiting out what little was still in his stomach.
+
+The newly hatched demonic humanoid simply stood, mouth agape. What now? I... Oh my. I'm a demon...
+
+And that class?
+
+Demonic City Warden. That does sound a touch ominous.
+
+Demons were a touchy subject. Frankly, anytime the mention of them came up there were always more questions than answers.
+
+Which means I'm something no one back home knows about.
+
+A sly grin pressed at his lips, somewhat reminiscent of a child with his hand in the cookie jar.
+
+I guess that's kind of exciting. Even so, best to be safe. This whole situation was beyond abnormal.
+
+"Invoke emergency safety clause of provincial city lord contract. Open ticket."
+
+Kairon felt just a tiny wisp of a mental connection, and like scissors through yarn, it was cut.
+
+The grin disappeared.
+
+"What? Come again?" he said aloud.
+
+No reply came.
+
+"Invoke emergency safety clause of provincial city lord contract. Open ticket. Please."
+
+Again, no reply. And this time, there wasn't even a connection at all.
+
+"No, no, no..."
+
+Flicking through where his city interface should have been... there was nothing. No mental connection to be found.
+
+"Tavaren? Did you fuck me on this?!" he shouted.
+
+The seriousness of the situation really began to set in. A bead of sweat trickled down the now naked, black-scaled demon's forehead.
+
+He was an unknown and universally hated demonic race, in an unknown world, and had no backup. No way out.
+
+"Oh dear."
+
+Kairon climbed back to his feet, wiping his mouth clean.
+
+If the entire SLA system isn't reachable, that means I must be well beyond the frontier.
+
+That was unfortunate. But it would explain his current circumstances. Frontier worlds were already a wild card the System was newly connected to. Beyond it though?
+
+Yeah. This is not good.
+
+Shaking his head, he took several measured breaths. This was just... a snafu. Someone would come by, whisk him up, and all would be fine.
+
+Still... If that didn't happen. He needed to be prepared for the possibility that this was his new reality. That he'd need to make a home here, and prepare for what came next.
+
+Information first. He took in the new realm.
+
+He was on a small clearing surrounded on all sides by dense forest. Before it, ten-odd orange rocks were set in a circle around him.
+
+That's when he noticed the ground. Or rather, what had replaced it.
+
+The whole area was a hellscape. Orange and brown terrain carpeted everything from where he stood all the way to the treeline. Wisps of steam and smoke were wafting off the dirt, making lazy arches in the air. Like the system had planted a demonic seed right in the middle of this landscape and let it burn outward.
+
+Interesting. I don't feel uncomfortable at all, but judging by that steam the ground must be practically burning. Something with my race must grant me immunity to heat?
+
+Glancing south, he could just make out a group of gray mountains sticking up like teeth in the receding forestry.
+
+It was hard to see. But when he really squinted, Kairon thought he made out the faintest wisps of a road.
+
+If that is a road, that means a pass. Passes from where, I don't know. But it could mean traffic... And if that traffic is anything other than demons...
+
+That was an issue. A potential issue, but an issue nonetheless.
+
+Any sensible race likely would not take kindly to demons coming to their world. And any race that wasn't sensible wouldn't be much better.
+
+Other than that, there was nothing but trees in all directions. The nearest ones were smaller, but beyond stretched massive oak trunks that created a dense distant canopy. Birds circled, insects buzzed, and the wind sang.
+
+At the end of his full circle sweep, he came to the center of the clearing.
+
+"Oh!"
+
+Rising from the ground was an onyx black tower made of cobbled, shiny stone. His gaze went up, and up, and up.
+
+At its peak, a pulsating, fleshy violet shaded eyeball stared back at him.
+
+"Good god!" he spat, nearly falling over.
+
+The eye didn't react.
+
+"What are you? Hello?" he called. The shout echoed through the clearing. It wasn't answered.
+
+Rude.
+
+He chalked it up to another racial feature. If anything, it was probably some sort of sight ability.
+
+All in good time. All in good time...
+
+He looked down, more closely examining his own body. His physical form had altered with his class. Gone was the wiry frame of a System clerk who spent their entire life behind a desk. Instead, a sleek black-scaled frame that stood over two meters tall greeted him. Claws had replaced hands, and webbed pieces where there were feet.
+
+At least I'm still humanoid. Naked. But humanoid.
+
+Kairon flexed, did a few stretches, and even jogged a bit in place to get the blood flowing.
+
+I honestly don't feel all that different. The system is quite apt at transitions like this. We've always gotten good feedback about that.
+
+"Raaaaagh!!!"
+
+Kairon squeaked, nearly toppling over at the sudden guttural noise. Everything was so quiet and serene, he'd thought that no one but him was here. Well, him and the giant eyeball.
+
+It turned out he was wrong. Those little orange rocks? They were moving. It became quite clear that they were not, in fact, rocks. Instead, ten small impish creatures growled and squirmed in various states around him.
+
+Uh oh. I think I know what might have occurred here. Memories of his ten previous human companions ran through his mind.
+
+"Hi there... You wouldn't happen to be my villagers, would you?" he asked carefully.
+
+"Master!"
+
+"FOOD. FOOD FOOD FOOD."
+
+"Hungry!"
+
+"Food!"
+
+Was that imp's voice... the same as that red-haired woman's? That realization brought a sense of wrongness to Kairon's mind. It just felt... off.
+
+Well. Moving on. I wasn't exactly fond of those ten. I mean, I do pity the fate of those migrants having their humanity ripped away for their new ah... transformations. I didn't intend for them to be caught in the crossfire of the little road bump we hit. But... this could work out in my favor. If they have no recollection of what happened...
+
+"Say... How is everyone feeling? Any particularly unpleasant memories of the last oh I don't know... couple of minutes come to mind?" he inquired.
+
+"FOOD."
+
+"TASTY?"
+
+"Yes, yes we are all hungry. Space distortion and body transformation will do that. Just so we are all on the same page. Does the phrase race transition or class assignment ring any bells? Anything we should all share with the group?"
+
+"NO. Is that tasty?"
+
+"Oh.... Tasty!"
+
+The imps began collecting around where Kairon stood, each staring up at him with big orange eyes.
+
+Yeah. No memory it seems. I wonder if that will change with time. Well. One more item to think about.
+
+For now he needed to figure out what assets were at his disposal. And that giant floating eyeball was practically shouting his name.
+
+"Let's go, my new friends. Shall we see what our generous system has left us with?"
+
+"Food? We find food now?" asked one of the creatures.
+
+"Of course. That too." I hope.
+
+Kairon began walking to the tower with the imps scrambling to keep up from behind, tiny legs whirling.
+
+The procession marched onwards until it reached the tower. As they approached the double doors marring its stone exterior, Kairon eyed the stairs.
+
+A bit extravagant for where we are...
+
+Kairon placed his palm on the door and gave it a taut shove. Nothing happened. He pushed again, harder this time. There was a squeak, his scaly arms flexing, but after several moments it was clear that his new body was more dexterous than it was strong.
+
+He looked back at the imps. "Care to help me with this? If you could all kindly just give this hulking door a big shove, it would be very appreciated."
+
+They just looked at him.
+
+"Did I mention that there could possibly be food inside?"
+
+To his delight, they obliged. Moments later, Kairon had ten helping pairs of little red hands pushing at the door, adding to his own strength.
+
+With a creak, the oak doors finally gave way. Their wooden frames scraped against the cobbled stone floor as they swung inwards. Chittering happily, the imps flooded into the chamber. Their clawed feet scratched and slid along its dark cobbled flooring.
+
+Kairon, however, only had eyes for one thing.
+
+At the center of the chamber sat a small mound of shining gold. He nearly pounced on the pile.
+
+One of the imps, the smartest if Kairon had to judge, chose to inspect the wealth with him. It scampered over and stood next to him.
+
+"Shiny..."
+
+The demon did take note that Shiny, as he decided to name the imp, was a tad shorter than the others. A runt, if you will.
+
+"Yes. Very shiny. And very important. We must protect this, you hear? Die for it if we must. This is called gold. It's a truly wondrous thing. Have you heard of that before? Gold?"
+
+"Gold? No. Shiny. Eat?" asked Shiny.
+
+"No, no, no. You'd break those fangs if you tried. But, if we were so inclined, we could buy food with it." That's assuming there would be anywhere to buy food from.
+
+Over the next fifteen minutes, Kairon and Shiny carefully counted every coin. 250. Exactly. A nice, round number.
+
+It wasn't until he made sure his new pile of gold was counted and all the imps were given express instructions not to try and eat it that he finally allowed himself to explore the rest of the tower.
+
+"There's not much here. Just an empty room with no furnishings. Very odd. That isn't like the system at all."
+
+There was one more thing, however. A glowing orange gemstone sat atop a pillowed pedestal. The ornate piece was placed exactly opposite the door.
+
+I suppose it's high time we find what we're working with.
+
+With one swift movement, he placed his black-clawed hand on it.
+
+A domain... Now that is an interesting term. I've never seen a city be called a domain. Humming thoughtfully, he selected yes.
+
+Orange lightning flared from the gemstone, cracking like a whip in the room. The imps all screamed in terror, but Kairon was too busy absorbing the metaphysical train of knowledge. He stepped back from the gemstone, rubbing his head with one claw and gasping.
+
+"Oh for the System's sake. Did you have to do that?!"
+
+That was not how the system normally did things. This was both crude and ancient in practice. The System was perfect and smooth. It worked surgically. Not with a sledgehammer.
+
+It took several minutes for the shock to subside. Once it did, however, Kairon made sure to give the gemstone a wide berth as he considered his new ability. His first and only ability, actually.
+
+So if I'm understanding this right... With an instinctive motion, he willed for the new connection inside of him to come to life.
+
+Over a hundred paces upwards, sitting at the top of the ominous black tower, the pulsating amethyst eye widened. An orange hue illuminated its outline as it contracted into a squint.
+
+Kairon's vision went from looking at the chamber and imps to gazing downwards at the clearing below. Way, way below.
+
+Over a hundred paces up, and he could make out everything with startling clarity. The footsteps in the hellscape from the imps and him, the black tower, the trees, all of it. He pushed further, trying to go past the treeline, but as soon as he did so he hit a wall of black nothing. Using a mental nudge, he tried pushing harder against it.
+
+Nothing. The boundary directly lined up with the hellscape itself. Where orange sand ended, his sight did too. Like someone had thrown a giant black curtain around the clearing.
+
+Clicking his tongue, Kairon broke the connection as easily as he made it. His vision returned to the stone room below. This time, something was different. When he looked at the imps, he felt a tiny tugging sensation directed at each. He just knew. Any order he gave would flow through to them.
+
+He tested it out. "Search the area around the tower for anything useful. Wood, stone, straw. Anything we can build with or use to make fires."
+
+At once, all ten imps stopped what they were doing and scattered out of the tower. Kairon stood there, watching their receding forms through the doorway with a thoughtful expression.
+
+If I need to build a city in this realm, that's going to be very useful.
+
+Kairon re-activated Sovereign Eye, watching his new workforce. Several imps were clawing in the dirt, a few others were gathering up sticks, and the last lot were scampering about in search of materials.
+
+You know. I think I'm starting to warm up to these new circumstances. They are turning out to be quite interesting.
+
+Now. Time for what Kairon did best.

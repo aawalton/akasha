@@ -1,0 +1,121 @@
+---
+id: 4cc13d08-5647-50ab-b969-390edfb7e8c9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7 - Ceremony"
+slug: 0007-chapter-7-ceremony
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 7
+ownLength: 1916
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3423564/chapter-7-ceremony"
+royalRoadId: "3423564"
+---
+
+"Eight... Nine... Ten. Good. Everyone's accounted for." Kairon nodded in satisfaction. The last week had been rough. Even with daily encouragement, fervor had dropped to 31%. The imps were run ragged, and he himself had finally caved and begun spending each day with the haulers.
+
+One unforeseen consequence of the fervor drop was a change in Sovereign Eye's ability to give orders.
+
+Yesterday, when he sent the morning orders through the eye, there was a slight pushback from the link. The imps weren't refusing his order, but it was more like a drag... The mental connection between himself and the eye caught for a half second before the imps complied. When fervor was 45-50%, the orders had been instant. At 31%, it felt more like a negotiation of sorts. That was new, and frankly very concerning.
+
+Another unwelcome shift in yields was with the hunting party. Despite getting more and more apt at hunting, they were finding less game. He hoped it was just due to over-hunting, but as he once again gazed out at the increased line of hellscape now well into the treeline, black bark and ash in its wake, he thought corruption was the true culprit.
+
+But it was all worth it. I'm ready for the next phase of our development, even if it took a few days longer than I accounted for.
+
+Tonight, the clawing, grinding, and work they all put in would be rewarded. The city lord reviewed his stockpile.
+
+Kairon was dearly tempted four days ago to build the ring when he had enough resources, but feared that it might come with unforeseen consequences that would offset their yields. He decided waiting until he had enough resources for both the ring and the spawning grounds construction afterward was the best course of action.
+
+The imps were scattered about, already finished eating and looking sleepily at their little dirt beds.
+
+Kairon snapped loudly. "Everyone, I know we're all exhausted. Myself included. But to make sure we all stay safe during the erm... excitement tonight, I think it best we head into the tower. Now."
+
+With grunts and sleepy hisses, the imps slowly clambered into the dark tower. Once again, they had called it quits an hour early, so the sun was still setting to the west. Meaning the tower was lit both by the orange gemstone from within, and the light flowing in the doorway from without.
+
+Stepping inside himself, Kairon already had Sovereign Eye whirring to life.
+
+The demon stood, his discerning eye taking in the hellscape clearing. The corruption was now maybe thirty paces into the treeline. To the north, a small trail had been naturally pressed into the thick underbrush from the hunting party. On the other side, half-chewed trees and a small log pile sat.
+
+From the tower to the timber harvesting spot, the hellscape was pushed flat, evidence of the rolling logs each day. About two hundred meters out from the tower itself.
+
+Not an impressive city. I hardly could even call this a city, frankly. For now. Clicking his tongue, Kairon took it all in, one last time. Then, he selected yes.
+
+There was a moment where nothing happened. Birds chirped, the wind blew, and imps sneezed and pattered about in the tower. Then, a bolt of orange lightning cracked in the air. Even in the diminishing light, Kairon could clearly make out the crimson red and orange glow of script being burned into the hellscape.
+
+The Sovereign Eye in the sky narrowed, and Kairon focused intensely. There. That angular character on the left... He'd seen that before. Where have I... Ah, yes! It was on the stockpile markers. Those symbols, repeating in sequence. The city lord tried to hold them still in his mind, mapping them exactly against what he'd sketched, but the script was carving below far faster than he could track. Dozens of characters, then hundreds, each burning into the ground and vanishing under smoke before he could commit them to memory.
+
+I need to study these after, if anything remains.
+
+In a perfect circle around the tower, the scripture glowed bright enough to color the smoke orange. It grew hotter. Much hotter. Steam began wafting from the hellscape into the air, intermingling with the smoke. A hissing filled the clearing with each piece carved. By the time the entire circle was done, a ring of reddish smog blanketed the sky above.
+
+The imps were chittering excitedly, rushing to the doorway to watch.
+
+Nine sets of impish eyes traced the smoke in the air. One set, Shiny's, stared with concentration at the smoke-covered scripture in the ground.
+
+"Glow. Shiny..." he mumbled.
+
+Together, they bore witness and waited. And waited. After several minutes, the smoke had begun to clear, but nothing changed. No new options on Kairon's interface, no notifications, nothing.
+
+A sinking feeling started to fill the demon's stomach, but he pushed it away. I think I know the issue.
+
+Deactivating the eye, he joined the imps at the doorway. "Listen. I know we are all tired. Exhausted. Out of energy. But I for one want to see what all our hard work has earned us." Kairon licked his lips, before striding out to the stockpile and issuing new orders.
+
+This is a ritual. And rituals need materials.
+
+Moments later, a column of bedraggled but determined imps and one large black demon were ferrying gold and timber out to the circle. Kairon wasn't sure if it needed to be spaced evenly or just all be piled up, but as they got started the imps seemed to have a natural instinct for what to do. They snatched the gold and timber from his claws, and without needing further instruction began carrying it to the circle around him.
+
+He hadn't given them formation or sequence orders, just a vague "bring the materials to the circle" order. Yet, Kairon was certain there was an exact pattern they were moving in. Specific imps went to precise points around the circle, setting materials down with an unsettling certainty. Shiny, for his part, took the boundary nearest the tower. Two others were mirroring him on the far side, and the rest equally interspaced themselves.
+
+All of this was done without a single word, chitter, or sound of any kind.
+
+Where is this coming from?
+
+Pondering this, he bit his lip, not sure. All he could do was supervise and ensure the materials were placed down. Most of the timber sat perfectly still on the ritual circle, but the darker pieces were vibrating and... if Kairon really focused, he swore he saw the darker wood start sinking into the sand below.
+
+At some point, all ten imps broke their eerie silence. As one, they began to chant and dance, each still positioned on those same, exact spots along the circle.
+
+The noises that came from their tongues carried through the evening, ancient and guttural. An ominous chill that had nothing to do with the oncoming night blanketed the clearing, and the orange and red of the ritual circle morphed to a violent purple. Under each piece of material, a rend in reality itself opened. Even activating Sovereign Eye, Kairon couldn't tell what was in those cracks. All he knew was that it felt... wrong.
+
+Without even a whisper, the timber and gold fell into the rends, leaving only glowing scripts in their wake. And then it happened. One moment, the sand from the tower to the ritual circle was a hellscape. The next, it turned entirely purple.
+
+"Oh good God!" Kairon gasped, swiftly jumping back onto the thankfully still very solid and very real stones of the dark tower.
+
+Through Sovereign Eye, he watched the corruption surge outward. A tidal wave of orange leapt forward, scorching new terrain in a circle that tripled the domain's footprint in mere seconds. Lush grass and trees bristling with life were replaced with sand, ash, and decaying bark. In the distance, a flock of birds erupted from the canopy. Deer and wildlife squealed, fleeing into the distance.
+
+So much for staying invisible. We're going to be very easy to spot, even in this endless forest.
+
+Kairon considered the five options. Even with his plan from earlier, his eyes lingered on Pact. The Whispering Hall. Probably a place for contracts, intelligence networks, bindings, and agreements. The clerk in him reached for it unbidden. That was his home language, his battlefield of choice. It was where the bureaucrat in him belonged. Not in a wrath district, swinging swords and spears.
+
+But the wounded hunting imp's face swam up. Joining it were images of the soldiers who fled south, and everything else that might be lurking in that forest.
+
+Pact is the choice for the human side of me. But I'm a demon now. And Wrath is what demons in a human world need.
+
+Although it pained the clerk in him, Kairon selected "Wrath." His mind was made up. They needed to grow, and to do that, they needed warriors.
+
+Stone Wall. They couldn't afford it. Not even close. Still. An image formed in his mind of a wall of stone between him and whatever came from those mountains. The thought made his fangs slide from his mouth.
+
+Priority Two. Right after I figure out a method to actually get more gold. And food.
+
+As he suspected, getting a district was more than just a building plan. It came with more rewards.
+
+A major demon? That sounded promising. Since arriving, he had no intelligent company to advise or discuss topics with. Shiny was great, but the imp wasn't exactly... intelligent. Not yet, at least.
+
+Kairon gaped. What? I guess I did want protection. He sounds like a warrior.
+
+Something deep in the demon shuddered, and he felt an invisible hand grip his heart. Kairon had one moment to scream, just as the fist squeezed, and a piece of him was torn away. It wasn't physical, but more... vital. Kairon wasn't sure, but just felt less. And then almost as fast as it had come, the hand was gone.
+
+Deep, ragged, panicked breaths came in and out of Kairon, chest heaving. He clawed at his own scaly torso, sure that he'd find a gaping hole. Yet, no damage could be seen. No pain was left. And, most importantly, he could still sense the rhythmic beats of his own heart.
+
+Until now, the demonic nature of his city, the imps, and even himself had felt... like a transition. Surreal, but acceptable. This though. This was the first time Kairon truly felt like events were not in his own control, and he began to truly comprehend the forces at play.
+
+That demonic power had taken something from me. And I don't know what. I couldn't even have stopped it if I wanted. He shuddered, the scales all over his body trembling.
+
+Outside the tower, the bright purple circle had vanished. Instead of sand, there was now a perfect circle of black stone stretching fifty meters in all directions. At the center stood him and his singular citadel, an epicenter of demonic creation.
+
+Kairon was just calming down, when he realized that he was not alone. Turning around, right in the center of the tower, stood a steaming, crimson red form. The Major Demon...
+
+It measured over three meters tall, had six muscle-bound arms thicker than an imp, and sported a crown of three glistening white horns atop its head.
+
+Two orange, glowing eyes peered expectantly at Kairon.
+
+"Hello, master."

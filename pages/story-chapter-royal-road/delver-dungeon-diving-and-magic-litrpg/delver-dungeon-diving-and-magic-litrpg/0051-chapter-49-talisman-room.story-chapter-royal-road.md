@@ -1,0 +1,205 @@
+---
+id: 7885b60b-0d02-5af8-9585-1dd72469d04c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 49: Talisman Room"
+slug: 0051-chapter-49-talisman-room
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 51
+ownLength: 2385
+unit: words
+publishedAt: 2026-07-30
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3747633/chapter-49-talisman-room"
+royalRoadId: "3747633"
+---
+
+Hi sis, this week has been a dark one. Maestra Magus Palia passed defending against a rift in the city of Palamor.
+
+I find it hard to keep my usual smile, but I have to keep it together for the others. We all know something is wrong, but the church has gone quiet. I’ve sent a letter to the Archmage, but he doesn’t want to tell me anything over the post. I feel like the only thing I can do is teach you to defend yourself. Demons are not easy to take down. They have thick skin, dangerous magic, and their own tricks up their sleeves. So I will teach you about a very specific Desire rune.
+
+Seal
+
+This rune is particularly effective when used in combination with a Holy or Life identity. This desire will slow down even the greatest of demons, as it anchors them to this dimension and stops them from pulling power from their realm. My next words are between you and me, even the Archmage shouldn’t be able to break the seal I’ve put upon them.
+
+Possession is dangerous, and sealing a demon to a body just ensures that you have to kill the person to kill the demon. Because of this, I’ve done the dirty work of stealing from an Oathsworn paladin’s private grymoire. Do not dare to use this unless you have no other choice. In the wrong hands, even the Archmages, this could do a great deal of damage.
+
+To remove a weakened demon from this world, you must use the desire rune Banishment.
+
+I know it’s complicated, but it’s well worth learning. Wait until you’re a Novice before you try casting it, as you need at least two circles for the weakest of demons. Here is the basic spell:
+
+Stillness, Space, Seal
+
+Transformation, Space, Banishment
+
+Eridor’s Journal to his sister
+
+Talismans are another lost art, as far as I’m aware.
+
+I’m careful as I step into the room. For some reason, my mana detector doesn’t react to talismans as well, which means that I’m keeping a tight hand on my sword, and paying attention to my danger sense.
+
+Nothing reacts as the metal ball rolls forward through the room. I follow it a second later, walking to the talisman writing desk. My grip loosens on my sword when nothing happens.
+
+I don’t like when delves go too easy, it makes me feel like there’s something waiting around the corner.
+
+I take another glance around the room, only now noticing several talismans placed over the door, in perfectly fine condition despite the time.
+
+Identify Artifact
+
+Talisman Of Sealing
+
+This talisman seals nearby Demonic Entities.
+
+Talisman Of Holy Fire
+
+This talisman creates a brief burst of Holy Fire.
+
+I walk over, studying the several talismans over the door. All of them are of those two varieties. They didn’t react to me, thankfully. But I wouldn’t want to be the demon who tried to get into this place.
+
+I gently reach up, then hesitate. Better not to mess with talismans that have already been placed.
+
+Lowering my hand, I instead turn towards the box on the desk, and make my way over there.
+
+A quick use of my lockpicks opens the box, revealing several different talismans, organized by the symbols written on them. Two stacks are similar to the ones on the door, Sealing and Holy Fire, while one of them is an old friend from my last delve. A couple I don’t recognize, so I identify them as well as the one I do recognize, just to be sure.
+
+Defensive Talisman
+
+Creates a small magical barrier in front of the user.
+
+Yeah, that one was a lifesaver against the Reaver in the Archmage’s Sanctum.
+
+Soul Cleansing Talisman
+
+Removes necromantic curses
+
+Necromantic curses. I’m not exactly sure what they entail, but considering how much I’ve been dealing with necromancers and the undead lately, I’m glad to see it.
+
+Soul Anchoring Talisman
+
+Used to hold a possession or undead soul in place.
+
+That one, I don’t fully understand. Of course I’ve heard of possession, but I didn’t ever think about that as a real possibility. If someone is possessed, why would you want to hold the creature there?
+
+Star Formation Corruption Barrier Talismans
+
+Used to establish a barrier against the Demonic and the Undead
+
+That stack is different, a faint energy radiating from it. I’m careful not to touch them as I examine the box. I do take several of the Barrier Talismans, and place them in my pockets, before relocking the box and placing the whole thing in my pack.
+
+I glance at the tools on the table, but decide those might be better to save for later. Looking through the rest of the room helps me find a box of empty talisman papers, and several vials of mysterious ink. I leave those where they are. They’re valuable simply because nobody knows how they’re made, so I’m sure I’ll grab them later.
+
+I wonder if the Archmage has any books on talisman making. I don’t plan on changing either of my professions, but I’m sure someone might be interested.
+
+The door to the talisman room closes behind me with a soft click, and I make my way to the last door at the end of the hall.
+
+Text covers the frame of the door, different, but similar to the text that covered the entrance to the ruins. The door itself is heavily reinforced stone, still intact after all this time.
+
+“Shar, what’s it say?”
+
+The golem, currently in the shape of a cat, strolls up beside me, studying the text. “Salvation can only be found within, Karamur find the strength in these halls for your own salvation.” She pauses, studying the words, “Karamur is an old Merlan word. The closest translation is ‘warriors who fight in the dark’”
+
+I study the door, tracing the edges of the door with my finger in search for any faded words or runes that are no longer active, “The inscription on the entrance also mentioned fighting evil by ‘living in it’. Combine that with the statue of Levis The Cloaked…” My finger finds another symbol. It could be an inactive rune, or something else. I trace it gently, but don’t recognize it.
+
+I take out my notebook to draw the symbol in it. As I draw, I realize it looks vaguely similar to an eye.
+
+“Infiltrators?” Shar asks as she sits on her haunches, “The Archmage had heard of such groups, but even he didn’t know much about them.”
+
+“That would match with Reaper Yon,” I tuck my notebook back into my backpack, “Sacrifice means putting the greater good above oneself, or at least, that’s his doctrine. I’ve never actually met one of his reapers.”
+
+I step back, studying the door.
+
+“Shar, can you see what’s on the other side?”
+
+Shar nods, then attempts to step through the shadows. She immediately jumps back, hissing, as the metal that pretends to be her fur turns red with heat.
+
+“It’s trapped.” The words come out venomous.
+
+I frown, then pull out one of the defensive talismans I’d just grabbed, and put it in my mouth. Drawing my sword, and holding my lightstone ready, I put my shoulder against the door, and push.
+
+It takes a large amount of strength, the door incredibly heavy, but I manage to shove it open a crack.
+
+My Danger Sense activates, and I jump back, activating the talisman.
+
+A flickering shield appears in front of me, just in time as a creature leaps out of the ground, long claws flashing as they hit my shield, and stop it cold.
+
+The talisman turns to ash in my mouth, but I don’t care as I swing forward. The Builder’s sword, slices through an arm, and it falls to the ground.
+
+The lithe creature screeches as it lands in the ground, then melds into the earth, disappearing to my senses.
+
+I spit out the ash and drop my light stone to grab my wand from my pocket. “Earth alignment!” I yell to Shar, but she likely knows already. Angel’s, I wasn’t expecting to meet an aligned-creature right away.
+
+I step back as I activate Hide Presence. It’s less likely to work now that it’s already aware of me, but I can hope.
+
+Mana gathers beside me, and I jump back, as a spear of earth stabs forward, missing me by a few inches. I gather my mana as I prepare a spell-circle. “I need eyes on it, Shar!”
+
+“Left!”
+
+I swing without looking, catching the creature’s claws, then I hold up my wand at point-blank range as I cast the spell.
+
+Transformation, Air, Hold
+
+Wind flows upward, holding the creature in the air, and away from it’s element. I switch my grip, and stab forward, my sword sinking deep into the dog-sized creature’s eyesocket.
+
+The spell ends and it drops to the floor.
+
+I pull my sword out, and look down at the weasel-looking creature with long arms. I glance up to the door, which is still only open a crack. It must’ve been sealing the creature behind it somehow, whatever trapped Shar, also blocking it from melding through the earth, so that it couldn’t pass.
+
+I pull a cloth from my bag, and wipe my sword, before tossing the cloth towards the dead creature. I don’t want to have the smell of blood on me and attract whatever else might be down there.
+
+I grab my lightstone from where I’d dropped it, then call to Shar to see if she can scout the other side.
+
+This time, she steps through the shadows without trouble, and calls from the other side. “It’s clear.”
+
+I walk up to the door, and push against it, opening it slowly and incredibly loudly to reveal a dark stairwell.
+
+Hide Presence activates, erasing my presence from the world, and I step onto the first stair.
+
+I leave the metal ball behind, deciding that having quiet is more important than checking for traps. I’ll pick it up on my way back.
+
+The stairs are worn by time, and I have to watch my step carefully as I descend.
+
+At the bottom of the stairs, the floor is covered in bones pierced or crushed by stone. A pile of dung in the corner confirms that this was likely the creatures nest.
+
+A twisting tunnel continues forward, but I can already hear the rustling of running water nearby, likely a river.
+
+I walk forward, my sword out and Hide Presence still active. The lighting is dim, old lightstones in the ceiling providing faint illumination. It’s enough that I decide keeping hidden is more important than having my personal lightstone active.
+
+I turn a bend, and come upon what I was expecting to see. The manmade walls are broken and destroyed by a river that cuts through the middle of the ancient structure.
+
+That means that this place is also compromised to whatever creatures may have found their way here.
+
+The safety of the upper floor was nice, I’m gonna miss it.
+
+I study the water for a long time, trying to see if there’s any creatures that might be hiding in it. It’s hard to tell with the lowlighting and the speed of the water. I would not want to be pulled into it, that’s for sure.
+
+I glance at the wet stone of the floor on the other side of the river, then sheathe my sword and take a step back. With a running start, I leap across, activating Feather Weight at the height of my jump to help me soar over the large river.
+
+I land on the stone of the other side, slipping slightly, but managing to keep my footing.
+
+Shar follows a second later, flying low in her crow form. She sends me a glance, then continues to fly ahead, scouting the way forward.
+
+I follow slowly, watching where I put my feet, and keeping an eye for traps.
+
+Soon enough, I come upon a split in the path, where Shar waits on her haunches in her cat form.
+
+I deactivate Hide Presence for a second to let her know that I’m here, then reactivate it.
+
+She stands up and stretches, “To the right, there’s a pack of horses, some mana-aligned, some not. I couldn’t make it past without alerting them. To the left, is a labyrinth of tunnels. I wasn’t able to fully explore it, but I did see Reaver webs.”
+
+I glance right. I don’t know what darkness-alignment would do. I am surprised that we’re already encountering two different creatures with alignment, they’re usually fairly rare. It could have something to do with the intensity of mana in this area, but that does make me wonder what an aligned-reaver would look like. I have no desire to find out.
+
+Still, I know Hide Presence works against reavers, I can try going left and see if we can avoid their webs.
+
+I’m going to try both directions, since neither one is enough to put me off the prizes that may lie behind them.
+
+I decide on left, trusting in my Basic Maps skill to help me through any kind of labyrinth.
+
+Shar runs past me in her cat form, scouting ahead.
+
+The walls turn to stone-bricks, but the same low-lighting sticks around. I unsheathe my sword, and hold it high, hoping it’ll catch any webbing that Shar might miss. After a second, I pause as an idea occurs to me. I reach into my bag, pulling a small wooden humanoid figurine, carefully inlaid with mana-circuits. I use my second profession’s skill, Inscribe Mana Circuits, to carve another circuit into it, then gently power it with mana, and set it down.
+
+It walks forward ahead of me, on the ground. I keep careful watch of it to see if it runs into anything.
+
+It walks woodenly, but at a decent pace, and I follow a second later, my sword ready.
+
+The dim lighting and the quiet doesn’t do well for my nerves, but moments later I find Shar at another intersection and we take another left.
+
+Two turns later, the little golem I’d had running ahead of me runs into a web. I stop, then stare ahead, trying to figure out where in the hells Shar is.

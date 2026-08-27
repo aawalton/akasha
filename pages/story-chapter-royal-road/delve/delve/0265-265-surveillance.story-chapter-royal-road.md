@@ -1,0 +1,229 @@
+---
+id: 3aa0842f-415b-5503-8d3e-93363b5fce50
+page-type-slug: story-chapter-royal-road
+title: "265: Surveillance"
+slug: 0265-265-surveillance
+partOf: delve
+position: 265
+ownLength: 3322
+unit: words
+publishedAt: 2024-06-30
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1698720/265-surveillance"
+royalRoadId: "1698720"
+---
+
+Common Knowledge: Journey Cart Maintenance3061-08-12
+
+Notice
+
+This informational pamphlet is a publication of Ascension. The facts presented here have been verified to whatever extent possible as of the publication date above. This document may be copied and distributed freely, provided that no modification is made to the content or to this notice except for personal use.
+
+Section 1: Operational Background
+
+A Journey Core is the powerful magical engine responsible for a Journey Cart’s locomotion. In basic models, such as the Lightcore 102, the Journey Core is easily visible due to the lack of shielding. In other, more advanced designs, the location of the core is non-obvious due to the inclusion of convenient, if inefficient, charging channels that allow mana (Common Knowledge: Mana) to be provided to the core without direct access.
+
+Almost all Journey Cores (including all Lightcore Foundry models) operate by subtle realignment of gravity (Common Knowledge: Gravity). In other words, a Journey Core shifts the definition of ‘down’ for itself and the linked structure of the Journey Cart around it. Note that the Lightcore 102 is an exception, as structural linking runes are omitted from the design.
+
+In this way, and with the exception above, the linked mass of a Journey Cart is irrelevant to its maximum speed. That speed is instead limited by rolling friction (Common Knowledge: Friction) and the mass (Common Knowledge: Mass) of the cargo. Note that more sophisticated models, such as those designed in West Nov, are able to extend a linking field over their cargo provided that it is stowed in specially scripted compartments. Such bespoke models are outside the scope of this guide. Also note that Lightcore Models 108 and 118 are identical to Model 128 but for the inclusion of speed governors. See Appendix A for detailed warning information related to these governors and a detailed list of connections that must not be damaged lest they cease to function.
+
+Section 2: Basic Maintenance
+
+First and foremost, the operation of a Journey Core is defined by the scripted surface of the lair subcore (Common Knowledge: Lairs) used as its substrate. Thus, the most basic preventative maintenance, requiring no runic ability whatsoever, is simply to keep the core compartment clean of dust, debris, and anything that may damage the Journey Core’s surface. A Journey Core may be cleaned with a soft cloth, but take care not to apply excessive pressure when cleaning and avoid the use of any strong abrasive. See the included inserts for core access procedures and environment-proofing recommendations for common Lightcore models. With improved seals and basic cleaning every one hundred kilometers (approximately 20 leagues, Common Knowledge: Metric System), the operational life of a Journey Core may be extended by as much as a factor of three.
+
+Logically, this recommendation extends to all scripted components of a Journey Cart, as any damage to any component can compromise a Cart’s operation. Again, refer to the model inserts for specific instructions for the identification and cleaning of supporting components. Do not attempt to disassemble sealed assemblies, as these often contain highly destructive anti-tampering countermeasures. Bypass procedures for a subset of these countermeasures are included in Appendix B, though these should not be employed except by a Runesmith with the specific skills and capabilities listed in the appendix.
+
+Did you Know?: Official maintenance by Lightcore technicians involves nothing more than basic cleaning as described above. Do it yourself, and never pay for costly and inconvenient service again!
+
+Section 3: Safe Charging
+
+Rapid charging of a Journey Core, while marked as a feature on several models, should be avoided except in case of emergency. Overstressed mana absorption runes are the number one cause of non-damage-related failure. Refer to Appendix B for safe charging rates for all specified models.
+
+Certain ‘Never-Charge’ Lightcore models also include proprietary power modules, which must be replaced at great cost when depleted. Refer to Appendix C for a schematic of an adapter module that may be used to retrofit such models with traditional charging and storage components. While less convenient, traditional charging is vastly more economical, as charging may be performed by any Mage or similar class with Mana Manipulation.
+
+Section 4: Preventative Tuning
+
+The number one cause of runic degradation in all Lightcore models is misalignment between core runes and the scripted structure of the vehicle itself. Each core is unique, even those produced from the same lineage, and these differences result in conflict with standardized components. The following procedures describe how each standard runic sequence may be tuned by any bronze-level Runesmith to improve function and overall life. These procedures can improve the speed of most models by as much as thirty percent while decreasing operational costs by a factor of two.
+
+Subsection 4.1: Identifying the Point of Maximum Runic Friction
+
+Step 1: Place the Journey Cart on a flat surface and disengage all…
+
+Staavo paused to sway, grasping the railing as the airship tilted to port. Muttering under his breath, he continued up the narrow stairs as the ship continued to buck and roll, finally emerging into the cockpit.
+
+The layout of the consoles had changed since the last flight, but the pilot’s chair was still in the center, at the moment occupied by Tarny.
+
+The Logistics Beacon had managed to become Ascension’s third-best pilot prior to their departure, leveraging Spring to accelerate his physical learning while practicing.
+
+Now, after another ten hours of ‘stick time’, as they’d come to call it, that the man was unable to hold the ship steady was frankly embarrassing. “The hells are you doing up here?” Staavo asked, announcing his presence over the muffled rush of air, the runes on the hull only partially blocking out the sound.
+
+“Just a bit of turbulence,” Tarny said with a grimace as the ship rocked. “Like to see you do better.”
+
+“Move, then,” Staavo said. “It’s time you took a break anyway.”
+
+“How’s the core?” Tarny asked.
+
+“Same as it’s been the last four times I checked it. Blue knows her business.”
+
+“High praise,” Tarny said.
+
+Staavo grunted. “You going to move or not?”
+
+“I’d still feel better if she were here,” Jamus said from his position in the observation chair. “No offense, Staavo, but if something goes wrong with the core, what could you even do about it?”
+
+Staavo shifted the target of his glare, but Jamus was too occupied to appreciate it. Sunk into the floor of the bow so the pilot could see over it was a large telescope, mounted to the ship’s hull by struts of vibration-dampening Force Steel. Jamus sat in a chair just behind the eyepiece. A second chair was even further forward under the end of the scope, where the top of Shu’s head could barely be seen. The scope had no real magnification on its own, designed to work with the Starguide’s magically conjured primary lens. He didn’t have the magic active at the moment, leaving Jamus with just the smaller sighting scope, which the artistically talented Mage was currently using to aid his sketching of the local terrain.
+
+“Three-quarters of these systems are mine, you ass,” Staavo finally said, accepting the stick from Tarny and holding it awkwardly as the Beacon shimmied out of the chair. The craft had begun to tilt starboard, so he hauled firmly port to compensate, fighting the weight of the rushing air fed to him through the linkage.
+
+“And, respectfully, do you have the skills to fix them if they fail?” Tarny asked, taking the stick again while Staavo took his place and fussed with the restraints. “You may have designed the systems, but Tallheart built them.”
+
+“Nothing’s going to fail,” Staavo said, unlocking the rudder pedals and checking the throttle levers for each engine. “I know exactly how much stress this ship can take. We’re nowhere near the end of the scale.” A sudden down gust came without warning, nearly making him bite his tongue as he felt the bottom drop out of his stomach.
+
+Tarny cursed, his feet leaving the ground before he managed to grab the cargo net dangling from the ceiling.
+
+“You were saying?” Shu called, his voice muffled. He was no longer trying to mask his Imperial accent, making him sound more natural, if unquestionably foreign. “Where did that one rate on the stress scale? From zero to dead.”
+
+“If we’re going to die, you’ll know,” Staavo grumped, jerking the stick to the right to fight another gust and watching the instruments. “It’s the Knuckles. It should steady once they’re behind us.”
+
+“Tarny was doing better,” Jamus said with a click of his tongue. “If my map comes out worse than the old one, Rain will never let me hear the end of it.”
+
+“Oh, stuff your hat in your mouth,” Staavo said.
+
+“I wish Tallheart was here,” said Tarny with a sigh.
+
+Staavo turned to stare at him. “You think Rain would risk him on this insane mission we’re on?”
+
+“I know he wouldn’t,” Tarny said flatly. “I was there when he wrote the posting. I’m just saying I wish. I also wish I hadn’t volunteered.” He chuckled, nervously rubbing his neck. “I don’t know what’s the bigger danger: the Adamants or the altitude.”
+
+“Ah, to be expendable,” Shu said dryly. “It reminds me of home.”
+
+Tarny snorted. “Well, we’ll be seeing your home soon enough, I suppose. Hopefully without any unscheduled lithobraking, as Rain called it.” He yawned, strapping himself in front of the radio console. The radio itself was well out of range of any receiver, but the stone board was there too, packed in its case. “Wake me before we cross the border.”
+
+“Nighty night,” Staavo said with a shrug. Closer to noon, but whatever.
+
+The conversation lapsed, gentle snores soon joining the Rune-muffled rush of air.
+
+Staavo found himself stifling the occasional yawn of his own. It had been a long trip, and it had been that even before reaching the continent.
+
+They’d taken an indirect route, skirting along the shipping lanes, as flying over the deep ocean would have been asking for a watery grave. Leviathans were known to react violently to any violation of their territory, and while Inconceivable flew far higher than a Mage with Flight, nobody was keen on testing whether that was high enough.
+
+They’d crossed over land south of Three Cliffs, where they’d spotted three Adamant ships in the harbor. Skirting the edge of the Badlands, they’d then proceeded inland, covering the horizontal distance from the coast to Vestvall in hours instead of the months it had taken on foot.
+
+They’d found the city occupied. Even from afar, they’d been able to make out a full battalion camped in the neighborhood of the Crack, dashing any hope the Adamants hadn’t discovered the lair at the bottom. They were doubtless farming it. The resources of an entire nation would more than equip them to deal with its Arcane dangers, even if those resources were lives.
+
+It wasn’t like the Empire cared about those.
+
+Continuing west, Fel Sadanis was still a crater. There had been no sign of Adamant activity, and while they hadn’t gone close enough to resolve the reality cracks Ameliah had reported, a shadow had seemed to hang over the entire region. Part of that might have just been the Chemical aspect left by the rank shift. Outside the former site of the city, the landscape was overgrown by the full-sized versions of the fungal trees that had started sprouting before they’d left.
+
+From there, they had turned south, following the Sadanis River into the Badlands toward the Knuckles. The lake at the base of those bleak mountains was hot and acidic, called the Bone Lake for the bleached monster remains that decorated its shores. It was doubtless a terribly exciting place to be on foot, but from above, it was just more boring landscape.
+
+At present, they were headed southwest toward the Empire, planning to slip through the sparsely populated gap between Lamen’s Rock and Old Osar. The Maelstrom lay somewhere along that line, or so they guessed. Reliable information was hard to come by.
+
+Hours came and went, and the Empire drew closer. There was scarce little Staavo could make out through the windows save geology. The tedium of it made a good damper for the tension that came with considering their destination.
+
+As night was beginning to fall, though, things became a little more interesting. On the horizon, below the range of mountains that was just coming into view, it looked like there was some kind of dust storm brewing. A few minutes later, Jamus sat forward sharply and pointed.
+
+“Shu, there.”
+
+“I see it,” Shu said, straightening and calling on his magic.
+
+Staavo craned his neck as Jamus set his eye to the main scope, but all he could see was dust.
+
+“Adamants sighted,” Jamus said. “Gods, it’s an army of them. What are they doing out here?”
+
+“Describe what you see,” Shu said, holding his lens above his head, unable to look through it himself.
+
+“They’re spread out in a line,” Jamus said. “Shoulder to shoulder. Pitch us down a bit so I can see what they’re fighting.”
+
+Staavo didn’t touch the controls, guessing what Jamus wanted and leaving Shu to work the pedals tied to the observation pod’s gearing. The scope could only tilt in the vertical direction, and not very far, but it was better than tilting the entire ship.
+
+“It’s not another army,” Jamus said, adjusting the focus knob. “Monsters?”
+
+“I suspect it is a cull,” Shu said. “They have come far into the ranked zone, by the dust. Curious.”
+
+“What’s curious about that?” Staavo asked, wishing he could see. “Hunting blues, are they? Or Tel?”
+
+“In a wasteful yet expedient manner,” Shu replied. “Each elder monster slain is one which will not live to deepen its color.” He paused, somehow managing to make his silence sound troubled. “There were culls when I was a boy. They were undertaken to build strength for the war with the DKE, though few realized that then. Undama such as I would certainly never have been given the reason.” He paused again. “It is curious that Lightbreaker would order a cull with the war already won. There must be a pressing need.”
+
+“Woah!” Jamus said sharply. “Explosion. Dirt just flew everywhere.”
+
+Staavo narrowed his eyes, searching until he found the spot.
+
+“Geomancer,” Shu said. “They search both above and below.”
+
+Staavo grunted in frustration. The army was still invisible to him at this altitude, its members smaller even than ants. Now that he knew what the dust signified, though, he could see the path they’d taken. It had to be leagues across.
+
+We need to report this.
+
+Staavo glanced at the still slumbering Beacon and filled his lungs, channeling a certain bearded shield-wielding idiot. “Oi!”
+
+Tarny mumbled in his sleep but didn’t open his eyes.
+
+“Oh no you don’t,” Staavo said, rifling through his pockets for something to throw. Unfortunately for Tarny, the first thing he found was a wrench.
+
+“Aie!” Tarny yelped as the metal object clanged against the deck near his feet. “What’s going on?”
+
+“Army,” Staavo said, gesturing toward the bow. “Tell the captain. Ask what he wants us to do.”
+
+“An army?” Tarny said, pressing a hand to his chest. “Wait, did you just throw a wrench?”
+
+“Yes. If I’d wanted to hit you, I’d have hit you. Wake up.”
+
+“Turn us a little to the south,” Jamus said, cutting off Tarny’s reply. “Shu, pitch us up. I’m switching to maximum zoom.”
+
+There was a mechanical clunk as he changed the position of the large secondary lens. Shu’s magic wavered as he adjusted the curvature of his own lens to compensate for the new focal distance.
+
+“Will someone fill me in, please?” Tarny asked with a sigh.
+
+“You’re already filled in,” Staavo said, doing his best to keep the ship as steady as possible to avoid making Jamus and Shu’s job any harder. “There are Adamants ahead, busy killing monsters. Jamus, please narrate what you’re seeing, damn you.”
+
+“At the moment, I am seeing a blur,” Jamus said. “Zoom out, Shu. Out! No, the other out!”
+
+“That was out,” said Shu.
+
+“In, then,” Jamus snapped with uncharacteristic irritation in his voice. “Ah, there. Good. Staavo, just a touch starboard, please.”
+
+Staavo complied, making Jamus click his tongue as his view doubtless slid off target. Maximum zoom was sensitive to small movements, but aiming the scope horizontally with the ship was the only solution they had. He’d have liked to have found a way to make the observation pod pivot in all directions, but he’d run out of time.
+
+“They appear to have a problem on their hands,” Jamus said once he and Shu had gotten things aligned again. “There is a large bear-like creature, and several soldiers have fallen.”
+
+A flash seen out of the corner of Staavo’s eye told him Tarny had managed to reach the captain. He risked a glance aside to see the Beacon fiddling with the stone board before returning his gaze to the level indicator.
+
+“Six legs?” Shu asked.
+
+“Maybe?” Jamus said after a moment. “It’s quite fast. It keeps striking and darting away. Black fur. Twice the height of a man.”
+
+“Bureneen,” Shu said.
+
+Staavo raised an eyebrow. He recognized the name from the list of things you did not want to find in the Badlands. It was a reaper-class threat.
+
+“They are said to embody the will of the Empire,” Shu continued. “Extremely durable. Extremely vicious. Extremely hard to kill.”
+
+“I’ve heard of them,” Jamus said. “Never seen one until now. Ah, it stopped for a moment. Yes, six legs.”
+
+“Consider yourself lucky that you are seeing it from such a distance,” Shu said. “A Bureneen could threaten a Cento. Without a strong defensive formation, common soldiers have no chance.”
+
+“I’m seeing that,” Jamus said. “It’s headed to the right, killing along the line as it goes. Staavo, could you...thanks. Shu, down a bit, okay, good, there.”
+
+“The Dominus will come,” Shu said. “The line will not crumble.”
+
+“I see the Dominus now,” Jamus said. “It’s a woman. Gray hair. Insignia... I don’t recognize it from the list. No heavy armor or equipment to speak of.” He inhaled sharply. “She just smashed the monster into a bloody pancake. Her magic was invisible. No, it can’t be.”
+
+“What can’t be?” Tarny asked, looking up from the rapidly blinking Radiance anchor.
+
+“Hold us still!” Jamus said with sudden intensity, pulling his eye from the eyepiece and snatching up his sketchbook. He roughly flipped the page from his map and returned to the telescope, mumbling to himself as he began to sketch. “Draw what I see, not what I think I see. Draw what I see, not what I think I see. Nose like this. Jaw...like...that...”
+
+“Wait, how high are we?” Staavo asked, glancing at the altimeter. “You can see someone’s nose?”
+
+“Well enough,” Jamus said, sketching like a madman. “Unfortunately, I cannot praise the scope’s designer without him becoming insufferably smug.”
+
+“Rain says to fly over them,” Tarny interjected before Staavo could think of a witty response. “The mission is still a go as long as we’re not spotted. We’re here for the Maelstrom, he says.”
+
+“What the hells is it, Jamus?” Staavo asked, ignoring the update. His old friend was practically frantic. “What do you see?”
+
+“Here,” Jamus said, roughly pulling back from the eyepiece and holding up his pad. “Do you recognize this woman?”
+
+“Why would I know a random—” Staavo froze, recognition exploding in his mind. He hadn’t spent much time around the Guild, but anyone who’d spent time in Fel Sadanis in the years before its fall could have identified that face.
+
+In this case, Tarny beat him to it. “Lavarro?” The man blinked like an owl. “Why does that look like Lavarro?”
+
+Staavo snorted. “Well, shit. Glad I’m not the one who’s got to tell her family.”

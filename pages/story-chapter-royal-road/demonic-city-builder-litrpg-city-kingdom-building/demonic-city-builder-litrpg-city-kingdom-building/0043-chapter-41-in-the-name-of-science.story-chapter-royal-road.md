@@ -1,0 +1,249 @@
+---
+id: f7c55703-7694-5e2c-8c61-9dc6ef82670f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 41 - In The Name of Science"
+slug: 0043-chapter-41-in-the-name-of-science
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 43
+ownLength: 2871
+unit: words
+publishedAt: 2026-07-08
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3648618/chapter-41-in-the-name-of-science"
+royalRoadId: "3648618"
+---
+
+“I’ll admit, if I knew just how primitive things were here, I’d have brought ink and parchment,” said Hector Hallen.
+
+Kairon waved dismissively. “Not an issue, my friend. We still managed just fine!”
+
+The Valdren lordling grit his teeth. “Yes. I suppose we did.”
+
+The demon gave him a fang-filled grin. Negotiations had gone… well. Very well.
+
+“So, before we conclude, I just want to recap our agreements.”
+
+“Is that really necessary? It seemed pretty ironed out…”
+
+“Oh? So if you had a way to sign our agreements, you would?”
+
+Lord Hallen yawned, tying back his long hair behind his shoulders. “Of course. But without parchment, I just don’t see how.”
+
+On instinct, Kairon gave a gentle nudge on Sovereign Eye. He wasn’t sure this would work, but he did feel… something in return. A kind of feedback.
+
+And it answered.
+
+Arbitration requested…
+
+No whispering hall located.
+
+The connection cut out.
+
+As I thought. Still a good test. Back to plan A! Kairon had made contingencies. Of a sort.
+
+Memories of juicy demonic regulatory code flowed through his mind. Specifically, page forty-seven, subsection twelve. It was a clause meant for early settlements without proper infrastructure. Or, in this case, one that hadn’t made a pact district.
+
+It was crude and limited. But it was there, and for this, that would be sufficient.
+
+“Lord Hector Hallen, representative and sovereign of The Kingdom of Hallen. In the absence of a formal whispering hall or proper mediating entity, I invoke the right of dominion by witness.”
+
+Hallen blinked. “What?”
+
+“By blood already being spilled on domain ground, and terms spoken under the gaze of a sovereign eye, this accord is entered into record.” And, in one swift motion, Kairon drew one of his own razor-sharp claws over his forearm. The scales gave way, leaking orange blood into the sand. It sizzled, melting into the ground.
+
+Hector stared first at Kairon’s forearm, then, a measure of understanding entered his expression. He studied his own wrist, cut earlier when they’d shaken hands.
+
+“Kairon… What did you just do?”
+
+“Oh, nothing to worry about. Just a formality. A verbal receipt, of sorts.”
+
+Dominion Witness - Record Logged
+
+Above, the purple eye sparkled atop its tower.
+
+“That phrasing seemed rather serious,” said Hector. His face had gone pale, proof perhaps of the prudence in the demon’s actions. “And what’s this about a pact hall and sovereign eye? Is that what that thing is?”
+
+Kairon brushed his claws over his side, flicking off the blood, and patted the man’s shoulder. “Oh, it's just how deals are done in our domain. Besides, as long as you had no intention of breaking our agreements, there truly is no downside.” He paused, voice going soft. “That was your intention, correct, Hector?”
+
+Their eyes locked, and for a moment, neither said anything. A tension of some kind pressed between them. Kairon let it sit. Let it stew and soften the lordling.
+
+Once he was satisfied his political acquaintance was at the perfect temperature, he snorted. Letting off the steam, so to speak. “Besides, it’s not like you asked for a refund.” He gave an overly exaggerated shudder. “Now that would have warranted concern.”
+
+Hallen stared at him, clearly not understanding. But the tension broke. The lord sighed, shaking his head.
+
+Inwardly, Kairon grinned, that shark-like, predatory expression. Blood was in the water.
+
+“Yes, yes. Sorry, mind you. I feel… off. I think your lands, exotic and fascinating as they are, have started to wear on me.”
+
+“Ah! I warned you about that. Staying here for prolonged periods is unwise for humans. We’ve seen… adverse effects.” He was once again reminded of Veron’s current state.
+
+At least Sythara’s doing what she can to recoup that investment.
+
+“I’m beginning to see that. It may be time I take my leave.” Hector began packing up his travel sack. “Guards! Pack up. We make to depart before nightfall.”
+
+“Yes sir!”
+
+Shouldering his pack, he returned his attention to Kairon. “And my two men?”
+
+There was still one more topic Kairon needed to discuss. One he didn’t want in any agreement the demonic plane might see. His mind went back to all that lovely glowing code he was nearly done polishing off. One section in particular kept returning to him. A thread that connected all of Hector’s slain soldiers to an intriguing clause.
+
+But Hector Hallen might just fit into my plans more seamlessly than I originally intended.
+
+“Hmm. If I know Sythara, he’ll be good as new by now. Let me show you to him. Now that we’ve become more acquainted, I wouldn’t mind giving you a quick tour of the city.” Standing, Kairon sniffed, cocking his head. As if he’d just remembered something. “Come to think of it, we could even use the walk to discuss one last item.”
+
+“Oh? What’s that?” Hector replied cautiously.
+
+As they began the trek to the city, wrath imps and human guards trailing, Kairon flicked his gaze to the walls in the distance. “Think of it as an investment. Tell me, Hector. Do you know what an offshore account is?”
+
+***
+
+Sythara pressed two fingers into skin, feeling the rapid pulse inside. “Subject is showing signs of increased cardiovascular activity.” Pulling up his eyelids, she peered into the purple irises. “Dilation is normal. And…” A pause. “Internal arteries are all a violet hue. Signs of essence acceptance normal,” she ticked off.
+
+As the shadowed demoness observed, geometrical scripts swam over her skin. One like a pentagon illuminated along her wrist. With a careful precision, the demoness slid it down Veron’s chest, then along the spot on his underarm where the tumor had been.
+
+“This… This is wondrous. Host corruption has been assimilated. The intent has been internalized, and the blood.. The blood.” Her prismatic eyes widened, azure light spreading in the tower chamber. “It can’t be!”
+
+Nearly toppling over, she rushed to her belongings, searching until she found the stolen dagger. Rushing back, she positioned the blade along the human’s forearm, finding just the right spot, before making a tiny incision.
+
+What came out was not the red blood of a human, nor the black blood of a corrupted host.
+
+It was orange. Orange!
+
+A manic laugh filled the stone room. “Essence binding is possible! With a host that had their body normalized to corruption, but… but… but that shouldn’t be possible. Right? I mean if it was, then the child…” She pursed her lips. “What is it about this realm, or maybe more accurately, this domain that allowed a human to live with so much corruption for so long? Even without my treatment, he would have survived another week. This defies centuries, no, millennia of demonic science and discovery!”
+
+That elation was short-lived. A conflicted, frustrated sense overcame her. She froze. Outside, a shadowy tendril snaking around the door sensed something. Chitters, squeaks, and blood. Imps were coming. And they weren’t alone.
+
+***
+
+“This way!”
+
+“What? No. I told you, you can’t just drag him along the floor like—”
+
+“No horse. City not allow!” snapped Boney.
+
+The limp body of Elson Bredford was being pulled along the crimson stone of the wrath district, courtesy of three well-muscled warriors. There were some obstacles between the ill man and their destination, but hard tugs got him over any bumps.
+
+By their side, Boney was keeping pace, several more wrath warriors at his back.
+
+“Besides. Master say save men. Not horse.”
+
+“Yes, but please. I’m sure master would understand. The horse keeps the man more comfortable. Dragging him like you are is only worsening his condition. Would master like that?”
+
+“Don’t care. You stupid. Shutup.”
+
+They were still bickering when the group reached the entrance to the citadel.
+
+“Sythara!” shouted Boney. “Master send patient. He sick.”
+
+No reply came. Boney put his claws on his hips. “Sythara! Master need! Human sick!” He stepped inside the dark chamber, two of the warriors on his heels. Without ceremony, they began dragging the unconscious soldier up the stone steps.
+
+“Please, do be gentle!” pleaded Aldous, wincing each time Elson’s head made contact with the hard stone. He wiped one hand over his forehead, clearing the caked sand, dirt, and sweat that had accumulated.
+
+Boney looked back, eyes hard. “Stay there!” The other warriors blocked the door, preventing the servant from following in. Not that he seemed to really intend to. His worry for his comrade only carried so far.
+
+Inside the chamber, a new voice echoed. “Tsk, tsk. The child brings me another patient?”
+
+“Yes. Master say save. He got hot. Too warm.”
+
+“Of course he does. Well, you may as well bring him to me.”
+
+***
+
+The same sigil glowed to life on Sythara’s wrist, letting her monitor and observe the new subject. Frowning, she started pinching areas of skin. They bounced back readily.
+
+She lifted the eyelids, seeing nothing out of place. A pale finger was jabbed into the mouth, coming out slick.
+
+“This is not a human suffering from heat exhaustion. Or lack of water. Weak as these creatures are, he is properly hydrated. And his body temperature is perfectly normal.”
+
+“Master say save,” repeated Boney.
+
+“I heard you the first time!” she snapped. “Go back, keep any more humans or others from intruding through that door. Can you do that?”
+
+“Can save?”
+
+“I can’t do anything with you distracting me. Shoo!” She flicked her elegant hands dismissively.
+
+Boney didn’t look happy, but he ambled off, brethren in tow.
+
+“Now, what should we do here…” She examined the man. With a weary sigh, she called upon her strength shaping and began tugging the body towards Veron.
+
+“Cheeky child. Throwing subjects and patients at me as if I can simply wave all their problems away. Never bothering to ask if I actually can,” she muttered.
+
+The demoness was about halfway to her tent when without warning, Elson’s body stopped. “What the hell?”
+
+Growling with effort, she pulled harder.
+
+No change.
+
+More shapes lit, her arms, legs, and torso illuminating the room in a sapphire sheen. “Move!” she ordered. And she pulled. Hard.
+
+Bones creaked, flesh stretched, and cloth ripped. But Elson Bredford didn’t budge an inch. She was about to rip the poor human’s arm off when she noticed the glow.
+
+“Oh? What’s this?” Letting the arm go, her body dimmed. She knelt.
+
+The human’s chest was fused over a nondescript metal grate in the chamber flooring. While dragging, the hem of the tunic had been lifted. Where exposed flesh met grate, there was a bond. Looking closer, she saw the bond wasn’t to flesh, but gold. The human’s chest had a golden metallic sigil. Where it contacted the grate, a magnetic seal of some kind had been made.
+
+“That glow… It’s being drained?” Sapphire eyes brimming with newfound interest, she started running tests.
+
+It took some doing, and more of her shapes than she would have liked to spend. But several minutes later, she gave a triumphant shout.
+
+“The inverse!” she shouted.
+
+From the door, Boney turned around. “What?”
+
+She was so happy about the realization, Sythara replied on instinct. “I didn’t realize what this was. I knew something was similar to that other wretched human, but I wasn’t sure what. Everything was the opposite. That’s what it is. It’s almost like the exact opposite of corruption. But it's not something holy or divine. It's… I don’t know what it is. Fascinating though. Very, very fascinating.”
+
+Her thin, white fangs had elongated along her chin, giving her a primal aura. Even Boney took a step back, uncertain of what he was looking at.
+
+“What’s going on in there?!” came a muted voice from outside.
+
+Sythara, however, was far too busy thinking. “My research. I must see what happens. I must! The findings could be profound beyond anything any demon’s ever seen. An unknown energy funnel that inversely impacts the host in relation to corruption? How extraordinary!"
+
+Rushing to her tent, she dug around the canvas until she found the remaining purple bead of essence. Veron had, to her delight, only required a single essence to complete her original experiment. Which left one precious bead left. When would a better time than now come to use it and further her studies?
+
+This time, she’d try the same method. But with a body that had the opposite properties. Sythara truly had almost no idea what was going to happen. Only that it would be incredibly profound.
+
+A glee bordering on madness took its place on her lips. Without hesitation, she activated her shaping of connection. Along her thigh, a cone-like shape faded from existence. With its disappearance, the metaphysical intent of the essence in her hand began to drain into the prone human. And drain. And drain. The marble of purple diminished in size until it was the width of a fingernail, a crumb, a speck. Tiny sigils unfolded from the bead, flowing into the human, faint whispers echoing in the tower.
+
+However powerful the essence was, it was minuscule. It only had the crystallized sapience and intent to last moments. Nearly as fast as the process had begun, it was done. The luminescent purple bead was spent and gone.
+
+She stepped back, watching intently. Science was taking place.
+
+There were some shouts from behind her, but she didn’t even bother looking. Nothing could make her miss what happened next.
+
+For moments, there was a stillness. Like the calm before the storm. The stone walls of the tower dripped moisture, the warm winds of sands blew through the door and high window slits, and the bustle of the city outside buzzed. She revelled in waiting. The buildup. The anticipation.
+
+And then it hit.
+
+A clap like thunder sounded, and two energies clashed within the subject’s body. Elson’s eyes snapped open, his consciousness coming back with a snap. He had exactly one second to register the room, the insane demoness, and the energy, before the pain.
+
+His screams were the sounds of nightmares.
+
+“WHAT IS HAPPENING?!!” he shrieked, then breaking off into incoherent cries of terror and agony. “SAVE ME! BY THE FIVE, SAVE ME!” His back arched far more than it should have, pupils going bloodshot, and fists grabbing desperately. “It’s… Tearing me apart! Please, by the Five, please!”
+
+“Subject is experiencing substantial amounts of discomfort,” observed Sythara. “It seems the energy sources aren’t just merging, but colliding. Unlike corruption and blood, I… I didn’t account for the lack of synergy between essence and whatever this is. The results are going to be volatile. Oh, goodness. I haven’t been this excited in decades!!!” She shuddered, a quiver going through her unbidden.
+
+From the chamber’s entrance, a human tried to enter, only to be shoved back. Boney took one look at the flashing lights inside, turned, and ordered the warriors off the steps and away from the tower. Behind them, a spluttering human was pulled along.
+
+Elson’s eyes began to tremble. One second, two healthy pupils were there. The next, they dilated, expanded, and started to marginally inflate. Two irises growing more and more oblong until they couldn’t. With a squelch, they popped. Twin fountains of blood spewed onto the cobble flooring. In their place, golden and purple glows flared to life, like the divine itself was peering through.
+
+Sythara hummed thoughtfully. “The host’s ocular orifices have given out. His human vitality is acting as a sort of catalyst, a lifetime of intent harnessing all that corruption and unknown energy. Intriguing that the most distress was experienced nearest the pupils… It likely stems from the process occurring in the mind.”
+
+Elson’s screams had finally stopped, golden light pouring from his throat, ears, and nose. Instead, a hollow rushing came. More and more of that mysterious energy spilling out.
+
+Then she frowned. Why was she hearing more screams? The subject should not be revitalizing and capable of making further signs of distress. And in a voice that wasn’t the same… She’d just seen the insides of—oh.
+
+In the back of the room, Veron had woken. Unbeknownst to Sythara, he too was placed directly over one of those nondescript grates. It was only now she noticed the purple and golden energies diffusing into the channels that connected them all. An empty tower chamber that was looking more and more like anything but.
+
+“Child, what have you stumbled upon?” she gasped.
+
+There was a blinding light, from void to white, and something far, far beneath the tower clicked. Sythara had just a second to register that tiny noise before Elson Bredford’s body imploded. Blood, bone, flesh, and viscera splattered from wall to wall.
+
+And at its epicenter, sapphire eyes observing it all, was a demoness. Dripping with the remains of her second subject ever in this human realm.
+
+Everything was silent. The drips that just moments before were water and condensation now replaced with vital liquids.
+
+She made a small circle, observing what was left.
+
+“Subject has expired.”
+
+Too busy in her fascination with Elson's unfortunate demise, she didn’t even notice the blackened, malformed golden disc that shot in an arch, landing somewhere in the citadel district outside. The picture of Solari’s sunlit sigil staring up at the evening sky. Along it, a single droplet of crimson wept.

@@ -1,0 +1,425 @@
+---
+id: 76095137-a3ec-5c05-9e3a-079d85e57779
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11: A Field of Blades and Blood"
+slug: 0013-chapter-11-a-field-of-blades-and-blood
+partOf: dungeon-devotee
+position: 13
+ownLength: 5953
+unit: words
+ownProgress: 5953
+publishedAt: 2022-08-01
+link: "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/961377/chapter-11-a-field-of-blades-and-blood"
+royalRoadId: "961377"
+markedReadAt: "2026-06-29T22:39:27.288Z"
+---
+
+Edmund found himself alone in yet another stone room, lit by yet more smokeless torches, casting yet more dancing shadows upon the dark corners of the space. So ended the similarities to previous floors.
+
+Instead of an enclosed beginning chamber with a passage to the level proper, instead of an empty section of hallway leading up to a junction or opening where the danger truly began, Edmund stood at the entrance, and the entire floor stretched out before him.
+
+The rough, but even, stone felt familiar beneath his boots. The walls behind him reached out with arms wide to encircle the entirety of the challenge ahead. On a raised bit of stone opposite him, the exit stood closed. He figured it’d open by the time he made it there.
+
+All of that, the walls, the floor, the shape of the room as a whole, Edmund spared only a glance before devoting his true attention to the level’s dominant feature.
+
+A forest of crystals sprouted from the ground like so many blades of grass. No more than a few inches wide and several feet taller than he was, the violet-tinged translucent triangular prisms seemed to jut from the stone at a variety of angles, all pointing up, yet none pointing directly up.
+
+As he surveyed the field, Edmund spotted four gaps between the crystals wide enough to allow passage, though two would’ve required some amount of contortion to slip himself through. He didn’t dismiss them entirely, but if he could avoid putting himself in a position that so-tightly limited his movement, he would.
+
+His spear at the ready, Edmund stepped closer.
+
+No sounds nor signs of life reacted to his approach, but Edmund knew by now not to take that as an indicator of safety. He started by tapping the tip of his spear against the face of one of the crystals.
+
+It chimed with a resonant tone as his weapon knocked against it, its small and distant point of contact with the ground limited enough to allow it to vibrate pleasantly when tapped. Edmund froze as the noise reached his ear, his narrow gaze scanning the crystal field for motion as the sound slowly faded. Nothing came at him.
+
+He swallowed. He’d have to be careful not to bump against the violet prisms as he weaved around them, their hum sounding altogether too much like a trap or alarm.
+
+Still, through the crystals was the only way forward, so Edmund stepped closer still. His next test would be a risk.
+
+He’d known from the moment he’d laid eyes on them that he’d have to touch one eventually. The way was too dense, the path too fraught, to ever imagine he’d make it through without accidentally coming into contact with one of the crystals. If anything attacked him in there, it would be a certainty.
+
+So he’d find out now, while he still had the freedom to move. With his right hand still firmly grasping the shaft of his spear, Edmund reached out with his left and gently pressed the tip of his finger against the face of the crystal.
+
+Nothing happened.
+
+He kept it there for a moment, waiting and confirming that the crystal had no effect on his bare skin, before pulling back. From there he reached slightly past the crystal, allowing the leather of his vambrace to slide across one of its edges. It sliced clean through.
+
+Edmund pulled back, his theory of the floor’s purpose solidifying. The crystals were sharp, brutally sharp. As far as he could tell, that was their only danger, and it was one he could deal with. It would be difficult, of course, to maneuver through the dense forest without cutting himself, more difficult still to win a fight under such conditions, but Edmund knew he could manage it. His abilities had gotten him this far.
+
+Curving his spear into a hook and looping it around his neck and through his belt, Edmund drew his short sword. Scorpion’s Sting would serve him better in such tight spaces.
+
+He chose the second most open path into the crystal field, considering the first too obvious and the latter two not worth the additional danger. As prepared as he’d ever be, Edmund ducked into the gap.
+
+He progressed slowly and deliberately, pausing for a few seconds with every step to fully take in his surroundings, search for any signs of movement in the jungle of crystals around him, and plot out where he’d next place his foot. He contorted his body around tight corners, twisted his neck at odd angles, and lifted his knees to step over low-angled obstacles.
+
+The further he progressed, the more Edmund grew to question the design of his path. With every step, every navigational decision he made, he dismissed a number of alternatives. He wondered if his choice of entry spot into the field even mattered, if Liam had left scripted pathways through the crystal forest or simply ensured there was a way through and let chaos handle the rest.
+
+If it was the latter, Edmund only had to keep moving towards the exit. If it was the former, he’d want to find the paths Liam hadn’t left open. That’s where the secrets would be.
+
+An hour of grueling travel drained Edmund of his stamina, the crystals unrelenting in their density, leaving him no place to sit, no moment he could relax every muscle at once without falling prey to their sharp edges. It wasn’t until his back ached, his bicep burned, and his left achilles protested every step that he caught his first flash of movement.
+
+Something was out there.
+
+Edmund froze, his gaze darting around in all directions at first for another sign of life, then for a place he could stand and fight. Whatever beast lurked in the distance, the crystals themselves would prove the greater danger.
+
+There weren’t any good spots. To his left a crystal jutted just overhead in a way that’d force him to fight with his head tilted sideways. To his right one swept over the floor, forcing him to keep his feet planted or risk severing a tendon in his calf. One by one he evaluated and dismissed potential battlefields until nought remained but the painful truth.
+
+He’d have to pick one.
+
+Settling on a particularly bare section of ground with three intersecting crystals at chest level, Edmund stooped over and took his stand. He’d have to fight in a squatting position, but at least he’d have some space to move.
+
+He started by casting a Magma Fissure behind him, readily accepting the haze that fell upon his mind with the mana expenditure. The ground split with a deafening crack, the warmth of molten rock radiating up Edmund’s spine. With his already limited maneuverability, he couldn’t afford to leave his back exposed.
+
+The thing came from the left.
+
+It was more mouth than monster, its four spindly legs and two-foot-long body put together smaller than its gaping maw. Bare skin the same tone as Edmund’s stretched across its bony form, taut around its joints yet dangling loosely around its torso. The thing’s legs bent in one-too-many places, three black talons scraping against the stone floor at their end.
+
+But Edmund wasn’t concerned with its small, mobile body or its spindly legs or the loose folds of flesh about its body.
+
+Its mouth held his attention.
+
+A ring of barbed teeth lined its circular maw, its gums black and its tongue dripping with drool. For a moment it paused in its charge, rearing up on its hind legs and stretching its jaws to their full foot-wide circumference. It let out a roar, deep and wet and colored with rage, spittle flying from its mouth to land harmlessly on the floor in front of it.
+
+Edmund watched with wide eyes as its teeth began to spin.
+
+Razor-sharp and barbed to tear the flesh of its prey, the ring of teeth lining the creature’s mouth slowly turned counterclockwise, picking up speed with each passing second.
+
+Edmund threw a Firebolt down its gullet.
+
+The thing coughed and sputtered but continued its approach, its teeth accelerating and accelerating until they were no more than a white blur in the gaping black maw of the comparatively tiny creature.
+
+Edmund lowered his hand and raised his sword. Already his mind moved dangerously slowly—he couldn’t afford another spell.
+
+The abomination drew nearer, and Edmund scrambled for a plan. As far as he could figure, he had two options—stab it through the mouth, or try to get to its body. Neither appealed.
+
+The latter seemed nearly impossible given how well the crystals restricted his motion, and the former meant both risking his hand to the flurry of teeth and depending on finding vulnerability in what seemed like the creature’s strongest part. If its throat could handle a Focus-empowered Firebolt, it was entirely possible it could handle a short sword.
+
+The thing stepped closer.
+
+Edmund’s window closed.
+
+He switched his blade to his left hand and lunged, leaning hard to maneuver around the creature’s maw. He grimaced in pain as a crystal sliced a long gash down the back of his hand and into his vambrace. His grip on his sword slackened with the wound. Edmund pushed past it, embracing the agony of the motion as he fought beyond his base instincts to hold on tighter.
+
+With his right hand he reached for the side of the creature’s mouth, his fingers curling around its outer lip to push its maw aside. His angle was awkward, his motions jerky and limited, but still he struck.
+
+The tip of his blade pierced the loose flesh dangling from the monster’s ribcage. It sliced a narrow score down the folds of skin before tangling in the stringy muscles and tendons down there. Edmund dropped it, the steel clanging against the floor as he caught himself on his newly-freed palm before his own torso could slam into the edge of the crystal beneath it.
+
+The creature didn’t even seem to notice the blow, raging on in its attempt to devour him. Edmund held it at bay with his right hand, shoving its mouth away from him and into a nearby crystal. Whatever its jaws were made of, the supernaturally sharp crystal failed to cut into it, leaving Edmund desperately holding it against the crystal for no purpose other than immediate survival.
+
+That was all he needed.
+
+It thrashed and bellowed and spun its teeth as it tried to push past Edmund’s guard. He held fast, his left arm aching as it held him up, his abdomen screaming with fatigue, his hand awash in agony. However long it took, he couldn’t relax. He couldn’t let go. He couldn’t fall.
+
+The monster’s cries softened, grew weaker and further between, and, eventually, stopped altogether. With one last great shudder, it collapsed. The venom of Scorpion’s Sting had run its course.
+
+Edmund released it, pushing himself back into a squat to take the weight off his injured hand. Already his Perseverance worked to shut the wound as he took in the outcome of the fight. Curiously enough, it wasn’t his injuries nor the corpse of the abomination before him that drew the most concern from the mad adventurer. It was the crystals.
+
+He could see, on the ground, the trail of blood left by his injured hand.
+
+No such trail remained on the crystal that had cut him.
+
+Edmund glanced around, certain he’d missed something. Perhaps his viewing angle couldn’t see the bloodied crystal. Perhaps the dungeon had already reclaimed the spilled blood. He could test that.
+
+Setting his gaze on a crystal to his left, Edmund flicked his injured hand towards it, drops of blood flying from the wound to land on both the crystal itself and ground behind it. Before his eyes the violet translucent prism seemed to drink in the blood, nigh-imperceptibly quivering as the flecks of red shrank and vanished entirely into the crystal. Edmund recoiled.
+
+They drink blood, Edmund thought. That can’t be good. For a moment he wished Liam had been there so he could’ve asked what in the ever-loving fuck these crystals were, but Edmund knew Liam would never tell him, not before he’d cleared the floor.
+
+He turned his attention back to the dead monster, snaking his hand under its jaw to lift it off the ground. It hadn’t landed on a crystal. Edmund let out a breath, grateful he hadn’t let them feast on the dead abomination. He wanted to avoid feeding the crystals as much as he could.
+
+He focused in on the monster and Madness gave it a name.
+
+Spintooth Bloodletter
+
+These fleshy abominations can expand the loose skin around their abdomens to consume twice their body weight in a single bite. The shape and motion of their teeth aid them in drawing blood for their unique mode of reproduction.
+
+Edmund’s eyes shot open. Shit. Shit shit shit shit shit. As if on cue a low-pitched hum rang out to his left. A second joined it, its tone mismatched. He spun, grabbing his weapon off the ground as he turned to stare at the two crystals that’d tasted his blood—the one that’d cut him, and the one he’d experimented on.
+
+Cloudy darkness roiled within them, their translucence fading as their fell ritual crescendoed. Edmund thought for a moment to lash out at one of the crystals, to stop what was about to happen with a swing of his sword, but he knew it wouldn’t work. Liam would never have let him just smash the crystals. He’d only break Scorpion’s Sting if he tried.
+
+The two discordant hums approached, alternating harmony and dissonance as they traversed the octaves to eventually meet. When at last they became one, it happened.
+
+Tendrils a shade of red that painted them as veins began to stretch across the open space between the crystals, meeting in the middle and interweaving to form a single plane, twisted to accommodate its non-parallel progenitors, yet thin enough to be considered flat. The blood vessels continued to creep, weaving amongst themselves as they inexorably filled every bit of air between them. What remained was a membrane, red as blood.
+
+A circle appeared in it, a foot-wide ring that seemed to be pressing in from the other side, but Edmund knew there was nothing behind the membrane.
+
+The ring pushed out further, the veil of blood vessels coating it like a cloth. It wasn’t until the first outline of a barbed tooth tore through the membrane that Edmund struck.
+
+He hit it hard and fast, driving the tip of Scorpion’s Sting clean through the roof of the bloodletter’s mouth.
+
+It roared, hideous and horrible, and thrashed about, its teeth slicing the bloody membrane to shreds to reveal its full self beyond.
+
+A sharp pain shot down Edmund’s arm as the thing’s desperate struggle slammed two of its teeth into the underside of his right forearm, just past the elbow. Edmund grit his teeth and pushed through it, doing a bit of slicing of his own.
+
+He activated Rend.
+
+The bloodletter’s head split open, the thing quieting and collapsing limply to the ground. It bled black, an oozing, sticky substance which the crystals thankfully seemed to ignore.
+
+Edmund bled red.
+
+As the beast fell its barbed teeth tore from the puncture wound in Edmund’s arm, flecks of blood splashing from the injury and its source alike. Two crystals, both nearer to the ground, drank their fill and began to hum.
+
+Edmund cursed and readied himself.
+
+He couldn’t keep doing this. The accumulation of injuries beside, his spells had already given up too much clearheadedness for comfort, and he only had so many activations of Rend before his movements began to lag behind as much as his mind. He wracked his brain for a plan.
+
+Running was off the table. He could never hope to outmaneuver the smaller creatures in the crystal field, and trying to move quickly would just lead to him cutting himself and spawning more of the things. He had to be slow, careful. It wasn’t enough to kill the thing. He couldn’t let it make him bleed.
+
+Edmund tried to bring his sword between the weaving veins, but the weapon passed straight through. He couldn’t stop them spawning, not once his blood had been spilled.
+
+He watched the red tendrils come together, twist and spin and tie into the solid shape that would birth the monster. He waited for the ring of its mouth to appear, for the first tooth to tear through the veil of blood.
+
+Edmund struck.
+
+He came in from the side, angling the tip of his blade around the outside of the spintooth’s jaw. He didn’t know how much of the creature existed on the other side of the membrane, so he had to keep this close to the mouth.
+
+He got it through the cheek, piercing loose flesh to deliver damage and poison to the spawning bloodletter. It wasn’t even close to a lethal blow.
+
+Until Edmund used Rend.
+
+The membrane retreated as the thing collapsed, landing with a thump upon the ground before the dungeon could even reclaim its predecessor. Edmund nodded, muscles aching with exhaustion even as he reveled in downing the thing without injury.
+
+To his right, a crystal began to hum.
+
+Edmund clenched his jaw and spun to find another membrane already forming, the ground beneath it decorated in the few drops of blood that had flown from his previously-injured arm as he’d used it. Thrax’s name escaped his lips once more as he readied himself for this next foe.
+
+He was sloppy this time, sluggish. He struck with his left hand to keep his bleeding right arm close, but the loss of control cost him.
+
+The bloodletter jerked away as Edmund’s blade pierced its cheek, not enough to free itself or escape his lethal Rend, but enough to drag Edmund’s left hand across the edge of the crystal that had summoned it. By the time the monster fell, another membrane had begun to take shape.
+
+Edmund grunted and switched hands yet again, containing the bleeding from his left while hoping his Perseverance had at least stopped the flow from his right. Now more than ever he needed the greater range of his spear, but he could already barely move in the tight quarters. He wouldn’t have even been able to aim the damn thing.
+
+So once more, with his short sword in a bloodstained hand, he waited for his opening, and he struck.
+
+He moved quicker this time, Rending the beast before Scorpion’s Sting could even fully pierce its skin. The resulting slash only penetrated half as deep, but slicing through half of something’s brain generally brought about the same result. Again, the bloodletter collapsed.
+
+Edmund froze. He didn’t move. He didn’t breathe. He didn’t take in his injuries. He waited, and he listened. His heart raced in his chest, pumping more and more blood from the gash in his left wrist, but he kept it close, letting it drop down his chest rather than fall elsewhere.
+
+Silence met him. No bloodletters cried. No claws scratched against the floor. No crystals hummed.
+
+Edmund kept still. Drops of blood fell from his cuirass onto his boot and the stone beneath it. Drip. Drip. Drip. Still he didn’t move. The dripping stopped, leaving only the pounding of his heart for company. Still he didn’t move.
+
+Seconds dragged to minutes as he waited there, first for Perseverance to stop the bleeding, then for nature to dry the blood. He didn’t know if the crystals could drink dried blood, so he’d have to avoid touching them at all. He could handle that.
+
+He listened closely for the hint of another bloodletter, another monster roaming freely as the first one had been. None came.
+
+The dungeon didn’t need to start with any more. One was enough.
+
+Once a half hour had passed, Edmund pushed forward. He had no other choice. His muscles ached and his mind slogged as if through mud, but he couldn’t rest, not within the crystals. Even was there enough space to actually sit down, the inherent danger of the slightest misstep could allow no relaxation. He had to keep moving.
+
+The progress was grueling. He made every motion with deliberate care, paying close attention to every part of his body that shifted with each step, not just his feet and head. He couldn’t afford to slip and start the chain of spawning bloodletters again, and he definitely couldn’t afford to fall and summon more than one at a time.
+
+So on he trudged.
+
+His heart skipped a beat when the opening in the crystals first appeared, only to sink when no path to it presented itself. Instead his way guided him left, at first away from the exit but then, in its own winding and indirect way, inexorably towards the way out.
+
+Edmund collapsed when he finally escaped the forest of crystals, falling down onto his back as his muscles relaxed for the first time in what felt like an eternity. He twisted his neck back and forth, working out the stiffness from keeping it bent for so long. He rolled his ankles, he cracked his back, but most of all he lay there and he breathed.
+
+He’d expected danger. He’d expected to fight for his life. He hadn’t expected a single fight to last for hours, but that was the only way he could describe this field of blades and blood. He hadn’t fought individual battles with the bloodletters, he’d fought one battle, against the crystals themselves.
+
+And he’d won.
+
+A chime rang out to signal the floor’s completion, and Edmund let out a breath. He shut his eyes, resting them, now that he could. A moment passed as he let himself enjoy his victory, reveling in the feeling of conquering that which seemed unconquerable.
+
+He didn’t hear the thing coming.
+
+No sounds of feet against stone reached his ear, no heaving breaths or gentle pants resounded through the air. He felt only the warmth and wetness of a tongue scraping against his forehead.
+
+Edmund’s eyes shot open.
+
+A blue fox stood over him.
+
+The azure fox looked both the same and different than before. Its jaw dripped black with the blood of the bloodletters, a pair of unnatural, curved horns sprouted from the top of its head, but the look in its eyes didn’t speak of violence, nor of mischief, nor even of thanks.
+
+It spoke of pride.
+
+The thing bounded away and Edmund jerked upright, calling after it as it made towards the exit. “Wait! I want to talk to—”
+
+It vanished, leaping into the darkness between levels without a moment’s hesitation. Edmund bit back the curse forming on his lips, choosing to divert his attention away from annoyance at unanswered questions and towards excitement at his newest boon. He lay back down and shut his eyes once more, this time rejecting the nothingness behind his eyelids to conjure his constellation. Sure enough, his sigil had changed.
+
+Trailblazer’s Sigil of the Azure Apprentice
+
+The third step on the Path of the Azure Fox. Increases agility. Grants a single windstep. Increases positional awareness.
+
+Trailblazer bonus: Sharpens hearing.
+
+Edmund let out a sigh. He’d been hoping for another windstep, another inch in what seemed to him the miles-long trek towards eventual flight. Instead he’d received positional awareness, a nebulous concept that he couldn’t quite quantify the use of. He supposed it had to be useful, but how much so remained to be tested.
+
+With his constellation already open, Edmund turned his attention to the other bit of business he had there: his next Aspect.
+
+A number of options presented themselves. While the base Aspects the scholar had highlighted held some appeal, making a tier three would be the most efficient. He’d need that extra strength if the next floor was as deadly as this one had been. Two combinations of his four base Aspects remained. Edmund eliminated the conflux of The Island and Elements out of hand, uninterested in making a confluence that didn’t involve the linchpin of his build.
+
+He had two ways to combine Madness, Elements, and Solitude, and once he chose, the other would be locked away from him forever. Of course, as far as Edmund knew, the two paths led to the same end, and the only choice was in if he’d rather upgrade The Recluse or Sorcery. He also knew the chance existed that the two combinations formed different Aspects.
+
+So Edmund thought about it. He had nothing resembling an encyclopedic knowledge of the various Aspect recipes, but he could imagine what types of concepts might’ve been Aspects, and he could reason which of those might stem from his potential options.
+
+He found nothing.
+
+He gave it a good hour’s analysis, but the more he thought about it, the harder it was to come up with an Aspect that Elements might make but Sorcery wouldn’t. Without that particular issue to guide him, it fell to a matter of preference. Sorcery gave him Smoke Lash, a powerful spell that utilized his Madness, but not his most powerful spell.
+
+The Recluse, in contrast, empowered his most essential Aspect, and contributed to the sense of clarity and normalcy he felt when surrounded by others. He knew that latter shouldn’t have factored into his decision, but it did anyway. The ability to play nice in town could prove just as essential as his combat prowess for all Edmund knew.
+
+With a last look around to confirm, Edmund focused in on The Recluse and Elements, and made his decision.
+
+Tier 3 Aspect: The Philosopher - Silver+ Resonance
+
+Level 1 - Ponder the nature of reality.
+
+“Thrax damnit,” Edmund cursed. He didn’t need this metaphysical bullshit. He needed an Aspect that’d keep him alive now. He supposed this was what he got for upgrading an Aspect that did nothing but interact with Madness. He cursed again.
+
+“Oh, come now, it can’t be that awful.”
+
+Edmund opened his eyes to find Liam leaning comfortably against the razor-sharp crystals. “The Philosopher?”
+
+“Ooh, that’s a good one.” Liam rubbed his hands together. “Shit now, of course, but get a few more levels in there and…” He trailed off. “This’ll be fun.”
+
+Edmund growled, shutting his eyes again to confirm none of his newly upgraded Aspects had changed. As he did, he noticed something odd about The Philosopher—it didn’t shine entirely silver. Flecks of gold peeked through, glimmering in their own tones beneath the silver light. He started to wonder what that meant, but Liam redirected his attention.
+
+“I made a mistake.”
+
+Edmund’s eyes blinked open. “What?”
+
+“What? I can admit it.” Liam shrugged. “Sending you to these phased-out floors to up the difficulty works well enough, but if you’re only ever on floors that I don’t serve up to the general populace, you’ll never run into any other delvers.”
+
+Edmund raised his eyebrow. “And that’s a bad thing?”
+
+Liam grinned. “Didn’t you want to see that princess of yours again?” He shook his head. “That’s not the point. If you don’t run into any delvers, it’s just violence and death until you eventually fuck up and die. There’s no drama, no interaction, no life.”
+
+Edmund glared at him. “You want to change our deal so you don’t get bored?”
+
+“Not change it. I’ve got a workaround.” With a flourish, a small square of translucent film appeared in Liam’s hand. It bore an image of two crossed swords behind a golden crown. Madness relayed the rest.
+
+Delver’s Mark of the Challenger
+
+Empowers nearby dungeon monsters. Significantly increases the value of loot chests you open. Slightly increases the resonance of Aspects you unlock.
+
+Edmund paled. He’d imagined the increase in loot, but as far as he’d ever known, increasing resonance was impossible, not from an external source, anyway. That must’ve been what those gold flecks in The Philosopher represented, not close to a full resonance level, but a noticeable upgrade nonetheless.
+
+Liam grinned. “I take it from the look on your face you already know what this is. Taking it will bar you from ever taking a gatherer’s or crafter’s mark, but you were always going to take a delver’s mark. It won’t stop you from taking more delver’s marks—I wouldn’t hold this one against you.”
+
+Edmund stared at it. “And if I take this, then anyone I’m with has to fight more powerful monsters too.”
+
+“They would.”
+
+“Can I take it off?”
+
+“At any time,” Liam said. “Though once it’s off it never comes back on.”
+
+Edmund nodded. There’d be little point to fighting more difficult enemies if he couldn’t make them easier again as he reached the dungeon’s deadliest levels. “Okay,” he said, unbuckling his left rerebrace. “I’ll do it.”
+
+Liam placed the mark on Edmund’s upper arm, the thin film vanishing entirely until what remained seemed little more than a tattoo. Edmund ran a finger over it, feeling nothing.
+
+With a nod, he replaced the piece of armor and pushed himself to his feet. The loot chest by the door wasn’t silver with a few gilded spots. Its gold was solid.
+
+Edmund looked past the trio of gold coins to the piece of armor next to them. It was a chest plate, formed of a layer of the same translucent crystal over one of normal metal. He ran a hand over it. It wasn’t sharp like those behind him, but he did notice the spot of dried blood on his palm vanished where it’d touched the piece.
+
+Blooddrinker’s Crystal Cuirass
+
+Provides major protection against piercing and crushing damage. Vulnerable to blunt-force damage. Absorbs blood that comes into contact with it to repair itself.
+
+Edmund let out a satisfied breath as he collected his first true upgrade. His pale widow’s carapace had served him well, but the chitin chest plate had already collected its fair share of holes and weak points. His barkbreeches needed replacing even more, but they’d survive another floor or two.
+
+He didn’t hesitate to strip away his old cuirass and don his new one, considering, for a moment, trying to fit the carapace into his satchel so he could sell it later. He chose not to, the armor damaged enough it’d probably fail to fetch a price worth the effort. Instead, he let it fall, abandoning the old loot in favor of the new.
+
+His loot collected, his Aspect claimed, his sigil upgraded, and with a new mark upon his arm, Edmund stepped away from the golden chest and returned his focus to the field of crystals. There was still one thing the floor had to offer him.
+
+He started by touching every part of his body he could to the blooddrinker’s cuirass, effectively scrubbing himself of every bit of blood that had been spilled. Next, he approached the edge of the edge of the crystals, drew his spear, and ran his hand across the closest edge. A trail of red appeared and disappeared.
+
+The bloodletter that appeared died swiftly and harmlessly.
+
+There, at the field’s edge, Edmund had the freedom to move, to wield his spear with the brutal efficiency he’d fostered. The beast hadn’t stood a chance.
+
+Curiously enough, his challenger’s mark didn’t seem to empower the creature at all. He wondered if that had something to do with receiving the mark on that floor, or if it simply didn’t work now that the level was considered cleared. Either way it had no bearing on his next actions.
+
+Edmund bled, and Edmund killed.
+
+He fought two, three, four of the monsters at once. He killed them with his spear, with his sword, with his spells, with his hands, taking each new step at the field’s edge, where he could afford to bleed without overwhelming himself. He got what he could from the outside.
+
+Then he went in.
+
+He kept close to the exit, keeping his line of retreat open at all times. He fought them on their turf, among the tight and deadly crystals that threatened to slice him open and summon his death at the slightest slip up.
+
+It was then that Edmund realized the true value of the fox’s gift.
+
+He found an intuitive sense of where each crystal sat in relation to him. He had to see them first, know they were there to begin with, but once he did, it struck Edmund as remarkable how easily he could track exactly where each obstacle stood, even as he moved around them. Even in the midst of the fight, with whirling teeth descending down upon him, never once did Edmund fall into a sharp edge.
+
+In the end, there was precious little to gain from inside the crystal field. He practiced moving in tight quarters, efficiency of motion and precision maneuverability, but the fights themselves grew repetitive. With so little space in which to work, Edmund could only kill a bloodletter so many ways.
+
+He recognized the hints of stagnation immediately and reacted accordingly. Less than two days after the chime had rung, Edmund left the crystals behind. He gathered his gear, used his cuirass to clean himself of blood, and ran a hand over the mark on his arm. With a nod he said goodbye to the eleventh floor, to the challenges it’d brought and the prizes it had rewarded. The twelfth awaited him.
+
+So Edmund Montgomery Ahab, The Crimson Hand, Bearer of the Challenger’s Mark, Slayer of Beasts and Fiends and, one day, Dungeons, stepped into the darkness.
+
+Edmund Montgomery Ahab, The Crimson Hand
+
+Aspects Unlocked: 12
+
+Tier 1 Aspect: Elements - Gray Resonance
+
+Level 5 - Provides access to the Firebolt spell.
+
+Tier 1 Aspect: Solitude - Red Resonance
+
+Level 6 - Gain increased constitution while fighting alone.
+
+Tier 1 Aspect: Perseverance - Gray Resonance
+
+Level 6 - Gain health regeneration.
+
+Tier 1 Aspect: Madness - Prismatic Resonance
+
+Level 8 - See beyond reality. Touch the unreal.
+
+Tier 2 Aspect: Sorcery - Gold Resonance
+
+Level 1 - Provides access to the Smoke Lash spell.
+
+Tier 2 Aspect: Obsession - Gold Resonance
+
+Level 2 - Gain strength and agility for each consecutive day spent pursuing your obsession. Gain mana for each consecutive month spent pursuing your obsession.
+
+Tier 2 Aspect: The Recluse - Gold Resonance
+
+Level 2 - Empower the effects of Madness while alone. Lessen the effects of Madness while accompanied.
+
+Tier 2 Aspect: The Island - Gray Resonance
+
+Level 3 - Grants resistance to over-time effects while in groups of two or fewer.
+
+Tier 3 Aspect: Focus - Silver Resonance
+
+Level 1 - Doubles spell damage when attacking a single target.
+
+Tier 3 Aspect: The Philosopher - Silver+ Resonance
+
+Level 1 - Ponder the nature of reality.
+
+Tier 3 Aspect: The Rift - Gold Resonance
+
+Level 2 - Provides access to the Rend active ability.
+
+Tier 4 Aspect: The Fissure - Silver Resonance
+
+Level 1 - Provides access to the Magma Fissure spell.
+
+Delver’s Mark of the Challenger
+
+Empowers nearby dungeon monsters. Significantly increases the value of loot chests you open. Slightly increases the resonance of Aspects you unlock.
+
+The Crimson Hand
+
+Grants minor resistance to piercing damage. Bestows ownership of the Dread Gauntlet of Kor’Ilinesh.
+
+Trailblazer’s Sigil of the Azure Apprentice
+
+The third step on the Path of the Azure Fox. Increases agility. Grants a single windstep. Increases positional awareness.
+
+Trailblazer bonus: Sharpens hearing.
+
+Trailblazer’s Sigil of the Rootmother
+
+Non-intelligent Strethian lifeforms will treat you as an ally. Gain the ability to draw water and nutrients from fertile soil.
+
+Trailblazer bonus: draw water and nutrients from all soil.
+
+Cloudkith Sigil
+
+Cloud-based lifeforms will treat you as an ally. Gain enhanced perception through vision-reducing effects.

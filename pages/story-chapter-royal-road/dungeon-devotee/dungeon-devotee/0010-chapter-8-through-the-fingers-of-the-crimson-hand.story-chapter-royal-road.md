@@ -1,0 +1,419 @@
+---
+id: 4e02faa3-3f9d-538c-b75d-215ffa1b83b5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8: Through the Fingers of the Crimson Hand"
+slug: 0010-chapter-8-through-the-fingers-of-the-crimson-hand
+partOf: dungeon-devotee
+position: 10
+ownLength: 6043
+unit: words
+ownProgress: 6043
+publishedAt: 2022-05-01
+link: "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/898442/chapter-8-through-the-fingers-of-the-crimson-hand"
+royalRoadId: "898442"
+markedReadAt: "2026-06-29T22:39:21.271Z"
+---
+
+Edmund emerged into a narrow hallway, his shadowhide boots stepping softly across the even floor. Carved and mortared stone lined the walls and ceiling, its gray surface cold and uninviting. The smokeless torches hung in sconces, their tops decorated with studded iron rings through which the flame rose.
+
+Liam didn’t show himself.
+
+Perfectly happy to be left alone, Edmund surveyed the space around him.
+
+The walls stretched some five feet apart, giving him just enough space to maneuver his spear, but not enough to do so easily. Torchlight flickered ceaselessly, illuminating the entire space in that familiar orange gloom of cramped underground spaces. A pervading sense of moisture hung in the air, an oddity, Edmund thought, given the chill that seemed to radiate from the stones around him.
+
+The hall was cold and damp and lit just enough to exist without shadows. Had he expected something welcoming, Edmund would’ve been disappointed.
+
+He hadn’t.
+
+As per usual, the floor beyond his current position lay obscured by a bend in the path, forcing him to distance himself from the entrance if he wanted to know what threats the level would pose. Edmund understood the reasoning for it—the Depths didn’t want people scouting out a floor from the safety of the entrance. If he wanted to know more, he’d have to leave escape behind.
+
+Having no intention of leaving the dungeon one way or another, Edmund didn’t care. He pressed forward.
+
+With his footsteps silent, the sound of his breath and the beat of his pulse in his ear seemed to fill the corridor. On instinct more than anything else, Edmund strove to silence both, as if whatever lurked up ahead could hear his heartbeat.
+
+Around the bend he found a long, straight hallway, at the end of which sat a wooden door, tall and welcoming.
+
+The exit stood open. He just had to get there.
+
+Edmund counted three junctions in the hallway where perpendicular paths intersected his, as well as a series of smaller doors along the walls. He didn’t bother counting them, they were so many.
+
+With a watchful eye towards the hall ahead and all three intersections, Edmund approached the closest door. It stood not much taller than he, its front consisting of iron panels with tightly fitted seams. Right at Edmund’s eye level was a small square gap, through which three iron bars ran vertically, the gaps between them narrow enough to allow no more than a finger to reach through.
+
+Edmund flashed a careful glance down the long hall before turning to investigate the door further. He tried to peer through the hole without getting too close, but his eyes caught only shadows. He’d have to put his face at risk of surprise attack to get a better look.
+
+Leaving the hole behind, Edmund moved his attention to the latch. He prodded at the simple yet sturdy locking mechanism with his spear, fiddling with it from arm’s length in search of hidden needles or triggers. He’d only covered half of it when it appeared.
+
+The sound of its breath reached Edmund first, deep and raspy and pained, full of phlegm and difficulty, like at any moment it would break out into a fit of coughing that never came. Edmund turned just in time to watch it round the nearest corner.
+
+The thing stood eight feet tall, its humanoid figure covered head to toe in jagged black armor. It didn’t shine in the torchlight like obsidian, but seemed to drink in the light around it and offer little in return. Its edges were sharp and brutal, every joint and corner a weapon to be wielded. Only two visible signs of the creature beneath showed through the armor. The first was a pair of glowing red eyes beneath the dark visor.
+
+The second was its bare right hand.
+
+While a deep black gauntlet with clawed fingers protected its left, its right hand stood exposed, the only evidence of the thing’s true appearance. Its flesh was dark gray and sickly, layered in scars down to its gnarled and crooked fingers.
+
+Every premonition, every beat of his heart, every instinct he’d trained over grueling months in the Eternal Depths screamed at Edmund that this being meant death. He couldn’t put his finger on why. He didn’t try. The thing was moving towards him, and something about it, something about the layout of the floor itself, itched at the back of Edmund’s mind.
+
+Without a thought his hand darted for the door handle. He’d face whatever lay beyond rather than the visage of death that bore down upon him. He slipped inside, shutting the door behind him as silently as possible, keeping a hand on the inside doorknob to keep it from latching. In a quick and quiet motion, he swept Rat’s Fang from his belt and slid it into the mechanism, keeping the door unlatched while, hopefully, making it look shut from the outside.
+
+It was only then that he turned to face the cell’s occupant, and it was a cell, that much was clear. The room stretched only eight feet in each direction, its only amenities a single torch and the chains bolted to the back wall. The wretch within lay curled in a ball in the corner, its ribs and pelvis protruding from its taut, hairless, white skin. It wore only a ragged brown loincloth and an iron collar around its neck.
+
+Edmund let it be for the moment, keeping a careful eye on the rise and fall of its chest and the regular shivers that shook its entire body. He held his breath.
+
+Just outside, the ragged, labored breathing grew louder. It scraped through the air, piercing even the metal door to grate at Edmund’s ears. He stilled. His heart pounded. The creature chained to the wall let out a quiet whine. Edmund froze, mind racing with the fear that the prisoner had alerted the beast outside to his presence. He thought, for a moment, to end its suffering, but such an action would surely make too much noise.
+
+So he waited. Tense seconds dragged on as the raspy breaths reached their peak and slowly began to fade. Only when his enhanced ears could no longer pick up the noise from beyond the cell door did Edmund finally exhale.
+
+He paused to stare down at the creature on the floor, wracking his brain to decide on the best course of action. His nobler side insisted he free it, break the chains around its neck and let it loose from its cell. His paranoid side argued that the thing clearly wasn’t human, and was just as likely to try and kill him as thank him for his efforts. Edmund dismissed the thought as unviable. Whether or not the thing attacked him, breaking it free bore a very real risk of alerting the thing standing guard outside.
+
+That left him with two options: leave the wretch be, or put it out of its misery. Monster spawned by the dungeon or otherwise, something within Edmund rebelled against the idea of murdering something chained to the wall. Putting it down also carried a similar risk as letting it go. He had no idea what would and what wouldn’t alert the warden that wandered the halls.
+
+So he left it there, leaving the other options open for a point in the future when he’d gathered more information.
+
+His mind wrestled with the idea of intent as he stepped back into the now-empty hallway. What did Liam expect from him? Was the warden a boss to be slain or a mechanic to be avoided? Why lock up other monsters in the cells?
+
+Edmund decided it didn’t matter. Clearing floors as intended didn’t drop rare sigils or hidden loot.
+
+He made it four steps down the narrow hall before the ragged breathing reached his ear once more. Edmund didn’t hesitate. He darted forward, towards the junction from which the warden approached, and grabbed the handle of the nearest cell door. He swung it open and slipped inside, closing the door behind him and jamming the latch with Rat’s Fang.
+
+He was greeted by the sharp and ominous sound of a chain snapping.
+
+Edmund whirled around, leveling his spear at the cell’s occupant. He was too slow.
+
+The side of his spear tip tapped against the ribcage of the skeletal, pale-skinned humanoid, the thing already inside his reach.
+
+Edmund reacted on instinct, well familiar with such situations. He let his spear fall to the floor with a clatter, abandoning the weapon now that its range made it a hindrance. This would be harder with Rat’s Fang occupied keeping the door from locking behind him, but Edmund had trained for this, against rats, against spiders, against mantises. He didn’t need weapons.
+
+He lowered his unprotected head and dove for the charging creature, angling his motion and twisting his neck to collide with the thing off-center.
+
+Fiery agony raced through him as one of the beast’s long claws slashed down Edmund’s exposed upper arm. A dissonant scrape pained his ears as the creature’s other hand raked across his cuirass. Edmund ignored both.
+
+He crashed into the creature’s torso, the left side of his head slamming painfully into the thing’s ribcage. It absorbed his momentum, not even stumbling as he collided with it.
+
+But that didn’t matter.
+
+His left pauldron, its tip pointed in replica of the rockjaws he’d fought on the fifth floor, pressed into the flesh between his foe’s ribs. It was all Edmund needed.
+
+He wrapped his arms around the thing, holding himself to it even as it clawed at his exposed arms and neck, pressed the tip of his pauldron into its chest, and activated Rend.
+
+The ability, awkwardly aimed and limited in its motion, failed to cut the monster entirely in half. About three inches of flesh and bone kept it technically in one piece as it collapsed to the stone floor, dead.
+
+Edmund fell on top of it, wrenching his arms out from under it to avoid slamming his elbows against the hard stone. He took two breaths, one short and sharp and one long and purposeful, then pushed himself up. He wanted to get a good look at the thing before the dungeon reclaimed it.
+
+Of its pale, boney, and gangly limbs he’d seen enough. Each of its twelve fingers stretched nearly twice as long as Edmund’s own, ending in sharp and brutal points. Each and every one of them glimmered red in the torchlight, Edmund’s blood painting them in sharp contrast to the alabaster skin beneath.
+
+Just like the one in the previous cell, the creature wore naught but a ragged loincloth. Unlike the one in the previous cell, Edmund could see this one’s face.
+
+Or lack thereof.
+
+Beneath a hairless scalp, upon the stretch of skin where eyes and a nose should’ve been, was only a wide horizontal seam. Edmund leaned in and pulled back its lipless maw to reveal a row of pointed teeth. The mouth stretched far wider and sat far higher upon the thing’s head than any humanoid Edmund had heard of. He wondered exactly what it was he’d fought. Madness answered.
+
+Faceless Wretch
+
+In the adjunct realm of Ir’Kalinath, only the foulest of criminals face their greatest of punishments. The chains they wear siphon away their very souls, draining them of every ounce of humanity over the years for the sole purpose of empowering the guard that watches over them.
+
+By the time he’d finished reading the tendrils of smoke in the air, the corpse before him had dissolved into the aether. It didn’t matter. He had what he needed.
+
+The prisoners were empowering the warden. Whether that would end with their lives remained unknown, but if Edmund knew Liam, the answer was yes. He wondered how many other delvers had figured it out, how many had simply assumed the purpose of the floor was to dodge the warden and fight its prisoners while hiding from it until they could make it to the exit.
+
+He supposed it came down to how many people realized the wretches made the warden more powerful. How many people knew of Ir’Kalinath? What even was an adjunct realm?
+
+One way or another, Madness had done what it did best, and revealed a path he hadn’t considered before. The way out was already open, which meant most delvers would’ve slipped past the warden and continued on. Killing the warden had to be worth a prize of its own.
+
+Edmund gathered up his fallen spear and pressed his ear to the door to listen for any trace of the ragged breathing that marked the warden’s presence. Hearing none, he grabbed Rat’s Fang and stepped back out into the hall. He made straight for the next cell, not bothering to wait for the warden to force him into hiding.
+
+Again the wretch within snapped the chain around its neck and charged him. This time, Edmund was ready.
+
+His weapon already in position, the beast never found a way past Edmund’s reach. It died with a spear through its neck.
+
+Edmund paused over the wretch’s corpse, a stab of something aching at the back of his mind. It wasn’t guilt. It couldn’t have been guilt. These things were dungeon mobs. They were trying to kill him. They had wicked claws and no face and an unnatural mouth that threatened to devour him.
+
+But they’d been human once.
+
+Edmund left it lying in a pool of its own blood, stepping back through the cell door he hadn’t bothered to close and returning to the hallway. It wasn’t real, he told himself. These things were constructs, created by Liam with the sole purpose of suffering—their own and that they inflicted on passing delvers. Their blood wasn’t on Edmund’s hands. It was on Liam’s. The only real way to end their suffering would be to end the cruelty that founded it in the first place.
+
+Anything, in Edmund’s mind, could be justified in pursuit of that goal.
+
+So on he went.
+
+From door to door he traveled, a salesman bearing death in his briefcase. He hid when the noise of labored breathing reached his ear, and shut each cell door behind him as he moved on. Perhaps the warden wouldn’t notice what he was doing.
+
+By the time he returned to the first cell in which he’d hid, he’d long grown if not comfortable with the slaughter, at least accepting. He might’ve invoked it by seeking them out, but the wretches did try to kill him, after all.
+
+Except for that first one.
+
+When Edmund returned to it, he found it still laying there, curled up against the back wall. It didn’t roar. It didn’t shift. It didn’t break its chains and charge him.
+
+Edmund killed it anyway.
+
+It had to be done, he argued, ignoring the open exit to the next floor. It wasn’t human, not anymore. Any act of violence is acceptable in pursuit of violence’s progenitor. And yet, of all the wretches he’d slain, this one’s blood seemed to stain his spear tip all the more. It shone brighter, dripped louder, caught the torchlight and Edmund’s eye at the same moment.
+
+And then he moved on.
+
+He circled the entire floor three times, stopping at every cell to check and recheck that no wretch remained in occupation. At first he tried not to think about what would happen if one respawned while he fought the warden, but once he’d slain them all Edmund knew he’d have to prepare for that eventuality.
+
+So he held off. He kept moving, traversing the three parallel hallways and the perpendicular corridors connecting them. For some time he circled, evading the warden as he did its job for it, checking in on the various prisoners. An hour passed, then another. Edmund gave it three more.
+
+He waited as long as he could without putting himself at risk of dehydration for lack of soil to draw from, pushing himself long past the dungeon’s normal respawn timer just in case.
+
+Not a single wretch reappeared.
+
+Only then did he seek out the warden.
+
+Warden Urliel, The Crimson Hand
+
+The name didn’t shine red like that of the rare boss he’d slain on the second floor. It did bear the same crown as the other bosses he’d faced, but another image hovered above the smoky text:
+
+A white skull.
+
+Edmund didn’t stop to wonder what the symbol meant, nor whether or not it would’ve appeared differently had he appraised it before killing the wretches. He didn’t question how the title of crimson hand described a being with one hand of dark gray and one clad in ebon armor. His foe was in sight, and its back was turned.
+
+Edmund charged.
+
+He held his breath as he ran. His footsteps silenced by his shadowhide boots, only the racing of his heart and warmth of his skin could’ve possibly alerted the warden to his presence.
+
+It spun on him, raising its armored hand to meet Edmund’s approach. Black tendrils burst from its palm, racing through the gloomy air towards Edmund.
+
+He swept at them with his spear, attempting at first to parry or disperse whatever spell the warden had cast. The spider leg passed right through the twirling shadows.
+
+Edmund jumped to the left, his shoulder slamming against the wall as the warden’s spell flew past him. He pushed off against the stone with his elbow, rebuilding his momentum as much as he could before the tip of his weapon reached Urliel’s armor.
+
+His blow struck the behemoth just above the knee, skidding up across its leg plate to find a seam in the jailer’s armor at its waist. It sunk in an inch, then another, then another, the force repelling Edmund’s spear far greater than the familiar resistance of flesh to such puncturing. Still the spear sank deeper.
+
+It was only when Edmund knew for sure his spear tip had pushed well past the thick armor that he activated Rend.
+
+Or tried to, that is.
+
+However he tugged at that muscle that’d always been there, Rend refused to work. A flurry of ideas shot through Edmund’s mind as to why, everything between some kind of spell-blocking effect of Urliel’s to the force of the impact dulling his spear too much, but at the moment, why his ability had failed didn’t matter.
+
+He had to move.
+
+Edmund planted his feet and yanked at the shaft of his spear. It didn’t budge. He dropped it then and there, unwilling to stay in one place any longer. He’d have to do this without it.
+
+Curiously enough, even as Edmund released his grip on the weapon, it didn’t fall. It didn’t sag. It simply hung there, almost entirely parallel to the floor, supported exclusively by the few inches at its tip that sat embedded in the warden’s hip.
+
+Edmund darted in, his hand shooting towards Rat’s Fang at his waist as he moved.
+
+Urliel swiped his gloved hand at him, a seemingly nonsensical motion while Edmund was still out of reach.
+
+Edmund dodged back anyway.
+
+Two shallow scores carved themselves into his breastplate, failing to pierce the pale gray chitin.
+
+One raked across his cheek, cleaving his upper lip and biting into his lower.
+
+Edmund exhaled sharply, biting back the surge of adrenaline-dulled pain. His thoughts raced past it, trying to work out what exactly Urliel could and couldn’t do. Already the warden had launched two separate attacks and managed to trap his spear. Edmund scrambled to find a weakness, some pattern or gap in the jailer’s defenses he could exploit. Only one came to mind.
+
+Both attacks had come from its armored left hand. Even now its right arm hung limply at its side.
+
+Edmund leapt for it.
+
+The warden swept its left hand at him once more, this time carving three scores in the back of Edmund’s chest plate. One pierced it entirely, drawing a thin line of blood down his lower back. Shards of chitin from the gash in his armor dug into the wound, sending fresh pain blossoming down Edmund’s spine with every movement. He ignored it.
+
+He landed in a roll to the warden’s right. The thing’s right arm didn’t move to stop him, the blow it’d managed with its left apparently the best it could manage.
+
+Edmund didn’t stop to breathe. He pushed off against the ground to rise to his feet, now behind the bulky jailer. Urliel tried to turn to face him, but the spear still wedged in its hip slammed against the stone wall. Without removing the weapon, the warden had no way to maneuver in the tight space.
+
+Edmund had no intention of giving it the opportunity.
+
+With a single step of running start, Edmund leapt up onto Urliel’s back, wrapping his left arm around the behemoth’s neck and his legs around its torso. With his right hand, he reversed his grip on Rat’s Fang, and plunged it into the Urliel’s left eye.
+
+The dagger snapped in two.
+
+The blade flew wildly from the spot it should’ve pierced, the jagged breakpoint slicing a gash in Edmund’s wrist as it traveled. Luckily, his shadowhide vambrace stopped it reaching a major artery.
+
+For the first time in Thrax knew how long, the hateful clouds of panic gathered in Edmund’s mind. He was out of weapons.
+
+In desperation more than any real hope it would actually work, Edmund discarded the broken handle of Rat’s Fang to lower his palm over Urliel’s eye. He cast two Flame Darts, both adding their costs to the growing fog in Edmund’s mind, both washing harmlessly over the warden’s helmet.
+
+Panic mounted. Edmund’s heart raced. Urliel clawed at his left arm, carving three deep gashes down to the bone, even through his vambrace. Still Edmund hung on. There had to be something he could do, some weapon he could bring to bear against this mountainous threat. Piercing attacks didn’t work. His paltry magic didn’t work. He had to have something left in his arsenal.
+
+He blinked and looked up, an idea flashing through his mind as he gazed at the smoke that hung in the air above the warden’s head.
+
+Warden Urliel, The Crimson Hand
+
+Edmund gulped as he realized what he had to do.
+
+Touch the unreal.
+
+Edmund lurched forward, swinging up with his right hand at the ethereal text that floated above him. His grasp closed around the illusory smoke, and found solidity where there was none. He pulled.
+
+The words stayed where they were, but a tendril of smoke came away in his grip, a lash trailing off from the words that existed to him and only him.
+
+He wrapped it once around his right hand before releasing his left’s grip on Urliel’s neck. He wrapped the tendril of smoke around it too. Then, with gritted teeth, a racing heart, and sheer determination to overcome the agony the task sent racing down his wounded arm, Edmund pulled.
+
+The cord of smoke hung taut around the warden’s throat. Edmund pulled harder.
+
+In retrospect, the jailer’s weakness had been obvious. From the moment he’d first set foot on the floor, it hadn’t been the clank of its armor or thud of its footsteps that Edmund had tracked. It’d been the raspy, labored breathing.
+
+Edmund put an end to that.
+
+Twice Urliel swiped in desperation at the smoke around its neck, and twice its armored hand passed cleanly through the unreal noose. The behemoth heaved once, then twice, then its struggles stopped. At first it sagged, then it stumbled, then it collapsed to its knees.
+
+A clatter rang out as Edmund’s spear fell from the jailer’s hip and hit the ground. Not long after, the warden itself followed suit.
+
+Edmund didn’t release his grip on the ethereal smoke until the dungeon reclaimed its monster.
+
+Edmund heaved. The smoke dissipated. Adrenaline faded, and agony took its place. Blood dripped down his face, his back, and his left arm. He stumbled to the right, his shoulder slamming into the wall as he fell against it. In that moment, he wanted nothing more than to collapse to the floor and lie down while his wounds recovered, but he couldn’t do that.
+
+First he had to get his armor off.
+
+The act itself was agonizing as he wrenched the jagged, torn chitin away from the gash in his back, but Edmund was no stranger to pain. Even without mighty adrenaline to help him push past it, he could do what had to be done.
+
+It wasn’t until he’d finally collapsed, his bloody chest plate discarded onto the floor, that a slow, rhythmic clapping reached his ear.
+
+“Artfully done,” Liam said. “Wielding Madness like a weapon like that takes commitment. Or desperation. Or both.”
+
+Edmund simply grunted at him, the still healing wound through his lip barring him from forming actual words.
+
+Liam made a show of looking him up and down. “You’re going to need another bath. You’re lucky there’s another hub world coming up, assuming you survive the ninth floor, of course.”
+
+Edmund grunted again.
+
+“Or maybe I’m the lucky one.” Liam tilted his head. “You don’t really have to smell yourself, do you?”
+
+Clenching his jaw for a moment, Edmund bit back the pain to growl two words that he found worth every ounce of the agony they caused. “Fuck. You.”
+
+“Yeah, yeah, you don’t have to be so testy. Why don’t you take a look at your constellation. I’ve found rewards generally put you humans in a good mood.”
+
+Edmund made a point of glaring at Liam before shutting his eyes and following the dungeon’s suggestion, ignoring, for the moment, his newly available Aspect selection in favor of the much more interesting piece of text hovering just below his sigils.
+
+The Crimson Hand
+
+Edmund blinked his eyes open and met Liam’s gaze. “What’s it mean?”
+
+Liam flashed a patronizing grin. “Assuming you’re asking about what I think you’re asking about, it means you’ve unlocked a new title.”
+
+Edmund grunted, raising an eyebrow to communicate his meaning.
+
+Liam sighed. “You really should’ve done some reading before coming down here. Maybe talked to someone?” He shook his head. “Titles are kind of like sigils, but they’re different in a few key ways. Both come with some sort of immediate, tangible bonus, which I’m sure you’ll see if you look a little closer at yours. Unlike sigils, you can have more than three titles at once, so you’ll never have to pick between which titles you want to keep. The flip side is that titles are rarer. A lot rarer.”
+
+Edmund made the ‘so what’ noise without moving his wounded lips.
+
+“They’re unique,” Liam said plainly. “There can only be one Crimson Hand, and since you’ve killed the last one, now that’s you. Not all titles pass on to the holder’s killer—a lot are hereditary, some are tied to a challenge or ritual of some sort, it’s a big multiverse. Anyway, the stat bonus or whatever is nice, but the real point of titles is they designate ownership of something.”
+
+Edmund scowled at the empty floor where Urliel’s corpse had once lain.
+
+“Right. Obviously he didn’t have the thing on him. You would’ve died if he did.”
+
+Edmund’s eyes widened. That, at least, explained why the jailer had refused to use its—his, apparently—right hand. He was missing some crucial piece of gear, presumably a glove, given the nature of the title.
+
+“Anyway, somewhere out there is a gauntlet that technically belongs to you now. I won’t say where or who has it—no spoilers—but I can guarantee if you look hard enough you’ll find it eventually.”
+
+Edmund grunted, dismissing the obnoxious avatar and shutting his eyes again to take another look at his new title. As he focused in on it, a description popped up.
+
+The Crimson Hand
+
+Grants minor resistance to piercing damage. Bestows ownership of the Dread Gauntlet of Kor’Ilinesh.
+
+Edmund’s eyes popped open and glanced over to where Rat’s Fang lay broken on the ground. The warden had had more than a minor resistance to piercing damage. He wondered if the title could be upgraded in the same way as his path of the azure fox. Either way, he’d have to get a hold of this dread gauntlet, intimidating name or otherwise.
+
+Shaking his head and returning to his constellation, Edmund focused in on his Aspects. He’d known going into the floor which he’d choose, so he didn’t hesitate to make the selection.
+
+Tier 2 Aspect: Sorcery - Gold Resonance
+
+Level 1 - Provides access to the Smoke Lash spell.
+
+Edmund paused, a number of conflicting thoughts coursing through his mind as he reread the Aspect description. Sorcery was supposed to be the confluence of Elements and Chaos, not Madness. He knew that. How had Madness delivered it to him?
+
+The reference to smoke stood out to him, the theme appearing yet again in his Madness-touched abilities. He wondered if it had something to do with the fire spell Elements had given him, or if Madness’s higher resonance had simply taken over any affinity for fire he might’ve had. The question of why, of all things, Madness manifested as smoke in the first place still shadowed his thoughts, but he knew he wouldn’t be finding that answer any time soon, not unless he could find someone else with the Aspect. It wasn’t a popular one for good reason.
+
+Neither Madness nor Elements showed any change in description other than the increase in level, a fact Edmund had expected yet still struck as disappointing. He’d hoped for a more substantial upgrade to Flame Dart. On the other side, he found it entirely possible that Smoke Lash made the fire spell obsolete. He’d have to test it.
+
+Liam left him in silence while he puzzled over his constellation, a behavior Edmund took every advantage of by refusing to return to reality until his Perseverance had mostly mended his wounded mouth. His back and arm and lip still ached when he finally stood, but at least he could use them.
+
+Liam watched him stand. “Get anything interesting?”
+
+Edmund didn’t answer, his focus drawn to the newly-carved channel in his mind. He raised his hand and delivered it his will.
+
+A tendril of smoke wafted into existence, twirling around his wrist and stretching out into the space ahead. He pulled his arm back and whipped it forward, the Smoke Lash slicing through the air to strike the far wall. It scored a small slash in the stone, far less than Rend might have, but a great deal more than Flame Dart could’ve managed.
+
+Better still, when he swung again, no new loss of focus clouded his mind. It seemed that, once summoned, he could fit in multiple strikes with his newest weapon. He lashed out one more time, willing the whip to shorten, and it cracked loudly in the air. Moments later, it dissipated into the ether.
+
+Liam glared at him. “What did I tell you about attempted tunneling?”
+
+“I have to practice somewhere,” Edmund countered. “If you don’t want me to hit the walls, give me something to hit.”
+
+“I’ve got plenty of things for you to hit,” Liam said, raising a finger to point towards the open exit. “They’re right through there.”
+
+Edmund glared at him before returning to his testing, making a point of walking down the hall to build as much space as possible between himself and the back wall. He’d at least make an attempt at avoiding attacks on the structure itself—pissing off Liam felt like an easy way to commit suicide.
+
+He cast Smoke Lash once more, feeling the spell take more out of him than Flame Dart ever did. Rather than attacking with it, he counted the seconds, reaching twenty before the smoke dispersed. It was hardly an eternity, but Edmund knew better than anyone how long twenty seconds lasted in a fight. Most fights didn’t go that long.
+
+He practiced with the spell for some time, trying and failing to use it as an edge to activate Rend, before ultimately deciding its true strength lay not in its offensive potential, but in its utility. He’d found, for all intents and purposes, a rope that he’d never lose or break.
+
+Edmund spent an hour repeatedly whipping the lash around various corners and doorknobs, getting a feeling for every potential use he could train with the limited targets the floor provided. He took breaks every few attempts to recover his focus, the new spell taking a heavy toll on his mind. He doubted he’d be able to cast it more than once in a fight, not without slowing himself down too much.
+
+The dungeon mobs, to Edmund’s chagrin, didn’t respawn. He didn’t bother asking Liam why, deciding ultimately it didn’t matter. Most likely it had something to do with the connection between the warden and his charges. Given Urliel’s unique title, he got the impression Liam couldn’t—or wouldn’t—just pop another one of him into existence.
+
+Training out of the way, Edmund approached the silver chest next to the exit. With neither hesitation nor reverence, he swung it open.
+
+Ebonsteel Helmet
+
+Provides major protection against magic and piercing damage. Vulnerable to blunt force damage.
+
+Edmund grinned. The black helm with its brutally sharp edges was the spitting image of the one Urliel had worn. He wondered if the protection against magic damage was an enchantment or a natural property of ebonsteel, but for the time being decided it didn’t matter. He put it on.
+
+The visor pressed his hair down over his eyes, an issue Edmund fixed with a few sweeps of his fingers. A few quick jerks of his head confirmed the helm fit perfectly, following his movement with neither delay nor difficulty, its neck guard sliding frictionlessly across his breastplate. No matter how he moved, his eyes remained aligned with the eyeholes.
+
+The small part of him that regretted not asking Liam for a dagger to replace Rat’s Fang faded away as he tested out the helmet. His head had been unprotected for far too long. Urliel’s strike to his cheek and lip could just have easily taken out his eye or throat, two targets his newest piece of loot helped guard. He could make do without a short-range weapon for one floor.
+
+Happy with his growth, his new title, and his latest piece of equipment, Edmund set his sights on the exit. He flashed a tired look back at Liam, who smiled and waved at him in his obnoxiously cheerful way.
+
+With a sigh, Edmund grabbed his spear, muttered a soft lament for the loss of the dagger that had gotten him so far, and stepped into the darkness.
+
+Edmund Montgomery Ahab, The Crimson Hand
+
+Aspects Unlocked: 9
+
+Tier 1 Aspect: Elements - Gray Resonance
+
+Level 2 - Provides access to the Flame Dart spell.
+
+Tier 1 Aspect: Solitude - Red Resonance
+
+Level 4- Gain increased constitution while fighting alone.
+
+Tier 1 Aspect: Perseverance - Gray Resonance
+
+Level 4 - Gain minor health regeneration.
+
+Tier 1 Aspect: Madness - Prismatic Resonance
+
+Level 5 - See beyond reality. Touch the unreal.
+
+Tier 2 Aspect: Sorcery - Gold Resonance
+
+Level 1 - Provides access to the Smoke Lash spell.
+
+Tier 2 Aspect: Obsession - Gold Resonance
+
+Level 1 - Gain strength and agility for each consecutive day spent pursuing your obsession.
+
+Tier 2 Aspect: The Recluse - Gold Resonance
+
+Level 1 - Empower the effects of Madness while alone. Lessen the effects of Madness while accompanied.
+
+Tier 2 Aspect: The Island - Gray Resonance
+
+Level 2 - Grants resistance to over-time effects while alone.
+
+Tier 3 Aspect: The Rift - Gold Resonance
+
+Level 1 - Provides access to the Rend active ability.
+
+The Crimson Hand
+
+Grants minor resistance to piercing damage. Bestows ownership of the Dread Gauntlet of Kor’Ilinesh.
+
+Trailblazer’s Sigil of the Azure Novice
+
+The second step on the Path of the Azure Fox. Increases agility. Grants a single windstep.
+
+Trailblazer bonus: Sharpens hearing.
+
+Trailblazer’s Sigil of the Rootmother
+
+Non-intelligent Strethian lifeforms will treat you as an ally. Gain the ability to draw water and nutrients from fertile soil.
+
+Trailblazer bonus: draw water and nutrients from all soil.

@@ -1,0 +1,183 @@
+---
+id: 209a45d6-9177-5664-8e50-e9aa2e63bf01
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6: Angel Kolas"
+slug: 0006-chapter-6-angel-kolas
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 6
+ownLength: 2065
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3443423/chapter-6-angel-kolas"
+royalRoadId: "3443423"
+---
+
+The webs increase in thickness as we walk, becoming visible even without the bright light of my lightstone. We must be traveling closer to the center of the thing’s nest than when I traveled through the webs last time.
+
+Shar stays close by, not wanting to brave the webs on her own as she gives our small party directions. Keve keeps a wary eye on our surroundings and I’m grateful for the second pair of eyes. Going through the webs is stressful, reminding me of the predator that used to call this place home.
+
+“So Keve,” I start as I cut my way through a particularly thick section of web with my dagger. “Why were you chosen to watch me?”
+
+“Varia is wise.” Keve answers, his voice thick with soft lilts and brief vowels. “I am not… like the others in my tribe. She knows this and so she sends me to see more of the….” he pauses, searching for the word. “Other life.”
+
+We enter another room and we both go quiet. The chamber is filled with old cocoons, some of them ripped open with strange tears, while others are simply crushed. The webs in the room are in complete disarray, destroyed by whatever came through here and something had been eating the remains inside the cocoons.
+
+“Shar, is there another path we can take?” I ask nervously, my hand on my weapon.
+
+Shar shakes her whole body, her feathers flaring out. “It’s a longer path.” She shifts her talons on my pack. “But we can travel through the room of Angel Kolas.”
+
+I nod, backing out of the room slowly, my eyes staying on the other entrances.
+
+My breath relaxes as we leave the room. It’s best to leave whatever monster was creating trouble in there alone.
+
+We backtrack for a good five minutes before Shar has me take a left turn down a hallway we hadn’t taken before. The hallway eventually reaches a closed stone door, completely covered in webs.
+
+I sigh as I get to work at cutting through the webs with my enchanted knife. The thing had done wonders against the normally incredibly strong web of the spider-creature.
+
+Keve stands watch, his gaze on the corridor behind us as I cut my way through the surprisingly thick cover along the door.
+
+“Do either of you know much about Angel Kolas?” I ask. I kneel down to cut down the last of the web before pushing it out of the way. “I know he’s one of the seven oathsworn, but not much else.”
+
+Keve shakes his head and Shar stays quiet, so I assume they are as clueless as me.
+
+I shrug and put my shoulder against the door that has been closed for a couple of centuries. It doesn’t budge, so I call Keve to help me. Together, we push into it and it finally starts to creak open. With one final push, the door opens enough for us to squeeze through, revealing a dusty room lit by a lightstone similar to the one I’ve been carrying with me.
+
+In the center of the room is a statue of an Angel. Runes cover his arms, tattooed into his skin through the power of his oath. In one hand he holds up an open book, while in the other a strange cube with markings all along its surface holds the Angel’s attention. A quiver rests on his back, while two long knives rest at his waist.
+
+A small altar is set before the statue, a few items on its surface and paintings line the walls. At the far end of the room is another door, sealed shut from hundreds of years without use.
+
+I ask for Keve’s help and together we close the door that acted as an entrance.
+
+I take a deep breath, the air of the room smelling surprisingly fresh. “Why don’t we rest for a moment? I’ve barely eaten anything all day.”
+
+Keve nods, pulling off his own pack to grab some food, while Shar hops off my pack to transform into her humanoid self and walk around.
+
+I pull some jerky out of my bag, wishing that I’d brought more with me from my camp on the surface. I like to pack light so that I can fit more items in my bag for the first delve. But I really should have more emergency rations.
+
+Chewing lightly on the jerky, I walk up to the statue, blowing dust off of the plaque that sits at its base. There are multiple languages written on the plaque, but I can only read one of them.
+
+Angel Kolas, The First-Sworn
+
+He protects us all
+
+Except when humanity needed him most, it seems. Not that anyone could save us from our own idiocy.
+
+Taking a step back, I actively identify the statue.
+
+Statue Of The Angel Kolas Creating A Stronghold.
+
+Enchanted to channel a small amount of power from Kolas, no monster or undead can enter the room in which this statue resides. Something strange is inscribed in the book that he holds.
+
+That’s my second level up from simply learning information. Maybe lore-mage stays true to its name and levels when I learn pieces of our history? I glance at my status, but see no changes aside from the new level.
+
+I frown as I reread the second part of the description. “Shar?” I call out, grabbing the attention of the board golem. “Would you fly up there and see if there’s anything written in the book he’s holding?”
+
+“I can do that.” Shar says, shifting from her humanoid self into the form of a bird. She flies up and lands on the shoulder of the statue, staring down at the book. She hops a little as she seems to read something. “It’s a map. There are also instructions I can’t read.”
+
+“Can you-” I start, but she interrupts me, knowing what I’m going to ask.
+
+“Give me your notebook and I’ll copy it down for you.” Shar flies down, transforming back into her humanoid form as she lands in front of me.
+
+I quickly oblige, handing her the notebook. She gets down and starts drawing. I look over her shoulder as she quickly finishes the map.
+
+It takes me a second, but I recognize the map to be of the western coastline. An x is drawn into a spot a little north of an old undead city. The words are in a dialect of the same language the temples in the strongholds use for their ancient texts. I can recognize a few words, such as “life”, “angel” and “guide”, but not much else. I’ll have to take it to a theologian in the nearby frontier city of Onder. They’ll probably be able to translate the rest for me.
+
+“Thank you Shar.” I say, closing the notebook and putting it back into my bag. Now I know where I’m going once I’m finished with this delve. “This statue should keep any monsters away,” I tell the two, “so I’m going to take the chance to rest and decide on some things.”
+
+Keve simply nods, pulling some more things from his bag.
+
+Shar walks over to Keve, sitting across from him and asking him a question.
+
+I ignore them as I look at a decision I’d been putting off for a while.
+
+You have proved your ability to work with magic circuitry! Would you like to accept the 2nd profession of: Apprentice Golem Smith?
+
+Yes or No?
+
+It’s a profession that I’ve never heard of. The creation of automatons, or golems as I now know them, was lost along with most of our knowledge of the old world. Is it worth it to take it as a profession, when I don’t really know what it entails? I glance over at Shar, who stares intently at Keve as he carves a piece of wood. Taking the profession will allow me to understand her better, and I’ll be able to fix her again if the need ever arises. I also grabbed books on automatons from the Archmage’s library, which would allow me to gain the skills in the profession.
+
+It’s a life altering decision, and one that is hard to change once I make my choice. Still, I knew what my answer would be as soon as I received it. It’s knowledge of the old world that no one alive has. I am an explorer, I live for this kind of knowledge.
+
+I select yes.
+
+Congratulations! You have accepted the profession of Apprentice Golem Smith.
+
+Your first skill is: Inscribe Mana Circuits
+
+I feel the urge to immediately test out my new profession skill, but hold off, seeing as I don’t have any materials to actually practice on.
+
+We spend another hour in the room, resting, before we move on to the next door and shove it open. The next room is a large cavernous hall, devoid of the webs of the creature. Pillars rise from the ground into the ceiling, some of them crumbled, while others have cracks running through their surface. We’re out of the spider’s nest now, but that doesn’t mean that we are safe from the other things that might be prowling the halls.
+
+Keve seems to share the sentiment as he loosens the twin swords at his waist. Shar walks ahead in the form of a black cat, her movements completely silent.
+
+We walk through the hall, our steps echoing through the silence before Shar appears out of the shadows to my right. “An undead is coming towards us. It’s made of bones and its general class is warrior.”
+
+Keve wraps cloth around his face, hiding his features, before unsheathing the swords at his waist. I pull my own sword out, activating Hide Presence.  Keve glances around in confusion so I deactivate the skill to wave at him, then reactivate it.
+
+Keve focuses in the direction that Shar is looking as we wait in silence. Slowly, a small clinking sound grows larger, gaining more presence behind it as a bone monstrosity enters the light.
+
+The lumbering bone knight drags a large piece of metal behind it that I assume was once a sword. It stands at twice my height, its bones too large to have been human. Its grip shifts on its weapon as it sees us and suddenly it disappears, reappearing in front of Keve. Keve responds with a speed I didn’t know he had as he dances around the large strike of the creature's sword.
+
+Flames cover both of Keve’s swords as strange tattoos across his skin ignite with a red fire, shining through the cloth that covers him.
+
+He spins around another strike from the creature, and attempts to cut through the arms of the bone monster. The creature steps away from his strike and I think he misses, only for the flames on his sword to extend, chopping through the arm and causing it along with the sword to fall to the ground. Keve follows through with a series of strikes, flames extending from his sword as dismembers the creature made of bones.
+
+It falls to the floor, completely destroyed and I deactivate my ability. “I uh- I guess you didn’t need my help.” I say, staring at the utterly destroyed undead.
+
+“Varia knows well.” Is all Keve says in response. The tattoos along his skin lose their red glow as the flames on his swords extinguish.
+
+I don’t think I really contributed enough to that fight to level up, but I suppose the class is only level three- level four now. The next level should be a little harder to gain, considering it is the level that gains me my second class ability.
+
+I take one more glance at the pile of bones, then look back at Keve. With a sigh, I continue on through the hall, Shar moving ahead to scout for us.
+
+Name: Leo Grayson
+
+Race: Human
+
+1st Class: Delver (explorer)
+
+1st Profession: Apprentice Runesmith
+
+Lvl: 27
+
+2nd Class: Lore-Mage (mage)
+
+2nd Profession: Apprentice Golem Smith
+
+Lvl: 4
+
+Title: Acolyte Of Sehara
+
+Class Skills:
+
+(Delver)
+
+Lvl 1: Basic Map
+
+Lvl 5: Danger Sense
+
+Lvl 10: Identify Artifact
+
+Lvl 15: Hide Presence
+
+Lvl 20: Feather Weight
+
+Lvl 25: Find Ruins
+
+(Lore Mage)
+
+Lvl 1: Wisdom Of An Ancient
+
+Profession Skills:
+
+(Runesmith)
+
+Identify Runes
+
+Deactivate Runes
+
+Basic Inscription
+
+(Golem Smith)
+
+Inscribe Mana Circuits

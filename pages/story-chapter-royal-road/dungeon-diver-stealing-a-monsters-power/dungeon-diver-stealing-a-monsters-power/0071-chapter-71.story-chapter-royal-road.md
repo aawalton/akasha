@@ -1,0 +1,205 @@
+---
+id: f6b35a98-b196-57e8-b01a-23a31104e4cd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 71"
+slug: 0071-chapter-71
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 71
+ownLength: 1525
+unit: words
+ownProgress: 1525
+publishedAt: 2023-03-29
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1152080/chapter-71"
+royalRoadId: "1152080"
+markedReadAt: "2026-06-29T20:34:15.537Z"
+---
+
+*CRACKKK*
+
+The High Orc roared as it broke free from its ice prison. The dark red aura around its body gave off an immense power that definitely was not present before.
+
+I looked back to see Rei standing close behind us with her arms crossed. Maria had turned back to the beast looking ready to attack again. Her base magic stats are naturally boosted about 2x that of an average person, but I can't help wanting to jump in and help her.
+
+She yelled the moment I took a step toward her.
+
+"I got this. Trust me Jay!"
+
+I gritted my teeth and stared at the beast in front of us.
+
+"Fine. I'm right behind you though."
+
+She nodded and began to glow bright blue.
+
+The High Orc charges at Maria and she does the same. It swings the massive Mace over its head in a fit of rage.
+
+The second before impact, Maria created a thick wall of ice in front of her and sprints off to the left. While continuing to glow red, the monster breaks straight through the wall without much resistance. Ice chunks fly everywhere and the battlefield is temporarily covered in a vale of small ice fragments that look almost like snow.
+
+*SHINGGGG*
+
+I hear the distinct sound of a blade hitting flesh and see Maria fly out from the dissipating cloud of snow. The monster roars and I see a large chunk of Ice stuck in its back in the shape of a sword's slash dripping blood.
+
+Maria took out an MP potion from her item box and drank it while squaring up with the beast again.
+
+I released the grip on my sword slightly.
+
+"I guess you have this under control."
+
+She grinned and ran at the monster again, It fell for the same trick. After smashing through Maria's wall of Ice it creates a blind spot for her to attack. The beast is clearly stronger, faster, and has much higher defenses. Tricking it into making optimal conditions for a surprise magic attack is the only way Maria could win. It seems like she's fought opponents like this in the past.
+
+I looked over to Rei and she smiled admiring her young protege at work.
+
+I watch in disbelief. Earlier, I saw the skill "Berserker" when I used Appraisal. This commonly refers to an increase in strength and endurance. It seems to be the case, but I'll just have to test my theory when I get to face one of these High Orcs myself.
+
+Maria continues to create massive Ice Walls and the monster keeps destroying them. She lands cheap shots whenever possible leaving Ice residue behind after every slash. It's clearly hurting the beast, but very slowly... She's drank 4 MP potions so far, and landed about 10 good hits on the High Orc. It's slowing down as the ice magic seeps deeper into its body.
+
+The game of cat and mouse continues. Maria makes walls, and the beast knocks them down. This only leads to the walls of Ice being blown into more pieces and the eruption of snow gives Maria even more cover. The more hits she lands, the more effective each one becomes leaving deeper icey wounds all over the Orc's body. Doing so just makes it more angry and irrational continuing an endless loop.
+
+With a final slash to the back of the head, the monster finally falls to its knees. Maria takes this opportunity to release a large amount of mana into the beast and covers it completely with Ice. She doesn't stop until it freezes solid. With a confident downward swing of her blade, the High Orc shatters into a thousand tiny pieces.
+
+Maria drinks her 7th MP potion and turns to Rei and Me with a big grin across her face.
+
+"I just gained 23 levels. Now that was a good fight!"
+
+Rei clapped slowly and I watched the Ice fragments disappear with the remains of the Orc. A mana crystal drops and Maria picks it up.
+
+"Ya know... I'm impressed. You've really improved."
+
+"Thanks, I told you I've been training hard! Look at this."
+
+Maria opened her status and turns it to show me.
+
+[Status Open]
+
+_____________________
+
+Name: Maria Cortez
+
+Level: 179
+
+Hp: 705/705
+
+Mp: 705/705
+
+Strength: 388 [+125]
+
+Speed: 421 [+100]
+
+Agility: 404 [+100]
+
+Defense: 395 [+100][+75][+75]
+
+Mental Strength: 797 [+239]
+
+Skills:
+
+Combat Magic [Ice Summoning]
+
+Items Equipped:
+
+[Steel Sword] +125 Strength
+
+[Steel Chestplate] +100 Defense
+
+[Steel WristGuards] +75 Defense
+
+[Steel Shin Guards] +75 Defense
+
+[Enchanted Boots] +100 Speed +100 Agility
+
+[Golem's Pendant] +30% Mental Strength
+
+_____________________
+
+My eyes open wide.
+
+"That explains a lot... your magic is still off the charts!"
+
+She smiled and blushed a little.
+
+Just like that, Maria has become one hell of a fighter. Her overuse of MP is alarming, but it works. That mental strength growth rate is insane. I'm sure she can handle the same High Orc with ease now, she'll only get exponentially stronger with every new superior opponent...
+
+We all venture off further into the dungeon while I'm stuck deep in thought.
+
+Maria and Rei explain what kind of training they've been doing in more detail as we walk. It's mostly sword skill work, lower level D class dungeons for funding, then higher D class raids once she has enough MP potions saved. The guild isn't just throwing money at her, she has to work for it. I guess that's good. This dungeon is the most difficult one she's ever faced, but it seems like it won't be an issue!
+
+Almost half an hour passed.
+
+Finally, another High Orc appeared.
+
+"My turn."
+
+Rei and Maria stepped back as I drew my sword.
+
+The Orc that appeared looks almost identical to the one earlier. I use inspect and appraisal.
+
+[Lv. 248]
+
+Active Items:
+
+[Steel Mace] +250 Strength
+
+[Steel Sword] +250 Strength
+
+[High Orc Heavy Armor] +300 Defense
+
+Active Skills:
+
+[Berserker]
+
+I make the first move and charge straight toward it. The beast follows my lead while swinging its mace in a rhythmic fashion.
+
+*CLANGGG*
+
+Surprisingly, we're almost equal in strength. If anything, it may be a little stronger....
+
+*CLANGGG*
+
+I entertain the monster while gauging all of its abilities. My speed and agility are far greater, I'm not worried about getting hit at all.
+
+I ignite my blade and run around its backside after our second collision and land a fiery hit without much effort. I plunder MP, and leave a solid amount of fire residue behind.
+
+The Orc lets out a roar and flails its spike mace around in circles trying to hit me. I jump backward and we stare each other down about 10m apart. It snarls and begins to glow dark red. I grin.
+
+"One hit is all it takes for you to get pissed huh? Let's see what you've got."
+
+The High Orc charges at me in a straight line with its weapon swinging wildly in front of it. The ground shakes as it comes closer. Out of curiosity, I run at it and raise my blade.
+
+As our weapons collide, I'm completely overpowered. The weight of its mace combined with its newfound strength sends my sword attack flying to the side. I quickly re-position myself and jump out of the way following the momentum of my blocked sword. As I stare down the beast again, I wonder to myself with my body hardening, how well could I take a hit in its strengthened form...? Maria and Rei are right behind me watching with their eyes wide open. Realizing this, it's probably better if I just end this quickly and leave the fun stuff for later.
+
+While circling back behind the Orc, I ignite my full body into a ball of fire. I plant my right leg and jump toward the monster's back as it attempts to turn as well. I land another deep fiery slash across its back and the monster lets out an angry roar. To my surprise, the gash is much deeper than my last. Its defenses haven't gone up at all in this fit of rage, if anything they've lowered...
+
+A few moments later, our battle was over. I ran circles around the monster and cut it down to a pile of ash with 4 more hits. My sword didn't glow once.
+
+[Level Up]
+
+[Use Absorption]
+
+Skill: Berserker
+
+[YES][NO]
+
+I choose yes and stare down at the burning corpse by my feet.
+
+Maria comes running toward me.
+
+"Wow!!! You got a lot stronger too! I knew it!"
+
+I turn and smile.
+
+Rei follows close behind.
+
+"Both of you handled these High Orcs pretty well. Looks like I won't have to step in at all today."
+
+I nod.
+
+"Do they ever use their swords?"
+
+Rei crossed her arms and nodded while motioning for us to follow.
+
+"Yeah some will as we get closer to the boss room, they'll use more than just that sword."
+
+I collected the mana crystal at my feet and looked out into the vast orange sky.
+
+"Interesting. Maybe I'll actually get a serious fight today."
+
+Rei chuckled and started to walk deeper into the dungeon. Maria and I followed.

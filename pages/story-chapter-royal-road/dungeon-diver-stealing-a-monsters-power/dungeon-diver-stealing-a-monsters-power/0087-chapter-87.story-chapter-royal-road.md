@@ -1,0 +1,241 @@
+---
+id: 52581f7f-9a7a-5f2b-ac22-faaa4d7064cd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 87"
+slug: 0087-chapter-87
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 87
+ownLength: 2148
+unit: words
+ownProgress: 2148
+publishedAt: 2023-04-14
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1170325/chapter-87"
+royalRoadId: "1170325"
+markedReadAt: "2026-06-29T20:34:49.184Z"
+---
+
+[Test 1][Time Remaining: 19 Hours]
+
+The large man keeps pointing his sword forward with a menacing presence insisting we do as he says, or we’ll “pay the price”.
+
+Bruce is the first to step forward. He’s roughly the same size as the orange-haired man, but we all witnessed him effortlessly take out a team of 5 moments ago…. The unknown tank has some mysterious power, and we’d be better off not finding out how it works. Bruce speaks up.
+
+“W-What do you want?”
+
+The man standing in front of the portal grins and lets his sword come down to rest by his side.
+
+“Good, you guys won’t be as difficult as that last team. Hand over your shield and I’ll let you pass.”
+
+Bruce looks back at us with tired eyes, then back at the large man. The brute starts glowing white… just like he did when he made that entire team disappear in seconds.
+
+“What’s with the hesitation???”
+
+Bruce gulps.
+
+“Here! Take it, it’s all yours!”
+
+I didn’t expect him to crack that quickly…. But I guess he’s had a long day. Bruce has been awake and fighting for 30 hours straight, I guess I can’t blame him.
+
+His shield falls to the floor by the orange-haired man’s feet. The man motions for him to pass and for Nessa to step up to him.
+
+Bruce walks over to the swirling portal and Nessa does as the man wants, he looks her up and down then speaks up.
+
+“Hmmm, you have nothing of value. I want all your potions. Everything! Hand them over!”
+
+Nessa’s eyes widen as she begins sifting through her item box with the massive man towering over her. She dumps half a dozen random potions onto the hard dungeon floor without hesitating.
+
+“Good. Now you two get lost. Next!”
+
+Nessa quickly runs over to Bruce and they wait with wide eyes as Maria steps up to the man. She doesn’t say a word, just looks at him with a serious concentrated stare.
+
+The large man turns his head to face the portal and yells.
+
+“I SAID GET LOST. YOU’RE DISMISSED!”
+
+Maria draws her sword out of reflex and the man turns back around and laughs at the sight.
+
+“Now isn’t that cute. You’re up blondy.”
+
+He looks Maria up and down and shakes his head.
+
+“Aghhh, another hunter with worthless gear. Come on!”
+
+The brute looks around and swings his sword up in the air with frustration, then sees Nessa and Bruce still waiting by the grey twisting portal.
+
+“I SAID GET LOST YOU TWO!”
+
+He begins glowing bright white and slowly makes his way toward them. I quickly nod, yell out.
+
+“Go! We’ll meet you on the next floor.”
+
+With confirmation, the two of them jump through moments later without a second thought. The brute turns back with a moderately angry expression. He makes eye contact with me, glances down at my sword, then a wide grin appears on his face.
+
+“Hohooo, now would you look at that beauty!”
+
+I proceed to point this “beauty” directly at his face.
+
+“Not gonna happen.”
+
+The orange-haired thug lets out a bellowing laugh.
+
+“Oh trust me it is, drop the sword. Then for you miss, leave all your potions with me. Every last one of them.”
+
+Maria starts glowing bright blue and looks over at me. I stare back at her.
+
+“Don’t take him lightly. I’d give him your potions and leave if I were you. Seriously.”
+
+Maria shook her head and looks back at the man angrily.
+
+“I won’t let you take anything from me. Not a single potion! And stay away from Jay’s sword!”
+
+I can’t help but smile a little bit. She’s definitely not looking to get rid of her potions, but Maira is much more defensive about my sword. How cute.
+
+I burst into flames and activate Berserker.
+
+“I guess we’re doing this the hard way.”
+
+The tank laughs out loud again pointing his sword at both of us enveloping his body in that blinding white light again.
+
+“I gave the two of you a fair chance to make it through. How unfortunate.”
+
+He runs forward at Maria with incredible speed. Seeing him move up close is even more frightening than from a distance. Immediately, Maria creates an Ice wall and deflects the beast of a man’s frontal attack. Ice shards fly everywhere as Maria darts away and the brute destroys her defenses in an instant.
+
+I attempt to run in, but the man has his sights focused on Maria. He lets out a yell and I see him smile from ear to ear. His eyes open wide and he throws the long blade at the back of Maria’s head. I yell out.
+
+“Behind you-“
+
+Before I can finish my sentence, Maria has already created another wall of Ice, trapping the flying projectile inside while twisting her body around with her own sword at the ready. The tank doesn’t change his trajectory in the slightest. He runs full force at the wall of Ice crashing through and narrowly avoiding Maria’s incoming blade.
+
+She plants her left hand on the ground and begins to freeze the man’s feet in a layer of solid light blue magic, but he breaks free with ease.
+
+The two of them stand 5m apart. I’m less than 20m away sprinting at them with all my might. Maria lunges forward and lets out a yell, the tall orange-haired man does the same.
+
+There’s an explosion of ice and snow, then the two of them are on opposite sides of each other 5m apart once again. The man’s sword is stuck in a pillar of Ice, and Maria is grinning with her sword pointed at the man’s head.
+
+At this point, I’ve begun my own attack.
+
+I jump in at the unguarded man and swing my sword with a vale of fire surrounding my entire body.
+
+*SHINGGGGG*
+
+I land a cheap shot on the man’s abdomen under his heavy chest plate and fly by getting out of the way. I turn around to see the blood-dripping wound and smirk. To my surprise, he’s grinning as well….
+
+Maria jumps forward and attacks the wide-open man as well. He stays still and doesn’t move a muscle, welcoming her attack with open arms.
+
+*SHINGGGGG*
+
+A direct hit!
+
+Maria’s blade penetrates the mans abdomen right below the wound my sword created. It’s a deep shot but doesn’t quite make it through to the other side.
+
+He looks down at her with a menacing glare and grabs her right shoulder while still skewered by the long silver sword.
+
+The dim white glow all around him begins to shine brightly again.
+
+Maria cries out in pain and I see the man drinking an HP potion through the blinding white light as Maria falls to the ground beneath his feet.
+
+Once the brightness dissipates….
+
+Maria… is gone….
+
+The grunt lets out another bellowing laugh and stands before me drinking yet another HP potion. With his other hand, he pulls his sword from the large pillar of Ice by his side. He yells over to me as I stare at him wide-eyed.
+
+“You’re up next kid. Hand over the blade, or you’re going back to floor 1 with your girlfriend.”
+
+I look around to see Ice shattering and falling all around us, but Maria is nowhere to be found. I look at the man with a confused look.
+
+“H-How? What just happened?”
+
+He smirks and sticks his sword into the ground and leans on it.
+
+“You won’t make it to the next round anyways, you don’t have to know! With an attack like this… you’re no match for me!”
+
+He laughs and points to the area on his abdomen that I’d cut earlier, it’s been healed with an HP potion since.
+
+“I’ve faced 46 of you shrimps so far. Only 11 have dropped their loot, the rest have been sent back to floor 1 or an early grave. Not a single hunter has bested me today.”
+
+He eyes my burning blade.
+
+“So be a good little hunter and hand it over. You can’t beat me. I’ll kill you on contact! Fighting me is pointless!”
+
+I scoff at the man and don’t bat an eye.
+
+“On contact huh?”
+
+“….”
+
+“Bring it on.”
+
+He smirks.
+
+“Your loss kid.”
+
+Then he lunges forward with his sword straight ahead and his left hand outreached.
+
+I dart away as fast as I can leaving a trail of fire behind me. The orange-haired tank is close behind and gaining on me. He’s even faster than before… this man was holding back….
+
+I let out a yell and try to move my legs faster than they’ll possibly move. His voice rings out from behind.
+
+“Come on boy! Give up the sword and you’ll pass this exam.”
+
+I turn my head to see him less than 3 meters away glowing white and reaching his hand out to grab me. With a yell, I activate one of my new skills in desperation.
+
+“Bloodlust.”
+
+I feel a powerful surge of energy enter my bloodstream flowing from my heart to my stomach, then all the way down my legs, deep into the vines in my toes…. My right foot grips the hard ground and I’m propelled forward with a burst of new speed and power. My flames glow brighter and the aura of my berserker skill mixes with the dreadful new aura of this bloodlust skill.
+
+The grunt on my tail is lost in an instant. My new increase in speed and agility boost me forward saving my life at the last possible moment. I create a 10m gap, then turn around to face the man with a brand new murderous stare in my eyes. This new power feels incredible… all I want to do is… kill.
+
+He stops in his tracks as well and looks me up and down.
+
+“So you’re quick aren’t ya?”
+
+I run at my prey without a second thought.
+
+The exchange is quick… but doesn’t go as well as expected. We both lock eyes and run at each other. The man in front of me drops his sword. With both hands in the air… He’s just running at me like a maniac with wild bloodshot eyes.
+
+“Come hereeeee!”
+
+I grit my teeth and focus on my target with tunnel vision. I need to hit him, but I can’t get hit. All of his past victims flash before my eyes…
+
+They only die on physical contact when he touches them.
+
+*SHINGGGGG*
+
+A direct hit! Well, kind of.
+
+I manage to leave a small gash on his right arm. He bleeds a bit, grunts, then turns to face me with an insane smile across his face.
+
+I charge at him again.
+
+*SHINGGGGG*
+
+Another hit! On his left arm this time. A small gash, but I just need to keep him occupied for now and drain his HP.
+
+We turn to face one another and complete the exchange again.
+
+*SHINGGGGG*
+
+Another gash appears on his right arm dripping blood until the small amount of flame residue left behind burns the wound shut.
+
+Then we run at each other again…. And again…. And again….
+
+I’ve landed 6 hits in a row on this beast and he’s showing no signs of slowing down. I can’t hit any vital spots because getting too close to the body will leave me wide open for his attack. I need to stay a full sword distance away at all times to be safe.
+
+I run at the man again. He runs at me.
+
+I focus on making a small wound on his right arm, then darting out of the way as fast as possible just like my last half a dozen attacks, but at the worst possible moment… 5m away from the glowing man…
+
+I begin to slow down.
+
+The flames on my blade begin to flicker, and the aura around my body starts to glow dimmer. I've run out of MP… In the chaos of battle, and adrenaline rush of my new bloodlust skill, I've completely neglected to conserve my energy...
+
+The tank in front of me begins laughing maniacally and yells as he grabs my left shoulder.
+
+“YOU’RE DONE KIDDO!”
+
+My vision goes white and I feel a searing pain flow through my entire body. It’s like a thousand tiny swords are stabbing me all over… and all at once. It’s hot, then cold, then super hot again, then finally freezing cold…. It’s one of the oddest sensations I’ve ever felt. I yell out in pain as I fall forward, attempting to catch myself with my sword on the hard ground.
+
+With blurry vision, I look up to read my status at 35/1490 HP and 0/1490 MP. The orange-haired tank is towering over me while drinking an HP potion and grinning ear to ear.
+
+“Looks like I’ve gotcha now. Any last words?"

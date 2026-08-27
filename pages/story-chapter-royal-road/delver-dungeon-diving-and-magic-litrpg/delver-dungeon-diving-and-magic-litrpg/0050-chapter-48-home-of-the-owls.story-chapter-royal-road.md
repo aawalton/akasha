@@ -1,0 +1,229 @@
+---
+id: ab72c589-66bb-502c-866e-4986f60dd10f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 48: Home Of The Owls"
+slug: 0050-chapter-48-home-of-the-owls
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 50
+ownLength: 2011
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3734196/chapter-48-home-of-the-owls"
+royalRoadId: "3734196"
+---
+
+I know well the danger of a delve, the excitement of the unknown, and the prizes of the depths.
+
+My gloved fingers trace the words written many hundreds of years ago. Shar had told me the translation.
+
+“Those who fight evil by living in it; we face the harshest truths, the greatest dangers, and the darkest losses.”
+
+I turn my gaze deeper.
+
+A long hallway extends into the depths of the hill, leading to a staircase which makes its way down deeper. It’s dark inside, which is no surprise. I’m glad I had a couple extra lightstones, not only for my late night reading, but for the main job of my class, Delving.
+
+I pull a metal ball out of my pack, enjoying the lightness in my shoulders after it’s out, then set it on the floor.
+
+With a flex of my mana, the metal ball moves across the floor, hopefully setting off any traps that might be waiting for me.
+
+The old world was a paranoid bunch, and my mentor had taught me better than to underestimate them.
+
+“Shar, stay close to me.” I step forward, watching the walls carefully. It’s better to trust in my Danger Sense and Increased Perception when it comes to an entrance like this. Once we reach a safer space, I might send her ahead.
+
+For now, the shapeshifting golem stays as a crow, perching on my backpack.
+
+No traps go off from the metal ball, which does make me worry slightly, but as I make my way through the hallway behind it, nothing seems to react to me either.
+
+Soon enough, I reach the stairs, the metal ball starting down with a rhythmic thunking as it descends into the earth.
+
+I wait until I hear it stop, then start my own descent. As I reach the bottom, a faint light starts to suffuse the place, allowing me to put my lightstone away.
+
+Greeting me at the bottom of the stairs are an Oathsworn and a Reaper standing opposite each other. The Oathsworn wears a cloak, covering his features entirely, except for his arm, where a stone owl sits. A quick Identify Artifact confirms what I’m already thinking.
+
+Statue of Angel Levis, Second-Sworn
+
+A statue of the Cloaked Oathsworn. This statue holds a barrier around the room, keeping demonic and corrupted creatures from entering.
+
+On the other side of the room, the Reaper stares up at the ceiling, his arms held up as carved rivulets of blood drip from them.
+
+I shudder as I look at the Reaper, already recognizing him. Still, I Identify Artifact, just to be sure.
+
+Statue Of Angel Yon
+
+A statue of the Reaper Of Sacrifice. This statue holds a barrier around the room, keeping Undead and Corrupted Souls from entering.
+
+Small glowing vines climb up the sides of the walls, providing the low light that fills the room, empty except for these two statues.
+
+I stare at the Reaper, wondering what could possess a temple to have only these two Angels. I know very little about both, aside from their domains, of course, and even then, Angel Yon’s reapers remain a mystery to me.
+
+I tear my eyes away from the statue to better study the room. There are no doors, except for the one I entered through, and the walls look plain enough.
+
+First, I walk to each statue, but my mana detector doesn’t go off, and I don’t find any easy mechanisms.
+
+Next, I go around the room, staying close to the walls, and paying careful attention to the mana-detector at my waist.
+
+It vibrates slightly on the back wall. I pull a vial of blue powder from the side pocket of my backpack, then pour some into my hand before blowing it onto the wall.
+
+The powder sticks to the wall, outlining several lines of runic script. I pour a little more, then blow it onto the bottom of the wall, illuminating some more lines of script.
+
+Identify Runes.
+
+These runes react to words, a password of some kind which will unlock the doors.
+
+“Shar, do you know of any passwords that would unlock this door?” I ask as I pull out my notebook and copy the runes into it.
+
+The crow hops off of my pack, transforming into a sleek black cat as she hits the floor. “No. The archmage and the church weren't exactly… on the best of terms.”
+
+I thought that might be the case, but it didn’t hurt to ask. I bring up my hand and activate the second ability of my profession. Deactivate Runes.
+
+Mana leaves my finger as I write more lines of runes onto the wall, my body working on autopilot as it draws runes that I don’t know the meaning of. After a couple minutes of writing, the glow leaves my hand, and all of the runes shine at once before going quiet.
+
+The wall groans, then with a cascade of dust, part of it pulls back in the shape of a doorway, before some kind of mechanism fully pulls it to the side.
+
+Inside is dark, so I pull out my light crystal again, channeling a small amount of mana into it.
+
+As the light shines into the dark room, a high pitched sound echoes out, then the room lights up from several lightstones in the ceiling.
+
+The room inside is large, with the stone of the next door intricately carved. The walls are covered in runes that start glowing red. Two large golems sit kneeling in front of the door, each one three times as big as I am. They are made of a sleek white stone, with two blue crystals marking their eyes.
+
+I reach to the sword at my waist, and loosen it, then reach for the wand in my pocket, holding it tight.
+
+I don’t need my danger sense to tell me that this room is meant to keep out intruders. I’ve seen something similar during one of the earliest delves with my mentor, but he’d simply fought the guardian automata himself, cutting its mana with his unique claws.
+
+With a flex of my mana, the metal ball enters the room.
+
+Nothing happens as it rolls past the golems and hits the door on the other side of the room.
+
+I look down at Shar, whose cat-expression is impossible to read.
+
+“Is there honor among golems?” I ask.
+
+She looks up at me, unimpressed.
+
+My expression shifts into a serious one as I use Identify Artifact on one of the golems.
+
+Lvl 20 Guardian Golem
+
+This golem guards the home of the Owls from the evils that seek to destroy the world
+
+A plan forms in my head for how to deal with the ancient guardian, but I hope I don’t have to use it.
+
+I activate Hide Presence, then step into the room, my hand holding my wand tight.
+
+As soon as I’m into the room, the door closes behind me.
+
+One of the golems moves, rising from its kneeling position and looking right at me. I mentally add Golems to the list of creatures that can see through my class skill, then deactivate my skill, and bow low. Time for plan B.
+
+“Honored Guardian, my name is Leo, and I am a Blessed Of Sehara. She has sent me here.”
+
+The Golem stares at me for a long moment, then its gaze lowers to the sword at my waist as it thinks.
+
+The sword at my waist has the faint symbol of two wings carved into its sheath, the mark of a Paladin’s blade.
+
+I unbelt the sword, then hold it out, sheath and all, to the golem. “This is a blade crafted by Angel Imanata.”
+
+The golem steps forward, and I resist the urge to duck away. My Danger Sense hasn’t gone off yet, and I’m hoping that means the creature hasn’t decided I’m an enemy. It takes the sword from my hand, studying it for a long moment before handing it back to me.
+
+Then it kneels before me. It’s voice echoes across the room, gravelly, almost as if it hasn’t seen use in hundreds of years. “Chosen of Sehara, you and your golem are allowed entry. Keep well the secrets hidden within.”
+
+“Thank you.” I belt the sheath back to my waist, and watch as the red light of the surrounding runes begin to fade. The golem too, loses its light and goes stationary, returning to some kind of slumber.
+
+I step past him, then around the other one as well, up to the door where my metal ball has stopped.
+
+I push the door open with a small grunt as its ancient hinges resist the movement. Slowly, it opens wide, revealing a tunnel, lightstones in the ceiling illuminating five doors in a soft yellow light. The large door at the end has some more text on its frame, but I’ll look closer when I get there.
+
+With a flex of my mana, the metal ball rolls forward, making its way down the tunnel. Nothing happens, so I decide to follow.
+
+I step into the tunnel, the stone under my feet cracked and uneven from the movement of the earth over the last five hundred years.
+
+Shar walks beside me in her cat form, keeping an eye out as we approach the first door.
+
+“Shar, if you would.”
+
+The golem understands without me asking, and steps through the shadows of the room, disappearing behind the door.
+
+Moments later, she reappears, “It’s safe.”
+
+I nod, then move to open the wooden door. The handle breaks off in my grip, and I curse from surprise.
+
+I roll the metal ball back to me, then pick it up to break down the rest of the rotted door.
+
+Inside, an old table still stands, surrounded by eight broken chairs. Ancient parchment is completely faded on top of it. I do a quick sweep of the room, but it looks like a meeting room of some kind, with not much of value for me.
+
+Shar meets me at the door to the second room, a smug look on her face, “You’ll like this one. It seems safe as well.”
+
+The door on this one is in better condition, a window of some kind covered in brown smudge inlayed into it at head height. I gently open the door, and blink in surprise as warm dry air blows over me.
+
+Stepping inside, I look in awe at frames of ancient maps of all kinds. Some are of cities, others showing the oceans, and one centered above the table in the back shows the entire continent.
+
+They’re surprisingly well-kept for the hundreds of years of neglect. The mana detector at my waist tells me that there must be some kind of enchantment on the room. Cabinets cover the walls of the room, likely filled with more maps.
+
+This is an Explorer’s dream, no doubt containing a fortunes worth of knowledge.
+
+I check the cabinets, and confirm that they’re also containing maps of different kinds. There aren’t any maps of this place, so I leave them in place for now.
+
+The third room has several sealed scrolls, most of which haven’t survived the test of time.
+
+The fourth room makes me smile as I enter. I immediately recognize the tools on the desk of the room, and my gaze happily turns to the items behind it. Slips of paper, carefully preserved by boxes with faded labels.
+
+It’s a talisman room.
+
+Name: Leo Grayson
+
+Race: Human
+
+1st Class: Delver (explorer)
+
+1st Profession: Apprentice Runesmith
+
+Lvl: 30
+
+2nd Class: Lore-Mage (mage)
+
+2nd Profession: Apprentice Golem Smith
+
+Lvl: 15
+
+Title: Blessed Of Sehara
+
+Class Skills:
+
+(Delver)
+
+Lvl 1: Basic Map
+
+Lvl 5: Danger Sense
+
+Lvl 10: Identify Artifact
+
+Lvl 15: Hide Presence
+
+Lvl 20: Feather Weight
+
+Lvl 25: Find Ruins
+
+Lvl 30: Increased Perception (passive)
+
+(Lore Mage)
+
+Lvl 1: See History Of Object
+
+Lvl 5: Summon Legend Spirit
+
+Lvl 10: Private Library
+
+Lvl 15: Show Story
+
+Profession Skills:
+
+(Runesmith)
+
+Identify Runes
+
+Deactivate Runes
+
+Basic Inscription
+
+(Golem Smith)
+
+Inscribe Mana Circuits

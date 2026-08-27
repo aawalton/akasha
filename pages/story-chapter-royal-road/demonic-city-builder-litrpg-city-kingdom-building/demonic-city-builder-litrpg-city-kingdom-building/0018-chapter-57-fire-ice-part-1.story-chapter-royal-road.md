@@ -1,0 +1,103 @@
+---
+id: 8c51980f-14b9-525d-85c2-b4c3506e88ae
+page-type-slug: story-chapter-royal-road
+title: "Chapter 57 - Fire & Ice - Part 1"
+slug: 0018-chapter-57-fire-ice-part-1
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 18
+ownLength: 1574
+unit: words
+publishedAt: 2026-08-25
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3861410/chapter-57-fire-ice-part-1"
+royalRoadId: "3861410"
+---
+
+Capital of Solari Territory, Aurelion — The Spire
+
+The door to the study flung open, William striding briskly inside.
+
+High Bishop Demetri looked up, setting down the parchment piece. From the doorway he could see Commander Ashlan still in the waiting lounge, wearing simple, gray garbs. The man had his head in his hands, hair in balled fists.
+
+Before he even had a chance to fully assess him, the study door thudded shut.
+
+Demetri cocked an eyebrow. “William, is everything quite alright?”
+
+“That blasted man! By The Five, I know we’re taught that all deserve mercy. But at what point does mercy become foolishness?!” spat William. The young priest had his hands clenched so tight his knuckles had gone white. He started pacing back and forth in front of the great oak desk in the high bishop’s study.
+
+Demetri knew the answer. But he had to ask. “And what, pray tell, has my favorite priest so out of sorts?”
+
+William paused, wheeling. “Oh! You know! Oren! He’s been out there all morning. Don’t tell me you haven’t seen.”
+
+“I have.”
+
+“Have you, father? Have you?” pressed William. “The man’s telling the entire city the demons you spoke of at the conclave couldn’t possibly be real. That the witness statements you shared were fabricated. He’s all but called you out of your mind! Oren’s using the cleansing in the writ—when demons were all but extinguished during the third coming—as grounds for his nonsense! Between that and the other foolishness his lackeys have added, the city’s eating it up! Yet, not a single, holy loving one of them has stopped to question if maybe, just maybe, darkness might have found a crack in The Five’s will. Nooo. That would be just heretical to even mention!” By the end, the priest was nearly shouting. His cheeks had gone red and breath was coming in gasps.
+
+Sitting back in his chair, Demetri studied his de-facto apprentice. When he was sure nothing more was coming, he reached to the decanter by his side. With a deliberate calm, he poured two glasses of cherry wine. He slid one across to the priest, before taking the other and rising.
+
+“Drink, my son.”
+
+William didn’t look like he wanted to, but when a high bishop told you to drink, you drank. So he did, bitterly sipping at the glass, glaring into it as if the amber liquid would part, answering his unsaid questions.
+
+Demetri walked to the large glass windows of the study, overlooking the city. As a ranking bishop, he was allotted a generous parlor, study, and chambers in the upper mid levels of The Spire. High enough that the bustling noise of the golden city below was lost to the wind, but not so high that he couldn’t make out faces.
+
+Gazing down, he spotted what had William so worked up. Oren was on top of a pulpit, set in the center of Aurelion’s main market square. Golden fountains sprayed water in lazy arches, with well kept flowerbeds outlining the stalls and shops. Residents and priests intermingled, baskets of baked goods and necessities in their grip. Business and trade of such items was always taking place in the square.
+
+Today, however, it was interrupted. Oren had a gathering of residents set right in the center of the heart of it. Demetri spotted more than a few with the white-gold robes of bishops, but most who listened were dressed in common clothes. Like their guest outside the study now wore. Gray and unassuming. But each was still a voice. One that Oren was speaking directly to.
+
+Turning, he beckoned William over. “Come. Tell me what you see.”
+
+Grunting, the younger priest set his empty glass down and rose to his feet. He stopped by Demetri, glaring downwards. “Oren and his entourage, convincing all of Aurelion not to support you in saving the realm.”
+
+“Yes, yes. But Oren specifically. What do you see when you look at him?”
+
+“A fool,” he muttered.
+
+“William.”
+
+“Sorry, father. Sorry,” he sighed. “Forgive me.” Taking a deep breath, he schooled his expression. Likely recalling the lessons from his spymaster. Demetri waited patiently. Despite his youth, the young priest was intelligent. It’s why he’d brought him into the fold.
+
+William studied what was happening below. From the look on his face, Demetri knew he was honing in on Oren. Observing the fervor in the bishop’s eyes. The quirks and furrows as he gave the sermon dressed up as a speech.
+
+“I see… belief. Devotion.”
+
+“Good, good. And what does that tell us?”
+
+“It tells us that Oren really believes what he’s saying.”
+
+Demetri clapped his hands softly together. “Bravo, boy. Bravo. You see? The Five school patience as much as they do mercy, and with it you can see more than your eyes will show you.”
+
+“I see your point, father. But if I can be candid, I simply don’t see what it does for us. So father Oren believes what he’s saying? So what? It doesn’t change that he’s using the third coming to act as if demons could never return.”
+
+“William, you realize that is the popular interpretation of the writ, correct?”
+
+“I realize that the writ’s been interpreted in a myriad of ways over the years, and now’s a hell of a time to stop that tradition.”
+
+“And what makes this such a… hell of a time?” Demetri replied in amusement.
+
+“What we’ve just spent the better part of a week getting from those,” said William, waving at the witness reports on Demetri’s desk. Each either brought by agents, or transcribed by one of the two men in the study personally from the basins. “Or him. I tell you, father. His testimony alone worries me most of all. It makes interpreting the writ a moot point. The Five always have taught us that even they can not see the entirety of what lies before us. Sometimes, something new arises. I think that man has just given such an example—even if his demeanor leaves something to be desired.”
+
+Demetri knew that by that man, he meant Commander Ashlan. Well, ex-commander Ashlan. “It seems unfair to judge the soldier by his attitude. Think of it from his perspective, William.” The high bishop took on the tone of a teacher, making William scowl. Yet, he listened. He always did. “The man’s been babysitting an incompetent child of a lord. And on that lord’s orders, led good men on a fool’s errand. They were perhaps the first in this entire world to truly meet enemies of The Five. Demons. And less than half of them came back. And what did he get for his trouble?”
+
+The high bishop paused, placing a hand on William’s shoulder. “The first Solari Paladin to come North, to save Valdren from the darkness, came not with a golden sword of justice, but disbelief at their recounting of what they faced, and chains for their own. Chains for his men. And him. And, if it wasn’t for our agent, we both know Brexin would have had him executed on grounds of heretical nonsense. Honestly, part of me even wonders if Ashlan purposefully got himself arrested to spare more of his men.”
+
+He shook his head. “No William. I think his demeanor is admirable, given the facts. You’ve spent almost as much time around him as I. You saw the truth in his eyes, the openness with which he shared, and his eagerness even now to help. When you walked in, that wasn’t the look of an ex garrison commander angry at his captors. It was the look of a citizen who simply fears for his kingdom.”
+
+William didn’t look entirely convinced, but he did nod in acquiescence. “Alright father. I suppose I see your point. Maybe I was somewhat hasty. But if he’s as valuable as you say, then should we not just bring him to The Conclave? Let his voice help to balance out what Oren’s trying to do?”
+
+Demetri snorted. Even William gave a sly grin at that. Both knew the impracticality of what he was suggesting. Many in the conclave would see him tried, cleansed, and executed just as fast as Brexin had. Some even more so. And then their only source of true knowledge from a ranking military officer from The North would be gone. Not to mention one that was both willing and trying to help.
+
+Most in his shoes would not. The unrest from North Valdren was just that thick in regards to The Solari.
+
+“If only. No, my son. What we need is a way to take what he’s told us, and shape it into something the rest of the bishopric will hear.”
+
+“How do you propose to do that?”
+
+“I don’t know. Yet.” As he turned back to the study, his gaze caught on the bookshelf. On the dust-covered scrolls from the archives.
+
+And I really don’t know what’s to be done about that either.
+
+From what William had given him to dig up, he’d come to a conclusion. One that he feared to be true, but knew it must be. These demons—and yes, he did believe they were indeed demons—were on one of The Silences. One The Solari hadn’t known about. Where basins didn’t scry, holy magic didn’t work as it should, and The Five looked past.
+
+Which meant Brexin, along with a hundred of his paladins, were walking straight into this unholy enemy.
+
+Blind.

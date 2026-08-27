@@ -1,0 +1,233 @@
+---
+id: 2f969951-3281-5cee-9ba7-acf894f2664b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 92"
+slug: 0092-chapter-92
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 92
+ownLength: 2146
+unit: words
+ownProgress: 2146
+publishedAt: 2023-04-19
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1186034/chapter-92"
+royalRoadId: "1186034"
+markedReadAt: "2026-06-29T20:34:59.650Z"
+---
+
+[Time Remaining Until Test 2: 6 Hours]
+
+I open up a large black swirling portal and we both jump through. While holding Maria’s left hand, I sift through the mind’s eye image of dungeons flashing all around. Finally, I lock onto our previous position. The private room from earlier is still empty and glowing with that faint white light.
+
+Maria and I step through. As we do, I feel a massive amount of MP drain out of me. This long-distance double-passenger travel takes a lot of energy.
+
+I grip a handful of fresh mana crystals plundering my MP back up to full as Maria looks up at me.
+
+“Well, that’s a relief. I thought for sure someone would have come in here by now!”
+
+I reply.
+
+“Yeah, I was a bit worried too… th-“
+
+“HEY! I CAN HEAR YOU IN THERE! OPEN UP!”
+
+I hear a loud and deep voice from right outside banging on the curtains.
+
+“Uh-come on in!”
+
+The voice replies back.
+
+“I can’t you moron! These things have mana locks on the inside ya know. I can’t get in unless I break this thing down. Do you think this is funny?”
+
+I walk over and peek my head out of the curtain to see what’s going on. A team of 3 rugged-looking men stands outside our tent looking exhausted and impatient. The same deep voice rings out from the tallest one in the middle as he gives me an angry glare.
+
+“Apparently you two have been in here for over 10 hours! That’s what another team just told us. Come on already, play nice, and give us a chance to rest up too!”
+
+I stare back at him filled with confusion, then turn to Maria as she walks over and pokes her head out of the white curtain as well. She replies.
+
+“Sure, we’re done anyways, even tidied it up a bit. The place is all yours!”
+
+The two of us walk out with satisfied looks on our faces. The group of three mutters a few minor rude remarks and walk past us to occupy the room.
+
+Once outside, I can see the crowd of hunters trading gear and lounging around has nearly doubled in our absence. There isn’t anyone immediately recognizable, so we decide to find an open table and sit down facing each other. Maria grins and looks at me with a half-serious look in her eyes.
+
+“Our Operation was a success.”
+
+I laugh, then roll my eyes.
+
+“Yeah. Operation Snack and Sleep went really well.”
+
+We both let out sighs of relief as the white noise of hunter’s chatter fills the air. Eventually, I reach into my storage, take out half of the food and water supplies I bought at the corner store last night, and place them on the table.
+
+“Here. Take these and throw them in your item box, you’ll probably need them for our next test.”
+
+Maria’s eyes light up and she hastily puts them away.
+
+“Ohhh! You’re right, when’d you get these anyway?”
+
+I begin to reply, but a raspy feminine voice interrupts me.
+
+“Hey! Watcha want for some of those?”
+
+A short, curly brown-haired girl with two swords across her back walks up to our table and looks me right in the eyes. She wears a tight black shirt that shows off her slim but curly figure, short blue jean shorts, and black combat boots. The artificial sunlight of the dungeon gleams off her fingers showing off her assorted rings.
+
+With an arrogant attitude, but a powerful voice, she repeats herself.
+
+“So? Stare all ya want, I ask again. How much for some water and a bit of food?”
+
+I look over to Maria, she just shrugs back. The girl speaks up again, then a line starts to form behind her.
+
+“Here!”
+
+She slams a ring down on the table.
+
+I use appraisal.
+
+[Ring of Protection] +25% Defense
+
+She speaks up again.
+
+“How much will that get me?”
+
+I grin and realize what’s going on here… I reach into my item box to pull out two bottles of water and a small bag of dried fruit.
+
+She tightens her stare, then turns around to see half a dozen other eager potential buyers lining up.
+
+“Not bad, I’ll take it. Thanks.”
+
+She grabs the water and fruit, then leaves without saying another word. Maria and I stare at each other wide-eyed for a moment, then proceed to take out all our excess food and drinks, leaving just enough for each of us to survive a few more days if need be. It’s a good thing I bought extra, the market value of basic sustenance has skyrocketed… time to cash out!
+
+After we squeezed all we could out of the small crowd, I managed to get 7 more HP potions, that ring of protection at 25% defense from before, one pair of steel wrist guards, and a spare steel sword with +300 strength. I doubt I’ll use any of these, but the resell value won’t be bad later. I store them all in my item box. Maria managed to get herself a 30% mental strength-boosting ring, and another ring of protection with a 25% defense buff. They’re both good additions to her stats, the challenges ahead will be difficult, but these will definitely help.
+
+Once we finish trading all the resources we were willing to part with, we decide to pass the time by playing a game of chess with mana crystals. I carved out an 8 by 8 set of squares on the wooden table, and we used different-sided crystals for the assorted pieces. It was hard to keep track at first, but we got used to it eventually.
+
+Time passed and the crowd of hunters got bigger and bigger as stragglers came in. Some looked like wrecks, while others looked fine like they just took their time and strolled through.
+
+4 hours of surprisingly entertaining games and idle chatter went by before I saw someone walking over to us from the dungeon entrance in a Hunters Associations getup. They’re sporting bright green hair, bend the ground below them as they walk, and are covered head to toe in dirt and blood.
+
+She scans the area of hunters, then of all people locks eyes with me… and runs toward our table with a smile across her face.
+
+“Jay! You made it here too!”
+
+I let out a slight grin as I look her up and down.
+
+“Abby, it’s good to see you made it here too. What- uhh- what happened? Is your team oka-“
+
+“Aghh, long story.”
+
+She rolls her eyes and sits down next to Maria, then puts her head down to let out a sigh.
+
+“A really long story…”
+
+I just wait patiently for her to continue, but she never does. Moments later Maria puts her head down near Abby’s, then starts to laugh.
+
+“S-She’s Asleep!”
+
+I smile and let out a laugh of my own. I guess that story can wait for another time….
+
+With the sleeping green-haired girl sitting face down at our table, we continue our game.
+
+Another 30 minutes pass and a large man with a certain red-haired girl make their way towards us from the resting areas. Nessa shouts out as they approach.
+
+“Hey, Maria! Jay!”
+
+Her face is much brighter than earlier. Bruce looks good too. A good night of sleep was exactly what they needed.
+
+Nessa sits down next to Maria and Bruce takes a seat next to me. I give him a friendly nod.
+
+“Any luck finding that shield?”
+
+His grin fades immediately.
+
+“Unfortunately no-“
+
+“Knew it… I got you covered.”
+
+I reach into my item box and bring out the shield I bought at the market, and his grin comes back like a little kid’s.
+
+“Where did you… how much do you want for-“
+
+“My treat, don’t worry about it.”
+
+His smile widens as he examines the large shield.
+
+“Hey thanks, Jay! I owe you one, for real.”
+
+Bruce puts out a hand and I shake it firmly.
+
+“No problem.”
+
+Nessa speaks up.
+
+“Hey, can you do that fire thingy real quick?”
+
+I laugh.
+
+“That… fire thingy…”
+
+“You know what I mean.”
+
+I point my index finger in the air and ignite a small flame.
+
+“Is that enough?”
+
+She concentrates for a moment, then smirks.
+
+“Yeah, perfect. I haven’t used a fire skill since the last time we met. This’ll be fun.”
+
+I put the fire on my finger out, then point it at her.
+
+“Hey, you owe me one too.”
+
+Nessa slightly rolls her eyes but nods in agreement.
+
+“Fine, sure. One question though…”
+
+She points at Abby face down on the other side of Maria.
+
+“Who’s this chick?”
+
+“Oh- That’s Abby. She’s uh- a little tired right now.”
+
+Not much more explanation is needed. We all chuckle a bit and ignore the sleeping girl for now continuing small talk and using my carved chess board to entertain ourselves for another hour until a loud voice sounds from above us. It’s Rodrigo. He’s standing on a small white podium at the back of the tent area.
+
+“All right. With 24 minutes to spare, our 200th member has made it just in time. Test 2 will begin shortly!”
+
+Maria nudges Abby and she violently shakes herself awake. Rodrigo continues.
+
+“This next test will be fairly different from your last. You may still team with as many other hunters as you’d like, but there is one exception. During test 2, teamwork is forbidden in all boss rooms. The act of slaying bosses together will count as a disqualification.”
+
+The crowd starts murmuring to each other immediately.
+
+“I know this may come as a surprise to some of you. This exam is full of very talented individuals. The shot callers at the Association are looking for a very specific group of hunters. So only those of you that can make it through this hardship will qualify. Teamwork is very important, but independence and personal growth are arguably even higher up on that list. If any of you wish to leave the exam, you may reach out to any yellow armband-carrying overseer at any time. They will contact me, and I will gladly give you a one-way trip back to the spawn area.”
+
+Rodrigo smiles as his lifeless white eyes slowly scan the crowd.
+
+“There will be monitors stationed at every boss room portal to oversee your progress. If anyone is caught trying to skip to another floor with the help of a fellow hunter, that will count as an immediate disqualification. Your personal strength is vital to your success. You must prove that you’re able to take on tough challenges alone. The first 100 hunters to defeat the next 5 floors will have the opportunity to attend the final trial. You must meet me on floor 16. Many of the obstacles in front of you may be more difficult than anything you’ve faced before. To pass this next test, you must become stronger than you are now. This is a true test of adaptability to a unique and hostile environment. There is no time limit. You may go up and down to any previous floor to train together, but you may not face bosses as a team. 100 of you must get stronger and meet me on floor 16 all by yourself, these are the only rules. Are there any questions?”
+
+The entire crowd goes silent.
+
+“Very good. Test 2 starts now. I will see 100 of you on floor 16. Until we meet again.”
+
+A flash of light appears in Rodrigo’s place, and dozens of other flashing lights appear all around us. The numbered coins we were given earlier begin to dissolve. Potions, food, and water appear in their place.
+
+I look in my item box to see what happened to my coin. It dissolved into 4 MP potions, 4 HP potions, 2 waters, and 2 small bags of food. The coin in Abby’s hand with “188” printed on it turned into 1 MP potion 1 HP potion, 1 water, and 1 bag of food. The more I look around the clearer it becomes. The faster hunters get better gear, that’s only fair I guess.... That’s life. The coins were isolated storage systems that somehow react with Rodrigo’s magic, how interesting.
+
+Many hunters are taking out their weapons, yelling, and leaving the tent area. It’s like a stampede.
+
+Just like that, Test 2 has begun. This is pure chaos….
+
+I look around and make eye contact with Bruce, Maria, Nessa, and Abby one by one.
+
+“Well, this is sudden… Are all of you ready?”
+
+I smirk and draw my sword.
+
+Bruce nods and readies his shield.
+
+Maria grins ear to ear glowing bright blue.
+
+Nessa gives me a fiery thumbs up.
+
+Abby stares at me blankly, then salutes with a thin smile.
+
+Test 2 has begun.

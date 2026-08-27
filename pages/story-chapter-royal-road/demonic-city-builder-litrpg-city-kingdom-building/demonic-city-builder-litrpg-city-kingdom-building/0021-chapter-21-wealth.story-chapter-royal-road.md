@@ -1,0 +1,237 @@
+---
+id: db09d09b-451b-5f99-9f99-b24da8d5d6d1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21 - Wealth"
+slug: 0021-chapter-21-wealth
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 21
+ownLength: 2806
+unit: words
+publishedAt: 2026-05-28
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3462059/chapter-21-wealth"
+royalRoadId: "3462059"
+---
+
+“Kairon. I’ve gotta ask. What the hell are all of you? Like actually?”
+
+Each step had Kairon’s feet claws digging into the warm, soft sand. For him it was comfortable. Looking over at his new companion it seemed the cloaked ranger was faring just fine as well. Veron, he’d introduced himself as.
+
+It is odd, however. Veron’s reaction to my domain is nothing like any other human so far. Can my land sense who is an enemy and who is not?
+
+“Well, my friend! We’re demons and imps, through and through. Not a one of us originates from this plane.”
+
+“Truly?”
+
+“Indeed! The locals have really struggled to understand the challenges that come with, which is a true shame.” He dropped his voice to a lower, conspiratorial tone. “And it just so happens that you’re the first native to be amenable. Such a man could do quite well to get his foot in the door early, so to speak.”
+
+Veron flicked his eyes back in the direction of the treeline. At this point it was but a green splotch behind them. “Look… You’ve been honest and good to me. So I’ll do the same for you.”
+
+Veron ran his tongue along the inside of his mouth and cleared his throat. The sand had a way of getting in it.
+
+“Here’s how it is. Lira doesn’t speak for all of us. She’s what you could refer to as a clan elder. Where we come from, we don’t have leaders beyond that. Not really, anyway. Our freedom is why we came out here. And without it, we’re nothing. Hell, most of us weren’t even born here. We’re just here now and have nowhere else to go.”
+
+“I see. That must make it challenging for projects that require collaboration, no?”
+
+“To a point. Gah. Blasted sand.” Veron brushed the back of his neck, trying to clear off more of the itchy stuff. “How do you manage to live out here? It seems insufferable.”
+
+“Oh goodness, no. We don’t live in the sand. That would be silly. See that in the distance?” Kairon pointed to the looming walls still several leagues away. “That is where we live.”
+
+“I honestly can’t see much of anything from here…”
+
+“Oh just wait! You’re gonna love this.”
+
+This is so exciting! My first customer, and a human one! I don’t think I’ve talked to a human this much since… well in a very, very long time.
+
+An hour later the brood imps crossed their path, Shiny at their lead.
+
+“Shiny! Great to see you. This is Veron. Say hello!”
+
+“Hi.”
+
+The human waved in reply. Seeing that neither imp nor Veron was speaking up, Kairon considered the matter dealt with.
+
+“Good, good. You’re acquainted. Now catch up with Vorathrex. Just listen for the crashing trees, I’m sure he’s not hard to find. I want you to use this as a hunting expedition. Our food stores are empty and the treeline has receded again. We need to replenish our stores, and now. Since the warriors are out there, this is a perfect opportunity for some safe gathering and hunting.”
+
+“Ok. Warriors help?”
+
+“Exactly! If you have any trouble, remind Vorathrex about the loud human. Got it?”
+
+“Yes master!”
+
+“Be quick, they left several hours ago.” And I still haven’t managed to see them return from the forest through Sovereign Eye. He did stop several times to check, and for a moment thought he spotted something, but moments later whatever it was disappeared into the darkness.
+
+The imps scamped off, following the footprints the duo had left in their wake.
+
+Crossing the imp’s paths had required a slight detour. Without it, Kairon might have missed what came next. They had traveled a while more when he made a discovery. To his right, there was a small patch of grass in the middle of the endless sandscape. Perhaps five or six paces in length. Veron’s eyes had gone wide with glee at the sight, but quickly grew disappointed when he realized it didn’t extend beyond the tiny patch.
+
+Still. Kairon was quite interested. “What do we have here…” he mused aloud. On closer inspection, however, all he had was exactly what it appeared to be. Grass. He prodded the lush green island with one foot, but nothing happened.
+
+“Why aren’t you sand?” he asked.
+
+“Maybe you planted something there?” asked Veron.
+
+“No. I’d know that.” Right?
+
+To be sure he activated Sovereign Eye. From a top down view he could see nothing but orange sand and hellscape dotted with corrupted trees in all directions. All except for…
+
+“Now that’s unexpected.” When Kairon looked from up high, as he usually did at distances like this, he noticed nothing. But as he zoomed in, the sand stopped at a tiny blip. The closer he got, the more that blip grew until it was the same tiny little circle. Only here, it was a void of darkness. Just like the treelines far in the distance.
+
+“A small parcel of life, defying my domain. How curious you are…” Frowning, he tried digging a claw into it. Dirt. Just normal, uncorrupted dirt.
+
+Veron just stood there, giving the demon a bewildered look.
+
+Kairon paid it no mind. Instead he spent several more minutes testing and exploring the little circle. Unfortunately he found nothing else of note about it. It really was just an unremarkable plot of land. He decided it would simply be best to just mark the spot in his mind and continue on. Something to ponder more on later.
+
+The demon lord added investigating the rest of his domain for similar occurrences when he didn’t have an impatient human to entertain.
+
+Before long the fortress came into view. From this vantage point, it was perhaps the first time he really saw the settlement he’d been building for what it was. Stone, timber, and sand. Well, that and the demonic hallmark of black marbled stone. The complexion the natural materials made with the dark rock was incredibly satisfying. Even from here, he had to admit the view was impressive.
+
+“My god. Kairon, this. I came through here last season on a caravan. This was just forest. Actually, it was nothing. Nothing was here. Where the hell did this come from?”
+
+The demon lord smirked. “I knew you’d love it!”
+
+“Ah…” Veron struggled to breathe out. He could barely manage a reply, too busy gaping at the black spire. His eyes went up and up, tracing its length until they met the pulsating eyeball hovering lazily above it.
+
+“Kairon, what is-”
+
+“Follow me! The city’s empty besides us so we’ve got the place to ourselves. Ah, do be careful of the stone maw over there. I wouldn't touch it. It’s rather… hungry.”
+
+Not giving him a chance to ask further questions, Kairon hurried inside the city gate. Behind him Veron could only follow in a stupor.
+
+THUD.
+
+Veron squealed at the noise, turning back. “Kairon?! Those gates just closed. I thought you said the city was deserted? How did you…”
+
+The demon waved the question away. “Worry not. It's of no consequence. Now I’m famished! Let’s fashion something to eat.”
+
+The city lord led Veron to the front of the dark tower. Looking around, he spotted some displaced sand near the stairs. A few minutes of digging later and he held one of the leather rucksacks Shiny buried.
+
+Wiping the sand and orange dirt from it, he began rummaging around inside. “Veron, are you a merchant?”
+
+“Aye. Was it that obvious?”
+
+“Only to the trained eye, my friend.”
+
+He sighed. “Though I don’t feel like much of one. You know I was nearly exiled a second time. From my own clan of people. Hell if I know where I’d have gone from there.”
+
+The demon snorted and handed Veron a wrapped flatbread from the pack. “How’d you manage that?”
+
+“Tried trading with Valdren. I don’t understand the clan’s obsession with isolation from all but other green folk. We are a day’s hike from the pass. A day between us and cocoa beans, silks, metals, rare grains, and industrial goods.”
+
+“A day and the pass through those mountains everyone keeps mentioning,” corrected Kairon.
+
+“The point still stands. Call it a week or two. And we could improve our way of life, and offer the Valdren people goods they can’t get elsewhere. God I would have loved to see the look on those snobbish bastards faces when I came into town, a cart full of medicinal herbs and forest fungi.”
+
+“Why not just go alone? Take a pack and make the trek yourself?”
+
+“That’s exactly what I tried, but complications arose. By the end of it all being sorted out, I was nearly thrown out of the village. They gave me digging duty for a month and even after no one really treated me the same.”
+
+“What happened to freedom and the choice of the individual?” prodded Kairon.
+
+“Yeah.” Veron scoffed. “What happened indeed.”
+
+For the rest of the evening, Kairon and Veron sat on logs, enjoying an evening fire with some dried rations. The hunter did look at Kairon suspiciously, obviously wondering where he’d got them, but had the manners not to ask. They chatted, the demon using the opportunity to both build a valuable connection and learn more about Greensward.
+
+Business would come later. He wanted to ensure matters with Vorathrex were settled first.
+
+They both slept well that night, bellies full courtesy of Valdren soldiers. For once, Kairon had enjoyed a relaxing meal without the constant noise of tearing meat and squabbling imps.
+
+He enjoyed it. But a part of him still held a longing for the bustle of his demonic city to return soon.
+
+Morning came quietly. The imps still hadn’t returned, and a quick survey with Sovereign Eye showed none in sight at the tree line.
+
+Odd that it’s taking so long. He shrugged, forcing himself to trust the autonomy of his workers. Something he’d been working harder and harder at doing.
+
+Besides, the demon had more important matters to attend to. Veron was still sound asleep in one of the bunks inside the imp camp.
+
+Tiptoeing away, Kairon could hardly contain his childish excitement. The moment he reached the Feeding Pit he pressed his scaly palm against the cold surface of its maw.
+
+Sitting cross-legged he waited. About five minutes later…
+
+“What the-”
+
+Eyes wide, he watched in bated breath as the stoney maw opened. The mountain of gold that overflowed between the pit’s teeth spilled onto black stone with a magical, tinkering jingle.
+
+As it did, the notifications just kept coming. Each was like a tiny shock in his brain. Falling to his knees, Kairon grabbed clawfuls of the coins.
+
+“Hah! Vorathrex, you sweet red bastard! I knew these corpses might be valuable, but this..!” All the frustration of yesterday melted away. The general’s kernel of truth had brought him a windfall of wealth. More than he’d accumulated and spent since coming to this realm.
+
+The big demon was right, and dots were starting to connect.
+
+Demons don’t care about gold. They care about corruption. Which means the real value of these coins isn’t what they're made of, but where they’ve been and the hands they’ve touched. And, more importantly… If men are as corrupt as I believe, then it’s no wonder their bodies are worth so much of it.
+
+For the next hour, all the demon did was carry clawfuls of gold from pit to vault. Twenty minutes in, an unexpected helper arrived.
+
+Purple light flashed from within the wrath district. Out marched a bone armored wrath imp, walking purposefully from the spawning grounds.
+
+“Oh! Welcome, welcome. Normally our general, who I’m sure you’re just going to love by the way, would greet you. Seeing as he’s not here right now… Why don’t you help me out with hauling all this gold to the vault? And do be careful not to wake our guest. He’s in the camp over there.”
+
+“Yes master!”
+
+From there, the hauling became much quicker. It didn’t take long to clear out the overflowed gold. His new warrior was just carrying the last of the sandy coins. Just to be certain none were missed, Kairon stared into the maw.
+
+“Oh? What’s this?”
+
+The feeding pit was… pulsing. Kairon frowned. He could sense it wanted something.
+
+This time when his claw pressed against the hard surface, it vibrated.
+
+“What are you..”
+
+A deep bellow like the yawn of a wyvern came from the pit’s throat. Its wicked sharp stone teeth took on a purple hue, and tiny demonic script began scrolling faintly along its edges. So small that Kairon couldn’t even begin to establish a connection or learn it.
+
+Each tooth began rotating clockwise. One quarter, two, three. After two full rotations they began to stop in a sequence. What was once a uniform row of teeth was now a mess of… something. The angles looked wrong, and the shape was beyond unnatural.
+
+“That’s new. Essence...”
+
+Inside the pit’s mouth sat seven purple beads. They called him. The moment his eyes looked at their smooth surfaces, a melody began playing in his mind. Unable to help himself, he reached down and grabbed the orbs.
+
+Peering closely at them, he noticed that each sphere had scripture etched into its polished surface. The closer he stared, the louder that soft music sounded.
+
+Instinctively he knew. This is knowledge. Maybe the demonic equivalent of it, at least. And each orb, at that, felt different. Distinct.
+
+For now Kairon decided that they too would go into the vault. They were quite shiny after all. And for what he had planned soon, they’d come in handy.
+
+When every coin and bead of essence had been inserted into the vault, he checked his city interface with gleeful anticipation.
+
+“Fifteen hundred gold… By the system!” exclaimed Kairon. The numbers made sense. There were nearly thirty corpses worth of body parts, and each notification was nearly forty gold. But still… His body positively thrummed with the warm glow of more coin. Lots of it.
+
+When it came to wealth, Bureau logic and calculus just didn’t compute.
+
+“Master? Is fifteen hundred good?”
+
+Snorting, Kairon put his claw on the warrior’s shoulder. “Oh, it's good. Very good. This accelerates our plans nicely.”
+
+Just like that, he had more than enough to start the second ring rit-
+
+“An auditor?”
+
+The vault. Scrambling, Kairon bolted from inside the tower. Sliding to a stop, he knelt down by the Vault. The chamber full of gold in the center of the room glowed a faint purple. Around it, demonic script started pulsating intermittently. Every few seconds, several symbols he didn’t know lit up before going dark again. Almost like they were blinking at him.
+
+He pushed his hand against one.
+
+“Ah. Not what I wanted, but… No matter. We’ve nothing to hide here,” Kairon assured himself.
+
+The mention of audits back home caused waves. Big ones. Nobles schemed, patrons fussed, and common folk grumbled. They all had their own reasons for despising them. In Kairon’s experience, you could learn a lot about man based on how he reacted when faced by a Bureau audit.
+
+The city lord’s lips spread into a hungry grin. He was fairly certain that this audit wasn’t from The Bureau. It was from the demonic plane. And unlike scripture and rituals, compliance was his realm. Not theirs.
+
+“I’ll be waiting…” he told the vault. No reply came.
+
+The sight of the supply line trudging through the sand that night was initially a relief.
+
+He started counting off aloud. “Shiny, two, three, four… Nine brood imps. Good, good. Now the Wrath imps… All eleven accounted for… There’s Vorathrex… And… No humans…?” Kairon trailed off, cocking his head.
+
+“I guess if a battle broke out, they may have had no choice but to take matters more violently than I hoped. Still…”
+
+Something wasn’t right. Where did those canvas wraps and hides come from?
+
+His forces were carrying a massive haul of supplies back. Vorathrex had three bulging burlap packs alone. Each wrath imp held two. And the brood imps were dragging sacks of fur along the sand like sleds.
+
+That was far too much for the forest hunting he’d ordered Shiny with. Every warrior and brood imp could have caught a rabbit and it still wouldn’t have explained that.
+
+A sinking feeling he was growing far too used to formed in the pit of Kairon’s stomach. One he was promising himself he would make a point of seeing to.
+
+Nearly five leagues of walking in the distance, where the tower’s gigantic squinting eye would be only a speck in the horizon, Shiny looked up. Recognition filled his eyes. The little imp shook his head. An exasperated frustration covered his best middle manager’s gaze.
+
+“Oh dear.”

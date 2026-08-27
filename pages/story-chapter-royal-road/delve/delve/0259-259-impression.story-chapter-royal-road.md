@@ -1,0 +1,221 @@
+---
+id: ebe0bc86-6338-5505-b191-309addf4e9c9
+page-type-slug: story-chapter-royal-road
+title: "259: Impression"
+slug: 0259-259-impression
+partOf: delve
+position: 259
+ownLength: 3705
+unit: words
+publishedAt: 2024-02-04
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1505883/259-impression"
+royalRoadId: "1505883"
+---
+
+Dossier on President Luna Olentu
+
+Compiled by Reece
+
+Birth Date: 3015-04-23
+
+Male, black hair, robust build, approximately average height.
+
+Awakened, level 56 (confirmed 3059-11-14)
+
+Base Class: Equipment User (confirmed 3035-01-04)
+
+Silver Class: Unknown Rare
+
+Gold Class: Unknown Rare/Legendary
+
+Sapphireplate, Bank ranking #4 (3061 assessment)
+
+Cautious. Calculating. Greedy, but that goes without saying.
+
+Luna is a third-generation Banker, inheriting much of his wealth and status from his mother’s family. House Olentu, however, never rose beyond the middling ranks of the Bank’s hierarchy until his stewardship. He is largely viewed as a self-made man and an upstart by his peers, ignoring the massive head start he was given over a true outsider. His Enforcers are not known to be particularly gentle or forgiving when extracting payment, though this is unremarkable across the larger organization. He is also known to maintain intelligence assets in all countries where the Bank conducts business, and again, this is unremarkable.
+
+The majority of his wealth came from the purchase and trade of debts and the collection thereupon. Most notably, the three Goldships under his control—Luxuriant, Splendiferous, and Supercilious—were all acquired from competitors who’d taken on more liabilities than they could afford. Note: the last of these, the Supercilious, was only partially completed when he gained a controlling stake in the Allet Goldship construction yard, now the Luna Goldship construction yard. This shipyard is remarkable for being the only such facility not technically on Splendor, though the island hosting it is, if anything, even less accessible given its location in the closed waters south of the main island.
+
+Prior to the fall of Ekrustia, President Luna controlled the Bank branch in Eastspar, a key intercontinental hub. Now, with the city captured or destroyed by the Adamant Empire, he retains only the shipyard as a base of operations and his three existing ships as a source of income. Given the loss of his primary operational base, the high operational cost of his assets, and the general predatory nature of those below him, it is likely that he will be removed from the Bank’s controlling board upon the next annual assessment.
+
+Rain’s hands blurred with Velocity as he weeded, fingers nimbly dodging the asparagus to tear out the unwanted invaders. There was a Nature Magic skill similar to Aura IFF that would let the weeds be excluded from Cultivate, but neither Greenbriar nor Camaya had it. They didn’t have the levels, and as such, weeding was a near-constant task. Fortunately for his current mood, it was one that he felt no guilt for taking from whoever would have had to do it in his stead.
+
+That was a constant problem he’d been struggling with this past week. Knowing he could do things better, faster, and more completely than anyone else and forcing himself not to. To step back. To let others work, struggle, and learn.
+
+Finished with the entire plot before any of his co-weeders had even finished a tenth of theirs, Rain practically flew through the air as his perfectly aimed leap sent him to the next tilled area. In the past, walking would have muddied his boots, but the swamp was feeling less like a swamp and more like a forest every day. The Mudmanced canal was having a profound impact on drainage for the whole area, and with the bugs dealt with by Fulmination, wildlife was flocking to their little pocket of cleanliness like it was an oasis.
+
+Still not getting the challenge he wanted, Rain pushed Velocity higher, risking damage to the tender shoots in the name of pushing the limits of his dexterity. It wasn’t like it mattered. It was just asparagus. It didn’t even grow like a real plant. It looked like a joke—like someone had gone out at night and poked the stalks into the ground one by one, trying to convince someone else that that was how asparagus grew.
+
+How is it fair that there’s asparagus on this planet but no bananas?
+
+...
+
+That’s it. I’m putting a mission on the board to find me a damn banana. There has to be one in the Xiugaaraan jungle somewhere, even if it’s one of those sad ones with giant seeds. Uncultivated or whatever. We’ll selective-breed the hell out of it.
+
+Rain kept working as his thoughts went off the rails, sweeping over the plot like a miniature, extremely selective tornado. He fully admitted he had a problem with productivity. He was addicted to it. In this time, when he was supposed to be going for a calming jog, he’d turned his relentless energy toward progress.
+
+Part of the problem was that the past week had just crawled by. A day or two to get the airship ready, it turned out, meant twelve. With his return had come sane development schedules, though, to be fair, making a prototype that flew once was easy. Making a robust ship that flew every time and could keep flying for the better part of a day was something else. Tallheart’s distraction with his material science project wasn’t helping, but Rain hadn’t pushed him. The antlered Smith, too, struggled with stepping back, and Ascension’s other crafters were growing by leaps and bounds under Unity’s influence.
+
+Rain sighed.
+
+Being forced to wait before he could attack the problem—the problem being the triplicate issues of the Bank, Watch, and Guild—was what really had him climbing the walls.
+
+Why the hells won’t Burrik agree to see Halgrave? He met with him after Fel Sadanis. Why not now? Do we not rate as worthy of his attention?
+
+Rain checked his interface, scowling at it as if that would somehow change the time it was displaying.
+
+3061-07-23 7:06 AM
+
+The airship was done and stocked with in-flight snacks. Halgrave was back after ferrying three more people to Xiugaaraa, bringing the total staff up to four plus Suspicious Steeve. A week and a half of gentle lair feeding had produced a second subcore for Bluewash to play with, slated for installation in Temerity. All he was waiting for now was system dawn, but that wouldn’t be for another fifty-four minutes.
+
+It felt like an eternity.
+
+With no next plot in line, Rain stopped himself from jumping lanes, instead speeding off into the trees to find another distraction. A broken tree limb caught his eye, and remembering the constant demand for wood, he flared Velocity and began the world’s most furious game of pick up sticks.
+
+His own energy level was another part of the problem. With his stats fully synchronized, he felt amazing all the time. Physically, anyway—never groggy, never in need of coffee for anything more than the taste, always ready to go.
+
+And there was so much to do.
+
+Domain training with Velika, then Ameliah and Tallheart after Velika had left for Sadiir. Working on essence theory. Working on the codes. Assaulting Reece with questions. Trying to crack the frozen spell problem...
+
+The damn frozen spell problem.
+
+I mean, I get that the patterns are going to fall apart when I use them. It’s obvious how the system’s helping me stabilize my own spells and the ones I’m borrowing through Unity. I just don’t see why it’s so damn fussy! When Ameliah stops sharing, the pattern remnants don’t explode or anything. On a good day, and as long as I don’t wait too long, I can get a good cast maybe two times out of three, but I can’t know if it will break until I actually try it. Making extra copies doesn’t work. Rebuilding them from memory doesn’t work...
+
+Am I just not good enough to see whatever’s wrong with them? Is the system sabotaging me without me noticing? Give me my wizard spells, damn it! A long rest should be all I need!
+
+Rain skidded to a stop beside the stick pile, now almost as tall as he was.
+
+He wasn’t even breathing hard.
+
+With a disgusted click of his tongue, he sped off again, wondering if this was how it felt to be Velika. Briefly, he flared Velocity, entertaining himself with the challenge of weaving through the trees, but ultimately, he flipped the magic around, slowing himself instead. Sluggishness dragged at his limbs, each step carrying him not nearly as far as it should. He fought back not with his will, which would have defeated the point, but with his body alone, reaching a normal jogging pace that required roughly five times the normal amount of effort.
+
+I must look ridiculous, and it’s going to make me hungry, but screw it. This should tire me out for a little while, and I can tell Reece I got my steps in, damn her.
+
+It felt like the ghostly ex-Warden had spent the majority of the time she’d been awake nagging him. She wanted him to ‘get a life’, and every time he tried to take advantage of his inner time acceleration to do anything other than sleep, she appeared to badger him. Not because time acceleration would shorten his life as he’d once feared—she’d confirmed it wouldn’t—but because she thought it was important for him to stay grounded. To stay present in people’s lives as more than a catatonic soul hermit.
+
+She was right, obviously.
+
+She was just so infuriating about it.
+
+Refusing to answer so much as a single question unless he met her ridiculous ‘social time’ quota. Refusing to answer anything if she judged it had the slightest chance of sending him down a rat hole. Acting like she wasn’t the REASON he couldn’t relax. Living under the impending threat of doom for subjective years did things to a person, as did surviving everything he’d been through before that.
+
+And her prescription for all that mental trauma?
+
+Hanging out with friends. Talking about it with those you loved. Exercise. Time.
+
+Nothing he hadn’t been doing already, albeit not as much as he should. The mental tricks he’d hoped she’d have for him? They existed, but he ‘lacked the foundation’ and ‘wasn’t ready’ and ‘should try just taking a vacation before hotwiring his brain’.
+
+Bah, I say! Bah!
+
+Beneath all her bluster, though, he got the impression that Reece was sorry about what she’d put him through. It was clear she’d never expected him to work as hard or as long as he had. There was this sort of background disbelief he felt from her every time she left the guest island to explore. It was immensely satisfying, though he still hadn’t proved she wasn’t outplaying his Reading somehow.
+
+“Hey,” Ameliah said, jogging up beside him.
+
+Rain reacted without surprise, having felt her moving toward him for a while now. “Hey,” he puffed, feeling the burn at last. Despite the heavy magic dragging at him, his voice came out normally. Speech and breathing were inherently exempt from Velocity’s effect, as was heart rate. Good thing, too. Having your blood flowing through your arteries like water through a fire hose didn’t sound particularly healthy.
+
+“I got the feeling you wanted company,” Ameliah said, slowing to match his pace.
+
+Sensing her unspoken request, Rain expanded Velocity’s targeting to include her. “Sorry,” he said, needled with guilt over the worry she was trying to hide.
+
+They ran in silence for a few seconds before he allowed a sigh to break his breathing pattern. “I’ll feel better once we’re in the air. It will be a long flight. Plenty of time to calm down.” He paused to refill his lungs and to turn Velocity down a bit. “I just want to be on the way already, you know? The waiting is killing me.”
+
+“I get it,” Ameliah said. “Where are we jogging to?”
+
+“Canal?”
+
+“Sounds good.”
+
+President Luna was not in a good mood.
+
+It didn’t show on his face, of course. He strode powerfully through the chaos to the backdrop of saws and hammers, indentured workers bustling to build piers, warehouses, offices, homes, and more. Everything needed to turn this desolate, sandy island into a proper base of operations. The shipyard was not enough. The island was not enough, but it was all he had. His competitors had conspired against him, and he’d found himself blocked from purchasing more suitable land in any city on any continent.
+
+While the desperate scrabbling of his workers mirrored his own plight, it wasn’t what had him grinding his teeth behind his carefully controlled visage of surety. That came down to the complete and utter failure of his spies.
+
+Crumpled in his hand inside his pocket was a pamphlet he’d received just two days ago. Common Knowledge: Ascension. Not only had his agents been slow in bringing it to him—the things had been circulating for over a week before one had reached his desk—but they’d also failed to track down their origin. The Luxuriant had failed when it had lost track of Ascension’s stolen Adamant warship. His agent aboard had failed or, worse, been turned. The Splendiferous was halfway around Bellost by now, chasing ghosts instead of doing the vital work he needed it for.
+
+And now, overhead, circled one of those very ghosts.
+
+Ascension’s Aeromancer, the one with the artificial wings.
+
+Luna didn’t even know his name, let alone how the artifacts he used to fly functioned, which represented yet another failure. Those wings were valuable if they’d let a low-level Aeromancer get here. That, or Ascension’s Aeromancer wasn’t low level at all, which would be not unexpected with all the oversights that were happening. His own aerial assets weren’t even here. Air defenses weren’t something he’d thought he’d need on this island, out of range of all but the mainland of Splendor. They were too valuable to keep tied down for a maybe. He needed them elsewhere, or at least he thought he had.
+
+“President, sir,” said Enforcer Gena, straightening at his approach.
+
+“Gena,” Luna greeted, his cool voice belying his rage as he removed his hand from his pocket. “What is the latest?”
+
+“No activity since the note,” Gena said, holding out a crinkled sheet that had been wrapped around a rock. “He’s just circling.”
+
+Luna didn’t take the offered scrap. He knew what it said. It asked for permission to land and a guarantee of safety and guest rights in furtherance of mutual interest. Instead, he asked another question he suspected he knew the answer to. “Do you have anything on where he came from?”
+
+“I’ve confirmed there are no ships anywhere inside our patrol range, and none along the channel match the description of Ascension’s warship. Either those wings carried him straight here from Bellost, or he launched from an unaffiliated vessel without anyone noticing. We’re expanding the searches, but—”
+
+“Understood,” Luna interrupted. “We are ready to receive him?”
+
+“Three full teams,” Gena said, gesturing to the gold-plated enforcers standing ready around them, and ‘gold-plated’ felt particularly appropriate in this instance. What they were was bronze, Bank tradition adding confusion for no real benefit. Gena’s ruby and Luna’s sapphire were the only high-rank plates on the entire island. His captains were out with their ships, and Seeker Kan was in Freetown, trying to sneak her way into gaining them a toehold amidst the chaos of the refugee crisis. Not that he expected her to be successful.
+
+“Should I gather another team?” Gena asked, apparently noticing his discontent but misinterpreting its source.
+
+Luna shook his head. Three teams was overkill for a single bronze-level mercenary or whatever Ascension’s members called themselves. If he and Gena weren’t enough, nothing would be, not that he felt particularly threatened by a physical conflict.
+
+What he felt was...opportunity. Except he wasn’t sure the opportunity was his.
+
+“Shall I send the signal?” Gena asked.
+
+“Do it.”
+
+Luna waited, watching the circling Aeromancer as Gena coordinated his enforcers. It hurt to admit, but Ascension had outplayed him, taking advantage of his circumstances. The fox had out-hunted the hound. He would be at the disadvantage in this exchange.
+
+Throwing a fit over it would earn him nothing. He would find a way to come out on top. He always did.
+
+A green flag was brought out and given to a peon to wave. It didn’t take long for the Aeromancer to spot it. Through the active magnification of his glasses, Luna watched the man gain altitude without flapping those wings of his. That all but confirmed the wings were an Air Magic focus despite clearly being metallic.
+
+“Why is he going up instead of down?” one of the enforcers muttered to one of her fellows. “Did we use the wrong flag?”
+
+“Quiet,” Gena said. “We all just saw the same thing. Don’t ask stupid questions.”
+
+“Likely there are more of them,” Luna said, losing track of the Aeromancer as the man punched into a low-flying cloud. In retrospect, a highly suspicious cloud. He pointed. “Did anyone check that?”
+
+“Check how, sir?” asked one of the enforcers. “You sent all our Diviners after—“
+
+“Enough!” shouted Gena. “The president is aware of the disposition of his assets.”
+
+“A Fireball would do it,” said one of the other Enforcers. “Not that I could hit it from here without a Siege Wand. Did we bring one?”
+
+Luna ignored the babble. His eyes were locked onto the cloud, and he smiled as it stirred, confirming his suspicions. Thus, he was among the first to have a minor heart attack as a shape large enough to be a dragon darkened its surface.
+
+It was not a dragon, of course. The notion fled as soon as it entered his mind. The only dragon that had ever been seen outside Karmark was the one Kev had beaten into submission, and the High King working with anyone was beyond ridiculous. Instead, as the shape burst free, it was revealed to be something equally absurd.
+
+A flying ship.
+
+“El above and below!” someone shouted.
+
+Luna quickly adjusted the zoom on his glasses with a thought. The ship was fast from how quickly it was approaching, but flying vessels were not unheard of. Jien, notably, operated a handful of the things under the Foundry’s banner, lent out for priority missions where there was no more practical means of transit. Missions where the benefit outweighed the ruinous operation cost of the massive journey cores powering them. No, the ridiculous part was that Ascension had such a vessel. And that it was made of metal. And that the metal hadn’t stopped them from conjuring a cloud to veil it. And that it could apparently cross between continents.
+
+Not even Jien’s ships could do that safely.
+
+His agents were failures, yes, but even a child in the street would have heard of Ascension if they had a vessel with such capabilities. That meant it was new. They’d made it. Recently.
+
+As the flying ship neared, the sound of rushing wind became audible, indicating that its method of propulsion might not be a journey core after all but rather some unprecedented form of Aeromancy. The two birdlike wings to the sides of the craft’s cylindrical body were mounted with pods that might have held the artifacts responsible, distorting the air in front of them even outside the range of his glasses’ artificial Mana Sight. This observation only led to further confusion as the craft came into that range. The pods were not charged with mana, at least no more than the rest of the craft’s skin. There was enough energy visible to point to basic structural enhancements but nothing on the surface that could possibly explain such defiance of gravity.
+
+The rushing of the wind grew stronger as the craft slowed, passing overhead much to the disquiet of those around him. Luna stood boldly, jacket whipping in the blast as the flying ship’s wings tilted relative to its body. Sand flew past, deflected away by his projectile defenses as the craft angled for the beach in front of him.
+
+Tearing his eyes from the mysterious pods, Luna looked at what had to be the craft’s control center, but he couldn’t see inside. The enchanted glass was silvered, like a mirror, and it soon went out of view as the craft pivoted to face away from them. As the vessel’s wheels made contact, it lurched, and the rushing wind dropped to something more manageable, and his eyes went back to the pods. The blurs above them now shifted, resolving into a pair of rapidly rotating, cross-set blades.
+
+They were physical, not a distortion at all. They’d merely been moving too quickly to see.
+
+Luna’s attention was stolen from that marvel as the rear of the craft began to open. The bulkhead below the control center dropped swiftly, forming a ramp and revealing a lighted interior. There stood six figures clad in jackets of purest white, each holding fast to a net stretching across the ceiling. Rain was the first he recognized.
+
+Ascension’s captain was unmistakable in his armor, even below the white jacket and with a Crystal Slime of all things perched on his shoulder. The shorter figure beside him wearing the same armor would be Ameliah, his consort and another silver. That made two so far. The diminutive man to the right was also heavily armored but with his visor lifted, allowing Luna to recognize him as Atyl, the supposedly unawakened Ascension bureaucrat he’d met before. Unlike before, the man cradled an unloaded limit spiker in his arms, the harpoon-like bolt dangling from a loop on his belt.
+
+The three figures behind them, Luna did not know.
+
+One was a Warrior, from the sword and the full armor, and the other two were Mages, from the lighter armor and the mana he saw in them. The fact that they wore metal armor at all spoke to their skill, but ultimately, neither they, nor the warrior, nor the bureaucrat and his limit spiker were any danger.
+
+None of them could match the sheer presence that rolled off the first two.
+
+There was a weight to them that hadn’t been there before. A weight completely unbefitting of silvers. A weight that had the hair on his neck standing on end and that had every single one of his warning enchantments crying out in panic.
+
+Oversoul. True oversoul.
+
+“Yo,” Rain casually remarked, gesturing a two-fingered greeting as he descended. “Pretty sweet ride, huh?”

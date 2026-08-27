@@ -1,0 +1,241 @@
+---
+id: b9880196-6da9-524d-b7a7-f56f893a1372
+page-type-slug: story-chapter-royal-road
+title: "Chapter 85"
+slug: 0085-chapter-85
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 85
+ownLength: 2472
+unit: words
+ownProgress: 2472
+publishedAt: 2023-04-12
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1167697/chapter-85"
+royalRoadId: "1167697"
+markedReadAt: "2026-06-29T20:34:44.907Z"
+---
+
+[Test 1][Time Remaining: 29 Hours]
+
+I make my way back to the group and Maria is the first to speak up.
+
+“Mission accomplished?”
+
+I grin and wave my new talon-shaped necklace at her to confirm my victory.
+
+Bruce, the tank is fully healed now, he turns to me with a thankful look on his face.
+
+“I appreciate the save back there, we wouldn’t have made it out in one piece. You said you’d faced him before? How’d that happen?”
+
+I nod.
+
+“Yeah. I fought him on a lower floor too. Fortunately, or I guess unfortunately he’s not coming back this time. Sorry about your teammates, at this rate they won’t be passing the exam…”
+
+Bruce crosses his arms and shrugs.
+
+“We already made an agreement before entering. If any of us fall behind, it’s in our best interest to keep moving forward. We may have come as a team, but each of us is here to pass the exam as an individual.”
+
+I look around to see Nessa nodding as well. I turn to Maria, she’s close by my right side.
+
+“How about us? What’s our plan?”
+
+Maria shrugs and replies.
+
+“I guess we can do the same deal. We’re too far in to wait for each other now.”
+
+I nod and look around with confidence.
+
+“Agreed. I doubt we’ll run into that scenario anyway.”
+
+Nessa jumps in.
+
+“Well you’re full of yourself today aren’t ya? I know you just saved us, but come on, this is still just test 1!”
+
+We all laugh a bit and keep walking toward the back of the dungeon. I lead the way using enemy detection to keep us away from as many teams as possible. Maria takes the lead every once in a while to make our weaving path a little less suspicious. Nessa and Bruce just seem to be thankful there are no enemies around, they don’t speak up to question it. I have a feeling Nessa knows exactly what’s going on though, her skill is Mimic after all.
+
+We battle 6 more groups of Ogres, then make it to the boss room without facing any other teams. Before we enter, I speak up.
+
+“Hey Nessa, what skill are you using today?”
+
+She grins.
+
+“How about I show you?”
+
+I nod, then all 4 of us enter the boss room.
+
+It’s a gross wet cave-like environment with high rocky walls, pretty much the same as every other mountain or forest dungeon boss room. We wait around in silence for a few seconds until a massive mutant ogre appears. It’s level 198, 4m tall, has dark green skin, and smells like rotting flesh.
+
+Nessa runs forward and we all stand back to watch.
+
+Her long silver sword begins to glow with a light pink tint. I’ve never seen anything like this before….
+
+She jumps up at the roaring beast and slices through its neck like butter. This isn’t overly impressive, there’s still a pretty large skill level gap, but that was no ordinary cut. The monster’s flesh dematerializes the moment it makes contact with the pink aura around Nessa’s blade.
+
+I use appraisal on her to fully examine what’s going on with that skill.
+
+[Mimic]: Combat Magic [Mana Manipulation]
+
+I raise an eyebrow as she turns back around with her head held high.
+
+“So, what do you think? Mana Manipulation is pretty neat isn’t it?”
+
+I nod as she walks back over to us.
+
+“It is…. What exactly can it do? More importantly, where’d you get it?”
+
+She chuckles.
+
+“It’s our Guild Master’s skill, he let me mimic it before we left. It basically creates a field of mana to use against enemies that are weak to magic attacks. Slimes, for example, I can use this skill to defeat them. Also, it lets me absorb 25% of the MP from an enemy target, pretty neat huh?”
+
+I nod slowly. Honestly, I was hoping for her to name a random monster so I could have that skill for myself. The Tara Guild Master on the other hand, I don’t think I’ll be attempting to kill him any time soon…
+
+Maria looks around cluelessly trying to grasp the situation at hand. Nessa laughs for a moment, then fills her in on the details while the white light transports us to the next floor. I guess she isn’t secretive about her ability at all, good for her.
+
+The next floor feels like a mix between that desert dungeon, and the one we just left. It’s dry and arid, but there are still occasional trees and patches of shrubbery. Some hills rise up in the distance, but it’s mostly a wide-open plane. The artificial sun beats down on us and I turn to Nessa.
+
+“Hey, do you still have my water on you?”
+
+She looks back at me with a guilty thin smile while reaching into her item box and pulling out a water bottle with a few drops left in it at best.
+
+“Y-Yeah, here ya go. I owe you one, sorry.”
+
+She throws it back to me. I look at her with an annoyed stare, but can’t really blame her. If I traveled this far without any water I’d do the same thing. I just nod and throw it into my item storage, it’s not a big deal.
+
+While activating enemy detection and inspect I lead the way into this new dungeon environment. There are 21 teams ahead of us now. It’s less than the last floor, but I can’t tell if that’s a good thing or not. After our little nap, it seems we’ve fallen back into the middle of the pack. I was unconscious for about 2 hours, I have no idea how many teams passed us. The fact that we could be running out of time to reach the top 200 is a worry in the back of my mind.
+
+“Come on, let’s pick up the pace!”
+
+I begin running and Maria follows without hesitation. Nessa and Bruce follow soon after. We never formally agreed on it, but it seems like they’ve joined our party for now after the extermination of their two teammates. I’m not opposed to it, I just have to keep my skill use to a minimum in front of new people. They can handle the monsters for now. I already saved their lives, there isn’t much more for me to prove. We continue running for about 15 minutes before approaching our first group of monsters. Once we get close enough I take a step back and yell out.
+
+“We have some company, take care of them.”
+
+As I step back, a pack of 6 lizardmen approaches with long spears and shiny silver armor. They’re all about our height, around 2m tall, not including their tails. I use inspect and watch Nessa and Bruce prepare to take them on.
+
+[Lv. 217]
+
+[Lv. 209]
+
+[Lv. 209]
+
+[Lv. 208]
+
+[Lv. 208]
+
+[Lv. 206]
+
+One of them stands about half a meter taller than the other, it seems to be the one calling the shots.
+
+Nessa’s blade begins to glow pink, and Bruce readies his shield charging forward. She follows close behind using the tank as a distraction to cleanly slice the heads off of every lizardman one by one with ease. They squeal in agony and we continue our trek without waiting for the beasts to dissolve.
+
+Bruce and Nessa have a battle strategy down to a science. This must be how they normally fight monsters. As we continue, they clear out mobs while Maria and I navigate through the dungeon. After 6 more encounters and 2 hours of slow jogging, we make it to the boss room without a problem. Bruce speaks up before we enter.
+
+“We didn’t see a single team throughout this entire dungeon, are we really that far ahead? Or.. behind…?”
+
+I smile.
+
+“Let’s just call it good luck. I think we’re right on schedule.”
+
+He nods with a happy grin of ignorance.
+
+We actually managed to pass 8 whole teams on our way to the boss room. Using enemy detection let us avoid 3 large battles that were breaking out in the central part of the dungeon, I thought it’d be better not to mention this at all.
+
+We all enter the boss room moments later.
+
+Again, I let Nessa and Bruce handle the boss. We’re in a small cave with a sandy floor, the boss is a level 226 lizardman with a large spear, beady red eyes, and dark green scaly skin. The beast stands over 3.5m tall, but before I could get a good look at it Nessa already finished it off….
+
+We transport to floor 9 a few minutes later.
+
+Once the white transfer light dissipates, my vision seems to still be foggy….
+
+I look around, but everything is still white, and I’m freezing cold. I yell out.
+
+“Hey, get back!”
+
+Then ignite myself into a ball of fire.
+
+The visibility is a little better, I can see my three teammates beside me trying to get as close to my flickering flames as possible without getting burned. The cold dungeon ground in front of us is lit up for about 30m, but anything further ahead just disappears into a white void.
+
+“So this is real snow….”
+
+I turn to Maria and we both grin a little.
+
+This is a winter dungeon. There’s heavy snow covering the hard rocky ground, and it seems to be pouring down even more of it.
+
+I use inspect and enemy detection, then my eyes open wide. There’s 43 teams in this dungeon, and a lot of them are standing still. The monsters here travel solo, and they’re all pretty high levels.
+
+“Let’s move, and fast. I don’t like this dungeon one bit, stay alert.”
+
+We all moved forward at a steady walking pace. My flames last about 30 minutes at this low rate of use, so I don’t mind being a walking space heater for the group. After the first half an hour passes I reach into my item storage to pull out a hand full of mana crystals from the Rat Dungeon. I use plunderer on them, and it takes about 3 of them to restore my MP to full. No one seemed to notice, or care.
+
+After another 15 minutes pass I can’t avoid one of the moving targets unless we start to run. I yell out.
+
+“There’s a monster coming our way, get ready!”
+
+Bruce and Nessa get ready for battle, and I sit back enjoying my new unofficial party leader position. It’s nice being in charge of a group.
+
+*THUDDD*
+
+*THUDDD*
+
+*THUDDD*
+
+*THUDDD*
+
+Out from the icey white void in front of us, an enormous mammoth appears. It stands over 5m tall, and easily 8m long. It’s massive white tusks blend in with the snow, but its long dark brown fur sticks out clear as day.
+
+The best bellows and lets out a ferocious roar as it stares down at our team with dark black eyes.
+
+I use inspect.
+
+[Lv. 231]
+
+Nessa is the first to attack. Her sword glows pink and lunges at the beast.
+
+*CLANGGGGG*
+
+I raise an eyebrow as her reinforced mana sword bounces off the mammoth’s tusk with an eerie metal clanging sound. At the same moment, the tank charges at the beast’s feet and plows through its right front leg. I hear a crack as the Monmouth roars and falls to its knees. In frustration, Nessa yells and charges back in at the beast creating a large gash along in its side with a swing of her blade.
+
+Moments later, she cuts it to pieces avoiding the tusks at all costs.
+
+The team of 2 come back shivering, but satisfied with their work. Nessa speaks up.
+
+“Those tusks must have some kind of magic resistance. My sword bounced right off!”
+
+I nod as we continue forward.
+
+“Yeah, I was surprised. It looks like we’re actually making it to a portion of this labyrinth where monsters will be a real threat.”
+
+As we continued further in, I plundered the MP from 3 more mana crystals and we faced off against 2 more mammoths over the next half an hour. The teams in the area were thinning out and I could even sense some of them heading back in the opposite direction… but not many.
+
+Our 4th mammoth drops a tusk along with a large mana crystal after Nessa defeats it. She drags it over to me.
+
+“Hey Jay! Look at this!”
+
+I use appraisal on the tusk.
+
+[Mammoth Tusk] +50% Magic Resistance
+
+“Hey, if you kill it, ya keep it. Those are the unspoken rules… but I’ll trade you something for it.”
+
+I start sifting through my item box, but Nessa speaks up.
+
+“First one’s on me, you’ve been burning through MP to keep us warm, that’s more than enough.”
+
+I nod thankfully and place the tusk into my item box. I’m sure it’ll fetch a high price, or come in handy at some point.
+
+We continue forward.
+
+After another hour and a half of trekking through snow and ice, we finally make it to the back of the dungeon. I used up 9 more mana crystals and we face 5 more mammoths, none of which dropped any more tusks. We enter the boss room together.
+
+I can’t see the outer edges of the room, but I assume they’re present. A wild blizzard is roaring, and the snow is deep up to our knees. I let my flames burn brighter to melt away as much as possible in our general vicinity.
+
+A level 239 mammoth appears a few seconds later. It takes 5 hits, but Nessa subjugates the beast without much of a problem. I let my flames die down and the white light appears, it transports us to floor 10.
+
+Bruce speaks up as we all materialize into a rocky grassland with red-orange dirt.
+
+“Anther dungeon without facing a single team, you two really are a lucky charm!”
+
+I grin thinly as I look up into the deep blue sky and use enemy detection on our surroundings. There are a few trees and large boulders every 50m or so, but other than that, it’s flat ground with a few patches of short green grass. There are 14 teams here, and a lot of them are clumped together at the back half of this dungeon. We passed over 30 teams on floor 9, so I’m a lot less worried about getting there on time. We’re in a good position now. The only problem is the large group of monsters running towards us. I count over a dozen, and they’re all over level 240… I reply to Bruce.
+
+“Yeah, this is our last one. So stay sharp.”
+
+I look out into the distance as the ground begins to rumble lightly beneath our feet.

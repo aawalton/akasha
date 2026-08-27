@@ -1,0 +1,163 @@
+---
+id: 540fdc2e-7c0a-5b4d-95ca-1c93dfecbee0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10"
+slug: 0010-chapter-10
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 10
+ownLength: 1385
+unit: words
+ownProgress: 1385
+publishedAt: 2023-02-05
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1106384/chapter-10"
+royalRoadId: "1106384"
+markedReadAt: "2026-06-29T20:32:08.282Z"
+---
+
+"Alright everyone, it's time to enter the dungeon! All students without a chaperone please stay close to Mr. Raynard and me. Those of you with chaperones please stay nearby as we enter the dungeon and wait for our instructions before venturing off on your own."
+
+We all got in line in pairs of 2 and hopped through the blue twisting portal. Right before it was our turn I noticed Maria's nervous eyes and grabbed her hand moments before jumping through. She didn't say a word, just grabbed my hand back a bit tighter. Her eyes shifted, looking more determined as she stared down the portal and jumped through with me.
+
+When we made it to the other side. There was a common reaction from all the students. They all started feeling the grass, looking at the sky, and turning around in circles. With wide eyes Maria was doing the same.
+
+"Wuaaaawwww it's really pretty in here."
+
+I had a similar reaction my first time seeing it, so I can't judge much. The two Reps let us admire the new world for about a full minute then Abby spoke up again.
+
+"Alright, now that you've seen the inside of the dungeon for yourself let's get started. Students without chaperones follow Mr. Raynard and me. The rest of you may explore with your chaperones. Chaperones, have your student partners defeat 1 goblin. You are all experienced hunters, so use your own judgement to step in and help if needed. Everyone meet back up here by the portal in exactly 1 hour. Let's gooo!"
+
+7 students followed the 2 Reps from the association, the rest of the students and hunters disbursed in different directions. Maria and I headed straight forward and ventured into the tall grass.
+
+"Hey Jayy, how strong are the monsters here?"
+
+She looked up at me as we walked with a bit of a concerned look on her face.
+
+"They're goblins. I'd say they have the strength and speed of a 15 year old boy, but the body of a 4 year old child. I'll be close by when you fight, but I don't think you'll need any help. My first time it took me 3 clean hits with that same dagger, just make sure to attack quick without hesitation and dodge when you're in danger. The goblins use small handmade knives so be on guard for those. You're much smarter than a goblin. Don't worry, I'm sure you'll beat it without a problem."
+
+I smiled and nodded. She looked a bit more confident but still held the dagger tight and walked close by my side.
+
+About 10 minutes of walking went by and we heard a rustling in the grass. The familiar dank goblin smell filled the air.
+
+"A goblin is here, I'll leave it to you Maria. Give it all you got, I'll be close behind you."
+
+A moment later the small green man came out of the grass. Maria squared up with it and they both eyed each other for a full 2 seconds.
+
+The goblin made the first move and charged forward with its blade drawn in front of it. Maria dodged to the left side and let the monster run past her. She lunged in from behind and got a clean strike right in the back.
+
+"Guuuuahhhh"
+
+The goblin squealed. I was honestly surprised, I didn't expect her to react so quickly. It looks like Maria is a pretty decent fighter.
+
+The goblin ripped its body away from the blade and turned to face her again. It charged angrily, Maria lunged to the right and gave the goblin a quick and graceful slash to the abdomen. Then in the same movement she pivoted back behind the goblin and stabbed it again in the back of the head. The goblin let out a sad grunt and collapsed.
+
+I walked towards Maria and slowly clapped.
+
+"Damn, I didn't know you could fight like that. I didn't even have to think about stepping in, good for you!"
+
+She looked at me and blushed a bit, then her eyes lit up as a blue screen popped up in front of her face.
+
+"It-It's my status. I got my status..."
+
+She was mesmerized by the glowing screen. With a smile on my face, I patiently waited and let her take in the moment.
+
+Maria turned her screen to me with hopeful eyes.
+
+"Is this good?"
+
+[Status Open]_____________________Name: Maria Cortez
+
+Level: 1
+
+Hp: 10/10
+
+Mp: 10/10
+
+Strength: 10
+
+Speed: 11
+
+Agility: 10
+
+Defense: 10
+
+Mental Strength: 17
+
+Skills:
+
+Combat Magic [Ice Summoning]
+
+Items Equipped:
+
+Iron Dagger
+
+_____________________
+
+My eyes went wide.
+
+"Combat magic?!?? It looks like it's a pretty rare type as well. I honestly don't know much about magic, it's much different than my skills. You definitely got a good one though. Guilds will be all over you soon."
+
+"Reallyyy?"
+
+Maria's eyes went even wider and a huge smile came across her face. She started bobbing her head and jumping around happily. I let her celebrate, then turned to her.
+
+"You know, your mental strength also has a really high starting stat, that means it'll grow much faster than your other skills. Mental Strength directly correlates with a users magic power, it's the perfect combo."
+
+"Ouuuh so it is good"
+
+"Try it out, let's see what your skill can do. Just concentrate and repeat your skill name in your head."
+
+"Okay."
+
+Maria had that full concentration look on her face again. She put both hands in front of each other and stared forward.
+
+A white and blue mist began to form, then a small object in her hand formed, it grew a bit bigger and bigger. It looked like a sword.
+
+"I did it!!!"
+
+Maria turned to me with a satisfied look on her face holding a beautiful light blue sword surrounded by white and blue mist.
+
+"I really did it!!! Loooook!!! I'm a sword user like you Jay!"
+
+She smiled even brighter and swung the sword once. It really was a beautiful site. The light blue sword matched her eyes and the mist made her body stand out in the open field. I was mesmerized for a moment.
+
+Then the mist started to subside, dissipating as Maria kept swinging her sword. After about 5 swings the mist was gone, then on the 6th the sword shattered into a thousand pieces. I was still staring at her.
+
+"Hmm so that's how it works."
+
+She looked up at me puzzled.
+
+"What do you mean???"
+
+"Take a look at your status again, what's your MP stat at?"
+
+She pulled up her screen with a look of dissatisfaction.
+
+"0/10. Dangggg itttt."
+
+Yep, makes sense. You'll have to level up a bit before you can use your skill for longer periods of time. It's normal, don't worry."
+
+"Okayy."
+
+By now the goblin had fully disappeared and left behind its mana crystal. I picked it up and threw it to Maria.
+
+"Your kill, your crystal."
+
+She caught it and started moving the crystal between her fingers curiously. A new look of awe came across her face, she was definitely not down about her MP running out anymore.
+
+"Thanks Jay! I was pretty nervous this morning, but now... I'm finally a hunter like you!"
+
+I smiled.
+
+"Yep, congrats! Does your school do any training? Or are you on your own now?"
+
+"My school will train us in the dungeons for the next 2 months, but I'll get some weekends off. By then we should all be in parties and ready to take on the dungeons without any guidance."
+
+"Alright, cool. I was just curious. Let's make our way back to the meeting point."
+
+"Okay sure, b-but once I'm done with my school training I want to show you my skills. I will master my sword, I promise. Get ready Jay, I'm going to be an even better hunter than you!"
+
+"I bet, I bet. Can't wait to see it."
+
+She nodded at me with a determined and satisfied look on her face with her cheeks puffed out a bit.
+
+We made our way back to the portal to find a dozen students chatting and showing off their status screens to each other. Maria and I just stood around and made small talk waiting patiently for the Hunters Association party to return.

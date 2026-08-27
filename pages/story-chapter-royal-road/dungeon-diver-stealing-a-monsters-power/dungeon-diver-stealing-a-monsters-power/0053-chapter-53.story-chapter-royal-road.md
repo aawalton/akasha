@@ -1,0 +1,187 @@
+---
+id: cea2d8bb-e679-52f0-b761-e9c89fa8a934
+page-type-slug: story-chapter-royal-road
+title: "Chapter 53"
+slug: 0053-chapter-53
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 53
+ownLength: 1695
+unit: words
+ownProgress: 1695
+publishedAt: 2023-03-11
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1135181/chapter-53"
+royalRoadId: "1135181"
+markedReadAt: "2026-06-29T20:33:38.180Z"
+---
+
+I arrived to the market less than 20 minutes later and waved to the old merchant.
+
+"Hey kid, how are ya today?"
+
+"Great."
+
+I took my axe and mana out of my item storage to place them on counter between us.
+
+"Ya know, that's a neat skill. I don't think you were using it when we first met, but I gotta say item storage must be useful!"
+
+I froze in place... how could I be so careless? I've been using my item storage skill in front of the merchant this whole time like it's not a big deal. Anyone could have seen me using it here...
+
+I looked around cautiously, not that it would matter. The damage is already done.
+
+"U-Uh thanks, yeah. It's a good thing to have. Just uhm, could you keep it between us? I don't use this skill often."
+
+The merchant could sense the tension in my voice and nodded slowly.
+
+"Sure, sure. I won't pry."
+
+He took my mana and placed them on the measuring scale. The big black numbers read out 3976.43MU. He took a look at the axe and smirked.
+
+"This is a 175 strength boost axe, nice. I can do 80 silver for the whole haul."
+
+I thought to myself for a moment.
+
+"How about 40 silver, an item box, and 2 D class HP potions."
+
+The old man eyed me for a moment then started shuffling through a cabinet.
+
+"Sure, work for me."
+
+He started counting out my silver and placed a small magic pouch with 2 HP potions on the counter.
+
+"Oh, one other thing."
+
+I pulled out the silver key and handed it to the merchant. His eyes lit up.
+
+"Where'd you get this? I've only seen a handful of shaman keys in my lifetime."
+
+"I got it from a dungeon break today. How much is it worth?"
+
+"Ohh, good find. I'm sure you could get a few gold at auction for a key like this."
+
+"Really? So... what's it do?"
+
+"I'm not too sure... I've heard rumors about certain keys being used in the Capital Labyrinth, but I've never been there myself. If you're looking to sell it, I can give you an address for a good auction house. Here."
+
+The old man scribbled something down on a small piece of paper and handed it to me. I took it and threw it in my item storage along with the key. It sounds enticing, but I'm not really interested in an auction right now, I'd rather capitalize on these increased dungeon breaks while I still can.
+
+"Thanks. Appreciate it. Hey, how long to these surges tend to last anyways?"
+
+I remembered the Inn keeper telling me about them, but I wasn't paying much attention to him when he was explaining.
+
+"The last one we had lasted just a few days. I'm sure it'll be over by the end of this weekend."
+
+I nodded and took the rest of my new items and silver off the table. The silver and potions were placed in my item storage but I tied the item box around my waist. The old man made a great observation... If I'm going to be using my item storage skill, I should at least be a bit stealthier about it. I'll keep some items in this magic pouch for when I'm out in public.
+
+"Got it. Thanks again, pleasure doing business with you!"
+
+"Of course, stay safe kid."
+
+With a wave I left the market and grabbed a quick meal before heading back to the Inn. I was greeted by the attendant and quickly made my way upstairs. After my signature hot shower I fell asleep in bed almost immediately.
+
+The next morning I woke up full of energy.
+
+Once I hopped out of bed and got dressed, I made sure to put my sword and a handful of coins and potions into the new item box I purchased yesterday. Just in case I see anyone out hunting today its better that I use this as cover for my item storage skill.
+
+After making my way downstairs I was greeted by the Inn keeper in the lobby.
+
+"Another Day of Hunting?"
+
+I nodded and smiled.
+
+"Yup."
+
+"It seems like today will be the peak of the surge, there were two C Class breaks last night. Be careful out there young man."
+
+"Of course, thanks for looking out for me! I'll be okay."
+
+I walked out the door with a grin across my face and grabbed a bite to eat before making my way towards the Dungeon Hub.
+
+There's a huge crowd today, especially around the E Class line. The two guards in front of it are talking to the groups of passing hunters.
+
+Now that I get a closer look... there's at least two guards at every station entrance now. Is the surge that bad today? Looks like they are tightening security.
+
+I got in line for the D Class Dungeons and crossed my arms waiting patiently. Time passed and the line moved along slowly until I came face to face with the two guards. One of them spoke up.
+
+"Hunter's License"
+
+I handed the man my ID and he started shaking his head.
+
+"Can't let you In today, sorry."
+
+I looked at him with confusion.
+
+"W-Why?? What do you mean?"
+
+"All dungeons are only open to parties of 3 or more. The only exception is if you're one rank above the dungeon minimum. In this case, you'll need to be C Class minimum to enter the D Class platform if you're hunting solo today. It's for your safety. I assure you, it will be back to normal within a day or two."
+
+"I- Uhm."
+
+"I'm going to have to ask you to step out of line. The E Class dungeons are open for you today if you'd like."
+
+"Okay I... I'll just wait for my team then."
+
+"Sounds good. Come back with them and I'll let you in then. Please step out of line."
+
+I stepped out of line while looking at the floor. That was disappointing... I just blurted out that nonsense about a team so I could get back in line later and it wouldn't look weird.
+
+I started walking back towards the E class line while scanning the area. Maybe I can hitch a ride in someone else's party. I won't actually fight with them, I'll just get down to the platform with them. That'll work. I grinned.
+
+I walked around for a few minutes but no one looked approachable. Usually other people do the approaching to me... I'm still a bit socially awkward, I haven't thought about it much lately. Even though everyone around me seems to be out to get me in my own mind, is that really a good excuse to never try and make a new friends?
+
+Then i remembered... Nessa and Hudson's group! They're hunting this morning, I could get in with them. I wasn't planning on it initially, but if I have to go with anyone I'd rather go with them than some randoms.
+
+I started wandering around a bit more confidently because now I'm looking for a party that I've already met before. This shouldn't be too hard, unless they've already entered the dungeon.
+
+The sun did just recently rise... I waited around watching groups of hunters funnel into the dungeons for about 20 minutes. Most people swarmed around the E and D Class Dungeons. There were a few that entered the C Class, and not one person entered the B Class dungeons. I did see a few parties go to the escalator in the back that went upwards, I completely forgot about that one. The gear those hunters had on were very expensive looking, it must be some kind of guild run entrance. I'll check it out later If I have the time. It was kind of calming to watch the crowds of people go by, but at the same time I was getting a bit anxious in the back of my mind wondering if they'd ever show up.
+
+Then finally I saw a familiar face.
+
+My eyes lit up as a party emerged from the crowd getting in line at the D Class escalator. It's Hundson... and Nessa! I couldn't forget that red hair. What a relief.
+
+I walked over with a wide smile on my face.
+
+Hudson was the first to notice me. He looked up and waved. Then Nessa looked up and noticed me as well as I came within talking range.
+
+"So you decided to actually come and see me? Huh Jay!"
+
+"I-Well yeah I did."
+
+"Are you hunting solo in the D Class dungeons today? I heard it may be really dangerous with the recent surge reports."
+
+I scratched the back of my head nervously and nodded slowly.
+
+"Yeah, I was going to... but ahh I kind of need to be in a party to enter. It's a temporary rule apparently."
+
+Hudson leaned in and winked at me.
+
+"Come on in with us. No problem."
+
+I smiled. He knows exactly what I need, perfect. No explanation needed.
+
+"Thanks! You're the best."
+
+Nessa chimed in again. She could clearly sense what was going on.
+
+"Ahhh come on, fight with us for a little. I wanna see what you've got!"
+
+"I-uhm. I... yeah sure."
+
+I can't say no to her.
+
+Hudson interjected.
+
+"So you'll be joining us today?."
+
+I looked at him.
+
+"It won't be the full time if you had special training planned, I don't want to disrupt your session."
+
+He grinned.
+
+"Of course you can fight a few monsters with us today. I'd love to see what you can do. I've been trying to recruit you since the moment we met. It's no problem at all!"
+
+We both chuckled a bit and I got in line between Nessa and Hudson.
+
+There were 3 other team members close behind. I didn't get a good look at them yet, the line started moving forward before I could introduce myself.
+
+Looks like I'm on another team... so much for my vow of solitude. At least I'll get to farm for another day in the D Class Dungeons.

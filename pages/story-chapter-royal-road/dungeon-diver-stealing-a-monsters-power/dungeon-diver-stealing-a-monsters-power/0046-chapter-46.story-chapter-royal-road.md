@@ -1,0 +1,157 @@
+---
+id: f86b2be0-a767-5b39-acef-aafa3df59f67
+page-type-slug: story-chapter-royal-road
+title: "Chapter 46"
+slug: 0046-chapter-46
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 46
+ownLength: 1750
+unit: words
+ownProgress: 1750
+publishedAt: 2023-03-04
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1128955/chapter-46"
+royalRoadId: "1128955"
+markedReadAt: "2026-06-29T20:33:23.870Z"
+---
+
+The morning sun woke me up. I feel great.
+
+After a quick arm and leg stretch I got dressed and readied myself for another eventful day. The slime dungeon stood out to me the most. The old man said they were a relatively low level, and long range magic attacks should be more than enough to handle them. I'm more curious about the abilities he said they had... the boss can steal its opponents MP...
+
+I made my way downstairs and walked out the door towards the Dungeon Hub. I grabbed a quick bite to eat on the way.
+
+The hub was swarming with hunters again this morning. I scanned the area, it'll be good to make a habit of being much more cautious. I'm going in solo from now on. No more teaming, it never seems to go well for me.
+
+I walk up to the D Class guard and hand him my ID. Moments later I make my way down the large escalator to the platform below. On the list of dungeons it says the slime dungeon is right on the edge of the city. It's a lower grade D Class, as expected
+
+I waited patiently, then boarded the train heading off in that direction. Around 20 minutes later I arrived and made my way up the escalator to find the floating blue portal.
+
+I reach into my item storage and pull out my sword while running forward into the dungeon. It's time to kill some slimes.
+
+The dungeon is surprisingly bright. I was expecting a dark cave, or some kind of mountain range. That's been the common theme lately.
+
+I'm standing in a wide open meadow. The grass is short and there are small patches of flowers everywhere. The sky is blue and the there are beautiful white clouds floating by. There's no sun, but it feels like a nice hot summer day.
+
+I make my way forward into the dungeon with my sword drawn. I can see some weird looking circular objects in the distance.
+
+After a 5 minute walk through the meadow I came across what I spotted earlier. This is... a slime?
+
+A huge blue glob of gel just stood in front of me, maybe 2m in diameter. It was slowly gliding along the ground towards me.
+
+I used inspect to check it out.
+
+[Lv. 99]
+
+Okay... its a much lower level than me. This shouldn't be much of a problem.
+
+I ran towards the monster and sliced its body clean in half to see how it would react.
+
+The body of gel separated then reattached. It continued its slow glide in my direction.
+
+Right... the old merchant said long range magic would be best against these slime.
+
+I'll try out my fire magic, but in a longer range form. I've never really tested it like this before.
+
+While putting my sword into my item storage I stepped back and stood about 10m away from the slime. I concentrated on focusing my fire magic into the space between both my palms. Instead of shaping it into a sword, I'll just keep it as an orb. I took a deep breath and threw the fire orb like a baseball. It wasn't the coolest looking move, but I'm not sure how else to get the orb moving in that direction... I can't control where my fire travels once it leaves my body.
+
+"Take this!"
+
+The orb of fire made impact with the slow moving slime and it blew up into a huge ball of fire and goo.
+
+The slime was mostly incinerated. There was leftover puddles all over the ground. I walked over to check it out.
+
+No blue text... I can't use absorption for some reason.
+
+Moments later the goo dissolved into the ground and it left behind a tiny mana crystal.
+
+"Really? This is it?"
+
+I threw it in my item storage and kept walking deeper into the dungeon. That crystal is the size of a mid grade E Class at best. I guess these slimes are difficult to kill because they don't take damage from regular physical attacks, but I understand why not many hunters want to come out here. There's basically no loot in this dungeon, its a total waste of MP.
+
+A few minutes later I came across another slime, I used inspect.
+
+[Lv. 94]
+
+I sighed and moved in towards it. I wonder what would happen if I touched it. I have plenty of MP potions on me, if it drains me there's nothing to worry about.
+
+I crept closer to the slime and put out a hand. I shoved it through the side of the slime's body and waited.
+
+.....
+
+Nothing happened...
+
+I ignited my hand with flames and blew the slime to bits. It was still moving around somehow, I guess it separated in time. I made a couple fire orbs and burned the rest of it with ease. It did use up a good amount of MP though.
+
+This is kind of irritating. How are these monsters even classified as a D Class dungeon? The boss must be pretty tough or something.
+
+I used enemy detection and found a large concentration of monsters on one end of the dungeon. This must be where the boss is located. I trekked through over for a little less than an hour. Every slime that came near me was an easy victory, after 16 slimes my MP was drained to about half way. Not too bad.
+
+I finally made it to the boss room. This has to be the easiest dungeon I've ever raided, let's see what this boss has in store. The spinning light grey portal invited me to enter.
+
+The boss room is oddly similar to the outside dungeon. There's green grass, a blue sky, and it's well lit in here. The only difference is the large walls enclosing the room.
+
+After scanning the area a large glob of blue slime emerged from the back of the room. It looked about 3m tall, and a bit darker shade than the normal slimes. I used inspect.
+
+[Lv. 141]
+
+Now that's an upgrade from the other slimes here, but it's still just a slime. With a bored look on my face I walked over to the monster, it moved towards me quickly as well.
+
+Interesting. Looks like this boss has some actual combat ability.
+
+I jumped to the right and dodged its forward movement. This thing is pretty quick.
+
+I started concentrating a ball of fire in my palm as we stared each other down... Well I stared at it, the slime didn't exactly have eyes to look back at me. It just felt like it was staring right at me.
+
+A moment later the slime started gliding towards me at a rapid speed. I continued charging a ball of fire and ran towards it as well. I let out my attack straight at the monster and blew a massive hole clean through it. Over 50% of its mass was incinerated on the spot.
+
+I continued my charge passed the slime with a smirk on my face.
+
+As I ran by some of the slime's innards landed on my left arm and back. Instantly I knew something was wrong. That smirk turned serious really quick.
+
+"This is the skill.... My MP..."
+
+The partial fragments of the slime body were draining my MP fast. Within seconds I could feel all the magic drain from my body. The rest of the slime crawled closer to me.
+
+It was impossible to wipe off, like living sticky water all over my body. The rest of the slime started connecting with it and my body was covered in the goo before I could think of anything. It sucked be up and complete reformed into a large blob in seconds.
+
+While suspended in the slimes stomach, my MP is getting sucked dry. I can't breathe inside this monster either, what a predicament...
+
+I dropped my guard for a second. I can't underestimate any opponent, not even a slime.
+
+I wasn't taking any HP damage, but in less than 5 seconds I could tell my MP has almost hit 0.
+
+If I ignite my flames right now I may do more damage than good. It'll get the slime off me for a moment, but my MP will definitely hit 0. Then I'll be screwed seconds later if it attaches before i have time to act.
+
+There's only one thing I can think of that'll work right now.
+
+I open up my item storage while floating inside the mass of slime and pull out the fire stone.
+
+Instantly, the slime starts bubbling and melting all around me. A huge hole in the slime opens up and I crawl out to make my escape. I reach into my item storage again to grab an MP potion and chug it on the spot while erupting into flames burning every last bit of slime residue off my body.
+
+I turned to face the slime boss again with newfound respect for the creature.
+
+"Good try, but that's not going to work on me again."
+
+With a slow nod I formed a fireball with almost all of the MP from a full recovery potion into a massive orb in front of my body. I used both my hands to hurl the attack at the slime boss. A huge explosion completely incinerates the remaining slimes mass. I've won now.
+
+I walk over and throw my fire stone back into item storage. It burned my hand again, I had to use self regeneration to fix my skin. Maybe my body hardening will work next time? I have to figure out a way to actually use this thing properly, it's a really powerful stone.
+
+The blue text I've been waiting for finally popped up over the remaining goo on the ground.
+
+[Use Absorption]
+
+Skill: Plunderer
+
+[YES][NO]
+
+"Ahh so it's called plunderer huh?"
+
+With a grin I chose [YES] and collected the mana as the slime disappeared.
+
+That makes sense, the skill user is forcefully taking MP from their opponent during battle. Maybe it has other hidden abilities too... I can't wait to see how it works!
+
+The white light came and transported me back to the dungeon's start point. I stepped out back into the room connected to the Dungeon Hub.
+
+It isn't even mid day yet, but I'm totally done with these slimes....
+
+It's time to search for another dungeon and test out this new skill.

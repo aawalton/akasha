@@ -1,0 +1,233 @@
+---
+id: 7d884d9e-f490-5a43-b876-a86c4aa8a768
+page-type-slug: story-chapter-royal-road
+title: "Chapter 55 - Branded"
+slug: 0016-chapter-55-branded
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 16
+ownLength: 2686
+unit: words
+publishedAt: 2026-08-20
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3837257/chapter-55-branded"
+royalRoadId: "3837257"
+---
+
+As soon as he chose the option, the subtle feeling he felt before washed over him. The crackling of fire blazed in his ears, the feeling of being surrounded by a sturdy shelter on a rainy day pressed around him, and the warmth of a cozy, proper abode filled his mind.
+
+He stood there, walking stick in hand, the soft whistling of the wind along the still largely empty void district in his ears. It was comforting. Homey. The city lord basked in the feeling, even going so far as to slowly lower his source connection. There were no whispers, no overbearing presence. This felt right. Like he belonged.
+
+A hissing noise filled the clearing. The scripture in the basin swirled and transferred mid air. An arch of demonic script flew over both demons, colliding with the universal obelisk. It singed with heat, being branded with the complex shaping that Sythara had unraveled from the void.
+
+Kairon watched, transfixed. The brand was being inscribed specifically on the very bottom fifth of the totem. Where it drew, steam wafted, luminescent purple lines pulsing underneath. He bit his lip, pressing his claws against the ground, keeping his eyes locked open.
+
+I can’t miss this. Not a minute of it.
+
+Line after intricate line was drawn, shaping into a combination of shapes that looked…
+
+Well…
+
+Kairon had no words for it. Like someone had taken a demonic letter, and made it far more complicated than it had any right to be. Just looking at it made his brain hurt.
+
+The sensation grew and grew until he felt like his eyes were about to start bleeding. A vein bulged in his head, and he tasted iron in his mouth.
+
+He was just considering pulling back on the source connection when, at last, a notification popped into existence.
+
+The hissing faded, the smell of melted metal filling the air as the brand cooled.
+
+No additional description followed, but the upgrade message made it fairly clear it was as Kairon had suspected. Better housing.
+
+Compared to a camp, this costs double the stone, triple the gold, and four times the wood… I wonder what population it supports? He thought for a moment. Why not just find out?
+
+He reviewed his stockpile:
+
+Approximately half the workday still remained. More than enough time for his crews to bring in the three stone required without shifting anything around.
+
+The demon took one last look at the brand. What might you grant me if I continue to grow you? He studied the sharp lines, and looked up the totem. And what happens when Root and Vein are added?
+
+Questions for later.
+
+Kairon checked in on Sythara, decided she’d be just fine where she was, and took his leave of the basin.
+
+As he walked, a thought struck him.
+
+He mentally recalled the totem’s menu.
+
+What would happen if he made 65% change to 165% with his sigil? Would that even work? It was only momentary, but it was a physically grounded structure…
+
+And what would that gain him?
+
+Turning his head, he again considered Sythara’s collapsed form near the basin. This time, however, a new concern surfaced.
+
+If comprehension were to suddenly increase, wouldn’t that have… effects on the one doing the actual ritual? On the councilor speaking with the plane?
+
+After the Hector incident, Kairon was still quite wary of Sythara’s ability to be trusted. Even with her change in attitude and amended pact. He could admit she was improving in reliability, but he wasn’t budging on his new stance with her.
+
+But… He still valued her potential as a partner in business.
+
+Which meant that if he were to pursue utilizing the sigil on research comprehension, he’d have to come forward with what he planned and discuss it with her.
+
+The question was if he would be willing to.
+
+Taking all of that into account, Kairon decided that for now, he’d watch Sythara. He’d monitor her performance. And, if she seemed to be on the right track, he’d consider bringing it up.
+
+For today, the experiment got shelved on the must try list.
+
+***
+
+Dusk found Kairon in an empty plot in the void district. He’d decided to test a theory. The demonic system had allowed him to repair a damaged building before. Would it allow him to replace one? In this case, he desired to remove the camp and instead replace it with the rookery.
+
+For this purpose, he chose the wrath assigned camp.
+
+Could he have built a new rookery in an open building slot, thus leaving him with the camp and its twenty-five housing slots? Yes. But, if this worked, his goal was to replace all the camps with the rookeries. Assuming they were what he thought.
+
+Crossing his claws, he focused his intent on the camp in front of him. Then, opening his menu, he tried to opt for placement of the rookery right in the location where the camp was.
+
+To his delight, a notification appeared:
+
+Kairon selected in the affirmative.
+
+Like the time he’d repaired the camp, a ritual circle stretched into reality around the existing building. This time, however, there was a gentle gurgling noise. And, moments later, the plane itself seemed to open up a void and simply devour the existing structure. It was honestly a terrifying sight. One moment, a shabby timber and clay dwelling stood on top of the purple void district. The next, it sunk into another realm of existence.
+
+“I suppose that answers that question. Buildings can be replaced. Although…” He flipped to his readout, a knowing frown plastered on his lips. “No reimbursement,” he sighed. The city had gained none of the original resources used to create the initial building. Not even a fraction.
+
+Stingy.
+
+Minutes later, after all the materials had been retrieved and the chanting began, a much larger structure began to rise. And rise it did.
+
+Even at the peak of their sloped roofing, the old camps had been less than a story high. Now, with so much wood for fuel, the plane created something far larger. A rectangular block of corrupted wooden panels grew a story tall from the ground. Each inch it rose, a low groan filled the city. Like the sound of a tree trunk swaying in the storm.
+
+Most of the brood were already gathered and entranced from the ritual, but the spectacle had brought the entire city. A mob of wrath imps crowded one end of the district, clawed hands still holding their practice staves. On the other side, brood imps not taking part in the chanting watched from their own district, curiously chittering and pointing.
+
+His city had spent its entire life with nothing other than shabby camps, crude cooking fires, a stone maw coming from the ground, and primal totems.
+
+For the first time, a real building was constructed. Watching the rookery reach fifteen feet, Kairon swelled with pride. At twenty, he was positively glowing.
+
+By the time it stopped, it stood over two entire stories tall. Real stories, not impish ones.
+
+Before the orange and purple smog even began to clear, he was already striding forward. “Nod!” he shouted. “Get me Nod!” he repeated.
+
+From the sidelines of the ritual, a tiny imp hustled over. “Yes master!”
+
+“Nod, follow me, if you please. You’ll be responsible for ensuring this stays up to code, as well as completing the same inspections you’ve been doing on the camps.”
+
+“Yes master!” he repeated. “Seem very pertinent!”
+
+Nod was still staring in astonishment at the massive block of a building, likely imagining just how many imps it could fit. He decided to ask. “How many? Inside?”
+
+Clicking his tongue, Kairon checked his interface, then whistled. “Seventy-five. In one building slot.” Other benefits aside, that single fact massively increased his future growth options.
+
+“Now. Let’s investigate what we have.” He ran a claw over the wooden exterior. “See this? Fine grain. Odd, it seems like it literally just grew out of the ground,” he mused. “I suppose that’s because it did.” Where surface met wood, there was no seam. No uneven gap. Just a melded connection.
+
+“Warm,” said Nod, his own claw pressed against it.
+
+“Good observation. That should keep everyone nice and cozy.” In fact, now that he looked, faint glowing veins ran up and down the wood, just like the corrupted timber had before harvest. In the light of day, they were a bit hard to view. But at night…
+
+Fascinating!
+
+Together, they walked inside. Unlike the camp, the rookery had a framed doorway tall enough that Kairon could enter without ducking. To his surprise, the entire first floor of the space was an open common room. It was mostly bare, save some assorted alcoves to serve as seating and storage.
+
+All except for one feature. In the center of the back wall, a large fireplace waited.
+
+A hearth.
+
+Its chimney stretched upwards, smooth stone protruding from the dark timbered walls. “Make sure we keep an eye on this. I want these stocked with wood. We can do what we do with the cooking fires and just use the scraps from the timber harvest. Oh, and there needs to be safety measures posted here.” He slapped a claw against the bare wall just beside the hearth.
+
+“When—or I suppose if—Hallen’s parchment shipment arrives, remind me to get that done, please. For now, perhaps some bark will do.”
+
+Together, they found a small staircase that wound up to the second floor. It led to a sleeping space. However, unlike the bottom floor, a thick wooden wall filled the center of the room. On either side, rows of bunks were carved directly into it. Seventy-five in total, spaced on all sides. Three high and several across.
+
+Kairon looked up at the highest bunks, easily eight feet high. “And this is how we get slapped with litigation for residential injuries. Nod, I want to see about fashioning some proper ladders. See to it that we carefully explain to each resident the proper way to get in, and out of their bunks. The last thing I need is some clever warrior getting ideas about a lawsuit,” he muttered.
+
+“Yes master! Litigation. Ladders.”
+
+“Good, good,” Kairon said distractedly. He ran through the list of requirements from the demonic regulatory code in his mind. Not only did this meet them, but in many cases, the new residence surpassed them. Still…
+
+“Nod, once we get back, me and you are going to sit down and go through all the specifics of demonic regulation. I want to ensure you know it just as well as I.”
+
+“Yes master!” he said excitedly.
+
+Nod’s going to be a more and more important part of our management team. In fact, with the increasing population, his department needs to expand…
+
+“Also, starting tomorrow, you’ll be joined by two new helpers. They’ll be assigned directly under you. No other duties. I want them helping with inspection, maintenance, and general DR duties. Understood?”
+
+“Underlings?” asked Nod.
+
+“Correct. And if two isn’t enough, I expect you to let me know.”
+
+“I will!” he chittered. “This… This going be good!” A specific gleam had entered the supervisor’s gaze. Kairon knew that look.
+
+Your first underlings always feel the most exciting. And, judging by that face, Nod’s going to be quite the strict supervisor.
+
+For his DR department head, that was absolutely perfect.
+
+As the duo climbed back down the stairs, Nod skipping and Kairon limping, the warriors had gotten over their shock. Eagerly, they started filing inside.
+
+“Woah!”
+
+“Huge!”
+
+“Thank you master!”
+
+“Mine!”
+
+Already, several had brought in some piles of polished rocks from outside. They began setting up the demarcations needed for a simple game of stones.
+
+On the other side, wrath imps were inspecting the chimney and alcoves. A few even stowed their practice staves in them.
+
+Seeing the warm reception, the city lord once again felt his decision to take the brand of hearth first was the right one.
+
+“Nod, I’ll leave this to you. See to it that the warriors don’t get hurt up there.”
+
+Without even hesitating, the little imp puffed out his chest and sniffed. “Don’t fear! I take care!”
+
+Kairon didn’t. Since Demonic Resources’ inception, wrath and brood imps alike had come to respect Nod more and more. They saw him bringing issues to Kairon, and noticed the changes that came of it.
+
+Business seen to, the black-scaled demon headed for the citadel. It was time to finish that side project.
+
+***
+
+“War table?” asked Vorathrex.
+
+“Yes! It was one of my favorite hobbies from where I came from. A bit rebellious, I know. But war gaming was just so much fun.”
+
+“Fledgling, fighting is no game.”
+
+“No, no. It was more… of a thinking exercise.” Kairon tapped his head, peering down at their work.
+
+In the corner of the citadel, opposite from Veron’s form, they’d set up a crude platform from gnawed wood. Several hours of work, clay shaping, and careful references with Sovereign Eye later, Kairon had a model of his domain and the surrounding forests and mountains. A very crude one, but largely invaluable. It would allow him to take everything Sovereign Eye displayed, and organize it for both his own use and his aides.
+
+Using a thin stick, Kairon pointed to the clay mounds on the bottom. “This is The Spines.” Then, moving his stick downwards, he indicated a set of yellowed rocks in them. “We expect the paladins to be here.”
+
+A grunt.
+
+“Anything you’d like to add?”
+
+Nostrils flaring, the big demon leaned forward, pointing at the yellow rocks. “The wind’s smell has changed to something more mixed. I believe there are humans with the sickening magic, and some without.”
+
+Kairon pursed his lips. He reached to the pre-prepared piles, adding some gray rocks behind the yellow. “Let’s assume that either means a supply convoy, normal footmen, or both. Anything else? Any idea how close they are?”
+
+“I am not sure, but the wind seems to be blowing the scent from the same distance.”
+
+“So you’re saying they haven’t gotten much closer, huh… That’s interesting.” Humming to himself, Kairon once again tried to figure out Hector’s game. The lord clearly got through the pass, but Veron had made it clear doing so was quite difficult. It required maps that apparently were out of date nearly as fast as they were made.
+
+Thinking of the man caused him to turn, seeing the bisected torso of marble. Still watching. Still silent. Coiled by its side, Sythara snored softly. The demoness had been resting all day since the communion.
+
+Turning his attention back to the board, Kairon looked at his wrath councilor. “Okay, this doesn’t change what we need to do.” He dragged the stick over the clay hills, pointing to their east.
+
+“Greensward is there. Somewhere. I expect their arrival to be… soon. Vorathrex, anything you can tell me?”
+
+The big demon sniffed, before licking his lips. “I smell… a large number humans. But they are not moving. Just gathering like a herd of sheep.”
+
+Kairon hissed in irritation. “That’s not what I’d like… A single threat lies to our south. And a second one waits to our east,” he mused aloud. From behind, he set a small pile of green rocks onto the model representing the clans.
+
+“However, as events stand now, this won’t do…” he continued.
+
+Even shooting two massive purple jets in the sky wasn’t enough to get the stubborn clan to move, it seems.
+
+Catching the look in his eye, Vorathrex frowned. He gestured with a meaty finger at rocks marking the clans. “They are just sitting there. What is the issue? Our nest is still growing more hatchlings to defend it. Even with your tricks, it is taking us time.”
+
+“Mmm. True, true. Every day we do grow stronger, and our enemies weaker,” said Kairon noncommittally.
+
+The general studied him, unsatisfied with what he saw. “Fledgling, I do not like that expression you have. What is it you mean for us to do?”
+
+A sly quirk of Kairon’s lips was his only reply.

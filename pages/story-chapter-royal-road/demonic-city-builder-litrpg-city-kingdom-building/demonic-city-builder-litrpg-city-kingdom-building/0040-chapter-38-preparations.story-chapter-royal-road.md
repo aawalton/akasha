@@ -1,0 +1,315 @@
+---
+id: fee1962a-425a-5284-bcfc-9ed51bf9f19d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38 - Preparations "
+slug: 0040-chapter-38-preparations
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 40
+ownLength: 3301
+unit: words
+publishedAt: 2026-07-02
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3619722/chapter-38-preparations"
+royalRoadId: "3619722"
+---
+
+“What inspection? What mean?” asked Nod.
+
+“Inspections are paramount. They’re a proactive way to ensure everything is up to code.”
+
+“Code? We have?”
+
+“Not yet. We do have… requirements we need to adhere to.” Kairon’s mind went back to the demonic regulatory code. “So, the goal of today is to ensure we start thinking about that.”
+
+He led the little manager past the cooking fires just outside the citadel. Their ashes and charcoal from last night still smoldered, making them easy to relight tonight. The imps had taken to surrounding each with small rocks, and just letting the fires burn with abandon on the city’s black stone ground. It was crude, but functional.
+
+And a safety concern. What if an imp burned his foot, not watching where he was going?
+
+“Nod. Note proper safety measures for cooking fires to be addressed at a later date.”
+
+“Yes master!”
+
+Arriving at the wrath-assigned camp house near the tower, Kairon set down his walking stick and put his claws on hips. “So? What do you see?”
+
+Nod sniffed. “Wall. Door. Roof.”
+
+The demon nodded, taking in the sight of the residence. Even after weeks, the hellscape clay was still packed tight, its sloping walls just as shabby as when they were summoned. But, even now, the timber framing poking through them sat true. A fiber-like root held the logs lashed together, tight enough that he’d seen more than a few imps climbing up it without issue.
+
+Stepping forward, he gave the nearest lashing a good tug. It didn’t move. “Tight. Good. See this? We’re checking for residential stability. It's very important that domiciles we house our workers in have this.”
+
+Nod did what he always did, and bobbed his head up and down. He went over to the other corner, climbing up the sloped wall and doing the same action. “Tight!” he proclaimed.
+
+They ran several more tests, checking the packed clay and doorframing. “Shabby. But it stands. Find anything of concern?”
+
+Nod squeaked. “No!”
+
+Kairon was about to move on when he caught something. Eyes narrowing, he limped over, kneeling down at a spot where clay met the ground halfway on the south side of the structure. Clicking his tongue, he pointed one claw at it. “See this? Details matter. And this is why. From our initial inspection, everything looked fine. But, you can’t rush these things. What we have here is a classic case of substrate delamination."
+
+“Sub.. Delem? Nation?” Nod tried. “Is bad?”
+
+“Very. If the demonic plane saw this…” He whistled. “But! Not to fear, we can fix it. I want you to meet with Shiny tonight. Have him organize a repair for it. No ritual needed. In fact, add maintenance in general to our agenda too. We’ll need to set up some ongoing processes for this.”
+
+Finally satisfied, Kairon moved back to the doorway. Ducking inside, he angled his body sideways so he could fit through the narrow walkway. Underfoot, the packed clay had planks spaced up and down to serve as more level flooring. The room smelled of blood and sand, with subtle undertones of jerky.
+
+“Need to speak to someone about getting this aired out. This is a violation all in itself,” he muttered. On either side of him, the demon began checking each bunk. They ran from wall to wall, unequally spaced on each side. The clerk inside him tried its best to ignore that.
+
+He frowned, picking through scattered belongings. Stones, animal teeth, furs, leftover meat, and wooden practice staves littered the area. They were shoved in crevices, under bunks, or just left flat out atop the beds.
+
+“Nod. Come in here. For system’s sake, what has Boney been doing? Just letting his underlings make a mess of it, it seems. Ridiculous.”
+
+He looked back, seeing Nod was still peering through the doorway. “Well? Come on! Don’t just stand there. You’re the city’s DR manager. You can’t be uncomfortable about performing an inspection.” Seeing he still wasn’t moving, Kairon pointed. “Listen. I know this is where the wrath imps sleep. Is this why you are uncomfortable?”
+
+“Well. Don't know…”
+
+“As the DR manager, they rely on you to ensure they have proper accommodations. The right place to sleep. The right place to live. You can’t do that if you’re constantly in fear of stepping on toes. Trust me, I learned that a longggg time ago,” he chuckled. “Now, get in here. Enough of that!”
+
+Taking a deep breath, the little red imp took one step in. Then another. Unlike Kairon, he didn't have to duck. The abode was actually quite spacious for a gremlin of his size.
+
+The demon had already turned around, staring in distaste at the messy interior. “This is what happens when we don’t have proper oversight. I, of course, see what's on the outside. The walls, the roof, the door. What you and I inspected. But remember, what lies within is often most ignored. I can count at least… seven, no.” He spied a sharp tooth sticking up in one of the floor pieces. “Eight DR violations. We’ll need to note this down.” Kairon sighed. They had a lot of work in front of them.
+
+***
+
+It was afternoon by the time Kairon made it back to the citadel. He and Nod spent the entire morning working through the inspection, but it was quite productive. A lot of the issues they found wouldn’t be resolved yet, but eventually they’d see to having proper teams to monitor them.
+
+“You know, if this is going to continue serving as our primary meeting chambers, we really need to see about getting some furnishings,” commented Kairon. The tower was still just as bare as the day he’d found it, save the gemstone, vault, and Sythara’s tent.
+
+“And some proper windows,” he added. Unfortunately, the current ones were far above head level. Too high to see the city proper through. They did let fresh sandy air blow in, keeping it from becoming stale. While many might find the metallic and sulfuric scents that intermingled distasteful, Kairon was beginning to associate them with comfort. His city. His home.
+
+Shiny and Bean gave him a confused look.
+
+“Furnishings?” asked Shiny.
+
+“You don’t know what those are? Chairs, tables, couches, lights?”
+
+To his relief, neither imp shouted about food. They’d progressed beyond that. Instead, Shiny asked the question on both imps’ minds. “No. New word. What for?”
+
+“Like the bunks in your camp. Which we need to talk about, by the way. For sitting, writing, sleeping…”
+
+“Why need more?”
+
+“It’s rather difficult to explain. When we find a way to make or acquire some furniture, I’ll show you. For today, our time is limited.”
+
+He felt a tiny prickling, like needles on his skin.
+
+“Just a moment.”
+
+There was a sense of something. And he had a hunch as to what. Activating Sovereign Eye, Kairon rushed to the pass.
+
+Even more limited than I thought.
+
+Pressing into his domain rode a small contingent of humans. A cloud of orange dirt was kicked up behind their horses, making their trail easy to follow from above.
+
+“Armor and swords…” Seeing the steel they wielded brought back distasteful encounters. So far, human meetings in this world had gone poorly. Encounters that, until now, had kept his city largely isolated from the other factions.
+
+I’m hoping this time to be more fruitful.
+
+Kairon wanted materials, information, and connections. Veron was a great ally, but had two key limitations. First, he was an exile. He might have relationships and standing that could aid with Greensward, but that was the equivalent of the frontier in this world. The true powers lay south.
+
+Second, Veron’s entire village was flattened by Vorathrex. Despite the face he wore, the actions he took, and the words the outcast merchant said, Kairon was skeptical. He liked Veron, but that only carried so far. At the end of the day, the man’s value to the city itself was tenuous at best.
+
+That’s what made this situation so attractive.
+
+If I can find another human middleman with stronger connections, Veron could turn from a necessity to a luxury.
+
+Unfortunately, one quick glance to the imps under his employ reminded him of the… challenges with that.
+
+Not to mention the fact that as far as anyone else is concerned, I’m a demon. And an imposing one at that.
+
+“Master?”
+
+Shaking himself, Kairon looked up. “Forgive me, I was just monitoring our newcomers. We have maybe four hours until they reach our preparations.”
+
+Both imps nodded seriously.
+
+“I’m uncertain as to if they will actually want a tour of the city, or not… For now—”
+
+The demon cut off, a freezing shock stabbing into his head. Immediately, he dove inwards into his mindspace. Kairon recognized that feeling all too well.
+
+His void black sigil was vibrating. Like someone had hit it with a tuning fork. A frustrated hiss escaped his lips. Gently, he tried to coax the symbols into a sense of calm. To just still and ease.
+
+Come on little guy. Deep breaths. Nothing to fear.
+
+It didn’t work.
+
+This… This is more validation. Here we are, my sigil reacting to something not demonic. Something not part of my domain. More proof that you aren’t part of the demonic scripture, but something else entirely.
+
+Once these guests had left, Kairon promised himself he would find out exactly what.
+
+At the moment, he needed to find a way to get a handle on this connection before his head turned out like his foot. Gritting his teeth, he shoved the freezing pain to the back of his mind. Then, he pushed his vision into Sovereign Eye.
+
+Above the tower, the purple eye rose.
+
+He turned his focus to the oncoming party. Each was more or less unremarkable. Metal armored soldiers, wearing blue and white colors, each with a shortsword strapped to their mounts and dagger on their hips. Large travel packs were on both sides of the horses, evidence of their journey. Judging by the frothing on the animals’ mouths, they’d been ridden hard.
+
+There was one startling detail, however. The city lord hummed, uncertain what to make of it. Near the front, one of the figures had a tendril of gold wafting off of him. Around, none of his companions seemed to take note of it. But to Kairon, it was clear as day. Like a spindle of yarn, it dropped from the sky, reaching to the man, and to… the ground. To the demon’s domain.
+
+Gah!
+
+Another shock of pain rocked his mind, making the world spin.
+
+Come now.. Work with me, would you!? He gasped internally at his sigil.
+
+There must be something happening… Something causing this. If it's not demonic, it must be…
+
+Looking back to the human connected to him, he stopped looking at what was above. Instead, he focused on what was below. Where the faint golden wisp began to fade, but clearly ran into the ground and somewhere within his domain. Like a loose string not yet pulled.
+
+Where it touched sand, the gold became tainted with orange and purple. It seemed as if the connection between domain and gold at that particular spot held taut. As if something was trying to yank the man down from his horse and pull down whatever it was connected to from above.
+
+On a hunch, Kairon tried loosening the pull. Like letting muscles go slack. At once, the violent connection eased and the pain inside him receded.
+
+Within his mind, the dark sigil went still at last.
+
+***
+
+“Master? You okay?”
+
+Above, Shiny and Bean were staring in concern.
+
+Kairon grunted, sitting up. “Yes, yes. I just had a little encounter of sorts. Not to worry! All is well.”
+
+Neither imp appeared convinced. They did, however, brighten slightly when Kairon managed to get back on his feet, walking stick in claw.
+
+Once he confirmed the humans experienced nothing like what he just went through, he returned his full attention to the duo.
+
+“Please Bean. Let’s return to our conversation before we got off-track.”
+
+His underlings still didn’t look at ease, but at a go on gesture from him, Bean finally relented.
+
+“Okay… Farm. Did work?”
+
+Kairon grinned. “Indeed! Our yield is up from 130 to 140.”
+
+“So medium water. This best.”
+
+“So far!”
+
+“Medium water?” asked Shiny curiously.
+
+“Well, we don’t have any ways of accurate measurement. Not yet, at any rate. Our solution was to establish three amounts of water. High, medium, and low. Medium is the amount of daily water it takes to make the soil turn from bright red to brown, but still not show any puddles on the surface.”
+
+“What kind?”
+
+“Great question! We actually found that corrupted water has a stronger influence on yield than the purified form from the pit.”
+
+“Sun bad,” added Bean.
+
+Kairon held up a claw. “Bean’s right. We identified another point. The sun actually hurts the ashroot’s growth. However, only mildly. Perhaps five percent or so. My theory is that the soil is shielding the roots from the worst of whatever the sun does that hurts them.”
+
+“So you cover?” asked Shiny. “How? Plot big.”
+
+“No.” He looked over, seeing the dissatisfied expression on Bean’s face. “We discussed this, and decided that the trouble it’d take to find and use enough furs to cover the entire plot every day, especially as we scale, isn’t worth the mild increase in harvest.”
+
+“Less root,” pouted Bean.
+
+“Yes. It is. But remember what I told you. Our resources are limited. The challenge of being a manager, at least for the time being, is employing them in the most efficient way possible. That doesn’t necessarily mean it’s the most effective.”
+
+Shiny rubbed his chin thoughtfully. “Anything else? How much expect?”
+
+“Hundred fifty. Maybe hundred eighty,” said Bean.
+
+“Yeah. Next harvest, we think that number should be far larger. But, the real test we haven’t been able to pursue is excavation.”
+
+“DIG!”
+
+“What mean?” inquired Shiny, eyes curious.
+
+“Well. My theory is that a massive part of what causes the yield to increase is what lies under the soil. Just think about it. Our corruption rolled over the land, and we planted right on top of whatever was there before. So in this case, areas with large tree growths and subterranean nutrients would have the most organic sustenance for our ashroot to eat and use for its own purposes.”
+
+Shiny gasped.
+
+Kairon cocked his head at that, unsure why the little critter was so excited about the revelation.
+
+“At any rate, don’t get too worked up. We just don’t have the workforce to dig that much. Yet.”
+
+“Yes! Of course!” said Shiny, a little too eagerly.
+
+Kairon swore he saw a little flash of purple in his supervisor’s eyes.
+
+“Anyway, the reason I wanted you in on this discussion is logistics. Shiny, we have twelve workers on timber. That number will increase by two every day for the foreseeable future, with small cuts being made for the new ashroot plot.”
+
+The little imp sucked in a breath. “Lots wood.”
+
+“Two a day per imp on average. Which means that in less than two weeks, we’ll be producing over fifty a day. Assuming nothing goes wrong.”
+
+Shiny’s orange eyes bulged. “This… This boom. Why no circle?”
+
+“Exactly! I wanted to trigger this population boom as soon as possible. So, start thinking about how to best utilize your workers. Not in allocation, but management.”
+
+Kairon already had some improvements in mind, but wanted to give the little monster a chance to think of his own first. He was training his best supervisor after all.
+
+“Yes master! Will think!”
+
+“Great. Now, back to work. I need to talk to Veron before our guests arrive.”
+
+***
+
+“How are you, my friend?” asked Kairon.
+
+Veron was propped up in the tent, lounging in the cool tower’s darkness. He looked good. Really good. Better than he’d been in the last week.
+
+“I still don’t know what to make of Sythara,” he muttered, looking over at the crouched demoness in the distance. She was on the opposite side of the room, mixing ingredients in a scavenged bowl. The scrape of stone on wood was actually quite a calming sound. That was assuming you didn’t consider what precisely was being ground up.
+
+“But she knows her craft. Those veins have almost entirely receded, and that black mass under my arms is almost gone.”
+
+He lifted up his shirt, showing Kairon the now fingernail sized tumor left. It still pulsed, black veins faintly visible, but it was substantially smaller.
+
+“Good, good.” To Kairon, his investment in Veron hadn’t run dry. The time, food, and risk he’d taken into housing the man could still pay off. And, he just liked the guy. Veron gave good company. More than one night was spent idly chatting. As much as he cared for his beloved imps, it was difficult to really socialize with them. But with the merchant, he could.
+
+“Would you feel up to meeting some newcomers?”
+
+“The Valdrens?” clarified Veron.
+
+“Indeed! I’m hoping you’d be willing to meet with them. Smooth over the rough edges our scales and claws leave, so to speak.”
+
+Nodding, the merchant sat up. “Sure thing. You’ve taken care of me, and for that I owe you a debt.”
+
+The demon stared into those eyes, trying to parse what his friend was thinking. Whether those words were genuine or not.
+
+I suppose this meeting should test that.
+
+“Perfect. No need to get up. Relax, enjoy yourself. Expect to convene later this evening. Maybe for dinner.”
+
+“You’re going to feed those nobles the dried jerky we’ve been eating?”
+
+“Of course not! I’ve instructed a few imps to hunt something fresh for tonight.”
+
+Assuming this meeting goes well enough that there even is a tonight, that is. Kairon kept that thought to himself.
+
+Dusting off his scales, he stood. “I’ll be back. And Veron?”
+
+“Hmm?”
+
+“Thank you. Truly.”
+
+With that, Kairon set off.
+
+Where is that oversized demon at? He was taking his sweet time getting back in time. But he should just make it before they needed to set out.
+
+***
+
+Sythara watched Kairon walk away, careful not to stop her mixing. Even once he left, she waited. The rock in her grip steadily grinding bit after bit of charred bone into powder.
+
+In the distance, the receding thumps of a walking stick on stone echoed. Getting softer and softer. Once the sound disappeared entirely, the demoness added a count of ten. Just to be safe. Only then did she stop.
+
+Shadows unfurling, Sythara rose. Striding over to the tent, she undid the canvas flap and found her belongings stuffed in the corner.
+
+And, under cloak, canvas, and kindling… The essence.
+
+Pale fingers grasped the two violet marbles, each thrumming with hidden secrets. They fit in her hand easily. As if they belonged. She poked one with a black talon, watching the tiny script bubble around inside.
+
+“Thank you again. For saving me.”
+
+She looked up, the prone subject pulling her from her thoughts.
+
+“Don’t thank me yet, human. The process isn’t done.”
+
+Veron grew tense. “What do you mean? The veins are gone, that disgusting growth is finally shrinking, and I feel more like myself than I have in… well, ever.”
+
+Sythara stood, darkness pressing against the rays of sun lighting the tower.
+
+“I promised the child I’d stabilize you.” A glint was shining in her sapphire eyes. One that Veron did not like.
+
+“You also promised you’d save me,” he replied. The hunter rose, trying to gather himself.
+
+The demoness smirked, taking slow, careful steps forward. Azure light burned on her skin, shifting symbols coming to life as they rolled over her body. Scrolling and interlocking.
+
+“I am saving you. From yourself.”

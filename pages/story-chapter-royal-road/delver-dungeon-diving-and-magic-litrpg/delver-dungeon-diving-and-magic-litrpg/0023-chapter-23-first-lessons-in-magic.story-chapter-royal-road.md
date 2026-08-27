@@ -1,0 +1,223 @@
+---
+id: 8a1e3325-b0f4-5867-a06a-b4ff9498ee8e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23: First Lessons In Magic"
+slug: 0023-chapter-23-first-lessons-in-magic
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 23
+ownLength: 2432
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3521069/chapter-23-first-lessons-in-magic"
+royalRoadId: "3521069"
+---
+
+I dread to speak of them, their names stricken from the records, and only their titles remembered. But already, I know this text to be heretical, beyond the accepted church doctrine. Once these words see the light of day, my life will be ended with extreme prejudice. And yet, I must speak, I must wonder, and I must pass on my knowledge so that not all is forgotten.
+
+The Fallen, they are called. My research says that the forgotten Oathsworn, those whose names have disappeared throughout history, that is what they were called.
+
+The Fallen.
+
+Gerald enters the room with a wide smile on his face. “Leo! It’s good to see you. And with so much success, my boy.”
+
+Everyone stands up as he sweeps into the room. Gerald looks over the gathered party with appraising eyes.
+
+“I see you follow in the footsteps of your mentor, Leo.” His eyes observe the enchanted armor and weapons they now carry, seeing deeper than most. “Loyalty is more valuable than gold, as they say. If you all don’t mind, I’ll pull our Master Delver away to discuss the prizes of our journey. Martha will ensure you’re all fed and payed before you leave, I’m sure the lot of you are looking forward to a warm bath, and a soft bed.”
+
+His comment draws laughter and a series of happy comments. Gerald keeps his smile as he grabs my arm and pulls me into a quiet room, soundproofed for discussions like this.
+
+The door closes with a soft click, and Gerald lets out a sigh, “Well, how’d it go?”
+
+“Better than I could’ve hoped.” I answer, pulling out my notebook. “I’ve marked off the things that I’ve given to the party and myself. There are a few items I think should not be mentioned in your records as well.”
+
+Gerald nods, “I understand. Will you be making a trip to the temple after our meeting?”
+
+I give a small nod, and he leaves it at that.
+
+We work for the next hour documenting every item with the description I’d been given by the system. He will look over them himself later to compare the different identification abilities.
+
+He’s writing something into his own paperwork when my curiosity gets the better of me.
+
+“Why are there reapers at the gate?”
+
+Gerald’s pen stops and he looks up at me from over a pair of glasses he’d pulled from his breast pocket. “Information is kept under tight guard. But I know that several mages are dead, and a few reapers along with them.”
+
+My breath hitches. Someone capable of taking on multiple mages and reapers…
+
+Gerald pushes away his notes. “How’d you like your delve crew?”
+
+“Best I’ve had in a while. I’m sure the mercenaries could use a job, if you can keep them.”
+
+“I’ll take them on, and keep them available for you.” Gerald pauses, “and the mages?”
+
+“The De’Vereth want an exclusive contract for the items.” I meet his eyes, “I think you should give it to them.” I hesitate for a second, then reach into my pack and pull out one of the wands I’d found in the mage rooms. The second one lies deep in my bag.
+
+Gerald’s eyes widen. His eyes flicker to me before going back to the wand.
+
+“I think this might entice them.”
+
+“It would do more than entice them.” He holds his hand out, and I give him the item, “You realize that The Arcanists could pay more for an item like this.”
+
+“I know. And I wouldn’t give it to them.” My voice is hard.
+
+He gives me a soft, knowing look, “Are you sure you want to place yourself into their politics? An item like this will shift the balance of power, not to mention the other objects you’re offering.”
+
+I take a breath, and let it out slowly, “I don’t mind, but I would understand if you don’t want to…”
+
+Gerald laughs and shakes his head, “Don’t worry about me, Leo. I’ve got more connections than the Lord of the Stronghold himself. And I’ve a liking for the De’Vereth myself. You’re the one with the power to choose here.”
+
+“Then yes. I’m sure.”
+
+Gerald smiles as he offers his hand. I clasp it, and we shake before standing up.
+
+Gerald walks towards the door. “I forgot to ask, how’d the Druid do?”
+
+“Very well. She’s worth investing in.”
+
+“Good. I’ll do so. And your plans now?”
+
+“I have a tip leading beyond the city of the dead. But that can wait until after I’ve rested.”
+
+“I look forward to it.” He holds the door open for me, and I step through.
+
+The others except for Keve are gone, and the young Vishten sits there awkwardly as Marsha attempts to feed him the entirety of a bakery’s catalogue.
+
+Shar walks up to me in her cat form, brushing herself against my leg with a purr.
+
+I pick up the little golem and hold her in my arms.
+
+Keve finally notices me and quickly stands up. He bows to Marsha, “Many thanks for the food. May the darkness treat you kindly, risha.”
+
+“And the light watch over you dear.” Marsha stands up and gives a small curtsy of her own.
+
+Gerald walks over to his wife, and gives her a small kiss before turning to us “I’ll have your advance ready tomorrow, and put the rest into your account.”
+
+I smile in thanks, then bow my head to the merchant, “Thank you, I’ll be by tomorrow.”
+
+The rest of our goodbyes are said, then Keve and I head towards the inn. The proprietress greets us with a smile, and I do my best to ignore the looks Keve gets as she hands us our keys.
+
+The magic of the inn is as mesmerizing to watch as ever. Space twists as we walk the hall, our room appearing before us.
+
+I insert the key letting Keve and Shar into the room. Immediately I crash onto one of the two beds.
+
+“You can have the first bath, Keve.” I mumble into my pillow.
+
+“Many thanks, I will be quick.” His voice fades as he slips into the sideroom.
+
+“Take your time!” I call out.
+
+I feel the mana coalesce in the other room, drawing water and heat for a bath.
+
+I push myself off the bed, and turn over, staring at the ceiling for a long moment before I manage to push myself fully out of the bed.
+
+I’d wanted to wait until I was fully alone to cast this, but I trust both Keve and Shar.
+
+My mana flows, hazel symbols filling the air as a doorway constructs itself in front of me. Shar watches, curled up on my bed, as the door solidifies.
+
+Dark mahogany wood inscribed with symbols I can’t read.
+
+I let out a breath as the spell finishes, then I push the door open.
+
+Sunlight filters through glass windows, illuminating several open air floors, a column of marble reaching through them to the ceiling.
+
+The first floor’s bookshelves are filled to the brim with books, small blue jellyfish floating between them.
+
+I don’t remember putting any of the creatures through the portal, but they’d made their way in here somehow.
+
+I step through, and the door closes behind me.
+
+It’s quiet and peaceful in here, and I feel the draw to just stay and read.
+
+I take a deep breath, then turn around, going back to the door.
+
+I’d just wanted a peak. I’ll come back later.
+
+I look one more time over the library, then open the door and return to my room. As soon as the door closes, it disappears, leaving me with a smirking golem, and the sound of running water from the other room.
+
+“What’d you see?” Shar asks.
+
+“A library, filled to the brim with books.” I answer, collapsing onto the bed next to the small cat-like golem. “It was beautiful honestly.”
+
+“That makes sense.”
+
+I lean off of the bed, and open my pack. I pull out the notes on a magic circle that I’d found in one of the mage’s rooms. The language is still indecipherable, so I pull out my notebook.
+
+“Shar can you help me decipher these?” I move to a blank page, and carefully draw the images at the bottom of the text.
+
+The golem stretches her back, then paws over to me. “The Blink spell? You shouldn’t start here.”
+
+My pen pauses, “What do you mean?”
+
+“Do you want to learn real magic, Leo?”
+
+I hesitate for a long moment. I know the dangers of the old world, better than most. I know the destruction they’ve caused, and if the wrong Mages from the Arcanists guild discovered that I was practicing old world magic, every piece of knowledge I have would be crushed out of me. Still, Shar knows my heart by now, and the System granted me my classes for a reason. I can’t resist knowledge. “Yes. I do.”
+
+Shar smiles as she sits on her haunches, “Good. There’s a book in the library, called Arcana for Children, or the translation-” She speaks several words in a language I don’t know, “Grab it.”
+
+I pause at the name, then call open the small portal, my magic filling the air as it forms. Instinctively, I know that there is no Arcana for Children, but the translation that she mentioned does exist. I pull the book out, and the portal closes after my hand is clear.
+
+It’s a small, simple leather bound book. I open it up, to find it starting with two simple symbols, and the image of a man holding fire in one hand, a snowflake in the other. Several simple words are written on the bottom.
+
+A paw covers the symbol, “Fire.” She points at the other symbol, “Ice. Transformation and Stillness. These two ideas define elementary arcana.”
+
+I write down in my notebook, then turn to the next page. This one has the image of a rock moving through the air.
+
+“Stillness, holds things together. The rock. Fire, transformation, makes them move. The velocity.”
+
+I pause in my notetaking, “Velocity?”
+
+“An old word for speed.”
+
+“This sounds complicated for a children’s book.” I say, my pen moving across the page of my notebook.
+
+“Baerick was a language for magic.” Is her simple explanation.
+
+She continues through the book, and I write down my notes, as other concepts are introduced. Life as a conduit of transformation. Death, as a conduit for stillness. More elements are covered in brief descriptions until we reach the end of the book.
+
+Author’s notes are written on the last page, the handwriting different from the font of the rest of the book.
+
+Shar translates quietly, in a strange solemn voice, “The thing that every mage must learn, is that these truths are not absolutes. They are simplifications, and any mage who finds themselves bound by absolutes, will fail to reach the skies.” She pauses for several seconds, staring at the words, her cat-like face unreadable. Finally, she turns away and curls up on one of the pillows, “That was the Archmage's handwriting. Study the symbols in the book, memorize what they mean. Once you have them all memorized, we can move on.”
+
+I follow her advice, and reread the book until Keve walks into the room. Then I stand up and head for my own bath.
+
+****
+
+The Temple is quiet in the afternoon light, and the young monk watching the entrance smiles when he sees me. “Leo! Back so soon?”
+
+I laugh, then pull him into a hug, “It’s good to see you, Jay. How has life as a monk been treating you?”
+
+He bows his head ever so slightly, and puts on a monkly expression, “It has been an enlightening experience.” The act breaks down as he tries to hide a smile, “Are you going to break bread with us today? The youngers would love to see you.”
+
+“I don’t think Sister Irene would approve.”
+
+He rolls his eyes, “Sister Irene doesn’t approve of anyone except Brother Ivan.” He wiggles his eyebrows suggestively.
+
+I pull away with a laugh, “No, please don’t put that image in my head.”
+
+“Really, we would love to see you.”
+
+I walk past him towards the temple, “I’ll think about it.”
+
+He places his hands together and bows with his head raised towards the heavens, a Brother’s greeting to an Acolyte.
+
+I place my hands together, and give a deeper bow as a sign of respect, then we both smile and I continue on my way.
+
+The stained glass window of the three Builders reflects the setting sun, making them almost seem as if they’re looking at me.
+
+I make my way into the temple, then turn towards the Guides, quickly finding Sehara’s statue. This time, I pull out several old-world coins and lay them at her feet. Then I bow low.
+
+”You were the explorer with Mage Lorn.”
+
+I freeze as I rise from my bow, and turn towards the female reaper who’d greeted us at the gate. The small pin of a sleeping woman marks her as a follower of Alvarana. Her black mask still covers her face.
+
+I clasp my hands together and give her the same bow I’d just practiced with Jay. “My name is Leo, Devout Reaper.”
+
+“Are you bringing some of your findings to the church?” She steps forward, standing beside me to look at the Angel Sahara. Her eyes are a stark yellow from behind her mask, marking her as someone with non-human blood. Dralk, or possibly Kobalos, a people with purple skin and bat-like ears. The second one seems unlikely, since the skin around her eyes is pale.
+
+I blink in focus, remembering her question. ”I’m an acolyte, so I try to bring the things touched by the Angels to Brother Ivan.”
+
+Her eyes brighten with interest, “May I accompany you, Acolyte Leo?”
+
+My mind goes to the ring currently in my pocket, and the shackles buried deep in my bag. Then I think about the sword at my waist. I’m still not sure whether I should show the sword to Ivan, let alone to a reaper. They are feared for a reason, and I’ve heard of more than one person going missing after a reaper has decided them to be heretical. I definitely won’t show them that book from the Archmage’s room.
+
+But I can’t refuse her request, so I smile, and motion towards the door, “Of course, Devout Reaper. I have an item of particular interest for you.”

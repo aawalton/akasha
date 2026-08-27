@@ -1,0 +1,279 @@
+---
+id: cfbf16cf-a1ad-5840-988a-505fbbe58fd7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28 - New Hires"
+slug: 0029-chapter-28-new-hires
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 29
+ownLength: 2344
+unit: words
+publishedAt: 2026-06-09
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3512470/chapter-28-new-hires"
+royalRoadId: "3512470"
+---
+
+Tonight was unusually windy. From the north, gusts howled over The Spines and across Greensward. Much of the forest had the protection of canopy and thick brush. Kairon’s domain, however, had corrupted all of that. It left open, gently rolling terrain vulnerable to the elements.
+
+All the imps were tucked away, taking shelter in the camp. Sythara had claimed a corner of the tower, snoring softly. Demons, it turned out, loved storms. So much so that she’d even had a soft smile on her shadowed lips as she dozed off.
+
+Although, her blanket of ethereal night may have a way of muting sound.
+
+I’m not certain she’s getting the proper experience like the rest of us. This racket is impossible to sleep through.
+
+On the opposite side of the tower, Kairon leaned back, a chunk of roasted meat grasped between two claws. While chewing, he watched the dark sigil in his mind. He still hadn’t touched it. But he’d watched. And waited.
+
+Just what am I going to do with you?
+
+His plans required every coin to work. Kairon just couldn’t afford wasting any gold on experimentation until new workers were spawning and food production was more sustainable. In particular, the 250 gold price of the ashroot plots was already a concern.
+
+Soon though. I’ll figure you out.
+
+While he hadn’t touched the sigil, he had studied it. The demon had gone so far as to cross reference nearly all the demonic scripture on every building, from the feeding pit to the spawning grounds and camp.
+
+And not one shape matched a single part of the sequence he’d found. His sigil was more… fluid and cosmic. In contrast, the scripture on the settlement’s buildings stemmed from violent and harsh shaping.
+
+For now, he tucked the thought away.
+
+Kairon turned his eyes towards his companion. “How are you feeling?” he asked quietly, careful not to disturb the slumbering demoness.
+
+Veron shrugged, repositioning his bundled cloak between him and the wall. “Worse.”
+
+The glow of the chamber’s orange gemstone gave the demon a clear enough view. Black veins ran down the hunter’s arms, a faint purple pulsing within. Yesterday, they spread to his upper arms. Today, his shoulders. Tomorrow…
+
+“I discussed your condition with Sythara. She believes our domain shouldn’t be capable of corruption in this manner. It attacks the mind and your body’s strength, but not the blood.”
+
+“So then what is this?” he asked, lifting up his shirt and showing the cobweb of dark lines that had begun reaching towards his chest.
+
+The city lord winced. Taking a moment, he finished chewing and swallowed. “Well, I have a few theories.”
+
+“Yeah. Like that giant stone maw that regurgitates the meat I’ve been eating?”
+
+“Maybe… But from what I’ve seen, that thing eats corruption. It doesn’t make it.” Staring into the flames, Kairon gathered his thoughts.
+
+“The water you drink. Where does it come from?”
+
+“Well. I've been using the hellish puddles. I fill my skin with water from them, or what’s left of the stream if I take a hike north. Then, I filter it through cloth and boil it.”
+
+Another problem. Water. The more his domain expanded, the less of it that remained.
+
+“And you’re sure each time you-”
+
+“Kairon, I’ve been in the woodlands for years. I’m sure I did it right.”
+
+He held his claws up. “Okay, okay.”
+
+Mulling it over in his mind, Kairon spoke up again. “If that’s the case, I think I might just have an idea of what’s going on.”
+
+Veron looked up expectantly.
+
+“Well, the walls we made consume fire. The hellscape we live on is unnaturally warm. And neither imps nor I seem to fear flame. So it goes to reason that heat does not harm our kind, or at least that we have a sort of resistance to it. Which means…”
+
+“That the corruption you’ve been talking about might still be left. You’re thinking the boiling didn’t kill whatever is in the water, and that’s what’s tainting me?”
+
+Kairon nodded.
+
+“But where am I to get anything more clean to drink? It's more than half a day’s travel to the true forest. How can I survive like this?”
+
+The question left unsaid was whether he should leave. Permanently. And, more importantly, if the demon would let him.
+
+Veron is a valuable ally. I don’t fully trust him, but I do need his partnership for diplomatic concerns. At least for now.
+
+“I make no promises. But tomorrow, we will test a hunch.”
+
+***
+
+“This seems rather foolish.”
+
+“Oh come now! What’s the worst that could happen?” asked Kairon.
+
+With a resigned expression, Veron took the skin of corrupted water and uncorked it. Leaning forward he let a stream of it go into the feeding pit’s maw.
+
+The demon behind him watched expectantly.
+
+“Now do take care to step back.”
+
+The hunter hastily retreated, the massive jaws slamming shut behind him. There was a soft thrumming, a gurgle, and a faint purple glow.
+
+A sound like sloshing water and gurgling emanated from just under the ground.
+
+Then, around ten seconds later, the maw opened.
+
+“Hmm. That was a waste. Now I need to get more water and -”
+
+A spout of liquid shot out, making a lazy arc into the air and splattering on the black stone of the citadel.
+
+Both of them just stared at it for a moment. Kairon was the first to break from the trance. “Well don’t just look at it! Use the skin to catch it!”
+
+Some trial and error later, Veron held a full sack of sloshing water. He sniffed it.
+
+“Huh.”
+
+Grunting, he poured some into his palm and gave it a taste.
+
+“Seems clean enough.”
+
+“That isn’t a good test, my friend. Here, let me see.” Humming, Kairon took the skin and peered inside. He angled the opening so the sun sparkled against the clear water within.
+
+The demon sensed no corruption, no trace particles, no taint. It was just water.
+
+Still. This is odd. Why is it when I feed wood and corpses into the feeding pit, it not only eats the corruption but the entire material and returns gold. Something isn’t adding up.
+
+And then another thought hit him.
+
+Was it rejected, or actually being processed? If it was rejected like normal stone or wood, nothing should have been done.
+
+“Veron. Pour some more dirty water in. I’d like to test something.”
+
+The moment fresh liquid was guzzled down the rock throat, Kairon pressed his claw to the structure.
+
+“So it is actually being processed. It just does so far quicker than anything else…” Kairon mused.
+
+Leaning over carefully, he held out one hand.
+
+Veron, sensing his intention, handed the skin over.
+
+Kairon took a pull from it. To him, the water tasted bland. Gone was the sandy, coppery taste that the puddles and the dwindling stream nearby always had. But to Veron…
+
+“I would drink with this method from now on. Just talk to Shiny. You’ll need to work around the pit’s schedule and store enough in advance for your needs. But the processing time is near instant, so you can fit it in between batches,” he advised.
+
+“Do you think… this will heal me?”
+
+“I think the pit ate the corruption and taint present in the water. What’s left should be more pure than anything you’ve boiled.”
+
+“You didn’t answer my question.”
+
+Kairon clicked his tongue. “Honestly? I don’t know. I do think it will stop further infection from getting into your blood. But as far as what's already there…” He shrugged. “Maybe Sythara will know more. I’ll ask her when she wakes. Beyond that, all we can do is wait and see.”
+
+***
+
+“Two days into my plan. So far so good.”
+
+Four imps were just making their way back, rolling a pair of corrupted logs over flattened terrain. Their little arms pushed, legs pummeling into the dirt as they worked to keep the timber in motion.
+
+“Faster! Almost!” encouraged Shiny. “Bean! Push with! Match my shoves!” he told the underling nearest him.
+
+Kairon lounged atop the wall, feet dangling. Clouds covered the sky today. The accompanying grayness made him feel restless. Like he should be out, helping the imps.
+
+Shaking his head, he got rid of that thought. I can barely walk. Besides, my talents lie elsewhere. As their manager, I need to ensure I keep proper oversight and focus on planning.
+
+Thudding, the first of the massive logs ambled through the city’s north gate. Hard wood rolled easily over level, smooth stone. From there, progress picked up considerably. Chitters of relief came from the little workers.
+
+Waving, Kairon shouted down below. “Good work everyone! Shiny, a word if you please.”
+
+Two pairs of arms shoved, their own log joining its twin on the cobble. “Yes.. M-master!” gasped Shiny.
+
+“No rush. Rest if you need. I don’t want my brood manager injured,” he chided from above.
+
+“Bean, leave here. Help others. Bring to stockpile. Then come back. Do same with this,” Shiny directed at the others. Orders seen to, he eagerly scampered up the stairs to the top of wall.
+
+“Ready master!”
+
+“Sit, sit. Take a rest.” Kairon patted the spot next to him.
+
+Slowly, as if sitting during work hours was wrong, the little supervisor waddled over and found a perch. Despite the hard worker’s reticence, a grateful puff of air escaped his lips.
+
+Moments later, his tiny legs too draped over the wall.
+
+“That took longer than I thought. It’s nearly evening.”
+
+“I know. No live wood. All corrupted. Heavy.”
+
+Kairon bit his lip. It made sense. “The increased yield from the corrupted wood doesn’t offset the heavy weight and work it takes your crews to haul it. I know we’d be more productive if we just gathered the live stuff. But that’s what, four leagues out? And our domain is still expanding every day.”
+
+“Too far.”
+
+“Agreed.”
+
+“Is fine. Just need help. When more wood worker?” asked Shiny hopefully.
+
+“Not for some time I’m afraid. Assuming nothing changes, at least a week. Potentially more. I need the new imps to begin going on hunting expeditions. Speaking of…”
+
+Timber +1.2
+
+Timber +1.1
+
+Even with seven imps working nonstop, it took nearly two hours to cut and haul those logs.
+
+“How much?” inquired Shiny.
+
+“Fourteen a day still at this pace.”
+
+“Enough?”
+
+“Not really. But we’ll make it work.”
+
+The imp’s nose scrunched. “We go faster.”
+
+Shiny stood, making to bolt off.
+
+“Woah, woah. Just a moment, my friend.” Kairon placed a firm claw on the imp’s shoulder.
+
+“I love the initiative, but it’s about time for a midday break anyway. Fetch the others. This haul of timber was the last we needed for our new building.”
+
+Shiny’s objection turned to glee. “New brood!”
+
+Shooting up, the imp nearly flung himself down the stairs. In the distance, orders were shouted.
+
+***
+
+Without any preamble, Kairon selected Yes.
+
+A purple ritual circle flared to life in the Brood district. And, like clockwork, nine imps began transporting supplies. This time, Sythara stood by his side. Veron was absent, sleeping restlessly in the back of the tower.
+
+“What do you think?” he prodded.
+
+“I think my talents and time are wasted watching two imps carry rocks.”
+
+“Oh come now. Shiny needed an assistant, and you’re doing great! This is a core part of your onboarding procedure.”
+
+“And when does this procedure conclude?”
+
+“All in good time! Now, isn’t this ritual fascinating? You love these right? Do you know what any of those symbols mean?”
+
+“What did I tell you, child? I do not know these things. The language of the fallen is not one we know.”
+
+“So even in your own realm, you don’t know how to translate scripture?”
+
+“No,” she replied simply.
+
+He wasn’t certain whether or not the demoness was being truthful. For now, he let the matter drop.
+
+Turning his attention inwards, he checked on his sigil. Nothing. No movement, no wiggling, no glowing. It just sat there, waiting for his touch.
+
+He was tempted. Sorely tempted. His claws wanted to reach out and draw on the sequence, unravel its mysteries, and exploit it for his own gain.
+
+Not today. But maybe next week. Assuming all goes well.
+
+As a compromise, he thought it couldn’t hurt to maybe try learning a new symbol. Just a tiny one.
+
+Opening his mind, Kairon tried establishing a connection with one of the glowing demonic letters in the ritual. None came. The feeling of focus that had normally come before was entirely absent.
+
+Try as he might, Kairon couldn’t get that specific mental state to form. He thought for a few moments he was close, but in the end just got a headache.
+
+What changed?
+
+Seeing the proceedings were nearly done, he halted his attempts. For now.
+
+That’s concerning. Did I break something? Whenever I couldn’t learn a symbol in the past, there was still something there.
+
+This time, there was absolutely nothing.
+
+From the ground, ten large white stones grew. All had varying lines of scripture engraved into their surface. Like the one in the wrath district, a faint violet hue glowed in the middle.
+
+“A bridge.” Sythara said softly.
+
+Once all the massive stones had finished rising, the ritual stopped. Steam receded, orange and purple glows darkened, and imps regained their sapience.
+
+“It done!” Shiny was positively beaming. Kairon thought he could see the reflections of new underlings playing in the little critter’s eyes.
+
+Sythara, however, just looked on. Her eyes held an emotion he couldn’t put his claw on.
+
+Shrugging, the city lord moved forward and made contact with the new structure.
+
+For the first time since founding his city, Kairon finally began creating new workers. His economy was once again growing.
+
+“Who are they?” Sythara questioned, pointing one smoky tendril to the west. Kairon looked, but could see nothing.
+
+Instead, he returned to Sovereign Eye. The massive purple pupil squinted atop the tower, giving him a perfect view.
+
+Vorathrex was trudging back, wrath imps in tow. And he didn’t look pleased.

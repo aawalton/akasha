@@ -1,0 +1,227 @@
+---
+id: 0176e7e5-7e03-56ff-9770-9f845012e66d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14 - Capital Expenditure"
+slug: 0014-chapter-14-capital-expenditure
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 14
+ownLength: 2415
+unit: words
+publishedAt: 2026-05-22
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3432231/chapter-14-capital-expenditure"
+royalRoadId: "3432231"
+---
+
+Commander Ashlan crossed his arms. Growling, he motioned irritably at his second. "Another delay. I knew the pitch would be heavy, but I didn't expect it to be this bad."
+
+Before him, soldiers were gently lowering pitch loads from incline to incline. The pass was meant for light travel and trade, but it was not designed for the weight of siege equipment.
+
+The wind bellowed in sharp gusts, whistling along the mountainside. The men's breath came in white puffs, and more than a few had wrapped rags around their hands to keep the cold from locking their fingers around ropes. Below the cliffside path, a long drop into gray nothing stretched down until it was covered by fog. Above, near the same with clouds.
+
+"You'd think someone back home would start making those vats smaller. Remind me to make one of those boys come with us next time, Elson."
+
+"I'll do that, sir. Though I'm not sure they could have helped with this wind."
+
+"Or the half dozen lost horses," muttered Ashlan. He pulled his fur cloak tighter around his shoulders, fighting to keep any real discomfort from the chill of The Spine off his face. If the men could bear it, so could he.
+
+"How far out would you say we are, lieutenant?"
+
+"I'd say half a week. Assuming no further delays."
+
+"Good. I want two of our men sent ahead, double time. If whatever's in that forest tries to ambush us, I want to know before it does. The scouts are not to approach the tower, however. If they get caught, we may tip our hand."
+
+"Yes, sir."
+
+The commander gave Elson Bredford a hard, long look. "You sure like that locket a lot."
+
+"It's just a piece, sir."
+
+"Does this piece have any answers about Captain Breck's claims?"
+
+"None that I know of."
+
+Ashlan snorted at that. "You might try asking, lad. Let me know if the Solari says anything."
+
+Elson just gripped his amulet, not looking back, and set off to find the scouts.
+
+***
+
+Further down the column, Corporal Edward kept his head down and boots moving. One month left.
+
+The plot of land on the eastern ridge wasn't getting any closer with him standing around.
+
+Bertrum nudged his shoulder. "You smell that? On the wind. Coming from the north."
+
+Edward did smell it. Faint, but there. Iron and sulfur, carried on the same gusts that were freezing their fingers off. Pictures of that tower surrounded by sand filled his head.
+
+"Yeah. You think it's them?"
+
+"Gotta be. What else out here smells like that?"
+
+It shouldn't be this strong all the way from up here.
+
+He said nothing. Just pulled his cloak tighter and kept walking.
+
+One month.
+
+***
+
+"Good morning. Before we start today, a quick announcement. Starting tonight, Shiny..." Kairon pointed with a claw "will be in charge of distributing all feeding pit output. I know I've been doing this each night, but my plate's grown too large and, as much as I cherish meal time, I simply have too much I need to do."
+
+Wrath imps shot a glance Shiny's way, brood imps licked their fangs, and Shiny puffed his chest.
+
+"We are expecting our long awaited visitors soon. Let's ensure they get a proper demonic welcome, shall we?"
+
+A snap of the claws, and Kairon dispersed his workforce for morning duty. Vorathrex remained behind.
+
+Once the imps had left hearing distance, the big demon spoke up. "Why do that? The problem with the stone not enough?"
+
+The city lord glanced at Vorathrex, before deciding that telling him had no harm. "Where I'm from, authority never truly came from titles. It came from controlling what people need. You could be a regional realm director, and still have to answer to the local supply clerk who approved your requisitions. The trick is that this isn't direct authority. It's... more subtle."
+
+Kairon paused, bringing one claw to his lips as he continued on. "I think it'll surprise you. Shiny doesn't need the wrath imps to respect his rank. He just needs to be the one between them and dinner."
+
+"You don't think they'll just knock over what's between them and dinner?"
+
+Kairon hummed thoughtfully. "Maybe, but I don't expect so. The wrath imps will find that being rude to the imp that feeds you is a problem that solves itself."
+
+Vorathrex processed this for a moment, before shrugging and ambling off to see to the wrath imps.
+
+***
+
+Five days later, the city lord stood atop those same tower stairs. This time, he actually felt, dare he say, confident?
+
+The last week had been the best the settlement had experienced. Everything he was building, the systems he put in place, it was all paying off.
+
+The city lord descended from the tower and strode along the void black stone.
+
+Boney passed by, his crew of wrath imps single file. Each held a large stone, grabbed after their hard work from smashing the large stone paid off. Without delay, they marched to the stockpile and deposited their hauls.
+
++0.2 Stone
+
++0.2 Stone
+
++0.1 Stone
+
++0.1 Stone
+
++0.1 Stone
+
+As Kairon continued on into the red stone of the wrath district, he paused. The remaining fourteen wrath imps were in a single horizontal formation. Some held spears, others staves, and a few more had wooden replicas of much the same.
+
+He noted with interest that all had bruises on their arms, several small gashes along their bodies, and hellscape-stained skin from ankle to knee. Yet, not a one seemed all the worse for it. His methods may be crude, but Vorathrex knows how to make a warrior.
+
+"Strike!" barked Vorathrex.
+
+"Rahhh!" In unison, all fourteen wrath imps stepped forward, stabbed their weapons with one clean motion, and stepped back.
+
+"Defensive positions!" called the giant.
+
+Each soldier broke into two lines. The front warriors dropped to one knee, spear braced into the ground at an angle, point sloping to the sky. Behind, the other spearmen stood, weapons poised over the shoulder of their brethren.
+
+"Forward!"
+
+Nodding in satisfaction, the city lord moved to witness Shiny. His crew was a distance off, each imp scavenging the exposed riverbed for smooth stones. Opening their claws, Shiny either nodded or shook his head. Stones were dropped, new ones were grabbed. The bundles they were holding grew and grew.
+
+As Kairon watched, he reflected on last week's conversation with Vorathrex. After the change with Shiny controlling meal time, despite what his general thought, there had been no fights or issues. The whole process worked just like the city lord had predicted.
+
+Kairon's eyes once again looked all around him, taking in the smooth machine his city was becoming. Each cog turned at its designed pace, no two gears out of sync.
+
+Zooming his vision out, he found the expanded corruption line. Not only did it uncover more of the forest, but it was becoming a sort of treasure map in his mind. Every piece of corrupted tree meant more gold. Once they dealt with these humans, he could go back to having Shiny collect corrupted timber for the feeding pit.
+
+In fact, we might have to see about overhauling our entire harvesting operation.
+
+Transit and city infrastructure was his next priority. Assuming they survived the upcoming conflict.
+
+On that note... What do I have to work with?
+
+The city lord called up his interface:
+
+Fervor being at 53% felt like a massive achievement in itself. It was 50% when he came here. This was, as far as he could recall, the first time it was actually going up. And its effects were apparent from what he witnessed just minutes before. The imps moved quicker, trained harder, and resisted his Sovereign Eye less.
+
+In just five days they had collected over fifty stone. More than enough for the wall.
+
+I think it's time.
+
+He passed orders for all the imps to halt work for the day and to gather at the tower. Vorathrex saw the lines of brood imps filing past, and guessing the reason, had his wrath imps join in tow.
+
+The big general padded up, that perpetual frown pasted on his lips. "I'm still not convinced about this wall."
+
+The black demon grinned. "At this point, we have little choice."
+
+"Do you truly believe a wall will stop these humans?"
+
+With a mischievous glint in his eye, Kairon's smile only grew. "Do me a favor, big guy." He pointed at the tower with a claw. "Strike it as hard as you can."
+
+Vorathrex gave him a confused glance. "You want me... To break your tower?"
+
+"I want you to try."
+
+Snorting, the six-armed behemoth approached the spire. He took one swift step, just like the imps had with their spears, only this time the shaft was a fist of pure demonic muscle. It moved right at the black stone tower with an impending, unstoppable force.
+
+It connected with a resounding slam, sending hell dust billowing off the point of impact. When it cleared, the general stepped back and peered at the spot he'd hit.
+
+"You see? It wasn't even damaged at-"
+
+Before he could finish, Vorathrex's expression constricted. Six fists began pummeling the wall. Each landed with a meaty thud, creating a drumbeat. The wrath imps quieted, each staring in awe at their general.
+
+The brood imps cowered, stepping back and biting their claws nervously.
+
+Chest heaving, the demon struck and struck. A minute later, breathless and panting, he halted and stared.
+
+The wall hadn't been marked. Not one bit. In fact, it actually looked marginally cleaner due to the dust being cleared.
+
+City Lord Kairon walked up to Vorathrex and placed a claw on his shoulder. "What do you think will happen if an entire wall of the stuff surrounds us? Still think it won't be useful?"
+
+Smirking, Kairon stepped back. "Let's find out, shall we?"
+
+Kairon selected yes.
+
+A magic circle expanded from the tower, spreading until it was just as large as the entire foundation of his city. Demonic scripture glowed in a violet hue, each letter with that same harsh, angular writing.
+
+A flurry of activity whirled into motion. Brood imps that were cowering moments ago now stood. A blank expression came over their eyes, and each began grabbing the nearest stone from the stockpile.
+
+Haul after haul of rock began its transport. The speed at which they worked was, well, demonic. Once the stone was done, clawfuls of gold were grabbed and carried out.
+
+Normally Kairon would have supervised every single coin that left his vault. But currently, he was too busy spending a different kind of currency.
+
+This is the symbol that both the stockpile and spawning grounds had. Both. What could it mean?
+
+He focused with the intent honed over the last four rituals. What... are you?
+
+By his foot, one of the claws that had replaced a toe began sizzling. A trickle of orange vapor wafted off, making Kairon yelp. Even prepared, the pain was intense. Far more intense than last time. His claw felt as if it was melting. Looking down for a moment, he realized that's because it was. Gritting his teeth, Kairon bore the pain. Everything has a price. I have plenty of claws. No need to hoard them if I can get something better in exchange.
+
+A chime rang out in his mind, and a second symbol joined the first. The two ancient scripts floated in a lazy circle within his mindscape.
+
+The city lord spat, blood spilling from his lips, and grinned a wicked, toothy smile. Pleasure doing business with you.
+
+This time, when he broke the connection, he was somewhat comforted to find that Vorathrex wasn't watching him. His eyes were locked on the ritual.
+
+His brood imps were chanting, singing, and dancing. They dropped to their knees, raised their claws, and hopped to their feet. Over and over, like the rising of the sun and falling of the moon.
+
+And then it started. First one piece. Then two. Three. A forest of black stone began to rise from stark purple tears in space where demonic scripture met the city ring.
+
+Vibrations filled the city, making the ground quake enough to make the warriors teeter and nearly fall over.
+
+"This wall of yours. I thought it would protect us!" shouted Vorathrex. He had to, in order to be heard over the vibrations.
+
+Around him, the wrath imps peered with wide eyes at the proceedings. It turned out only brood imps were impacted and able to participate in the summoning rituals.
+
+"Just wait. It's all part of the process!" shouted Kairon in return.
+
+A shadow loomed inside the city, growing with each inch the new wall did. The circle of stones perfectly circled the city. One meter... Two meters... Three... Four... Five.
+
+Five meters. Kairon had been hoping for something closer to ten... Though the description did specify this was the basic version.
+
+With a clanging, the rock stopped rising. Instead, it began to thicken and darken. Purple became a deep violet, gray, and then black. The barrier seemed to drink in the sun. Outside, the sunlight pushed against the walls. Behind, shadow was spat out. The hellscape... Is it reaching for the wall? No. That must just be the wind.
+
+The whole process was like watching a giant building set. On all four points, a sort of gateway was morphed into the architecture. Instinctively, Kairon knew he could allow the stone doors to open or close with Sovereign Eye.
+
+As the world stilled, the city lord looked outwards. The sight was... startling. For the last three weeks, Kairon had grown used to seeing a line of corrupted forest, with trees and mountains in the distance. Now, all he saw was black. Only the peaks of the largest trees and tallest mountain tops in the distance remained.
+
+The walls were several meters thick, and despite having four gates, sported only two stone staircases on the interior side to climb them. A group of very curious wrath imps trailing behind, Kairon took the new stairs two at a time until he arrived at the top of the wall. He placed his claws on his hips and turned, giving Vorathrex a wink.
+
+"Not quite as tall as I might have hoped, but you have to admit the sight is still very impressive."
+
+The big demon snorted. "We will see. Can I return to training?"
+
+"Actually, yes. Only this time, I'll be the instructor."

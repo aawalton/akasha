@@ -1,0 +1,257 @@
+---
+id: 135cd10a-62ec-5728-91f1-3b019e1c0bd6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30"
+slug: 0030-chapter-30
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 30
+ownLength: 1654
+unit: words
+ownProgress: 1654
+publishedAt: 2023-02-16
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1115305/chapter-30"
+royalRoadId: "1115305"
+markedReadAt: "2026-06-29T20:32:49.725Z"
+---
+
+The mutant cyclops was less than 50m away from me now. It had its club raised and its eye locked on me.
+
+It was much faster than the normal monsters I faced earlier today. I definitely had to come up with a new battle plan.
+
+"RUUUUUAAAAAA!"
+
+It wasn't slowing down one bit.
+
+The monster was less than 20m away now. It's time to move. I decided to match its movements and sprinted towards the oncoming beast.
+
+When I was about 5m away I made a sharp left turn and narrowly avoided the massive club. I could feel the strong wind against my face. It was an impressive swing.
+
+I turned to face the monster as it charged passed me. I tried to catch it off guard but to my surprise it was already turning to face me as well. Cheap tricks are not going to work.
+
+We glared at each other and both lunged in to make another attack. It's club was so massive, almost 3m long. I couldn't get anywhere near the beast, it had perfect defense.
+
+I had to dodge again, there's nothing else I can do. The familiar wind of the club's swing hit my face. I was getting a bit frustrated. I can't afford to get hit by this mutant, its attack is definitely stronger than my previous opponents.
+
+We faced each of again. Both of us were standing close by the flowing stream on flat ground. The valley's upward hill was to my left.
+
+As we charged towards each other this time, I decided to dodge early and run up the side of the incline.
+
+The beast skidded to a halt and changed directions to follow me up the hill. Thankfully it's lack of agility gave me a small head start.
+
+I ran up the valley's edge as the massive cyclops followed.
+
+Once I got enough distance I turned to face it and ignited my entire body into flames. My grip tightened around the fiery sword and I took a deep breath.
+
+I sprinted forward and jumped in the air with all my strength. The cyclops was still bellowing towards me from below with its club raised.
+
+As I jumped down the valley I raised my sword for an attack. I was aiming to fly over the entire monster and land behind it for a chance to strike.
+
+That was my plan anyways...
+
+The monster let out a roar and raised its club high into the air.
+
+"RUUUUUUAAAARRRR!"
+
+"THUDDD."
+
+The club hit me like a brick wall. At the last moment I did my best to block some of the spikes with the flat side of my own blade, but it didn't help much.
+
+I was sent flying backwards behind the beast hitting the rocky ground just meters from the water's edge.
+
+If I had just jumped 1 meter higher... or maybe just one second sooner... I could have-
+
+"RUAAAAAARRRR!"
+
+The monster gave me no time to think.
+
+I spat out dirt and blood while readying my sword. I looked up to see the quickly approaching mutant cyclops.
+
+I have to try again.
+
+The beast kept charging, and I kept waiting.
+
+When we were no more than 5 meters apart I used all of my speed and agility to sprint and twist away from the massive incoming club.
+
+Without looking back I ran full force up the side of the valley. I heard water splashing behind me.
+
+As I ran about 15m up the hill I turned to face the monster. I expected it to be close behind and starting its charge. What I saw brought a wide grin to my face.
+
+The monster overstepped its last attack on me and ran into the stream.
+
+It took a few extra seconds for the monster to recover and turn. It was just starting its charge up the valley now.
+
+I smirked and ignited into flames again. This time I had an advantage. I was moving much faster, and had more time to position my airborne attack.
+
+I waited longer to jump and focused more force on getting higher up rather than farther this time.
+
+The cyclops let out a roar as it made its attempt to smack me down with a swing of its club.
+
+It missed. My plan worked.
+
+I landed directly behind the monster and planted my right foot to jump up towards its head.
+
+The cyclops had already come to a halt and was trying to turn around.
+
+I focused all the fire I could into the tip of my blade and pierced the back for the monster's head. I let out a cry as I released as much fire as I could into the beast.
+
+"TAKE THISSSS!!!"
+
+"RUAAAAAAARRR!"
+
+It thrashed around for a few seconds as I repeatedly stabbed it and released fire into the beast's body.
+
+It couldn't shake me off.
+
+The mutant decided to swing its own club at the back of its head aiming to crush me.
+
+My eyes went wide and I jumped back ripping the fiery blade from its flesh. I fell to the ground as the beast bashed its own head in with its club.
+
+I ran back towards the river. It's better that I get to flat ground now, this thing is mad.
+
+"THUDDDD."
+
+"THUDDDD."
+
+"THUDDDD."
+
+"RUUUUAAAAAAAARRR!"
+
+To my surprise the mutant was still standing. It was slowly walking towards me with steady loud stomps.
+
+Its head was caved in from the direct swing of its own club and the backside was still on fire due to the leftover magic residue.
+
+Its eye was bleeding and cloudy, but it still stood tall ready to continue our battle to the death.
+
+I have to give it credit, this monster is a tough one.
+
+I was breathing heavy and bleeding all over as well. I couldn't help but to grin a little bit.
+
+The beast ran towards me, but not in a straight line. There was something off...
+
+It can't see...
+
+The beast was swinging its club and blindly attacking where I was last standing.
+
+I nodded slowly realizing the situation.
+
+A well fought battle indeed. Without the valley's geographical advantage I would have never won. Thanks to my surroundings I've defeated this monster.
+
+With a swift fiery maneuver I ran up the valley's incline again without the cyclops even noticing me.
+
+I focused every last bit of fire I had into the blade and jumped at the monsters backside.
+
+I pierced the same spot in the back of its head and let my fire burn bright.
+
+With this silent strike the monster fell to its knees, then its head fell to the rocky floor.
+
+"I win."
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+____________________
+
+Name: Jay Soju
+
+Level: 133
+
+Hp: 115/670
+
+Mp: 85/670
+
+Strength: 321 [+50]
+
+Speed: 380
+
+Agility: 397
+
+Defense: 289
+
+Mental Strength: 321 [+64]
+
+Skills:
+
+Absorption
+
+Swordsmanship
+
+Combat Magic [Fire Summoning]
+
+Inspect [Special Grade]
+
+Enemy Detection
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]
+
+Golden Wolf Ring [+20% Mental Strength]
+
+_____________________
+
+I dropped to my knees next to the fallen monster as well. I was out of breath, it landed a really solid hit on me. Another one of those and I'd be a goner.
+
+I chugged an MP and an HP potion as the monster disappeared and a large mana crystal dropped. Now I only have 3 MP and 2 HP left. That's enough for a few more fights.
+
+I grinned as my stats were almost fully restored.
+
+My HP rose to 615/670 and my MP to 585/670.
+
+I decided to walked up the valley's incline to get to higher ground and scope out where I wanted to travel to next.
+
+As I walked up I could feel the heavy air getting even worse. My body was tingling a bit. What's going on? It feels like there's magic in the air... and it doesn't feel good.
+
+I made it to the top and stepped onto flatter ground.
+
+"THUDDDD."
+
+"THUDDDD."
+
+"THUDDDD."
+
+My eyes went wide....
+
+Staring me down holding a massive spiked club was another mutant cyclops. It stood there menacingly.
+
+In the near distance behind it I could see a normal cyclops approaching as well.
+
+This is not good.
+
+I activated my inspect skill and decided to turn on my enemy detection as well.
+
+My heart skipped a beat.
+
+Right in front of me I saw the two beasts.
+
+[Lv. 146]
+
+[Lv. 128]
+
+I could sense many more as well. There were close to a dozen similar sized monsters within a kilometer of me.
+
+There were too many to face at once on flat ground. I need to pick my battles wisely.
+
+One overpowered monster is enough to handle, I can outsmart it. 12 at the same time is a completely different story, I'm not that strong.
+
+I made a furious dash back towards the direction I'd came. If I ran full speed I could make it back to the dungeon's exit and get to safe ground outside to rethink a battle plan. This dungeon is more dangerous that I imagined.
+
+Without another thought I ran as fast as my legs could take me.
+
+I sprinted down into the valley and followed the river without turning my head to look back.
+
+The winding river was a perfect place to avoid these monsters for the time being. They have impressive speed, but the tight turns in this valley limits their movements.
+
+I ran into two normal cyclopses on the way back, but easily avoided their attacks and continued my sprint. After facing that mutant cyclops these regular ones didn't seem as threatening.
+
+About 15 minutes later I came to a very familiar rock formation. This is right by the dungeon's start point. I ran up the valley's edge and made it to the mountain where I'd entered.
+
+What I saw took my breath away...
+
+There was a dark blood red spinning portal.
+
+This is a dungeon break...

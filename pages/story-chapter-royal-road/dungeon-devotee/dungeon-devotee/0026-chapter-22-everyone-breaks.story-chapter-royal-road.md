@@ -1,0 +1,635 @@
+---
+id: 00e49308-f121-58c0-9c8e-97b79e410250
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22: Everyone Breaks"
+slug: 0026-chapter-22-everyone-breaks
+partOf: dungeon-devotee
+position: 26
+ownLength: 7301
+unit: words
+ownProgress: 7301
+publishedAt: 2023-07-02
+link: "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1264368/chapter-22-everyone-breaks"
+royalRoadId: "1264368"
+markedReadAt: "2026-06-29T22:39:56.391Z"
+---
+
+A chime rang out the moment Edmund left the darkness between levels.  No loot chest appeared, no new Aspect became available, but the wooden door across the empty room swung open.
+
+Coarse sand crunched beneath his boots, a layer of the stuff coating every inch of the stone floor just thick enough to reduce traction and inflict a nasty scrape should he fall on bare skin.  At least it wouldn’t grow slick once blood began to spill.
+
+The level itself—and Edmund took it to be the level in its entirety—contained only the single, square room, fifty feet across.  No traps, no monsters, no obstacles cluttered the space.  No decorations beyond the sparse torches spitting their black smoke hung upon the walls.
+
+The first curiosity to draw Edmund’s interest was the entrance itself.  Rather than at the middle, Edmund found himself at the far right side of the room, nearly within arm’s length of the side wall.  The exit similarly sat to the side, leaving the entire chamber to stretch out to the left of the straightest path through.
+
+Built into the cobblestone wall just next to the exit, Edmund spotted a vertical lever in the up position.  It begged to be pulled, but itself offered no explanation as to its purpose.  For that, he’d need to look at the wall.
+
+Massive letters lay scrawled in black ink upon the right wall, large and many enough that Edmund couldn’t read them from the corner in which he stood.  He grumbled at the idea, wondering if Liam had purposefully placed the entrance so close to the wall in order to force delvers away from the safety of the entryway.
+
+The theory made sense until Edmund remembered the chime.  By the accords, Liam couldn’t fake that.  Legally, the level was clear.  No new threats could present themselves.
+
+Edmund still raised his shield and grasped his spear as he progressed with caution across the empty floor.  He found no pressure plates, no shifting shadows, no movement in the hanging smoke.  The further he stepped, the more the level appeared to be exactly what it seemed.  The very thought raised the hairs on the back of Edmund’s neck.
+
+It took twenty minutes at his glacially cautious pace to make it the dozen steps into the room he needed to get a good look at the message on the wall.  The further he read, the more his immediate paranoia shrank and the more his long term trepidation grew.
+
+Welcome, Delvers!
+
+This floor works a bit differently than those you’ve conquered previously.  You may have already noticed that no monsters stand between you and the open exit.  Neither does any loot.  You’ll have to earn that.
+
+The rules are simple.  Pull the lever by the exit to summon a wave of monsters.  You’ll have to clear at least one to satisfy the universe’s requirements for a new Aspect.  You’ll have to clear more than your opponents to satisfy this floor’s requirements for loot.
+
+The value of the loot doesn’t increase with the total number of waves cleared, but the total value remains equal to what would’ve dropped for your teams combined.  The only difference is in who gets it.
+
+Each wave will be stronger than the last, balanced, as per the accords, for differences in party size.  The team to clear the fewest waves forfeits their loot.  The winner takes it all.  To stop you from trying to stall each other out, all loot will be delivered to the winning team wherever they may be.
+
+Before your little scheming minds get ahead of themselves, assume whatever you’re plotting won’t work out the way you want it to.  No agreeing to split the loot.  No flipping a coin.  No ties.  Bribery, blackmail, and extortion are all, of course, encouraged.
+
+May the best team win.
+
+Edmund thumbed the silver ring on his finger, ready to send his one daily message to Amelia then and there on the assumption she’d be his opponent.  Liam had forced them to work together enough times already.  It made sense he’d force them to oppose next.
+
+Instead, the right wall faded away, leaving the painted text hanging in midair as it revealed the mirror to Edmund’s room behind it.  Staring in from the other side was no lone princess, but a full group of five armed and armored adventurers.
+
+“Edmund!” a four-foot-six blonde with a bandolier of knives cheered at him.  “You look terrifying as always!”
+
+A bespectacled man in blue robes rubbed at the bridge of his nose.  “Great.  Call him frightening.  Excellent way to start negotiations.”
+
+“Oh, come off it, Chris,” a thin man with a mace argued.  “She’s being nice.”
+
+“And being nice isn’t…”  Chris—Christopher to Edmund’s memory—sighed.  “Forget it.”
+
+Edmund opted not to dig into whatever conflict had just bubbled up.  “Dragon’s Claws!” he greeted the team he’d shared a drink with back on the fifteenth floor.  “I was wondering when we’d run into each other again.”
+
+“I wasn’t!” Elya, their bulky tank chimed.  “Don’t need the kind of attention you’ve got.”
+
+Christopher nodded.  “The whole kingdom’s after you for kidnapping the princess.  Better we’re not seen together.”
+
+“I won’t tell if you won’t,” Edmund offered.
+
+The short knife-wielder—Edmund was pretty sure her name was Leah but didn’t want to risk using it in case it wasn’t—grinned.  “So how’d you escape the guards so long?  They’re down here in force looking for you.  And where’s that princess anyway?”
+
+“Amelia and I work better alone.”
+
+“I know the feeling,” Christopher muttered.
+
+Edmund scowled at the comment under his helmet, but didn’t reply.  “As for the guards…”  He shrugged.  “Haven’t seen any.”  The thought rang alarm bells in his head, but he didn’t want to alert the Dragon’s Claws.  Why hadn’t he seen any guards?  The Claws would assume luck, but Edmund knew there could only be one real answer.
+
+Liam was protecting him, probably both him and Amelia.
+
+Edmund sighed.  He didn’t have time to unravel Liam’s machinations, not with the Dragon’s Claws looking on.
+
+Their fifth and final member, a tall, mute woman with a crossbow that seemed to be made of glass, waved at him.
+
+Edmund waved back.
+
+“So,” the cleric, Ron, began, “how do we want to do this?”
+
+“We’re going to split the loot,” Leah, the roguish pipsqueak, declared.
+
+Elya gestured up to the wall between them, clearly reading text facing them rather than that Edmund saw.  “It says right there we can’t do that.”
+
+“And you’re going to do what some words on the wall tell you?”
+
+“Down here?” Elya asked.  “Yes.”
+
+“It won’t work,” Edmund said, raising his voice to get a word in.  “If we agree to split the loot we’ll never see each other again.  The dungeon will make sure of that.  We need to follow those rules to the letter.”
+
+“It’d make the most sense to agree beforehand who should win,” Christopher reasoned.  “That way we fight at most two waves, minimizing risk all around.”
+
+“It should be us,” Elya said with no uncertainty.  “More fair to split six peoples’ loot five ways rather than one.  Wall says we can’t share the loot, but it endorses bribery.  We’ll pay you one share’s worth at the next hub.”
+
+“Assuming I can take your word for it,” Edmund countered, “I’m not one sixth of the completion here.  I count two rooms.”
+
+“But there’s six of—”
+
+“He’s right,” Christopher interrupted her.  “If we assume he’s got a fifty percent chance of winning, his expected value is half the loot.”
+
+Leah scowled.  “Expected value my ass.  Elya’s right.  He’s one sixth of our total, his share is one sixth of the loot.”
+
+Edmund didn’t exactly know what expected value was, but he placed his odds of winning well above fifty percent.  The more the Dragon’s Claws bickered, the higher his estimation went.  “I’m going to fight more than two waves,” he stated plainly.  “Competition aside, I want the practice.  I want to test myself.  You clearly aren’t interested in bribing me high enough to walk, and blackmail or extortion will hardly work.  I’ve already got the entire kingdom after me.”
+
+Elya reached for her weapon.  “You’d rather the entire kingdom and the Dragon’s Claws?”
+
+Edmund shrugged.  “Are you interested in making an enemy of me after I’ve won six times my usual loot?  If I beat you here, doesn’t that prove I’m the deadlier foe?”
+
+The massive tank scowled but didn’t reply.
+
+Myra grunted and flashed a series of hand signals at Christopher.
+
+The mage sighed.  “She’s right; we’re talking in circles.”  He looked up at Edmund.  “Is there any way we could convince you to let us win?”
+
+Edmund shook his head.  The opportunity for such a massive influx of loot was too good to pass up, and even without it he’d go for several waves.  It’d been far too long since he’d had a good training session, and he had a lot of abilities to work into his fighting style.  Thrax, he still didn’t know what Brutalize did.
+
+Christopher let out a breath and turned to his party.  “And I take it none of you are interested in  giving six peoples’ worth of loot to one person?”
+
+Nobody answered.
+
+He sighed again.  “That’s what I thought.  I guess we might as well fight the first wave and see what we’re up against.”
+
+“Don’t assume different waves will include the same monster,” Ron warned.
+
+“I wasn’t, I was—”  Christopher let out an exasperated breath.  “Nevermind.  We have to fight the first wave anyway, so let’s get it over with.”
+
+Edmund collected his own thoughts as the Dragon’s Claws decided on their battle plan.  He wondered if the opposing team actually were on the other side of that wall, or stood somewhere else entirely.  The wall had originally been stone, and the painted text remained there.  When he placed a hand on it, it felt solid as ever.
+
+His smoke made the most compelling argument, coating his room in a deep haze while leaving theirs free and clear.  That it remained meant The Recluse still considered him alone, good news for Edmund’s ability to win the floor.  On the other hand, he had no real way to confirm the Dragon’s Claws were even on the same floor.  For all he knew, he was talking to a bit of illusion magic.
+
+Edmund dismissed that possibility within seconds.  Liam would never give up the opportunity to turn delvers against each other, and he’d picked the perfect set.  Edmund would never pass up the opportunity for good practice, and a full group of five prone to infighting would never concede outright.
+
+There lay the danger.  Liam was counting on their stubbornness to get them to take risks they wouldn’t otherwise take.  Edmund thought it just might work.
+
+He’d have to end it quickly.  Maybe, with a great enough show of force, he could demoralize the Dragon’s Claws enough to elicit a concession.  It was a long shot, but the best idea Edmund had to get the Claws out without getting hurt.
+
+“We go one at a time,” Edmund said.  “Watch each other fight while we rest up between waves.”  A show of force would accomplish little if nobody saw it.
+
+“We’ll go first,” Elya declared.  Edmund didn’t argue.
+
+The group arranged themselves the corner closest to the lever, with Elya front and center flanked by Ron and Leah.  On the Elya’s signal, Myra pulled the lever.
+
+The entrance and exit on their side slammed shut.  A circle of yellow light appeared at the center of the ceiling, shining down in a brilliant pillar onto the sand-coated floor.  Through it descended six humanoid figures covered head to toe in resplendent plate with gold trim.
+
+Three bore kite shields and great hammers with a glimmering diamond at their center.  Two carried massive longbows that seemed to be crafted from sunlight itself.  The last held a scepter, gilded and topped with a jeweled crown.  Each of them stood nearly ten feet tall, and from their backs sprouted wings of golden light, none broad enough to physically support flight, but Edmund imagined they magically supported flight quite well.
+
+Just as he began to consider that these beings didn’t seem particularly monstrous, the shield bearer closest to the Dragon’s Claws shouted, “The unholy shall be purged!”
+
+“Fire!” Elya shouted.
+
+A flurry of stiletto sharp icicles eerily similar to Edmund’s Blood Bolt rocketed through the air for the leftmost archer.  A clear glass bolt grew to the size of a javelin as it shot for the rightmost.  Both strikes blew clean through their targets’ solid plate cuirass, flesh, bone, organ, and cuirass again.
+
+Only as the scepter wielder collapsed alongside the archers did Edmund notice the knife sticking through the slot in its helmet.  He hadn’t even seen Leah throw the thing, hadn’t noticed its flight through the air.  It’d simply… appeared embedded in the paladin’s eye.
+
+The three shield bearers charged, hammers raised.
+
+Elya met them with Ron at her side.
+
+The former raised two shields, one a great tower with intricate silver trimming, the other a simple buckler with a small central spike that seemed to set the air around it aglow.  Each caught the swing of a war hammer.  Each knocked their attacker back.
+
+Ron caught the final foe with an empty palm from which sprang a dome of silver light to match his opponents’ gold.  Rather than bouncing off, the hammer strike stuck to the cleric’s barrier, offering him the chance to counter with a swing of his mace.  The blow didn’t strike true, but it diverted the zealot’s shield long enough for Myra to get a shot through.
+
+The monster hit the sand.
+
+Neither Christopher nor Leah rested on their laurels, both finding opportunity in the foes Elya had recoiled.  The former summoned a block of ice around the leftmost paladin’s foot, forcing it to stumble awkwardly to the side.  The sudden shift in motion saved it from a knife that appeared in the air where its throat would’ve otherwise been.
+
+“Damnit Chris!” Leah cursed.  “I had him!”
+
+“I had him,” Christopher growled back.
+
+“Leah left, Chris right,” Elya barked, raising her shields to catch another round of hammer swings.  She grunted with the effort.
+
+Leah darted in, slipping under the left paladin’s guard as he tore free from the ice around his foot.  She buried a knife in the seam between its cuirass and chausses, but rather than stopping there, she used the hilt of the blade as an anchor point to spin around and up the thing’s back to plant a second blade in its throat.  The entire attack came in a single, practiced motion that she completed in under two seconds.
+
+Christopher needed four.  With whatever spell he’d opened with still on cooldown, he needed two castings to down the final foe.  The first supercooled the air around its left elbow, freezing the moisture in its flesh sufficiently to kill the thing’s shield arm.  He didn’t bother waiting for the shield to lower or the limb to fail, simply taking advantage of its immediate paralysis to sneak a wire-thin spike of clear ice through the eye hole of his foe’s helmet.  Its arm broke off as it hit the ground.
+
+Edmund applauded politely.  Even with the moment’s miscommunication, they’d won the fight quickly and safely.  Half the enemies never even managed to get an attack off, and those that had were easily deflected.  Though the cracks may’ve shown in the Dragon’s Claws’ cohesion, said cracks were thin and harmless thus far.
+
+“Alright, mister scary loner,” Leah shouted at him as she recovered her knives from the sandy floor.  “Your turn!”
+
+Edmund pulled his own lever.
+
+Of all his myriad tricks, Edmund knew well which would seem the most impressive.  It was a technique he’d used once and only once, back on the fourteenth floor against a man who’d tried to rob him.  His Madness then had fed upon the paranoia enchantment that’d pervaded that floor, but it had grown in the levels since, enough so that Edmund dared wield it again.
+
+Only a single foe descended through the pillar of light, one bearing the same hammer and shield as those the others had fought.  Now in the same room, the smoke finally offered a name.
+
+Dawnsworn Crusader
+
+For a moment, Edmund wondered about his challenger’s mark.  It didn’t seem fair that he should fight more powerful opponents than his competitors, especially when they competed for the same pool of loot.  Edmund thought it right that his mark didn’t activate.
+
+It didn’t.
+
+Edmund let that concern fall away in favor of the next.  He focused his attention on the smoke that hung in the air, on how odd it was that it so dried his eyes and parched his throat without affecting those around him.  He envisioned Madness as its prismatic star at the center of his constellation, shining its every-color light through the dark behind his eyelids.
+
+Edmund called, and the smoke answered.
+
+“The unholy shall be pu—”
+
+The crusader coughed.
+
+It coughed again.
+
+And again.
+
+Its breath came slower, raspier as it gasped for air.  It found only smoke.
+
+The crusader never finished its battle cry, never raised its war hammer, never even took a step.  Edmund looked on as it clawed at its throat, as the golden portal closed behind it and the pillar of light faded away to leave it in the same shadows as he.  Once it fell to its knees, he turned.
+
+Edmund clasped his hands behind his back as he faced the Dragon’s Claws, standing in silent stillness as he gazed into the opposite room, not even bothering to watch as his foe choked to death on smoke only he and it could see.  To their eyes, he’d done nothing.  To their eyes, the crusader had simply died.
+
+The Dragon’s Claws didn’t applaud.  Most just stood and stared, seemingly mute as Myra.  Leah covered her hanging jaw with a hand.  Christopher squinted.  Ron paled.
+
+The dungeon had long reclaimed the crusader’s corpse before Elya broke the silence.
+
+“What the fuck was that?”
+
+Edmund gestured with an upturned palm.  “I believe it’s your turn.”
+
+The Claws didn’t move.
+
+Edmund’s eyes glinted with pride beneath his helmet.  Message received.  He realized as he flit his gaze about the room that he wouldn’t be repeating that trick any time soon.  The smoky haze had diminished considerably, clearing the air and weakening his most important Aspect.
+
+It would need time to return.
+
+Still, his show of force seemed to have landed as the Claws whispered sharp words of confusion and concern.  It didn’t stop them, but perhaps it’d give them pause when pause was needed.
+
+On Elya’s signal, Myra pulled the lever again.  Seven foes descended this time.  The Claws dispatched them with ease.
+
+Rather than two crusaders, Edmund’s next wave confronted him with a single one that stood yet a foot taller and wielded a massive greatsword that shone like a star from a point on its tip.  He slipped past its superior reach by wrapping a Smoke Lash around its wrist and yanking its guard open.
+
+Its life-force fed the fingers of the Crimson Hand.
+
+Back and forth and back and forth the parties went, trading waves and showing off with lethal efficiency.  By the third round, Edmund noticed the Dragon’s Claws were having fun.  By the fifth, he realized he was too.
+
+“Pow!  Right in the face!”
+
+“Show ‘em who’s boss!”
+
+“Brutalize the fucker!”
+
+They traded jabs and cheers in friendly rivalry as they blazed through wave after wave.  Edmund reveled in the exercise.
+
+Brutalize, a favorite of Elya’s judging by her exclamations, proved remarkably effective for a Tier one ability.  The skill offered no damage outright, but when activated just prior to a killing blow, it evoked enough carnage to bring all surviving enemies to flinch, buying precious seconds to reposition or follow-up.  For that, it earned a spot in Edmund’s opening salvo.
+
+By the ninth round he’d stopped experimenting and fallen into a routine.  The six crusaders it presented him represented the same party make up as the Claws’ first wave, a significantly greater challenge for a lone delver.  Edmund had yet to quite find himself in danger, but he found himself working harder and harder to keep up his dominant victories.
+
+He’d long crafted his battle plan by the time the six crusaders made landfall.
+
+Edmund Challenged the lone scepter wielder, singling out the dawnsworn he’d learned—to his earlier annoyance—to be a healer.  The ability only bought him a dozen seconds, but that was enough for a Smoke Lash to knock aside the healer’s guard to let through his next attack.
+
+A single Firebolt, enhanced with Brutalize, its damage doubled by Focus for its single target and again by The Tactician for Edmund’s strategizing, melted the crusader’s helmet into the flesh of its face.  Foul-smelling smoke rose into the air as skin singed, hair burned, and eyes boiled.  The crusader went down screaming horrific agony.
+
+Two of its fellows retched.
+
+Edmund didn’t hesitate.  He marked one of the archers his next Target and dashed towards it, spending both windsteps to vault over the dazed shield bearers and slam the right of the two tips of his disassembled hyper-magnetic spear into its eye.
+
+He kicked off the archer’s corpse before it had a chance to fall, directing the shift in momentum to launch himself into the second archer.  He swung his other spear tip at it.  The strike flew less accurately thanks to the chaotic movement, but Rend scored deep into the crusader’s chest all the same.
+
+By the time they recovered from the shock of his Brutalize, only the three shield bearers still lived.
+
+Edmund danced back, building distance the melee crusaders would have to cross.  As was their nature, they charged in with a fury, eager to purge the nonbeliever and avenge their fallen allies.
+
+Edmund was ready.
+
+The near-identical crusaders ran in lockstep towards him, a vulnerability he’d seen Christopher punish three waves ago before copying the strategy himself.
+
+With a great boom the earth opened its maw, a jagged crack appearing perpendicular to the shield bearers’ charge at the perfect time and place.  Three wails of agonized rage echoed through the chamber as three front feet landed not on solid ground, but into the hungry jaws of the Magma Fissure.  As one the crusaders stumbled forward, catching themselves on the base of their shields as they frantically scrambled to escape the molten rock.
+
+Edmund ran in.
+
+His mana all but expended, he forewent his area of effect Firestorm to instead dispatch the zealots in melee range.  With his shield arm he batted limply held hammers aside and jammed the pointed fingers of the Crimson Hand into the eye slots of golden helms and drank of the life force within.  He only managed two such executions before the final crusader managed to escape the Magma Fissure and stabilize himself on one knee, flapping mightily with its golden wings and righting its shield to defend itself from Edmund’s advance.
+
+Edmund Broke Through.
+
+The force of the Tier five ability bowled the injured crusader over, leaving the gap between its helmet and its cuirass an open target for the Crimson Hand.  For lack of injuries to be healed, Edmund took the opportunity to further charge his Blood bolt.
+
+“Woo!  Let’s go Edmund!” Leah jumped and cheered as Edmund caught his breath.
+
+Myra applauded enthusiastically.  Ron clapped politely.  Christopher let out an annoyed sigh.
+
+Edmund waved at them sheepishly.
+
+“Alright.”  Elya clapped her hands together.  “Round ten?”
+
+“Shouldn’t we take a break?” Ron asked, scratching the back of his head.  “That last wave was pretty rough.”
+
+“We can handle it,” Christopher assured him.  “No way I’m letting some underleveled kid outfight us.”
+
+Edmund grit his teeth at that.  The mage wasn’t entirely wrong, Edmund was by all counts a bit young and certainly underleveled for the Eternal Depths, especially as a solo delver, but he was far from just some kid.
+
+The insult bothered him less than the emotions behind it.  Christopher clearly felt like he needed to prove something for some reason, both to Edmund and to Ron.  Edmund couldn’t quite fathom why, but reasoning aside, that kind of comment didn’t lead towards well-considered decisions.
+
+Worse yet, none among the Dragon’s Claws argued the point.  One by one they nodded their assent, their jaws set with determination as they raised their weapons and repositioned for battle.  Myra pulled the lever.
+
+Thirteen crusaders descended through the pillar of light, two healers, four archers, four shield bearers, and three of the giants wielding zweihanders.
+
+The Claws set to work, successfully weaving their ranged attacks past the frontlines to take out the healers first.  By virtue of their numbers, Christopher, Myra, and Leah combined could only eliminate a single archer before the crusaders fired back.  Elya caught a golden arrow on each of her shields.
+
+She caught the third arrow in her left thigh.
+
+Elya grunted in pain and stumbled slightly but kept her footing, well accustomed to such injuries.  The Claws’ second volley took out the archers as the seven melee zealots made their approach.
+
+No longer able to rest comfortably behind her frontline, Leah darted out, dodging around a great sword and a warhammer at once.  She didn’t bother attempting to strike, simply distracting those melees Elya and Ron couldn’t handle while Myra and Christopher did their work.
+
+By the time the last of the tenth wave had fallen, Elya had two broken bones in her right arm and an arrow through her thigh.  Ron had a shattered wrist.  Leah’s left pinky lay bloody on the ground, the victim of a narrowly dodged great sword swing.  Ron reattached it with healing silver light.
+
+“Okay,” Leah said as she rubbed at her new scar, “that might be it for us.”
+
+“Don’t be a quitter,” Christopher snapped.
+
+Ron rounded on him.  “She almost lost her hand!”
+
+“But she didn’t,” Christopher growled.  “We’ve taken wounds before and we’ve kept fighting before.  We’ve had closer calls.  We can handle one more wave.”
+
+Myra nodded.
+
+“I’m with Chris,” Elya said.  “But let’s not get ahead of ourselves.”  She turned to Edmund.  “Your turn.”
+
+Edmund scowled.  Christopher was going to get them all killed.  He contemplated giving up then and there, allowing the Claws to win just to stop them from taking on a fight they couldn’t handle, but his competitive tendencies rebelled against the idea.  He could really use the extra loot, and surrendering it because he didn’t trust Christopher’s judgment irked him.
+
+The Dragon’s Claws would have to take care of themselves.
+
+Edmund nodded his head and stepped towards his lever, crafting a new battle plan to at last make use of the Aspect he’d earned for clearing the first wave, the confluence of Wrath and The Breach.
+
+Tier 6 Aspect: The Reckless - Tin+ Resonance
+
+Level 1 - Provides access to the Reckless Charge active ability.
+
+Even if Edmund discounted the vast slew of upgrades his other Aspects had undergone thanks to the new confluence, from his limited testing thus far, he knew The Reckless to be a force unto itself.  Reckless Charge required he expose himself to counterattack, but its cooldown reset and its damage increased whenever he downed an opponent as long as he used it again within a few seconds.
+
+As a strategy it encouraged him to keep up the attack rather than backing off to reevaluate the battlefield, a risky endeavor but one that could snowball out of control under the right circumstances.
+
+He’d find time to fully review his other level-ups later, but one particular change pulled at his attention.
+
+Tier 1 Aspect: Madness - Prismatic Resonance
+
+Level 17 - They’re watching you.
+
+Edmund wasn’t entirely sure what that meant.  Of course they were watching him.  They’d always been watching him.
+
+He pulled the lever.
+
+Rather than directly matching the Claws’ second wave, Edmund’s tenth included no shield bearers at all, the three defensive melees replaced with three imposing great sword wielders.  He’d have a field of blades between him and the all-important healers, but he’d survived a field of blades before.
+
+Edmund assembled his hyper-magnetic spear, lowered its tip, and Charged.
+
+The Reckless propelled him forward, weakening his shield arm to further expose him as he rocketed across the sandy floor for the seven zealots.  He marked the healer as his Target, readied his Brutalize, and Broke Through the frontlines, taking a great sword across the chest as he passed.  It sliced clean through his cuirass, but only managed a shallow cut beneath.
+
+It didn’t stop him.
+
+With overwhelming force he bore down upon the cleric, smashing through its breastplate like paper and exploding its chest from within.  Blood and muscle and chunks of bone burst out in a cone behind it.  The six remaining crusaders flinched.
+
+Reckless Charge reset.
+
+Edmund didn’t bother yanking his spear free, sending it the mental command to disassemble before turning and Charging again.  He sunk his fragments of the Dread Gauntlet of Kor’Ilinesh into an archer’s neck and drained it dry.
+
+Reckless Charge reset.
+
+The segments of his spear caught up to him, latching on to his arms and legs in time for him to Charge again.  Bending his right wrist to expose the spear tip past his forearm, Edmund let his momentum deliver the point to the next archer’s face and Rent it in two.
+
+Reckless Charge reset.
+
+He slammed into the final archer, wrapping a Smoke Lash around its neck and swinging around its back to face his next target even as he fired a point blank Firebolt into the eye slot of its helmet.  Only the glowing zweihanders remained.
+
+Reckless Charge reset.
+
+Reckless Charge reset.
+
+Reckless Charge reset.
+
+Edmund collapsed alongside the final crusader, falling to his knees as his body caught up with him.  Takedowns may have reset his newest ability’s cooldown, but its stamina cost remained, each activation draining him of energy.  He’d need a chance to rest and take in nutrients before he could fight again.
+
+The Dragon’s Claws gaped, either impressed at his overwhelming victory or surprised to see the mad stranger finally break a sweat.  Edmund didn’t care which.  Even panting on his knees with a long gash along his chest, the wondrous relief of victory washed over him.
+
+Until the Claws started talking.
+
+“Okay,” Christopher said, “our turn.”
+
+“I don’t know, Chris,” Leah replied.  “That last one was too close for comfort.  Maybe we should call it.”
+
+“We’re not calling shit,” Christopher snapped back.  “He struggled with that as much as we did, and he doesn’t have a healer.  The loot is ours to take.”
+
+“She’s right,” Ron said.  “It’s not worth the risk.”
+
+“Of course you take her side,” the mage grumbled.
+
+Leah stepped in.  “What’s that supposed to mean?”
+
+Christopher rounded on her.  “It means now you’ve fucked him he’s thinking with his prick instead of his gods damned brain.”
+
+The room went silent.
+
+Leah spoke at the bottom of her voice, a scant whisper that nonetheless echoed through the bloody arena.  “I’m not yours to keep, Christopher.”
+
+“And I’m not yours to boss around.”  His gaze fell upon Ron.  “Not anymore.”
+
+Thrax, she’s slept with them both, Edmund realized, the idiot.  He wondered if Liam had set this up to sow dissent in the ranks.  It seemed likely.
+
+Christopher spun to face Elya and Myra.  “You’re not backing out, are you?”
+
+Neither answered.
+
+“Good,” Christopher said.  “That’s three to two.  We’re doing this.”
+
+“I really don’t think this is a good ide—”  The words died on Leah’s lips as Christopher pulled the lever.
+
+The Claws scrambled into place as fifteen dawnsworn crusaders descended from their false heavens, far and away the greatest force they’d thus seen.
+
+True to the depth of their experience as a team, the party snapped into action, launching their opening salvo in perfect sync despite any bad blood between them.
+
+Christopher downed a vial of purple liquid immediately after his first casting, replenishing his mana or refreshing his cooldowns or something Edmund couldn’t quite figure out that allowed him to fire a second barrage of frost bolts.  Myra pulled a glass bolt that ran deep with red cracks from the quiver at her back and loaded it into her crossbow.  Unlike her others, it fractured as it flew, crimson lightning arcing along its fragments as it struck two of the dawnsworn archers.
+
+Elya bellowed at the charging force drawing their attention as Leah knocked back a potion of her own and disappeared from sight.  Ron broke a talisman in his offhand as three great swords bore down on him, grunting with exertion as his silver barrier held the crusaders at bay.
+
+One by one the Claws spent their most valuable resources on the eleventh wave.  One by one the crusaders fell.  One by one the delvers’ consumables ran dry.
+
+Leah flickered back into view.  Christopher’s barrage of ice thawed out.  Myra fell back to her normal bolts.
+
+Ron’s light faded.
+
+Elya stepped in front of him, bashing back a crusader with her shield.  The crusader bashed back, lunging with the starlit tip of its great sword right for the center of her shield.  A blinding flash of gold filled the room.
+
+Elya’s tower shield split in two.  She caught the blow on her arm, her bone holding up where her silver-trimmed shield and plate bracer had failed.  Blood flowed from the wound as the arm went limp, forcing the tank to back up and cover herself with her remaining shield.
+
+Exposing Ron to the golden arrow that pierced his left eye.
+
+He collapsed.  Blood and gray matter oozed from the back of his skull.  Nobody rushed to his side.  Nobody bothered attempting in vain to revive the dead, not while the dawnsworn still came.
+
+Leah wailed in a pitch of rage and sorrow that seemed to pierce the very smoke in Edmund’s eyes.  She shot across the room, vaulting up and onto the dawnsworn archer that had fired the deadly shot.  She plunged her knife into its face.
+
+It crumpled to the floor.  She fell upon it, stabbing through the slot in its helmet over and over again in a frenzy.  Twice did one of the remaining melee crusaders turn to her, and twice did she dispatch them with a single thrown knife before returning to her carnage.
+
+Only when the dungeon reclaimed the archer’s corpse did Leah finally stop, her knife plunging one final time into the stone floor, upon which it snapped in two.  She left it there.
+
+She turned to face Myra, Elya, and Christopher, tears and blood streaming down her face.  She spoke but two words to her surviving party members, the people she’d fought alongside for years.
+
+“We’re done.”
+
+Her broken blade in pieces upon the ground, her fallen love still bleeding into the sand, Leah turned and strode not for the exit, but for the entrance.  She stepped for one last time into the darkness between levels, and emerged to the open sky of Dungeon Square.
+
+Edmund watched as the three remaining Dragon’s Claws stood in silence over their lost comrade.  He hadn’t known Ron, not like they had, yet still a tear found its way down his cheek.  To the only one he knew would listen, Edmund muttered the words, “You broke them.  A few weeks ago they were laughing and drinking and now… you broke them.”
+
+“Everyone breaks, Edmund.”  Liam appeared at his side.  “Sometimes it takes a while to open the cracks, but everyone breaks.”
+
+“I don’t,” Edmund said under his breath.  He set his jaw.  “You won’t break me.”
+
+“Of course not.”  A sense of smug satisfaction filled Liam’s voice.  “You were broken long before you met me.  Probably something your parents did.”
+
+“My parents loved me.”
+
+“Loved,” Liam said.  “Interesting choice of tense.”
+
+“You thought someone with living parents would do what I’m doing?”
+
+“Okay, maybe not that interesting,” Liam replied.  “Adoptive parents?”
+
+“Not the ones you killed.”
+
+Liam paused and stared at Edmund, squinting with curious disbelief.  “You really are an intriguing specimen.”
+
+“Isn’t that why you keep following me around?”
+
+Liam snapped his fingers, said “Right you are,” and disappeared.
+
+Edmund exhaled and looked up to realize the Dragon’s Claws were staring at him, Ron’s corpse and belongings long gone to feed the dungeon, a reminder of precisely what Liam got from all this suffering.  Christopher in particular scowled through the invisible wall.
+
+“Well?  It’s your turn.”
+
+Edmund blinked.  He wasn’t wrong.  For all they’d lost, the Dragon’s Claws had cleared their wave.  “You’re going to keep going?”
+
+“If we didn’t, then Ron died for nothing.”
+
+Edmund looked back and forth between Elya and Myra.  “And you two are okay with this?”
+
+Elya stepped forward.  “It was my idea.”
+
+Edmund sighed.  He knew he could handle another wave.  Thrax, he practically itched to know just how many more he could clear before they became a problem.  He’d wager more than five.
+
+The Claws, on the other hand, wouldn’t survive another.  Edmund had seen it often enough wandering the streets of Harrowed’s Hearth.  They were angry.  They were mourning.  They wanted to prove it all mattered.  They’d push and they’d push until the dungeon pushed back hard enough.
+
+“You should go home,” he told them.  “Grieve.  You’ve lost two members.  You can’t keep fighting at the same level.”
+
+“The Depths will scale down for a group of three,” Christopher argued.  “The accords require it.”
+
+“You’re not a group of three.  You’re a group of five down two members.  You’re used to fighting with Leah there to take out key targets, with Ron to patch up your wounds.  Go home.”
+
+“And let you win?” Elya’s voice turned hostile.  “Yeah, don’t think we’ll take your advice on it.”
+
+“Idiots,” Edmund muttered low enough to escape their notice.  “You’re all idiots.”  He shook his head.  With two of their number gone, the loot pool had shrunk.  The accords were clear: dead men and cowards won no loot.
+
+“Well?” Elya pressed him.  “You going to take your turn or what?”
+
+Edmund swallowed.  He looked for one final time between the three of them.  He knew exactly what would happen if he cleared one more wave, exactly how many more lives Liam would claim.
+
+But could he afford to give it up?  If they wanted to suicidally keep pushing, was it his responsibility to stop them?  What if the extra loot made the difference in his mission to eliminate the Eternal Depths once and for all?  Edmund supposed he shouldn’t take that latter into account.  Willing as he was to throw his own life away for his ideals, he couldn’t justify bringing others to do the same.
+
+Given the opportunity to save three lives here and now, did he have the obligation to do so?
+
+The only thing Edmund knew for sure was that Liam could go fuck himself for putting him in this situation.  He decided if nothing else, he could choose to take no more part in it.
+
+“Congratulations,” he finally said, his voice flat and devoid of joy or sincerity.  “You win.  Now go home.”
+
+Christopher and Elya both opened their mouths to protest.  Myra flashed angry hand signals Edmund didn’t know how to interpret.  He ignored it all.
+
+With one Dragon’s Claw dead, one gone, and three still alive to yell at him as he walked away, Edmund turned, left the competition behind, and stepped into the darkness.
+
+Hivemaster Edmund Montgomery Ahab, The Crimson Hand
+
+Aspects Unlocked: 23
+
+Tier 1 Aspect: Wrath - Red Resonance
+
+Level 2 - Provides access to the Brutalize active ability.
+
+Tier 1 Aspect: War - Gray+ Resonance
+
+Level 10 - Provides a lesser increase to all damage dealt.  Provides a lesser decrease to all damage taken.
+
+Tier 1 Aspect: Elements - Gray Resonance
+
+Level 9 - Provides access to the Firebolt spell.
+
+Tier 1 Aspect: Solitude - Red Resonance
+
+Level 10 - Provides a greater increase to constitution while fighting alone.  Provides a lesser increase to celerity while fighting alone.
+
+Tier 1 Aspect: Perseverance - Gray Resonance
+
+Level 11 - Gain health regeneration.  Gain greater health regeneration outside of combat.
+
+Tier 1 Aspect: Madness - Prismatic Resonance
+
+Level 17 - They’re watching you.
+
+Tier 2 Aspect: Fervor (Madness and War) - Gold+ Resonance
+
+Level 1 - Empowers the effects of Madness and War for each consecutive second spent in battle.
+
+Tier 2 Aspect: Sorcery (Madness and Elements) - Gold Resonance
+
+Level 2 - Provides access to the Smoke Lash spell.
+
+Tier 2 Aspect: Obsession (Madness and Perseverance) - Gold Resonance.
+
+Level 4 - Gain strength and agility for each consecutive day spent pursuing your obsession.  Gain mana for each consecutive month spent pursuing your obsession.
+
+Tier 2 Aspect: The Recluse (Madness and Elements) - Gold Resonance
+
+Level 4 - Empower the effects of Madness while alone.  Lessen the effects of Madness while accompanied.
+
+Tier 2 Aspect: The Island (Solitude and Perseverance) - Gray Resonance
+
+Level 6 - Grants greater resistance to over-time effects while in groups of two or fewer.
+
+Tier 3 Aspect: Focus (Elements and Obsession) - Silver Resonance
+
+Level 2 - Doubles spell damage when attacking a single target.
+
+Tier 3 Aspect: The Challenger (War and The Recluse) - Silver+ Resonance
+
+Level 1 - Provides access to the Challenge active ability.
+
+Tier 3 Aspect: Artillery (War and Sorcery) - Silver+ Resonance
+
+Level 1 - Provides access to the Firestorm spell.
+
+Tier 3 Aspect: The Warmonger (War and Obsession) - Silver+ Resonance
+
+Level 1 - Provides a greater increase to all damage dealt and a greater decrease to all damage taken while engaged in combat you initiated.
+
+Tier 3 Aspect: The Philosopher (Elements and The Recluse) - Silver+ Resonance
+
+Level 2 - Question the concept of truth.
+
+Tier 3 Aspect: The Rift (Madness and The Island) - Gold Resonance
+
+Level 5 - Provides access to the Rend active ability.
+
+Tier 4 Aspect: The Tactician (War and The Philosopher) - Bronze+ Resonance
+
+Level 1 - Deal double damage when executing a pre-crafted battle plan.
+
+Tier 4 Aspect: The Target (War and Focus) - Bronze+ Resonance
+
+Level 1 - Allows the marking of a single enemy as the target.  The target takes increased damage from all sources.
+
+Tier 4 Aspect: The Fissure (Elements and The Rift) - Silver Resonance
+
+Level 3 - Provides access to the Magma Fissure spell.
+
+Tier 4 Aspect: Rebellion (War and The Rift) - Gold+ Resonance
+
+Level 1 - Grants resistance to mind controlling effects.  Deal bonus damage to enemies above your level.
+
+Tier 5 Aspect: The Breach (War and The Fissure) - Bronze+ Resonance
+
+Level 1 - Provides access to the Break Through active ability.
+
+Tier 6 Aspect: The Reckless (Wrath and The Breach) - Tin+ Resonance
+
+Level 1 - Provides access to the Reckless Charge active ability.
+
+Delver’s Mark of the Challenger
+
+Empowers nearby dungeon monsters.  Significantly increases the value of loot chests you open.  Slightly increases the resonance of Aspects you unlock.
+
+The Crimson Hand
+
+Grants minor resistance to piercing damage.  Bestows ownership of the Dread Gauntlet of Kor’Ilinesh.
+
+Hivemaster
+
+Grants lesser tremor sense.  Bestows the right to challenge other hivemasters for control of their hives.
+
+Trailblazer’s Sigil of the Azure Journeyman
+
+The fourth step on the Path of the Azure Fox.  Increases agility.  Grants two windsteps.  Increases positional awareness.
+
+Trailblazer bonus: Sharpens hearing.
+
+Trailblazer’s Sigil of the Rootmother
+
+Non-intelligent Strethian lifeforms will treat you as an ally.  Gain the ability to draw water and nutrients from fertile soil.
+
+Trailblazer bonus: draw water and nutrients from all soil.
+
+Sigil of the Slumbering Deep
+
+Gain greater health regeneration.  Gain immense health regeneration while sleeping.  Gain water breathing.  Gain lesser dark vision.  Gain lesser subaquatic sonar.

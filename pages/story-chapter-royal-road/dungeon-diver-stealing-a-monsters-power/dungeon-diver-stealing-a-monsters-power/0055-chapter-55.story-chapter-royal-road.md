@@ -1,0 +1,195 @@
+---
+id: bdeb10fb-ca57-5388-bad5-0f1d01a13425
+page-type-slug: story-chapter-royal-road
+title: "Chapter 55"
+slug: 0055-chapter-55
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 55
+ownLength: 1671
+unit: words
+ownProgress: 1671
+publishedAt: 2023-03-13
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1136908/chapter-55"
+royalRoadId: "1136908"
+markedReadAt: "2026-06-29T20:33:42.164Z"
+---
+
+"Hey! What do you mean you're borrowing my skill?"
+
+She giggled and turned back towards me.
+
+"It's my skill called Mimic."
+
+I squinted at her with a confused look on my face.
+
+"Okay? What exactly does it do? How's it work?"
+
+"Well, I can mimic any skill I see. I chose to mimic your fire magic, so its now my skill as well."
+
+I froze for a moment... This could be even more powerful than my skill. She can just copy any skill she sees???
+
+"Y-You can do this as much as you want? How many skills do you have?"
+
+Nessa shook her head.
+
+"No, no. It's not like that. If I choose to mimic another skill I'll lose the ability to use my previously obtained skills. I can only hold one at a time, I need to see a specific skill again to switch it back."
+
+"Okay. So you can just keep this fire magic skill until you decide to change it?"
+
+"Kind of. If I sleep or lose consciousness my saved skill disappears. I have to find something new to mimic everyday. It's a blessing and a curse. Does that make sense?"
+
+"Well... Yeah, it does. That's interesting. I've never seen a skill like that."
+
+Nessa nodded at me with a satisfied look on her face.
+
+"I haven't gotten to use fire magic in a while. I think I'll keep it for today."
+
+Hudson walked over to us.
+
+"Nice work, these were low levels but it's good to see you in action. Neat ability."
+
+We waited for the monsters to disappear and took one mana crystal each.
+
+It would be entertaining to tag along with this party today.. but is it really a good use of my time? I'll get a fraction of the exp... and barely any loot. I decided to speak up.
+
+"Hey, thanks for getting me into the dungeon today. I think it would be more efficient if we split up though. I am more of a solo hunter after all."
+
+Hudson nodded slowly.
+
+"Sure, sure. Like I said before, we'll be doing a maintenance run of the boss room in about 4 hours. If you'd like to meet us there, I'd love to have you on the raid team and see you fight seriously."
+
+I smirked and thought about it for a moment.
+
+The boss room huh? I was going to wait a few days to challenge it, but with a full team of 6 I'm sure we could defeat it easily. I'd get some good levels and insight on the boss room for when I fight it alone too. I replied.
+
+"Sure, that would be a pleasure. I'll do my daily farming and meet you all at the boss room in exactly 4 hours."
+
+Hudson grinned and put out his hand, I shook it.
+
+"Great."
+
+Nessa bobbed her head a bit and smiled at me as she spoke.
+
+"See you soon Jay!"
+
+I smiled and waved as I turned and made a quick departure deeper into the dungeon.
+
+"See ya!"
+
+I'm always awkward at goodbyes... at least we'll see each other in a few hours. The dungeon is calm today, there's no sense of any excess magic in the air. One thing did keep coming up in the back of my mind though. Nessa's skill is really similar to mine, no wonder she's leveled up so fast. Is it a unique? I'll ask her more about it later today.
+
+Over the next 3 hours or so I roamed around getting deeper and deeper in the dungeon closing in on the boss room portal.
+
+There were 6 major battles that took place during this time.
+
+The first 3 groups of Minotaur were all between level 155 and 165. Some of them were defeated in one hit. They dropped 9 large mana in total and a single axe. No levels were gained during these matches.
+
+The fourth group consisted of a level 167 and 188. This is a good sign that I was getting deeper into the dungeon. They both dropped mana, but no extra loot. I gained 1 level during this battle.
+
+The fifth matchup was 3 monsters in total. Their levels were 172, 177, and 192. The two lower levels charged in first and the leader used them as a decoy. Every group like this always uses the same strategy. It gets easier each time. They all dropped mana, and one of the lower level beasts dropped an axe. I gained 2 levels during this battle.
+
+I could tell I was nearing the end of the dungeon as my sixth battle started. There was a slight feeling of magic in the air as I approached this group. It consisted of a level 175, 199, and a 203. The lower level was easy, and the two higher levels seemed to be fighting for a chance attack me the whole time. I weaved, dodged, and blocked with body hardening over and over until I wore them down to piles of ash. It's a good thing I'm still faster and more agile than these monsters. They dropped 3 mana, and surprisingly another axe. I gained 4 levels from this fight.
+
+It's pretty easy to navigate most dungeons. The general landscape is the same for all of them. Once you spawn in through the start point all you have to do is trek 3 to 7km max straight forward to find the boss room. Some terrains are just harder to navigate than others.
+
+I've been doing a bit of a zig zag pattern to farm monsters, but I'm definitely less than a kilometer away now. The air is kind of dense, but it's nothing new. Whenever a mutant or strong monster is nearby it feels like this. It may just be what getting close to a strong D Class boss room feel like.
+
+I walked forward for another 10 minutes or so and finally got to the large hill at the back of the dungeon. It should be right around here somewhere.
+
+"Looks like you made it here early too! How'd your farming go?"
+
+I saw Hudson stand up and wave to me as the rest of the team sat under a tree eating lunch.
+
+I waved back and replied.
+
+"Not bad, the loot drops are pretty good today."
+
+Hudson nodded.
+
+"Same for us!"
+
+Nessa thew me a bottle of water.
+
+"Drink up. We're fighting the boss today. Hudson says it's no joke."
+
+I grinned with excitement and drank a good amount before putting it in my item box.
+
+"Thanks. When are we heading in?"
+
+Hudson interrupted.
+
+"It's right around this hill. About a 5 minute walk at most. We just finished fighting a pair of mutants, we're definitely close to the boss room."
+
+I turned to him with my eyes wide.
+
+"Mutants? I didn't even see one today..."
+
+"Yeah, we ran into two groups so far. They seem to be staying close by the boss room. You feel that magic in the air?"
+
+I nodded.
+
+"I do. I didn't want to mention it... you think there's going to be a break?"
+
+Hudson smirked.
+
+"Nah, there isn't nearly enough for a break. Maybe a mutant boss if we're lucky, that'll be some good levels for all of you. Once we beat it, the dungeon will calm down a bit. Nothing out of the ordinary."
+
+"Alright. You know best."
+
+Hudson turned to the rest of the team.
+
+"Ready to fight the boss? I think we've rested for long enough."
+
+They all got up and readied their combat gear. Nessa shouted.
+
+"Okay, let's go!"
+
+I drew my sword and we were off. The closer we got to the back of the dungeon the more and more eerie it felt. Hudson seemed to be calm about the situation so I didn't worry much about it either.
+
+After 5 minutes of walking there were still no monsters in sight. Hudson is about 10m ahead of us leading the way up a small section of hill. He yelled down to us.
+
+"I see it, looks like we have a mutant to deal with."
+
+I ran up to see what he was talking about with my sword ready and a grin across my face... but it turned into more shock than excitement when I took in the view.
+
+Right in front of us on a small patch of flat ground stood a dark black portal. I spoke up as the other team members climbed the hill behind me.
+
+"This is no ordinary mutant boss. You've dealt with a portal like this before right?"
+
+Hudson turned to all of us.
+
+"Anyone that would like to leave is free to go. This will not be an easy fight."
+
+We all started looking at each other with a bit of confusion. Nessa chimed in.
+
+"I'm in. I trust you as my captain."
+
+Hudson replied.
+
+"I can't guarantee your safety with a portal like this. Black portal mutants can be very unpredictable."
+
+Nessa didn't bat an eye.
+
+"But your skill! We can all do this together!"
+
+"Yes, my skill will aid us in this battle. I'd just like to give you all the option to leave. There will be a borderline C Class Monster in there. You all signed up for basic training, not this."
+
+Nessa nodded.
+
+"I know the risks. I'm in."
+
+The other 3 team members talked quietly with each other, then the tank stepped forward.
+
+"We're in. The levels will be worth it."
+
+Then they all turned to me.
+
+I couldn't hold back my excitement. This is exactly the type of situation I was secretly hoping for. Finally, another strong opponent.
+
+"I'm In."
+
+Hudson smirked as he turned to all of us.
+
+"Well, everyone ready? I'll stay up front. Nessa and Jay will lead the main attack. You 3 stay back for support, theres usually a wave of monsters before the boss. Take care of those for us."
+
+Everyone nodded in agreement and faced the spinning black portal. Without much hesitation we all jumped through.

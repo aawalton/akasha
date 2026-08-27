@@ -1,0 +1,303 @@
+---
+id: 3e1e0727-1919-570b-aa15-c6a9de0cd9da
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15"
+slug: 0015-chapter-15
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 15
+ownLength: 2056
+unit: words
+ownProgress: 2056
+publishedAt: 2023-02-05
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1106390/chapter-15"
+royalRoadId: "1106390"
+markedReadAt: "2026-06-29T20:32:18.895Z"
+---
+
+We stepped out of the dungeon portal back into our home world.
+
+Abby waved and walked over to the two security guards sitting in front of the old theatre entrance. She said something to one of them and turned to me.
+
+"Jay show them your Hunter's License."
+
+"Okay sure."
+
+I took out my license and put it on the small counter in front of them. They made a note of something and nodded.
+
+"Allllrightty, we're good to go."
+
+I took my license back with a bit of a confused look on my face.
+
+"You're registered as my guest! You can enter this dungeon as much as you'd like to train before it's open to the public in a few days. You're going to need it."
+
+Abby giggled as we started walking back towards the direction of the village market and Alpine Square Dungeon. The sun was setting as well, it was a pretty sight.
+
+We walked past Alpine Square and into the village market. I made the notion to Abby that there was a specific shop I liked to go to, she understood. We walked up to the old merchant's shop moments later.
+
+"Hey kid, how's it going? Who's the lucky lady?"
+
+I knew he was teasing me, but I hardly had the energy for it right now. I smiled and threw my two mana crystals on the counter.
+
+"This is Abby, she's just a friend. Don't get the wrong idea old man. How much can I get for these today?"
+
+He placed the two crystals on the measuring dish and the big black numbers read out 71.3MU.
+
+"I can do 70 bronze coins, nice haul today kid. Where'd you get these crystals? This isn't the Alpine boss."
+
+"Yeah we checked out a different E Class dungeon today, looks like I grew out of the starter dungeon."
+
+I smiled and nodded. The old merchant looked a bit impressed and started counting out bronze coins for me.
+
+I took the coins a moment later and started shoving them awkwardly into my back pockets. They barely all fit.
+
+Abby laughed, the merchant smirked as he took the mana crystals off the measuring dish.
+
+"Okay how much can I get for these??"
+
+Abby dumped her haul of crystals directly onto the measuring dish. The screen read 613.4MU. The shop keeper's eyes lit up a bit.
+
+"Now we're talking. We don't get a haul like this everyday in the village market. I'll give you 6 silver for these."
+
+"Works for me!"
+
+The merchant counted out 6 shiny silver coins and placed them on the counter. Abby took them and bobbed her head with a smile.
+
+"Time to eattttt. I starvingggg."
+
+"You can say that again... I know a good bar, this way."
+
+There's a local bar called CJ's with decent food and good drinks. I stop by here pretty often after a long day of hunting. We made our way over and sat down a few minutes later.
+
+"Hey Mark, can I get my regular? The chicken club with fries, and the biggest draft beer ya got?"
+
+The bar tender smiled and nodded as he finished pouring another customer's drink.
+
+"Sure thing Jay, 5 bronze. It'll be out in a few minutes."
+
+Abby lifted her hand in the direction of the bar tender.
+
+"I'll have what he's having, double it!"
+
+I nodded and handed Mark 10 bronze.
+
+A few minutes later our food and drinks came. I couldn't wait to eat, I could only assume Abby felt the same. We dug in.
+
+"That was goooood."
+
+We finished at about the same time. I was impressed.
+
+With bellies full and minds at ease the last light of the setting sun was a nice finishing touch to our meal.
+
+"Ya know jayyy. Today was a good day. I'm glad I met youuu. Ya knowwww."
+
+Abby sounds a little drunk. I guess she doesn't go out too much working for the Association.
+
+"Glad you had fun today. I'm happy I met you too, today was definitely an eye opener for me. I thank you again for that."
+
+Abby smiled in agreement.
+
+We walked to the nearby train station as if reading each other's minds. I knew the night was winding down, it was time to call it here and end on a good note.
+
+"Screeeeechh"
+
+A train pulled up to the station as we arrived. Abby jumped up to the platform and stepped into the closest train-car. As the doors were closing Abby turned to me.
+
+"Heyy, don't forgetttt. One week. I'll see you soon."
+
+She smiled, winked, and bobbed her head making her ponytails bounce up and down.
+
+I just smiled and waved watching the train leave the station.
+
+"One week huh..."
+
+I said to myself as I walked back to my apartment.
+
+For some reason I wasn't scared at all. I was just excited that I had a new challenge in front of me. A big goal to work towards.
+
+A few minutes later I walked up the steps of my apartment, twisted the key of my door, and immediately turned on a hot shower. Afterwards, I took a satisfying swan dive onto my bed and almost instantly fell into a deep sleep.
+
+The next morning I woke up bright and early with one mission on my mind. It's time to get stronger.
+
+I jumped out of bed and looked in my bedside table. I had 2 silver coins and a pile of bronze, maybe 80-90 if I had to guess. I grabbed 2 silver coins and 3 bronze as I walked out the door slinging my sword over my back.
+
+"Morning Jayy. Off to hunt? Me too!"
+
+Maria greeted me as I walked down the steps.
+
+"Yepp. Another day to get stronger. Today's the first day of training with your school right? Best of luck!"
+
+"Yeah it is! Thanks!! Good luck to you too!"
+
+Maria smiled and waved as I walked down the stairs. I turned and headed straight towards the village market.
+
+After grabbing breakfast at the corner store I made it to the old merchant's stand.
+
+"Good morning kid, back so soon?"
+
+"Yeah, I need 2 MP recovery potions."
+
+I placed the 2 silver coins on the counter and confidently put out my hand.
+
+The merchant rummaged through his drawers and pulled out 2 of the small glowing pink bottles. He handed them to me.
+
+"There ya go, 2 E Class MP recovery potions. They'll heal up to 500 MP per use. Have fun out there, but be careful."
+
+"Thanks old man."
+
+I grabbed the bottles and left with a confident head nod. Now I was off towards the Lexington Wolf Dungeon.
+
+When I arrived at the old theatre I waved to the security guards and they thankfully recognized my face. With two head nods I walked in without saying a word. I drew my sword and jumped through the portal without another thought.
+
+I entered the dungeon and scanned my surroundings. The plan today was to gain as much exp as possible and monitor my MP consumption.
+
+After about 10 minutes of venturing into the dungeon my first opponent appeared.
+
+I used the same fighting strategy as yesterday, it worked like a charm. Within a matter of seconds I landed the first hit. Before the monster could even react to its wound I finished it off. My speed and agility were superior to this beast, and my sword's added strength stat let me kill it in 2 attacks.
+
+I checked my status, there was no level up this time. Looks like the exp is already starting to become less effective on my higher level. My MP was at 155/215. That exchange took took about 60 MP. Not bad, as I level up I'll have more MP to use and it'll take less MP per opponent.
+
+I waited to collect the wolf's mana crystal then ventured further into the dungeon.
+
+A few minutes later another monster appeared for me to slay. A quick and efficient battle took place. In 2 swift attacks the beast had fallen.
+
+[Level Up]
+
+_____________________Name: Jay Soju
+
+Level: 43
+
+Hp: 220/220
+
+Mp: 100/220
+
+Strength: 109 [+50]
+
+Speed: 123
+
+Agility: 130
+
+Defense: 99
+
+Mental Strength: 109
+
+Skills:
+
+AbsorptionSwordsmanship
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]
+
+_____________________
+
+This new dungeon was working wonders. It feels like I'm back in Alpine Square my first day hunting goblins. I haven't leveled up this fast in ages.
+
+After collecting the mana crystal the wolf dropped I trekked around to find another.
+
+It took another 20 minutes of wondering the desert but my 3rd opponent  finally arrived. Within a minute our battle had finished, my MP was depleted to 40/220.
+
+It looks like I can handle 3 fights with my current MP usage. So with my potions, I have 6 more fights available today.
+
+I took one of the potions and drank the full bottle. I checked my status and could see my MP bar quickly climb. Within seconds I was at a perfect 220/220.
+
+I continued my hunt. The desert was large and the wolves were scattered far apart. It took another 4 hours to find, fight, and collect the mana crystals of the next 6 monsters. I leveled up 2 more times.
+
+[Status Open]
+
+_____________________Name: Jay Soju
+
+Level: 45
+
+Hp: 230/230
+
+Mp: 50/230
+
+Strength: 113 [+50]
+
+Speed: 128
+
+Agility: 136
+
+Defense: 103
+
+Mental Strength: 114
+
+Skills:
+
+AbsorptionSwordsmanship
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]
+
+_____________________
+
+The level up to 44 happened took 2 kills after I drank my first potion. So it took a total of 3 wolves. The level up to 45 took the remaining 4 battles. It's getting much harder to level up again, but it's getting easier and easier to fight. I'm definitely gaining valuable experience.
+
+After my day of battles I made my way towards the dungeon exit. I was a bit fatigued, but it wasn't horrible. I decided to go to the market for a bite to eat and to sell my crystals.
+
+"Hey old man, look what I've got for ya."
+
+I placed the crystals on the empty measuring dish and watched the black numbers read out 324.6MU.
+
+The old man smiled.
+
+"Looks like you put those MP potions to good use. I give you 3 silver and 20 bronze."
+
+"Could you do 3 MP potions and 50 bronze?"
+
+The shop keeper thought for a moment and smirked.
+
+"You drive a hard bargain, sure kid."
+
+He counted out my bronze and handed me 3 more potions.
+
+"Thanks! See you again tomorrow old man!"
+
+He waved and I headed back home. I bought a sandwich at the corner store and walked up the steps to my apartment.
+
+I threw the 3 potions and my bronze into my bedside table drawer. My goal for tomorrow was to use all 3 potions. That would be a minimum of 12 fights.
+
+I spent the rest of the night catching up on a few comics and novels that released new chapters before falling asleep.
+
+I woke up again feeling great. It's time to get stronger.
+
+_____________________
+
+Over the next 3 days I went to the dungeon for 10+ hours a day fighting as much as I could and reinvesting every coin I made from mana crystals back into MP potions. On day 1 I fought 12 wolves. On day 2 I fought 16. Then lastly, day 3 I pushed myself hard and stayed late in the dungeon to face off against 20.
+
+After this was all said and done I gained 7 levels.  The final level up took 10 wolves to achieve. It was becoming much harder to level up, but on the bright side I can defeat a wolf with a single strike now. They take about 35 MP to subjugate.
+
+I also managed to make about 6 silver worth of profit while grinding levels. For every 1 silver I spent on MP potions, the mana crystals I sold made me about 1 silver and 50 bronze back. Not too bad.
+
+[Status Open]
+
+_____________________Name: Jay Soju
+
+Level: 52
+
+Hp: 265/265
+
+Mp: 265/265
+
+Strength: 130 [+50]
+
+Speed: 148
+
+Agility: 156
+
+Defense: 118
+
+Mental Strength: 130
+
+Skills:
+
+AbsorptionSwordsmanship
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]
+
+_____________________
+
+Today is Monday morning. I am level 52. I have 3 more days to defeat the level 70 boss...

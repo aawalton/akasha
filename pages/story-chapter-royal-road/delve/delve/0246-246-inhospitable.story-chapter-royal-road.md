@@ -1,0 +1,389 @@
+---
+id: 441cfafb-32c2-59c9-85fe-2c5ed860953c
+page-type-slug: story-chapter-royal-road
+title: "246: Inhospitable"
+slug: 0246-246-inhospitable
+partOf: delve
+position: 246
+ownLength: 4479
+unit: words
+publishedAt: 2023-10-01
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1360090/246-inhospitable"
+royalRoadId: "1360090"
+---
+
+Engineering.
+
+Whether you meant the place or the concept, it seemed to have become inescapable.
+
+At the moment, Tallheart was seated at a drafting table installed in a room two layers below the surface.
+
+In a swamp. Near the ocean.
+
+The stone here was weak, and low-level Geomancy could only do so much, but again, engineering provided the solution. Mechanical pumps kept the water in check. Lighting was electric, as was air circulation. Privacy and security were assured—physically through the cover of the ground, and metaphysically through powerful runic wards. Also one of Temerity’s Stealth Cores. Bluewash had extracted the mysterious object, even going as far as building it a new support pillar with his and Romer’s assistance.
+
+The Novian royal was currently the only other person present in Engineering, though she was not working at the moment. Her soft snores and occasional mumblings were easily audible over the rasp of his pencil against parchment.
+
+Engineering meant working with others. It meant sometimes trading his hammer for a writing implement.
+
+To use one of Rain’s expressions, it was a mixed bag.
+
+Out of the corner of his eye, Tallheart saw movement, and he looked up to see the door open.
+
+“Gah!” Staavo shouted as he passed through the Muffle ward, shielding his eyes from the bright lights. “How are you here before me? Do you have any idea what time it is?”
+
+“Is the time of day important?” Tallheart asked, looking back down. He drew one final line, then set down his pencil, placing the completed sheet atop the others. He looked up again in time to see Staavo notice Bluewash.
+
+“Some of us like to see the sun occasionally,” Staavo said, shaking his head as he walked around the slumbering Coresmith’s nest. “Did you sleep down here too?”
+
+Tallheart rumbled noncommittally, tidying the stack of papers.
+
+“Oh,” Staavo said, rolling his eyes. “Didn’t sleep at all. Of course.”
+
+“Here,” Tallheart said, rising and offering him the stack. “The compact reactor design is ready for prototyping.”
+
+“I’m going to have to redo half of this because you screwed it up, aren’t I? You sleep-deprived lummox. The Empire takes over one little continent, and you lose all sense.”
+
+“You are welcome to check my work,” Tallheart said, forging a path through Bluewash’s mess and nudging her with a toe. “Once you have reassured yourself that I have made no errors, deliver the plans to Ellis. After that, return here. I need your assistance with the motor control systems.”
+
+“You know he hasn’t even finished mounting the wings to the rest of the frame, right?” Staavo asked, rifling through the pages.
+
+Tallheart nudged Bluewash again, but the woman barely stirred, making the source of his frown twofold. He looked up, making sure Staavo saw the expression. “And why has he not?”
+
+Staavo spread his hands in exasperation. “Because mere mortals can’t bend girders with their teeth!”
+
+“I will speak with him,” Tallheart said. He had tailored his instructions to Ellis’s skill level, and his expectations were more than reasonable. The issue could only be one of motivation.
+
+Bending, he gently pinched Bluewash’s nose where it had slipped free from her scarf, cutting off her snores. A moment later, she jerked awake, choking on the fabric covering her mouth before he released her. She sucked in a breath, which she promptly used to yell.
+
+“Hey!”
+
+“Good morning, princess,” Tallheart rumbled, straightening.
+
+Bluewash threw a pillow at him. “What did you do that for?! I was just resting my eyes.”
+
+“As well as the rest of you,” Tallheart rumbled, letting the soft object rebound harmlessly from his chest. “It is time to work now. The reactor design is complete. I require your input on my plan for integration.”
+
+“Hang on, did you say the reactor design is completed?” Bluewash’s eyes grew wide in horror, pausing in fixing her scarf. “How long was I—? What time is it? What day is it?” She stopped, then bonked herself on the head with her knuckles. “Oh, right. I can just check. Ah, bother. It’s tomorrow already?”
+
+“Mmm,” Tallheart rumbled.
+
+Staavo sighed. “Idiots.”
+
+“Hypocrite,” Tallheart rumbled.
+
+“Excuse me?”
+
+Tallheart blinked slowly, giving him a flat look. “Crested buntings. Three days.”
+
+Staavo looked as shocked as if he’d slapped him. “Who told you about—“ He broke off with a curse. “Jamus.”
+
+“Mmm,” Tallheart rumbled.
+
+“Listen, you, that was different. It was a migration!”
+
+“Mmmhmm,” Tallheart rumbled again.
+
+Staavo sighed. “Bah. At least come eat breakfast. The sun’s not up yet, but some fresh air will do you good.” He sniffed, then made a face. “Lots of good. When was the last time either of you bathed?”
+
+“Bathing is frivolous,” Bluewash said, scrounging around to collect her tools and notes. “We have Rain’s anchor.”
+
+“Not in here, you don’t.” Staavo planted his hands on his hips. “Both of you come upstairs right now, or so help me I’ll get Vanna to appoint Kettel as your nanny.”
+
+“You wouldn’t,” the Coresmith said in horror.
+
+Tallheart snorted, unconcerned by the empty threat. He would take a break when it was required, but that time had not arrived. Ascension had to be ready. They needed the airship so they could run missions and awaken their members. Their base needed to be extended further underground, and its defenses needed to be upgraded. They needed more resources, more weapons, more armor. His own armor needed to be—
+
+The door opened again.
+
+“Oh, all three of you, excellent,” Tarny said, sticking his head through the ward. “Emergency meeting. That dry spot Emerton spotted yesterday was a lair.”
+
+“They found a lair?!” Bluewash shouted, all trace of fatigue gone as she surged to her feet. “Where? What rank and aspect? Arcane? Tell me it’s— Ah!” She tripped on a chisel in her rush toward the door but recovered admirably, continuing the moment she’d regained her footing and her breath. “We’ll need mana! Does anyone have Elemental Refinement? Can we—“
+
+“I don’t know the details!” Tarny lied, the deception clear. He urgently held up his hands to stop her from bowling him over. “You’ll have to ask at the meeting!”
+
+“Bullshit!” Staavo said, needing no Reading practice to spot such an obvious lie. He wasn’t far behind Bluewash in his march toward the door. “Tell us, man!”
+
+“We will come after we have had breakfast,” Tallheart interrupted, laying a hand on Staavo’s shoulder. “Taking care of ourselves comes first.”
+
+“Oh, screw you, you sassy bastard!” Staavo yelled.
+
+Staavo’s irritation had only grown higher over the fifteen minutes they’d wasted in the so-called emergency meeting reviewing the scout report, and now it had reached a peak. At the moment, five of them were jogging along the driest-looking paths they could find, headed for the location of the lair. Vanna was leading the way, guided by Tarny, who was wearing a radio backpack. Tallheart and Bluewash followed after, one plodding along in infuriating silence and the other most assuredly not.
+
+Staavo himself was at the back, partly because his damn leg kept getting stuck in the mud, and partly because it was hard to simultaneously run, breathe, and argue with a moron.
+
+“I just don’t see why we can’t send Halgrave,” Bluewash said, skipping lightly along a log.
+
+“We can’t send Hal— Ack!” Staavo coughed and spluttered, then spat out a fly. “This new repellent doesn’t do shit!”
+
+“And why can’t we send Halgrave?” Bluewash asked, her amusement clear even through her stupid scarf. “He’s gold, and it’s a rank-four lair! He—”
+
+“Could get stuck in a puzzler like anyone else!” Staavo interrupted, shielding his mouth and nose much less effectually. “Will there be an exit? Will there even be ground?! Arcane lairs don’t play by the rules! Whoever touched it to check its stats is lucky they didn’t get sucked in!”
+
+“Halgrave could deal with—”
+
+“We can’t send Halgrave,” Vanna said firmly from the front. “He’s too valuable.”
+
+“Thank you!” Staavo said, spreading his hands wide and almost slipping into a stagnant pool. He recovered quickly. “No, if we’re sending someone, it should be me.”
+
+“No,” Vanna said, drawing out the word in irritation. “We’re sending the goat.”
+
+“I am confused,” Tallheart rumbled. “Is Staavo not the goat?”
+
+“Oh, ha ha,” mocked Staavo. “Listen, kiddos, I’ve done this before. Have any of you?” He waved a hand at Tallheart’s broad back. “Not you, you antlered maniac.”
+
+“I’ll go,” said Bluewash.
+
+“No,” everyone said together.
+
+Staavo puffed out a breath, swatting at the flies. “I’m telling you, the goat is a waste of time. Just give me a rope to hang onto and a countdown before you pull me back. If it’s a puzzler, I’m the only one here with a hope of—“
+
+“Oi! We got it!” a voice called from behind them.
+
+Staavo glanced over his shoulder in irritation to see Lyn and Carten jogging toward them, the latter bearing a hapless kid in his arms. From the vivid orange streaks on the goat’s fur and the lack of a cloud of bugs following them, they’d anointed it with the first version of Myth and Reason’s alchemical bug repellent. The one that worked, except…
+
+“Gaugh!” Staavo choked as the smell hit him. “I thought we threw it in the sea!”
+
+“Ah don’ mind it,” Carten said with a laugh, hiking up his grip on the baby goat. “It’s…bracing. And ye can’t say it doesn’t work.”
+
+“I barely even smell it anymore,” Lyn said lightly. She adjusted the coil of rope she wore looped over one shoulder. “Related, can anyone see my nose, or has it fallen off?”
+
+“Mine’s about to,” Vanna said.
+
+“We are almost there,” Tarny said, holding a receiver to his ear and glancing up at the sky. He coughed, then spat. “Gods, I can taste it.”
+
+“Keep your mouth closed,” Staavo recommended. “It helps.”
+
+“Does it?” Bluewash asked sarcastically, but she followed the advice, and there were a few minutes of blessed silence before they spotted a gout of flame to their left.
+
+“Oi, oi, oi!” Kettel’s voice called from the trees a moment later.
+
+“Oi, oi, oi!” Carten yelled back as they all swerved in that direction.
+
+“It seems to be some sort of code,” Staavo said, drawing a laugh from Lyn.
+
+“Took you long enough,” Mahria greeted them as they emerged into a small grassless clearing. She moved toward Lyn to embrace her, only to recoil at the last second. “Eugh!”
+
+“Hey!” Lyn said, spreading her arms wide as she chased after her. “You don’t want your hug?”
+
+“No!” Mahria said to Kettel’s raucous laughter. “You reek!”
+
+“Please stay professional while on assignment,” Vanna said, though she was hiding a smile.
+
+Rolling his eyes, Staavo looked around, spotting the tunnel by the impressive pile of excavated earth. Romer was there, assembling a formation of ward banners, but there was no sign of the rest of the scout team. Dropping to one knee, Staavo frowned as he turned his attention to the conspicuously dry ground.
+
+“Mahria, report,” Vanna said, the chase having come to an end.
+
+“Nothing new,” Mahria replied as Staavo lurched angrily back to his feet. “Corrin is down there, shoring up the entryway, and the other boys are keeping him company. Nobody’s gone in, so don’t worry.”
+
+“This isn’t just dry!” Staavo interjected the moment Mahria stopped speaking. “This is drier than Osaran tax law! Why am I finding out about this now?”
+
+Lyn made to reply but was cut off.
+
+“Oh, I can’t wait!” Bluewash said, clapping her hands rapidly and jumping up and down. “It’s not just Arcane! It’s very Arcane!” As everyone turned to look at her, she broke into a sprint, dashing for the dirt pile and almost bowling over Romer in her haste. Vanna reacted first, dashing down after her to stop her before she got herself killed.
+
+“What’s with all this, anyway?” Carten asked, gesturing at the dirt as they briskly followed. “Lair suck up all the water? I thought stuff like that couldn’t get through the barrier.”
+
+“Since when did you start pronouncing your ‘the’s properly?” Staavo asked, watching his footing as he descended into the tunnel.
+
+“I’m endeavoring to fancify my locution,” Carten said with a grin. “Evonna says she’s civilizin’ me.”
+
+Staavo scoffed. “Badger teaching a badger.”
+
+“What’s that supposed to mean?” Carten demanded.
+
+Staavo waved a hand. “Never mind, and you’re right about the envelope. Nothing physical can cross without an entity carrying it in some manner.” He ran a hand along the wall, dusty earth flaking away from his touch. “No, this is aspect spillover. It tells us a good deal, which is why it should have been in the report.”
+
+“Hey, don’t blame us,” Lyn said. “We said it was extra dry on the radio.”
+
+“’Desert-like’ was the phrase I used,” Corrin said as they entered a large chamber. “It’s not my fault if Lago didn’t write it down properly.”
+
+Staavo glanced at the Geomancer, who was shepherding a wave of earth right toward them, but his gaze quickly continued to the purple lair envelope that made up the far wall. Fredek and Hanes had Bluewash pinned to the floor nearby, Vanna scowling over her.
+
+“Coming through,” Corrin said, then coughed. “Gods, that smell.”
+
+Stepping out of the way before he got buried, Staavo let the Geomancer pass. He coughed as well, though only from the dust. His sense of smell had already joined Lyn’s in the afterlife.
+
+“Everyone gather up!” Vanna called. “Keep your amulets on until Romer finishes setting up his array, then give them to Lyn so she can run them back to camp for the next group. Carten, put the goat over there until we’re ready to send it in. Let’s talk about our plan.”
+
+Staavo scratched at his beard, catching Carten’s eye. “How do you feel about goat jerky?”
+
+“Oi…” Carten said worriedly, tightening his arms around the animal. “Nothin’s gonna happen to him, right?”
+
+“Didn’t you have goat for supper yesterday?” Lyn asked.
+
+“That’s not the point,” Carten said.
+
+“Everyone, please,” Vanna said. “We need to discuss— Tallheart, what are you doing?”
+
+Tallheart rumbled, sitting against the wall by the entrance. “Wake me when I am needed,” he said, closing his eyes.
+
+“Oh, NOW he’s sleepy,” Staavo said.
+
+“That’s it,” Vanna said, throwing up her hands. “I give up. I give up! Does someone else want to be acting captain?”
+
+“You’re the one who keeps putting off the election,” Staavo said. “What does Rain think about that, by the way?”
+
+“Rain doesn’t know, hasn’t asked, and has his own problems,” Vanna said. “It’s bad enough we’re distracting him with all of this.” She gestured at the lair, then extracted a flashing Radiance anchor from her pocket and tossed it to Tarny. “See what he’s saying, will you? We need to— Staavo, seriously? You too?”
+
+“The goat’s a waste of time,” Staavo said. He closed his eyes, settling in beside Tallheart. “I’ve said my piece, and I know you won’t change your mind, so I’m having a nap too.” He cracked open one eye. “Unless you want to make me acting captain?”
+
+“No,” everyone said together.
+
+Two hours later, Staavo bounced impatiently on his artificial foot, using its springiness to distract him from his irritation. Lacking any skill with all that soul nonsense, he’d found himself unable to join Tallheart in resting through the endless politicking and discussion of optimal strategy. There’d been something of a shift change, with Myth, Reason, and Mereck joining them in the cavern and Bluewash getting herself banished to the surface under guard. Of the scouting party, only Kettel remained, somehow having kept his mouth shut enough to avoid a banishment of his own.
+
+None of that mattered. What mattered was that now, finally, they were ready to get on with it.
+
+“Send in the goat,” Vanna commanded.
+
+“Okay, Mr. Widdershins,” Carten said, stroking the young goat as he approached the barrier. “Time to be brave.”
+
+“You named it?” Lyn asked incredulously. “Do you like pain?”
+
+“Don’t listen to ‘er, Mr. Widdershins,” Carten said, setting the goat down and giving it a little push. “Go on, now. You just hop right in there an’ come on back.”
+
+The goat looked up at him with confusion, then released a high-pitched bleat. It shook itself, trying to slip free of the rope that had been tied around its neck along with a small pouch holding one of Rain’s Detection anchors.
+
+“Today, please,” Vanna said, sounding tired.
+
+“I can’t watch,” Myth said, turning away.
+
+“In ye go!” Carten said, scooping one meaty hand under the goat and gently lobbing it through. “Ooh! Haha!” he quickly grabbed up the trailing rope and let it play out through his fingers. An even higher-pitched bleat sounded through the barrier. “Look at ‘im go! Such a brave explorer!”
+
+“That’s good enough, Carten,” Vanna said after a few seconds. “Bring it back.”
+
+“Aye,” Carten said. “Widdershins! Come ‘ere! Come to Daddy!”
+
+“Pull the rope, Carten,” Lyn said tiredly. “It’s a goat, not your child. And if it were your child, I wouldn’t expect it to listen. You’d make a terrible father.”
+
+“Oi!” Carten said. “I’d make a great father! Ye jus’ got ta understand when ta’ be friendly an’ when ta use disciplin’!”
+
+“I will discipline the lot of you if you don’t stop fooling around,” Vanna said, a startling degree of irritation peeking through her usual composure.
+
+“Ah, sorry, boss,” Carten said, sounding like he meant it. He began pulling the rope, gently at first, then with increasing urgency. “Oi, Somethin’s wrong. He’s barely fightin’ me!”
+
+As the goat emerged from the barrier, it stumbled, still on its feet but looking like it was about to pass out. It released another bleat, even higher-pitched this time. Unnaturally so.
+
+Fascinating.
+
+“Mereck,” Vanna commanded.
+
+The healer had already sprung forward, placing a hand on the animal’s side as it crumpled to the ground. “I healed it, but it’s still—”
+
+“What’s wrong with him?” Carten asked urgently, fumbling to untie the rope. With a jerk, the goat began to struggle.
+
+“I’m not sure, but it…he…seems to be recovering,” Mereck said.
+
+Scratching at his beard, Staavo glanced to the side, where Rain’s anchor had begun a rapid series of flashes.
+
+F…I…L…T…
+
+Ah, so it didn’t work then.
+
+It took a little while for the rest of the message to come through. Once it had, Tarny spoke for the benefit of those who hadn’t caught it.
+
+“Rain says the anchor didn’t work once it crossed the envelope. He couldn’t see inside.”
+
+“Well, we all knew it probably wouldn’t,” Vanna said.
+
+“What do we think?” Staavo asked, still scratching at his beard as he looked back at the recovering goat in Carten’s arms. “Bad air?”
+
+“Possibly,” Myth said.
+
+“Knowledge is predicated on observation,” Reason intoned.
+
+“You need a sample, eh?” Staavo said, bending and grabbing up the discarded rope.
+
+“Staavo!” Vanna said as he tossed aside the pouch with the useless anchor and began tying the rope around his waist. “We agreed that Lyn would be the first one through when it’s time, and it’s not time. We need to wait to see how the goat—“
+
+“I’m done waiting,” Staavo interrupted as he closed his eyes and stepped forward. He’d pay for it, he knew, but he doubted whatever reprimand she chose would be worse than suffering through another minute of pointless chatter.
+
+“Damn it, Staavo!”
+
+Vanna’s voice sounded odd through the barrier but was no different in pitch, which ran counter to his expectations. The air inside was cool on his skin but didn’t burn, so he opened his eyes to see a beige wasteland extending in all directions. There was no indication of the barrier on this side save a faint shimmer near where he was standing, which was fairly standard for lairs that pretended to be outdoors. The emptiness was broken only by a crumbling ruin directly in front of him, perhaps a two-minute walk through the dust. He saw no monsters, essence-charged or otherwise, and his interface reported the lair’s name as the ‘Breathless Wasteland.’
+
+“Staavo?” Lyn’s voice came from right behind him, again only slightly off from how he expected it to sound.
+
+“I’m fine,” Staavo said with some of his stored air. Again, the pitch was normal. Double checking his knot with a tug, he nodded to himself, then exhaled fully before taking a deep breath of the lair’s suspect atmosphere. The gas felt cold and thin as it filled his lungs—and quite dry, obviously. There were no immediate adverse effects, though, and the system didn’t pop up and tell him he’d been poisoned or anything. He nevertheless wasted no time taking a step backward through the barrier.
+
+“Well?” Vanna asked through her teeth, her voice tight with fury. “What did you see?”
+
+Staavo didn’t answer, instead tapping his lips and turning toward Reason.
+
+“Ready,” Reason said, raising his hands.
+
+“Not much,” Staavo said on the exhale, releasing his stored sample to the care of the Chemist’s Fume Control. Much like the goat’s earlier bleating, his voice came out high and squeaky.
+
+“What the hells?” Kettel said, laughing.
+
+To Staavo, any amusement he might have felt came second to monitoring his own condition. A faint sense of wooziness washed over him, and he was quick to refill his lungs with neutral air.
+
+“This is…unexpected,” Reason said, sounding troubled as he stared at the captured breath hanging invisibly between his hands. “I believe this could be problematic.”
+
+“I hate it when he talks normally,” Lyn said. “That means it’s serious.”
+
+“Lyn,” Vanna warned. “Staavo, would you care to elaborate, or are you dying?”
+
+“Just clearing my lungs,” Staavo said, waving Mereck away. “Bad air in there, for sure. No monsters that I saw, but there were ruins that could have hidden some. Besides that, it’s empty and dry. It’s called the Breathless Wasteland, and apt as that seems, no, I didn’t pick the name.”
+
+“Did the goat?” Kettel asked.
+
+Staavo grunted, the question not even justifying a response. He began coiling the rope, then paused.
+
+Actually…huh. Maybe.
+
+“I must dispose of this,” Reason said, turning toward the barrier with his hands still raised. “Just a moment.” He took a breath, then walked through.
+
+Vanna blinked, remaining silent for a few seconds out of pure shock. “Really?”
+
+Myth sighed, rubbing the bridge of his nose. “Sorry.”
+
+Reason returned a few moments later, shaking his head. “The atmosphere within is entirely uniform. It is pure fund-one.”
+
+“Pure hydrogen?” Staavo asked in shock, using Rain’s name for the gas.
+
+“Indeed,” Reason replied, paling slightly as he noticed Vanna’s expression. “It is neither toxic nor breathable.” He swallowed, then turned to Staavo. “How do you feel?”
+
+“A little tired,” Staavo answered, his voice back to normal after a number of deep breaths. “A little grumpy.”
+
+“So…like always, then?” Kettel said, wearing a stupid grin. “Hey, Vanna, let me go next! I wanna hear what me voice sounds like!”
+
+Vanna’s reply could have frozen a volcano. “Anyone else walks through that barrier without getting my explicit permission, they’ll be joining Bluewash, Reason, and Staavo on breakfast duty for the next month.”
+
+Shit. Worse than I thought.
+
+Hiding his frown, Staavo looped the coiled rope over one of Tallheart’s antlers.
+
+Eh. I’ll talk her down.
+
+“I didn’t think—“ Reason began, but Vanna cut him off.
+
+“You knew my orders, and you ignored them. Whether it was on purpose or because your skull’s full of feathers and you forgot, that’s on you.” She narrowed her eyes, pausing to glare at Staavo. “Both of you. And no, you will not be getting out of it because you’re ‘too important’, so don’t even try. Rules are for everyone.” She looked back at Reason. “Now, when you say ‘neither toxic nor breathable,’ what do you mean? Sounds like a contradiction. Speak plainly. Is it dangerous or not?”
+
+Myth was the one to respond. “Around him, very,” he said, nodding to Kettel. He began rubbing Reason’s back soothingly. “Fund-one is highly reactive. If it so much as touches flame, it will explode, but not—”
+
+“We’re standing next to a bomb?!” Lyn interrupted, looking sharply at the lair.
+
+“Fund-eight is required for the reaction,” Reason said dejectedly. “There is none inside, so there is no risk of a complete detonation. However, we will have to carry some with us if we wish to explore. Fume Control could work… For a short while.”
+
+Vanna frowned. “Have to? Why would we bring this fund-eight whatever with us if the combination is dangerous?” She glanced at Rain’s anchor, which had begun flashing. It seemed their wayward captain was growing impatient.
+
+“That which is unseen is not unneeded,” Reason said, then immediately winced. “Sorry, habit.” He swallowed. “Um… Fund-eight…oxygen…is what we breathe to keep breathing. It fuels the body’s chemistry and is twenty-one percent of regular air by volume. ” He looked around at the blank looks this got him. “Did I write Common Knowledge: Chemistry for nothing? Have none of you read it?”
+
+“It wasn’t on the top of my reading list until now,” Vanna said, glancing at the rapidly flashing anchor. “So, hydrogen isn’t toxic, but it’s also not what the body needs. That’s easy enough to understand. Would a Waterbreathing potion work?”
+
+“Unfortunately, no,” Myth said. “They are designed for, well…water. A true Breathless Draught would work in any environment, but we don’t have sufficient power to make one, even if we knew how. Perhaps with time, we could devise a tailored solution—a Hydrogenbreathing potion, if you will—but I am not hopeful. We will try a few things, but…”
+
+“Okay then,” Vanna said. “No alchemical quick fix, got it. Tarny, please update Rain and see if he’s got any suggestions. The stones and the mat are in my bag. Lyn, make another run back to camp and post a bulletin with the details of what we’ve discovered so far. There’s no point in trying to conceal the fact that the lair’s here, and maybe someone will have an idea on how to deal with its Arcane bullshit. Chemical bullshit? Whatever. Myth, Reason, let’s talk options. Staavo, you’re in charge of Bluewash until I’m ready to deal with you.”
+
+“What?!” Staavo demanded.
+
+Vanna continued, heedless of his protest. “Mereck, don’t go anywhere in case we need you. Kettel, against my better judgment, you’re on fire safety. Get those torches out of here and get some flashlights or something.”
+
+“An electrical spark could be as dangerous as a torch,” Myth said.
+
+“Damn,” Vanna muttered. “I guess we’ll have Rain turn his anchor up for now. Still, lose the torches.”
+
+“I’m not going to babysit some spoiled—“ Staavo began.
+
+Vanna clapped her hands, silencing him. “You will if you don’t want it to be two months of kitchen duty. Let’s move, people!” She clicked her tongue. “And will somebody wake up Tallheart already?”

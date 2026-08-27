@@ -1,0 +1,275 @@
+---
+id: dfbfa43a-db75-5584-9d29-170cb7e243c9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 79"
+slug: 0079-chapter-79
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 79
+ownLength: 1914
+unit: words
+ownProgress: 1914
+publishedAt: 2023-04-06
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1160656/chapter-79"
+royalRoadId: "1160656"
+markedReadAt: "2026-06-29T20:34:32.283Z"
+---
+
+[Test 1][Time Remaining: 48 Hours]
+
+Maria and I jump through the portal and enter a grassland dungeon. I can see 10 or so parties in front of us splitting off in all directions.
+
+Not many people are using magic, they must be trying to conserve it for later.
+
+We sprint forward and dive deep into the dungeon.
+
+The grass is short, and there are patches of pink, yellow, and blue flowers. Occasional trees pop up into view, but they seem to be pretty rare.
+
+After about 5 minutes of running, I hear a deep voice yelling out from behind us.
+
+“HEY! You two, stop right there!!”
+
+Maria and I turn our heads to see a massive bearded man chasing after us with a steel chest plate and an enormous silver sword. There are two shorter men behind him carrying swords as well. He keeps yelling.
+
+“My first victims! Come here!!!”
+
+His eyes are bloodshot and his teeth are showing through a malicious smile.
+
+I take one look at Maria, she’s grinning ear to ear.
+
+I nod.
+
+We stop running and turn to the group of men chasing us. Maria runs forward at them and begins to glow bright blue.
+
+It’s over in a matter of seconds….
+
+She runs through them all leaving trails of ice in her tracks. With a single touch of her blade, they’re all frozen solid instantly. She turns to me and laughs.
+
+The leader still has an angry look on his face with his mouth wide open mid-yell as he points his sword high in the air. He’s petrified in Ice standing upright with his dedicated followers frozen close behind him. They never saw it coming.
+
+“I say we let them thaw out on their own.”
+
+I laugh back at her.
+
+“Good idea. Those Idiots chose the wrong party to blindly attack.”
+
+We turn and continue running toward the back of the dungeon. A party approaches us from the rear as we’re leaving, but swerves away at the sight of Maria’s Ice sculptures. I turn to Maria mid-stride and point out the new party running away from us.
+
+“This exam might be easier than we thought.”
+
+“Hmmph, might be.”
+
+Finally, about 20 minutes later we found our first monster. A horned rabbit… With a single kick, I easily killed it. It’s still cool to see a new monster species though.
+
+They’re about half a meter tall and look like oversized muscular rabbits. They have bright white fur, red eyes, sharp jagged teeth, and a single brown horn protruding from their foreheads.
+
+After the first one, I just ignored them moving forward. They’re all between levels 5 and 15. There isn’t much to worry about.
+
+Another 20 minutes go by, and the hunters have really spread out a lot. I can only see one team in front of us far off in the distance, and none behind. That ice attack must have skewed the path people are willing to take….
+
+As we continue, the party ahead of us starts becoming larger… No wait, we’re just getting closer. It seems they’ve stopped moving.
+
+We approach them cautiously but do not change our speed.
+
+At closer inspection, I can see it’s a team of 4. They’re all wearing matching silver armor with gold accents. Their under-suits are white and elegant… its really nice gear. They seem to be examining a few sheets of paper while trading magic items around on the ground. A man with long blond flowing hair and bright blue eyes steps out in front of the other three and yells to us.
+
+“We do not wish to fight, but If we must… I shall destroy you.”
+
+Out of curiosity, I use inspect and appraisal.
+
+[Lv. 275]
+
+Active Items:
+
+[Steel Sword] +300 Strength
+
+[Enchanted Armor Set] +600 Defense
+
+[Dragon Scale Pendant] +50% Mental Strength
+
+[Rodrigo’s Silver Bracelet]
+
+Active Skills:
+
+Combat Magic [Barrier Summoning]
+
+Swordsmanship
+
+I grin.
+
+“Now here’s a real opponent. Maria, I want this one.”
+
+She steps back.
+
+I run toward the man igniting flames around my sword and preparing an attack.
+
+He nods slowly, then draws his own sword.
+
+“Fine.”
+
+He begins glowing white as I swing my burning blade toward his neck. The swordsman lifts his own blade and covers it in a soft white aura. I bring my sword down and he counters with his own.
+
+My blade stops in mid-air… Less than a meter from his blade. I grit my teeth and push forward with all my strength. It begins to move. Slowly but surely, I bring my blade closer and closer to his. Sweat rolls down my forehead as I let out a yell activating berserker.
+
+*CLINK*
+
+My sword touches his and we’re both blown backward by the built-up force from our attacks. The grassland around us is destroyed and a dust cloud forms from all the dirt thrown in the air.
+
+As it slowly settles, we both stand 10m apart pointing our blades at one another. He speaks.
+
+“Again, I do not wish to fight. You are a strong adversary, I believe it would be a waste to drain our strength now.”
+
+I grin at him and don’t move a muscle for a few seconds. Then nod and put out my flames while pointing my sword at the floor.
+
+“I’m Jay by the way. You’re probably right, It would be a waste to fight now.”
+
+He points his sword to the ground too.
+
+“I’m George Arden the Third. A pleasure to spar.”
+
+It seems our mutual test of strength is over.
+
+We back away from each other slowly.
+
+With that, we give each other a formal head nod and I motion for Maria to follow me. He turns to his team and they all continue looking at the sheets of paper from earlier. Maria and I head off past them just like that. What an interesting guy….
+
+We continue forward, and the group of armored men fades into the distance behind us. I can’t see any other teams in any direction. It feels like we’re all alone in the dungeon now.
+
+After another 30 minutes of running, we still make no contact with the other teams. In total, we’ve had about 5 horned rabbit encounters I’m starting to get out of breath. I’ve been training hard recently… but no matter how you put it, running for over an hour gets tiring. I turn to Maria, she’s breathing heavily as well.
+
+“Hey, want to slow down and walk?”
+
+Maria turns to me.
+
+“Let’s make it through the first floor, then we can take a breather!”
+
+I nod resentfully.
+
+She has a good point though…
+
+“Sounds good.”
+
+We continue chugging along at a solid pace. 10 minutes later, we make it to the first boss room.
+
+A floating grey portal stands alone in the middle of an open field.
+
+“Well, it was a bit closer than I thought it would be…”
+
+Maria laughs and we jump through together.
+
+The boss room has a dirt floor with no plant life. It’s dark and there are sloped walls creating a cave-like environment. It feels like we’re underground, in some kind of burrow….
+
+Red eyes appear from the back of the room and a massive horned rabbit hops out. It looks very similar to the normal mobs, just… huge…
+
+It gets up on its two hind legs and shows us its teeth standing almost 1.5m tall.
+
+I use inspect, then smile.
+
+[Lv. 37]
+
+We walk over to it slowly. The monster gets on all fours and starts running at us while growling.
+
+*SHINGGG*
+
+I cut it in two like butter.
+
+Maria and I look at each other, then she speaks up.
+
+“One floor down, nine to go.”
+
+I nod.
+
+“Yup.”
+
+The rabbit disintegrates and white transport magic teleports us to the next dungeon a few minutes later.
+
+“NEW GUYS ARE HERE! GET EM!!!!!”
+
+As we’re spawned into a forest-like environment. There are thick trees in all directions and fairly rocky soil. I see two men and a woman less than 5m away with their weapons fully drawn. There’s a massive dark-skinned man with a silver shield and long thick sword lunging at me. A slim dark-haired fair-skinned woman wielding daggers runs at Maria. A short red-haired man stands behind them both glowing bright yellow.
+
+The tank lets out a yell as he shoves his sword at my chest. I instantly react by erupting into flames and creating a layer of body-hardening crystals over the front side of my body.
+
+*CLANGGG*
+
+His sword smashes into the hard crystal armor and his eyes open wide in disbelief.
+
+Maria gasps as she sees my defense out of the corner of her eye while instinctively putting up her own shield of Ice to block the woman’s ambush of daggers.
+
+I face the man standing in front of me, he stands over 205cm tall, wearing makeshift leather armor, and deep scars on his face.
+
+I use inspect and appraisal.
+
+[Lv. 258]
+
+Active Items:
+
+[Heavy Iron Long Sword] +200 Strength
+
+[Heavy Iron Shield] +250 Defense
+
+[Enchanted Leather Armor Set] +200 Defense
+
+[Rodrigo’s Silver Bracelet]
+
+Active Skills:
+
+Extreme Strength
+
+Buffs:
+
+[+35% Speed & Agility]
+
+I smile and raise my sword pointing it at the large man’s head.
+
+“You call that an ambush?”
+
+He grunts and stares me down while beginning to glow orange. A new Buff appears in his appraisal stats.
+
+[+50% Strength]
+
+I grin.
+
+“Interesting…”
+
+The team member behind him must have a speed and agility party-wide buff skill, while he has his own strength buff skill. Unfortunately for him… it’s not going to be enough.
+
+I ignite into flames and look the man straight in the eyes. I activate berserker and intimidation.
+
+“ATTACK THEM N-“
+
+He stops yelling mid-sentence and freezes with fear. My vision tunnels and I charge forward.
+
+*SHINGGGG*
+
+Without hesitation, I slice him in two then stab the short red-haired buff caster through the chest in the same attack.
+
+Instantly, they both dematerialize into a flash of white light.
+
+“So that’s how the bracelets really work…. Good to know.”
+
+I turn to see Maria facing off against the dagger-wielding woman. Her eyes open wide as she sees her teammates easily obliterated.
+
+Maria places her hand on the ground and releases a wave of Ice. The woman turns to run as the frost creeps up her ankles. She lets out a scream and drops her daggers before turning into a glistening white statue. Maria walks over to her and slashes the ice into a million little pieces. The white light appears again, indicating she’s been sent back to her party members.
+
+I think to myself for a moment. If I really killed them, I’d be able to absorb their skills. So it looks like I won’t be getting to farm skills that easily today…
+
+Maria speaks up.
+
+“Hey look! That woman left her weapons!”
+
+She bends down and picks up the two black daggers off the ground. I use Appraisal.
+
+[Enchanted Dagger Set] +250 Strength +250 Agility
+
+I nod.
+
+“Nice. I guess they’re yours now. Looks like you have to be holding your items to be transported with them.”
+
+Maria smiles and places the daggers into her item box, then points her sword in the air toward the back of this new dungeon.
+
+“Let’s go! I hope we get to fight some stronger opponents soon. Monsters or Humans, I don’t care.”
+
+She starts walking forward.
+
+I nod and follow.
+
+“I’m sure the higher we climb, the more challenging this test will become.”

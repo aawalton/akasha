@@ -1,0 +1,193 @@
+---
+id: 48034a54-72de-5daa-b5f7-a5970a38ee11
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36: Mana Alignment"
+slug: 0036-chapter-36-mana-alignment
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 36
+ownLength: 1980
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3585959/chapter-36-mana-alignment"
+royalRoadId: "3585959"
+---
+
+So, first things first for my dear sister. The beauty of mage duels. You’re going to find them all too common amongst the Archmage’s apprentices. If you’re good enough, and you will be. Your main strategy will be the art of the counter spell.
+
+Ideally, you have a perception spell on your eyes to start, but even if you don’t, you need to be able to identify what someone is casting at a glance, then prepare the opposition spell-circle.
+
+Everything is about opposites, the push and pull of symbols. Once you understand this, you’re well on your way to becoming an Archmage.
+
+That night, I continue my studies with Shar in her cat form, under the leathers of my tent, my light illuminating the many volumes I’d pulled out.
+
+“You managed to cast a fireball.”
+
+I look up from my notebook, where’d I’d been comparing my translation notes to the book, Ik’thar Lav’sun. “I’m sorry?”
+
+“In Kolas’s temple, against the worshippers.” Shar curls her tail around her, the tip of it flicking through the air, “I saw you cast a first tier spell circle, a basic fireball.”
+
+I nod, “I didn’t do anything wrong, did I?”
+
+“No, you did it perfectly.”
+
+We stare at each other for a solid few seconds as she seems to wait for something.
+
+The cat sighs, “I forget how little you know sometimes. A first tier spell circle marks you as an official apprentice of the arcane.”
+
+I put my finger on the page of my notebook to keep my spot, and close it. “What exactly does that mean?”
+
+The cat lays down, her body pressed against my leg, “Back then, they would’ve thrown a party to celebrate the new mage. New robes, gifts from the other apprentices. And an enchanted item from the Archmage. It was a moment worth celebrating.”
+
+I look down at the books surrounding me, and I can’t help the smile that spreads across my face. “So I’m a real mage then?”
+
+“Barely. But yes. The Apprentice title is the first step on a long road.”
+
+Her words don’t take away the giddy feeling blossoming in my chest. I mean, yes, technically I was a mage as soon as I got my class.
+
+But this, this I worked hard for. Studying in the dim illumination of my light-stone every night since Shar had begun translating the books for me. Even the Archmage, a person who is little more than a legend to me, would’ve recognized my growth.
+
+“Remind me to take us out to eat when we get back to Onder. I should celebrate.”
+
+The golem nods, then rests her head on my thigh. I get back to reading with renewed vigor.
+
+I pause after a few pages, a question bubbling up to the surface, “What’s the next step?”
+
+“Novice, with second tier spell circles. You have plenty of time before that. For now, focus on learning more first circle spells. Too many apprentices have blown themselves up, moving too fast.”
+
+“Blown themselves up? Are you being serious?”
+
+She closes her eyes.
+
+“Shar?”
+
+***
+
+The snow has melted, but the cold remains, the little bit of sun filtering through the foliage barely enough to keep warm. In addition, the melt has turned small creaks into fast moving rivers, further delaying us as we walk back to Onder.
+
+Jasper, of course, is perfectly happy chewing on his branch as we walk. Being in a stronghold seemed to have put him at ease, and now that we’ve left it, he’s happily walking forward at his usual pace.
+
+I’d considered veering away from Onder until things settled down, but we need to either go there, or to the southern stronghold to resupply and sleep in a nice bed. I personally don’t feel like braving the stronghold, even with my banishment revoked, so it’s to the danger of the frontier city.
+
+Plus, I need to send warning to the monks about the demon worshippers. I don’t know where the last of the Oathsworn Orders are, but with the message from the Angels, I imagine they have become much more active, and I imagine they’ll want to know that their enemies are still breathing.
+
+So our journey continues, as dangerous as ever. Predators have become more active with the snow melt, leaving their dens to look for food. I rely on Shar, and my own knowledge of the local wildlife to veer us away from trouble multiple times.
+
+I sit there on the first night, across from Keve as he carves a little figurine. Shar watches me with a sharp eye as I hold my hand up, and channel my mana.
+
+First comes the circle, then Stillness. I keep my focus as I draw the symbol into the circle with my mana. The next two runes are identity and desire.
+
+Air, Wall.
+
+The spell finishes and the spell circle brightens with my hazel mana before it disappears and a shimmer appears in the air between me and Shar.
+
+Shar throws a pebble, and it bounces off. Then she looks at Keve.
+
+He throws a larger rock, and it stops for a second before destroying the shield, and falling to the ground.
+
+“Air works better with transformation.” Shar licks her paw, then looks at it with narrowed eyes before turning back to me “If you want stillness, then use earth or ice, or space itself.”
+
+I nod, then draw on my mana again to create another circle.
+
+Transformation, Air, Flow.
+
+The spell circle forms, and brightens. This time, the air moves in a half-circle around me.
+
+Shar throws a pebble, it hits the stream of air, and flows around me.
+
+Keve does the same with a rock, and it follows the same stream of air.
+
+“The wand makes this a lot easier.” I say as the spell fades.
+
+”Of course it does. That’s what it's for.”
+
+I give the golem a look, which she ignores. “When I tried to repair the golem, the voice mentioned something. I haven’t been able to find any other mentions of it in Ik’thar Lav’sun.”
+
+She turns towards me and tilts her head.
+
+”It said that Mana Alignment would be too dangerous. What did it mean by that?”
+
+Shar stares at me, “Did you ever notice that the ice witch could control her element without a spell?”
+
+I pause, caught off-guard by the question. Now that I think about it, I do remember her creating the bridge over the hole created by the Worm. She hadn’t used any spell, simply growing the ice, there’d also been other, smaller, moments, now that I think about it.
+
+Shar smiles with sharp teeth, “Mana alignment allows for direct control, but it is dangerous, which is why enchanted artifacts are usually used to transform the mana. It won’t be in any beginner books.”
+
+I remember something, and reach towards my backpack, ruffling around in it for a minute before pulling out the gardening gloves. I’d kept a pair, since I deal with my fair share of dangerous flora.
+
+Identify Artifacts.
+
+Gardening Gloves
+
+Protects the wearer from toxins and parasites. These gloves are puncture resistant and self-repairing. Mana that travels through them becomes nature-aligned.
+
+I explain the description to Shar.
+
+She shrugs, “Nature alignment would be natural for the Archmage’s gardeners.”
+
+I stare at the gloves for a long moment, wondering how direct control of nature would work.
+
+I bite the fingertip of the glove I already have on, and pull it off. Then I pull the gardening glove tight over my hand. I channel a small amount of mana through it. It forms green, instead of its usual hazel, pooling on the edge of the glove.
+
+I reach down to a nearby root, and I immediately feel the tree it's connected to.
+
+It sleeps through the winter, dreaming of things that I can’t quite understand. I could do something if I wanted to, but I decide against it, instead pulling my hand up to let the plant continue its sleep.
+
+I stare at the glove, flexing my fingers, then shake my head as I take them off and put my usual glove back on.
+
+The magic practice has put a noticeable dip in my reserves, so I decide to leave it at that for the night.
+
+***
+
+The nights continue like that, with the three of us surrounding a fire as I practice my magic, while Keve continues his carving or goes out hunting.
+
+Eventually, I start to grow curious about possibilities for the Vishten. Nonhumans can’t practice spells, they gave them up for their internal mana. But that doesn’t mean they don’t have their own forms of magic. I decide to start searching my library for magic that Keve can use. He hides it well, but I can see the slight sadness in his eyes when he sees me cast, an impossibility for him.
+
+Shar doesn’t know anything about internal mana, which means I’m forced to search on my own. Unfortunately, the literature on Internal Magic is sparse, and most of the library being in languages I can’t read doesn’t help.
+
+Once we’re safe in the room at the inn, I’ll attempt a deep dive into the stacks of books with the actual door.
+
+Several days later, we come across a familiar statue of Lumin, and we turn towards the road that leads to Onder.
+
+The road is empty, no merchant caravans making their way through. It’s not unusual, but I’d been hoping for the extra protection this close to the city holding a necromancer.
+
+My steps slow as we approach a downed tree in the middle of the road. Shar flies down, landing on my shoulder. “There are people hiding in the trees, covered by magic. I didn’t see them until just now. Another group is approaching fast, I recognized Grildor among them.”
+
+Keve pulls his scarf over his face, and I pull my hood up to hide my own face.
+
+Grildor? I hope that means that they’re coming to help whatever this is.
+
+My hand reaches for the wand in my pocket as I call out. “Hello! We don’t want trouble.”
+
+A man appears on top of the downed tree, his face covered. “What are your classes?”
+
+My enhanced perception catches people moving through the trees, slowly trying to surround us. I start to channel mana into my wand, prepping the defensive spell I’d been practicing. “I’m happy to pay a toll, but we don’t want any trouble.”
+
+”I’m looking for an Explorer and a Warrior. They have something very valuable with them. You wouldn’t know anything about that, would you?”
+
+“No. I’m not an Explorer, or a warrior.” I say.
+
+The man pauses, staring at me.
+
+I mentally select my second class.
+
+The man steps back with a curse, then hurriedly calls, “It’s a mage! Go!”
+
+Oh, hells.
+
+Arrows fly towards me, and I form the spell circle through the wand, empowering the simple spell.
+
+Transformation, Air, Flow.
+
+A stream of air surrounds me and Keve just as arrows fly from the trees, redirecting them around us and into the ground.
+
+Keve disappears, a trail of fire following him as he jumps towards the archers in the trees.
+
+My perception catches a man moving at incredible speed towards me, and I quickly form another spell.
+
+Transformation, Air, Push.
+
+A gust of wind throws the man back. I can’t fight someone who moves that fast directly, so I step back as I prepare another spell. Two more people come from the woods, walking towards me with blades drawn.
+
+A yell comes from down the road as a familiar man in full plate armor sprints down the road. An arrow flies past him into the three people coming after me, then reavers start streaming from the forest.
+
+Looks like Grildor is coming to save me. Thank Sahara, it would’ve sucked if he’d gone evil.

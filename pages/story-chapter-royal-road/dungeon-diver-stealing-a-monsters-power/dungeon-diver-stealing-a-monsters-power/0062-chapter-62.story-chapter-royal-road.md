@@ -1,0 +1,265 @@
+---
+id: ea4e64be-5153-5a76-a5e7-a461a29ef612
+page-type-slug: story-chapter-royal-road
+title: "Chapter 62"
+slug: 0062-chapter-62
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 62
+ownLength: 2120
+unit: words
+ownProgress: 2120
+publishedAt: 2023-03-20
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1143692/chapter-62"
+royalRoadId: "1143692"
+markedReadAt: "2026-06-29T20:33:56.844Z"
+---
+
+Bri pointed at the floor and that same white light started to glow all around her hand. With a swift motion, she threw the orb of light at the floor. It sank right through and disappeared out of sight. She looked up at me and spoke.
+
+"My assistant will come up here shortly, shall we begin?"
+
+"Begin now? I thought I had to win a match for you to make the sword."
+
+She grinned.
+
+"Well, you need a sword to fight with don't you?"
+
+I scratched my head awkwardly.
+
+"I do, you're right."
+
+"You'll fight when I finish the blade. I don't see element stones of this grade very often. If I'm going to make a sword of this caliber, I'd at least like to have some advertising done for my services. You better put on a good show."
+
+I thought to myself for a moment.
+
+That's why she offered me this option. She wants everyone watching the fight to know she made this sword. Ugh, business people or ya, always scheming up something.
+
+"Makes sense, I ju-"
+
+*Knock* *Knock* *Knock*
+
+The tall pale man in glasses from the second floor knocked politely at the top of the spiral staircase.
+
+"Ms. Briana, I am at your service."
+
+He bowed and Bri spoke up.
+
+"One moment, Bernard."
+
+He nodded and Bri turned back to me.
+
+"Put out your arm, I need to extract a little blood."
+
+She pulled out a small glass jar with a cork in the top from her desk along with a shiny dagger. My eyes opened wide.
+
+"Hey! There has to be a safer way to do this, you don't have a needle or something?"
+
+She smirked.
+
+"What? You scared?"
+
+"N-No, its just-"
+
+"Good. Don't worry about it, I'll heal you up before you leave."
+
+I gulped and put my left arm out in front of her.
+
+Bri ripped the cork out of the bottle with her teeth and looked me in the eyes before sizing up my arm. Without hesitation, she sliced open a vein in my forearm and placed the jar directly on the open area. Thick red liquid spurted out instantly, her expression didn't change one bit as the bottle filled up to the brim. She screwed the cork back on and threw the jar of fresh blood up and down in her hand with a slight grin. I just watched her mutilate me in disbelief.
+
+"H-Hey I'm still bleeding here!"
+
+My blood is flowing much slower than it started, but it was still coming out and making a mess all over the floor.
+
+Bri's hand lit up with a green light and she placed it over my sliced-up arm. I felt a warm sensation as the skin grew back together and the gash completely disappeared.
+
+"Fixed."
+
+It'd probably be better to not ask any stupid questions right now.... But that's two skills she's used so far.... Just making a mental note.
+
+I nodded. She spoke up again.
+
+"Give me a little while. I'll have your sword ready for the fight scheduled around noon. Let me see your status, we have to make sure you're paired up in the right level class."
+
+I froze.
+
+"I-I'm Level 211, there's no need to show my status..."
+
+She shook her head.
+
+"It's either you show it to me, or the fight commissioner. I know you have something going on... You come here with a Mutant Minotaur Horn and an element stone that's nearly B Class in purity grade. You're not an ordinary hunter, I know that for sure."
+
+I gulped and scanned the room.
+
+"I-uhh."
+
+"Just show me. What can I do? Run to the Association and tell them your secret? I'm the last person you should be worried about showing. As I said before, this is a confidential meeting. Nothing leaves this room, you have my word."
+
+I took a death breath in and out. She has a good point... Who would she even tell? It could only ruin her confidentiality reputation.
+
+I opened my status and turned it towards her.
+
+Bri's eyes lit up. She stared for over 10 seconds straight before I got anxious and closed my window.
+
+"Those aren't purchased skills are they? Not even country leaders have enough money to get skills like that..."
+
+I looked at her in confusion again.
+
+"You can buy skills?"
+
+She grinned and eyed me up and down.
+
+"I like you. I hope you don't die in the ring today."
+
+"Hey, that doesn't answer my question!"
+
+Bri turned back to her desk and motioned for me to leave.
+
+"Follow Bernard downstairs. He'll get you ready for your fight. Ask him whatever you'd like to know. I'm busy."
+
+She began writing a few things down on a notepad and the thin man walked over to me slowly.
+
+"Nice to formally meet you, sir. I'll be taking care of you for the time being. Please follow me."
+
+"I-Uhh Hey! Bri! I-"
+
+"Please follow me, Ms. Briana is busy working at the moment."
+
+The light in the room started to fade back to darkness as Bernard escorted me to the spiral stairs. That meeting ended so abruptly, I don't even know what to think.
+
+I'm getting the sword made a least. I guess it went well....
+
+"Hey! Bernard! What was she saying earlier? Do people buy skills? And are they really that expensive?"
+
+He nodded as we made our way down the stairs.
+
+"Of course, It's possible. Nobles have often used entire generational savings to purchase a skill for a prodigy in the family."
+
+I looked at him curiously.
+
+"Why are they so much? Where can you get them?"
+
+"Well, the reason skills are valued so high is that most people are just stuck with the ones they're born with. The option to add on extra skills is a once-in-a-lifetime opportunity even for the elite class. Every year or two a skill stone shows up in the capital auction. The amount of money people bid is preposterous, but when you have that kind of money and power It's the only thing worth buying. I understand why they all do it."
+
+"Skill stones? I've never even heard of them... Where do they come from?"
+
+"As I said, every year or two one shows up in the capital auction. My guess is they're found deep in the labyrinth. There's never been a report of skill stones being found in normal dungeons, if there were everyone would flock to it and hunt that dungeon dry."
+
+I nodded and thought to myself quietly as we continued to walk down the stairs.
+
+We made it to the street-level floor and began walking further down. After another 10m or so of walking, I started to hear voices and people walking around... It sounds like there are a lot of them.
+
+We made it to level ground where I found myself with Bernard in a stone cellar consisting of a small wooden stool, a few large crates, and a heavy-looking metal door. He opened the door slowly and I couldn't believe my eyes.
+
+It's an open area about 30m wide and 5m of ceiling height that seems to go on forever. The floors and walls are made of old stone and the wide hall is lit up with torches and various magic items. Some lights are white, others are yellow, and some are orange. It isn't quite congruent, but it works well enough.
+
+There's a full underground marketplace beneath this town.
+
+It feels like the city market, but much dirtier and the people are much tougher looking. It's where all the outlaws buy and sell illegal or stolen goods. Makeshift merchant stands line the open hall selling swords, daggers, and shields. Others are cooking delicious-smelling food and pouring drinks. Mana crystals are being bought and sold along with potions and all kinds of common magic items.
+
+Bernard began to walk through the market.
+
+"Come on, don't you want to purchase some extra equipment before your fight? I'm sure you'll find something you like here."
+
+I shook myself out of my daydream state. I'd been staring at the crowds of people going about their day for a little too long.
+
+"Oh, uhh yes. I'm coming, right away."
+
+I followed Bernard deeper into the underground market.
+
+At closer examination, most of the magic items were pretty poor quality. Mostly E-Class mana crystals and small potions that I assume skill users are making by themselves down here.
+
+The food definitely smelled good though, it's pretty hard to mess that up.
+
+Bernard kept walking quickly down the center of the pathway. I spoke up.
+
+"Hey! Are we going anywhere in particular? None of this gear looks any good. To be honest, I'd rather just go to the normal market."
+
+He replied without turning back to me.
+
+"Just a little further. I know the perfect shop."
+
+After another 3 minutes or so of walking, Bernard finally stopped and turned to a small merchant stand.
+
+It looked like every other stand to me. Standard potions, a variety of E Class Swords, and a few piles of mana crystals. Once we arrived a middle-aged merchant looked up and smiled.
+
+"Bernard! What brings you down here today?"
+
+He smiled back.
+
+"Morning Henry. Ms. Briana has a new toy she wants to see fight in the Rumble Dome. I'm here to make sure he doesn't break before she's had her fun. The sword is being crafted as we speak, but he has nothing else. Do you have anything new in stock that's worth looking at? Speed or Defense Items will suit him best right now I think."
+
+I turned to him abruptly.
+
+"HEY! Bri's Toy?? What are you talking about."
+
+Both the men laughed and ignored my comment. Henry spoke up.
+
+"Sure, there were a few unregistered dungeon pop-ups yesterday at the peak of the surge, this is what we managed to salvage."
+
+He dug through an item box and pulled out a ton of shields, rings, and potions. I looked at all of it, but nothing really caught my eye. They're all just normal defense or magic-boosting items. Not too special.
+
+"Oh right, these just came in too. A pair of beauties, when's the last time you saw a 60% boost?"
+
+He pulled out a pair of jet-black combat boots. They looked like they were made of cloth, but looked very sturdy at the same time.
+
+I interjected.
+
+"A 60% stat boost? In what?"
+
+He grinned.
+
+"Speed. Rumor is these came from an unregistered elf dungeon about 20km south of the capital. The dungeon broke already, these may be a one-of-a-kind item around here."
+
+I eyed the boots curiously. They look really cool... but also have a 60% speed stat boost. That would be an incredible addition to my fighting ability. Its far as I can remember I've never seen speed-boosting items before. I need this pair of boots.
+
+"How much?"
+
+"3 gold and they're yours."
+
+I laughed. It's not a horrible price, but I'd rather get them for much lower. It's time to haggle.
+
+"Yeah right! I'll give you 1 gold."
+
+"You really wanna do this kid? 2 gold 75 silver final offer."
+
+"Nope, way too much. Not interested."
+
+I turned away with a smirk on my face, the merchant offered me another deal almost immediately.
+
+"2 gold, 50 silver. That's my real final offer. What do you say?
+
+"Sorry, too much. Who carries around that kind of cash? 1 gold, that's all I can do."
+
+He turned to Bernard.
+
+"Who is this kid anyways, why'd you bring me a lowballer today of all days."
+
+He ginned.
+
+"Looks like you're getting a taste of your own medicine Henry."
+
+Bernard looked at both of us.
+
+"Meet at 2 gold. It's a good deal for both of you."
+
+Henry and I looked at each other for a moment, then nodded and shook hands.
+
+"Deal."
+
+"Deal."
+
+I placed a gold coin on the table and counted out 100 silver before trying on the boots.
+
+The second I slipped them on they magically tightened to fit my feet. I felt a burst of energy flow through my legs and up into my body. It felt just like handling a new sword with a strength boost, but even better somehow...
+
+Bernard looked me up and down then turned to the merchant.
+
+"They look good. Appreciate it Henry, have a good rest of your day."
+
+"You too."
+
+He smiled at us both but gave me a side eye as we walked further away. I think my haggling earlier turned him off of me a bit. Bernard spoke up.
+
+"All right, follow me. We have one more thing to do."
+
+I turned to follow him even deeper into the underground market.

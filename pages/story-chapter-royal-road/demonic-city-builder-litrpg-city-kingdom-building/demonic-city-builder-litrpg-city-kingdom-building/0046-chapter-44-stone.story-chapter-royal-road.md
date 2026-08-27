@@ -1,0 +1,143 @@
+---
+id: 3f351954-1c85-56e7-af5b-1cd2b651eb65
+page-type-slug: story-chapter-royal-road
+title: "Chapter 44 - Stone"
+slug: 0046-chapter-44-stone
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 46
+ownLength: 1537
+unit: words
+publishedAt: 2026-07-16
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3683310/chapter-44-stone"
+royalRoadId: "3683310"
+---
+
+Turning the corner, Hector had half a mind to pull out his blade, consequences be damned, when he paused short.
+
+“What is…”
+
+In front of him, six of the little red creatures were kneeling. And, he only just now noticed that the constant background noise was gone.
+
+All the scurrying, the excitement, the chittering. Silence. It was just silence.
+
+Eyes narrowing in suspicion, he began walking up the steps. “Kairon?”
+
+“In here. Please, come in,” came a soft reply.
+
+As he passed, he examined the creatures. They didn’t move a muscle. Each had their eyes closed and claws clasped together, as if in prayer.
+
+When he reached the top of the steps, he spotted Kairon. His walking stick was planted firmly, body silhouetted against a golden glow. One that wasn’t from the sun.
+
+The black demon looked like the focus of a painting. Around him, the entryway was like an archaic, black frame. In the background, as if the demon was the center of the divine, moats of golden light shined. From here, it looked almost like a star.
+
+It was… unnatural.
+
+“Kairon… What happened?” he asked, mind not fully understanding the scene in front of him. His anger and irritation, so raw, was fading. In its place, a horrified fascination grew.
+
+“I owe you an explanation, Hector. But I thought it best you see for yourself,” said the demon gravely. Still, in that soft, quiet tone. As if speaking too loud was a sinful act in whatever scene awaited him.
+
+Stepping up beside the demon, he got his first good look inside the chamber.
+
+The lordling’s gaze went straight to where the sunlight directed. A pedestal. In front of it, his servant wept. “Hector… It was the Solari. They did this. I told you, boy! I told you! To tell them of what you planned. And now they’ve forsaken us. Just look!”
+
+Aldous had always been a steady, reliable servant. One that thought he knew best, and considered himself entirely faithful to House Hallen. Even with the fall of his father, Hector never saw the man shed a single tear. And here he was, openly weeping.
+
+It was jarring, to say the least.
+
+Seeing his lord silent, Aldous kept going. “That medallion! It was different. Before, it was golden and mundane. But now it glows. It's morphed and burned. A sign from The Five!”
+
+It was only at that point that Hector noticed the signet. Set next to the orange gemstone, a golden coin glinted in the evening sunlight. The iconic sun sigil of the Solari clearly displayed in its bent, singed surface.
+
+Without realizing, Hector began walking. His guards had stopped at the door, jaws slack. The lord couldn’t care less what they did.
+
+All he had eyes for was the divine scene before him. Like something from scripture. Something of the arcane.
+
+“And… And Elson?” he asked. His voice echoed in the chamber, carrying easily.
+
+A new, feminine one answered. “The golden energy was beyond what we could contain.” Shadows unfurling, an elegant demoness revealed herself on the opposite side of the room. And beside her, a marble bisected torso with orange and purple veins stood erect.
+
+“No. That. That can’t be…” His gloved hand lifted, hovering over his mouth. He strode forward, stopping just short of the marbled figure. Hector knelt, looking closely. It was difficult to make out details, as the face had been smoothed over and there was no hair to speak of. “Elson?”
+
+“It was,” said Kairon solemnly.
+
+“Is he…”
+
+“Alive? We don’t know. We hope not. What would a life be, in such a form?”
+
+Hector processed that. Softly, he rubbed one hand against the smooth, polished figure. “My god… Kairon… What did you do?”
+
+A claw gently pressed on his shoulder.
+
+“No. What did they do, Hector?”
+
+“They?” he asked.
+
+Kairon nodded at the medallion.
+
+“They.”
+
+Realization dawned in his eyes. The thought deep inside him, the one building since he saw the golden light, now swimming to the surface. “The Five? You think they did something? Here? I know they have magic. Or have heard so, at any rate. But to do this…”
+
+Hector ran his hands all the way down the torso, feeling where marbled skin met metal grate. He traced the waistline, and then up the body. And, for a moment, those purple and yellow veins thrummed.
+
+“Gah!” he shouted, falling back on his rear.
+
+“Careful, careful. Maybe it's best to leave this be,” advised Kairon, bending to help Hector back to his feet.
+
+“Yes. Maybe it is,” he breathed, still gazing at the ivory figure.
+
+“I can’t claim to know of the divine powers The Solari wield. But Elson carried a relic. Had I known this, I’d never have suggested allowing him in our walls… I warned you that humans don’t fare well here. As you’ve felt yourself.”
+
+“Relic?” asked Hector, finally removing his attention from the bisected body. The mention of something powerful enough to cause this had struck his mind like lightning. He wanted it. No. He needed it.
+
+Like a cat on the prowl, he padded over to the pedestal. Careful not to alert his prey, he kept a distance, observing the shining medallion as he paced. “Elson had this? And he… He did something with it?”
+
+“They called. Elson tried to answer. It was too much.”
+
+A pause. Hector thought on the implications of that. Of access to a power like it.
+
+“Hector, I’m truly sorry. We tried to stop it. But that relic released a massive amount of divine energy. You can see it now, infused in my tower,” spoke Kairon, gesturing at the golden moats in the floor. “That same energy that now runs through what remains of Elson.”
+
+Near the doorway, Hector’s guards had all knelt. Two were making symbols on their chest, armored fingers spread.
+
+“The Five,” one whispered.
+
+Hector sniffed. “But The Five are said to be merciful for their faithful. And Elson was a religious sort.”
+
+Taking a deep breath, Kairon nodded. “Best we can tell, they tried to reward Elson. But, in his devotion, he didn’t realize his own limits. The energy that was brought was beyond what Elson could manage.” The demon spoke the next words very precisely. “You know, with the proper preparation, perhaps… No. Perhaps not. The more I think of it, the less I consider it possible.”
+
+“What? Consider what possible?” asked Hector hastily.
+
+Kairon gave him a speculative look. “It just occurred to me that if Elson had properly researched and prepared to use such a relic, then just maybe he could have harnessed that power.” He let that sit for a moment. Then, he snorted. “But I’m just a simple demon. I know nought of such things. For who but the most devout could?”
+
+“Yes… Who…” mused Hector, brain already running through the possibilities.
+
+I don’t know much of The Solari’s ways. If he was being truly honest, Hector ignored anything to do with them. But if this signet somehow was infused with a spark of the divine, and became a relic…
+
+The human lord shook his head, eyes wide. “I admit, I’ve never been much for religion. Not Solari or anything else. But this… I find myself agreeing with you, Kairon. I don’t know what else but a god could do this.”
+
+I need it.
+
+“Kairon…” he started carefully. “While I understand this might not have been your doing, I still did lose a man here. And my servant,” he added, pointing at the old man, “is distraught. Emotionally, he’ll need to recover.”
+
+Bowing slightly, the black-scaled demon clasped his claws together. “Our condolences. As our guests, letting this happen is nothing short of an affront to our hospitality.” After a breath, he straightened. “We, of course, are more than happy to offer recompense. Maybe gold?”
+
+Hector licked his lips. “Elson was a priceless comrade to me. Gold couldn’t make up for that. I fear it would be disrespectful. To him, of course. Perhaps… Something more memorable.”
+
+Both men stared, each knowing Elson was certainly not priceless to Hector. Neither cared.
+
+“Of course, of course. I just wonder what…” Then, as if the thought had only now struck him, Kairon clapped his claws together. “What about the relic?”
+
+Hector breathed in, unable to hide the greed from his lips. “You’d give it… To me?”
+
+Somberly, the demon reached over and handed the golden medallion to Hector. “As a token of good will, and a symbol that our newfound relationship, from demon to the Kingdom of Hallen, has been witnessed by the divine. Take this. Bear it as a sign that we are bound.”
+
+The lord clasped the medallion in his palm, staring at it in wonder. He’d seen signets like this before. But this one not only looked like it’d been through divine judgement, it felt like it. An ebbing sense of wrongness, mixed with an unseen power, bled into his flesh.
+
+They all stood still, Hector absorbing, Kairon waiting, and humans watching.
+
+“What… What do we do?” Lord Hallen asked finally, attention still locked on the signet.
+
+The human couldn’t see, but a shark-toothed grin gleamed in the chamber’s golden light.
+
+“Pray. We pray, Hector.”

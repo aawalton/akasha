@@ -1,0 +1,249 @@
+---
+id: 2af69c09-ce55-50f2-8aec-45c0cfbb43c4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35"
+slug: 0035-chapter-35
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 35
+ownLength: 1859
+unit: words
+ownProgress: 1859
+publishedAt: 2023-02-21
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1119714/chapter-35"
+royalRoadId: "1119714"
+markedReadAt: "2026-06-29T20:32:59.642Z"
+---
+
+The main road was filled with independent street vendors.
+
+We walked for about 10 minutes in the direction of the city's center.
+
+It became very clear to me that most of the shops around the train station were mostly for tourists and small time hunters.
+
+It was filled with scammers and con men. What can you really expect? Business is business. That's the way the world works.
+
+As we walked further in, there were less people out on the streets. The buildings became much taller, it looked like they were mostly allocated for office space.
+
+We turned a street corner and I saw a massive mall. There were escalators that connected at least 10 floors of shopping areas. The floors were a smooth white color and the walls connecting each new floor were made of a thick clear glass. The curved silver steel beams that held everything together were incorporated into the building design. It looked very futuristic.
+
+We took an escalator up to the 6th floor. Maria and I were fascinated by the scenery.
+
+The shops sold mana crystals, swords, armor, shields, and much more.
+
+People here were a lot more civilized and dressed much nicer than the town market. This must be the designer district. Higher class items are sold here. Makes sense.
+
+As we arrived to the 6th floor Rei motioned for us to get off the moving stairs and to follow her.
+
+We walked along a balcony with a clear glass barrier. There was an open hole in the center of the mall, it was doughnut shaped. Looking up there was a blue sky, looking downwards we could see the bottom floor. It's an incredible building.
+
+We kept walking along the balcony until a large storefront came into view. It seemed to be a separate shopping area closed off by a white wall, I couldn't see inside.
+
+Rei talked to a security guard outside and showed him a card. The guard nodded and opened the door.
+
+We walked in.
+
+It was a large shopping center with organized gear on each wall and display tables. Rei spoke up.
+
+"Alright, give me about 30 minutes. Im going to stock up on gear for the guild."
+
+Maria and I nodded.
+
+I overheard a few employees and some of Rei's previous conversation.
+
+This seems to be a high end magical item store, but its customer base is exclusively bulk buyers from guilds.
+
+They must offer good deals.
+
+Maria and I wandered around the store looking at all the equipment.
+
+There were display tables full of potions and interesting looking stones and items.
+
+I saw a wall completely covered in glistening silver swords.
+
+There was even an accessory table that had all kinds of rings, bracelets, and necklaces with a variety of attributes.
+
+There is nothing like this back home. The capital is amazing!
+
+Maria's was mesmerized as well.
+
+It all seemed to be high grade E and D Class gear. There wasn't much here that was mind blowing. It was just the fact that there was so much of it in one place. I assume there are other shops with higher grade gear, but it wouldn't be worth the guild's money to buy those in bulk.
+
+"Alright. That didn't take too long did it?"
+
+Rei came over to us while tightening a large leather pouch around her waist.
+
+I raised an eyebrow.
+
+"That's an item box right? It looks a lot bigger than mine? How much can it carry?"
+
+She grinned.
+
+"You're right. It's a lower grade C Class item box. Holds up to 100 items. I filled it to the brim. We have enough swords and potions to last a few months."
+
+I nodded.
+
+"Wow. Good to know."
+
+Maria interrupted.
+
+"Hey! Now that we got the guild's shopping out of the way where can we go to that shop? I want to get that sword you told me about. It's here right??"
+
+Rei nodded.
+
+I looked to Maria with a bit of confusion.
+
+"A Sword? You're able to handle a sword now? I remember the last time you tried to carry mine, the floor nearly broke!"
+
+Maria went a bit red in the face.
+
+"I can actually! Rei said there are light weight swords here, they will be perfect with my ice magic."
+
+"Oh yeah? A special sword shop? Let's go check it out. I need to find something new as well."
+
+Rei interjected.
+
+"Okay. Follow me, its on the 8th floor."
+
+We followed.
+
+After 2 escalator rides that took about 5 minutes we made it to floor 8.
+
+There were quite a few people on this floor. All the shops were open to the public and many items were out on display.
+
+We walked over to a shop with tall glass doors and were greeted by a woman in a suit and tie. An odd sight, but it wasn't too out of place here I guess.
+
+"Welcome to Apollo's Sword Shop. May I see your Hunter's Licenses."
+
+We handed her our cards and she escorted us to a counter with dozens of silver swords behind it.
+
+"We have an E, D, and a C Class here. Get them what they need."
+
+She spoke to a man behind the counter wearing a suit identical to hers. His eyes perked up.
+
+"Who needs a sword? What can I do for you?"
+
+Maria and I both raised a hand. I spoke up.
+
+"Both of us, but take care of her first. I'll look around the shop."
+
+He nodded and started asking Maria a ton of questions. I zoned out of the conversation and started eyeing a few swords in the nearby display cases.
+
+I needed a good replacement sword, but I don't have the money to get anything too crazy. I reached in my item box and counted what I had, the total was 43 silver. I left a good amount at home, I didn't want to blow my whole savings.
+
+This can get me a good sword. I remembered back to the auction, I can probably get something with a 100-150 strength stat. That's all I'm looking for. It'll be a good upgrade from my last sword, but its better that I don't get too attached to my weapons. They do break...
+
+There were clear markings on the walls showing what the range of stats on different items in display cases held. I could tell there were private rooms in the back too, that must be where their VIP customers make expensive deals. Interesting.
+
+I came upon a D Rank Long Sword display case.
+
+A shining silver sword with a black handle caught my eye.
+
+A younger man caught me eyeing it.
+
+"Hey! My name's Marco! That's a nice sword you're looking at. It has a 125 strength boost, I can sell it to you for 30 silver.
+
+"Can I hold it?"
+
+"Yeah sure. Just know, if ya break it ya buy it."
+
+I chucked.
+
+"Yeah, yeah."
+
+The man handed me the sword off the wall and I gave it a good feel.
+
+It was heavier than my last sword, but I could instantly feel the strength upgrade surging through me. This sword has some strong magic. I like it.
+
+"Give me it for 25, it's a decent sword."
+
+The man grinned. He knew I was hooked.
+
+"Ahhh so you're the bartering type. You from out of town or what?"
+
+"Yeah, came in this morning. It's my first time in the city. Well, at least first time in a while. So, 25?"
+
+The man shook his head.
+
+"28. I can bring it down 2 sliver that's it."
+
+"Come on, i need it closer to 25. How about 26? That's all I have on me. I need to get lunch later ya know."
+
+Clearly a lie, but that's how you barter. He knows it too.
+
+"27. That's the lowest I can go. With a sword like this you can kill your own lunch."
+
+"Fine. 27, but I want a nice sheath with it too. Black to match the handle."
+
+"Deal."
+
+"Great."
+
+We shook on it and the man went over to a nearby display case to find a sheath. I counted out 27 silver and had it out on the table before he got back.
+
+We completed the deal just like that. I nodded to the man again and put my new sword on my back.
+
+That was easy, didn't need to search around too much. I got what I needed.
+
+I walked back over to where I left Maria. There were about half a dozen sword laid out on the tabled.
+
+Maria had a look of concentration on her face. She was clearly having trouble deciding which one to get.
+
+This is the difference between men and women shopping. It makes me go crazy sometimes.
+
+I watched Maria pick up each of the 6 swords at least 10 more times and swing them around.
+
+Almost 20 minutes went by. I was just happy to be out and about, it didn't bug me too much today. She can take all the take she wants.
+
+"Alright. I think I like this one. I'll take it!"
+
+Maria finally picked out a sword. She stood holding a long and thin silver sword. When she swung it, there wasn't even the slightest sound. It seems to be a custom made sword.
+
+"That will be 10 silver."
+
+The salesman looked at her and smiled. Maria reached into her small bag and pulled out a few silver coins.
+
+"There you go! Thanks!"
+
+She purchased a white sheath as well. With an agile movement she slung the sword over her back. The three of us started walking out of the store.
+
+She didn't even try to haggle the price down. Whatever works for her I guess. There was one thing I was curious about.
+
+"Hey Maria! Where do you make your money? That's an expensive sword for an E Class."
+
+She smiled.
+
+"Pace has been paying me for dungeon diving lately. I've been saving up!"
+
+"Pace pays you???"
+
+She looked confused.
+
+"Y-Yeah. I have an exclusive student contract. They're obligated to pay me."
+
+I thought for a moment. I guess exclusive contracts with a salary would make sense. I don't get paid because I never even asked to...
+
+"Ahhh okay. Makes sense."
+
+We walked out the front door of the store and Rei stopped in front of us.
+
+"Do you two want to test out those new weapons?"
+
+Maria and I looked at each other. We shrugged and nodded eagerly.
+
+Rei grinned.
+
+"Follow me. I know just the place to put those blades to use. This is going to be fun."
+
+I looked at her with curiosity.
+
+"Are there dungeons nearby?"
+
+Rei kept a smug grin on her face.
+
+"There are, but that's not exactly where we're going. Trust me, you'll like this place."
+
+She hopped on an escalator moving downwards and we followed.
+
+I wonder where we're going to test out our new weapons in the capital?
+
+Wherever it is, Im looking forward to it. I'll get to see Maria in action for the first time too. This day is about to get even more exciting!

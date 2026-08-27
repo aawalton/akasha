@@ -1,0 +1,279 @@
+---
+id: 332608ab-d038-59d5-819b-62afd9c355f0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37"
+slug: 0037-chapter-37
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 37
+ownLength: 1949
+unit: words
+ownProgress: 1949
+publishedAt: 2023-02-23
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1121452/chapter-37"
+royalRoadId: "1121452"
+markedReadAt: "2026-06-29T20:33:03.968Z"
+---
+
+We ate as much as we could but there was still a good amount of food left on the table.
+
+After lounging around for another 30 minutes or so we finally got up and paid the bill.
+
+Rei motioned us towards the city center again.
+
+"Let's go check out the Dungeon Hub. We don't have too much time before we have to catch the last train back home. One or two hours should be enough to get a feel for how the capital's dungeons work.
+
+I got up and looked at her.
+
+"Makes sense, I can't do a serious raid on a full stomach like this anyways. I'm curious how it works here, I haven't seen a single dungeon. I thought they'd be more out in the open, how do hunters even find places to raid around here? What's this Dungeon Hub place?"
+
+Rei smiled.
+
+"You'll see, it's where most of the public dungeons in Vice City are located."
+
+I nodded accepting the fact she wouldn't tell me yet and started following her through the crowds of people in the busy market.
+
+It was still mind blowing how many people were in a single area. I'm not used to this big city life just yet.
+
+About 20 minutes later we walked past the mall area and made our way even further into the city's center.
+
+The large silver towers were getting taller and the streets were getting narrower.
+
+We eventually came across a large black tower.
+
+It stood out from the buildings surrounding it and there were many people entering and exiting from the large open front doors.
+
+Rei started walking towards the entrance. Maria and I followed without saying a word.
+
+The inside of the tower was black as well, there were no windows or lights but oddly enough it was very bright inside. I could see perfectly.
+
+There were 4 sets of escalators in front of us that lead down to a lower level. I assumed the tower went up at first, but I guess there's more underground.
+
+Each escalator had black stairs and grey glass walls that went up to about waist height on other side.
+
+The 4 sets of moving stairways were labeled:
+
+[E Class Dungeons]
+
+[D Class Dungeons]
+
+[C Class Dungeons]
+
+[B Class Dungeons]
+
+Each of them had a security guard that scanned IDs in front of them before anyone could go down.
+
+There was an escalator in the distance near the back of the building as well. It went upwards and had 4 guards in front of it. No one was approaching that stairway, I couldn't make out the writing on the sign above it.
+
+Rei continued to walked towards the far left stairway.
+
+"Alright, let's take the E Class escalator so we can all check it out."
+
+Maria and I nodded, this is what I was thinking too.
+
+The crowds of people were mostly all going to the same place as us.
+
+Over 75% were headed down to the E Class Dungeons.
+
+20% were scanning their IDs to enter the D Class dungeons.
+
+The remaining 5% were headed towards the C class dungeons.
+
+I didn't see a single person go down the B class escalator.
+
+We scanned our licenses and boarded the moving stairs. I looked downwards and couldn't even see the end. There were just hundreds of heads bobbing up and down.
+
+After a full 3 minutes or so we finally got to the bottom. We must have gone 100m underground.
+
+I couldn't believe my eyes at first.
+
+"So this is the Vice City Dungeon Hub."
+
+I grinned.
+
+There was a wide open area that looked like a stretched out subway system.
+
+I could see a large digital sign that had dozens of dungeon names with estimates on how long it would take to get to each of them.
+
+Another large sign had a map of Vice City with exact locations pin pointing each dungeon entrance.
+
+"Schreeeech"
+
+On either side of the large platform area a train took hunters to and from all of the E Class dungeons in Vice City.
+
+It's a pretty well though out system. I'm impressed.
+
+At the center of the platform there were a couple hunters buying and selling E Class gear and mana crystals.
+
+They were also pairing up and getting into groups to go raid dungeons.
+
+There were all kinds of people down here, I was in awe.
+
+We all walked over to the giant map and Rei pointed to a spot on it.
+
+"We're right here. These two trains will only bring us to E Class dungeons. You need to scan for clearance to get onto the D, C, and B Class trains. Pretty cool right?"
+
+Maria and I nodded with excitement.
+
+"Yeah I never knew the capital was this advanced. There's so many dungeons. I could level up so much faster here."
+
+Red laughed.
+
+"Yeah, city folk tend to level up a bit faster. They also tend to die more often. Close to 30% of hunters get seriously injured or killed within the first 5 years of hunting here in the city. It's a dangerous game."
+
+I nodded.
+
+HP potions are usually enough to heal any hunter's wounds, but there are some cases where they don't work.
+
+If a hunter loses a limb or gets an injury that couldn't naturally heal over time most HP potions can't heal them. It would take A class healing magic or potions to work those miracles, the average person could never afford it.
+
+A serious injury is sometimes worse than death for hunters these days.
+
+"You're right. Risk vs. Reward. I would still like to give some of these dungeons a try. There's so much potential in this city."
+
+Rei grinned.
+
+"It seems you've really been enjoying your time here in the city. Maybe you should stay a while. I'm sure the guild won't mind."
+
+"Really? Hmmm. Maybe I will."
+
+Maria popped into our conversation.
+
+"Hey lets go here!"
+
+She pointed to a dot on the map. It was labeled "Ogre Dungeon - Medium".
+
+Rei nodded.
+
+"That'll be perfect. It's a medium grade dungeon, that just means it's in the middle range of difficulty for E Class Hunters. A perfect one to give your new gear some actual experience out in the field."
+
+Maria nodded.
+
+"Screeeeeh"
+
+A train pulled up the moment Rei stopped talking. She pointed to it.
+
+"That's our train."
+
+We boarded and held on to the handles above our heads. The train was packed.
+
+It stared to move and I looked out the window to see the blank cement walls moving by.
+
+It was oddly calming.
+
+About 10 minutes later we arrived.
+
+There were 2 escalators. One of them brought us up to the surface into a room with no doors, the other was for when we wanted to go back down to the train.
+
+There was just a glowing blue portal at the back of this room. We could either go into the dungeon or back to the train, there was no way to access this room without using the Dungeon Hub system.
+
+We all nodded at each other and jumped through.
+
+I could see mountains and large trees all around me.
+
+It felt and looked like a pretty standard forest dungeon.
+
+I stepped back to let Maria do the fighting. I won't be able to get any experience in an E Class dungeon anyways.
+
+We walked for about 10 minutes before finally coming across a monster.
+
+It stood at about 2.5m tall with light green skin. The beast smelled horrible and only wore a small piece of cloth around its waist.
+
+It carried a large axe and starred us down. It's a standard E Class monster.
+
+"I got this guys!"
+
+Maria began to glow blue and charged towards the Orge.
+
+She was clearly faster than it.
+
+"GRRRUAARRR!"
+
+The beast let out a roar and swung at her but it was way too slow to get anywhere near Maria.
+
+She got behind the Ogre and I saw the light blue mist glow bright from behind the beast.
+
+"Shinnnnnggg"
+
+Moments later the monster stopped moving.
+
+Maria came running out from behind it. I couldn't quite see the whole attack, but it seems like she landed a clean hit on its back.
+
+As she came around the front side, the Ogre let out a cry as the blue mist engulfed its body. It turned completely to ice in front of my eyes.
+
+Maria grinned and took another slash at the monster from the front this time. It shattered into tiny ice fragments.
+
+It was an impressive feat. She really does have some strong ice magic.
+
+*Clap *Clap *Clap
+
+I slowly clapped and walked over to her.
+
+"You've improved a lot! That was an impressive take down."
+
+Maria blushed and smiled.
+
+"Thanks! These Ogres aren't too hard for me anyways. I am level 63 now!"
+
+I raised an eyebrow.
+
+"You're level 63? Moving up in the world I see. You'll catch up to me soon at this rate."
+
+We both laughed.
+
+Maria collected a mana crystal from the disappearing fragments of Ogre that were left by our feet.
+
+We roamed around the dungeon for another hour or so. Maria showed me some of her new moves and I showed off a bit too.
+
+Rei followed, but I could tell she was getting bored. Eventually she spoke up.
+
+"Hey I don't want to kill your fun, but we've already done a lot today. I wanted to show you the dungeons before it got too late, we don't have much time to actually hunt."
+
+Maria and I nodded taking the hint.
+
+"We have to catch the train back soon or we'll be stuck in Vice City tonight."
+
+We made our way back to the exit and took the train back to the main Dungeon Hub. It was short, but sweet. I'm glad we got to check it out.
+
+"Thanks for taking us out today Rei, I appreciate you showing us around!"
+
+She nodded.
+
+"My pleasure. I had a relaxing day off. I'm glad you got to see the city."
+
+We made our way back up the escalator and headed to the main train station that would bring us back home.
+
+"Hey, uh. Rei. If I wanted to stay in the city for a little while where could I go? Is there a hotel or something you know of?"
+
+Rei grinned.
+
+"So the city really has you hooked?"
+
+"Well, I just think it'd be a waste to leave now. There's so many dungeons here. I'd like to stay for a few days and really check this place out. It may seem spontaneous, but I think it's the right move."
+
+Maria looked up at me.
+
+"I think that's a great idea! You don't have school or anything holding you back right now. Stay in the city!"
+
+Maria's immediate support made me happy. Rei nodded and pointed.
+
+"If you head in that direction for about 1km you'll get to a more residential area. There are many hotels you can stay in."
+
+I nodded.
+
+"Thanks!"
+
+Rei nodded back.
+
+"No problem. Some time in the city will make you much stronger, maybe we can spar for real when you come back."
+
+"Haha, I'd hope so. Let Jack know I'll be back in a week or two max. I know he wanted to talk to me about something before I left. It's just going to have to wait a little longer I guess."
+
+"Okay, I'll let him know."
+
+"Great."
+
+I waved off Maria and Rei. They had to catch the next train very soon.
+
+That was out of the blue, but this feels right.
+
+There's so much opportunity here... I can't leave yet.

@@ -1,0 +1,187 @@
+---
+id: dbb13dc3-d60e-5786-8fdb-f079089b870f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25: Divine Damage"
+slug: 0025-chapter-25-divine-damage
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 25
+ownLength: 1862
+unit: words
+publishedAt: 2026-06-12
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3530833/chapter-25-divine-damage"
+royalRoadId: "3530833"
+---
+
+I watch as black symbols form from the undead’s hand, and whips of black magic emerge from the ground, seeking the reaper and the guard.
+
+The reaper’s spear cuts through the magic, and I can sense the powerful enchantments that enable it to do so.
+
+The second guard draws his sword, activating an ability to block the attacks aiming at him.
+
+A black whip slips past his defence, and he screams as it touches him.
+
+Featherweight activates, giving me a boost as I leap towards the battle, the sword at my waist unsheathing in a burst of hazel light. It draws on my mana, powering the weapon built by an Angel.
+
+My summoning spell would take too long to cast, the reaper being pushed back by the Undead Warlock. So my mind goes to the lesson I’d had with Shar.
+
+Stillness, Transformation, and the many symbols of the elements I’d spent time memorizing run through my brain. I recognize the symbols for Transformation and Death in the Warlock’s spell.
+
+A simple, and crude idea comes to my brain as my blade slices through the two whips that change their attention to me, the enchanted weapon shattering dark magic.
+
+The mage had seen through my Hide Presence, and I don’t have time to consider my plan as I channel my mana through the wand in my offhand.
+
+I channel the symbols for Life, and Stillness, aiming at the whips attacking the reaper.
+
+The half-spell forms, taking more mana than I would like. But it works, as the spell extends in a wave from the wand, hitting the whips, and dispersing them.
+
+The Warlock and the reaper both freeze, giving me time to reach the Warlock with my sword.
+
+He steps away from my swing with a simple movement, all of his attention suddenly on me.
+
+I step, and change the angle of my slash, remembering the footwork taught to me by my mentor.
+
+The sword slices through the Warlock’s arm, and he roars.
+
+Black Symbols fill the world around me as the warlock’s dead eyes meet mine.
+
+My footwork shifts and I twist my body, Danger Sense warning me of several attacks approaching from all directions. As spears of darkness seek my death, the Warlock begins a second spell.
+
+This spell looks far more powerful, and I don’t think my simple half-spell will be enough to counter the insane levels of magic heading my direction.
+
+“Alvarana’s Silent Sleep!” Mana fills the air from behind me, and a faint presence surrounds us, almost, but not able to reach our world. The undead’s symbols flicker, but stay strong as the Warlock roars.
+
+The presence hesitates, then my sword grows hot in my hand.
+
+Black feathered wings extend around us as the full power of an Angel briefly touches our world, channeling itself through my sword. The black symbols shatter, and the Undead looks up with something approaching fear.
+
+Then a spear pierces his heart as the reaper beside me continues in a quiet tone, “Alvarana’s Burial.”
+
+The wings wrap around the undead like a soft embrace, then the magic animating the corpse leaves it, and it falls to the ground as a pile of skin and bones.
+
+The divine presence leaves us.
+
+The reaper and I heave with deep breaths, snow continuing to fall around us. I look down at my sword with wide eyes.
+
+Everyone knows that the angels haven’t been able to touch our world for five hundred years. What just happened should’ve been impossible. Reaper spells were just that, simple spells.
+
+I sheathe my sword, then pull my hood tighter over my head as I turn away from the exhausted reaper and the dead bodies.
+
+“Wait!” The reaper calls from behind me, his voice even younger than I thought.
+
+I stop, my hand tightening around the wand in my hand. I can’t afford the questions he’ll want to ask me, especially if there are creatures going after the same prize my map leads to.
+
+The sound of knees hitting snow reaches me, “Thank you, Holy Paladin, for your assistance.”
+
+I don’t answer as I walk away.
+
+Shar lands on my shoulder, and I turn the corner, then I break into a run.
+
+As I move through the city, I see signs of other battles. Dead reapers, dead mages, and more undead cut down by the defenders of the city.
+
+I make my way to the inn, a large monstrous undead speared by a giant spear, right outside its doors. Both its arms are chopped off, with fire still burning it.
+
+Keve stands there with his face covered, his swords out and lit with fire. The spearman beside him who’d finished the job, wrenches his spear out, then hurries into the distance without question.
+
+Keve turns to me, and I stop in front of him.
+
+“You alright?” I ask.
+
+He nods, then pulls his scarf down to reveal his face. “Why are they here?”
+
+“We’ll talk later. Grab your things. We need to get on the road as fast as possible.” I head through the doors of the inn.
+
+Keve follows without question, his swords still unsheathed.
+
+Inside the inn, people hide behind tables, weapons ready.
+
+I hurry through, ignoring them as we make our way to our room.
+
+With the turn of a key, I open the door, then I take my pack off, and fill it with the small things I’d had out.
+
+Keve grabs his own bag, and begins to pack. I find a piece of paper, then hurriedly write a note, before folding it into a square and holding it up.
+
+“Shar, find Gerald, and give this to him.”
+
+Shar jumps from my shoulder, grabs the letter and swoops out the window in one smooth movement.
+
+I stare after her for a long moment, then turn towards Keve who throws his pack on and meets my eyes.
+
+“Do you remember the map?” I ask.
+
+He nods.
+
+“Someone else knows I have it. And they want whatever it leads to.”
+
+He frowns, his eyes looking towards the window, before returning to me. “Then I will help you get there first.”
+
+I smile, and he returns the look with his own, sharper, teeth.
+
+We hurry out of the room, and I grab Jasper before leading the way to a side gate. The city has calmed from the attack, but reapers and guards are everywhere, searching the streets.
+
+Keve and I are stopped more than a few times by people carrying identification stones before we make it to our destination.
+
+Gerald waits beside the gate, a hooded figure, and another Rock Lizard standing next to him.
+
+He turns towards us, and some of the tenseness leave his face, “Leo, my boy, took you long enough.”
+
+“Sorry, we got caught up by the reapers.” I immediately get to work on moving the supplies from the other Rock Lizard to Jasper. I glance up at the hooded figure beside him. “Who’s this?”
+
+“It is good to see you, Delver Leo.”
+
+I pause, as I meet the eyes of a familiar mage. I look at Gerald questioningly.
+
+“Master Lorn was with me when… everything happened. He wished to accompany me to meet you.”
+
+Master Lorn pulls back his hood ever so slightly, meeting my eyes. “This is the second attempt on my life since we’ve returned. Without your… gift, I would’ve been in trouble.”
+
+I bow my head, “I’m glad it’s serving you well.” I pause, looking him in the eyes. “Is Eyla alright?”
+
+“She is well. That is part of the reason I’m here.” He glances over to Gerald, and the Merchant gets the message.
+
+Gerald grabs Keve’s arm and the two walk a step away discussing something I can’t hear.
+
+“I have to ask a favor. Eyla is allowed her dalliances, but any more than that, and you are putting her in serious danger.”
+
+I straighten, “What do you mean?”
+
+Master Lorn lets out a sigh, “There’s a depth to the politics here that I can’t explain in the time we have. Suffice to say that her lack of romantic relationships protects her from the lords of the Stronghold, and the Master Mages of The Arcanists.” His eyes gain a softness to them as he folds his arms, “I was a young man once, so I understand. But if you pursue her further, you could destroy everything she is trying to build. She knows this, but I see the way you look at each other.” “I haven’t-”
+
+He holds his hand up, “I know this isn’t on you. But you are the one I can ask.”
+
+I frown, my heart flaring with anger as I stay quiet and study the man across from me. His eyes hold mine with a seriousness that tells me he isn’t overselling the issue.
+
+“I’ll be gone for a while, plenty of time for her to forget about me.”
+
+He lowers and shakes his head with a small smile. “Maybe that will be enough. Thank you Leo, I don’t like asking this of you, or her.” He looks up, then glances at the people passing us on the street. “Where will you be going?”
+
+“Down the coast, to the Southern Whirlpools.” I lie. Already someone is after my prize, and with the openness of the street, I don’t trust giving my true destination. Also, there’s some part of me that has begun to doubt my trust in the Mage.
+
+He smiles, and clasps my shoulder, “Good luck, and the Guides watch over you.”
+
+“Thank you, Master Mage Lorn. May the Oathsworn protect you.”
+
+He steps back, and walks away. I watch him for a long time.
+
+Maybe it's time to look into Arcanist politics again. There’s some small terror in me at the thought, but something about that conversation doesn’t sit right with me. No one should have to live their life in fear of the Master Mages.
+
+“Are you ready?”
+
+The words bring me out of my thoughts, and I turn to Gerald. Keve stands beside him, his gaze on the mage as well.
+
+“Yeah, we’ll be off then.” I say, a forced smile on my face.
+
+Gerald gives me a knowing look, but nods his head, “Sehara bless your path.”
+
+I gently tap Jasper, and the large Rock Lizard walks forward. Keve and I fall into step with the beast.
+
+Shar hops up on top of the lizard in her cat form, and curls up. She’d been close enough to hear my conversation with the mage, but had looked particularly uninterested.
+
+We stop at the gate, where several Reapers and guards stand.
+
+“No one is allowed to leave the city.” A guard calls out, “Please turn around, and return in the morning.”
+
+I frown at the sight. I should’ve known that they wouldn’t be letting people out, but we need to go before the necromancer has the chance to find us.
+
+I search the reapers at the gate as we walk up to the guard. Several merchants and explorers are arguing with the announcer, but he shakes his head, and points them back.
+
+“Leo.” A voice calls, and I look up to see a familiar Reaper.

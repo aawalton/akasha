@@ -1,0 +1,245 @@
+---
+id: c3cc4baf-9abb-576e-a68f-6e28162aecb1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25"
+slug: 0025-chapter-25
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 25
+ownLength: 1690
+unit: words
+ownProgress: 1690
+publishedAt: 2023-02-11
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1111565/chapter-25"
+royalRoadId: "1111565"
+markedReadAt: "2026-06-29T20:32:39.750Z"
+---
+
+I walked back through the village market looking around at the stores and people simply going about their everyday life.
+
+I felt like an outsider, disconnected from the world they were all smiling blissfully in.
+
+They all have no idea what I'd just done....
+
+I strolled through town a bit more. I passed the local bakery and a few restaurants but wasn't feeling hungry at all. I just wanted to go home.
+
+I walked up the steps to my apartment, turned the key, threw my sword over by the closet, and flopped onto my bed.
+
+*CLINK *CLINK *CLINK *CLINK
+
+As I hit the bed my leather pouch opened and dropped all the silver coins on floor next to my bed.
+
+"Ughhhh I can't catch a break!!!"
+
+I buried my face in a pillow for a moment, then decided to just not pick up the mess of coins on the ground.
+
+I turned onto my back and looked up at the ceiling with a blank stare. I opened my status...
+
+[Status Open]
+
+____________________Name: Jay Soju
+
+Level: 113
+
+Hp: 570/570
+
+Mp: 475/570
+
+Strength: 274 [+50]
+
+Speed: 323
+
+Agility: 338
+
+Defense: 247
+
+Mental Strength: 275 [+55]
+
+Skills:
+
+AbsorptionSwordsmanshipCombat Magic [Fire Summoning]Inspect [Special Grade]
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]Golden Wolf Ring [+20% Mental Strength]
+
+_____________________
+
+My eyes went wide.
+
+So monster's skills aren't the only ones I can absorb.
+
+I shivered.
+
+I used this power on a human because it would be a waste not to. Plus, the only reason I killed those men was self defense.
+
+I won't make a habit of it... but if someone attacks me and I have to defend myself... their skill is 100% up for grabs. That's my self rule.
+
+I awkwardly shook my own hand by twisting my right hand to meet my left in a position that kind of hurt my wrist. I laughed out loud at the gesture I made, but also nodded in serious agreement like I just signed a pact or something.
+
+I took a big breath in through my nose and out through my mouth.
+
+Seems like I've made temporary peace with my situation. Better to move on. No one else knows, so I might as well try to forget about it as well.
+
+I grinned and laid my head back on a pillow.
+
+I read some comics for a few hours to let my mind escape this reality for a while. It's better to distance myself as much as I can from thinking about things too much...
+
+"Gurrrggglllleeee"
+
+My stomach made a horrific sound. I'm starving.
+
+I rolled out of bed and stepped over the pile of silver on the floor to grab my sword and boots.
+
+I took 3 bronze from the dresser drawer and threw them in my back pocket.
+
+I opened the door and walked down the apartment steps making my way towards the village market.
+
+The air felt soft and sweet in my lungs, it was a beautiful evening for a stroll.
+
+I grabbed a sandwich at the corner store and continued my walk into town with no clear destination in mind.
+
+I walked through the village market to watch more people work and live their lives, then I passed the Alpine Square Starter dungeon to see a few new hunters crowded around the entrance, and lastly I made my way to the train platform.
+
+I thought to myself for a moment... taking the train to the Hunters Association may not be a bad idea right now. I need to get my license updated... Plus, what else am I going to do today? I'm definitely not in the mood to go dungeon diving.
+
+"Screeeeechh"
+
+The next train came about 5 minutes later, I stepped in and sat down. It's always fascinating to watch the buildings fly by while looking out the window.
+
+"Screeeeeechh"
+
+Less than 10 minutes later the train stopped by the Association's Office. I got up and walked in its direction.
+
+As I walked through the front doors of the Hunters Association I was greeted with that familiar bright smile of the woman in the lobby.
+
+"Welcome back Jay. Long time no see! What can we do for you today?"
+
+"U-Uh is Abby- I mean Ms. Sotoro available right now?"
+
+The woman looked at me curiously.
+
+"I believe she is in a meeting right now. It should be over with in about 15 minutes. If you could take a seat and wait for her, I'm sure she'd be happy to see you."
+
+I nodded.
+
+"Alright. That works. Thanks."
+
+I turned to my left and sat down in a slightly uncomfortable chair the was sat up against the wall.
+
+I set my sword next to me and crossed my right leg over my left knee. I had plenty to think about... so I wasn't bothered by the wait.
+
+About 40 minutes later...
+
+"Excuse me Jay, I'm so sorry the meeting went over by a few minutes. Ms. Sotoro is available to see you now. Pleas follow me."
+
+I looked up with a polite smile. I hadn't even noticed that the meeting went over on time, I was just zoning out in my own world.
+
+"Great. Let's go."
+
+I followed the woman down a narrow hallway until we eventually got to a door.
+
+*Knock *Knock
+
+She knocked and the door almost instantly flew open.
+
+"Jayyyy! What a surprise! How ya doinnnn?"
+
+I was almost blinded by Abby's bright green hair and eyes as she jumped out of the door.
+
+"Haha I'm good, I'm good. Just had to talk to you about something."
+
+"Come on in!"
+
+Abby motioned for me to enter the room. I nodded to the woman that walked me here. I closed the door behind me and sat down on the oval couch in front of Abby's desk. She ran over to her desk and sat on the front of it facing the couch rather than sitting in her chair. Her legs were swinging back and forth as she looked at me curiously.
+
+Just being with Abby made me feel so much better. I got a much needed passive release of dopamine. She is so high energy and just straight up cute, I can't help but feel happy around her.
+
+"I-I uh. I hit level 100. Was looking to get a D Class upgrade.. and didn't know if they'd ask to see my status if I asked up front. I thought it'd be better if I just went through you."
+
+Abby jumped off the desk.
+
+"Ouuuhhh yeah? You hit level 100 already? Lemme see lemme seeeee."
+
+I opened my status and showed Abby.
+
+Her eyes went wide.
+
+"That new skill... that's a really rare inspect type you know!!!"
+
+"It is? I haven't tried it yet, I didn't know it wa-"
+
+"Try it right now!! I want to see if its what I think it is!!"
+
+I was a bit thrown off guard. I closed my status and shook my head a bit to concentrate. I repeated the words "inspect" over and over in my head.
+
+I looked up and saw glowing blue letters and numbers above Abby's head.
+
+[Lv. 231]
+
+I raised an eyebrow.
+
+"Level 231? Is that your level??? How can I see it, I'm ju-"
+
+Abby interjected. She talks so fast it's sometimes hard to keep up.
+
+"Haha! I knew it!! That's a neat skill Jay! We should go hunting tomorrow. There's a few more things we can try outtt. Plus, I just had the most boringgggg meeting of my life. Some board members from the regional branch just came over, they're prepping for the C Class Exams in a few weeks. It always gets hectic around these times of the year. Let's go hunting, I haven't had any fun in a whileeeee. Come onnnn. Let's go tomorrow morning!! Come onnnnn!"
+
+I smiled. This is the Abby I know.
+
+"Yeah sure, I'm down to go tomorrow. I'll meet you here around 8?"
+
+"Yeahhhh let's do ittt. Now hand me your old Hunters License."
+
+"Okay, here."
+
+I handed Abby my license and she ran over to the correct side of her desk. After rummaging through drawers of pens and important looking papers she found what she was looking for and jotted a few things down.
+
+"Stay right there, I'll be back in a few minutes."
+
+I nodded.
+
+"Alright sure."
+
+I waited patiently with my arms crossed and head back resting on the couch.
+
+A few minutes later Abby returned.
+
+"Alrightttt you're all set. I did a manual Class upgrade for you so you don't have to show anyone else your status. Here ya go!"
+
+She handed me a small card.
+
+I took it and examined it closely. It had my name, my headshot from my previous ID, the Hunters Association logo, and a large letter D.
+
+I started grinning ear to ear.
+
+I'm officially a D Class Hunter!
+
+"Thanks Abby! You're a life saver!"
+
+She smiled and bobbed her head. Then stopped and looked at her desk with a stare of mild disgust.
+
+"I actually have a lot of dumb work to do today. Those regional reps love paperwork wayyyy too much."
+
+I scratched my head and let out a small smile. Abby turned her head back to me and pouted while puffing out her cheeks.
+
+"Well Jay. At least I can look forward to tomorrow. I have a cool D Class Dungeon I want to show you. It's gonna be funnn."
+
+She perked back up and I couldn't help but smile back.
+
+"Alright, sounds good. I'll meet you here tomorrow morning."
+
+I nodded at her and she nodded back in a playful but serious manner.
+
+"See ya Jay!"
+
+"See ya!"
+
+I walked out of the Hunters Association grinning while staring down at my new Hunter's License.
+
+I took the train back to Alpine Square and walked back to my apartment.
+
+The sun was almost all the way set, but it was still a nice walk home.
+
+Today has been one crazy day.... A lot of ups and downs... The only thing for me to do now is look forward to tomorrow.
+
+It's time to explore my first D Class Dungeon.

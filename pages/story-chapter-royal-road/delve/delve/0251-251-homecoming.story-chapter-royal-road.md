@@ -1,0 +1,311 @@
+---
+id: c3940ac7-68d5-5061-93a3-27ef65fbef63
+page-type-slug: story-chapter-royal-road
+title: "251: Homecoming"
+slug: 0251-251-homecoming
+partOf: delve
+position: 251
+ownLength: 4079
+unit: words
+publishedAt: 2023-11-19
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1414714/251-homecoming"
+royalRoadId: "1414714"
+---
+
+Finally, things are looking up.
+
+Gus sighed, leaning back in his spring-hinged chair to take a sip from his iced sasu juice.
+
+Objectively, the working conditions in the main branch were not that great. The constant light was a reminder of the terror he’d endured during the rank shift, and it was wreaking havoc on his sleep schedule. It was just stupid hot in the quest hall, and not for lack of chiller plates. His coworkers simply refused to set them to a reasonable temperature. Those same coworkers also treated him like something they’d stepped in, looking down on him for being a failure and saddling him with all the worst assignments. There were plenty of those to be had, with no dulls in the City of Lights to take them. Unawakened couldn’t stay here long without starting to feel like they were being crushed under the combined weight of all the hells.
+
+For Gus, that wasn’t an issue. For him, it was a matter of contrast.
+
+The drinks in the break room were free. His chair was comfortable. Nobody was actively trying to kill him.
+
+That was key.
+
+His flight from Three Cliffs had been an epilogue in terror after the chaos that had been his life this past year. Showers of fire and destruction as he scrambled up the crumbling cliffside. A days-long flight along unsettled coastline, ending in a treacherous pass over a mountain. Barstone, the city where he’d hoped to find refuge, violently rioting over fear of the Empire and the loss of the Citizens.
+
+Obviously, he’d taken the first ship off the continent he could. It had put him in massive debt, but so what?
+
+Leaning further back in his chair, Gus closed his eyes and took another sip of his frozen drink with a sigh.
+
+“HELLO!” a loud voice intruded on his calm through the shutter. This was followed by the loud rapping of knuckles on the wooden slats. “HELLO! I CAN SEE YOU IN THERE!”
+
+Rolling his eyes, Gus set down his drink. Taking his time, he sat up and pulled the rope to lift the shutter. He then made sure to take even more time tying a doubly secure knot to hold it open while the irate adventurer glared. When he was finished, he sat back in his chair and crossed his legs before gesturing to the impatient man—a scruffy warrior of some type with a backpack almost as large as he was—to go ahead.
+
+“Finally,” the adventurer muttered to himself, then slammed a paper on the counter, gesturing expressively with his other hand. “I. WOULD LIKE. TO TURN IN. THIS QUEST. DO YOU UNDERSTAND ME? TURN IN QUEST?”
+
+“I speak Common,” Gus said, glancing significantly at the small sign resting on the counter of his booth, which stated ‘Quest Transactions - Common Language Service’ in a clear, bold font. He kept his face neutral as he returned the adventurer’s stare. “Don’t trust the sign?”
+
+“No, I do not,” the adventurer snapped. He pointed sharply down the line of booths in the quest hall. “The clerks at the last three desks I tried barely knew that many words between them! They had the same damn sign, so don’t give me any of your City of Lights sass! Now, can I turn in this quest or not?”
+
+Gus uncrossed his legs and sat forward. “Very well, sir. Your plate?”
+
+“My plate number is 11292.“
+
+“Marvelous, you’ve memorized it,” Gus said. “And the plate itself?”
+
+“In my pack. You seem a little slow, so I’ll repeat it for you. My number is—“
+
+“If you don’t show me your plate, I can’t help you. Guild policy.”
+
+“Bullshit! Since when?”
+
+“Since you called me slow?”
+
+“Look, do you see this pack? It’s stuffed full of bloody Mert kidneys. My plate is somewhere at the bottom. You’re really going to make me dig it out?”
+
+Gus finished off his drink, setting the cup down with a sigh. “I’m not making you do a thing. You chose to mutilate the bodies. You chose to keep the organs like a psychotic magpie.”
+
+“They’re for the quest, you ass. I will not be spoken to like this by a tiny man in a tiny booth who clearly couldn’t hack it in the real world. Get out here. I challenge you to a duel.”
+
+“I refuse.”
+
+“You can’t do that!”
+
+“I think you’ll find that I can,” Gus said. “Right of refusal. Look it up.”
+
+“I demand to see your manager!”
+
+“She doesn’t speak Common,” Gus said, spreading his hands in mock helplessness. “And if she did, she’d just tell you the same thing. She’d also tell you to bring the kidneys to the wet dropoff. We don’t process that sort of thing in here. Now, please. You’re holding up the line.”
+
+“What line?!“ The incensed adventurer demanded, whirling with some difficulty given the size of his pack. The hand he flung out to gesture at the supposed emptiness was caught by a cloth-wrapped gauntlet before it could slam into the gauntlet owner’s chest.
+
+“Easy there, friend,” a female voice said.
+
+That’s…
+
+“Let go!” the rude adventurer demanded, stumbling a step back under the weight of his pack. With it out of the way, Gus got a better look at the two figures behind him. They were Sadiiri mercenaries by their wrapped armor, but—
+
+“Hi Gus,” the male not-Sadiiri said.
+
+“NO!” Gus hollered as the blood finished draining from his face. He almost knocked over his chair in his rush to his feet. “NOT YOU!” He began fumbling with the knot in the shutter rope. “NO! NO! NO! WE’RE CLOSED!”
+
+“Looks like somebody didn’t expect to see us,” Rain said offhandedly. “What are the odds, huh? I’m glad you got out.”
+
+“NO, I SAID!” Gus shouted, still fumbling with the cord. “Every time you two show up, the city goes to shit! You’re cursed! CURSED! GO AWAY!”
+
+“We’ll go, but not just yet,” Ameliah said. “We need someone to give these to Burrik for us.” She held up a pair of envelopes. “We’d rather not trouble him ourselves. Can you help us? Whenever it’s convenient.”
+
+“I don’t know the Guildmaster!” Gus said. He’d done too good of a job on the damn knot. “I don’t know the Guildmaster, or how he gets his mail, and I certainly don’t know you! You’re just figments of my imagination!”
+
+“Excuse me!” cut in the rude adventurer. “I was first in line! Whatever your issue with this runt, you…can…oh. Oh, shit. Please, take my spot. Here, let me get out of your way.”
+
+Rain tapped his silver Guildplate on the counter. “Thanks again for the plate, Gus. I hate to pull rank with it, but it’s better than making a scene. We can’t afford that right now. And sorry. If we’d known seeing us would be this hard for you, we’d have gone to another booth. We’re just glad you’re okay.”
+
+“Here,” said Ameliah, sliding across the pair of envelopes. Both had the words ‘Burrik the Volcano’ written on them. One was written in a familiar hand, but he was entirely too frazzled to place it. Finally, the knot gave way.
+
+“Hang in there!” Rain managed before the shutter slammed closed.
+
+Gus leaned back in his chair, burying his eyes in his elbow.
+
+Maybe I’ll try the Isles.
+
+With a series of progressively smaller bounds, Rain slowed to a walking pace as he descended through the canopy. His final step deposited him smoothly on the ground, and Tarny stepped forward to greet him.
+
+“Welcome back, Captain.”
+
+“Good to be back,” Rain said, smiling and breathing deeply of the local essence. It was disordered, obviously, but cleaner than it had been. Chaos didn’t have to be filthy. It could also be raw and primal, the energy of change. He’d learned as his senses grew that elemental aspect was only a part of the flavor. There were other axes—positive to negative, new to old, pure to corrupt, however you chose to define them. Here, the energy was starting to flow—ancient, stagnant muck breaking up to fuel new growth.
+
+“Hey Tarny,” Ameliah said, having landed at roughly the same time as Rain. Both of them dismissed their helmets.
+
+“Ameliah,” Tarny said, smiling in greeting.
+
+Rain smiled back, setting down one of his packs. Tarny had made progress too. There was a small core of cleansed potential growing within him. He’d taken the first step along the path.
+
+Excellent.
+
+“Please let me be the first to congratulate you in person,” Tarny said. “None of us doubted you, but it must be a weight off your mind.”
+
+“Understatement of the century,” Rain said with a smile, slipping his second pack off and dropping it beside the first. “Congratulations yourself.”
+
+Tarny paused. “For?”
+
+Rain gestured. “For accessing your soul, of course.”
+
+“You can tell?”
+
+“I can tell a lot of things,” Rain said. “It’s kind of distracting, really.”
+
+“I see,” Tarny said, though obviously he didn’t.
+
+“We’ll talk about it later with the Council of Souls,” Ameliah said. “For now, nice work, though I can’t see it for myself just yet. I see something else, though. What’s that you have there?”
+
+“Your uniforms,” Tarny said after a pause, taking hold of himself and lifting the pair of folded garments he carried. The fabric matched his white Ascension jacket, making it fairly obvious what they were. “Vanna requests that you wear them for your entrance to the camp and at all times when you are on duty going forward. For you, as captain, that means any time you are in public.”
+
+“Sure,” Rain said with a shrug, reaching for his belt and removing it and his pouches before burning his Sadiiri wrappings to ash with a precisely controlled flash of Immolate.
+
+“You do not object?” Tarny asked, raising an eyebrow as Rain took the topmost jacket from his stack.
+
+Before answering, Rain shook the garment out to its full length for inspection. Dempton had clearly taken his feedback to heart. The white, knee-length trench coat was made of a stiff, no-nonsense fabric and had no less than a dozen pockets visible upon first inspection. The one on the left breast was embroidered with Ascension’s globe and arrow logo in white thread—understated compared to the massive logo that had stretched across the back of the first version. It buttoned up the front with a line of unpolished bronze buttons, ending in a simple, folded collar. On the left side, the collar bore three shiny studs—brass, according to Detection. Beside them was a pin cast from solid gold and shaped like an upward arrow.
+
+Rain looked back at Tarny. “Why would I object?”
+
+“Oh, I don’t know,” Tarny said, passing Ameliah the second coat. “Your constant and unrelenting rejection of all ceremony and any formality surrounding your station?”
+
+“It’s not about rejecting formality,” Rain said, swinging the coat over his shoulders and finding it sized perfectly for his armor. “It’s about not lording my status over people. I’m not a lord, remember?” He gestured to the pins on his collar. “What do these mean? I assume the pips are for Entrusted. Very Trek. I like it. The arrow means captain?”
+
+“Yes,” Tarny said, turning to Ameliah. “Yours has a shield for your place on the Defense council, but it is silver, as you are not its head.” He touched his own collar. “I wear the silver quill of Administration.”
+
+“What’s Vanna wear?” Rain asked. “Golden quill? Something different since she’s also commander?”
+
+“A silver arrow,” Tarny said. “The highest badge of office takes precedence. The collar is only so large, and you expressed a desire for minimalism.”
+
+“I did,” Rain said with a nod, fastening his belt and pouches again inside the jacket. “Works for me. Simple. Clear. Lets people know who they’re talking to. Maybe one more pin wouldn’t hurt, though, to clear it up for outsiders. It’s really just Vanna, Smelt, and I who’d need the extra. We can talk about it later.” Finished, he gave the coat one last tug, then turned to face Ameliah. “How do I look?”
+
+“Very captainly,” Ameliah said, adjusting one of her sleeves. Like him, she’d left the jacket unbuttoned. “What about me?”
+
+“Like a badass member of Ascension,” Rain said. “Which is precisely the idea. Also beautiful, because, you know.”
+
+“Stop,” Ameliah said, pushing his shoulder playfully. “Okay, Tarny, let’s go. I assume we’re headed to the council?”
+
+“No meetings or council business until tomorrow,” Tarny said. “We thought you’d like some time to settle in before the debrief. It isn’t like we don’t know the important details from your reports.” He grunted, lifting one of Rain’s bags. “Oof. Is this all crystal?”
+
+“Yes,” Rain said, grinning. “This one’s lighter if you—“
+
+“I’m fine, I’m fine,” Tarny said, hoisting the pack over his shoulder, the Crysts and Tel within clinking against each other. He turned and started picking a path through the trees. “Come along, then. Watch your step. Mud’s deep out here in spots.”
+
+“The bug situation seems to be well in hand,” Ameliah observed as she and Rain moved to follow, both of them cheating with Airwalk.
+
+“You can thank Meloni,” Tarny said. “She figured out how to invert Myth and Reason’s repellent formula, making it an ‘attractant’, if you’d like. Your bug-frying anchor has been doing brisk business.”
+
+“Ah,” Rain said. “Smart.”
+
+“It’s still bad further out,” Tarny continued, “but we’re making headway. Culling the Bloodhog population has also had an impact.”
+
+“Glad to hear it,” Rain said. “Have we finished mapping the ranked zone yet?”
+
+“Indeed we have,” Tarny said. “It begins not far past the lair and continues for quite some ways. Given its expanse, we hope to find another lair or two, but no luck as yet.”
+
+“I’ll go scouting tomorrow,” Rain said, not voicing his prediction that his new senses would prove invaluable. He didn’t want to get anyone’s hopes up, including his own. “You haven’t booked the whole day, have you?”
+
+“Adjustments can be made,” Tarny said, and Rain’s heart sank. That meant he had.
+
+Ameliah laughed. “I see something ahead. There, at the base of that tree.”
+
+“Farm plot,” Tarny said. “The cervidians have set up quite a number of them. We’ve left them in charge of the project, given their experience with covert agriculture.”
+
+“Oh?” Ameliah asked. “That’s smart.”
+
+“Indeed,” Tarny said, gesturing to the turned earth at the base of the tree as they passed. “They brought a number of crops that do well in full shade. Most are at least somewhat palatable to humans. These are the latest plantings. Ah, look here. These ones have sprouted.”
+
+“What are they?” Rain asked. “Mushrooms?”
+
+“Of some sort,” Tarny said, moving on, guiding them onto a recognizable path through the increasingly tamed forest. As they walked, the plants in the farm plots became steadily larger, to the point that Rain started to get suspicious.
+
+“Somebody took Cultivate, didn’t they?”
+
+He paused, then cursed.
+
+“Filth!”
+
+“What?” Tarny asked.
+
+“We didn’t think to ask Gus about Lellermen Green,” Ameliah said, having come to the same realization as Rain.
+
+Tarny would know what they were talking about, as they’d mentioned the encounter in the report they’d sent before departing Xiugaaraa.
+
+“We should have pressed him!” Rain lamented. “If he got out, then Green might have too!”
+
+“Well, if it makes you feel any better, we have our own Green now,” Tarny said. “Greenbriar. You asked if someone took Cultivate. He and Camaya both did. They’ve been working together as a mother-son team.”
+
+“That’s excellent,” Rain said, returning with a blink.
+
+“Again, I agree,” Tarny said. “I’ve been using Fall to offset Ascension’s hunger, but we’ll need crops if we’re to survive here long term. They saw a need and decided to fill it. They haven’t joined Ascension, though. Most of the cervidians haven’t. There is a strong desire amongst them to not become reliant upon us.”
+
+“That’s completely understandable,” Ameliah said. She hesitated. “Have there been any...incidents?”
+
+#todo, Fall’s impact on essence. Mana is probably just a catalyst.
+
+Pinning the thought with barely a blip in his focus, Rain returned his attention to the much pricklier problem Ameliah had raised. A problem he had much less idea how to tackle.
+
+“Not as such,” Tarny said. “In fact, I would say things have improved markedly since you left. Some of the barriers are coming down. I think we have proved that not all humans are the same.” He grunted softly. “As if you did not do enough to prove that already. There are general tensions about the availability of housing and certain limited commodity items, but that is not unique to the cervidians. We will discuss the supply situation tomorrow.”
+
+“Better than I’d hoped,” Ameliah said.
+
+“Oi, Jamus, there they are!” Carten’s voice boomed through the trees, neatly cutting off that topic. “Thought I saw Tarny head out ‘ere!”
+
+Rain turned, easily spotting Jamus first by his brilliant orange outfit, which would have been over the top even for hunting season. Carten was less visible, but he made up for it with noise, crashing through the underbrush toward them.
+
+“Hey guys,” Rain said, raising a hand. “Long time.”
+
+They have no idea just how long.
+
+...
+
+I’ll tell them later.
+
+“Stupid swamp,” Jamus grumbled, whipped in the chest by a bush as Carten released it. He wasn’t wearing an Ascension jacket, but he’d pinned the three brass pips to his orange collar. “Hello,” he said with a wave as he struggled free, then tsked and stooped to pick the briars from the side of his robe. “One moment.”
+
+“How was the big city?” Carten asked, beaming and spreading his arms wide. He had no Ascension jacket either and wore his pips somehow attached to his breastplate.
+
+“Stressful,” Rain answered honestly, dropping his bag and accepting the offered hug, clapping the Defender heartily on the back.
+
+“Ooph!” Carten let out a grunt. “Easy!”
+
+“You’re the one who decided to hug a silverplate,” Jamus observed. “I would hug you both as well, but I value my ribs in their present configuration.”
+
+“Come on, you know we’re more careful than that,” Ameliah said with a laugh.
+
+Jamus grinned. “I take it things went well?”
+
+“Very well,” Rain said, patting Carten on the shoulder. “Okay, that’s enough.”
+
+Carten eventually let go, only to give Ameliah the same treatment. Once she managed to free herself without damaging him, Carten and Jamus joined them as they left the farms behind, chatting happily.
+
+The hill they’d been situated on sloped down into a truly miserable bog, but a dry path had been built through it, making for easy footing. As they walked, Rain was forced to put his questions on hold, instead retelling the story of their adventure. He and Jamus weren’t on the short list of people with access to his full, unredacted reports, but they did know the basic details. Even before reaching the Bloodmarsh, the council had added a provision to the codes allowing all Entrusted to peruse mission summaries at their leisure. Some surreptitious probing revealed that those summaries didn’t include any of the more sensitive details, such as the attack by the Foundry. Carten and Jamus were oblivious to that event, and oblivious they would remain. They did not need to know. The lie of omission hurt, especially with how much Rain wished he could confide in them, but the system was in place for a reason.
+
+Eventually, the land began sloping up again, and Ascension’s main camp came into view. Rain had already known roughly what he’d see, thanks to his Detection anchors, but there was no comparison to seeing it firsthand.
+
+Dry land was at a premium in the Bloodmarsh—at almost as much of a premium as the time of Ascension’s lone Geomancer. The main camp was situated atop the tallest hill they’d found in the vicinity of Temerity’s landing site. The tents had just been going up when Rain and Ameliah had left, but now there was a proper shantytown nestled under the cover of the trees.
+
+“This way,” Jamus said, taking the lead from Tarny as Rain and Ameliah returned various greetings. “We’ve prepared something of a welcome ceremony in the tavern.”
+
+“We have a tavern?” Ameliah asked, then slapped herself on the forehead. “Of course we have a tavern.”
+
+Rain smiled, taking in more details as he followed. Ahead through the warren of trees and tents, he spied the first proper building—the low walls made from the glassy stone bricks produced by the smelter. The roof was shallowly sloped, and four trees poked up through it, helping, he was sure, to hold it up. It didn’t look very sturdy, made largely of sticks and bark.
+
+“That isn’t the tavern,” Tarny said, seeing him looking. “Smelt has designated this one as a supply depot for miscellaneous items and materials. Ascension’s armory is below ground.”
+
+“Ah,” Rain said, seeing more buildings ahead. The construction was slapdash, but he still found himself impressed by the rate of progress.
+
+Many hands will do that. Especially without a zoning board.
+
+...
+
+Hells, this is going to be a town, isn’t it? I can’t expect everyone to join Ascension. #todo zoning board. #todo mayor.
+
+“Not being able to cut any trees has limited us,” Jamus said, waving a hand. “We’ve done what we can to keep things orderly.”
+
+“You’ve been helping with the planning?” Ameliah asked.
+
+“Everyone’s been helpin’ with everything,” Carten said proudly. “Gonna build a house fer me an’ Evonna with me own two hands.” He scratched at his ear. “Soon as there’re bricks for it.”
+
+“It will be a while,” Tarny said. “The soil here is fertile, but it turns to ash in the smelter. The bricks you see came mostly from sand dredged from the ocean floor. Individual homes are low on the list.”
+
+“We’re dredging the ocean floor?” Rain asked.
+
+“To deepen the channel for Temerity,” Tarny said. “Bakal has appointed himself to be in charge of the harbor project.”
+
+“Wow, Carten, you were really serious with that ‘everyone is helping’ bit,” Ameliah said. She turned back to Tarny. “Bakal hasn’t joined Ascension, has he?”
+
+“No,” Jamus said with a laugh. “The illustrious Sea King cites boredom as the reason for his contribution. And worry not. He has been complying with the rules. The channel won’t be visible from above, though that means it will remain tricky to navigate for a vessel of Temerity’s size. Rest assured that no tree has been cut save those that were already dead.”
+
+“That one of the rules?” Ameliah asked.
+
+“No fire, smoke, light, or anything else that could be seen as artificial from the air,” Tarny said. “The smelter is underground, as are the kitchens.” He pointed to a building in the distance. “All the smoke is vented through there. We’ve installed one of Rain’s Purify anchors to deal with it.” He shifted his finger to indicate a different building. “That’s the entrance to the Ascension complex proper. It’s also where we’re going.”
+
+“The tavern is underground?” Rain asked, already in the process of mapping the sublayer with Detection. All of it was warded. The protections were strong enough to block the spell when used through his old shoddy anchors, but they weren’t nearly strong enough to stop him in person. What he found as he pushed further only left him even more flabbergasted. They’d built below the groundwater. They’d built pumps. He could feel cables running through the stone walls to carry electricity.
+
+It was starting to seem like he’d actually been gone for as long as he felt like he’d been gone.
+
+“Drunks and discretion do not mix,” Jamus said as they entered the building, oblivious to Rain’s mounting awe.
+
+Corrin deserves a medal. World’s hardest-working Geomancer. And Romer. And Vanna.
+
+“Like we’ve got enough booze fer’ anyone ta get drunk,” Carten said, muscling past Tarny into the stairwell. “Oi! They’re here!”
+
+Setting aside his amazement before he hurt himself, Rain descended, arm in arm with Ameliah. Carten took the first turn upon reaching the hallway at the bottom, leading them into a room just packed with friends. To Rain’s expanded senses, the positive vibes were so dense it felt like he’d been struck by a tidal wave of marshmallows.
+
+“Welcome home,” Tallheart rumbled, standing closest to the door with Zero perched atop his head between his antlers. He held up a pair of plates. “There is pie.”

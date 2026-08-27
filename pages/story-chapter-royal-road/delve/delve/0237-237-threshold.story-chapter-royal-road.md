@@ -1,0 +1,199 @@
+---
+id: 497f8479-e8fb-587a-9d36-d230f0904f5a
+page-type-slug: story-chapter-royal-road
+title: "237: Threshold"
+slug: 0237-237-threshold
+partOf: delve
+position: 237
+ownLength: 3527
+unit: words
+publishedAt: 2023-07-09
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1271479/237-threshold"
+royalRoadId: "1271479"
+---
+
+Seb tossed the chunk of worm liver into the pile for Lezza and Tito, then wiped his forehead with the back of his wrist, accomplishing nothing beyond smearing the blood that was already there. He was tired, covered in guts, ash, and who knows what else, and more than ready to be done with this adventure. And he really had to piss. The others doubtless felt the same— perhaps not the piss part—huddled in the tunnel behind him and shredding apart organs by the light of a lone, failing evertorch. Worms were good hunting, practically bursting with Tel if you were willing to work for it. Most weren’t.
+
+“Shh!” Dryri abruptly hissed from the mouth of the tunnel where she was standing guard.
+
+Standing in an instant, Seb abandoned the corpse of the worm and rushed over to her on silent feet, scooping up his axe on the way. By the time he got there, it was clear what she’d heard. There was a voice—echoing down the tunnel to the beat of pounding footsteps.
+
+“...lley low, ain’t no river wide enough, baby!”
+
+It was a man’s voice, singing powerfully, answered by a woman’s, bright, beautiful, and clear.
+
+“If you need me, call me, no matter where you are...”
+
+“Alert!” Dryri shouted as the singing voice drew rapidly closer, the footsteps racing in time with the lyrics. “Unknown magic!”
+
+Seb braced himself, but the rolling cloud of white mist proved harmless as it swept past him, not triggering his resistances. As the voices grew stronger, he realized that the blood coating him was drying and flaking away. Their evertorch, meanwhile, seemed to blaze with new life.
+
+“Look at the worms!” Tito yelled, and Seb risked a glance to see them literally dissolving before his eyes.
+
+The distraction lasted all of a heartbeat, and he whipped his head back around as light poured into the tunnel. Green rings formed around his feet, and he felt stamina trickling into him. Again, his resistance did nothing, so it was a buff, not an attack. The voices were practically on top of them, now singing in unison.
+
+“”...Cause, baby, there ain’t no mountain high enough! Ain’t no valley...””
+
+Dryri stumbled away from the tunnel mouth as several blurred forms rushed past, moving with such speed that the very wind chased them.
+
+It was another party, obviously, but by the time Seb’s brain registered the figures as human, they were gone. The shared chorus ended, and the man’s voice rose again, starting on the next verse as the rings vanished, but all Seb could do was look down at himself in shock.
+
+He no longer had to piss.
+
+Turning, he stared at his companions, then down at the glittering Tel covering the bare floor where the worms had been.
+
+It took a while, but Tito was the first to recover, sheathing his now-unneeded butchering knife and coughing to clear his throat. “So, that happened.”
+
+Letting some of his various magics wink out and turning others down, Rain unceremoniously dumped the two teenagers he was carrying in an undignified, groaning heap. Thanks to Force Ward, they were unharmed by the rough treatment, their state entirely a result of their own stubbornness. Ameliah arrived a moment later, depositing the two women of their group with slightly more care—but only slightly. Last to arrive was Genn, carrying the bags. He wheezed to a stop, letting his burdens fall as he doubled over, clutching his side.
+
+“Oh, you’re fine,” Rain said, glancing at his HUD and noting the time as 7:59 AM.
+
+“I’m...not...fine...” Genn gasped, falling to one knee. He was just being dramatic. His soul was in perfect health. Barely even strained.
+
+Rain rolled his eyes before returning to his survey of the cavern. It was impressive, sporting a ceiling almost as high as the one in the Ashen Jungle, though the space was mostly empty, leading up to a massive fortress built out of the rear wall. Light came from a mosaic of blue and purple Light Plates rather than incandescent moss. As the minute ticked over, true dawn crashed over the cavern like a wave. Rain missed the start of it, having looked down to watch his younger charges each gain several levels through essence exchange. The show was still going on when he looked up again, the crystalline plates brightening in a complex, flowing pattern. Purples brightened to sky blue, some of the plates continuing on to white, forming the suggestion of drifting clouds.
+
+Okay, that’s pretty slick. How do the enchantments know what time it is? Internal clocks? Some system trigger? Are they networked?
+
+“Look alive,” Ameliah said sharply as Entente soldiers rushed out of the fortress. She raised her hands, calling out to them as they rushed forward. “We’re friendly! Nothing is chasing us!”
+
+She looked at Rain, then significantly down at the disguised helmet tied to his waist. Dozer, riding on Ameliah’s shoulder at the moment, quivered in readiness, fully prepared to unleash extreme, gooey violence on anyone that threatened his King and Queen.
+
+[Settle down, you,] Rain sent, meanwhile signing surreptitiously to Ameliah. “They are wary but not hostile. Bronze rank. Not soft.” [People are friends, not filth. At least until proven otherwise.]
+
+Ameliah nodded, then looked back at the soldiers. She’d probably sensed as much for herself and had merely wanted his confirmation. Together, they waited. It was a big cavern.
+
+Despite running all night and descending who knew how many kilometers, the local rank had only risen to nine. Threecore was a threshold outpost, which meant the lower exit to the illuminated complex would be rank ten. That one rank made all the difference when it came to the damage limit. If they’d been arriving from that side, he’d have had his helmet on even if the charging soldiers had been a pack of goofy puppies instead.
+
+As the Entente finally arrived, most of them streamed past without stopping, firing Lunar Orbs down the tunnel. Only three confronted them directly. The leader—by the strength of her soul and her general bearing—was a woman with dark skin and long pure-white hair that shimmered like freshly fallen snow. From her equally white robes and lack of an obvious weapon, he judged her a Mage, while her burly escorts’ massive shields and heavy armor marked them as Defenders. Their hair was white, too, down to their matching beards, and other similarities between them had Rain tentatively marking them down as brothers. None of them looked older than thirty.
+
+The Entente must go through a fortune in hair dye.
+
+Literally projecting friendliness—the odds were decent that veterans like these would pick it up, even if they didn’t consciously realize what they were feeling—Rain inclined his head. “Greetings of the Light.”
+
+“May it shine eternal,” the leader replied, gesturing to the fallen teens. “Do they require healing?”
+
+“Only rest,” Rain said. “We left the city fourteen hours ago and only stopped twice.”
+
+One of the Defenders whistled. “We were informed your party was underway.” He barked out a laugh. “You should be more gentle on your juniors. You weren’t expected to arrive for another two days.” He slapped his probably-brother on the back. “Guilders, am I right? Miss, are you aware there’s a slime on your shoulder?”
+
+“Mercenaries, and yes, I’m aware,” Ameliah said, reaching up to pet Dozer for being such a good boy.
+
+“They did this to themselves, mostly,” Rain said, gesturing to the fledglings and relieved by the banter. “We offered to carry them well before they reached their limit, but they had to get competitive. Nobody wanted to be the first to quit.”
+
+“I...didn’t...quit...” Genn gasped, now sprawled on his back. “Oh gods.”
+
+“Leveled...twice...” Bryz choked.
+
+“May I check them?” the leader asked.
+
+Rain nodded, then remained silent as she knelt beside Nim.
+
+“Your hand, please,” the woman said kindly.
+
+Nim moaned, raising her arm with what looked like an immense effort. The Entente officer took it, closing her eyes for a moment before opening them again and moving on, checking the others besides Genn, who waved her away.
+
+“You’re a healer?” Rain asked when she was finished, not hiding his mild surprise. Since when is the healer in charge? And since when is the person in charge not an asshole?
+
+“No, but I have a few skills,” the woman said, inclining her head. “I am Mora Surone, first of the Entente in Threecore.”
+
+Big four, Rain noted, hearing her house name, though it didn’t necessarily mean she was part of the main family. He inclined his head in return. “They call me Mouse.”
+
+“Tiger,” Ameliah said.
+
+“You are both silver?” Mora asked.
+
+“We are,” Rain confirmed, switching to high-formal conjugation. “We were hired by Lord Olez Kinimar beholden Lomaris to escort his daughter and her cadre to their mentor, Illuminator Legruz Lomaris.” He returned to mid-casual. “But then, it sounds like you already know that. He is here, yes?”
+
+“Indeed,” Mora confirmed, gesturing expansively at the glowing ceiling. “The prestigious Illuminator is as accomplished as he is a trial to work with.” She glanced down at the crumpled fledglings. “Your rapid journey will serve as a fitting prelude to what awaits them.”
+
+“Don’t worry,” Genn said, now sitting up and fumbling with his canteen. “They know.”
+
+Nim nodded weakly, her forehead pressed against the stones. “He’s the best,” she managed.
+
+Mora smiled. “Hmph. Very well then. The esteemed Illuminator is a late sleeper. You should have a few hours before he realizes you are here. Nothing escapes that man.” She clapped her hands, then whistled to her patrol. “Back inside, everyone. You four, help them up. We’ll stash them in the old barracks after we verify everyone’s passes.” She turned to Ameliah and Rain. “I assume you’ll want to stay near them until your task is completed, but would you mind joining me for breakfast while they rest? Today’s special is the meatpile. I don’t want to miss it. More importantly, there is a matter that I would discuss with you. A job, if you’d like. Know that the Entente will reward you for services rendered. That’s what you mercenary types like to hear, is it not?”
+
+Rain smiled, glancing at Ameliah, who was smiling back. He returned his attention to Mora, then nodded. “You had us at meatpile.”
+
+Rain raised an eyebrow, then swallowed his mouthful of bacon. “Kin? Seriously?”
+
+“Yes, Kin,” Mora said, carving a chunk off of the slab of ham that had previously formed the foundation of her breakfast. “How are you with hordes?”
+
+“I think it’s safe to say they’re my specialty,” Rain said. “I just didn’t expect them to be a problem for you. Not with a fortress like this.”
+
+Couldn’t they just close the doors?
+
+“They’re not the problem themselves,” Mora said, having paused to chew before she answered. Since the moment they’d been served, she’d been attacking her meal with unrelenting efficiency, yet never once had she spoken with her mouth full.
+
+Hurriedly, Rain grabbed a sausage and bit into it, aware of how far he’d fallen behind. Ameliah was doing better, having left the talking to him, and was presently gnawing on a chunk of chicken with some amusement.
+
+Mora was already continuing, busy dicing her ham into neat little cubes as she spoke. “I would class them as an annoyance. The nightly assault is up to four and a half hours, though the intensity is worst in the first fifteen minutes. After that, the bodies are piled so high that they must eat through their own dead to reach us. I would complain that the blockage is limiting our hunters, but that would only be the case if anything remained bottomside for them to hunt.” She sighed unhappily, finishing cutting her ham and waving her fork at it in a circular gesture. “There’s usually these little Chitinsquirrel sausages that are just divine. We have our herds, but surface meat just isn’t the same.”
+
+Rain glanced at the sausage he was eating, suddenly wondering exactly what animal it had come from. Truly, this place was vegan hell. He shrugged, then popped the rest in his mouth, swallowing it and his questions about subterranean animal husbandry in favor of something a little more relevant. “Why haven’t you sent the hunters out to cull the pack?”
+
+“That’s the thing,” Mora said, folding her hands in her lap. Rain had to do a double take seeing that her plate was now empty. “We can’t.”
+
+“Why not?” he asked. “They can’t handle hordes outside the fortress?”
+
+“No, it’s not that kind of problem.” Mora sighed. “It’s politics.”
+
+“Ah,” Rain said, appreciating the sheer quantity of tired resignation she’d managed to jam into the single word.
+
+“Mmm,” Mora agreed. “The relationship between the Entente and the houses is complex enough without adding in the Bank corporations and all the Guilders that are constantly running around. This time, it’s the Guilders causing the problem. Kin naturally spawn in the Shatterwarren, which is an unaspected zone on layer eleven just to the east of us, toward the Guild lift. Normally, the other denizens would keep such weak monsters in check, but Guilders have been building the pack.”
+
+“Why?” Ameliah asked. Rain looked at her and did another double take as he realized she’d also finished her meal. Dozer was washing her plate. Feeling inadequate, he determinedly cut into his ham steak.
+
+“Kin consume everything, even other monsters,” Mora said, gesturing to her empty plate. “I’m sure you’ve heard the stories. I’m also sure you’ve heard that Kin beget Kin, spawning through proximity. What most do not know is the mechanism.” She looked up. “Stop me if you are one of the few.”
+
+“Go on,” Ameliah said, Rain being too busy chewing.
+
+Mora nodded, then continued. “Kin condense Tel within their guts using the matter they consume. When a Kin has eaten enough to form a Tel, it begins gestating an egg. It lays this egg when it is convenient, usually when there is no more food within sight, usually during the day, and usually in a place where other Kin have recently laid, forming a cluster. At dusk, all of the eggs break open, and a new horde emerges.”
+
+“The Guilders are farming the eggs, are they?” Ameliah said. “If you destroy them before they hatch, the Tel are free for the taking?”
+
+“Indeed,” Mora confirmed. “The Kin strip the caverns of biomass overnight, convert it to Tel, and then the Guilders reap the rewards at little risk to themselves. Each of the three parties we have encountered has some way of keeping the things off them while they move from cluster to cluster. I would applaud them were they not disrupting our food supply, and I would put a stop to it if not for the legality of their claim. The Entente has jurisdiction within our facilities, but the wild depths are free, as the saying goes. We have told them of the side effects of their little farming operation. We have directly asked them to desist. We have even lodged an official complaint with the Guild. I shouldn’t need to tell you how unlikely any of those paths are to lead to success.”
+
+“I see,” Ameliah asked. “These are bronze Guilders we’re talking about?”
+
+“Yes,” Mora said. “We can give you full reports on each of the teams. To be clear, and since you’re mercenaries and I feel like I have to say it, I don’t want them killed. Persuade them to stop, preferably by clearing out the Kin so there’s no reason for them to stay. Will that be a problem for you?”
+
+“We should be able to manage that,” Rain said, smiling as he swallowed his last bite.
+
+“And if they attack us?” Ameliah said.
+
+“If they’re dumb enough to attack a pair of silvers, what happens to them is their fault,” Mora said, getting to her feet. “Now, I said I’d reward you, and I’m not so naive as to try and convince you that the job itself is the payment. You’d have seen the situation yourself the moment you set foot bottomside. Do this for me, and I’ll pay you each ten GranTel and five Light GranCrysts. Obviously you can keep whatever you scavenge. Just as obviously, I never asked you to do this.” She extended a hand to her side in an unexpected, two-fingered Sadiiri salute. “Do we have a deal?”
+
+Having managed not to choke at what felt like an absurdly generous reward, Rain glanced at Ameliah. She’d already thrown out two fingers to match Mora and was wearing a hungry grin. He quickly copied her, grin and salute both.
+
+HELLS yes!
+
+While Ameliah went with Mora to her office to get the rundown on the Guilders, Rain followed one of her underlings toward their library, taking Dozer with him. He made a show of stepping carefully to avoid disrupting the omnipresent Light enchantments with his armor, unwilling to reveal that his superb domain control made such caution unnecessary. As in the city above, casually walking around in metal equipment was frowned upon in Threecore. Thanks to his mercenary persona, nobody was going to call him on it, at least.
+
+Upon arriving at the library and having a brief chat with its curator, Rain proceeded to plunder the house of knowledge for every scrap of information available. Primarily, this was in the form of zone codices, of which he scanned dozens by flaring Winter and flipping through the pages as fast as he could without damaging them. Once he’d had a chance to digest them properly, he and Ameliah would be much better prepared for what awaited below. He’d also scanned what few works of fiction the Entente had out on display, not that he could say when he’d be able to justify the time to read something for fun. By the time he finished everything that had been out in the common area, Dozer had fallen asleep in his helmet and the librarian was giving him the stink eye.
+
+Rather than push his luck, and sensing that Ameliah had just left Mora’s office—presumably on her way to the barracks—he decided to pack it in. Tucking Dozer in his upended helmet under his arm, he instructed the underling to lead him there as well.
+
+The walls here were warded. While his anchors didn’t care about such things, the curtailed range from each origin point made keeping track of relative positions tricky. Thus, it came as a mild surprise that the old barracks turned out to be just down the hall.
+
+Rain blinked upon entering, finding something he hadn’t expected but, in retrospect, should have. Darkness. The barracks was dusty from disuse, though Purify was rapidly seeing to that. An aisle ran between two rows of alcoves carved into the stone walls, and thin, closely spaced ropes dangled from floor to ceiling to block spawns. The four fledglings plus Genn had taken the bunks closest to the door, cluttering the aisle with their gear. Interestingly, though the ropes in the alcoves should have been sufficient, the occupied ones were also dimly illuminated by tiny Light Plates built into their ceilings.
+
+“Will there be anything else, Silverlord?” the Entente underling whispered.
+
+Presumably, he had a name. Rain would have asked. Mouse had not.
+
+“No,” he replied curtly.
+
+“Then may your repose be serene and without disruption,” the underling replied formally, retreating and making Rain feel like an ass. Before he could turn to mutter so much as a ‘thank you’, the man was already marching down the hallway.
+
+Nobody feels the need to guard us? That probably means the Entente has a way of knowing where we are in their section of Threecore. Part of the warding scheme, maybe.
+
+Checking Ameliah’s anchor again, Rain pressed forward through the ropes, parting them with an arm as he shut the door behind him. Going a few darkened alcoves past the others, he selected one on the right side and bumped Purify up a touch as he deposited Dozer and his helmet by the pillow. He found a small control near where his head would rest, and a probe with Mana Manipulation revealed that it was both a battery and a tactile switch for the Light Plates. Having no need for a night light like the natives, he left it alone.
+
+By the time he got himself situated and made sure the ropes were still hanging properly, the door opened again. “Down here,” he whispered, extending a hand into the aisle.
+
+Ameliah quietly made her way toward him. As he waited, he found he was a bit tired, actually. Exertion aside, it had been a while since he’d slept. Not for two days since they’d left the Bloodmarsh. It was hard to believe how far they’d come in that time.
+
+Upon reaching him, Ameliah clambered into his alcove rather than claiming her own, an arrangement with which he had zero complaints. It was a bit snug, but that only made things more comfortable as he wrapped his arms around her.
+
+“Hey,” she whispered, smiling in the darkness.
+
+“Hey,” he whispered, smiling back.

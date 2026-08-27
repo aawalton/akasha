@@ -1,0 +1,269 @@
+---
+id: 0c00aa5c-411c-5c18-b8fa-79f83b1dace3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 50 - Communion"
+slug: 0011-chapter-50-communion
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 11
+ownLength: 3151
+unit: words
+publishedAt: 2026-08-08
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3785235/chapter-50-communion"
+royalRoadId: "3785235"
+---
+
+After a brief hesitation, Kairon had decided to put his cards on the table. He’d returned to the citadel, unlocked the vault, and retrieved all the essence they had remaining.
+
+By the time he’d hobbled back to rejoin the demoness, it was nearly dusk.
+
+“The city essence reserves are small, but if we are going to work together on this, I thought it best to be open.”
+
+In his black claws, five purple marbles shone. They were a sharp contrast to the gloom of the night, but still paled in comparison of the six eldritch totems.
+
+Sythara’s eyes lit with greed. “Child, with this…” she whispered. “Much can be done.”
+
+“Like what? I can infer that those,” he gestured with one claw, “represent the six districts. Brood, wrath, void, forge, pact, and universal. But what can we actually do? Wait. Before that. What do you know of essence?”
+
+Sythara’s eyes wavered when Kairon mentioned universal, but she shook her head and gave a small snort of amusement. “What do I know of essence? You ask this like it’s a simple question. What is the weather today, hmm?”
+
+Seeing his flat expression, she waved dismissively. “Mmm. Fine, fine. Essence is… complex. It is sapience. Intent in a more crystallized form.”
+
+“Are you saying it is knowledge?” clarified Kairon.
+
+“Not quite. My sisterhood pursued some research on this, and what they did learn was often closely guarded. I wasn’t told all that they knew. What I do know, however, is that the sapience inside each essence correlates to the being it came from.”
+
+The city lord thought about that. “So… If I were to tell you that I got this essence from a group of human soldiers, you’d expect the sapience inside to closely relate to what they knew?”
+
+“No, no. Child, you are still thinking of it as knowledge. It is not. Consider corruption. How different the five core desires make up corruption. This stems from the same concept. It’s also what makes each essence unique.”
+
+“Five core desires?”
+
+“You are a very uninformed child—but yes. Desires. Or aspects as some call them… Though in your case, districts might be the most accurate.”
+
+Then, a tiny spark lit up in his head. Five desires… So maybe universal is not one?
+
+“Void, brood, pact, wrath, and forge… You’re saying each comes from a desire.” Or a sin?
+
+He thought about the intense motivation to devour from the brood totem. Then the flashes of rage and whispers to destroy from the wrath.
+
+“Wrath is probably… rage, anger, violence. And brood is probably hunger and gluttony. Which means… what are the others?”
+
+“Void is—”
+
+“Wait! No. Let me experience it myself, please,” cut off Kairon. “Then, correct me. There’s value in study, is there not?”
+
+“Child, do not be foolish. The plane is not meant to be spoken to without proper preparation. Even I…” she trailed off, jaw open. “Child?! Come back here this instant. You fool!”
+
+Without waiting, Kairon had already stood, making for the totem in front of him.
+
+***
+
+Certain she was about to witness the idiotic demon collapse or go mad, she let out a helpless breath. Part of her was starting to come around to the arrangement they’d made. The demon was clever. Too clever. But she could respect that. Who wanted to work with an imbecile?
+
+But as things stood…
+
+There may not be an arrangement left. Not when the plane’s done with him.
+
+Five steps in, and the black-scaled demon collapsed. She shook her head, unsurprised.
+
+Do I save the child? Perhaps he will… What?!
+
+Something happened. For a moment, the demoness swore she saw a golden flicker. One that looked just like the channeled energy still running through moats in the tower.
+
+Sythara had only moments to consider that before the boy actually stood. Brushed his scales, looked back, and waved.
+
+“Don’t mind me! Just a fall. Old walking stick might need replacing.”
+
+With that, the child strode up to the void totem as if he was on a morning stroll. Like he wasn’t standing in front of a direct conduit to unmaking itself.
+
+His mind had to be reeling. Overloading. On the brink of collapse. There was no possible way that he could just walk through it.
+
+Yet, there he was. Once again defying all logic.
+
+Is he… smiling?
+
+***
+
+Kairon had to admit that at first, he was uncomfortable. Those first steps had sent him sprawling. He didn’t panic. Instead, he revelled in the feeling. Let the whispers wash over him. And listened.
+
+He couldn’t understand them. But he could feel them. And that feeling told him one thing. Uncertainty.
+
+There was only one power Kairon had that could make the demonic plane feel uncertain. Source. It had to be.
+
+So he’d called upon his connection to his domain, and pulled upon the golden string of energy. He’d wrapped it around himself, like a net. Immediately, the whispers hissed and emotions shrank away. As if contact with Kairon’s source energy stung them.
+
+Fangs gleaming, he’d gone to the void totem. Right up to it, in fact. Spent several minutes studying the whispers. Almost like they were a relative or friend sending him a message.
+
+What are you trying to tell me… hmm?
+
+Several minutes later, he thought he knew. Not what they were saying, but how they felt.
+
+Next test.
+
+Tentatively, he got closer until the tip of one claw nudged the totem.
+
+Brands and tiers… Kairon assumed that whatever process the essence started would brand the blank totems. And somehow, that would translate into research or unlocked rituals? He’d ask Sythara.
+
+First, he repeated this process on each of the next two totems. Much like brood and wrath, all had their own emotional grounding. It was when he approached the final totem that something truly interesting happened. He’d been wondering about that.
+
+If there are five districts, and Sythara referenced five basic desires, what of the sixth? What of universal?
+
+Two steps away, he got his answer.
+
+Unlike the other totems, there were no whispers. No underlying emotion. No desire. When he touched it, he got the same notification.
+
+There was one other oddity. It felt familiar. Like he’d known this silence. Kairon just couldn’t recall where.
+
+Shrugging, he noted that for later and made his way back over to the demoness. Taking one last look back, he stepped over the threshold and released his bond with his source energy.
+
+At once, reality snapped back into focus. With it, he found Sythara gaping at him.
+
+“What?” he asked.
+
+“You… Gah!” She tossed her hands up. “I don’t even know why I am surprised anymore.”
+
+Deciding it wasn’t worth it, Kairon moved on. “Have you ever actually used one of these before? Do you know how this works? I take it we spend essence on brands, and those brands unlock new rituals?”
+
+The demoness clicked her tongue. “Curious boy. Yes, mostly. The brands you unlock will fill the totems. Primarily, you will gain several options for new rituals, upgrades, and alterations to choose from. However…” she paused, giving him a hesitant look.
+
+“Yes?” he prodded.
+
+“It’s just. Mind you, I was not included in conversations with my elders on topics such as this. But there were rumors. That totems such as these do more than unlock the plane’s rituals. I heard that it had other impacts. Though, I believe that to be for the higher tier research.”
+
+“Such as?”
+
+“Did I not just tell you, child? These were rumors, and not shared by elders. I do not know.”
+
+“Hmm.” Kairon decided to take her at her word. “How do the tiers work? Right now, I only get a tier one option?”
+
+“That much I can tell you. We must brand each section of these totems. Only then can we advance to further research.”
+
+“How many tiers did your clan reach?”
+
+“This is a rude question.”
+
+Shooting her a placating smile, he held up his claws. “Fine, fine.” He looked back at the looming totems, parsing out his options. “So you said we don’t actually know what will come of this process until its completion?”
+
+“Yes. Assuming nothing goes wrong.”
+
+“What? Go wrong? There is no guarantee of success?”
+
+“Of course not. It is not as simple as paying a cost and gaining a reward. You are parsing crystallized intent and sapience to the plane. It, in return, shares something back. That connection doesn’t always work out, and even when it does, it’s not always in the way you intended.”
+
+Kairon paused, absorbing that. Interesting. A type of knowledge sharing system. A more paranoid demon might almost find the plane’s doing so suspect. Exploitative, even. Then another thought struck him. “But you said that each essence is unique.”
+
+“I did.”
+
+“And that the plane is taking this knowledge. But if not as payment, as what? Is it decoding it?”
+
+“No, child. Well. I don’t think so.” She paused, one shadowy tendril rubbing her head. “Maybe. I don’t know. It is hard to understand. The essence will be unfurled, and the plane will commune. As I try and parse what the plane returns, we begin to draw scripture in the basin. When it is complete, enough understanding will have been gathered for a brand to be chosen—or not.”
+
+“You know a lot for someone that claims to have been kept in the dark by her sisterhood.”
+
+Sythara said nothing, tendrils flowing gently behind her. Seeing she wasn’t going to reply, Kairon spoke back up. “Okay. Well, the point I was getting to. If every essence is unique, are some more suitable to one type of brand over the other? Say brood or void? And, what about the end brands we receive? Is that influenced by the essence we provide?”
+
+This time, the demoness giggled. She actually giggled. Like a schoolgirl. “Child, you are quite amusing. Do you know that despite research being the focus of my people, many of my sisters never asked things such as this.”
+
+“That isn’t an answer.”
+
+“I don’t have one. I do not know. Do you think demons want to sit in the plane’s communion? To listen to the voices and feel the emotions of the plane itself? I still am very uncertain how you just… walked into that. It is not normal.”
+
+The demon cocked his head at that. It made sense, when he thought about it. It also told him what he suspected. Other demons didn’t have access to the source. At least, none that Sythara knew.
+
+Deciding that was enough, Kairon dropped the integration. For now. He’d already gotten more out of the demoness in minutes than he had in the weeks since her arrival.
+
+“I see… Very well. And Sythara.”
+
+“Hmm?”
+
+“Thank you.”
+
+“Thank me by allowing me to use the basin.” She held out one pale hand. “If you just give me the essence I can—”
+
+He held up one claw. “I may seem to be in a gracious mood, but I’m still enforcing our pact. There may come a time when you can lead research choices. For now, I reserve that right.”
+
+She didn’t look happy, but neither did she argue.
+
+The city lord began striding back into the ritual circle’s perimeter. After a moment, he realized Sythara was not following. He turned his head around, giving her a curious look. “You can not enter?”
+
+“I can… It is just uncomfortable. And taxing. My shaping can only bear so much.”
+
+“Then how do you plan on accomplishing research? On the communion, as you referred to it. Won’t you need to physically go into the basin?”
+
+“Yes. But slowly. When you begin the process, I will spend several days on it in intervals. I will require rest in between. Unless you can get me some void-born little ones.”
+
+Kairon ran through the charts in his mind. “I can’t… Yet. But, perhaps in the future. Especially if research becomes fruitful.” Turning around, he activated his connection to the source and approached the totems. Sythara may not know how essence impacts research, but Kairon’s gut told him it did.
+
+“Child? Just go to the stone you want and press the essence into it. This seems… irregular.”
+
+Rolling his eyes, the city lord ignored her and first went to the void totem. Carefully, he placed all five essences on the ground, spaced equally apart. Before he could even take a step back, all five beads began to shudder.
+
+“Interesting…” He observed intently. “They are all clearly reacting, but…” When he peered closer, there was a difference. One bead of the five twitched slightly more violently than the rest.
+
+He carried this simple exercise out on each totem. All the while, Sythara waited impatiently, intermittently muttering about something or the other.
+
+Kairon ignored her. She claimed not to know more than she’d said, so he would figure it out himself. Or try, at least.
+
+Several minutes later, his testing was done. The findings weren’t groundbreaking, but they were helpful. He had three takeaways. First, the varied reactions made it clear that each essence was indeed unique as Sythara had claimed. And the stronger it reacted, the stronger he assumed its connection to the aspect in question to be. That finding was what he’d expected.
+
+Second, universal continued to be an outlier. Each of the five essences had the same reaction when placed near that grey totem. A small, hardly discernible shudder. Nothing more.
+
+The last finding was more theoretical. One that he hypothesized. Normally during experimentation, if two variables do not have a connection, nothing happens. However, in this case, all five basic aspected totems had at least a minor reaction in each essence. Which makes me think that at their core, it’s a mixture. That each essence has an amount of each aspect inside of it.
+
+If Sythara’s words were true, and the essence beads were crystallized intent that formed from decades of life in their host’s body… That made sense. If you tied each major aspect back to an emotion, the will, insights, and actions of their host formed the essence in their body. Perhaps even that of those around them.
+
+It was fascinating. The learnings had implications Kairon would start allocating time to uncover and study. For today, however, he needed to decide on a path. He needed something to help his city survive.
+
+“You said that you only need a few days to parse an essence?” called Kairon.
+
+“Oh? You speak now?” More insensible muttering. “Yes, child. Yes. A few days. For the first brand. Future brands may be more difficult. Not just on higher tiers, but the same tier. There will be interference—more on totems already containing a brand, as the desire is part of your domain. The plane remembers, you see.”
+
+“Mmm… Any idea how much longer the second brand will take us?”
+
+“Much more time than the first if it is for the same totem. Only somewhat more if for another.”
+
+Sighing, Kairon shook his head. Okay. Well, not overly helpful but it’s something. Let’s say it takes several days for the first essence, and maybe a week for the second in the worst case. That means we should be able to complete at least two research projects before even the earliest estimates of a paladin arrival would occur. Maybe even three.
+
+Assuming Sythara succeeded, that was.
+
+The city had four districts, which meant they could pursue any of those four brands of research and presumably use the benefit immediately. However, Kairon wasn’t keen on choosing void nor brood.
+
+Void due to its long, knowledge-focused nature, and brood because it was derived around food and consumption. Things that his city certainly didn’t lack.
+
+Logically, that left the demon with two viable options he’d been stuck between. Two options that could offer immediate benefits. Wrath or universal.
+
+When it came to wrath, he assumed it might offer new warriors to spawn, better facilities for those warriors, or something else entirely along the same vein. The issue was that he hadn’t even built the training grounds for his troops yet. What if he got an upgrade he couldn’t even utilize? Still, new troops would be something he could use right away. Or a new building of war. And when you factored in the sigil…
+
+On the other hand, universal. Its outlying reactions fascinated him, but at its core it was the most mundane. That said, those universal buildings his city sported were a foundational part of everything they did. The camps for population, and spawning grounds for new imps.
+
+He juggled the options in his head.
+
+“Sythara, tell me this. How many choices will I get?”
+
+“Choices?” She clicked her tongue. “For this first brand, do not expect any. I would be grateful to have even one granted. In the future, mmm.” The demoness made a noncommittal noise. “After this first attempt, we can speak of methods that may allow for the choices you speak of.”
+
+“So what you’re saying is to see this first brand as a pilot of sorts, and the next one to be more ironed out?”
+
+She hesitated. Something about his phrasing and the idea of doing better the second time gave her pause. “I suppose,” Sythara said finally. “But… for the improvement you seek, we will need to speak more of what it will cost me.”
+
+“Could we discuss that method to use now?”
+
+Sythara smirked. “Greedy child. No, not today. I need to ensure the communion is as I understand. Then, we shall speak. Understand?”
+
+Kairon grunted.
+
+So for this first brand, I am taking a card from a blind hand. But the second one I might have real choices?
+
+With that news, his decision was simple.
+
+Of all the districts, the universal buildings were the most diverse. Getting a random choice from that would have the highest likelihood of something he could actually use. Then, for wrath, if he did get those choices… He could go all in on something that would truly matter for the battle.
+
+There was a third option. “Sythara, if I wanted to research two wrath brands in say… ten days. Could you do it? You said there will be more interference for the same district.”
+
+She hummed thoughtfully. “If they both were successful due to the squabbling you were doing, I… I am unsure. Maybe. Maybe not. If you choose two different brands, however, I would be able to.”
+
+Seeing Kairon’s face light up, she rushed to continue. “If both brands are successful. Remember, child. There is no guarantee of this.”
+
+Mulling it over for another minute, Kairon finally made his decision. For today, they would research universal. Then, as soon as possible, they would brand the wrath totem. That should give them one notch in each, with the wrath brand hopefully having a higher chance both of completion and choices.
+
+Kairon selected yes.

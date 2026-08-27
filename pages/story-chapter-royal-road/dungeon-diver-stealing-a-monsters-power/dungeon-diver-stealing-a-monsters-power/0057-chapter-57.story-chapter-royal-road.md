@@ -1,0 +1,127 @@
+---
+id: f7feaa83-e294-5406-9d44-118aad09bfc1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 57"
+slug: 0057-chapter-57
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 57
+ownLength: 1556
+unit: words
+ownProgress: 1556
+publishedAt: 2023-03-15
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1138885/chapter-57"
+royalRoadId: "1138885"
+markedReadAt: "2026-06-29T20:33:46.262Z"
+---
+
+Nessa and I continued charging forward with flaming blades straight at the mutant boss. The closer we get the denser the air fills up with magic.
+
+The beast is cracking the ground with every step and letting out large amounts of air from its nose while grunting.
+
+The speed of the Minotaur is astounding. I've never seen anything move this fast. Even with my stat buff from Hudson, this beast still has me beat on speed. It's clearly much stronger, and from prior experience with its kind I can assume its defense is much better than mine too. That just leaves agility... hopefully I have it beat there.
+
+We're less than 50m away now.
+
+40m...
+
+30m...
+
+20m...
+
+It's time to fight. Nessa and I nodded at each other and broke off to opposite sides of the monster to launch a dual attack. I ran right, she ran left.
+
+The Minotaur reacted instantly by swinging its axe towards Nessa and its massive silver plated arm at me. I attacked it with a blade full of fire. It's giving me a free shot to the arm right above the wrist guards, I might as well take it while I have the chance.
+
+As I made contact my eyes went wide and my whole demeanor changed...
+
+I swung with all my might and used a lot of fire magic, but my attack barely pierced its skin. The Minotaur followed through with its swing and smacked me like an annoying bug at point blank. This sent me flying in the air 15m backwards. I blocked some of the impact with my sword, but I could feel a few bones break from its overwhelming strength.
+
+Out of the corner of my eye I saw a streak of fire fly off in the other direction. Nessa's attack was futile as well... The boss overpowered both of us like it was swatting flies.
+
+I used my sword to bring myself back up to my feet. I used regenerate to heal a few broken ribs from the impact and checked my status. It read out 595/950 HP, and 865/950 MP. I looked around to get a feel for the entire situation.
+
+The team of 3 are still fighting their Minotaur, it seems like they're doing alright. That battle will just take time, I trust them to finish it off. Hudson is about 100m behind us, he's still sending out a stat buff signal. At this rate, we only have 2 minutes left at most...
+
+I watched Nessa stand to her feet chugging an HP potion while dripping blood. Looks like she's okay, but took a brutal hit from that axe.
+
+I'm going to have to use my other skills if I want to have any chance fighting this creature. It's the only way... I'll deal with the consequences after I make it out of this alive.
+
+We both charged back in at the beast with our swords ablaze. I went in aiming for its weak spots this time. I thought maybe with increased agility I could maneuver under its arms and get a slice in behind the knee.
+
+I was mistaken. Even with two sword wielding hunters coming at it from both sides the Minotaur managed to time its hits on both of us perfectly. This time I was the one on the side with its axe.
+
+As it came down I tried to dodge and maneuver around the blade and run under its body to take advantage of a blind spot. The beast's eyes tracked me with laser focus until I was out of sight, then it relied on instincts alone to cut me down instantly.
+
+It turned the axe blade mid swing and landed a hit to my unguarded torso. The moment I registered what was happening I hardened my entire frontside. It lightened the blow, but black crystals shattered everywhere as I was blown backwards sliding across the ground a solid 10m.
+
+I watched Nessa land a small hit on its arm as she was thrown across the field opposite to me again.
+
+I stood up spitting out a mouthful of blood. That was a serious hit. I tried to regenerated my torn open chest the best I could and checked my status. It read out 40/950 HP and 765/950 MP. I grabbed an HP potion and chugged it as fast as I could. I need a new plan, this mindless charging is not going to work. I rely too much on my physical strength and speed sometimes. I need to use my brain if I want to beat this behemoth.
+
+I shook my head back and forth for a few seconds trying to think of anything worth trying. Then something really dumb.... or maybe genius came to mind. Either way, it'll look cool.
+
+It's all I can think of right now, it's worth a shot.
+
+I yelled to Nessa.
+
+"Hey! Listen! Do you have any loot from today's raids?"
+
+She turned to me with a confused and half horrified look.
+
+"What? Yes. Why? This is not the time for that!"
+
+"Take it out of your item box. Trust me!"
+
+She looked at me with bewilderment and decided to go along with my plan. Nessa pulled 3 large axes out of her item box and placed them on the ground in front of her.
+
+"That's all I have. Where do you want them?"
+
+"Right there. Perfect."
+
+I took the 3 axes from my own farming out of item storage and placed them on the ground in front of me as well.
+
+The Minotaur watched us curiously for a moment, but began to charge at us again. I dropped my sword and closed my eyes.
+
+"Telekinesis"
+
+I repeated my new skill's name over and over in my head. I haven't used it before today, this better work. I focused on the 6 axes in front of me and they all lifted up into the air above my head in a circle formation. I tried to replicate the Shaman's design as best i could. It seemed to work well for it.
+
+The monster shifted directions and charged at me, It paid no attention to Nessa. I ignited each axe into flames and prepared my attack.
+
+I ran forward at the beast and motioned my arms at the monster's head. The axes flew through the air leaving trails of fire behind them like shooting stars.
+
+I sent the 6 flaming projectiles rocketing towards the Minotaur's face. The monster let out a mighty roar as it tried to block them with its own axe.
+
+I twisted my hands around in the air and changed the axes' trajectory mid flight. They all narrowly swerved around the monster's axe and continued towards its face.
+
+"CLANGGGGGG"
+
+I watched 3 of the axes shatter instantly as they collided with the Minotaur's dark crimson horns. The other 3 axes actually made it through for a few direct hits. 2 struck its nose and 1 landed very close to its left eye. The fire burned bright, and the Minotaur let out a roar of pain.
+
+Not a total failure after all... That actually did some damage, but not nearly enough to slow this beast down. Enough to buy me some time to think of something else though.
+
+I concentrated and pulled the remaining 3 axes from the Minotaur's flesh while leaving small amounts of flame residue behind. It's face seems to be a bit weaker than the rest of its body, the problem is those horns...
+
+I brought the axes back towards me and let them hover above my head. Nessa stared at me with a serious look on her face.
+
+"I'll leave the questioning for later, that can buy us some time. Have anything else up your sleeve?"
+
+"Land as many hits as you can while I distract it. I'll come up with something else once these axes are done."
+
+We both nodded at each other and ran in opposite directions. The monster followed me with my flaming axes and ignored Nessa again.
+
+I motioned my arms at the Minotaur's face again and the 3 remaining axes flew straight ahead. It swung at them with its own axe and I successfully swerved around it again.
+
+"CLANGGGGGG"
+
+2 of the axes shattered into pieces as they made contact with the beast's horns. The remaining axe made it through and landed right next to its left eye again where I'd hit the monster previously. It let out a roar and managed to grab the axe with its other hand and pull it out before I could get a hold of it myself. The beast slammed the axe against its own horn and shattered it to pieces.
+
+During all of this confusion Nessa had enough time to land a few clean fiery hits on the monster's legs and retreat back towards me without taking any damage. The Minotaur hardly seemed to notice it at all... its defenses are insane.
+
+I heard Hudson shout something from behind us as he chugged an MP potion.
+
+"This is the last one, you all have about a minute left. Make it count!"
+
+I gritted my teeth and grinned at the monstrosity in front of me. With all odds stacked against me, I'm really starting to enjoy this battle.
+
+I'll find a way to win. I have to.

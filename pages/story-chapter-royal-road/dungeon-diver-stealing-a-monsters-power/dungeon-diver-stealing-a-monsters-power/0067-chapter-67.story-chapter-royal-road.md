@@ -1,0 +1,175 @@
+---
+id: 27ba8628-c31f-586d-9af2-239e652a2db6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 67"
+slug: 0067-chapter-67
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 67
+ownLength: 1326
+unit: words
+ownProgress: 1326
+publishedAt: 2023-03-25
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1148385/chapter-67"
+royalRoadId: "1148385"
+markedReadAt: "2026-06-29T20:34:07.658Z"
+---
+
+My vision is blurry, and my clothing is soaked in blood. Even after regenerating most of my body aches with fatigue.
+
+That doesn't matter now though, all I can think about is the man I have to defeat in front of my eyes. My blood is boiling and adrenaline is pumping through my veins. Even though I'm face to face with death, I feel like I can take on the entire world. It's exhilarating. This feeling is what I fight for.
+
+The sword in my hands is glowing brighter than I've ever seen it shine. There's a strong sense of bloodlust emanating from it, but I'm putting out a ferocious aura of my own.
+
+As our raw emotions clash, it seems the beast within the sword recognizes my intentions. Even in my moment of complete and utter defeat against a superior fighter, I still have the will to face my opponent head-on. We've come to an understanding.
+
+"Fight to Survive."
+
+It seems I've gained my sword's respect.
+
+Theodore glares at me from across the ring and we lock eyes. He charges forward as I begin to feed MP into my continuously glowing blade.
+
+My opponent has dropped his shield behind him and sprints forward with his club raised to finish me off. One hit and I'm dead.
+
+I grit my teeth and continue feeding every last drop of mana in my body through my hands into the shining weapon clasped between my fingers. The light keeps growing brighter and brighter as our auras clash to become one.
+
+My vision almost goes black as I lift my sword to begin a mighty swing. Theodore charges towards me from over five meters away. All of the mana leaves my body and is released in one fiery slash.
+
+A massive dark red crescent moon of flames is released from deep within the sword and flies through the air leaving thick trails of fire magic residue behind.
+
+Time slows down as I hear the crowd yell and scream about the heat. Some members in the front rows fall over and run away from the dome.
+
+Theodore's eyes open wide and his face becomes distorted as the fiery slash rockets toward him.
+
+It's all over in a fraction of a second....
+
+*SHINGGGGGG*
+
+Like a knife through butter, the dark flames slice through the entire right side of Theo's chest plate cutting off his arm, shoulder, and part of his chest. His club clangs as it hits the floor and he drops to his knees screaming in agony.
+
+The dark crescent of flames slashes through the top of the dome's metal cage with an array of sparks and metal fragments. It continues upward over 20m and smashes through the warehouse roof as well.
+
+I stumbled around and struggled to stay o my feet as I watched in awe. My vision wavered in and out and I questioned my own power. This is like nothing I've ever done before.
+
+The crowd became silent....
+
+Then erupted in cheers moments later!
+
+"I knew he had it in him!"
+
+"The Flame Emperor is our new champ!"
+
+"My money was on him this whole time!!!"
+
+"Who cares about his morals, we came for a good fight!"
+
+"FLAME EMPEROR! FLAME EMPEROR!"
+
+I snarled and rolled my eyes as I struggled to stay conscious. This crowd is awful, there's no loyalty in degeneracy. That's what this fight club and gambling ring are all about I guess, doing whatever feels good and riding highs.
+
+At that same moment, Theodore attempts to stand to his feet. His club had rolled about 2m away and now he's trying to inch his way closer to it. I walk towards him with my sword raised in front of me.
+
+The gaping hole in the dome above us is dropping shards of half-melted metal all around as the dark flames burn bright on his mangled body.
+
+I stand over Theodore and touch the tip of my blade to his neck. I plunder as much MP as I can to build strength for an attempt at a final attack.
+
+His eyes open wide and his face turns white as he desperately reaches for the club by my feet.
+
+"I-I GIVE UP! I FORFEIT!"
+
+My sword begins to glow, and I feel it edging me on to finish the prey in front of me. In my weakened state, It's an appetizing offer. The temptation is killing me.
+
+I grit my teeth and shake my head as I pull the blade away from Theodore's throat and raise it in the air while turning my back and walking away to face the crowd.
+
+I mutter under my breath.
+
+"I'm in charge now."
+
+Then smirk to myself as I take in the roaring applause of the audience.
+
+Seconds later, Theo's yells out from behind me.
+
+"I DON'T CARE ANYMORE! SCREW HONOR! YOU WON'T TAKE EVERYTHING AWAY FROM ME!"
+
+I turned back around to see Theodore stumbling toward me with his club in his left hand. The crowd booed as he swung at my head.
+
+His movements are much slower because of his injuries, I was able to dodge the attack and position myself for a counter.
+
+I nodded and closed my eyes while channeling the remainder of his own stolen MP into my sword.
+
+With a swift lunge, I stabbed him on his unguarded right side and released my flames deep into the already open wound. We both yelled as I plundered every last bit of his MP and turned it against him. It felt like such overkill, but he has so much excess HP and mana. All I can do is continue to burn him to a crisp until he gives up.
+
+The crowd just couldn't get enough, it's a madhouse in here. The entire dome filled with flames and the audience roared with amusement. I didn't stop until I finally heard the ringing in my head that confirmed it was over.
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+"13 levels.... b-but how...? That's impossible..."
+
+I looked down at the pile of ash at my feet and saw the familiar floating blue text.
+
+[Use Absorption]
+
+Skill: Conceal
+
+[YES][NO]
+
+In a dazed state, I chose yes and fell to my knees as the flames around me began to dissipate.
+
+I heard the announcer's voice ring out above my head.
+
+"What an incredible match! Who would have seen this coming? It looks like we have a new U250 champion... Everyone, let's hear it for The Flame Emperor!"
+
+The crowd roared and I looked around the arena trying to stay conscious. Two workers came into the ring and helped me to my feet. I stumbled out and muttered to one of the workers to take me to the VIP area while vaguely pointing in the direction of the booth I came from.
+
+My vision kept going in and out as the crowd parted all around me.
+
+Finally, I saw Bri walking toward me with a smile.
+
+"I'll take him from here boys."
+
+"Y-Yes Ms. Briana."
+
+Again, she put her arm around my shoulder and walked me back to the VIP booth. Bri handed me an HP and MP potion, I chugged them both before we even walked inside.
+
+Once we did, she shut the door and I collapsed on the padded seats.
+
+"Looks like you were able to control the beast in the end. Good job."
+
+I opened one eye to look up at her.
+
+"Yeah. I'm going home."
+
+She laughed.
+
+"Let me at least walk you out."
+
+I grabbed my sword and shoved it into my item storage.
+
+"Take me to the surface, then I'm leaving. If I ever do business with you again, I'm bringing all the gold in this entire city. Never again... will I accept a mindless condition instead of paying..."
+
+Bri smirked.
+
+"Pleasure doing business with you too."

@@ -1,0 +1,151 @@
+---
+id: 16f3eecf-fbba-53e4-8cda-32e4d2889699
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8: Camp and Rock-Lizard"
+slug: 0008-chapter-8-camp-and-rock-lizard
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 8
+ownLength: 2112
+unit: words
+publishedAt: 2026-05-26
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3450272/chapter-8-camp-and-rock-lizard"
+royalRoadId: "3450272"
+---
+
+I jump across the large hole created by the worm that came to the surface, feather weight making me light enough to cross the whole expanse.
+
+Keve uses a skill to dash across the gap, his steps covered in fire, while Shar simply flies over.
+
+The sky, visible through the hole, has turned to night. The moon provides a small amount of light through the roots and foliage, revealing little of the ground where we stand.
+
+I shiver as a cold wind blows through the tunnel, and pull my coat closer.
+
+“What’s the world out there like?” Shar asks, shifting her perch on my pack.
+
+“The earth has reclaimed most manmade structures.” I answer, walking around a trap I hadn’t triggered on my way in. “I’m not sure about others,” I glance over to Keve who is focusing on following my footsteps. “But us humans are just starting to expand beyond our strongholds to easily abandoned frontier cities.”
+
+“The Vishten have only one stronghold, stolen from humans.” Keve says, his gaze meeting mine for a brief moment before I look away. “The rest of our people found guardians or masters. Without guardians, we died.”
+
+“Aren’t your people mana infused?” I ask as the archway that marks the entrance comes into view. “So you kept your magic even with the mana disturbance, right?”
+
+Keve shakes his head. “Our magic was not enough.”
+
+I look back, but he doesn’t expand on his answer.
+
+We finally reach the archway that marks the start of my first delve. It’s still covered in vines, the runes visible from where I revealed them.
+
+I step outside, the grass crunching under my feet with the frost of the night. The drop in temperature is immediately noticeable, causing my breath to cloud out in front of me.
+
+Shar shivers on my pack, her feathers ruffling. I turn off my light-stone, muting it to a dim glow. Light in the night is too easily seen, and I have no desire to attract some of the predators that hunt in the darkness.
+
+Keve unsheathes his swords, having them ready. His gray eyes glow slightly in the darkness, the tattoo patterns on his skin help him blend in with the nighttime greenery.
+
+I wait for my eyes to adjust to the darkness, then motion for him to follow me. My camp isn’t too far.
+
+The cobblestone road is broken with the roots of the trees and many enterprising plants, forcing us to watch our steps.
+
+Every other coniferous tree is starting to turn light blue with the change to winter and many of the plants have wilted in the cold, preserving their nutrients for spring.
+
+I lead us down the cobblestone road for a few minutes before we reach a toppled tree across the path. I follow the tree to a particularly large and twisty tree that covers a clearing with its many branches.
+
+At the roots of the tree, I find a small statuette of a faceless angel. I inject my mana into the statuette, holding it up.
+
+A rift opens up in the clearing, revealing a small tent and unlit campfire. A small rock formation covered in moss surrounds the camp, protecting it from the wind.
+
+I motion Keve and Shar through, placing the statuette down and following them a moment later. Shar flies over to land on the rock formation and the rift closes behind me.
+
+“I’ve never seen an artifact like that.” Keve says once we’re on the other side.
+
+“It was a gift from my mentor for this delve.” I tell him as I walk over to the rock formation.
+
+I place my hand on where I assume the head to be and pat it. “Hey Jasper, how’ve things been going without me?”
+
+The rocks move as an eye opens. Shar jumps into the air, flying over to me and landing on my pack. With a large yawn, the rock formation stands up, taking the form of a lizard. Moss hangs off of him, having grown in the time I’d left him here. It’s good for his skin, so I leave it.
+
+I scratch him behind his ear, turning to my two other companions. “Everyone, this is Jasper. He’ll be transporting most of our stuff for us.”
+
+Jasper uses his eye to study the Vishten warrior and the golem, then closes his eye and sits back down into the ground, his body again looking like stone. I pat him on the nose as I turn to the campfire.
+
+I set up the wood in preparation to light it as I speak, “Since Shar knows the full layout of the ruins, and I have enough proof of the artifacts within, I’m going to head back to the frontier city to hire a full delve party.” With the use of a firewand, I light the campfire. The flames quickly consume the drywood.
+
+Keve nods, giving no argument. He takes off his own backpack and unbuckles his sword to sit across the fire from me.
+
+Shar transforms into her humanoid form to join us around the blazing fire. “What’s a full delve party?”
+
+I shrug, taking a stick to poke at the flames. “They can change depending on the delve. Usually a decently high level mage is hired to kill the worst of the monsters, some muscle to carry the items for us and…” I frown, taking out my notebook to write down my ideas. “Maybe a scribe of some kind to better identify the books in the library? A tamer or druid might be interested in some of the monsters and plants down there, I’ll ask around.” My eyes get lost in the firelight as I lose myself to thought.
+
+My eyes snap to Keve as something occurs to me. He meets my eyes questioningly.
+
+“Keve, you need to be careful. Many humans are still not used to the other sentient species of the world. Defend yourself, but try not to draw your weapon unless I’m nearby.” My eyes move over to Shar. “That goes for you as well, try not to reveal that you’re an automaton while we’re in the city.”
+
+Keve nods in understanding.
+
+Shar shrugs and transforms into a cat, walking over to me and curling up in my lap.
+
+***
+
+Keve wakes up suddenly, his eyes studying the beauty of the darkness. Mana flows through everything in the world, but with only the light of the stars and the moon, it shines so much brighter.
+
+He slips out of his bag, glancing towards the tent where the explorer and his golem rest. The sound of the human’s sleeping breath is loud in the silence of the night.
+
+Keve grabs his swords, unsheathing them as he stares out into the darkness outside of the wards. Something watches back, searching for the prey that had suddenly disappeared. Its form is long and sleek, the shadows of the night curling into its fur.
+
+Keve closes his eyes, feeling the mana in his body yearn to answer the challenge of the creature that waits patiently for them. He takes a deep breath, then reaches up to wrap the cloth around his face, hiding his features in preparation for the battle.
+
+The young Vishten warrior’s eyes reopen and he steps out of the protection of the wards, his swords ready to spill blood.
+
+The creature does not act right away and so the Vishten warrior waits, his stance loose. The creature readies to pounce. Mana flows through his skin, lighting it with the flame that fills his being.
+
+The creature leaps from the brush, its claws aiming for the throat of the warrior.
+
+The Vishten warrior’s blades light up with the burning mana of his soul, illuminating the dark forest. With practiced footsteps, the Vishten warrior steps around the pounce of the creature, his fiery blades meeting shadowy claw.
+
+The claws of the creature push him back, the strength behind its block too much for his weaker stature.
+
+His blades sing through the darkness, their light dispelling shadow as the creature uses its own magic on him.
+
+The brightness of the warrior’s flame expands as his body moves at a speed that he can’t consciously follow. His sword chars the flesh of the creature as he appears behind it, the ground at his feet briefly lighting with flames.
+
+He turns to find the head slipping from the body of the creature. No blood flows, the wounds having been sealed with the heat of his blades.
+
+The creature falls to the ground and the Vishten warrior waits silently for a moment, his body still alight with the glow of his magic. When nothing else steps out of the darkness. Keve lowers his veil of cloth.
+
+A sigh escapes him as he stares at the corpse. “Should I bring it into the camp?” He asks, his voice lilting with his native language.
+
+A black bird perching on the branch of a tree nearby answers him, her voice sounding like that of a native Vishten. “Leo might want to look at it. He is fascinated by the strangest things.”
+
+Keve turns, nodding to the black bird. “So you were awoken by the creature as well?” he asks. He sheathes his swords as moves over to the creature.
+
+“I do not sleep.” Shar answers, hopping down to land on the ground and shifting into a black cat. “And it is my job to notice those who would mean my imprinted human harm.”
+
+Keve hauls the creature onto his shoulder. “Tell me golem, is your imprinted human trustworthy? Will he keep his deal with my people?”
+
+Shar sits on her haunches, tilting her head. “I believe him to keep his word. He is more of a scholar than a trickster. Do you not trust the judgment of your seer?”
+
+Keve shakes his head as he walks towards the statuette that will let him back through the wards. “I do not doubt Seer Varia. Still, to trust a human when the fate of our people is in question… I can’t help but wonder why she chose me for this journey.” Keve pauses at the edge of the ward, not wishing to disturb the explorer with their conversation. He sits down on one of the larger roots of the tree, setting the corpse beside him.
+
+“You are a strong warrior, aren’t you? She chose you, because he is weak. He will need protection so that he does not die before he can keep his end of the deal.” A twinkle in Shar’s eye shows the joke in her words.
+
+Keve smiles slightly, quickly hiding it. “You have little faith in your imprinted partner.”
+
+“I jest, but there are truth to my words. She is a seer in more than name, isn’t she?” Shar walks over to the head of the creature he had killed, picking it up in her mouth by its ear. She carries it over, setting it down next to the root he rests on.
+
+Keve sighs, his gaze drifting to the distance. His hand reaches for the letter hidden in his clothes, before stopping. “I have always felt that there is more to the world than the reach of my home. But… it feels wrong to leave my people when they are so vulnerable.”
+
+“They have other warriors.” Shar says, “you have simply been chosen for another, equally important task. Stop questioning the seer and focus on the task ahead of you. Keeping my weak human alive.”
+
+Keve laughs, unable to stop himself. “Of course, golem. Although, I suspect he is not as weak as you make him out to be.”
+
+“A stray arrow will kill any man without the skills to stop it.” The golem pauses, “or so the archmage would say.”
+
+“A smart man.” Keve lifts up the corpse of the creature he had killed, activating the statuette to make an opening through the wards and stepping through.
+
+“He would know, he was killed by the arrows of those he trusted.” Shar gets a far-off look as she grabs the head of the creature and carries it through the wards.
+
+“My condolences.”
+
+“It was so long ago, I have nearly forgotten it.” Shar drops the head at his feet, then walks towards the tent of the explorer. “If you wish to fight more creatures, there was another one who has been trying to catch our scent over by the entrance to the ruins.”
+
+Keve hesitates for a moment before shaking his head. “If they still linger, I will fight them in the morning.”
+
+Shar doesn’t respond as she slips into the tent, curling into a ball next to the warmth of Leo Grayson.

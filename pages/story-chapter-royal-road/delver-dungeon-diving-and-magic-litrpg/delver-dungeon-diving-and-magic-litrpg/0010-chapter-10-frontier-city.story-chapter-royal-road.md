@@ -1,0 +1,155 @@
+---
+id: ec912778-d9ce-59d9-a6a7-39bada470fc6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10: Frontier City"
+slug: 0010-chapter-10-frontier-city
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 10
+ownLength: 2281
+unit: words
+publishedAt: 2026-05-28
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3461660/chapter-10-frontier-city"
+royalRoadId: "3461660"
+---
+
+I chew on a mint leaf as we walk, my gaze stuck to the sky. It’s funny to think about how I’ve gathered what amounts to a whole party on my very first delve. A scout, an explorer and a warrior.
+
+I glance over to Lyla, who walks a few feet apart from Keve and I.
+
+And apparently a Unique class. Shar had told me that when she identified the class of our newest companion, she was simply told that it was a Unique racial class. Little is known about those, even the Human Uniques are tightly kept secrets.
+
+But I won’t be asking her anytime soon, considering how secretive she’s already been. People with unique classes are valuable and I doubt she even wants it known that she has one.
+
+My mint leaf loses the last of its flavor so I swallow it. I look back up at the sky to see Shar flying around.
+
+Our next two days pass with surprisingly few incidents. Shar steers us clear of the most dangerous beasts and Keve manages to take out those we do find. There was one scare where I had to use the statuette to hide our whole party, but the beast that had come searching for us doesn’t stay too long once we are hidden from vision.
+
+On the second day, we come across a statue of the angel Lumin. He plays his lute, his head pointing us in the direction of the road leading between the southern stronghold and the frontier city. I follow the direction, our small path eventually joining the larger, better maintained road.
+
+It’s here that we catch our first sight of the frontier city of Onder. Made up of tents, ramshackle housing and the ruins of a long dead city far grander, the town holds roughly a couple thousand residents, but has many more passing through as humanity slowly expands outside of its walls. The only structures more than one story tall are the temple and the inn, both of which have been standing since before the collapse of human civilization. An earthen wall, twice my height and made by one of the resident mages, surrounds the city. It wouldn’t keep out any of the true terrors that haunt the surrounding forests, but it would hopefully allow the town’s defenders enough time to evacuate the city.
+
+It’s while I’m studying the city that Lyla says her goodbyes and simply turns away from us and the city. I watch her go thoughtfully, wondering at who she is.
+
+“What do you think she was running from?” I ask Keve, turning to double check my bags on Jasper to make sure she didn’t take off with any of the artifacts. It’s not that I don’t trust her, but more that I am carrying some rather valuable cargo.
+
+“Humans.” Shar answers for Keve as she flies down, landing on my pack. “She spoke too well, and she was far more wary of you than of Keve. Plus, she didn’t want to enter the town. “
+
+I sigh, having come to the same conclusion. “I was hoping that wasn’t the case.”
+
+“Don’t let your mind stay on her.” Keve says from beside me, shrugging his shoulders. “If we are meant to see her again, we will.”
+
+I hesitate, then nod, understanding the wisdom in his words. We continue our walk towards the frontier city.
+
+Two guards wait for us at the front gates, spears in hand. Traffic is sparse, mostly being people with explorer classes, like me, or merchants from the strongholds. Even the road to the stronghold is a dangerous one, and the merchants who make the journey are accompanied by powerful classes and bands of warriors.
+
+A caravan from the southern stronghold just finishes its inspection, entering the city as we walk up to the entrance.
+
+“Jasper. Come here.” I call out to the rock-lizard as one of the town guards approach us. The lizard lazily, but obediently, walks right up to me.
+
+The guard hands me a stone, which I accept hesitantly.
+
+I quickly select my first class and the guard, a young man around my age nods. “Explorer? Nice. Did you find anything good?”
+
+“I think so.” I answer, handing back the stone. “Some valuable books mainly.”
+
+The guard looks uninterested as soon as I mention books, shaking his head. He hands the stone to Keve, who’s class just gets a shake of the head from the guard.  “You two are good to enter. Just don’t start anything and clean up after your animals.”
+
+I thank him and continue on, Jasper following right on my heels now that we’re in the city.
+
+The city is lively, but not packed. Everyone who walks through it carries weapons on them, even those without combat classes knowing to have some kind of defense.
+
+Outcasts and the desperate are those who make up the city, forced to make their homes outside the protections of the strongholds. Beggars and thieves are common enough here, and I keep a close eye on Jasper, not that many would be brave enough to try to steal from the rock-lizard.
+
+My first stop is to one of the two larger buildings of the city. Enchanted with a magic that seemingly gives it a near infinite number of rooms for its guests, the main inn is three stories tall. I take Jasper to the stable next door, relieving him of all of his bags and giving him a branch to chew on. Keve helps me carry some of the bags as we make our way to the entrance of the inn.
+
+The first floor is a cozy little tavern and kitchen, run by an older woman who my mentor knew decently well.
+
+As soon as we enter, I feel the gazes of the patrons on Keve and I. Music keeps playing, and the chatter doesn’t stop, but I feel many stares. Most of them are directed at Keve, his tattoos and strange eyes easily marking him a nonhuman. Our relationships with most other species are strained, and it’s rare to see a nonhuman in a human town.
+
+It doesn’t take me long to find the woman who runs the place. Her gray hair is kept neatly in a bun, and her stance is that of someone who has seen many fights. She gives me a good discount on the rooms and I quickly hurry Keve up the second floor and away from prying eyes.
+
+The magic of the inn gets to work, leading us to an unused room connected to the keys the matron gave me.
+
+I set my things on the floor and fall into one of the two beds.
+
+“Angels in heaven, I forgot how nice it is to have an actual bed.” I say, stretching my arms out over my head.
+
+Shar transforms into a cat, leaping up onto the bed beside me. “This building was built by an Angel?” She asks, her tail swishing from side to side.
+
+I nod, “Mhm. Likely the Architect.”
+
+“I did not like the stares” Keve says, removing his swords and sitting on the other bed.
+
+“I warned you. Most humans aren’t used to the other peoples that roam this land.” I sit up with an exhausted sigh. “Some of them are likely to give you trouble.”
+
+“Why are you not bothered by me or my people?”  Keve asks as he unwinds the cloth he has around his neck.
+
+“My mentor, the one who taught me to delve, wasn’t human.” I answer.
+
+With a huff, I get up and move over to the bag of artifacts. I pick it up, placing it on my back. It’s time to get the money I’ll be using to pay the delve team and I said I’d get that book on the Oathsworn to the temple.
+
+“I’d like to see your mentor.” Keve says.
+
+“So would I,” I smile slightly, “but he had to leave to take care of something in his home.” I head towards the door, Shar following in my footsteps. I stop at the threshold, turning around to face Keve. “I’m gonna head out for a bit.” I throw a small purse of coins to the warrior, who deftly catches it. “A meal should only cost you two of the copper coins. But don’t argue if they ask for four. I’ll be back in an hour or two.”
+
+Keve nods.
+
+I open the door, holding it for Shar in her cat form, before following her out.
+
+She follows a step behind me as I leave the building and head to the other large stone building in the frontier town. The temple is surrounded by a small courtyard of stone and is two stories tall. The first floor houses the stone statues of the many Angels, placed delicately for offerings and worship. The second floor houses the many monks and younger acolytes of the angels, who dedicatedly follow the Angel’s teachings and take care of their sacred treasures.
+
+A large tinted glass window depicting the three builders is the first thing I see as I walk up to the temple. The younger acolyte watching the entrance to the courtyard is talking with a warrior wearing a dark cloak. He smiles and waves when he sees me.
+
+I wave in response as I walk past him.
+
+Inside the courtyard is a small, carefully manicured garden. Monks and acolytes talk with guests. I move past them into the main building, Shar close on my heels.
+
+There are four rooms for the four Angel Hosts; one for the Guides, one for the Oathsworn, one for the Builders, and a final room for the Reapers.
+
+I turn into the first room, the one for the Guides. Two angelic statues stand tall against the wall. One of Lumin, playing his lute, the other of Sehara, the explorer.
+
+Sehara has a pack around her back, and a sword at her waist, the very image of an adventurer. She is faceless, but her curly hair flows down her back and around her pack.
+
+I bow to the statue, walking forward to place an arrowhead I’d found from the ruins at her feet.
+
+“You are an acolyte to the Guide Sehara.” Shar says from beside me, a question hidden in her statement.
+
+“I grew up in this temple.” I answer, my gaze on the faceless Angel. “But I always wanted to see more. Sehara was my glimpse into adventure.”
+
+I stare at the statue for a moment longer before turning away. “Come on, I need to find the book-keeper.”
+
+I leave the room and find an acolyte to guide me. I’m led to a musty library filled with well-kept and well-loved books. An older man shuffles between the shelves. His skin is wrinkled, but he still has a full head of silver hair.
+
+“Is that you, Leo?” The book-keeper asks as we enter the room. His gaze studying me carefully.
+
+“Hello again, Brother Ivan. I’m glad to see you’re still taking care of the temple.” I say, bowing my head slightly to the older man.
+
+“You’ve turned into a fine young man. How old are you now?” Brother Ivan asks, motioning for us to sit in one of the few chairs in the room.
+
+I sit down and Shar jumps into my lap, curling into a ball. “I just turned twenty-one last month. I’m sorry I haven’t had the time to visit lately. ”
+
+Brother Ivan waves his hand at my apology. “Every young man must find their own way in the world. Do tell, what brings you to our humble temple?”
+
+I reach into my pack, and pull out the book I had chosen for donation. “I found this in a library on my most recent delve. It looks to be a book on the history of the Oathsworn. I wish to give it as a gift” I hand the book over to the book-keeper.
+
+Brother Ivan carefully accepts the book from me. He stares at the cover, his eyes gaining a glow of mana to them as he opens the book. After a moment, he closes the book thoughtfully.
+
+He smiles at me, his hand clutching the book tightly. “This is a wonderful gift. I don’t believe there are any copies in the strongholds.”
+
+I smile, glad that he appreciates the gift. “I’ll let you know of any other books I find pertaining to the angels.” I briefly consider mentioning the map we’d found on the statue of the first-sworn, but decide against it. I don’t want any other explorer to get wind of it, plus there’s no way of knowing if anything is actually there.
+
+“Please do, Leo.”
+
+I say my goodbyes after that and leave the temple.
+
+Shar follows in my footsteps as I make my way to a simple looking shop on the other side of town.
+
+I don’t go through the front entrance, instead making my way around the corner to the side.
+
+I softly knock on the door there. Three sets of three knocks.
+
+A few minutes later, an older gentleman with a scholarly look opens the door. “Leo! It’s good to see you! How did your first solo delve go?”
+
+I can’t help but smile at the enthusiastic attitude of the man. “It was a success!” I say the words with no small amount of joy. “And there’s more to come once I find a full delve team.”
+
+“Come in, come in.” The man, Gerald, another old friend of my mentor’s, ushers me into his home and shop. “Martha has a pot of tea on the stove, and I’m excited to take a look at what you found.”

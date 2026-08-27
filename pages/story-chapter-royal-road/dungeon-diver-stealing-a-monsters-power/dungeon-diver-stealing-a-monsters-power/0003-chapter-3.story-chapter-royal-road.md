@@ -1,0 +1,155 @@
+---
+id: 65965a51-8c19-5768-b273-718a7f0ec7a4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3"
+slug: 0003-chapter-3
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 3
+ownLength: 2142
+unit: words
+ownProgress: 2142
+publishedAt: 2023-02-05
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1106374/chapter-3"
+royalRoadId: "1106374"
+markedReadAt: "2026-06-29T20:31:52.940Z"
+---
+
+There are 3 types of dungeons in this world.
+
+The first being the "stable dungeons". Alpine Square Dungeon is a stable dungeon. It has a large open environment where monsters are spawned in very regularly. There is a boss in stable dungeons, a party can challenge this boss as many times as they'd like and the dungeon will remain exactly the same. Hunters are able to enter and leave the dungeon as they wish, monsters are not.
+
+The second type is called a "dungeon break", it's similar to a stable dungeon because it has a wide open environment where many monsters spawn but the difference is the boss can only be fought once. After the boss is defeated the dungeon will disappear. There are two ways a dungeon break can happen. The most common way is a dungeon will appear in our world as they do from time to time, but the portal will be red. This indicates it is a different type of dungeon. Once hunters enter, both hunters and monsters are able to enter and leave as they wish. Keeping the safety of citizens in mind, it is a top priority to defeat the boss and clear these dungeons as fast as possible. A less common occurrence is when a stable dungeon turns into a dungeon break. When this happens the monsters are able to wander out into our world, the same urgency applies here. Hunters swarm to defeat the final boss during dungeon breaks because often there are much better item drops.
+
+Lastly, the third dungeon is called a labyrinth dungeon. It appears as a green portal. Only hunters are able to move in and out of this dungeon. Labyrinth dungeons are a series of stable dungeons "stacked" together to create a maze of dungeons. Once you start a labyrinth dungeon, the only way to the next "floor" or next "dungeon" is by defeating the one before it. After each boss battle you are allowed to enter white portals that bring you to the next "floor". The only way back is by following your foot steps. You're able to retreat, and on the way back you do not have to re-fight the boss battles. They do spawn in, but if you can avoid them it's simple to make it back to the outside world in one piece. Some labyrinth dungeons have been said to have over 100 floors. Others have been reported having 10-15. They are really a mystery, all we know is the difficulty of monster gets higher the farther you travel in. If you can defeat the final floor, the labyrinth dungeon is cleared and disappears. This is the rarest dungeon type.
+
+_____________________
+
+Today I decided to try and find a party that would let me be a porter for their boss raid. The recommended level to subjugate the boss at Alpine Square Dungeon was a team of 5 at level 20, or solo at level 30. I am not strong enough to fight the boss myself, but as a porter I'll be able to gain some exp and also study the bosses movements for future battles.
+
+After standing around in the village market for about 30 minutes I finally found a team looking for a porter.
+
+"Yeah we'll do 25 bronze for the day. Carry our bag, and stay out of the way. We're going in for 6 hours, we'll fight the boss twice. You up for it?"
+
+"Y-Yes I'm in."
+
+I followed the leader out of the market with the rest of the team, he didn't look much older than me. We looked about the same height too, around 180cm. He carried a long silver sword and walked very confidently.
+
+"Ya know, I hit level 26 last night. One of these days I think I'll face the boss solo, my swordsmanship skill is getting pretty refined."
+
+Some of the other team members grinned a bit. A bigger guy in the back of the party that looked like their tank said:
+
+"Yeah yeah boss. We're all over level 20 as well, we could take a crack at the boss solo too pretty soon, I bet we would gain a lot more Exp instead of splitting it 5 ways each time. With my body hardening I'm able to take more hits than all of you, the boss will be a piece of cake once I gain a few more levels."
+
+Then a thin women with long brown hair standing next to the tank said:
+
+"Maybe in a few months, we need more levels before we can try anything that stupid. Leader, I don't know why we have to hire a porter every time though. They just leach off our exp every battle. We would level up much faster without one."
+
+"Well, would you like to carry our gear?"
+
+The team leader pointed at me carrying their oversized bag filled with food and random gear they probably will never use. The women just rolled her eyes. The last member of the party chuckled a bit but didn't say a word. He was about 160cm with short messy blond hair. He carried two silver daggers. He must be their speed type, he looks like a skilled fighter. They fight in a team of 4, plus me the porter so 5. One tank, one swordsman, one speed type that uses daggers, and a mage. I overheard the women talking about magic before we left, but I don't know her skill exactly. I'm going to assume she has a rare magic skill. This will be my first time witnessing a team fight, also it's my first time raiding a final boss. I'm both excited and nervous.
+
+After we entered the dungeon we followed the team leader with the sword deep into the dungeon. We have been walking for well over an hour. Whenever goblins come anywhere near our team someone finishes them off in one blow. I was caught off guard when the woman raised both her hands in front of herself and let out a massive blast of fire. It was a huge fireball around a meter in diameter that shot out 3 meters in front of her and fried a goblin to ashes in seconds. I was shocked but impressed as well.
+
+After a little over 2 hours we made it to the boss room. It was a very light grey portal. The leader turned to all of us.
+
+"Alright let's make this quick. Porter, come in and stay out of our way. The usual formation, let's go."
+
+We all nodded in agreement and jumped through.
+
+It was a cave like room about 30 meters long, 20 meters wide, and no more than 10 meters high. I quickly got to the side of the cave and took out my dagger. I was on guard, but out of the way as the leader requested.
+
+A huge looking green man walked out from the back of the room. He must have been over 2.5 meters tall carrying a huge axe. Easily twice my weight. It had dark green skin, a disgusting looking face, and a stench similar to a combination of body odor and feces.
+
+About 10 regular goblins came from the back of the room as well, it looked like they had all just spawned out of nowhere. The leader yelled.
+
+"The hobgoblin appeared, attack!!!"
+
+He charged at it, right past all the goblins paying them no mind and clashed sword to axe. As this was happening the speed type moved in from behind him and slashed the monsters legs. It squealed in pain. Meanwhile the tank was pulling up the rear with a large wooden shield looking like he would charge the monster head on. The women stayed back and began lighting up the room with fire incinerating all of the goblins that appeared.
+
+As the hobgoblin writhed in pain the swordsman jumped back and let the tank charge at the monster. It swung its axe down and hit the shield dead in the center. The wood splintered but held steady and the swordsman made his move. With the hobgoblin distracted he went for a fatal blow and landed a perfect hit right through the neck. Simultaneously, on the opposite side of the monster the speed type came from underneath and landed two clean shots deep in its back. The hobgoblin let out a last grunt as it fell to the floor.
+
+That was incredible, they made it look so easy. I have a long way to go until I'm at that level. I stared at them all in awe as they celebrated a bit and collected the large mana crystal after the hobgoblin completely disappeared. Then all of a sudden... all I could see was a blinding white light. Before I knew it, we were all back in the tall grass right back by the exit gate. The team leader looked at us.
+
+"All right good fight, let's do one more and call it a day."
+
+Everyone just nodded and we made our way through the grasslands again. I rewatched the fight in my head like a day dream over and over as we walked.
+
+Occasionally they asked for random items like food and gear from the bag. Gear-wise they had healing potions, all the mana crystals collected, a few explosive devices that were rated for level 40+ use(so honestly too heavy duty for a starter dungeon, but I never asked about them), plus some extra swords and daggers.
+
+Once we got to the gate again we entered the room and I witnessed a similar battle. The hobgoblin appeared, the leader charged in while the speed type took out its legs. The leader jumps into position while the tank distracts it. The leader goes for a fatal blow and the speed type makes sure the job is finished with a few extra hits. Meanwhile the woman takes out all the surrounding threats. A polished strategy, I was thoroughly impressed.
+
+[Level Up]
+
+_____________________
+
+Name: Jay Soju
+
+Level: 11
+
+Hp: 60/60
+
+Mp: 60/60
+
+Strength: 33
+
+Speed: 37
+
+Agility: 40
+
+Defense: 31
+
+Mental Strength: 33
+
+Skills:
+
+Absorption
+
+Items Equipped:
+
+Iron Dagger
+
+_____________________
+
+"I leveled up again??? Already?"
+
+The leader looked at me smirking.
+
+"Yeah it'll be like that until about level 15 or 16, even with 1/5 exp the boss still gives out a lot of exp. Everyone in the room shares it when a boss is killed, if you want to be our porter for a while I'd be happy to have you. You don't complain and you get out of the way and let us handle our business, couldn't ask for more."
+
+"Yes I'd like that a lot, when ever you need me I'll come as a porter."
+
+As I said that the team finished grabbing the mana crystal as well as an axe. It looks like the boss has a drop sometimes. I've heard even the starter dungeon boss drops can sell for over a good amount of coins sometimes. That axe must has some kind of stat boost. I was curious but decided not to pry.
+
+We were transported back to the dungeon exit. As Istepped out of the portal the team leader handed me 25 bronze coins.
+
+"25 a day work for you? We can keep it at that rate."
+
+"Yes perfect."
+
+"Great. We'll meet you at the village market around 8am tomorrow. Welcome to the team porter."
+
+We parted ways and I made my way home for the day. I didn't do much fighting, but I was exhausted.
+
+I thought to myself with a grin on my face as I walked up the steps to my apartment. The boss room gives so much exp. I'll be a level 20 like them in no time.
+
+I heard a soft high pitch voice.
+
+"Did you have a good hunt today?"
+
+It was a young girl, maybe 18 years old. With really bright blue eyes.
+
+"My name is Maria, I saw you just moved in next door. Welcome to the block!"
+
+She smiled and bobbed her head back and forth with closed eyes.
+
+"T-Thanks, yeah it's was a good hunt. My name is Jay, thanks for the welcome."
+
+She blushed a bit, but I hardly noticed. I was really exhausted to my limit.
+
+"Looks like you're tired from a long day at work, well.. rest up. I'll see you tomorrow!"
+
+"Yeah uhh you're right. okay, see ya."
+
+With that pleasant but awkward greeting over with I opened my door, took off my boots, threw my shirt on the ground, and took a shower before going to bed early.
+
+I woke up the next morning refreshed and pretty excited for my second day of work as a porter. I met the team at the market around 8am and we ventured off to the dungeon to do it all again.

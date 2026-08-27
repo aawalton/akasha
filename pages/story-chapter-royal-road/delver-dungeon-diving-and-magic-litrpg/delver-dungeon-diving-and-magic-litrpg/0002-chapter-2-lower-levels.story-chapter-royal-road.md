@@ -1,0 +1,219 @@
+---
+id: 88ae9871-68a1-5e72-abeb-017a93fc6b13
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: Lower Levels"
+slug: 0002-chapter-2-lower-levels
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 2
+ownLength: 2682
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3442723/chapter-2-lower-levels"
+royalRoadId: "3442723"
+---
+
+I follow the staircase down a few levels before it leads out into a hallway. The hallway is dimly lit by glowing stones in the ceiling, revealing a cobble floor and marble walls. Seeing the easily available light, I put my personal light away. Better to not reveal myself to whatever creatures might live down here.
+
+Once I’m ready to continue forward, I take a moment to get over the oppressive feeling of being so deep underground.
+
+This is my first solo delve, and something about the lack of another person makes it harder to get over the dark and oppressive weight of all the earth around you. With someone else there, you can distract yourself with them, or trust that they know what they’re doing.
+
+It doesn’t take long for me to get over the feeling, breathing easily once it passes. I move forward slowly, letting the ball roll out in front of me. The hallway splits and I take the path to the left, marking the split on my map.
+
+Suddenly, the ball in front of me stops mid-roll. I frown, seeing it push against an invisible force. I lean close, wondering what could be stopping the magical tool.
+
+Nearly invisible strings hold the ball in place, wrapping it like a- a web. I sharply inhale as my danger sense goes off. Immediately I hide my presence with my class ability and stand stock still, not daring to make a movement.
+
+A long limb extends from around the corner, followed by another eleven limbs holding up the body of something vaguely related to a spider. Every one of its legs ends in a sharp point, designed for cutting open the bodies of its prey. Its body, not counting the legs, is twice my size. The creature walks forward, its focus on the ball that now lies stock still. It walks along the wall, eventually reaching the ball just a few feet away from where I stand. Of course it’s a god cursed spider. It’s always spiders.
+
+I keep my breathing steady, thanking the gods and angels for the one ability of my class that allows me to travel nonhuman lands on my own.
+
+The monster pokes the ball, then moves closer at the lack of response, studying the metal construct. After a moment, it turns around, returning to its spot around the corner
+
+I tense up as I ready for the next part. I have no intention of leaving my tool in the web of the creature, and so, with a quick flex of my mana, I attempt to roll the ball out of the web.
+
+Immediately, the creature barrels around the corner, its attention fully on the ball that has just torn itself free of the web. It screeches, a loud, horrifying sound that almost makes me reveal myself.
+
+It charges forward.  I quickly step out of the way as I roll the ball backwards to lead the monster back down the direction I came from. It only takes a second for me to realize my stupidity as I see webs on one side of me and the large spider-like beast on the other.
+
+I put my hand at my waist, unsheathing my sword and letting the magic of my class keep the sound completely silent.
+
+The ball rolls to a stop some distance from me and the monster pounces on it. Its ancient metal holds up to the onslaught of the spider, but I can’t help but worry about slight cuts in its frame.
+
+My breath coming to me in slow, even waves, I approach the spider, my sword ready. Where do I even strike the creature? After my first stab, I’ll be as vulnerable as any unclassed human. Why am I even attempting to kill it? I could just let it have the magic tool. There must be other tools like it somewhere out there, right?
+
+My thoughts don’t stop me from slowly moving towards the creature, now out of its web. I grab a defensive talisman, putting it between my teeth, then hold a fire wand in my offhand.
+
+The creature stabs at the ball, its legs starting to make minor scratches on the exterior of the ball.
+
+With a deep breath, I stab forward, embedding my sword deep into the creature’s thorax.
+
+The creature screeches in anger and pain. My sword gets stuck in the exoskeleton as I try to pull it out and I’m forced to let go as the creature spins around towards me.
+
+It stands on its back four legs as eight legs strike at me at once. I quickly activate the defensive talisman in my mouth, creating a flickering blue shield in front of me. All of the legs bounce off of the shield as the talisman turns to ash in my mouth. I take advantage of the creature being off balance and pour as much of my mana as I can into the fire wand. A geyser of fire spills out of the end of the wand and into the creature’s face, silencing its screech as the fire melts its lungs.
+
+The creature stands there as I hurriedly pull my knife from my belt, dropping the overloaded and now hot-to-the-touch Fire Wand to the floor.
+
+I ready for its next onslaught, but it continues to stand there, before slowly tipping to the side and curling its legs into itself.
+
+My sigh immediately turns into a coughing fit, my mouth still full of ash from the defensive talisman.
+
+I reach to my belt, and use my water pouch to rinse out the terrible taste in my mouth.
+
+My mentor had told me that solo delving an unexplored ruin would level me quickly, but two levels in a day has to be a record.
+
+I walk around the creature, wary of it faking the extent of its death. You never know with some of the creatures you find in the wilderness.
+
+Retrieving my sword is a pain, but I eventually manage to free it and clean it of the bug juices I’d covered it in.
+
+“Should’ve left the ball alone.” I say to the dead creature.
+
+I move over to the Fire Wand I’d used, only to find it completely destroyed from the amount of mana I’d forced through it. Both a defensive talisman and a Fire Wand destroyed, so much money, down the drain. It makes a man really rethink his choices. Maybe I could’ve killed it with just the sword and the new knife?
+
+I glance at the curled up spider again, it’s sharp legs reflective in the low light.
+
+Probably not.
+
+Reaching into my bag, I pull out my light, brightening it to reveal the webs that line the corridor. There’s enough space for me to walk through them now that I can see them. And spiders rarely live with buddies.
+
+I grab my metal ball and put it into my backpack, knowing that I probably won’t be able to roll it through the web covered hallway. I take a deep breath, then carefully walk forward, using my light to reveal any webs before I touch them. Hide presence works constantly to make me disappear from the world.
+
+As I travel deeper into the creature’s territory, I discover old, sunken cocoons, making me wonder what the creature was eating to live down here. My curiosity isn’t enough to make me cut open the cocoons, but still, I wonder.
+
+The mana detector vibrates slightly as I pass by one of the cocoons and I stop.
+
+Is it worth it?
+
+I pull my knife out before I can dwell on it too heavily and slice through the cocoon with a quick motion. Liquid and bones pour out onto the floor, producing a surprisingly tame smell. I poke through the bones to find arrowheads partly dissolved with acid and a key that had set off my mana detector. My question of what the creature had been eating is still unanswered, but whatever was in the cocoon isn’t human, the skull isn’t shaped right.
+
+I take a cloth from my bag and pick up the key, carefully wiping off the goo that used to be the insides of whatever creature was in the cocoon.
+
+Key nicely wrapped, I place it back into my bag and continue with my journey through the webs.
+
+Towards the center of the creature’s domain I come across a closed door leading into another room. It takes a couple good shoves, but eventually the door breaks open, revealing a dusty room.
+
+I immediately recognize it as a lab of some kind. Tubes travel to and from strange contraptions. Bottles filled with mysterious chemicals sit on dusty shelves. Planters sit on the floor, the plants that lived in them long dead. Still, I notice some seeds that might be worth something to a gardener.
+
+I walk through the room carefully, paying close attention to my danger sense for any kind of traps or hidden dangers.
+
+Eventually I make my way over to the bottles that sit on the shelves. I identify them without touching them. Most of them are expired, which is unfortunate, but probably for the best. I don’t have many places to safely hold bottles made of glass and I would rather not leak any explosive or dangerous substances.
+
+I do open one of the drawers to discover more of the mana dust that I used to reveal runes. Unfortunately, this is one of the few things that the alchemists still know how to make. Still, I grab an extra vial, as it is rather expensive. I find two other vials that I find useful enough to risk taking with me despite the possibility of breakage.
+
+Sleeping Powder
+
+When the mana is activated inside of the powder, anyone who breathes it in will fall into a deep slumber for a short time.
+
+Mana Absorbant Liquid
+
+Will gather mana to itself, deactivating any artifacts, spells or runic scripts for a brief time
+
+I place them in my backpack, surrounding them with as much cloth as I can. A quick look around the room reveals a few things worth gathering on my second delve, but I leave it at that for now.
+
+I exit the room to return to the creepy webs of the dead creature. I really hope there was only one of them.
+
+I continue past a few more cocoons before finally leaving the webbed territory of the spider. My body loses some of its tenseness as I continue down the corridor.
+
+I turn a corner and stop as I hear a creaking sound. I look down to see cracks slowly spreading through the floor. I’d been so distracted with the webs, that I’d forgotten to have my ball go in front of me once I was out of them.
+
+This- this is not good.
+
+I shift my weight slightly, only for more cracks to spread in the floor.
+
+Throwing caution to the wind, I quickly turn around. The floor finally gives in and I immediately activate Feather Weight. The floor underneath me quickly drops into the depths of a large cavernous structure, while I follow behind it at a sedate pace. I look at the lip of the ground that was the floor I was walking on, cursing it with all my might as I float towards the ground I can’t see, even with my light.
+
+I’m floating down, idly contemplating existence for a good minute, before my light finally reveals the ground under me.
+
+Well worked stone tells me that I’m likely still in the ruin, just rather deep in it.
+
+Eventually my feet touch the ground and I stretch my legs, happy to be back on solid ground instead of floating through the air.
+
+“Sehara, I wish I had someone to talk to right now. Solo delves are stressful.” I mutter. I pull out my notebook to draw in where I fell and create another level for wherever I find myself now. “For now… I think I should try to find my way out of here and make my way back to camp so that I can sleep with a little bit of safety. That means…” I look at the ground, eyeing which direction would be best. “Going up.”
+
+I decide which direction has the better incline and go that way. I walk for a good few minutes before I find myself at a dead end. A completely smooth rock wall blocks my way forward. I prepare to turn around when the mana detector at my waist goes off. I pick it up, letting it lead me to the right wall. I pull the vial of blue powder from my waist, blowing it against the wall to reveal a long dialogue of runic script.
+
+I pull out my notebook to carefully note every rune in the line, then use my translation skill.
+
+Oh. It has a lot of ways of killing me if I try to force my way through. I activate my skill for deactivating runes and my body quickly moves on its own, inscribing a long series of runes against the runic script already there. It takes longer than normal and I start to worry as what was a paragraph of runic script soon turns into the whole wall being covered in runes. Eventually I stop, my hand cramping from the constant drawing.
+
+A sound from in front of me brings my attention away from my hand. Before my eyes, the stone wall crumbles to dust, revealing a room full of wonders. Strange Automatons line the walls, in as pristine a condition as I’ve ever seen. Their eyes stay dark, unpowered by the magics that normally bring them to life. At the far end of the room, I can see the outline of a door. However, in the center of the room, grabbing all of my attention, is an ornate golden chest.
+
+I walk up to it, opening it to reveal a cloudy orb the size of my fist.
+
+Class Orb (unique item)
+
+Created by a nameless Archmage, these orbs grant the user an additional class
+
+I have to physically stop myself from dropping the artifact. This orb shouldn’t exist! I’ve never heard of someone getting a second class. There isn’t even an option for it in a person’s status. Admittedly, the system is still showing new uses every couple of years as mana finally returns to normal, but there would be some record of second classes if they were possible… right?
+
+Before I can stop to think about it any more, I send mana into the orb, activating it.
+
+It crumbles to dust in my hand as darkness covers my vision.
+
+You have been granted a second class! As this is your second class, it will be customized to best exemplify you.
+
+Please wait a moment.
+
+Congratulations on becoming a Lore-Mage!
+
+Class Abilities:
+
+Lvl 1: Wisdom Of An Ancient
+
+I pick myself off the floor slowly, clutching my head as mana flows through my body, recirculating itself into different patterns.
+
+I- I became a mage. The most prized general class there is, mages are closely guarded and trained by the most knowledgeable masters in our strongholds. No one can unleash as much devastation on the terrors that constantly attack us as a mage can. Their power is unmatched as they are literally able to affect the fabric of reality around them.
+
+I’ve never heard of a lore-mage, but that’s not unusual. Knowledge of the various mage classes are closely kept secrets.
+
+I quickly pull up my status.
+
+Name: Leo Grayson
+
+Race: Human
+
+1st Class: Delver (explorer)
+
+1st Profession: Apprentice Runesmith
+
+Lvl: 27
+
+2nd Class: Lore-Mage (mage)
+
+2nd Profession: Empty
+
+Lvl: 1
+
+Title: Acolyte Of Sehara
+
+Class Skills:
+
+(Delver)
+
+Lvl 1: Basic Map
+
+Lvl 5: Danger Sense
+
+Lvl 10: Identify Artifact
+
+Lvl 15: Hide Presence
+
+Lvl 20: Feather Weight
+
+Lvl 25: Find Ruins
+
+(Lore Mage)
+
+Lvl 1: Wisdom Of An Ancient
+
+Profession Skills:
+
+(Runesmith)
+
+Identify Runes
+
+Deactivate Runes
+
+Basic Inscription
+
+I have a second profession available to me. This- this is actually insane.

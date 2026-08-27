@@ -1,0 +1,199 @@
+---
+id: a560ec53-c966-579d-b84e-31e0d6d82e21
+page-type-slug: story-chapter-royal-road
+title: "Chapter 59"
+slug: 0059-chapter-59
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 59
+ownLength: 1830
+unit: words
+ownProgress: 1830
+publishedAt: 2023-03-17
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1140957/chapter-59"
+royalRoadId: "1140957"
+markedReadAt: "2026-06-29T20:33:50.573Z"
+---
+
+I lifted the large mana crystal up in the air to show them the boss's loot, but the white transfer light already started.
+
+We were all sent back to the dungeon's starting point. I heard Hudson's voice a moment later.
+
+"That was much harder than I predicted it would be. Usually, one buff is more than enough. I'm glad we all made it out unharmed."
+
+I looked at him with mixed emotions. I'm a bit frustrated with him for letting us all go into this potential death trap with him. On the other hand, he did warn us beforehand... and I'm really glad I got to fight an opponent of this magnitude. It'll prepare me for when I have to fight C Class monsters like this without aid from teammates in the future.
+
+I replied and tossed the mana crystal up and down in my hand.
+
+"Ehh it's fine, I had fun."
+
+Nessa jumped in.
+
+"Hey! It's kind of not fine! We almost all died!"
+
+I nodded and shrugged.
+
+"Yeah, but we didn't."
+
+This post-fight adrenaline makes up for everything. I don't really care much about anything but riding this high as long as I can. Nessa was visibly annoyed but in a half-playful way.
+
+Hudson laughed a little.
+
+"Well, I think that's more than enough for today. Jay, would you like to come back to the guild with us?"
+
+Nessa nodded at me.
+
+"Yeah, you should come and check the guild out! I'd say we have a few things to talk about."
+
+She winked.
+
+"You're right. I'll come."
+
+Nessa definitely saw me use a few skills at once. I don't think it matters though, as long as she doesn't go telling everyone in town about it.
+
+You can tell a lot about someone when you're in a life-or-death situation with them. Even with my past issues, and the fact that we just recently met... I'm going to put my trust in Nessa, just like she put her trust in me during our battle with the boss.
+
+We all stepped out of the dungeon and took the train back to the main Dungeon Hub.
+
+The area is packed with hunters. Apparently, there's been a record-high amount of breaks and mutants today. I overheard the guards speaking to a crowd on our way out.
+
+"All platform clearance ranks have been raised by 1 full class. It does not matter if you're in a party. You must be a C Class hunter to enter any of the D Class dungeons until further notice. Please bear with us, this is for your own safety."
+
+That makes sense. This really must be the peak of the surge...
+
+Hudson spoke up.
+
+"Follow me."
+
+He leads us through the crowd and out into the open street. We walked for less than 10 minutes and came across a tall silver building. It looked like every other office building in the city.
+
+We walked through the front door and were greeted by two men in formal wear. One of them spoke to Hudson.
+
+"Welcome back so soon, how'd the raid go today."
+
+He replied.
+
+"We had some issues, but everyone made it out unharmed. I brought in a new potential recruit, I'd like to talk to the guild master if he's free."
+
+"Glad to hear it, I'll put in a request for you. Heal up in the training rooms, someone will come to get you once you've all fully recovered."
+
+Hudson nodded and shook the man's hand while motioning us to follow.
+
+We took the elevator up a few floors and made it to a long symmetrical hallway that looked just like the training rooms at the Hunters Association. There were just fewer doors in this hallway. Hudson opened the first door on the left and we all walked in.
+
+It is a white-walled room with the low hum of mana shields. There are a few racks full of armor, weapons, and potions on the back wall. Everyone walks over and starts healing up. Hudson spoke.
+
+"Go ahead, take what you need to heal yourself."
+
+I nodded and walked over to drink an HP and an MP potion to restore myself completely. Then I heard Hudson's voice again.
+
+"Nessa and Jay, stay with me here. Could the rest of you bring the leftover loot to the trade-in center, then take the rest of the day off? We've been through enough."
+
+Nessa and Hudson dropped handfuls of mana onto the ground. The Tank and two women took them all and left the room. Hudson turned to me.
+
+"Now let's address the elephant in the room. You're a multi-skill user. I saw you use at least 3, Nessa did as well. Is this known by anyone else? Are you affiliated with any guilds?"
+
+I took a deep breath in and out before replying. This feels more like an interrogation than a conversation now, but at least he asked the team members who didn't see my other skills to leave the room
+
+"Yes. I have one non-exclusive contract with a small guild in my hometown. I do have a few very promising skills, I appreciate the privacy. It seems you already understand my situation. I only used them to save our lives, I wouldn't have shown off if I didn't have to."
+
+They both nodded. Hudson spoke up.
+
+"Would you like to join our guild with a non-exclusive as well?"
+
+"What benefits would I gain? There are already tons of dungeons in the city. Are there any private ones? What's in it for me?"
+
+"Well, the only benefit at your current class we could offer would be a salary and access to gear to train with."
+
+"Hmm. Okay. If I were to join I'd like non-disclosure contracts made. Anyone I party with cannot leak information about my skills. You two included. I'd rather not party with anyone new... or honestly with anyone at all if that's possible."
+
+"Understood. that could be arranged."
+
+"What about special dungeons not available to the public? That's what I'm interested in, I don't care much about a salary."
+
+"We don't have access to any unique dungeons yet. The only thing I can think of that could benefit you would be to access the labyrinth when you reach C Class."
+
+I raised an eyebrow.
+
+"The labyrinth?"
+
+Hudson looked a bit puzzled at my response.
+
+"The labyrinth. You've never heard of it?"
+
+I shook my head.
+
+"No... tell me. What is this place?"
+
+He grinned.
+
+"It's a multistage dungeon at the center of the capital. It's been there since the Great War. The strongest hunters flock to it from all over the Vice region to raid for riches and experience."
+
+I scratched my head.
+
+"A multistage dungeon? What do you mean by that?"
+
+"Well, it's easier to explain it in terms of floors. When you enter you'll be on the level known as floor 1. In the Vice labyrinth, it's just a goblin dungeon. You have to defeat the boss of each floor to advance to the next. Floor 10 is a dungeon similar in strength to the one we just raided. Every floor increases in difficulty, it is rumored that the Vice Labyrinth is over 50 floors. The more hunters that enter, the bigger the labyrinth grows. The magic energy from hunters that enter is taken in and used to spawn more floors. The one in the city's center has been growing for around 50 years. No one has made it to the last floor yet."
+
+I stared at him with my eyes wide.
+
+"So.. what happens if someone defeats the boss on the last floor?"
+
+Hudson smiled.
+
+"Well, the labyrinth disappears. Every once in a while smaller labyrinths spawn in towns or even out in the mountains where there is excess magic build-up. Smaller ones are defeated quickly around here, they can be as small as 10 to 20 floors. The loot is usually very rare and drops a much higher percentage of the time in labyrinths."
+
+"Wow... I need to try one of those..."
+
+"They aren't too well known out in the countryside. It's mostly government-run, and occasionally elite guild members enter. If you're not from around here, I guess it would make sense for you not to know much about it. I personally have never entered the capital labyrinth."
+
+I nodded.
+
+"Well. In that case, I think I'll pass on joining the guild for the time being. Maybe when there are some good benefits for me, I rea-"
+
+*Knock *Knock *Knock
+
+A woman with long blond hair, black glasses, and carrying a large notepad walked in.
+
+"Sorry to interrupt. Hudson, your request to see the guild master has been delayed. He's out of town for a few days."
+
+Hudson nodded slowly and motioned her to leave.
+
+"It's okay. Thank you for letting me know."
+
+The woman left and we all stood in silence for a few seconds.
+
+Nessa chimed in.
+
+"Well. That went completely off-topic. We didn't agree on anything final, but I'm glad we cleared a few things up. I just wanted to thank you for today, Jay. Just know, the fact that you're a multi-skill user is safe with me. I won't say a word if you don't want me to."
+
+She smiled at me.
+
+Hudson spoke up too.
+
+"Same with me, I don't think it's that big a deal though. This is a big world you know. Eventually, word will have to get out if you want to keep climbing the ranks as a hunter."
+
+I nodded.
+
+"You're right. I appreciate it. I-uh. I think it's about time I get going."
+
+"So soon? I could show you around the training facility If you'd like!"
+
+"Uhmm. I'll have to pass for now. I'd like to head out before it gets too late in the day. I have a few things to do. I will come by again soon though."
+
+"Sure, come by anytime you want. We can get some good training in! Nessa, could you show him out to the lobby?"
+
+I shook Hudson's hand and followed Nessa out the door and into the elevator. She looked at me curiously. We reached the bottom floor pretty quickly. Nessa smiled and waved.
+
+"I hope we can party up again. I'd like to get to know you more, ya know."
+
+I smiled back and waved back.
+
+"I agree. Maybe I'll see you in the D Class dungeons later this week. I'll be back."
+
+She nodded and the sliding doors closed behind me as I walked away.
+
+Moments later I made it out into the busy street.
+
+Labyrinths huh? I vaguely remember reading about them but had no idea there was one here in the city. That's something to look forward to!
+
+I started walking towards the market to sell my mana and get this Minotaur Horn checked out. After that, I need to get another new sword! It'll have to be a lot stronger this time around, I can't believe I broke another one.

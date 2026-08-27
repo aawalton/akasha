@@ -1,0 +1,241 @@
+---
+id: 7844f6c1-f08b-56eb-af10-aa14a103ee34
+page-type-slug: story-chapter-royal-road
+title: "Chapter 46: Ancient Serpent"
+slug: 0046-chapter-46-ancient-serpent
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 46
+ownLength: 2100
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3703413/chapter-46-ancient-serpent"
+royalRoadId: "3703413"
+---
+
+Every day, I have read the history written by my forefathers, in hopes that it might provide me guidance in my own trying times. It is horrible to imagine what it must’ve been like for them, when warriors had nothing to rely on but the strength of their steel. It is with some mixture of pride that I am able to add yet another revelation to this history.
+
+At first, it was a singular scout, one of the few in our compound. He had his Darkvision skill activate in the night, letting him see the creatures that prowled outside our walls with clarity. Then it was the Predictive Sight of a warrior, then the Danger Sense of an Explorer. Two hundred years after the fall, our ability to see, to perceive, has been returned to us.
+
+Weapons are drawn, and Grildor raises his shield, but we all know how screwed we are. This thing radiates the mana of a corrupted beast, and its size makes it a Stronghold Level threat. I reach for my sword, but a small hand on my arm stops me.
+
+Tanya looks at me with a serious gaze, “Wait.”
+
+I look at her, then whistle to get the group’s attention. Even the snake changes its gaze to me, making me freeze for a half second in those giant slitted eyes.
+
+I shake myself out of my freeze, and put a gentle hand on Tanya’s back. She stays against my hand for a second, accepting the support before mustering the courage to step forward.
+
+Grildor glances at me, then steps out of the way as the young Lin girl walks past him. The snake watches her as she approaches, it’s head unmoving.
+
+She holds out her hand, palm up. Slowly, her vines move, twisting forward, and reaching out.
+
+The snake watches for a long second, then lowers its head, gently touching her vine with its nose. Tanya looks like an ant in front of the creature, but it makes no aggressive movements as the two of them communicate.
+
+Minutes pass, and our guard starts to lower as Tanya and the snake remain mostly still.
+
+Shar flies down, landing next to me. “It… I didn’t see it.”
+
+“It’s okay.” I say quietly, not wanting to disturb whatever Tanya’s working to do, “I would’ve thought it was the terrain if my danger sense hadn’t gone off.”
+
+Movement makes me straighten. The vines slowly return to Tanya, then the snake turn it’s head and slowly slithers away.
+
+Tanya collapses to her knees, and the rest of us hurry over to her.
+
+“I’m fine. Just-” She lets out a small laugh that turns into a hiccup. “Never talked to anything that big.”
+
+I glance up at the body which is still slithering past us across the road. “What’d you tell it?”
+
+She laughs, “Just that we had two Archmages, but we didn’t want to fight.”
+
+I look down at her, “Two?”
+
+She looks away and fidgets with her hands, “It’s old enough to remember when humanity was strong. It was wary of you two, that’s why it revealed itself. For a creature like that, it’s better to be strong.”
+
+I shake my head as the last of its tail crosses the road. I didn’t know that there were creatures old enough to remember back then, but it makes sense. Hells, I have one in my party in Shar.
+
+I turn back to the Lin girl and offer her a hand up. “Good job.”
+
+Tanya smiles wide, and takes the hand to return to her feet.
+
+“Shar, did you spot any other dangers?” I look back down the road.
+
+Shar swoops closer to me, landing on Jasper. “Nothing big. The snake must be keeping a lot of them away.”
+
+“Good, we’ll continue onwards then. This place is more mana-intensive than we’re used to, so be on guard.”
+
+Shar nods, then takes to the sky, flying ahead of us.
+
+Grildor keeps his shield out as we walk down the path.
+
+The rest of our travel that day is tense, and our fire is smaller than usual when we stop for the night. I don’t want people traveling too far for wood.
+
+***
+
+As the sun is setting, I finish writing in one of my spare notebooks, then look around for Eyla.
+
+She’s sitting on the edge of the Angel Artifact’s protection, studying one of the trees glowing with purple mana.
+
+I make my way over to her, and sit beside her.
+
+She glances over to me, a small smile on her face, “What brings you to my corner of the camp?”
+
+I hold out the spare notebook, and she takes it.
+
+She opens it, then blinks in surprise, “This is…”
+
+“A translation of Arcana For Children. Apparently, it was common for kids to learn the various runes at a young age. Don’t ask me why.”
+
+She turns the page, tracing the symbol for transformation with her finger. She looks up at me, a question in her gaze.
+
+“I told you I’d teach you magic.” I shrug, then point at the book, “This is the first step. Ah- but don’t cast the runes by themselves. Shar tells me it’s very dangerous. Just memorize them. Once you have them perfectly memorized, we’ll move to the next step.”
+
+“You put a lot of work into this.” She says quietly.
+
+“I already had most of it written down, it was just a matter of copying my notes.”
+
+She closes the book and tilts her head at me, as if she’s searching for something in my eyes. “Thank you.”
+
+Tanya calls out that there’s food, so I stand up, “Of course. I’ll show you what I’m working on later.”
+
+“I’d like that.” She stands up, and dusts herself off before following me to the campfire. This time, I join in on the card game as Grildor deals.
+
+The last of the light leaves us, and I take out my light stone to illuminate the cards until a light rain forces us to stop playing.
+
+Most of the others turn in, heading to their tents, leaving Keve and I alone in the night. He sits on his own, meditating with that same pulsing technique.
+
+I give him a little bit of distance, then find a nice rock, and gather my mana. “Shar, do you know much about including five runes in a first circle spell?”
+
+The cat-golem brushes by my leg, before laying at my feet. “Mages in the sanctum that could do it were rare, and would often cover their circles. I think Lim would do five with his pentagrams.”
+
+I pause, looking down at the cat, “Cover their circles? Who’s Lim?”
+
+“Hide their runes. Don’t ask me how, I don’t know.” Shar turns over on my feet, exposing her belly as she stretches, “Lim was from across the sea, sent to study under the Archmage.”
+
+“Do you know anything else about those spells?”
+
+“Nope.”
+
+Fair enough. I hold up my hand, and draw the spell circle with my mana.
+
+Transformation, Ice And Space, Pierce.
+
+The spell circle requires my full attention, the space rune in particular being quite complicated, as I place each rune at five points in the circle.
+
+Ice extends from the spell circle, stabbing forward a few feet in front of me before dissipating as it hits nothing but air.
+
+My eyes widen at the speed of the close range attack. It had cut through the air crazily fast for a first circle spell.
+
+I step within range of the rock I’d chosen as a target, then cast the spell again.
+
+Transformation, Ice And Space, Pierce.
+
+This time, I see a gray shimmer surrounding the edges of the ice, piercing the rock, and allowing the ice to penetrate with it.
+
+The ice sticks out of the stone, then slowly dissipates into the air. It’s useful, and I think the space rune is adding to the power of the spell, but it’s hard to tell.
+
+I step back, then hold my hand out again, drawing yet another spell circle.
+
+Transformation, Fire And Space, Projectile
+
+The fireball that flies from my hand is red and gray. It hits the rock, consuming a portion of the rock, and charring it at the same time.
+
+Definitely an increase in power to the spell when I use more runes. I don’t know how it compares to a second circle Novice spell, but Eridor had called these semi-novice.
+
+Happy with the little bit of experimentation, and finally succeeding with the extra runes, I decide to head back to my tent.
+
+***
+
+I’m bleary-eyed the next morning, having read Eridor’s journal late into the night. A lot of what he talks about isn’t applicable to me yet, having to do with higher tiers of magic, but I find it fascinating all the same. I did also find mention of something called rune-hazing, which would make it harder for other mages to read the circles. Apparently, it requires incredibly tight control of your magic.
+
+I happily take some tea from Libby, the concoction helping me wake up as we eat breakfast.
+
+Taking down camp is a quick affair, and we set out once again. My eyes stay on the changing plant life. The trees are growing larger still, forcing Shar to fly under their canopies in order to see our path. Large mushrooms also become common, enjoying the shade provided by the huge trees. Several times, we stop to let Tanya gather samples from the wildlife, then continue further.
+
+With the space between the undergrowth and the increase in mana-density, larger corrupted creatures become more common.
+
+Shar and Daron keep careful eyes out, steering us around the larger threats. Thankfully with their size and the mana they hold, they become easier to avoid. Ambush predators seem rarer, leaving us to worry about the plant-life more than the fauna.
+
+Strangle-vines, and Carver Trees are both common threats. Thankfully, the presence of Tanya seems to ward off both them and several plant threats I wasn’t aware of.
+
+We’re forced to use that Angel Statue twice during our journey, but both times we have plenty of warning from Shar.
+
+We set up camp under the cover of one of the larger trees, its trunk almost as thick as the great snake’s body.
+
+That night, I run Eyla through the creation of a spell-circle. To my surprise, she doesn’t quite manage it, too used to letting her skills do the heavy lifting.
+
+Keve however, makes a breakthrough of some kind, although he’s not too sure how to describe it himself. With the breakthrough, he convinces Tanya to join him in meditation, and the two spend the evening meditating next to the tree.
+
+Libby, likely inspired by our hard work, runs the three mercenaries through several drills, then practices her swordwork with Daron. Grildor, to my surprise, decides to join the two nonhumans in meditation.
+
+Towards the end of the night, when Eyla finally manage her first spell, I get a welcome message.
+
+That puts me at level 15. I hurriedly bring up my status, curious what kind of spell the milestone might’ve given me.
+
+Name: Leo Grayson
+
+Race: Human
+
+1st Class: Delver (explorer)
+
+1st Profession: Apprentice Runesmith
+
+Lvl: 30
+
+2nd Class: Lore-Mage (mage)
+
+2nd Profession: Apprentice Golem Smith
+
+Lvl: 15
+
+Title: Blessed Of Sehara
+
+Class Skills:
+
+(Delver)
+
+Lvl 1: Basic Map
+
+Lvl 5: Danger Sense
+
+Lvl 10: Identify Artifact
+
+Lvl 15: Hide Presence
+
+Lvl 20: Feather Weight
+
+Lvl 25: Find Ruins
+
+Lvl 30: Increased Perception (passive)
+
+(Lore Mage)
+
+Lvl 1: See History Of Object
+
+Lvl 5: Summon Legend Spirit
+
+Lvl 10: Private Library
+
+Lvl 15: Create Story
+
+Profession Skills:
+
+(Runesmith)
+
+Identify Runes
+
+Deactivate Runes
+
+Basic Inscription
+
+(Golem Smith)
+
+Inscribe Mana Circuits
+
+There it is, my level 15 spell for my Lore Mage Class. Create Story.
+
+I immediately want to test it, but my practice with Eyla has used a decent portion of my mana, and considering how much mana my other skills require, I’d rather wait. I have no desire to pass out in front of everyone.
+
+So I decide to wait till the next day.
+
+Our sixth day of travel is without too much trouble, we manage to avoid the more dangerous creature, and make better progress than I thought we would. The space between the large trees gives us plenty of visibility and walking room.  I suspect we’ll reach our destination midday tomorrow.
+
+Once the fire is going, and our protective barrier is established, I step out into the light rain filtering in from the trees above, and prepare to cast my newest spell.

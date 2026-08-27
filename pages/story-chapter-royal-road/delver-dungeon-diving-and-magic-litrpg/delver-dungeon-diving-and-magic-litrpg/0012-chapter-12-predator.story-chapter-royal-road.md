@@ -1,0 +1,175 @@
+---
+id: ec397272-5380-53a2-ae37-0f1ef15b20cf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12: Predator"
+slug: 0012-chapter-12-predator
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 12
+ownLength: 2166
+unit: words
+publishedAt: 2026-05-30
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3470777/chapter-12-predator"
+royalRoadId: "3470777"
+---
+
+I feel their eyes on me as they watch me. They hold no form and they can’t reach me here, but they watch me. A bright light covers their view, and a single white feather floats to the ground in front of me.
+
+“Find it.”
+
+My eyes open wide, the memory of her last words echoing through my mind.
+
+I sit up in my bed. The pale moonlight of the night coming in from the open window is the only thing illuminating the room. There’s movement in the shadows next to my bed, and I turn to see Shar looking at me in her bird form.
+
+“Are you alright Leo?” She asks, her voice soft.
+
+I smile slightly, doing my best to hide my real thoughts. “Just a bad dream.”
+
+I get up, putting new clothes on and attaching my sword to my waist.
+
+Shar tilts her head, moving almost like a real bird. “Where are you going?” She asks. She hops off the post of the bed, turning into her cat form.
+
+“I need some fresh air.” I answer, throwing a cloak over my shoulders to help with the chill air coming through the open window.
+
+Shar follows me as I leave the room and head downstairs. A lone woman cleans the tavern downstairs, the snores of one of the drunken customers being her only companion. Otherwise, the place is empty, being closer to morning than night.
+
+I leave the tavern without any purpose in my walk, simply meandering as I go through the empty streets of the frontier town.
+
+The dream felt real, and stays fresh in my mind. It doesn’t disappear as dreams usually do.
+
+“Find it.”
+
+Find what? I suspect I know the answer lies in the map we found in Angel Kolas’s hands. But what exactly is at the end of the map? What is so important for me to find? I know that it was more than just a dream, and the imagery of the angel’s feather doesn’t escape me. I glance at my title, marking me as an Acolyte of Sehara. Could it finally be having some effect? Has mana settled down enough to allow the angels to interact with our world?
+
+Shar hisses as a cloaked person moves towards me, breaking me from my thoughts. I put my hand on my sword and the person in the cloak raises their hand, backing away slowly.
+
+I watch him leave, realizing that in my wandering, I had entered a shadier part of town. Not exactly the slums, but not the safest place to be at night.
+
+A yell for help that is immediately cut off matches my thoughts. I look in the direction it came from, briefly considering ignoring it. I shake my head, and break into a run towards the noise. “Shar, scout ahead!” I call out.
+
+She obliges, turning into her crow form and taking to the sky.
+
+I hold my defensive talisman tightly in my hand as I keep the other ready on my sword. I turn into the alleyway where I’d heard the noise. My feet skid to a stop as I arrive at a brick wall. Someone sits slumped over at the wall, blood pooling underneath them.
+
+“Behind you!” Shar calls.
+
+I jump forward, rolling across the ground and back to my feet. I turn around, feeling a slight stinging sensation coming from the back of my neck. I put my hand there, bringing it back in front of me to see a small amount of blood.
+
+Someone steps out of the shadows, their gait slow but sharp. They are hard to make out in the pale light of the moon, but I can see their fingers ending in sharp claws, drops of blood falling from them to the dirty alleyway floor.
+
+The person brings a claw up to their lips, licking the blood off of it. Then they smile wider than should be possible, revealing a mouth full of sharp, predatory teeth.
+
+My hand tightens around the defensive talisman as I draw my sword from its sheath.
+
+“OH, Oh, you do taste lovely.” The person says, watching me with sharp eyes.
+
+Shar lands on the windowsill next to me, her voice reaching me. “Species: Undead. General class: Predator. I would recommend against close combat.”
+
+“Oooh. What are you? Not a bird at all, no no, not a bird at all.” The undead says. The creature's claws flex out as it looks back and forth from me to the creature.
+
+I look behind me out of the corner of my eye, seeing that the person slumped over is still breathing. “Shar. Go find help, I’ll try to hold him off as long as I can.”
+
+“Don’t die.” Shar says, jumping off the windowsill to fly through the air.
+
+The creature watches her fly off, before turning to me with a wide smile. The undead disappears, and I instantly activate the defensive talisman.
+
+The shield immediately breaks and I’m thrown into the wall, my bones shaking from the impact. The defensive talisman turns to dust in my hands.
+
+“Oooh, so you lived? You are stronger than I thought.” The undead creature says from where I was standing just a moment ago.
+
+I gasp for breath as I stand up slowly, my body aching from the impact with the wall.
+
+The undead creature slowly approaches me. Its eyes stare at me, reminding me of a dragon looking at its prey.
+
+I manipulate my mana through my body, making sure to keep my hands hidden against the wall as I activate my newest class ability.
+
+Summon Legend Spirit.
+
+My mana leaves my body at an astonishing rate as glowing hazel runes spread from the wall behind me, covering the ground in front of me.
+
+The creature steps back, wary of the runes at its feet.
+
+“Who do you seek?” A different voice answers me this time, her voice eager and surprisingly happy. Her voice's power echoes through the small alleyway, causing the undead creature to take another step back.
+
+“I seek the legend, Knight Baynor, follower of Angel Alvarana, hunter of the necromancer.” My voice is weak, my air having just been knocked out of me.
+
+“He chooses to answer your call.”
+
+The last of my mana leaves me as the runes in front of me brighten. A form gathers out of white light on top of the runes. He is covered in white armor, his helmet held in his left hand. In his right hand, he holds a spear covered in runes. His hair is brown, cut short, and his sharp brown eyes match mine before turning to the undead predator who is now backing away slowly. Baynor is taller than I thought he’d be, nearly a foot taller than me.
+
+My eyes want to close with my lack of mana, but I force them to stay open, worried that my summon will disappear if I fall unconscious.
+
+The creature disappears again, only to be thrown back into the wall opposite me, Baynor’s spear puncturing its chest. Baynor steps forward, grabbing the haft of his spear and pulling it out of the skewered undead. With an easy swipe of the spear, the undead’s head comes clean off.
+
+Baynor turns to me, nods his head and says in a surprisingly light voice. “Until next time.”
+
+My eyes close, the last thing in my vision being the decapitated undead’s head rolling towards the wall.
+
+***
+
+A slight shaking wakes me up. I open my eyes to see Daron looking down at me worriedly, the sun just starting to provide light behind him.
+
+I move to get up, but Daron’s hand against my chest stops me. “Whoa there. Don’t want to move too fast. Libby’s patched you up nicely, but it’s better to be safe than sorry.”
+
+I slowly sit up with Daron’s assistance. My gaze turns to Libby and Grildor. Libby is working to heal the injured person, while Grildor stands watch over the undead’s body. I also notice Shar watching from on top of the building next to us.
+
+“What happened?” Daron asks, handing me his waterskin.
+
+I take a sip, enjoying the feeling of the cool water going down my dry throat. “I heard someone cry for help, and like an idiot, I ran towards it.” I answer. “That’s where I met that thing.” I nod towards the decapitated corpse.
+
+Daron follows my gaze, “Nasty thing, isn’t it? Pretty high leveled undead too, looking that human in the sunlight. Are you telling me you killed it?”
+
+I shake my head. “Someone else came and killed it before I passed out. I just held it off for a few seconds.”
+
+“Well you’re one lucky bastard. Ain’t ya?” Grildor says, walking over to us. He nods at the head of the undead, “Makes ya wonder how it got in the city.”
+
+I stand up fully, making sure every part of my body feels alright. The wound on the back of my neck seems to have closed, probably Libby’s work.
+
+“Who is he?” I ask, motioning towards the man that Libby is currently healing.
+
+“He hasn’t woken up yet. But I don’t recognize him.” Libby says, leaning him gently against the wall as she finishes her work. “Daron, go find some nearby guards. They’ll probably want to know that an undead made its way into the city.”
+
+“Yes ma'am.” Daron says, giving a small salute before running out of the alley.
+
+Libby turns to me after Daron is gone. “You should probably get out of here and hope you can avoid questions from any reapers. We’ll handle things here.”
+
+“Thank you.” I say. I move to pick up my sword from where it was dropped when I was thrown.
+
+“We owe you one.” Libby explains. “Your merchant friend hired us this morning.”
+
+I bow my head to her and Grildor before hurrying away from the scene.
+
+As I walk down the street, Shar flies over to me, landing on my shoulder.
+
+I bite my lip as I think, undead don’t just appear in the city, especially high level ones. There are many things that are supposed to keep them out.
+
+The most likely explanation is that someone brought it into the city with them. But why? Maybe a necromancer? If they have the mage general class, then they could get through the guards at the entrance to the frontier city. If there is a necromancer on the loose, that’s incredibly bad news. As in, stronghold destroying levels of bad news.
+
+But, honestly, it’s not my problem. I’m not going to hunt them down, and while a necromancer can do some terrible things, a class never defines a person. Plus, that’s what the followers of the Reapers are around for.
+
+I shake my head, ignoring the thought as I continue back to the inn.
+
+***
+
+The rest of the day passes without incident, and I spend my time relaxing and finishing up the last of my preparations for the full delve.
+
+The next day Keve and I arrive at Gerald's shop early in the morning. The rock lizard, Jasper, follows along slowly, already packed with the essentials. Shar sits on Jasper in her bird form, seemingly enjoying the ride.  Keve, thankfully, didn’t get into any trouble during our stay at the inn. Still, he attracts many looks as we walk together.
+
+Gerald greets our small party with a smile “Good! You’re early. I have some good news. And some even better news! Come inside, I’ll have a servant watch over Jasper.”
+
+We follow Gerald inside and Martha prepares some tea for Keve, Gerald and I.
+
+“So! The good news first. We found a mage for the delve, two in fact! It seems that a Master Mage decided this would be a good opportunity to teach his apprentice. You also seem to have recommended some rather competent mercenaries. They’re expensive, but from the money we’re making on this delve, it won’t matter.”
+
+“What about a druid or beast tamer?” I ask, taking a sip of the refreshingly spicy tea.
+
+“I found someone who might work, but they are rather young. They also aren’t human, but I knew that wouldn’t be a problem for you.” His eyes flicker to Keve before returning to me. “Everything is ready for your delve.”
+
+I smile. “You’re amazing as always, Gerald. I don’t know what I’d do without you.”
+
+Gerald places his hand over his heart. “You’re too kind. You’re a smart young man, I’m sure you’d do just fine without me.”
+
+Martha knocks on the door, interrupting whatever Gerald was going to say next. “They’re here.”
+
+“Perfect timing!” Gerald stands up and leads us towards the door. He places his hand on the doorknob before turning to us. “I should mention that I have a total of three Rock-Lizards for your party. The youngling I mentioned earlier should be able to take care of them.”
+
+He opens the door, revealing the party for our full delve.

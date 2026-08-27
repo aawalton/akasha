@@ -1,0 +1,259 @@
+---
+id: cdc28d16-3923-57f2-aee5-09d25902f862
+page-type-slug: story-chapter-royal-road
+title: "Chapter 46 - Amendments "
+slug: 0048-chapter-46-amendments
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 48
+ownLength: 3274
+unit: words
+publishedAt: 2026-07-21
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3704770/chapter-46-amendments"
+royalRoadId: "3704770"
+---
+
+From his gaze in Sovereign Eye, Kairon watched Hector’s party depart to the South. Heading back the way they came, the last horse hoof disappeared up the rocky incline.
+
+Curious. Very curious. If what I think is coming is on the way, won’t Hector meet them? Hmm.
+
+Shaking his head, he deactivated the ability.
+
+That was far, far too close. He’d managed it. No, he’d flipped it even. Now, Lord Hallen had an even stronger fascination and relationship with the demonic city than he might have otherwise.
+
+But the risk… The way it happened…
+
+His demonic eyes glinted dangerously. Around him, imps were busy cleaning up the tower and returning it to its original state. More thorough washing was being done, repairs being made, and Sythara’s belongings returned. Mostly. He glanced over, observing the heap of utensils, bowls, and ingredients being ceremoniously dumped in the corner.
+
+That could wait.
+
+A transformation took place. Not in the tower, but in the demon. The guests were gone. It was time to see to some unfinished business that had been… delayed.
+
+Speaking softly, so as not to scare the imps, he gave a single order. “Everybody out. Now, please.”
+
+It didn’t work.
+
+Around him, the brood imps quieted. Their chitters, squeaks, and clambering stopped. Each took one look at their master, before quivering. Orange eyes blinked, and, all at once, they scrambled to find the door.
+
+“Yes master!”
+
+“WE GO!”
+
+“BYE!”
+
+In the corner of the room, Sythara gently set down the belongings she was trying to re-organize and climbed to her feet. She started to follow the line of imps out, shadowy tendrils cloaking sneakily about her. Like Kairon wouldn’t notice.
+
+“Not you. We need to have a discussion.”
+
+She kept shuffling, making as if the demoness hadn’t realized she was being spoken to.
+
+Just as she reached the door, he placed a single black claw on her shoulder.
+
+“Sythara. Not you.”
+
+“Oh? Me? Ah. Sorry, child. I thought you were talking to one of the little ones.”
+
+He gave her a flat look.
+
+She gave him an innocent one in return.
+
+They stayed like that, no words being said, until the last of the imps had gone. Only then did Kairon let his claw drop. He began walking to the back of the room.
+
+“Follow me.”
+
+The demoness trailed behind, almost shyly, like a baby duck trailing behind her mother. Only in this case, it was a very unhappy one.
+
+Making it to the end of the chamber, Kairon ran his grip over the smooth, polished exterior of Veron’s body. He took a moment to reflect on what had happened. On what had gone so very wrong.
+
+“Do you know what my elder, as you would call it, once told me?”
+
+“No. How would I know this?” she scoffed, some of her feigned innocence disappearing.
+
+“That what you do when nobody’s watching tells you what your true character is. Where your real loyalty lies. Whether you can be trusted.”
+
+Dozens of sigils on her pale skin darkened. “I see…”
+
+“Do you? Do you see? Because when I wasn’t watching, when I was busy dealing with Hector, what did you do, Sythara?” He spun around, facing her, voice lowering. “What did my void councilor, the one I rely on for research, treatment, and knowledge, find herself up to?”
+
+Those prismatic eyes fluttered, shifted, and then stilled. “Exactly what you asked. Another miracle. You wanted me to save some human with an unknown condition—”
+
+He snapped his claws, cutting her off. “Yes! Save. Save! And, if not that, use your best judgement. Judgement that I am continuing to learn can not be trusted.” The city lord sighed, shaking his head. “I’m very disappointed in you and how you’ve mishandled our agreements.”
+
+Sythara stubbornly crossed her arms. “Child, that hardly seems fair. I do not know what that golden energy was, but it caused a reaction. It is unrealistic to call that mishandling of our agreements.”
+
+“No? Let me ask you, Sythara, how many essences did I provide you with?”
+
+“Two.”
+
+“Correct. And how many were actually used on Veron?”
+
+No reply.
+
+“I’ll tell you. Only one. Not two. Those two essences were meant to save Veron. To be used on his condition. However, you all but admitted yourself that one was spent on Veron, and the other on Elson. Not as the materials were requisitioned to be. That, right there, my void councilor, is a direct violation of our agreement.”
+
+“I didn’t agree with infant-sitting and miracles!” she snapped.
+
+Kairon kept his voice calm, measured. “What you agreed to was a pact for a city, not for a field trip. I understand that while you see this as a research opportunity, and even encourage that to a point, your obligations are, at heart, to the city.”
+
+“Our pact does not state this! Have you even read the wretched concoction that you—” she stopped, realizing what she said. Kairon had indeed made the pact. The very one she had stretched like wet cloth before shredding with her tentacles.
+
+He smiled crookedly. “I’m so glad you brought that up.” With a wave of a claw, he pulled up the glowing parchment containing her agreement.
+
+“Let’s review, shall we?”
+
+The demoness glared, sniffing indignantly.
+
+“Now, at first glance, you might be correct. Nowhere does our agreement expressly state that every action you take must be according to my will. Or the city’s, for that matter. We’re all demonic, after all. Mistakes happen.”
+
+“Precisely,” she agreed.
+
+“But, you did agree to proper research escalation. Our agreement expressly forbids the escalation of research on city residents, guests, or domain dwellers from observation to experimentation without city approval,” he intoned, pointing at the shining parchment. “When you decided to use the essence on Elson, treatment became experimentation. A very important distinction that puts you in violation.”
+
+She said nothing, lips pouting.
+
+He flipped a page, pointing at the text with one claw. “Violation two. Here’s the clause about misusing research materials. Clearly that’s a moot point. If this isn’t a classic case of misuse of requisitioned assets, I don’t know what is.” Kairon swiped again, moving to the third page. “Oh. And we mustn’t forget this. Pactee shall not take actions that directly result in the damaging of city diplomatic interests.”
+
+“Now wait just a moment, child. The other violations are… potentially true. But what you’ve said is a much more concerning accusation.” With those words and the look that came over her, Kairon knew. He knew right then and there. And that lesson he told himself as he’d watched Elson’s remains drip from stone to floor earlier resurfaced.
+
+The sly woman knew. She read our agreement, and thought she’d find a way through, didn’t she? A way to get past our pact…
+
+Sythara wasn’t foolish. She was an intelligent demoness. Too intelligent. She just gave into impulses that fancied her scientific nature. As if waiting with a smoking weapon, the demoness lifted a hand. “But! But, child, is Elson not a guest? If I remember correctly…” Another copy of the glowing pact snapped into place, hovering over her hand. Nervously, a trembling hand flipped near the back, before a small grin pressed to her lips.
+
+“Yes! Here. Right here. The clause you are referencing only can be enacted upon diplomatic parties, but when you brought Elson to the tower, could I not argue that he was a guest? And a guest, under our agreement, is not treated the same. So you see, Elson might have originally been classified as a dignitary, but that changed to a guest when you invited him into your own home.”
+
+Kairon rubbed under his chin, considering her words. It only took him a moment to see what she was trying to do. It was cute, honestly. The demon was slightly amused despite himself. Sythara, Sythara, Sythara. Truly? This was your loophole? Your brilliant ploy? The problem with loopholes, my dear, is you need to be absolutely certain you do your due diligence. In this case, you did not. It was time to disabuse her of any illusions to the contrary.
+
+Not privy to his thoughts, she smirked triumphantly, mistaking silence for defeat. “This entire line of accusation is entirely unfair as it relies upon that incorrect classification!”
+
+Gently, with an air of disappointment, he coughed. “My dear, I think you’ve misunderstood the situation. If you don’t mind, would you read footnote 5b on that very page?”
+
+Her smile faltered. Her eyes went back to the parchment, traveling down, past the supplementary information, to a small note.
+
+“See synchronous classification guide in overleaf,” she said slowly. To his growing amusement, the demoness began flicking through page after page, going over the entire pact. Two minutes Kairon sat, watching. Three. Five. Ten. Yet, even after a quarter of an hour, she came up empty.
+
+Eyes nearly bloodshot, she glared at the city lord. “Child. What is an overleaf?!”
+
+“Allow me.” Rolling his eyes, Kairon leaned forward and ran his claw along the edge of her glowing pact. With a sound like tearing paper, what had been ten pages split into twenty.
+
+“What the fuck?!” she screamed.
+
+“You’ve never seen a demonic overleaf? I must admit, Sythara. That’s truly unfortunate. Every demon should know this much.”
+
+She was seething, lips trembling, prismatic eyes faltering. Her shadowy tentacles split off, each grabbing one of the new pages and holding it aloft in front of her, gaze roving over the new text.
+
+“I think you’ll find the definition in question under page seven of the glossary, about a third of the way down.”
+
+Moments later, she found it. Her sapphire pupils flashed as she read. Internally, of course. Externally, she just sat, silently, paper waving.
+
+“Sythara, would you be so kind as to read the definition?”
+
+Instead of answering, a second enraged shriek left her lips. Her tentacles snapped, each ripping a piece of glowing paper in half. Being that they were summoned, they simply faded with wisps of smoke into nonexistence.
+
+“This is absolute nonsense?!” she seethed. “How can I be privy to what I couldn’t have even read?!”
+
+“Oh, but you could have. If you’d done your proper due diligence, darling. Anyway, seeing as your copy is… gone. Let me read from mine what you missed.”
+
+Clearing his throat, he began:
+
+‘Where a subject’s classification is uncertain due to simultaneous classifications including city resident, guest, or dignitary, the higher protection shall govern.’
+
+He cocked his head, as if contemplating the words.
+
+“You know, that’s interesting. By your own admission, Elson was originally a dignitary. He just also tagged on the classification of guest. What would you say in a moment like this?” He thought for a moment, before grinning. “Tsk, tsk, tsk.”
+
+“Child!”
+
+“No, no. Sythara, what exactly do you believe you classified Elson as? Guest, or dignitary. Because from where I’m sitting, it certainly wasn’t a dignitary,” he said sharply.
+
+“Well… I mean… That conclusion is thoroughly unfounded!” she spluttered. “Even if he was a dignitary, I still did my best!”
+
+“Did you? Our pact very clearly states that the pactee shall not take actions that directly result in the damaging of city diplomatic interests.” The city lord looked up, before pointing one claw at the wall. Even with all the scrubbing, a slight red stain was visible. “Sythara, would you call popping a foreign dignitary like a grape during ongoing diplomatic discussions with their sovereign doing your best? Especially if we promised the other party to try and treat their subject in good faith?”
+
+Finally, any trace of resistance in her cracked. Her loophole was unraveled, her scheme laid bare, and her sins surfaced. “Child, you must admit that the research is fascinating. That the possibilities are extraordinary. Can you not see this? If we can learn to properly fuse essence with body, or even study that golden energy—”
+
+“And there it is. The truth. Like the fine print, hiding in your own footnotes. So you admit it. That you violated our agreement, broke my trust, and nearly cost our city our only diplomatic ally?”
+
+“Yes, child. Yes! Are you satisfied now?”
+
+“Actually, no. First of all, that research you love so much? It’s the least of your worries. When you earn back my trust, and I must stress the when of that statement, we can speak of such pursuits. For now, you are going to put your entire focus into repaying the city your debt.”
+
+“You can’t actually consider that research to be anything less than—wait, my debt? What do you mean my debt? Our pact has nothing of the sort!”
+
+“You’re right. It doesn’t. Yet. To remedy that, we’re going to be making some amendments to our pact.”
+
+“We’re what?!”
+
+“Mhm. First of all, your fifty essence payment is null and void.”
+
+The demoness shrieked. “No, no, no! Child! Please, my research requires it. I can not pursue anything without it. Please you mustn’t do this. You can’t! I won’t allow it!” She fell to her knees, eldritch limbs trembling.
+
+He shook his head slowly, placing a comforting claw on her forehead. Gently, he pressed. “Oh, my dear. You will allow it. And everything else that comes after. For if you don’t, what is the alternative other than dissolution? With the number of violations you’ve cooked up, I even wonder if something more… rectifying is on the table? What do you think the plane’s adjudication might grant me if I were to pursue such a path, hmm?”
+
+She gaped at him, her mouth trying to work some level of feeling back into its slack muscles.
+
+Not waiting, he continued on.
+
+“Good. As for the second amendment, we will be clarifying—actually—restructuring our research processes. There will now be three tiers. Observation, active experimentation, and essence fusion. I realize the third having its own tier is irregular, but given what happened today, I feel it warranted.”
+
+Sythara’s expression made it clear she was far beyond caring about the irregularity of the nuances of research classification. Her numb, scorched brain was trying to comprehend how everything was going so wrong.
+
+Uncaring, Kairon kept rattling off the specifics. He didn’t want to leave anything up to chance, after all. “Of course, to progress any research or activity to the next tier, until your onboarding is complete, you need express verbal or written permission from me. If you do not, you incur harsh penalties. Details of which can be found on your own time in my prepared revised version of our pact.”
+
+Finally, some level of voice came back to her. “What?! Child, you can not simply start altering—”
+
+He held up one claw, forestalling further argument. “I’m not done. Third, the five vacation days you earned from the Veron deal? Also void.”
+
+“You… You can’t just…!”
+
+Cocking an eyebrow, he gazed at the marbled bisected torso.
+
+She quieted.
+
+“Fourth, subject designation will be restricted to my judgement only. This will be the case in perpetuity, but may be revisited once onboarding is complete. In general, it should prevent any more confusion when it comes to situations like this.”
+
+Kairon went through a mental checklist of the major revisions, remembering the last one. “Oh! And of course, your actions cost us. You will owe the city personal restitution debt, payable in gold, essence, or equivalent asset valuations. The fine print of which is, as usual, notated cleanly in the revision. I suggest you review it as well. Since you are clearly unable to do so at the time of this agreement, I’ve gone to the trouble of preparing some recommended repayment plans for you.”
+
+With interest, of course. The rate was in footnote 4B. Clearly visible, if she looked.
+
+The city lord paused, letting Sythara take all that in. Those amendments made up the stick of his plan. To really emphasize that, he made an instinctive tug on Sovereign Eye.
+
+A notification appeared.
+
+Accept pact amendments with Sythara The Unraveler? — Yes / No
+
+Below it, a full revised copy of the text came into being.
+
+She grit her teeth, staring in dismay at the new pact.
+
+Kairon revelled one final time in the satisfaction of it all. He was fairly certain he saw more than one bead of sweat trickle down the demoness’s forehead.
+
+Alas, his deviousness had its limits. At the end of the day, he cared more for managing Sythara than disciplining her. She had unique talents, skills, and knowledge that he wanted for his city. Throwing it away when it could be reined in was purely wasteful.
+
+She just needed a firm claw to guide that crazed scientific pursuit. And for that to work, Sythara needed not just the stick, but the carrot too.
+
+“Now then, before you go off agreeing to this, listen to me carefully. I do not want a void councilor I must always watch. I want a partner. Someone that can lead our city’s research, and aid us in our journey to revolutionize our way of life. To that end, you’ll see in the altered agreement that I’ve added specific criteria to your onboarding. It will no longer be an arbitrary goal, but a set of real milestones.”
+
+The city lord had thought long and hard about this. He decided that, to maximize her performance and loyalty, this was the most likely method.
+
+She flipped through her own glowing parchment, coming to the new list at the end. “Three months minimum time adhering to all onboarding requirements, successful operation of ritual circle, and approved experimentation oversight pilot.” The demoness hissed. “What is this pilot?”
+
+He nodded. Good. The fact she didn’t complain about the first two items means she realizes just what this means.
+
+“You’ll find it referenced in the addendum. Essentially, a proper experiment under my oversight. I want you to show me that you can responsibly use city resources for something that interests you. As a scientist, I know that your own pursuits will always be paramount. So, I want you to prove to me that this is not mutually exclusive to your role here. Perhaps even show me that the two are one and the same. Parallel, as it were.”
+
+“Which means?”
+
+“Which means you come to me with a proper hypothesis, method, materials, and risk assessment of a topic of your choice. I approve it. And you bring me back the results. Do this, and that box is checked. Complete the other two requirements, and your onboarding is complete. I’ll give you real freedom, real authority, real power.”
+
+He held up one claw. “But. There will still be a measure of oversight. Nothing invasive, mind you. Weekly reports, quarterly performance reviews, and an annual revisit of our agreement according to my purview.”
+
+The demoness just sat there, going through it all. She flipped through the rest of the pages, eyes going left to right as she read.
+
+When she finished, she set the parchment down and stared at him. “What’s this final section? The post incident action list?”
+
+Kairon clicked his tongue. “Oh. Glad you brought that up. To finalize today’s mishaps, I need to be convinced it truly won’t happen again. So you’ll be preparing me a mandatory incident report, complete with this lovely little report called a root cause analysis.”
+
+“A root what?”
+
+The demon sighed. “You better sit. I’ll walk you through it.”
+
+In the corner of the room, Veron’s stoney form watched silently on. Expressionless eyes witnessing a dealing of its own unwilling making. And, just like the bond he had with the metal grate below, it witnessed the growing one between demon and demoness.

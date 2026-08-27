@@ -1,0 +1,179 @@
+---
+id: 75c5e0cc-f139-565b-8db4-11942c1ff841
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20: Private Library"
+slug: 0020-chapter-20-private-library
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 20
+ownLength: 1905
+unit: words
+publishedAt: 2026-06-07
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3506574/chapter-20-private-library"
+royalRoadId: "3506574"
+---
+
+Cyanea Lamarckii Volans- Commonly known as Flying Blue Jellyfish, are a beautiful addition to any monsterologist's collection.
+
+Preying on insects and pests invisible to the eye, these creatures are quite beneficial for libraries, food storage, and farms.
+
+Their mana actively preserves their surroundings, preventing degradation and rot.
+
+Often traveling in packs, these jellyfish have hive-like tendencies. When threatened, they will turn red, attacking their aggressors with a terrifying viciousness.
+
+I start by identifying several of the trowels, marking them down in my notebook before placing them in the packs. Then I move onto several pruners and gardening shears.
+
+Tanya runs through the room, examining various plants held in isolation by ancient enclosures. Several of the box-like enclosures had broken down, the plants either having grown out of them or some other problem occurring.
+
+Shar watches the ceiling, and I follow her gaze to where several carriage-sized transparent lizards rest, slowly munching on leaves equally as large as they are.
+
+I tear my gaze away to look back at the surprisingly pristine tools. These might be some of the most valuable things from the entire delve. When humanity can barely travel past its walls, food becomes an important commodity, and things that help with the production of food are priceless. Not to mention the value of being able to care for certain alchemical plants properly.
+
+I identify a simple watering can, then mark it down in my notebook..
+
+Watering Can
+
+Passively gathers mana and infuses the mana into the water it provides. This water helps increase growth rate, yield, and health of plants.
+
+A great example of what I mean. Mana-Infused water is unheard of, and I’ve heard of several legendary plants that can’t be grown because they have to be in mana rich environments.
+
+I write down the information, then place it in one of the backpacks. Out of the corner of my eye, I see Tanya pulling several seed bags from the table next to us and organizing them in their own way.
+
+Hopefully she knows their names, Identify Artifact doesn’t work on anything living, with rare exceptions.
+
+There’s a second watering can that I write down, and then I find a nice pair of gloves.
+
+Gardening Gloves
+
+Protects the wearer from toxins and parasites. These gloves are puncture resistant and self-repairing. Mana that travels through them becomes nature-aligned.
+
+I immediately put the gloves on, feeling a lot better about being in a room with several unknown plants. I hadn’t forgotten the black-cap mushrooms from the other day. There’s also a second pair which I put into another bag.
+
+Next, we move onto several planters and pots. They have similar mana-gathering properties to the watering can, along with several other useful gardening abilities.
+
+Some of them are too large to carry in backpacks, but a quick test shows them to be surprisingly light.
+
+Soon enough our bags are full with the larger equipment. Keve picks up the larger pots with ease, holding them in front of him.
+
+I find Tanya studying one of the plants trapped in a transparent box, and convince her to explain each of the seeds she found. They don’t hold much value to me, so I write them down, then offer to let her have them, which brings a huge smile to her face.
+
+After that, we climb the stairs back to camp, drop off our items, and continue back down into the biggest prize of the adventure, for me that is.
+
+The Library.
+
+I pause at the door, water flowing around that same line that protects the ancient room. I turn to the large delving team, clearing my throat. “Alright, so, number one rule. Don’t hit the floating jellyfish. I have a skill for holding books, but it’s private, and I’m vulnerable while using it, so I want everyone to watch the entrances, make sure nothing sneaks up on us.” That’s the best excuse I could come up with. There are skills that hold specific items, similar to Tanya’s tattoos, but they are rather rare, and unique. So it isn’t out of the imagination that I’d want privacy while using it.
+
+Everyone gives me nods, and we walk into the room.
+
+Gasps of surprise escape everyone as they see the towering shelves of books, and the floating blue jellyfish. I take a moment to enjoy the sight myself. This many books in one place has a beauty all its own, and the effect of the creatures make it feel magical.
+
+Tanya immediately wanders over to one of the jellyfish, studying the long ribbon-like tentacles that float lazily below it. Her eyes move to the other magical creatures, then she turns to me.
+
+“When you’re done, can I ask them to join me?” She holds up a hand, and one of the blue jellyfish gently lands in it.
+
+I look at Keve, who shrugs.
+
+“Yeah, I think so. Let’s get the books first. I’ll give you a signal when I’m done.”
+
+Tanya nods seriously.
+
+We break up into two groups. Tanya and Keve watch the back door leading to the gardens, while the mercenaries and Eyla go to the door leading to the large halls where we’d encountered the Skeleton Knight on my first delve.
+
+I wait until their footsteps are silent before I begin the spell to open a small portal. Then I grab books and place them through it.
+
+There’d been some part of me that worried there wouldn’t be enough room. But as I put books into the portal, I find the worry to be unfounded. Holding it open requires barely any mana, and they disappear one after the other as I put them into the space.
+
+Shar fetches the books on the higher shelves, handing them to me as I slowly clear out the section of the library.
+
+An hour passes, and I call everyone back to share lunch. Keve sits down next to me pulling out his food and quietly eating, while the others gather in a rough circle.
+
+“You really cleared this place fast.” Daron looks over the mostly empty shelves from where he keeps an eye out down the aisle.
+
+“A storage skill like this must be rare.” Eyla adds as she sits on the floor next to me. “No wonder you kept it so quiet.”
+
+“Explor’rs and merchants.” Grildor tears off a piece of his jerky and chews it.
+
+“Do explorers often get storage skills?” Eyla takes a smaller bite, glancing at me.
+
+“Most explorers are quiet about their skills.” Libby looks at me for confirmation.
+
+I give a small nod, then take a bite of my jerky to let me think, “It’s a solitary and dangerous job, the more people know, the more they can use it against you.”
+
+“Just think about what he’s got here, lass.” Grildor taps the tower shield I gave him, “This trip is gonna make all of us wealthy, but if one of us turned against him?”
+
+Tanya, who’d been quietly eating until now, stiffens with dawning realization, drawing my gaze. “It’d be worth a lot.”
+
+“That’s why I give you so much.” I say, “I’d rather treat you well with the promise of more, than have you turn against me.”
+
+Tanya’s expression shifts into a frown, “I’d never sell you out.”
+
+I smile, “If I thought you would, you wouldn’t be here. That goes for everyone.”
+
+“A relationship with an explorer is more valuable than gold.” Libby taps the sword at her waist. “Especially these days.”
+
+Grildor grunts in agreement.
+
+A rumble goes through the room, stopping any further conversation. Everyone rises to their feet, swords drawn as another rumble passes like a wave through the library. Books fall, and the jellyfish continue to just float there quietly.
+
+We wait, but nothing happens.
+
+Libby looks over to Daron, who stares at the ground beneath us. “Anything?”
+
+Daron gives a slow nod, his face pale. “Something big below us.”
+
+“A Worm?” I ask, thinking of the tunnel leading to the surface.
+
+“I don’t know. It’s gone now.”
+
+I bite my lip, and look at the shaken faces of the delving crew. Something that could have that effect on the very earth isn’t something we could handle. I’m not sure a Stronghold could handle it. There’s a reason we don’t anger the monsters of the deep. “Back to positions. I’ll hurry.”
+
+A series of nods matches my announcement, and we disperse. I cast Private Library, reopening my portal for books. Shar and I work in tandem, moving at an even faster pace to place every book inside my newest spell.
+
+Another two hours, and the library is cleaned of every book. There’ll be some organizing I’ll have to do later, but I have a feeling that the door version of my spell will make that easier.
+
+The blue jellyfish look more lost without books surrounding them.
+
+I look one last time around the empty shelves, making sure I haven’t missed anything. They’re empty, but as I look around, one of the shelves catches my eye, something about it not quite right.
+
+It takes a second to spot that one of the legs of the shelf is being held up by a book. I kneel down, and pull the book out from under it.
+
+The cover is made of hard leather, but there’s no words on it. I open it to find the pages empty. I flip through, but nothing is written.
+
+“Should I grab the others?” Shar’s voice breaks me away from the book.
+
+I give her a small nod as I slip the book into my bag, and close the portal to my Private Library.
+
+She flies through the shelves, grabbing the others.
+
+***
+
+The jellyfish turn into a spiraling tattoo up Tanya’s other arm, leaving the library even emptier than it was with the books gone.
+
+“It’s kinda spooky. Being so empty.” Daron rubs his arms as he looks over the same shelves.
+
+I turn back towards the gardens, “There’s no point dwelling on it.”
+
+Grildor steps in front of me, opening the door, only for it to stop halfway open.
+
+I peek past him, to find the stairwell collapsed. Large boulders block the path back up.
+
+I share a look with Grildor, then turn to the others. “The stairway’s collapsed. We’ll have to go the other way.”
+
+Keve meets my gaze. He remembers the path through the great hall. We’d only encountered a single skeletal knight, but that was only when there were the two of us. It’s hard to know what might’ve been hiding in that darkness.
+
+I step away from the blocked passage, and lead the way through the library to the opposite door.
+
+I push the door open, revealing a large cavernous pitch black of the depths, my light only showing a small glimpse of our surroundings.
+
+Shar jumps onto my shoulder in her bird form. She cocks her head for a second, “The air is dusty.”
+
+I blink, then focus, noticing the same thing. “The rumbles caused this?”
+
+She nods, then jumps from my shoulder, flying into the darkness.
+
+I pull out my light orb, then motion for everyone to get into formation, Grildor leading while Daron watches the rear.
+
+“Keep voices quiet.” I say, motioning for Grildor to lead us, “I don’t know what could be down here.”
+
+The others nod, and then we step forward.
+
+Ancient pillars lay crumbled and cracked around us, leading the way ever deeper.

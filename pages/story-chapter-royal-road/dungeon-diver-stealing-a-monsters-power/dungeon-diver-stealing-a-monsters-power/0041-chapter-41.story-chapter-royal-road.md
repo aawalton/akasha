@@ -1,0 +1,243 @@
+---
+id: 7cf9dee1-76de-5d95-aa96-b67ea9491687
+page-type-slug: story-chapter-royal-road
+title: "Chapter 41"
+slug: 0041-chapter-41
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 41
+ownLength: 1583
+unit: words
+ownProgress: 1583
+publishedAt: 2023-02-27
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1124610/chapter-41"
+royalRoadId: "1124610"
+markedReadAt: "2026-06-29T20:33:13.297Z"
+---
+
+We walked further into the dungeon and the swamp just got deeper and deeper.
+
+Cori spoke up.
+
+"Troll, 50m to our left."
+
+I turned and ran towards it immediately. 10 seconds later I was face to face with the creature. It was pretty much identical to the last troll we encountered.
+
+I erupted into flames and turned on my inspect skill.
+
+[Lv. 152]
+
+I smirked and sprinted towards the troll. It awkwardly moved its long arms around and charged at me as well.
+
+In one flaming strike I sliced the troll's head clean off. This time I made sure to leave fire residue behind.
+
+The body of the troll fell to its knees and the flames of my attack burned brightly along the area where I cut. Just to be sure I lunged in for a final blow and sliced its body in two while releasing a large amount of fire magic inside the corpse.
+
+Moments later the beast was burning to ash. I heard the ringing that confirmed this troll's demise.
+
+[Level Up]
+
+[Level Up]
+
+I could see Cori and Talia running up behind me about 10m away. I did sprint off alone, maybe I should have waited.
+
+The ashy corpse of the troll started to glow blue, I stepped back and saw that it was just a text box...
+
+[Use Absorption]
+
+Skill: Self Regeneration
+
+[YES][NO]
+
+I chose [YES] and stood there curiously over the ashy body as it disappeared. It let me use my skill this time?
+
+The only explanation I can think of is that I landed the final hit. Maybe that's a hidden condition for my absorption skill. It makes sense.
+
+I opened my status to check it out.
+
+[Status Open]
+
+____________________
+
+Name: Jay Soju
+
+Level: 144
+
+Hp: 725/725
+
+Mp: 530/725
+
+Strength: 347 [+125]
+
+Speed: 412
+
+Agility: 430
+
+Defense: 310 [+124]
+
+Mental Strength: 347 [+69]
+
+Skills:
+
+Absorption
+
+Swordsmanship
+
+Combat Magic [Fire Summoning]
+
+Inspect [Special Grade]
+
+Enemy Detection
+
+Body Hardening[Special Grade]
+
+Self Regeneration
+
+Items Equipped:
+
+Golden Wolf Ring [+20% Mental Strength]
+
+Cyclops Eye Pendant [+40% Defense]
+
+Stainless Steel Sword [+125 Strength]
+
+_____________________
+
+Cori and Talia arrived seconds later. I'm glad they didn't see me kill that troll, its a blessing in disguise that I'm so rash sometimes. I don't know if anyone else can see my absorption text. I've never tested it out, and today isn't the day to do so.
+
+Talia looked at me with a proud look on her face.
+
+"Good job. I'm happy for ya. Looks like you can handle these guys yourself. That's good to know, but we should still stick close together. Mutants aren't too uncommon in the capital dungeons. There's a lot of concentrated magic here, 1 in ever 20 or so monsters is a mutant. I've personally never seen one in the troll dungeon, but you never know. Just a heads up."
+
+My eyes lit up.
+
+"I had no idea... Does that mean there are a lot of dungeon breaks in the capital? No one seems to be too worried at all. How does it work here?"
+
+"There's dungeon breaks pretty often actually. Most of the E, D, and C Class dungeons are pretty packed in the city though. If there's ever a break, usually many competent teams are already inside and deal with the matter."
+
+"Hmm makes sense."
+
+"Even if monsters were to get out they would have a very hard time getting anywhere. Each dungeon portal is separated from the outside world. They're only connected to the dungeon Hub. The Hunter's Association has many guards on duty that can take care of any potential leaks as well."
+
+I nodded as the troll disappeared, I picked up its mana crystal. It was pretty heavy.
+
+"Wait. What about the B class dungeons? Or even A class dungeons? I've never even heard of those to be honest."
+
+Talia smirked. We started walking deeper into the dungeon as Cori opened up portals around us occasionally.
+
+"You're funny. You really have no idea about anything in the capital. Did you grow up on a farm or something?"
+
+"No, well... Pretty much I guess. My home town is pretty small, who cares though! What happens if a B or A Class dungeon breaks?"
+
+"Well, there hasn't been a B Class break in years. It takes a lot of stored up magic for something like that to happen. One of the top 3 guilds would probably take care of it if that happened. I assume it would cause a lot of damage to the city, but they could handle it."
+
+"And an A Class?"
+
+Talia raised an eyebrow and grinned.
+
+"Well, we'd all be screwed."
+
+I looked at her with concern.
+
+"What do you mean we'd all be screwed? The top 3 guilds can't handle an A class break? What about the Hunters Association?"
+
+Talia laughed and just looked straight ahead.
+
+"There won't be an A Class Dungeon break. Those are unheard of, not since the Great War at least."
+
+"Really?"
+
+"Yeah, we only have like 4 A class hunters in this whole country. You think they'd hang around in the Vice Region?"
+
+"Hmm. I guess you're right."
+
+"There's barely any high rated B class dungeons for hunters to train at you know. If you want to get stronger as a B rank, you have to do so by other means."
+
+"I don't need to think about that right now, I was just curious about the breaks. Thanks."
+
+Talia smiled.
+
+"Haha no you're fine. You kind of remind me of Cori when we met back in the the Bedrock region."
+
+Cori put on a light grinned.
+
+"Troll, 70m to our right."
+
+Talia nodded and her face tightened up into battle mode.
+
+"Lets head out. Jay, you had the last fight. I can handle this one, be my close backup."
+
+"Got it."
+
+A minute or so later the troll was dead on the ground after Talia attacked it ruthlessly and Cori finished it off with the fire stone in his storage system.
+
+We hunted down trolls and alternated between killing them for another 6 hours. We faced off against 18 more monsters. I personally fought 9 of them. The last 5 I decided to stop using my fire magic to preserve MP. I had to drink my E class potion and was running low. After all these fights and a +500 reset I was at 295 MP remaining.
+
+Overall I gained a lot of exp as well. I leveled up 8 more times. The last couple trolls didn't boost my exp much, it was nice while it lasted though. My experience rose a lot, I'm level 152 now!
+
+"Hey, do you have any MP potions on you? I'm fresh out. It's not urgent, but a couple more fights and I'll be at 0."
+
+She lifted her shirt on right side to reveal a small belt with a glowing pink potion.
+
+"Yeah just one, you can have it if you need it. I think it might be better to just call it a day instead."
+
+Talia made the call.
+
+"I think we're solid. Pack it in and and divide the loot?"
+
+We all nodded at each other. I replied.
+
+"Yeah, time to call it. Great hunt today, we made a killing. Way more than your average 5 each day i assume, I'm glad i met you two!"
+
+Talia smirked and gave Cori a quick glance.
+
+"Yeah, our 5 each is from a 5 person crew. We didn't do that much better than usual. It's just a better split."
+
+"Ahh cool. The Exp today was great! I went up a ton of levels."
+
+"Yeah, the exp split was pretty good too. I gained a few today as well. Sadly Cori probably didn't gain a single one. We'll have to farm a bit in a lower dungeon soon to even out."
+
+Cori nodded and smiled thinly at Talia.
+
+I was a bit confused, she could see it on my face.
+
+"The fire stone kills don't count as Cori's kill. He didn't get the exp share all day, it was just us."
+
+"Oh that's rough. Well, at least we all made some good profit. Let's head back."
+
+We all started walking back in the direction of the dungeon exit.
+
+The ground was getting a bit less wet and the swamp land was clearing up. We were less than 1km away, I could tell.
+
+There was just an odd feeling I couldn't shake. We were definitely being watched...
+
+I activated my enemy detection and scanned the area. There was nothing close by.
+
+As I lengthened the range I could feel my MP being drained, I turned it off just in case.
+
+"Cori, do you feel that? Is there anything nearby?"
+
+"I feel it, but I cannot find anything nearby."
+
+We continued walking towards the dungeon exit. I gripped my sword tight and was ready for a battle at any moment.
+
+Talia and I walked up front, Cori stayed behind scanning the area.
+
+About 30 very tense seconds later Cori spoke up.
+
+"Something Big. 150m Straight ahead."
+
+I turned back to him.
+
+"How big? What do you mean?"
+
+"100m now, It's coming"
+
+I turned back and readied my blade. No more time for talking, it's time to fight.
+
+Moments later the trees ahead started to shake and the water in the shallow swap rippled violently.
+
+Then I saw a massive creature burst out from the trees and let out a shriek as it stared us all down with bloodshot eyes.
+
+"CRUUUUUAAARRRR!"
+
+It's a Mutant Troll...

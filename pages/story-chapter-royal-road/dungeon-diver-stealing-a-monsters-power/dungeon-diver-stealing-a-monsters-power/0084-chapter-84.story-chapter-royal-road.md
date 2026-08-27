@@ -1,0 +1,265 @@
+---
+id: 6ed07811-a0cf-5d8f-a1ab-feb6df9462c0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 84"
+slug: 0084-chapter-84
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 84
+ownLength: 1825
+unit: words
+ownProgress: 1825
+publishedAt: 2023-04-11
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1166497/chapter-84"
+royalRoadId: "1166497"
+markedReadAt: "2026-06-29T20:34:43.000Z"
+---
+
+[Test 1][Time Remaining: 30 Hours]
+
+I let my flames simmer down, but keep my sword pointed straight ahead.
+
+“So… are we friends or enemies today?”
+
+Nessa lets out a sigh of relief.
+
+“Friends, I hope.”
+
+She lets her sword down and turns to her teammates.
+
+“Hey! I know them! Hold back!”
+
+I turn to Maria and nod. She understands and lets her ice wall crumble while backing up slowly.
+
+I’m still skeptical, so I scan the area. At closer inspection, one of the tanks and that woman with daggers look familiar. They were both there when I fought that mutant minotaur… but the big guy…. He’s new. Nessa caught me sizing him up.
+
+“Hey Bruce! Meet Jay. Jay, meet Bruce. This is our team captain.”
+
+The large light-skinned man with dark features walked over to me slowly with his heavy metal shield to the side. I use inspect and appraisal.
+
+[Lv. 271]
+
+Active Items:
+
+[Heavy Steel Shield] +400 Defense
+
+[Steel Armor Set] +300 Defense
+
+[Leather Boots] +150 Speed
+
+[High Ogre’s Ring] +50% Mental Strength
+
+[Rodrigo’s Silver Bracelet]
+
+Active Skills:
+
+Body Hardening
+
+“Nice to meet you. If you’re a friend of Nessa’s you’re a friend of mine!”
+
+He reaches out a hand and I shake it hesitantly, but keep a smile on my face.
+
+“Nice… To meet you too.”
+
+I continue scanning the area around us, using enemy detection and inspect on a huge radius. Nessa’s eyes light up as she looks at me using multiple new skills, but I’m not too worried about it.
+
+Our bigger problem is the 27 other teams on this floor right now. It seems like we overslept, it’s getting crowded here.
+
+Maria walks over to me.
+
+“How was your nap? Ready to continue?”
+
+I smile.
+
+“Yeah it was pretty nice, I ju-“
+
+“YOU WERE SLEEPING?”
+
+Nessa looks at me like I’m insane.
+
+I laugh.
+
+“Yeah, we did take a small break. Nessa, Meet Maria… and uhh, Maria, meet Nessa.”
+
+They stare each other down for a moment, then both nod before looking away in different directions.
+
+I gulp softly, then notice Nessa holding herself up by her sword… The other 3 teammates doing the same thing, using their gear to keep themselves upright. Now that I take a closer look, they’re all pale and exhausted.
+
+“Hey- Are you guys all right? You all seem sickly…”
+
+Nessa looks back at me and nods slowly.
+
+“Yeah, we’ve just had a long day. Moving slowly and only engaging with parties much smaller or weaker than us is tiring work. If you didn’t wake up during our fight, I’m not so sure what would have happened. It’s taken a while to climb this high. Plus, that last dungeon was brutal.”
+
+Maria looks over at me with a grin on her face.
+
+“I would have wiped the floor with them if you didn’t stop me.”
+
+I laugh.
+
+“Oh yeah?”
+
+Nessa looks over at her with an annoyed glare, but didn’t say anything back. Maria is right… and she knows it.
+
+I open up my item box and throw her my half-empty water bottle.
+
+“Don’t drink it all, but take what you need.”
+
+Nessa’s eyes light up as she catches the bottle and begins drinking from it instantly.
+
+The moment she does, something feels off…. and very familiar… I yell out.
+
+“Stay alert. Someone else is here…”
+
+Everyone starts looking around and drawing their weapons. I erupt into flames to hide my use of berserker and expand my range of enemy detection.
+
+Still… Nothing shows up on my radar. Was it a false alarm? My eyes move back and forth as I scan the woods around us in my paranoid state. The rest of the group stands on edge in confusion as well.
+
+Then I sense a small pitter-patter of footsteps and it clicks…. just a moment too late.
+
+*SHINGGGG*
+
+30m in front of me, I watch two shining daggers pierce through the neck of the tank leaning against a tree. He instantly dissipates into a bright white light, then the daggers disappear into nothingness.
+
+I yell out.
+
+“RUN! This is a hunter with a stealth skill! Unless you can sense him, you’re no match!”
+
+Maria turns to me glowing bright blue.
+
+“Is it that guy from before?”
+
+I look around sporadically to try and sense him again.
+
+“Yes. I need to concentrate in order to face him. Run! I’ll catch up, trust me.”
+
+Maria nods and darts off. I motion for Nessa to follow, she sprits off moments later.
+
+As they run, I watch two silver blades emerge from thin air slashing the woman dagger user in half… She glows bright white and disappears instantly, indicating shes been transported back to the respawn point as well. Their captain Bruce yells in frustration as his team gets slaughtered in front of his eyes.
+
+“COME ON! FACE ME!”
+
+There’s no response. He’s just yelling at the empty forest at this point.
+
+I grit my teeth and focus harder. I feel the cool breeze, the leaves swaying slowly back and forth, Bruce’s heavy breathing, and then… the light vibrations of footsteps shaking the ground.
+
+Then I finally look up and lock on.
+
+[20m]
+
+[Lv. 286]
+
+Active Items:
+
+[Steel Dagger Set] +300 Strength
+
+[Enchanted Steel Armor Set] +400 Defense
+
+[Enchanted Leather Boots] +200 Speed
+
+[Griffin’s Talon] +40% Mental Strength
+
+[Enchanted Silver Ring] +30% Speed
+
+[Ring of Protection] +25% Defense
+
+Active Skills:
+
+Dagger Mastery
+
+Stealth
+
+It looks like his level is even higher than before, and he’s picked up some new gear. This maniac climbed the labyrinth solo a second time on a mission just to come and kill me…?
+
+I run toward the faint found of footsteps.
+
+*CLANGGGG*
+
+Moments later his daggers meet my blade. Sparks fly as the man appears from his stealth mode. We jump back and stare each other down. He grins and yells out to me.
+
+“Fancy meeting you here. Looks like I’ll get to give you the payback you deserve. It’s been a real pain ya know!”
+
+As I start to reply he takes a step backward and disappears. I decide to yell at him anyways.
+
+“If I beat you this time you’re dead for real. You know that? Go pick on somebody else!”
+
+I look around waiting for a reply, but hear nothing.
+
+With all my active sensory skills on overdrive, I take a deep breath in and out to visualize the battlefield. Nessa and Maria have safely made it about 50m to my right. They’re hidden behind a clump of trees while still moving quickly away. The tank named Bruce is still standing 15m to my left side behind his shield attempting to search for the enemy. He’s too stubborn to back down…
+
+I watch the dagger user attack the tank beside me. I should have known he’s trying to pick off all the weaker opponents first. The maniac makes contact with Bruce’s shield, but also sinks one dagger deep into his left arm. He yells out in pain as I dart over to try and help.
+
+The dagger user disappears, then suddenly stabs the tank deep in the back. To my surprise, he’s still standing. Bruce lets out a yell and manages to slam his shield against his opponent’s head as he disappears into stealth mode again.
+
+The tank grins at me while coughing up blood searching for something in his item box. I yell to him as I intercept the dagger user’s next attack.
+
+*CLANGGGG*
+
+My sword blocks a pair of daggers from reaching his neck.
+
+“GET OUT OF HERE! I SAID I’LL HANDLE HIM.”
+
+With his eyes open wide watching the sparks fly off clashing steel less than a meter from his neck, the man turns and runs.
+
+“GOT IT. All you kid!”
+
+The daggers disappear again and I’m finally alone on the battlefield facing my old opponent. Again, I let my eyes scan the area using enemy detection and allow my sense to flow with the heightened nature of my berserker state. I make out the light sounds of footsteps less than 10m to my right side.
+
+I turn and speak softly.
+
+“This is your last chance to leave.”
+
+I let my flames burn bright while my vision tunnels on the vague wavering outline of a man in my mind’s eye.
+
+There’s no response. So I let my blade soar.
+
+*SHINGGGG**CRACKKK*
+
+The black sword flickers red as it makes contact with the man’s daggers. He attempts to block my slash, but both of his blades shatter into pieces as I release a crescent-shaped wave of dark fire magic from deep within me.
+
+The fragments of his weapons fly in the air as he’s thrown 20m backward into the base of a tree while reappearing and coughing up blood.
+
+I sprint over to him with a malicious grin and a red blade glowing brightly. There’s a fiery gash across his chest, but he’s still managing to move around slightly. I point my blade at his neck and use intimidation.
+
+“What was that you said before? The payback I deserve or something?”
+
+He looks at me with a face full of disgust and fear while frozen in place. With his final will to live, he manages to spit at me….
+
+I bring my blade down to incinerate the large glob of saliva in mid-air, slicing the disrespectful man in half without a second thought.
+
+I turn and scoff, but then see blue text appear.
+
+[Use Absorption]
+
+Skill: Dagger Mastery
+
+[YES][NO]
+
+[Use Absorption]
+
+Skill: Stealth
+
+[YES][NO]
+
+I nod slowly, then choose yes on both skills while looking over my shoulders to make sure no one’s watching. The flaming corpse in front of me is a horrific sight to see, but the battle adrenaline mixed with the ego of my blade makes it seem just like a plain old pile of loot.
+
+I take off the man’s rings and necklace, then put them on myself as an extra prize for beating him twice. I warned him… so I don’t really feel too bad.
+
+With a sigh, I use enemy detection to locate the group of 3 pretty close by, but my heart skips a beat as I sense someone above me…
+
+[Lv. 451]
+
+I erupt into flames again activating basically every single one of my skills as a defense mechanism, but then calm down as I realize who it is…
+
+I sigh, put down my sword, and relax as I see a Hunters Association Representative with a yellow armband nod at me, then quickly dart away jumping along the treetops.
+
+It’s just one of the examiner’s helpers. He did see me kill a man… but that’s not against the rules, so I should be fine. I shrug and locate the others.
+
+[200m]
+
+[Lv. 297]
+
+[Lv. 271]
+
+[Lv. 256]
+
+My flames go out slowly, berserker fades off, and my sword returns back to black. I make my way toward Maria, Nessa, and Bruce. Hopefully, they’re doing okay after losing 2 of their teammates…

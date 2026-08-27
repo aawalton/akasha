@@ -1,0 +1,331 @@
+---
+id: 0dc0a4b2-29bb-5a5f-bb37-9b7d28bd7c2b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27"
+slug: 0027-chapter-27
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 27
+ownLength: 2322
+unit: words
+ownProgress: 2322
+publishedAt: 2023-02-13
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1112884/chapter-27"
+royalRoadId: "1112884"
+markedReadAt: "2026-06-29T20:32:43.865Z"
+---
+
+I was feeling pretty good about this dungeon. After that first battle I have these monsters completely figured out.
+
+We kept walking further into the cave.
+
+"Hey Jay, it'll only get harder from here. You sure you want to keep going?"
+
+I smirked.
+
+"Yeah these Bats are a piece of cake now. That first fight was a warmup, I doubt I'll even get hit once in our next fight."
+
+I strolled along next to Abby with my sword out occasionally activating my inspect skill to scan the area.
+
+I checked my status to see how much MP it was using up. I was at 550/570, looks like every inspect uses 3-5 MP. Not bad, but not great.
+
+As I was closing my status the new skill I recently absorbed caught my eye. Enemy Detection.
+
+I shrugged and activated it to see what would happen.
+
+Bad idea....
+
+I dropped to my knees with my hands on my head.
+
+"CLANGGGGG"
+
+I even dropped my sword. A horrible unexpected sensation came over me.
+
+"Jay!! What's wrong??? Hello???"
+
+Abby was waving her hands in front of my face frantically.
+
+All I could do was stare forward. I could feel the presence of ever monster in this cave. There were thousands of them... all very close by...
+
+"T-They're everywhere..."
+
+I was slowly adjusting to this new ability. It was still very unsettling, but I stood up and closed my eyes to try and master it more.
+
+They were scattered everywhere. Bats were behind rocks, on the ceiling, and even gliding around above our heads.
+
+The longer I closed my eyes and concentrated the more clear the movements of each Bat Creature became. The further away they were the more I had to concentrate to feel their exact location and movements.
+
+It seemed like they were all clustered in certain areas of the cave. They traveled in groups, maybe 20-30 in each cluster on average. Some would leave the group to scout out the cave for food while the others stayed together hanging upside down.
+
+The deeper I concentrated, the further into the cave I could see. The clusters became bigger and bigger. Some had hundreds... the deeper parts of the cave were much more active.
+
+Then the biggest cluster appeared in my minds eye. A cluster of too many presences to even count. A massive cluster at what seemed like the caves end... this must be what Abby meant by it getting harder the deeper we go in. I tried to get a better feel for how many there really were.
+
+All of a sudden I lost my balance. The clear feeling of the monster's exact location in my mind faded quickly.
+
+"Thudddd"
+
+I fell to the ground.
+
+"Jay!!!! What's wrong with you???"
+
+Abby was very close to my face. Her big concerned green eyes filled my field of vision.
+
+I checked my status in a daze, it read out 0/570 MP.
+
+"D-Damn. Sorry, I used up all my MP. I didn't realize I'd feel so weak."
+
+I drank an MP potion leaving me with just 1 left and sat up. I checked my status moments later and my MP rose to 500/570. For some reason it wasn't full, but I decided not to think much of it right now.
+
+"Tell me beforehand when you're going to pull a stupid stunt like that!!"
+
+Abby hit my right arm and pouted.
+
+That was the first time she ever hit me.. I'm not sure how to feel about that, but there were too many things going on to give this much thought either.
+
+"H-Hey. Sorry, I was just testing out a new skill. That bat monster let me acquire an enemy detection skill, I didn't realize it used so much MP."
+
+Abby nodded, it seems like she'd already put two and two together on what happened.
+
+"So, now you can see why this dungeon is more dangerous than it seems."
+
+I nodded.
+
+"Yup. It seems like it's a real pain getting to the boss room."
+
+Abby looked deep into the cave.
+
+"Usually it is... but I think we may have an easier way to get there."
+
+"W-What do you mean?? How strong is this boss anyways??"
+
+Abby grinned and grabbed my arm.
+
+"Come onnnn. Maybe I'll get to have some real fun today!"
+
+Her mood completely changed. The playful care free Abby was back. What changed her mind so quick?
+
+"Hey! I asked you a question ya know! How strong is this boss??"
+
+"You'll see. It's about my skill level, a little weaker though. I beat this dungeon two times before, but it was with a full party from the Association when I was around level 170. I can beat it now, I know all its moves."
+
+My eyes went wide...
+
+"It's almost your level?? You're over level 200 you know.. You better know what you're getting us into, I'll kill you if you get us killed!!"
+
+She laughed.
+
+I was half joking around with her, but half concerned as well. I know Abby is very strong, I'm sure she can handle the boss no problem. My only worry was the thousands of giant bats between us and that boss room.
+
+After about 5 minutes of quick walking I heard a familiar sound.
+
+*Click *Clic-
+
+In the middle of the monsters second click it was skewered by a mound of rock that shot out of the side of a stalagmite.
+
+It all happened much faster than I expected. I barely activated my inspect skill before the creature was dead on the floor.
+
+Abby smiled and skipped forward paying no mind to the fallen corpse.
+
+"This way! We're almost there, this cave isn't as big as it seems. The boss is less than 20 minutes away."
+
+I just nodded and followed.
+
+We walked for another 10 minutes or so. The bats and their annoying clicking kept becoming more and more frequent. It was a few per minute now. I was impressed by Abby's speed and precision, but also concerned about that massive cluster of bats we were walking towards.
+
+5 more minutes passed.
+
+Abby was glowing green attacking multiple shadowy bat projectiles at a time. Her eyes were flying back and forth scanning the dark room while rock was rippling all around us.
+
+"Alright Jay! Your turn to help!"
+
+"W-What do you mean??"
+
+She turned to me with a grin.
+
+"We're gonna make a run for it! Straight to the boss room. Activate your flames and keep them going at full force! Don't let up for even a second."
+
+I gulped and nodded.
+
+The next moment I erupted into flames.
+
+"CRRRUAAAAAA!!!!"
+
+All the surrounding bats let out horrific cries and flew out of my fiery sphere of light. Abby was close by in the light, almost touching my flames.
+
+Then, we ran.
+
+Both of us made a mad dash towards the cave's end. Abby had to slow herself every few steps, she was clearly much faster than me.
+
+As we ran forward with a blinding orb of light surrounding us in the dark cave the waves of bats cried and flew away from our path. They really hated light.
+
+"Almost there!!! Keep it up Jay!"
+
+It had been about 30 seconds now, I was covered in flames head to toe. I could tell I was close to my limit.
+
+I grabbed my last MP potion and chugged it mid stride. The flames did not stop, we continued to sprint forward.
+
+"Just a little further!!!"
+
+10 seconds later I saw a floating grey portal in the distance.
+
+I was burning through MP and locked on my target. My brain was in full tunnel vision mode.
+
+We sprinted even faster. More and more bats flocked around our protective ball of fire. It was getting intense, but we were so close!
+
+Moments later we made it.
+
+Abby's plan worked.
+
+We jumped through the floating grey portal together and yelled out in victory.
+
+"We made it!!!!"
+
+We arrived at the boss room.
+
+It was a smaller version of the cave world outside. To me it looked like a normal boss room. The room was 200m long, 100m wide, and 30m tall.
+
+There was silence in the air...
+
+"Hahahaha that was great!"
+
+Abby burst out laughing, I turned to her and couldn't help chuckling a bit myself.
+
+"That was pretty insane."
+
+We both laughed for a few more seconds, then got very serious as the room filled with an ominous presence.
+
+There were no bats in sight. Maybe it's only the boss, no extra monsters this time.
+
+"Get back! It's coming."
+
+"O-Okay."
+
+Abby's tone was strictly serious again, I obeyed without hesitation.
+
+I ran back to a rock pile on our left side and hid ready to watch a battle begin.
+
+Silence still filled the room. I scanned the cave but couldn't see a thing.
+
+"CLANGGGG"
+
+"SCRAPEEEEEEE"
+
+My eyes went wide. This is not what I was expecting.
+
+A figure no more than 2.5m in height walked out. It had pale white skin and a humanoid looking body.
+
+Its arms were a dark purple connecting to bat like wings on its back.
+
+The most surprising feature wasn't its form, it was the huge black sword it dragged behind on the cave floor.
+
+This was not the boss creature I was expecting...
+
+Abby began to glow green brighter than I'd ever seen before. The monster returned the favor and pointed its sword up towards Abby in a graceful manner.
+
+They had declared battle on each other.
+
+Moments later the two of them sprinted towards each other with blinding speed. It was almost faster than I could see.
+
+The bat creature moved with ease and blinding speed. It swung its sword with power and precision that I couldn't comprehend.
+
+Abby glided along the rock floor gracefully as well. The entire cave was rippling around her about 30m in every direction. She was creating spears simultaneously attacking and defending.
+
+There was dust clouds and movements too fast for me to contextualize. It was just like the last battle I watched Abby fight. Clearly this was fighting at a different level than anything I'd ever seen.
+
+My curiosity was overflowing. I activated my inspect skill. Two sets of numbers appeared over their heads. Abby was still [Lv. 231], the text above the bat creature read out [Lv. 194].
+
+My eyes went wide with awe. I wouldn't stand a chance. The moment this thought crossed my mind the room went silent.
+
+Abby and the boss were 10m apart at a stand still. Then something unexpected happened...
+
+The boss lifted its sword slowly and took a step back. Abby started glowing brighter. The whole cave began to shake while ripples of rock spears started forming all around their battle field. The boss took another careful step back...
+
+Then on its last step the boss completely vanished. I activated enemy detection almost like a reflex... my heart skipped a beat.
+
+It was GONE.
+
+The only presence I could sense in the room was Abby. The boss just disappeared before my eyes, even my new skill couldn't locate it.
+
+Abby was still glowing brighter and brighter creating dozens of rocky spears.
+
+Moments later the clash resumed. Massive piles of rock and dust filled the air. I couldn't see a thing. I just stood there watching the battle as best I could with my eyes wide.
+
+The crashing and explosions of rock went on for a couple seconds. To me it felt like hours. The green glowing light almost filled up the whole cave now as the entire boss room felt like it was rumbling.
+
+There was a massive build up that ended in an ear piercing crash of stone on stone.
+
+Then silence.
+
+Moments later the dust cleared...
+
+I let out a sigh of relief.
+
+Abby stood there glowing dimly with mounds of rock behind her. The lifeless body of the bat creature was lying by her feet. She used a rock spear to finish it off.
+
+I heard a familiar ringing sound.
+
+[Level Up][Level Up][Level Up][Level Up][Level Up][Level Up][Level Up][Level Up][Level Up][Level Up][Level Up][Level Up]
+
+____________________Name: Jay Soju
+
+Level: 126
+
+Hp: 635/635
+
+Mp: 130/635
+
+Strength: 304 [+50]
+
+Speed: 360
+
+Agility: 376
+
+Defense: 274
+
+Mental Strength: 304 [+61]
+
+Skills:
+
+AbsorptionSwordsmanshipCombat Magic [Fire Summoning]Inspect [Special Grade]Enemy Detection
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]Golden Wolf Ring [+20% Mental Strength]
+
+_____________________
+
+"Twelve Levels.. wow."
+
+Abby laughed.
+
+"What a good fight. That skill where it disappears is always so annoying!! I guess that's what makes it a challenging fight, other than that skill its speed stat is the only other issue. Overall, I had fun!"
+
+"Y-Yeah. Another eye opening battle. Thanks."
+
+"Heyyy no prob! I couldn't have even gotten here today if we didn't use your fire! This dungeon boss is hardly ever challenged because it's so hard to get to, I'm glad we came here. Who woulda thought I'd get to have a real fight today!!"
+
+Abby was clearly pleased with today's outcome. I was too, this gave me some great insight on a D Class dungeon.
+
+I grinned and nodded.
+
+The boss started disappearing and it dropped a giant mana crystal.
+
+Abby threw it to me.
+
+"You used up more MP than me. Like I said, we couldn't have even gotten to the boss room without it. You earned it."
+
+I caught the crystal and nodded.
+
+"Thanks."
+
+I was deep in thought.
+
+The white light of transport magic was starting to fill my vision as we were transferred back to the beginning of the dungeon.
+
+We nodded at each other again in agreement that we had enough for today and jumped through the exit portal.
+
+As we stepped out into the home world I was trying to play that battle over in my head again but kept disappointing myself...
+
+I hardly followed a single movement, I couldn't remember anything that actually happened during that death match.
+
+I need to get a lot stronger.

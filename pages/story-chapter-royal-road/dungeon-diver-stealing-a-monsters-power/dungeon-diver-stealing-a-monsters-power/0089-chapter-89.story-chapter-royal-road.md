@@ -1,0 +1,167 @@
+---
+id: ef9b22a7-2d58-59f0-acb8-c1d74dad44c0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 89"
+slug: 0089-chapter-89
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 89
+ownLength: 1750
+unit: words
+ownProgress: 1750
+publishedAt: 2023-04-16
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1182510/chapter-89"
+royalRoadId: "1182510"
+markedReadAt: "2026-06-29T20:34:53.409Z"
+---
+
+[Test 1][Time Remaining: 18 Hours]
+
+The boss room is darker than I expected it to be. The hard soil remains the same, but the artificial sunlight has left the sky. In the distance, I can see the familiar large cave-like walls wrapping upwards to create a closed-off arena for this boss battle.
+
+Maria and I stand side by side with our swords at the ready. She begins to glow blue as my flames begin to flicker to life. Silence fills the room as we wait in anticipation.
+
+I scan my surroundings with inspect, enemy detection, and appraisal. Seconds later, six red glowing eyes emerge from the darkness before us. The sound of heavy chains clanging together rings throughout the cave and a burst of flames lights up the enemy that walks out from the darkness.
+
+[Lv. 261]
+
+Active Items:
+
+Cursed Shackles[Fire Aspect]
+
+Active Skills:
+
+Intimidation
+
+Bloodlust
+
+Buffs:
+
+[+50% Speed + Agility + Mental Strength]
+
+*THUDD*
+
+*THUDD*
+
+*THUDD*
+
+A vicious three-headed dog stomps into view with heavy metal collars around each of its necks. Long broken metal chains hang from each of them, just barely swinging above the ground. The beast stands over 3m tall. From head to toe, it’s at least 8m long… Well, from its middle head at least.
+
+The monster’s eyes stare us down, and saliva drips from its three mouths as the white jagged teeth reflect off of the fiery display permeating off of each of its limbs… A dark red aura covers its entire body as well. This is one horrific-looking monster.
+
+It lets out a series of growls as the flames on its legs burst into even larger flames. I feel a wave of intimidation hit me, then the beast runs forward.
+
+Our battle has begun.
+
+Without another word, Maria darts off to the left and I take the right. The enormous hound moves its heads on either side to track us both as we run off in opposite directions. I activate bloodlust, berserker, and my own intimidation skill to match its energy as I run closer and closer to the beast. The hound winces, then its collars glow red. The glowing chains are visibly burning the dark fur around its neck, moments later it charges forward breaking free of my mental trap.
+
+With incredible speed and accuracy, the monster launches an attack straight at Maria. It definitely is not fond of my intimidation skill. The beast is trying to take out easier prey first, then it’ll deal with me.
+
+A loud collision occurs as Maria summons a wall of Ice and the flaming hound throws itself head-first into it. Ice shards fly everywhere as she narrowly escapes in the confusion. I follow close behind now covered head to toe in flames of my own.
+
+As the beast emerges from the cloud of ice and snow, I launch my first attack.
+
+*SHINGGGG*
+
+My sword lands a deep slash through the left head’s neck, following through to leave additional damage across its backside. It lets out a murderous roar as the chains glow red again, creating plumes of smoke from the burning fur and flesh. This only makes the beast more angry.
+
+Its eyes glow red as it stomps its feet. The left head eyes me up and down, while its right side watches Maria ready herself.
+
+We lock eyes momentarily, then I run at the beast again. The monster erupts into flames and shakes its heads in frustration.
+
+Maria places her left hand on the hard ground and lets out an immense wave of Ice Magic. The hound runs toward her but is stopped in its tracks by the cold white crystals creeping up its legs.
+
+*CRACKKK*
+
+The monster breaks through, but Maria releases another wave. Every step the hound takes is slowed down by Maria’s ever-regenerating Ice trap. It growls staring her down as she chugs an MP potion and lets out more intense waves of magic.
+
+I take this opportunity to commence my second attack. I sprint at the monster with a wide grin across my face. With another graceful lunge and jump, I land on the three-headed dog’s back as it struggles to move forward through the Ice in front of it. The heat radiating from its chains is almost unbearable, but it’s nothing I can’t handle.
+
+Without hesitation, I lift my sword and pierce it deep into the monster’s spine right below its middle neck. While using Plunderer to take in its mana, I release a steady flow of fire residue into the creature’s body. It flails its heads and roars in pain as Maria keeps it bound in place.
+
+An intense wave of intimidation hit me as the monster tries helplessly to break free. I watch the red glowing collars burn deep into the beast’s neck… They begin glowing brighter and brighter as I continue to burn this beast to a crisp.
+
+Something about this doesn’t feel right….
+
+My eyes open wide as I realize what’s happening, just a few seconds too late…
+
+“Maria! Run No-“
+
+*KABOOM!*
+
+The chains on the monster’s neck hit their limit. The glowing becomes unbelievably bright… then it explodes into a highly destructive ball of flames.
+
+I use my body hardening and brace for impact as the fiery shock wave hits me. I watch Maria create a dome of Ice as I’m thrown backward 20m in the air.
+
+On the bright side, the hound we were previously facing, has three fewer heads…. I watch the fiery bloody mess explode before my eyes and can help but let out a bit of a chuckle as I hit the hard boss room floor.
+
+The fire clears and the dust settles.
+
+I pick myself up and regenerate the minor broken bones from my fall. Maria emerges from her dome of Ice and we take in the view.
+
+A headless charred corpse lies lifeless with its legs frozen solid and its backside still ablaze.
+
+We walk over to it slowly with our swords out in front of us with curious looks on our faces. Less than a minute later, the corpse begins to disappear.
+
+*CLANGGG*
+
+A large pink mana crystal falls to the floor along with a pile of dark silver chains attached to a circular shackle that looks about human neck sized…
+
+I use Appraisal.
+
+Cursed Shackles[Fire Aspect]
+
+Then turn to Maria with a grin.
+
+“Well, I did say the next rare item is mine.”
+
+She looks at me wide-eyed.
+
+“Uh- yeah you did. They’re all yours…”
+
+I nod slowly and place the chains in my item storage, then throw Maria the mana crystal.
+
+“That was a good fight, right?”
+
+She catches the stone, places it in her item box, then nods in agreement.
+
+“Yeah, definitely our toughest one yet. It had to go and blow itself up though….”
+
+We laugh together as the white transfer magic brings us up to the next floor.
+
+A familiar voice rings out as floor 11 materializes in front of me.
+
+“Congratulations. You’re number 83.”
+
+I see Rodrigo standing less than 3m from us with a calm emotionless look on his face. He walks over slowly and hands me a small white coin with the number 83 printed on it in black text, then he turns to Maria.
+
+“Congratulations. You’re number 84.”
+
+She accepts the coin as well and we both look at him with puzzled stares. His red suit pops out in front of the bright green dungeon grassland before us. It’s oddly similar to the slime floor from earlier with rolling hills and a bright blue sky, but I doubt there would be another slime dungeon on floor 11… right…?
+
+Rodrigo stares blankly at both of us with his pair of nearly white eyes, then speaks up again.
+
+“Well, it seems you two still have 17 hours or so remaining until the next test. So far, you have proven to show your proficiency in basic combat, simple teamwork, energy conservation, and of course, a little bit of luck. Your next test will be a bit more personal. It will be testing your individuality, perseverance, and ability to grow and adapt to your environment. Please join the others. You may trade, eat, sleep, exercise, and do as you wish until the next test begins. The only rules are you may not enter floor 12, and you may not fight other exam members until the start of our next test. Do I make myself clear?”
+
+We both nod our heads up and down without saying a word.
+
+Rodrigo looks us both up and down one last time. His eyes stop momentarily at the sight of Maria’s left wrist.
+
+“Well, very good. Please do join the rest of your exam mates.”
+
+He glows white and steps to the side. I can’t believe my eyes…
+
+Seemingly out of nowhere, the air begins to ripple in front of us to reveal a massive white fair tent. Underneath it, there are well over 50 large wooden tables and 30 or so smaller private sections along the tent’s outer edges that have multiple beds inside them. The other 82 hunters are all crowded around the center area of tables trading gear, gambling with potions, talking with each other, and relaxing in a casual manner.
+
+I see teams from the association, small guilds, some elite guilds, rogues, and even a few noble-looking squads. These are the best of the best here… well, at least the fastest of the fast…. I take a closer look to see if I recognize anyone in particular as we begin to walk over.
+
+That one team in shiny gold armor with the barrier summoning skill is here, and also that duo with the lightning skill and defense buffs. I recognize one team of rogues from outside the labyrinth too, they’re a team of 3 with high levels and unusual gear. The man with the speed cloak and snake tattoo on his hand stands out the most to me.
+
+I continue scanning the crowd, attempting not to make eye contact with any of the yellow armband-wearing guards surrounding the tent. Then I see a familiar face staring at me waving happily.
+
+“YOU GUYS MADE IT!”
+
+Nessa smiles and motions for us to come over to the table she and Bruce managed to get for themselves.
+
+I wave back and we begin to walk over toward them, Maria follows.
+
+What a bizarre sight to see in a dungeon. I guess now all we can do is socialize and wait for the next test to begin…

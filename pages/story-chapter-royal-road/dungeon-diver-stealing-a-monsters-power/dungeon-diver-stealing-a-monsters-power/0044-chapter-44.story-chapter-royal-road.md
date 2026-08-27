@@ -1,0 +1,173 @@
+---
+id: 5d837f40-8005-5591-a3ab-4b1d90d366b3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 44"
+slug: 0044-chapter-44
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 44
+ownLength: 1559
+unit: words
+ownProgress: 1559
+publishedAt: 2023-03-02
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1127214/chapter-44"
+royalRoadId: "1127214"
+markedReadAt: "2026-06-29T20:33:19.642Z"
+---
+
+I froze and looked up at the two men in suits.
+
+"You need to talk with me? Why's that?"
+
+The blond haired man in front of the stairs reached into his pocket and pulled out an ID.
+
+In big black letters next to his photo I could read "Hunters Association Representative" and beside that, a large letter C. This guy is the real deal.
+
+I gulped.
+
+"I- uhm. Of course. What would you like to talk about?"
+
+He grinned and put the card back in his pocket.
+
+"Come on walk with us, I'd rather speak in private."
+
+I agreed and followed the men down the escalator. What else could I do right now?
+
+I probably did look pretty suspicious. All my items are in my item storage, it looks like I came out of that dungeon with nothing on me. Half my clothes are ripped off too... That can't help.
+
+After boarding the train we made it back to the main dungeon hub pretty quickly. I just stood next to them in awkward silence as the cement walls flew by.
+
+We walked through the crowds of people in the main hub back up to the surface and they lead me down the street a few blocks. It was still awkward and silent, my heart was starting to beat out of my chest. My foot hurts too, i didn't even think about how uncomfortable it'd be to walk around with no shoe on....
+
+We made it to a large silver tower with the Association's logo on the entrance. This must be one of their main buildings in the capital. It's so much bigger than the one I go to back home!
+
+The men opened the front door and we were immediately greeted by a tall dark featured woman in the lobby.
+
+"Welcome back Sirs."
+
+The blond man nodded and walked straight towards and elevator at the back of the room. The other man motioned me to follow.
+
+I complied and we rode the elevator up to the 17th floor. They lead me to an office room.
+
+It was just us now.
+
+My heart continued to pound loudly, I could feel it in my ears.
+
+The walls were white and the room hummed with the fait sound of a mana shield. This is a magic interrogation room... There were a few comfortable looking seats in a triangle all facing each other. We sat down. The man spoke up.
+
+"We've been tailing you since this morning. There's no point in lying to us."
+
+I stared straight ahead at both of them.
+
+"W-Why? What did I do wrong-"
+
+"You're not in the wrong here, we'd just like to hear the full story without any outside interference."
+
+"The whole story? I- what do you mean?"
+
+I'm not sure exactly what they know... and what they're trying to make me admit. I doubt they're really on my side In this whole situation...
+
+"What're your names anyway? If I'm not in the wrong here, this is no way to treat a guest."
+
+"I'm Daniel. This is Kenji."
+
+He pointed to the man with black hair. He smiled at me.
+
+"Okay. Cool. I'm Jay."
+
+I took a deep breath and tried to relax a bit. I am in the Hunters Association building after all... I didn't really do anything wrong. I should calm down and act like it.
+
+Daniel spoke up.
+
+"The two hunters that recruited you to go dungeon diving with them this morning."
+
+I eyed him carefully.
+
+"What about them?"
+
+"Well, I can't help but notice they did not come out of the dungeon with you today. I'd like you to give us a full report on the incident."
+
+"W-Well I. I'm not sure I can say exac-"
+
+"They're wanted criminals you know."
+
+My eyes perked up a bit.
+
+"W-Wanted criminals? For what?"
+
+"Well... They're some of the suspected collaborators in a large scale robbery that took place about a month ago in the Bedrock Region. There's a jurisdiction issue when crossing regional borders. The old reports had to be filed and sent to us here in the Vice Region before we could formally go after the two of them."
+
+I nodded while looking down at the floor.
+
+"Why would they be dungeon diving then? There's no logical reason."
+
+"Well it seems recently they've been on a streak of killing rookies and taking their loot. Old habits die hard. There's been an increased amount of alerts from the troll dungeon reporting casualties. Most people aren't stupid enough to go in there without the proper gear or preparation. We sent D Class scouts to investigate this week and found a common link between these two and the missing hunters. I guess it's just your lucky day we were called in to confront them. Although, It seems as if you've already done the confronting for us. We need a full report. I can assure you, this matter will be kept private and you will not be punished."
+
+Well that story clears a few things up. They have been tailing me since this morning too. I really got involved with some horrible people, lesson learned. They pretty much know everything aside from the fact of how exactly I killed them... It's better I decide the details, rather than them investigating any further.
+
+"Sure.. This all makes a bit more sense now. I'll tell you what happened."
+
+The two man sat back with satisfied looks on their faces while I explained the situation from my point of view.
+
+The only minor changes I made to the story were that it was me that killed all the trolls with my fire skill. I did not mention any word of the fire stone or Cori's skill.
+
+I said the they tried to corner me when we were finished hunting but I managed to beat them by a hair in battle. Just by looking at me in my rugged state, this is very believable.
+
+They wrote everything down in their notebooks and listened quietly.
+
+Once I finished I let out a long sigh and sunk back into my seat.
+
+"Hey uhh. Do you think you guys could hook me up with a pair of boots or something? I can pay for them, I just don't feel right hanging around like this..."
+
+Daniel laughed.
+
+"Sure. Let's go to a C Class training room. I think it's time we celebrate a mission complete, I'll get you some gear. Gotta hand it to you Jay, you made our job a whole lot easier today.
+
+I let out a thin smile and followed him out the door.
+
+We took the elevator down to floor 10 and walked down the hall. It was a very symmetrical floor. There were large reinforced doors on either side of the long white hallway.
+
+After a bit of walking Daniel turned and scanned his card at a door. It clicked and slid open.
+
+"Take a look inside. This is a C Class Hunters Association training room. Not too many like it."
+
+The walls were all white, they hummed much louder than the room we were in moments ago. It felt like the training room from yesterday, this would hold up against some powerful attacks.
+
+"Take anything you want from that room over there. It's all brand new don't worry, a thank you from me to you."
+
+"Really? Thanks!"
+
+I walked over to a small rectangle on the wall and pushed it in. That's where Daniel had pointed. It opened up a door that showed me a closet like compartment in the wall. It was filled with black combat clothing folded perfectly.
+
+I took a shirt, new pants, a pair of socks, and some boots. I didn't think twice and just changed there on the spot.
+
+Daniel spoke up as I was changing.
+
+"Hey what level are you? If you can handle those trolls on your own, you must be a decently high rated D Class. Plus you're young, only 20 right?"
+
+I nodded.
+
+"Yeah, I'm around level 150. Why?"
+
+He looked a little disappointed when when I said that.
+
+"Ahhh you're at 150. I guess you'll have to wait for another one."
+
+I looked at him with a confused look.
+
+"Another one of what? What do you mean?"
+
+He smirked.
+
+"The C Class exams start in just under 3 weeks. Kenji is participating. You need to be level 250 to apply. They only hold C Class exams every 3 or 4 months in the capital, so it's a pretty big deal every time it comes around."
+
+Daniel pointed at Kenji and he spoke up.
+
+"Yeah, I've been level grinding in these Capital dungeons on weekends off of work for almost 4 years now. I took the safe route like most and only challenged bosses with parties so its been a slow and steady journey. The Association pays C Class Reps a ton more though, that's what I'm looking forward to the most."
+
+He looked at Daniel and they both grinned.
+
+I fell deep into thought.
+
+The C Class examines huh? I had no idea they were so soon. If I can gain around 100 more levels in 3 weeks I could participate too. If I don't.... I'll have to wait another 3-4 months to apply.
+
+I'll add this to my list of urgent goals, I need to reach level 250... Fast.

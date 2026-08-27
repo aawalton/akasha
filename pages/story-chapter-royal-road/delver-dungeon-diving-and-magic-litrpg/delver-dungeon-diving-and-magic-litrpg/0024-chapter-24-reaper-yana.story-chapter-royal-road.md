@@ -1,0 +1,205 @@
+---
+id: 48c9541a-f9d1-5c37-b379-117f4ecbfd51
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24: Reaper Yana"
+slug: 0024-chapter-24-reaper-yana
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 24
+ownLength: 1931
+unit: words
+publishedAt: 2026-06-11
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3525672/chapter-24-reaper-yana"
+royalRoadId: "3525672"
+---
+
+Alvarana, the Angel Of Burial. Her followers work endlessly to return the undead to their sleep, or safely guide those entombed, so that their souls might find the afterlife. Followers of Alvarana find her domain to be peaceful until disturbed, at which point her reapers become the most quietly powerful of the Orders.
+
+I quickly find an acolyte to guide us, and this time they lead us to a door on the upper levels of the building.
+
+I knock softly.
+
+”Who is it?” Brother Ivan’s soft voice echoes through
+
+“Acolyte Leo, and Devout Reaper-“ I pause, having forgotten her name.
+
+”Reaper Yana.” She answers.
+
+A chair scoots against wooden ground, and the door is opened by a familiar wrinkled elder, his silver hair sitting loosely against his head. He looks up at both of us with tired eyes. “Reaper Yana, I thought you were heading back to speak with your order.”
+
+“I was, but then I ran into explorer Leo, and got curious what sort of things he’d found that he’d bring them to you.”
+
+Brother Ivan smiles, “Books I’m sure. Young Leo is quite the scholar. Ah, forgive me, come in, come in.” He steps aside, letting the two of us into his rather comfortable office.
+
+Bookshelves line the wall, filled to the brim with books. On his desk is an ancient tome that he is copying by hand, the ancient ways of printing lost to us.
+
+We follow him into the room as he makes his way to his desk. “You know, a young Leo almost joined the reapers, before he found the guiding light of Sehara.”
+
+My eyes widen, and I give a small laugh, ”That was a long time ago, Brother Ivan.”
+
+”Which order drew your gaze?” Reaper Yana looks at me. I spot the smallest hint of humor in her gaze as she notices my embarrassment.
+
+“Angel Kiri.” I answer, shifting to look away from her.
+
+”The Angel of Memory.” Reaper Yana muses, “Unusual, but a scholar and an explorer would be drawn to her.”
+
+My reasons were a lot more personal than that. Kiri deals with the memories of those who were long gone. As an orphan, her kindness and understanding of loss drew me in, but that was before I found the love of exploration that Sehara gave me.
+
+Reaper Yana walks over to an open chair, and sits down, “You mentioned having an item of particular interest to me. I’d love to see it.”
+
+I hesitate for a second, then reach into my pocket and pull out the ring. Etched into it, is the faded symbol of a dagger.
+
+Reaper Yana sits up straight, staring at the ring.
+
+Ring Of Reaper Masa’s Devout
+
+An emblem of the Reapers, this ring connects the devout to their patron, and contains a small portion of their divine energy.
+
+I describe what my identification says to the both of them. Reaper Yana stares with wide eyes.
+
+“May I see it?” Brother Ivan asks in a reverent tone.
+
+I hand the ring to him, and he nearly drops it as soon as he touches it.
+
+“Does it…?” Reaper Yana asks.
+
+“Yeah, it’s faint, but it still has Angel Masa’s Essence.” He hands it to Reaper Yana who holds it like it might break at the slightest movement. “You might be able to sense more.”
+
+“Her energy is closed to me, but I know one of her reapers.” She closes her hand around the ring, and turns to me, bowing her head, “This means the world to us, thank you Delver Leo.”
+
+“I’m glad to help the reapers. These might be of use to you as well. But I’m gifting them to the Brothers first. They can decide to gift these to you if they desire.”
+
+Her eyebrow raises, but she doesn’t say anything.
+
+I take my pack off, and place it on the floor, then pull out the shackles. I’d had five. Three of them were being sold to the De’Vereth. I pull out the last two, and hand them to Brother Ivan.
+
+He looks at them for a moment, then hands them to Reaper Yana.
+
+“What do they do?” Reaper Yana asks, but I can see the suspicion in her gaze.
+
+Mana Binding Shackles
+
+Capable of binding both skills and spells, these shackles were once used to hold even the most powerful of mages.
+
+She looks up at me, “You are full of surprises, it seems.”
+
+“My delve was very successful.”
+
+She leans forward, “We might be interested in buying more of your items.”
+
+I shake my head, “I already have an exclusive contract with the De’Vereth for this delve.”
+
+I swear that she smiles behind her mask, “That could be changed.”
+
+My face freezes, and I very carefully shake my head again, “Please don’t.”
+
+She leans back, “Very well. Brother Ivan?”
+
+“They are yours, Devout Reaper.”
+
+She bows to him over the shackles, “We are grateful for the temple’s gift. Might I borrow a bag?”
+
+Brother Ivan nods, and reaches under his desk to pull out a small sack, which she carefully places the shackles into. The ring has disappeared into one of her pockets.
+
+As she ties the bag closed, her eyes return to me with a questioning gaze, “What other secrets might you have, Delver?”
+
+I reach down and pull several books out of my bag, then I place them onto Brother Ivan’s desk. “My favorite finds so far.”
+
+“The Acolyte’s Guide To The Divine,” Brother Ivan’s eyebrows squint, then move up into his hairline in surprise, “A first edition?!” He moves over to the next in excitement, his eyes glowing with mana, “I don’t know this language, but I recognize Sehara and Lumin’s names.” He continues to gush over the seven books I’d brought him.  Reaper Yana looks interested, but quickly loses the trail of the conversation as Brother Ivan loses himself to his own monologue. Her gaze turns to me, “Is that it?”
+
+“That’s all I have for the temple.”
+
+She stands and stretches, “Then I must be off. I will be seeing you in the future, Delver Leo.” She walks to the door, her bag held in front of her, then pauses with her hand on the doorknob. “Unless there’s anything else?”
+
+“No, Devout Reaper.”
+
+Her eyes watch me, unreadable behind her mask, then she turns and leaves the room.
+
+I let out a breath.
+
+Brother Ivan snorts “More brash every year. The reapers couldn’t have handled you if you’d joined them.”
+
+I turn to him, and raise an eyebrow, “What do you mean by that?”
+
+“Lying to a monk and a reaper. You’re lucky that ring blinded her to the sword at your waist.”
+
+I open my mouth, then close it. “You saw it?”
+
+He gives me a deadpan look, “I’m a scholar. Of course I’d recognize an oathsworn’s sword. Do you at least know which poor paladin you took the weapon from?”
+
+I let out a breath as I realize that he doesn’t understand the full importance of the sword. “No, it was in a hidden room of the archmage’s.”
+
+“Ah, well, at least you weren’t robbing a sacred grave. I’m glad to hear it.”
+
+I stare, my mouth opening in shock.
+
+He shakes his head at me, “Keep it. You are of the faith, and it’s already attached to you. I’ll let the others know you have the right to wear it. Not that many could recognize it at a glance.” He gives me a wink as he returns to the books in front of him, “Plus, I like the idea of pulling one over on that woman.”
+
+My mouth opens wider at the old monk.
+
+He glances up at me with a small smile, “Run along, Leo. And do come to me if you find any other rare books.”
+
+I bow to him, then leave the room mechanically.
+
+***
+
+I walk through the street of the craftsman’s district, some distance from the Temple. Hammers echo out, and smoke rises through the cold air, creating great plumes to match the clouds above. Snow is falling, and a small layer of the stuff covers the ground, crunching under my feet.
+
+Shar prowls at my feet in her cat form.
+
+I look up to the clouds in the sky, as small flakes land on my cloak and melt on the skin of my face. It isn’t thick yet, but some part of me worries that it might be enough to slow down my plans to follow the map.
+
+I’d wandered since my meeting with the reaper and Brother Ivan, letting my thoughts go across the many surprises of the last couple of weeks.
+
+The dreams haven’t stopped. Feathers, urging me to move. Something divine waited at the end of the map, and the angels want me to find it, whatever it is.
+
+A pair of guards pass by, a reaper’s apprentice following them a step behind.
+
+The few people on the street move out of their way with a mix of fear and respect for the young reaper.
+
+I shake my head, then turn to continue along my path.
+
+A scream echoes down the street from behind me.
+
+Then another.
+
+I spin towards the sound, my hand moving to the sword at my waist.
+
+Shar jumps to the air, turning into a bird as the humanoid creature walks down the road.
+
+One guard is on the ground, his head separated from his body, the second guard and the reaper both take a step back as the creature takes another step.
+
+The snow melts around the creature’s feet, the enterprising weeds sprouting from the dirt road dying. His eyes are sunken, and his skin pale. His right hand is skeletal, and a black cloak covers the rest of his body.
+
+“Undead. General Class,” Shar’s voice pauses from her perch on a lantern nearby, “Warlock.”
+
+The undead looks up to the crow, “Hello, pretty bird.” He raises his hand and a bolt of blackness flies up to the golem.
+
+She shifts into the shadows, and the bolt misses.
+
+“St-stop right there, undead.” The reaper’s apprentice says as he pulls a baton from his waist. The baton extends, taking the form of an enchanted spear, a faint silver sheen surrounding its tip.
+
+I reach for the normal sword at my waist, then pause, glancing at the divine sword. I have yet to unsheathe it, and I don’t know what will happen when I do.
+
+“You may know, tiny reaper.” The undead stops, “I’m searching for a mage. A mage who has a very special map.”
+
+My head snaps back up.
+
+The rest of the crowd is gone, leaving just the Undead, the reaper, and the guard.
+
+“I’m not going to tell you anything.” The reaper takes a deep breath, but his hand visibly shakes as he holds his spear in front of him. The guard beside him glances between him and the dead guard.
+
+“Oh, but you will.” The Undead raises his hand, and mana gathers to him.
+
+I watch on, hesitating as my mind races.
+
+An undead warlock.
+
+The equivalent of a human mage.
+
+Terrifying, and exceedingly rare, he’s likely leagues above any undead I’ve faced before. Beyond the reach of the apprentice reaper.
+
+And as mana gathers to the creature, I know one thing, I won’t be able to fight him without revealing many of my secrets.
+
+My hand grasps the hilt of the Builder’s sword, while my other hand pulls my hood over my head and reaches into my cloak pocket, where the wand rests.
+
+I can be stupid sometimes.

@@ -1,0 +1,273 @@
+---
+id: 6f206f71-3b80-5ed8-b7f2-84e9ce28ad70
+page-type-slug: story-chapter-royal-road
+title: "Chapter 83"
+slug: 0083-chapter-83
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 83
+ownLength: 2433
+unit: words
+ownProgress: 2433
+publishedAt: 2023-04-10
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1165349/chapter-83"
+royalRoadId: "1165349"
+markedReadAt: "2026-06-29T20:34:40.946Z"
+---
+
+[Test 1][Time Remaining: 39 Hours]
+
+“Let’s go! We don’t want them catching up to us anytime soon.”
+
+Maria nods and follows close behind as I start jogging toward the back of the dungeon.
+
+After about 20 minutes I’m already starting to get winded, and my legs are getting really tired. I hear grunting in the distance and activate enemy detection along with inspect.
+
+[50m]
+
+[Lv. 151]
+
+[Lv. 149]
+
+[Lv. 148]
+
+The grunts grow louder as we venture into the heavily wooded forest. I draw my sword and get ready for whatever’s coming at us….
+
+Moments later, three massive wild boars appear. They’re dark brown with short hair and massive muscular bodies. The boar’s eyes glow red and two massive tusks protrude from the sides of their mouths. Each of them is over 3m from head to tail.
+
+I make quick work of the beasts without even having to use fire magic. I use this opportunity to plunder as much MP as I can. Maria stays close behind and doesn’t join the fight.
+
+“Hey Jay, I know you said not to ask too many questions….but one of your skills can locate enemies, right? Can we find a group of hunters? I need a new sword. I’m not too confident with these daggers and my Ice sword uses up way too much MP to rely on it.”
+
+I look back to see Maria awkwardly handling the daggers she picked up from one of our previous fights today.
+
+I activate enemy detection as the boars begin to disappear by our feet. There are 12 teams in this dungeon now… and some of them are pretty strong. That team of two we faced moments ago is over a 1km to our right side, there isn’t much to worry about there. We have 4 other teams behind us, they’re all lower levels, but there’s no sense in moving backward. Out of the 7 teams ahead, there are a few that look like easy prey, others look like they should be avoided… I lock onto a team of 5 and point forward with my blade.
+
+“Sure. Let’s find you a new sword.”
+
+We continue at a steady pace weaving through the rocky forest. After an hour we run into 4 more small packs of boars and successfully avoided any unwanted trouble from strong teams. Finally, we come across the team I’ve been tracking down.
+
+I can hear footsteps in front of us get louder and louder until the team finally comes into view as the forest begins to clear up. I use inspect.
+
+[Lv. 250]
+
+[Lv. 250]
+
+[Lv. 250]
+
+[Lv. 250]
+
+[Lv. 250]
+
+“HEY! WAIT UP!”
+
+As I yell out, a small woman in a green outfit and lightweight armor turns her body quickly firing a glowing arrow straight at my head. With a grin, my eyes track the arrow and I move my head away at the last second. I was expecting an attack, but a bow and arrow? That’s new.
+
+The group of 5 stops and turns at us. Maria and I stop in our tracks as well to face the team.
+
+They’re all wearing Hunters Association gear. That explains why their level is so uniform.
+
+It seems like the girl with a bow is their captain. There are two large men with shields, one swordsman, and a thin girl without a weapon. She may be their healer, I don’t really have the time to inspect or appraise them all right now though. The leader points her drawn bow at my head again and speaks up.
+
+“What do you want? It’s 5 against 2. Don’t pick fights you can’t win.”
+
+I grin and raise my sword at her while igniting the blade’s tip.
+
+“Same goes for you.”
+
+Maria looks at me, then at the swordsman. She puts her daggers away and speaks directly to him.
+
+“Hand over your sword, unless you want to do this the hard way.”
+
+He smirks and looks at the woman with the bow.
+
+“You hear that captain? They’re serious.”
+
+Maria starts glowing blue and the woman yells as she steps back behind the two shield-carrying men.
+
+“Defensive-Attack formation number one, let’s go!”
+
+The tanks make a wall with their shields and begin pushing forward. Maria quickly darts to the left side targeting the swordsman.
+
+I grin.
+
+“Go get your sword, I can handle the rest of them.”
+
+Maria nods and begins to form a blade of Ice with her magic. I ignite my body into flames and run at the defensive wall while activating Berserker.
+
+*SHINGGGG*
+
+They never even stood a chance….
+
+My flaming blade slices through the two tanks’ shields landing hits on both of their torsos. I activate intimidation as I run into the center of the group destroying their entire formation in a matter of seconds.
+
+Maria occupies the swordsman to my left as I slice the two tanks in half while they’re frozen in fear. They dematerialize and are gone with a flash of white light. It took 2 hits, they weren’t too weak after all.
+
+I face the two women frozen with fear. Their eyes are bloodshot and dilated. They can’t even manage to get out a word. With one fiery slash, I plunder their MP and send them both back to the labyrinth’s starting point.
+
+I turn to Maria.
+
+The ground is covered In Ice, and the swordsman is frozen solid with a look of pure terror captured perfectly on his face. Maria turns to me holding a long silver sword, grinning ear to ear. I use appraisal on it.
+
+[Enchanted Steel Sword] +250 Strength +100 Speed
+
+“Not bad, you happy with it?”
+
+Maria swings the blade around aimlessly testing out its power.
+
+“Yeah, this will do! It’s even better than my last one.”
+
+“Great, let’s continue.”
+
+We leave the Ice sculpture of a man standing alone in the wilderness. He’ll thaw out eventually, or just die and respawn….
+
+Another hour of slow jogging, fighting boars, and avoiding teams with enemy detection carried on until we make it to the boss room. We jump through the portal and defeat a level 163 boss with ease.
+
+We’re spawned onto floor 6 moments later.
+
+It’s a desert environment, but the ground is still more dirt than sand. There are small shrubs scattered along the dungeon floor, but no trees in sight. The sky is light blue and artificial sunlight beats down on us overhead. I turn to Maria.
+
+“You ready? I say we take a breather soon. We’ve been running and fighting for almost 12 hours straight… my legs are getting tired.”
+
+She nods.
+
+“Agreed. Let’s find a good place to rest as soon as possible. Walking through this dungeon rather than running may not be a bad idea.”
+
+I look around and scan the area with enemy detection. There are only 6 other teams ahead of us here, the monsters on the other hand… seem to be traveling in packs.
+
+We start walking deep into the desert. Finding a place to rest is easier said than done… The artificial sunlight is making me sweat like crazy. I finish off a full bottle of water, and Maria does the same.
+
+In the distance, dust clouds begin to form as we trek further and further into this desert wasteland. I use enemy detection and inspect to sense 12 targets moving in fast. They’re all between levels 150 and 165.
+
+“We’ve got company.”
+
+Maria and I start running at the cloud of dust with our weapons raised. As we get closer, a pack of disgusting creatures appears.
+
+They’re… humanoid hyenas. The leader of their pack stands on two legs over 3m tall carrying a long metal spear. It’s body is covered in brown and red rags like makeshift armor. The orange matted fur with black spots sticks out from beneath its clothing as 11 minions in similar attire and weapons follow. Their hands and feet have enormous sharp claws and they all growl as they show off jagged white teeth.
+
+I burn red, and Maria glows blue. We slice through all of them in a matter of seconds leaving piles of cloth, weapons, and fur on the desert floor.
+
+I turn to Maria mid-stride.
+
+“Let’s get out of here… this is not the place to take a rest.”
+
+She laughs in agreement.
+
+We keep our running pace up for as long as possible. After another hour passes we’ve defeated 3 more packs of hyenas and almost make it to the boss room. Both of us drink more than half of our second water bottle. This desert is deadly…. and its not the monsters.
+
+Most of the teams in this dungeon are moving very slow, and the visibility is clear for kilometers. Dust clouds mean fast-moving enemies are approaching, and specs in the distance just mean slow-moving non-hostile hunters or monsters are out there. Other than a few packs of hyenas, no one bothered us in this dungeon.
+
+We make it to the boss room eventually and take out the overgrown level 177 hyena boss with ease.
+
+As we spawn onto floor 7 I let out a long sigh. I take in the view, internally accepting this swampland dungeon over a desert any day!
+
+“I need a break… this is getting exhausting. After that, I want a good fight! At this point, our exam is just a running competition. Do they just want to make sure we’re in shape or something… Come on!”
+
+I yell while pointing my sword in the air.
+
+Maria laughs.
+
+“Well, let’s see what kind of monsters show up here. Then we can rest up for a while.”
+
+I nod in agreement.
+
+We venture off into the swamp dungeon.
+
+No more than 20 minutes later, a massive green ogre appears carrying a large silver axe. It’s slow-moving, grunts, roars, and is traveling alone. The monster wears dark brown leather armor over its wrists, chest, and legs. This one is level 172. These will be much easier to fend off than packs of hyenas.
+
+Maria slices it in half, and we continue walking for another 10 minutes or so off the main dungeon path.
+
+“How about over here?”
+
+I point to a large dry area in the distance with some trees for cover.
+
+Maria nods.
+
+“I think it’s perfect.”
+
+We walk over and both collapse under a green tree with a sturdy brown trunk. I sift through my item box and pull out some dried fruits and meat while laying on my back looking up at the sky through the thick leaves above us.
+
+“Just 4 more floors. I know this is just the beginning of the exam… but it’s been pretty easy so far.”
+
+Maria replies.
+
+“Well, we probably would have run into a lot of other teams without your enemy detection skill.”
+
+“True… I uhh- I guess you’re right.”
+
+I look over at Maria to see her eyes closing, then she shakes herself awake when she notices me watching. I laugh.
+
+“Maybe some sleep wouldn’t hurt. I can take the first shift to watch. We have 4 dungeons to go including this one. I think a quick power nap for each of us would be a good idea. I can wake you up in 2 hours.”
+
+Maria smiles and closes her eyes.
+
+“I like the sound of that. Wake me up in….”
+
+Before she could finish her sentence, she falls fast asleep. I guess Maria was even more tired than me… she’s just better at hiding it.
+
+I stand up and lean up against the tree we’re under and use enemy detection. Over the next 2 hours, only 7 more teams enter the dungeon, and 4 Ogres attack. I used them to replenish my MP slightly, and one of them even drops an axe. I put it in my item storage and along with the mana they drop. I also decide to move all of the mana crystals from earlier into my item storage, from my item box. The only items I left in there were the MP and HP potions.
+
+At around the 2-hour mark, I check on Maria and she’s still sound asleep. I can’t wake her up just yet… not in this state.
+
+Out of pure boredom, I start fidgeting around with some leftover mana crystals. I throw them in the air and attack with my sword, attempt to light them on fire, and even partially learn how to juggle! Not really… juggling is actually pretty hard. Maybe there’s a skill for that?
+
+Then… I try using plunderer on a mana crystal…
+
+It works… The gem begins to glow light pink and I feel a rush of energy flow into my body. Moments later, the crystal begins to dissolve and crumble into dust.
+
+My eyes open wide.
+
+“NO WAY! THIS ACTUALLY WORKS?!”
+
+I laugh to myself and start dancing around in sleep-deprived delusion.
+
+“Huhhh? W-What?”
+
+Maria raises her head and rubs her eyes. I turn to her with a smile ear to ear.
+
+“Oh- Good morning. Sorry to wake you so abruptly, I didn’t mean to.”
+
+She gets to her feet and stretches her arms.
+
+“It’s fine. Thanks. You can rest now if you want.”
+
+I nod happily.
+
+“Sure, sure. Wake me if any teams come nearby.”
+
+She nods and I collapse under the tree with a grin on my face falling asleep dreaming about my new accidental discovery.
+
+[~2 hours later]
+
+*CLANGGGG*
+
+I wake up to the sound of metal on metal from a distance. My vision is blurry as my senses come back to me after a well-needed nap.
+
+I see Ice covering the trees all around me and Maria glowing bright blue battling a group of 4 all by herself. Through my blurry vision, enemy detection, and inspect I can make out a woman with a sword, one with a pair of daggers, and two large men carrying shields.
+
+[30m]
+
+[Lv. 271]
+
+[Lv. 256]
+
+[Lv. 255]
+
+[Lv. 255]
+
+I rub my eyes and grab my sword from item storage while igniting it into flames and activating berserker.
+
+“HEY! Why didn’t you make me up? Save some fun for me!”
+
+Maria turns her head while putting up an ice wall to block an incoming tank.
+
+“Sorry, they came out of nowhere!”
+
+I run in to get a piece of the action… Then get a closer look at the woman with a sword. She’s short, with bright orange hair, light freckles, and a black combat suit covered by some small silver armor pieces.
+
+We lock eyes, then I yell out in surprise.
+
+“N-Nessa? Is that you??”
+
+She stops in her tracks.
+
+“Jay?”

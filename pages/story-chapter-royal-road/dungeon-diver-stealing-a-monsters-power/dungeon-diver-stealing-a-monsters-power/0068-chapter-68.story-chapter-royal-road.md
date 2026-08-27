@@ -1,0 +1,373 @@
+---
+id: 77354c9f-cdec-54d6-82c1-36e3fad80dae
+page-type-slug: story-chapter-royal-road
+title: "Chapter 68"
+slug: 0068-chapter-68
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 68
+ownLength: 1916
+unit: words
+ownProgress: 1916
+publishedAt: 2023-03-26
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1149190/chapter-68"
+royalRoadId: "1149190"
+markedReadAt: "2026-06-29T20:34:09.753Z"
+---
+
+We let the crowd die down and disperse before exiting the arena. I kept my mask on to avoid being identified. No one's going to know who I am, but it's just better for people to not associate my face with an illegal underground fight ring champ...
+
+Bri leads me into the main market. We walked no more than 500m and made a hard left to a nearby heavy metal door. It's attached to a staircase upwards. We climbed the stairs and I found myself in the back of an old wooden tavern. I put my mask in item storage and Bri spoke up as we walked in.
+
+"Table for 1, it's Ms. Briana."
+
+An old short man hobbled over with both of his eyebrows raised high.
+
+"Yes, ma'am right this way."
+
+She smiled at him.
+
+"Feed this young man and treat him well, I appreciate you, Franklin."
+
+He nodded and turned to me.
+
+"Follow me, sir."
+
+Bri turned back towards the stairs and waved.
+
+"I'll see you again Jay, you know where to find me if you need anything."
+
+Like that... she was gone.
+
+I let out a sigh of relief and followed the old man to a table in the back.
+
+Once seated I didn't even bother to look at the menu.
+
+"Just bring me your special of the day, I'm not picky. I appreciate the kind gesture."
+
+"Of course, coming right up."
+
+The tavern is pretty much completely empty. I took out my sword and placed it against the wall beside me. It glimmered jet-black and didn't give off a scent of consciousness. I patiently waited and opened up my status out of curiosity.
+
+[Status Open]
+
+____________________
+
+Name: Jay Soju
+
+Level: 225
+
+Hp: 1130/1130
+
+Mp: 1130/1130
+
+Strength: 545 [+420]
+
+Speed: 646 [+388]
+
+Agility: 672
+
+Defense: 481 [+192]
+
+Mental Strength: 545 [+109][+153]
+
+Skills:
+
+Absorption
+
+Swordsmanship
+
+Combat Magic [Fire Summoning]
+
+Inspect [Special Grade]
+
+Enemy Detection
+
+Body Hardening[Special Grade]
+
+Self Regeneration
+
+Spacial Magic[Item Storage]
+
+Plunderer
+
+Telekinesis
+
+Appraisal[Special Grade]
+
+Conceal
+
+Items Equipped:
+
+Golden Wolf Ring [+20% Mental Strength]
+
+Cyclops Eye Pendant [+40% Defense]
+
+Dark Elf Boots [+60% Speed]
+
+The Flame Emperor's Sword [Fire Aspect][+77% Strength][+28% Mental Strength]
+
+_____________________
+
+"Interesting..."
+
+As I studied my new stats I realized my sword's buffs increased slightly. The only reasonable explanation is that it's growing with me... I've seen enough improbable things today already, I guess this makes sense too. I'll have to ask someone I trust about this another time. My newest skill also intrigues me a bit. I whispered "Conceal" under my breath and a blue box of text appeared next to my status.
+
+[Use Conceal]
+
+[YES][NO]
+
+I chose yes.
+
+[Enter Changes]
+
+Level
+
+Hp
+
+Mp
+
+Strength
+
+Speed
+
+Agility
+
+Defense
+
+Mental Strength
+
+Skills
+
+Items Equipped
+
+Buffs
+
+Other
+
+[Revert to Original]
+
+I touch my right index finger to my status and a digital keyboard appears before my eyes. I'm able to edit my status. While mesmerized by my new ability the old man finally came over to my table with a steaming plate of meats, rice, and vegetables.
+
+"Here you go sir, enjoy!"
+
+I smiled and nodded to him then raised an eyebrow.
+
+"Hey one second, what do you see what you look at this?"
+
+I flipped my status window over to him and he took a look.
+
+[Status Open]
+
+____________________
+
+Name: Jay Soju
+
+Level: 250
+
+Hp: 1255/1255
+
+Mp: 1255/1255
+
+Strength: 605 [+200]
+
+Speed: 720
+
+Agility: 650
+
+Defense: 505
+
+Mental Strength: 605
+
+Skills:
+
+Swordsmanship
+
+Items Equipped:
+
+Minotaur's Sword [+200 Strength]
+
+_____________________
+
+"Well sir, it looks like you're a very strong swordsman. I didn't know Minotaur dropped swords, that must be a rare item you have there. Congratulations on hitting level 250 though, that's a big accomplishment."
+
+I grinned ear to ear.
+
+"Appreciate it, thank you."
+
+The man bowed and walked away to let me enjoy my meal. I stared at my status and activated conceal again.
+
+[Use Conceal]
+
+[YES][NO]
+
+I chose yes.
+
+[Enter Changes]
+
+Level
+
+Hp
+
+Mp
+
+Strength
+
+Speed
+
+Agility
+
+Defense
+
+Mental Strength
+
+Skills
+
+Items Equipped
+
+Buffs
+
+[Revert to Original]
+
+I chose "Revert to Original" and my status changed back to its true stats in front of my eyes.
+
+"This solves so many problems..."
+
+When I put my sword back into my item storage I realized I didn't have my item box on me... Bri really kept it.... She just wants me to come back so she can torture me more.
+
+I rolled my eyes but grinned at the same time. It's kind of funny... I hope I see her again someday, I just need a lot more gold before I ever walk through her front door.
+
+I happily finished my meal and felt a lot better. The old man eventually took away my empty dishes and walked me out the front door refusing to let "A friend of Briana's pay".
+
+I got outside and realized I'm still on the totally opposite side of town, there were shining silver buildings way off in the distance so I decided to begin walking that way.
+
+It took almost an hour to get back to the familiar tourism-filled residential area of the city. While walking, I had a lot of time to think over my current situation and new goals.
+
+I'm going to tone it down for the next week or so. I just spent the majority of my money, and have been getting myself into some really insane scenarios recently.... It'd be best to slowly level up for a while and stack cash. With my new sword and stat increases I'm sure grinding out the Minotaur dungeon will be a breeze.
+
+I walked through the front doors of the Inn and was greeted by a friendly face.
+
+"Back so soon? How was your day off?"
+
+I laughed. He has no idea...
+
+"Great... Great! Uhh by the way, any news on the surge today? Any big reports?"
+
+He shook his head.
+
+"Not much. I assume there's still a few mutants, but no major breaks. By tomorrow, the city will be back to normal."
+
+"Great, I'd like to stay a few more nights if my room will still be available. Could I extend my stay until next Saturday?"
+
+The Innkeeper sifted through a few important documents and then looked up at me.
+
+"Of course, I can arrange that. You still have a few nights that are already paid for ahead of you, but we can make an extension. Would you like to pay now or once our current agreement is over?"
+
+I rummaged through my item storage and pulled out 3 silver to place on the table.
+
+"How's that?"
+
+He nodded and wrote something down on his papers.
+
+"Great, you're booked until Saturday morning. Enjoy the rest of your stay."
+
+With a smile, I made my way back up to my room and straight into a hot shower. Afterward, I lay on my bed staring out the window admiring the view while resting my eyes for no more than 20 minutes. I'm physically tired from my fights earlier today, but there's no way I can fall asleep for a full night just yet.
+
+I hopped out of bed, then stretched my arms and legs.
+
+"Why not... I'll go raid a dungeon."
+
+Without thinking much more I made my way downstairs and toward the Dungeon Hub.
+
+It wasn't very crowded, and all the raid restrictions had been lifted. The Innkeeper was right, the surge has mostly passed.
+
+I checked in at the main hub and made my way down to the D Class platform. I took a look at the dungeon list. There are a lot of interesting options but returning to the Minotaur Dungeon seems like the safest bet for now.
+
+I boarded the train and entered the dungeon less than 10 minutes later.
+
+While wandering around the dungeon for about 2 hours I encountered 5 groups of Minotaur.
+
+They all ranged from level 155 to 195. Some were in groups of 2, others were in groups of 3. Fighting them was too easy with my new sword, boots, and the general increase in stats from leveling. My sword hasn't even glowed red once, nor have I had to use much fire magic at all. They dropped 13 mana crystals and 1 large axe in total.
+
+After these smaller battles, I decided to check out the boss room. When I arrived it appeared to be completely normal.
+
+The portal is light grey, meaning there's no sign of a mutant boss. With a shrug, I jumped through.
+
+As I remembered, the boss room looks like an open plane. The initial wave is 7 Minotaurs. This time around, they were all normal spawns ranging from level 190-200. I easily defeated them before the boss even arrived. They dropped 7 mana crystals and no axes.
+
+The boss appeared moments later, and it actually looked rather menacing. Compared to the death matches I was in hours ago though, this feels like a walk in the park. I used inspect, and appraisal.
+
+[Lv. 234]
+
+Active Items:
+
+[Steel Axe] +225 Strength
+
+[Steel WristGuards] +175 Defense
+
+Active Skills:
+
+[NONE]
+
+I completely outpaced the monster and lit it up with fiery gashes all over. It took about 6 swings. The beast was defeated without landing a single hit of its own. I've significantly improved.
+
+[Level Up]
+
+[Level Up]
+
+The Boss only dropped a mana crystal, I wasn't lucky enough to get anything else. Once collected the white light transported me back to the dungeon's start point.
+
+I turned right back around and decided to clear the whole dungeon again before it got too late in the day.
+
+2.5 hours later...
+
+[Level Up]
+
+[Level Up]
+
+I collected another 17 mana crystals and 1 large Steel Axe along with gaining 2 more levels. Once I left the dungeon, the sun had already pretty much set so I headed to the market as quickly as possible to sell my loot to the old merchant.
+
+"Hey, kid! How'd it go? Were they able to make you a sword out of that horn?"
+
+"Kinda. I ran into a few bumps along the way, but I have a sword to fight with now. Thanks for the help."
+
+I grinned and pulled out a massive pile of mana and 3 axes onto the table. The mana scale read out 6291.44MU.
+
+"How much do you want for it all?"
+
+"1 gold, 20 silver, and a small item box."
+
+"What happened to the last one?"
+
+I rolled my eyes.
+
+"Long story."
+
+The merchant chuckled to himself as he counted out my coins and placed them on the counter along with a brown pouch.
+
+With a nod and a handshake, I was off.
+
+_____________________
+
+I decided to take it pretty easy over the next few days. I enjoyed good food, slept well, and farmed in the Minotaur dungeon for about 6-8 hours a day.
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+[Level Up]
+
+I leveled up 8 more times, collected 436 mana crystals, and a total of 27 axes. In total, I profited roughly 15 gold. The only problem now... is my own boredom.
+
+It's Friday morning and I'm standing at the D Class Dungeon Hub platform staring at the list. I didn't level up at all yesterday from defeating the boss 4 times and my sword hasn't glowed once since my arena fights.
+
+I'll be taking the train back to my hometown tomorrow. The question is, do I play it safe for one more day or check out one of the other high-ranked D Class dungeons?

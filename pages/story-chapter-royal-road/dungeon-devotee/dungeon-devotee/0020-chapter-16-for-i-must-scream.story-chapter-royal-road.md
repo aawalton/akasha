@@ -1,0 +1,395 @@
+---
+id: 738f05b0-fa98-5e15-ab35-775f94748458
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16: For I Must Scream"
+slug: 0020-chapter-16-for-i-must-scream
+partOf: dungeon-devotee
+position: 20
+ownLength: 5801
+unit: words
+ownProgress: 5801
+publishedAt: 2023-01-01
+link: "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1076530/chapter-16-for-i-must-scream"
+royalRoadId: "1076530"
+markedReadAt: "2026-06-29T22:39:43.261Z"
+---
+
+Upon the sands of Abri'ElThere reigned a merchant queen.Such mastery of wealth and dealsThe world had never seen.
+
+Edmund emerged onto a narrow platform of porous black stone.  Waves of heat wafted both from over the platform’s edge and through the stone itself, drawing beads of sweat from his brow.  Dark storm clouds roiled above, threatening yet failing to deliver on their promise of relief from the unrelenting swelter.
+
+Already Edmund could see the exit ahead of him, open in the wall on the opposite end of the circular space.  Between him and it sat open air and a thirty-foot drop to the source of the oppressive heat.
+
+Lava bubbled below.
+
+Sulfuric fumes swept off it, rising through the air in a dense black cloud that assaulted Edmund’s eyes and nose and throat.  It bothered him little.  He’d long grown accustomed to unclean air.
+
+The way forward swerved to the left, the five-foot wide platform following the curve of the wall from which it jutted.  It formed a road of sorts, skirting along the edge of the lava pool all the way around to the exit.  No other path made itself apparent.
+
+The wall itself stretched some twenty feet above him before stopping abruptly, the open air above presenting both a mystery and a threat.  As no monsters visibly awaited, Edmund got the distinct impression they’d be coming from over the wall.  He supposed it stood to reason there’d be a way for him to climb over it as well.  He’d have to keep his eyes out.
+
+Had he been more educated in the geology of the world, Edmund might’ve recognized the volcano in which he stood for what it was.  Instead, he only saw what he needed to see: fiery death below, and a precarious pathway above it.
+
+The path ahead and its likely dangers took a back seat in Edmund’s mind, however, as a much more interesting feature directly to his right drew his attention.  A black statue, carved of the same porous stone as the pathway, beckoned to him.  Edmund had to squint to make out its features through the smoke in the air, especially obscured as they were by the many holes in the dark stone.
+
+The statue depicted a human head, life-sized and bald with its mouth stretched wide in a silent scream.  A nail or stake of some sort jutted from each of its ears as if driven there by a hammer, all of stone but for one crucial, sickening feature.
+
+Real blood flowed from the statue’s ears.
+
+Edmund stared in transfixed terror at the effigy, pondering the precise meaning of a man violently deafened.  He didn’t have to ponder long.
+
+“I suppose congratulations are in order,” Liam’s voice pierced the thunder above and bubble below.  “The Great Silence hasn’t offered a pact in two thousand years.”
+
+Edmund blinked at the unsettling statue.  “This is an icon?”
+
+“A shrine to an icon, to be specific,” Liam clarified.  “Go ahead, commune with it.  He paid handsomely for the opportunity.”
+
+Edmund sighed.  “Paid you, you mean.”
+
+“Of course, me.  I’m the one who put the shrine there.”
+
+Edmund grunted.  “And does this Great Silence have a good deal for me?”
+
+“A great one.”  Liam winked and rubbed his hands together, visibly pleased with himself.  “The Great Silence is one of the most powerful icons without any active pacts, so all his strength will be yours to wield.”
+
+Edmund furrowed his brow.  “What’s to stop it from making another pact after mine?  Wouldn’t that make me weaker?”
+
+“Besides good faith?  Celestial beings—and eldritch icons especially—live and die by their reputation.  If word gets around they dilute their pacts, nobody will sign with them.  It still happens, of course, but only to mortals nobody really cares about.”  Liam smiled and shook his head.  “You won’t have to worry about that.”
+
+“Next question,” Edmund said.  “You said it’s a good deal, but is this the best deal you could get me?”
+
+Liam didn’t answer.
+
+Edmund let out a breath.  “Of course it’s not.  It’s just the one that paid you the most.”
+
+“He,” Liam corrected.  “The Great Silence is a he.”
+
+Edmund glared.  “Alright.  I’ll hear him out, but I’m not signing anything until I know what I’m getting into.”
+
+Liam simply gestured to the shrine.
+
+With one last distrustful look, Edmund turned to again face the statue bleeding from its ears.  He stepped up to it and placed his palm upon its bald head.
+
+The world went quiet.
+
+The storm clouds above ceased their thundering.  The lava below bubbled on in silence.  The wind of his breath, the rhythmic thump of his heart, the gentle hum of blood pumping behind his eardrums all faded away.  For a horrible moment, each and every source of noise abandoned him.
+
+All but one.
+
+The acrid stench of brimstone still swept across his nose, the black fumes from below rumbling gently as they passed his ears.  It was a quiet noise, the slightest sense of air flowing over his eardrum, but in the unnatural quiet it sang like a symphony.  Not even the eldritch could separate him from his smoke.
+
+For the first time in his life, Edmund understood what it meant to be close to Madness.  He understood why the eldritch icons sought him out and he them.  Even the sanest of men would find this silence maddening, a wall between them and reality that would forever cut them off from the concept of a singular truth.
+
+As he grasped the shrine, Edmund touched upon a world not simply without the ability to detect noise, but in which the very idea of sound was a fantasy.  The air didn’t shake.  The ground didn’t vibrate.  His chest didn’t ring the din.  A sane man might’ve found it revolutionary, enough to shatter his preconceptions on what it meant to be.  Edmund, with the smoke still rumbling past his ear, found it stifling.
+
+How dare it limit him so?  How dare it think to usurp his madness with its own?  Even now it failed to suppress the noise of the smoke.  They’d yet to strike a deal, but already Edmund rebelled against his would-be master, and already the cracks in his silence began to show.
+
+That was the worst part.  Edmund could handle the unnatural silence, the eerie stillness to the world, the abrupt end to the faint noise his body had always made.  He couldn’t handle the smoke, not for how it whispered in his ear, nor for how it reminded him of the sound that could’ve been, but because it was there at all, because of the very thoughts it spoke of this Great Silence.
+
+Edmund had expected all manner of feelings from his first communion with a celestial being.  He’d expected fear, awe, maddening strangeness, smallness in the face of immensity.
+
+He hadn’t expected weakness.
+
+Edmund didn’t need to view the terms of the offer to know his answer.  Whatever promises he told, Edmund would never sign a deal with the Great Silence.  He’d never tie himself to a being so weak.
+
+His mind already made up, Edmund shut his eyes nonetheless, summoning his constellation so he could review the offer before him, not for consideration, but for comparison against future deals.  At the very least he’d get information from the Great Silence’s failure.
+
+Offer Received - Pact of Great Silence
+
+Receive access to the Eldritch base Aspect, with abilities tied to the power of the Great Silence and resonance determined by your personal affinity with the Great Silence.  In exchange for this portion of his strength, the Great Silence asks a 5% tithe on all coin earned, a yearly holy task, a one-time holy quest, and a curse of silence.
+
+Edmund blinked the offer away and withdrew his hand from the uncanny shrine.  Sound washed over him as his body and the world around it both roared back to life.  In more a show of defiance than anything else, Edmund glared down at the ebon statue and gave voice to his reply.
+
+“No.”
+
+Thunder crashed above as the shrine crumbled to a mound of dust.  Edmund scowled at it before turning back to face Liam.  “Please tell me that wasn’t the best you could do.”
+
+Liam raised an eyebrow.  “Depends on what you mean by best.  Best at making me money?  It certainly was.”
+
+“Why do you need money?”
+
+“I don’t.  I’m using the concept of money as shorthand for favors, rare or valuable treasures, et cetera.”  Liam squinted at him.  “You do know how idioms work, right?”
+
+Edmund ignored him.  “So what happens now that I said no?  When do I get another offer?”
+
+“Next floor,” Liam answered simply, for once.  “Unless something weird happens, a shrine to the second highest bidder will be waiting for you.”
+
+“Something weird?”
+
+“Well, if someone comes in with a last-minute offer then the bidding can restart.  If the highest bidder backs down, the bidding can restart.  There also certainly won’t be a shrine waiting for you on the seventeenth floor if you die on the sixteenth, so try not to do that.”
+
+“I’ll do my best.”
+
+“Anyway,” Liam chimed and rubbed his palms against each other, “you should expect better terms from here on out.  Now you’ve established you won’t accept just anything, the celestials will have to get a bit more serious.  It costs a lot to present you with an offer, and they’ll only pay if they’re confident you’ll say yes.  The flip side is, some of the smarter ones might think you’ll keep saying no for a while, which will drive the price down a bit.  I wouldn’t suggest declining more than four or five offers.”
+
+Edmund blinked, less surprised by Liam’s advice than by the fact he’d given it freely.  “Um… thanks.”
+
+“You’re very welcome,” Liam said with a wink.  “I’m in a giving mood, after all.  You just made me a lot of money.”
+
+Edmund sighed.  “I suppose if you’re so giving, you’d be willing to tell me what a holy quest is?”
+
+“There’re a few different things a celestial being can ask of you.  Tithes are common, and pretty self-explanatory.  Holy tasks are exactly what they sound like, with the caveat they must be something you can complete in under six hours—travel time included.  Holy quests tend to be vaguer, broader, and more of a commitment, but have to be reasonably completable in under a year.  The third category is holy wars, which mark you as a sworn enemy of anyone that serves the other side.  Those are more of a gods and demons thing, though, so you probably won’t have to worry about holy war.  The eldritch icons don’t really bother with them.”
+
+Edmund nodded, genuinely grateful for the information.  He didn’t like the idea of committing to a quest or a war, but he’d agree to whatever it took to gain the strength to overcome the Eternal Depths.
+
+A thunder crack shattered Edmund’s train of thought, drawing his attention back to the level around him.  Liam grinned.  “I suppose that’s my cue to leave.  I’m sure you’ll find this floor exhilarating.  Do try to have fun.  I know I will.”
+
+Before Edmund could utter a word of reply, Liam vanished, and he was alone.  He refrained from reading too deeply into the dungeon’s words, knowing that any attempt to discern Liam’s true meaning would inevitably lead in circles.  Instead, he set his sights ahead and directed his focus on the immediate threats.
+
+Three potential avenues of danger came to mind.  The sheer wall on his left would limit his motion, and Edmund could easily imagine all sorts of monsters climbing over it and descending upon him.  The lava below would obviously kill him if he fell, but Edmund imagined there had to be some kind of monster out there that could survive within it.  He’d have to keep an eye to his right in case anything climbed out.
+
+Most visible, however, was the path itself.  From his vantage by the entrance, Edmund counted nine spots where the narrow platform grew frighteningly thin.  If he were a betting man, he would’ve wagered against those spots being able to support his weight.  Luckily, he didn’t have to wager.  He’d simply assume they couldn’t.
+
+His spear at the ready, Edmund began his slow progression around the volcano.  He transferred his weight slowly, ready to leap back or use his windstep at the first sign of collapse.  Even on the thicker sections, Edmund didn’t entirely trust the platform on which he stood.
+
+He maintained a thorough search of the wall to his left as he walked, running his hand along it to feel for handholds or hidden crevices rather than depending on his eyes alone.  Blocked off from the light of the lava by the shadow of the platform, the porous black stone obscured its features well.
+
+Edmund felt the monster coming.  It made no sound that pierced the rolling thunder above, no battle cry or stomping footstep.  Naught but a faint vibration traveled up the stone beneath his feet; a nigh imperceptible shift in the smoke flowing through the air caught his eye.
+
+Edmund spun to find what appeared to be another statue looming behind him, this time of a fourteen foot lizard.  Its mouth hung open to reveal a particularly unlizardlike set of fangs that Edmund wished he could’ve claimed came as a surprise.  Before he could stop to wonder why everything in this dungeon had to have fangs, the lava rock seemed to wash off of the lizard to reveal metallic scales in resplendent reds and oranges.
+
+Now absent the obscuring effect of the porous black stone, the creature’s full features presented themselves.  It stood upon four stubby legs, dragged its tail behind it for stability, and took in the world around it from two eyes that bulged halfway out of its head.  Its surface was smooth but for a ridge of spines around its neck, reminding Edmund of a collar or a mane.  Most striking was its heat.
+
+Even standing a dozen paces away, the thing’s warmth blasted Edmund.  The air around it danced with the swelter it radiated, hot enough to burn away the smoke that surrounded it.  Beneath its feet, the stone sizzled and popped, leaving behind small pools of molten rock in lieu of footprints.  From one such pool, a wisp of smoke arose to spell out the creature’s name.
+
+Chameleomander
+
+Edmund scowled and lowered his spear and raised his shield to guard himself from the waves of heat as his mind raced for the best way to dispatch such a foe.  He quickly dismissed the idea of getting in close, certain the salamander’s aura of heat would disallow melee combat.  Unfortunately, his ranged options were all fire-based, a type of attack the chameleomander would certainly resist.  Nonetheless, keeping his distance seemed the only viable option.
+
+Until his challenger’s mark began to tingle.
+
+The beast reared back its wide head and let out a great hiss, piercing and dissonant as steam escaping an enclosure.  With a swing of its neck, it spat a globule of molten rock at Edmund.
+
+He dove, landing in a roll on the rough stone as the lava passed over him.  A few loose droplets landed on his cuirass and helmet, but they lacked the thermal mass to do more than melt small dents into his armor.  As he leapt to his feet, he considered his options.
+
+Magma Fissure was right out.  The thing looked like it considered burning magma a nice bath.  For similar reasons, Firebolt made no sense either.  Blood Bolt seemed like the perfect choice, but Edmund hadn’t yet had a chance to charge the dread gauntlet up, and he couldn’t very well imagine getting close enough to drain the burning chameleomander.  As far as ranged attacks went, that left his most versatile option.
+
+Black smoke swept from the air towards Edmund’s wrist as he summoned his Smoke Lash.  Before the chameleomander could launch another attack, Edmund swung, cracking his whip through the air for the creature’s eye.
+
+The spell never struck.
+
+As the lash grew close, the veritable firestorm in the air around the salamander burned the smoke away, the spell too ethereal, too lacking in density to survive the heat.  Edmund cursed.  He’d have to get in close.
+
+The beast spat another glob of lava at him, but Edmund sidestepped with ease, catching stray droplets on his shield this time.  At least, he reasoned, its ranged attack was slow.
+
+Grasping his spear and gritting his teeth for what was to come, Edmund brought his shield back between him and the chameleomander and charged.
+
+The air seemed to thicken around him as he approached, scorching first at his eyes and his lungs as he drew near.  Still he moved.  He inhaled sharply, ignoring the pain of the hot air through his throat, and held it in.  He blinked tears from his eyes before they too gave out, forcing his eyelids shut.  He’d finish his advance in the dark.
+
+The creature hissed once more, and Edmund darted right as the attack came.  Lava splashed from the ground onto his left leg and boot, but the blackbone held up admirably.  With its major protection against fire, Edmund’s lower half remained the only unburnt part of him.  Still he pressed on.
+
+He kept his shield up, guarding less against physical threat than the radiating heat.  He ducked his head behind it, protecting as much of his vulnerable upper body as he could.  His right hand, exposed by its need to grip his spear, took the brunt of the assault.  His mithril bracer protected his arm, and his two pieces of The Crimson Hand shielded his middle and ring fingers, but the rest slowly cooked.
+
+Flesh blistered and bubbled as he drew in.  Agony radiated up his arm, but it’d been some time since Edmund had let a bit of pain stop him.
+
+The beast hissed once more, but Edmund never gave it a chance to complete its attack.  He plunged his spear towards where he’d tracked the beast by the sizzle of its footsteps, and felt the familiar resistance of flesh meet his weapon.  With a sharp grunt, Edmund activated Rend.
+
+The chameleomander collapsed.  Edmund backpedaled, distancing himself from the oppressive heat until he hit the wall.  He exhaled sharply.  He took a breath.  With a pained groan, he forced his eyes open.
+
+The beast lay still on the path’s edge, a gash cleaving halfway through its side.  Edmund counted the seconds before the dungeon reclaimed its corpse, and the heat finally faded.
+
+Edmund collapsed against the wall, sliding along it until he sat on the rough stone ground.  He dropped his spear with a clatter, freeing his burnt hand from its contact with the chitin.  He breathed, allowing the agony of his injuries to wash over him until his mind grew accustomed to it.  It was only once he’d accepted the pain and his Perseverance had begun its work that Edmund looked down and discovered the true cost of his victory.
+
+His spiderleg spear was no more.
+
+The only piece of his equipment to actually come into contact with the chameleomander, roughly half of its eight-foot length had melted away as he’d struck.  All that remained was a short cane with a rounded end.  Edmund sighed.
+
+That spear had seen him through more fights than he could count, an essential part of his arsenal since he’d found it on the fourth floor.  He knew he’d lose the weapon eventually, either to its failure or because he’d simply outgrown it.  Truth be told, he was impressed he’d managed to hold on to the spear as long as he had.  Already Edmund looked forward to what new weapon he’d find to replace it.
+
+He just had to finish this floor.
+
+The thought gave Edmund some pause, as the issue of dealing with further chameleomanders grew prevalent in his mind.  None of his spells quite worked, and while Scorpion’s Sting or his fragments of The Crimson Hand could certainly deal lethal damage, both required he step even further into the deadly heat.  Edmund didn’t think his hand would survive reaching out and touching one of the beasts.
+
+That left him with two options.  The exit already sat open, and for the moment, no monsters stood between him and it.  If he was quick enough, he could probably run past those that remained before they could block him off, but that would require a reckless pace and forfeit any real chance at finding a secret on this floor.
+
+His second option was to find a way to deal with them before they became a problem.
+
+That first chameleomander had to have come from somewhere.  If Edmund could figure out where its compatriots lurked, he could better plan for their attack.  He cast his gaze across the chasm before him, peering through the smoke for anything out of place.  He found nothing at first, the dull light and the already-lumpy nature of the stone in which they camouflaged themselves the perfect setting for an ambush predator.
+
+The smoke gave them away.
+
+The black cloud wafted up from the bubbling lava below, spinning and roiling through the air in familiar patterns.  Edmund knew it well.
+
+Until, at five spots on the underside of the pathway, its motion changed, shifted, ever so slightly, from its natural course.  It seemed to quicken, speed and straighten its path towards the sky, as if driven upward by some invisible gust of wind.
+
+Or, perhaps, as if by an additional source of hot air.
+
+As Edmund squinted he managed to make out their forms, the way their tails curved in and their four-toed feet clung to the underside of the walkway.  He noted they didn’t melt the stone, apparently cooling themselves to prevent exactly that.  Molten rock, as it turned out, didn’t have enough tensile strength to hold up a giant salamander.
+
+Edmund saw his opening.
+
+Leaving his half-melted spear behind, he crept forward along the path, using a windstep to vault over one of the unsupported sections.  He stopped the moment he got into range of his target, afraid to draw closer for fear of alerting the thing.
+
+He struck with two spells at once.
+
+The vast majority of his mana went towards a single Magma Fissure that cut a line perpendicular to the pathway.  The rest went to a Smoke Lash that flew through the air for the chameleomander’s back right foot.
+
+The fissure opened up above it, and while its magma failed to scorch the extremophile, the very act of splitting the stone open robbed it of its contact with the rock.  Its front two feet peeled off, swinging it back in a great arc as only its rear legs clung to its perch.  Edmund’s Smoke Lash struck at the base of its fall, separating yet another foot from the path’s underside.  The weight of the thing plus the force of its fall more than overpowered its remaining point of contact.
+
+The beast plummeted.
+
+Edmund pushed forward, unsure how long a thirty-foot drop into a pool of lava would actually slow the thing.  He vaulted over two more segments of path he’d judged too thin to trust, keeping a careful eye on the lava below as he moved.  It didn’t stir.  Either the fall had injured the thing, or it simply judged Edmund not worth the effort of climbing back up.
+
+He paused some thirty paces from the next chameleomander to regain his focus, allowing his mana to regenerate before repeating the process.
+
+Hours passed as he slowly and inexorably traversed the volcano’s rim, the cost of his Magma Fissure forcing regular breaks to recover.  He spent his time wisely, searching the wall and floor unceasingly for mechanisms or passages or simply a method by which to climb up and out of the volcano.  The more he searched the more certain he grew there were none to find, that secrets the floor held lay not above, but below.
+
+Six hours and roughly two thirds of the way to the exit, the first of the fallen salamanders emerged from the lava below.  Edmund watched with bated breath as it climbed back up the wall, only to stop at its previous perch.  It made no move to climb atop the pathway, no attempt to chase Edmund down.  Edmund considered that good news.  He didn’t have to fight the thing, though he would have to drop it again if he wanted to retrace his steps.
+
+Happy he didn’t have a horde of angry salamanders at his back, he pressed onward, clearing the final two monsters from his way before leaping over the last bit of unstable pathway to reach the exit.  A familiar chime echoed through the air.
+
+Edmund went straight for the loot chest on the floor, noting how its metallic red color differed from any he’d seen before.  Liam sure seemed fond of using metals Edmund had never heard of.
+
+Inside, a ring of rough black stone sat atop a small pile of silver coins.  Suppressing his disappointment at not finding a replacement spear, Edmund read its description in the smoke.
+
+Swelter Ring
+
+Generates a heat aura around the wearer and provides major protection against radiative heat.
+
+Edmund slipped the swelter ring —sweltering?  Was this Liam’s idea of a joke?—onto his left middle finger next to his barkskin ring.  At once he felt its effects, not its heat but the way it made the air shimmer around him and the updraft it created.  Thrax, the breeze from the moving air cooled him down if anything.
+
+Protected as he was, Edmund had no idea what kind of damage the swelter ring could deal, but standing where he did, that didn’t matter.  The protection did.
+
+He could fight the chameleomanders on even footing now, able to approach without cooking alive.  It was less useful now that he’d cleared the floor, but at least he could get some useful training out them.  That was assuming the ring offered the same protection to his gear.  Edmund didn’t want to engage another salamander only for his helmet to melt off his face.
+
+Putting such thoughts aside for the time being, Edmund sat back against the wall and brought up his constellation.  He had two viable options before him, two remaining tier three Aspects to combine with War.  Focus was already extremely powerful, if narrow, than the slightly higher resonance Philosopher.  Truth be told, as far as Edmund could tell, The Philosopher didn’t actually do anything, though Liam had promised it’d become incredibly strong once he leveled it up.
+
+It made for an interesting conundrum.  Was it better to level up his weak Aspect in the hope it would begin to do something, or should he invest in the Aspect he already knew to be powerful.  Edmund figured that he’d only be getting a single level-up’s worth of power regardless of how strong the Aspect already was.  Since both had silver resonance, they should’ve theoretically grown by the same amount.  It stood to reason that with The Philosopher at silver plus, it’d even grow slightly more, and that was ignoring what Liam had said about the Aspect’s potential.
+
+Either way, he could always make the other combination on the next floor.  Curious to see what would happen, Edmund selected War and The Philosopher and formed their confluence.
+
+Tier 4 Aspect: The Tactician - Bronze+ Resonance
+
+Level 1 - Deal double damage when executing a pre-crafted battle plan.
+
+Edmund blinked.  He knew as well as anyone how quickly battle plans fell apart, but they did work sometimes, and double damage certainly incentivized careful planning.  Incredibly happy with his decision, Edmund reviewed the lower tier Aspects that’d leveled up.
+
+At level five, War had improved from a limited increase to a lesser one, while Madness, Elements, and The Recluse remained unchanged.  Solitude’s constitution bonus gained the greater adjective, one Edmund was particularly relieved to see.  He’d never begrudge more survivability.
+
+Last but certainly not least, at level two, The Philosopher changed entirely.
+
+Tier 3 Aspect: The Philosopher - Silver+ Resonance
+
+Level 2 - Question the concept of truth.
+
+Edmund let out a sigh.  The Aspect’s new description remained as confusing and meaningless as its old one, though he supposed the wording seemed somewhat more specific.  He wondered how many times he’d have to level it up before it actually did anything.  At least the absurd power level of The Tactician made up for the current uselessness of The Philosopher.
+
+As Edmund dismissed his constellation and blinked his eyes open, a flash of motion drew his gaze from across the volcano.  He watched in shock as a bright blue form on four legs emerged from the floor’s entrance.
+
+The azure fox looked different.  The demonic horns on its head had grown longer, now mirrored by two rows of inch-long mini-horns that ran down its back.  As usual, blood caked the fur of its snout.  Its teeth had similarly grown, its canines longer and its other teeth sharper and serrated.  This fox was an omnivore no more.  Its maw was built for flesh alone.
+
+Edmund watched as it darted down the path towards the first chameleomander, wondering what it would do once the monster crept up behind it.  The fox didn’t let it.
+
+Edmund’s jaw dropped as the azure fox leapt from the path and ran on thin air for eight consecutive steps before it reached the still-hanging chameleomander.  Seemingly untouched by the heat, its jaws rent the lizard’s throat from its neck.  Before the dead beast could even fall from its perch, the fox jumped off it, using one final windstep to return to the walkway.
+
+The fox didn’t even stop to watch its prey plummet before it darted on, racing along the pathway with unnatural speed.  It walked unhindered over the thin sections of path, far too light on its feet for such a trap to ever bother it.  One by one it eliminated the salamanders, blazing through the sixteenth floor with signs of neither difficulty nor danger.  It paused but once, when it reached the home of the final chamelomander, the only one that still remained where Edmund had knocked it.
+
+It was only then that the azure fox met Edmund’s gaze.
+
+He stood and placed himself between it and the exit, turning his back to the darkness between levels to face the fox’s challenge.
+
+It snarled as it approached, the hair on its back raising on end.  Edmund made careful note of the beast’s increasingly demonic appearance, wondering just how deeply its pact with Xe’orinoth the Fury had affected it.  It certainly hadn’t greeted him with hostility before.
+
+He raised his shield but kept his sword in its sheath, hoping that the fact he’d once saved the fox’s life might spare him a fight.
+
+The fox leapt, and Edmund reached for the hilt of his sword as he braced himself for impact, but at the last moment the beast again stepped on empty air and changed its trajectory, passing under Edmund’s shield to collide with his abdomen.
+
+The tip of its left horn passed just under the base of his cuirass, penetrating just far enough to draw a thin trail of blood along his hip.  Before Edmund could recover, the momentum of the collision forced him to backpedal once, then twice, before he finally lost his balance and tumbled over.
+
+The last thing he remembered was the fox’s blessing washing through him from the cut in his hip, upgrading his all important sigil, before the azure fox tackled Edmund into the darkness.
+
+Edmund Montgomery Ahab, The Crimson Hand
+
+Aspects Unlocked: 17
+
+Tier 1 Aspect: War - Gray+ Resonance
+
+Level 5 - Provides a lesser increase to all damage dealt.  Provides a lesser decrease to all damage taken.
+
+Tier 1 Aspect: Elements - Gray Resonance
+
+Level 7 - Provides access to the Firebolt spell.
+
+Tier 1 Aspect: Solitude - Red Resonance
+
+Level 8 - Provides a greater increase to constitution while fighting alone.
+
+Tier 1 Aspect: Perseverance - Gray Resonance
+
+Level 8 - Gain health regeneration.
+
+Tier 1 Aspect: Madness - Prismatic Resonance
+
+Level 12 - See beyond reality.  Touch the unreal.  Shape your world.
+
+Tier 2 Aspect: Fervor (Madness and War) - Gold+ Resonance
+
+Level 1 - Empowers the effects of Madness and War for each consecutive second spent in battle.
+
+Tier 2 Aspect: Sorcery (Madness and Elements) - Gold Resonance
+
+Level 1 - Provides access to the Smoke Lash spell.
+
+Tier 2 Aspect: Obsession (Madness and Perseverance) - Gold Resonance
+
+Level 2 - Gain strength and agility for each consecutive day spent pursuing your obsession.  Gain mana for each consecutive month spent pursuing your obsession.
+
+Tier 2 Aspect: The Recluse (Madness and Solitude) - Gold Resonance
+
+Level 3 - Empower the effects of Madness while alone.  Lessen the effects of Madness while accompanied.
+
+Tier 2 Aspect: The Island (Solitude and Perseverance) - Gray Resonance
+
+Level 5 - Grants resistance to over-time effects while in groups of two or fewer.
+
+Tier 3 Aspect: Focus (Elements and Obsession) - Silver Resonance
+
+Level 1 - Doubles spell damage when attacking a single target.
+
+Tier 3 Aspect: The Philosopher (Elements and The Recluse) - Silver+ Resonance
+
+Level 2 - Question the concept of truth.
+
+Tier 3 Aspect: The Rift (Madness and The Island) - Gold Resonance
+
+Level 4 - Provides access to the Rend active ability.
+
+Tier 4 Aspect: The Tactician (War and The Philosopher) - Bronze+ Resonance
+
+Level 1 - Deal double damage when executing a pre-crafted battle plan.
+
+Tier 4 Aspect: The Fissure (Elements and The Rift) - Silver Resonance
+
+Level 2 - Provides access to the Magma Fissure spell.
+
+Tier 4 Aspect: Rebellion (War and The Rift) - Gold+ Resonance
+
+Level 1 - Grants resistance to mind controlling effects.  Deal bonus damage to enemies above your level.
+
+Tier 5 Aspect: The Breach (War and The Fissure) - Bronze+ Resonance
+
+Level 1 - Provides access to the Break Through active ability.
+
+Delver’s Mark of the Challenger
+
+Empowers nearby dungeon monsters.  Significantly increases the value of loot chests you open.  Slightly increases the resonance of Aspects you unlock.
+
+The Crimson Hand
+
+Grants minor resistance to piercing damage.  Bestows ownership of the Dread Gauntlet of Kor’Ilinesh.
+
+Trailblazer’s Sigil of the Azure Journeyman
+
+The fourth step on the Path of the Azure Fox.  Increases agility.  Grants two windsteps.  Increases positional awareness.
+
+Trailblazer bonus: Sharpens hearing.
+
+Trailblazer’s Sigil of the Rootmother
+
+Non-intelligent Strethian lifeforms will treat you as an ally.  Gain the ability to draw water and nutrients from fertile soil.
+
+Trailblazer bonus: draw water and nutrients from all soil.
+
+Cloudkith Sigil
+
+Cloud-based lifeforms will treat you as an ally.  Gain enhanced perception through vision-reducing effects.

@@ -1,0 +1,387 @@
+---
+id: ffae65b2-bdca-56d4-8e8b-87321872cfbd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19: Up in Smoke"
+slug: 0023-chapter-19-up-in-smoke
+partOf: dungeon-devotee
+position: 23
+ownLength: 6232
+unit: words
+ownProgress: 6232
+publishedAt: 2023-04-01
+link: "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1154990/chapter-19-up-in-smoke"
+royalRoadId: "1154990"
+markedReadAt: "2026-06-29T22:39:50.049Z"
+---
+
+Edmund trod upon not rough but sturdy stone nor packed earth nor soft soil, but carved and springy wood.  The fresh smell of sap and leafage just barely snuck past the overwhelming acridity in the air to reach his nose.  There seemed to be more smoke than normal, but Edmund had long given up questioning the details of his Madness.  He peered past it at his immediate surroundings.  They weren’t much.
+
+He stood upon a narrow balcony overlooking nought but empty space.  Three feet separated the back wall from the ornately carved handrail, leaving him just enough room to turn around.  It was only when he did that he realized his true location.
+
+Edmund stood upon a landing halfway up the largest tree he’d ever seen.  Its light brown trunk stretched easily thirty yards across and uncountably many high.  Sparse, massive branches jutted away from the towering pillar, tapering off slightly before coming to an abrupt end where they reached the floor’s true walls.
+
+Edmund would have to traverse one such branch if he wanted to investigate them further.  Instead, he turned his attention back to the balcony itself, which hugged the trunk some five feet beyond the edges of the floor’s entrance in each direction before ending at the handrail.   No obvious direction presented itself other than the peculiar amount of access the landing provided to the tree trunk itself.  Edmund only had to follow that line of reasoning to ascertain Liam’s intent.
+
+He looked up.
+
+Sure enough, beyond the numerous landings and potential hiding spots the various branches offered, near its peak the trunk itself tapered away into what appeared—from Edmund’s limited vantage—to be a terminal landing.  He didn’t need to see it to know he’d find the exit up there.
+
+Pulling his attention away from the dizzying heights above, Edmund squinted through the rising smoke to peer down at the chasm below, finding, at last, the reason for the excess fumes that filled the air.
+
+The tree was on fire.
+
+Crackling flames inexorably ascended the trunk below him, rising threateningly towards the very platform on which he stood.  There’d be no going down, only up.
+
+As if in response to his gaze, a great crack echoed through the open space as a low branch broke away from the burning tree and plummeted to the ground below.  It landed with a crash and an explosion of sparks and smoke.  The flames rose faster.
+
+Edmund had to move.  There was no telling how fast the blaze would get, and he had a long climb ahead of him.  Between his swelter ring and other flame-resistant gear, he could survive in a fire for some time, but not forever, and certainly not if the flames ate away his only path to the exit.  Tactical mind kicking into gear, Edmund began by plotting out his course.
+
+The balcony stretched out past both sides of the entrance, leaving him with two potential starting points for his climb.  He examined the left side first.  Rough, uneven bark awaited him, jagged and cracked enough to make for a hundred easy handholds.  Refusing to get ahead of himself, Edmund wrapped his fingers around a piece and tugged.  It came away with little effort, leaving him with a spot of sheer wood and a chunk of tree bark in his hand.
+
+Edmund exhaled.  Of course it wouldn’t be that easy.
+
+He pulled free two more chunks of bark before dismissing it as an option.  Even if secure pieces did exist, he’d never find them fast enough trying every possible handhold.  Instead, he reached for one of the metal spikes along his forearms, grasping the tip of his modular spear in an underhanded grip.  With all his strength, he slammed it into the tree.
+
+It pierced no more than half an inch.
+
+“No climbing spikes then,” Edmund muttered as he returned the spear tip to his arm.  “There’s gotta be something I’m missing.”  He crossed the balcony to check the other piece of exposed wall, again finding no apparent way up.  He tried clearing away a section of bark, but only sheer wood revealed itself.  It wasn’t until he stepped back to reevaluate his options that Edmund turned to the smoke.
+
+He knew there had to be a way up; he knew there was no shortage of smoke in the air, and thus he knew if naught else, his Madness would present an answer.
+
+Present it did.
+
+In a spot on the wall he hadn’t thought to search, beyond the railing and thus beyond the sections of trunk the balcony had pointed him to, the rising smoke seemed to bend, swerving abruptly towards the trunk before rising back away, as if pulled then repulsed by some invisible magnet.  The effect was subtle, hardly visible in the black haze that enshrouded the space above the ongoing inferno, but Edmund had spent more than enough time staring at smoke to recognize its complexities.
+
+Just as the very construction of the balcony had pointed him towards sections of empty wall, the smoke led him elsewhere.  He trusted it three hells of a lot more than anything Liam made.
+
+Edmund had to plant his stomach against the handrail and extend his arm to the fullest to reach the smoke-designated spot, but as he closed his hand around the piece of bark, his suspicions proved true.
+
+It held fast.
+
+Pulling back, Edmund ducked under the handrail, grasping it with his left hand and handing off it to again reach for the piece of bark.  Now suspended above a long fall to a fiery death, he hung more and more of his weight on the prospective handhold, ready to windstep back to safety at the first sign of trouble.
+
+None came.  As he yanked and tugged and hung off the bark with every ounce of force he could muster, still it held.  By the time he finally released the handrail and pulled his feet from the balcony, it came as no surprise that the bark supported his full body weight.  It’d already handled more in his testing.
+
+Edmund spotted the next handhold easily enough, his eyes simply following the path of the smoke until it pointed him in the right direction.  The piece of bark in question sat two entire yards above and to the right of his position.  Liam, apparently, had no intention of making this easy on him.
+
+The presence of his windsteps gave Edmund some comfort as he prepared to launch himself towards the next handhold.  They’d have been of great use in his climb, but without a landing on which to stand, he wouldn’t be able to replenish them along the way.  Since at least a dozen holds stood between him and the nearest branch, he decided it best to keep his windsteps in reserve should anything go wrong.
+
+Edmund wrapped both hands around his current hold and hung back at an angle, his left shoulder pressed against the trunk of the tree.  He took a breath.  He gritted his teeth, and with a mighty tug, flung himself up and past his handhold and towards the next one.
+
+He caught it in his right hand, his feet and left hand scrambling desperately against the loose bark to halt his momentum.  The handhold held fast, but chunks of bark and dust rained down to the fire below as his left hand tore it free.  His feet fared better, digging in and pressing down against the loose bark rather than ripping it away, but in truth it was only his right hand curled around the secure piece that kept him aloft.
+
+Edmund exhaled and scanned for the next hold.  It took him some moments to find, as the smoke above him wafted unimpeded along the trunk.  He eventually found a spot further along to his right, three yards horizontally and a few feet below his current hold.  Loath as he was to descend as the flames continued their approach, only a return to the balcony from whence he’d started presented itself as an alternative.  Unable to see past the smoke to the handhold beyond his current target, Edmund would simply have to trust this path lead somewhere.
+
+He didn’t like it.  Trusting anything in the Depths bothered him at a primal level, but he knew any other path he might’ve found would’ve been the same—only one handhold visible at a time.  Truth be told, the lack of alternatives granted some solace.  If there was only one path and no way to determine its destination, the fairness accords mandated it couldn’t be a dead end, not with the ever-growing inferno beneath him.
+
+The jump proved treacherous, surprising Edmund with its difficulty compared to his previous leap.  Rather than reaching the peak of his trajectory right at the handhold and only having to scramble to halt his horizontal momentum, traveling down the trunk meant also halting his increasing downward motion.
+
+His fingers ached in protest as his entire bodyweight yanked against his curled grip, swinging him around until his back slammed into the tree trunk past the handhold.  Bits of bark and wood drove into his three exposed fingers.  Couldn’t Liam have given him this floor after he finished assembling his gauntlet?
+
+Ignoring the comparatively negligible pain of splinters through his skin and under his fingernails, Edmund stabilized his grip and set his sights on the next hold, spotting it above and to his right.  Again he hung back from both hands, and again he slingshotted himself for the next hold.
+
+On and on and up he climbed, weaving this way and that across the tree’s circumference as he made agonizing progress.  Twice his hand missed its target, and twice he spent a windstep to buy another chance at avoiding a long fall.  By the time the first branch was in reach, the flames had begun to lick at the balcony from which he’d started.  There’d be no going back.
+
+Edmund had to catapult himself to a handhold some yards above his immediate destination just to get laterally close enough to make it to the branch, but he felt his efforts worth it the moment he set foot on the relatively solid surface.  He took a moment to breathe, allowing his sore muscles and windsteps alike to recover.
+
+He walked the length of the branch, making a cursory scan for any signs of traps, treasures, or the monsters that had yet to make themselves known.  Once-green leaves curled and died in the smoky haze, going gray with lack of clean air and direct sunlight.  Even without the flames, the smoke alone would eventually kill the monolithic tree.
+
+Edmund knew it was killing him too, just much more slowly than it did the leaves around him.  Much as it dried his eyes and irritated his throat and scorched his lungs, his various regenerative and defensive abilities overcame the true damage it dealt, at least for the time being.  It hardly bothered him, its effects barely noticeable after months inhaling its acrid poison.  While another delver might’ve found the smoke on this floor suffocating, Edmund found it a minor annoyance at worst and a great comfort at best.
+
+The smoke was his ally.  It had always been his ally.  At times he’d just been too foolish to realize it.
+
+So as he walked the branch, traversing its length to the point where it joined the sheer stone wall and back again, he breathed it in deeply.  He watched it rise around him, studying its twists and turns, its little idiosyncrasies, the ripples and eddies his every motion sent through it.  If this branch had anything hidden for him to find, the smoke would lead him to it.
+
+It didn’t.  It clouded the air and filled his lungs and seemed, if anything, to direct him back to the trunk, back to his climb.  As the crackling blaze grew nearer and nearer, Edmund didn’t hesitate to leave this branch behind.  There’d be a dozen more like it before he reached the exit.
+
+His progress fell into a pattern.  He’d follow the smoke, trusting its guidance as he flung himself from handhold to handhold, spending windsteps to save himself whenever he misjudged a leap or lost his grip.
+
+By the third branch, he’d grown accustomed to the motion, filing various types of jumps and methods of halting his momentum into his mental catalog.  His hands grew more comfortable with the hidden holds, his feet more adept at digging into the loose bark to stabilize him.  By the fifth branch, he’d stopped needing the windsteps entirely.
+
+He made a point of walking each branch to its end and back, albeit forgoing his normal thoroughness for a cursory search of the roiling smoke.  Edmund worried he wasted precious time scouring the branches for secrets, concerned the flames might quicken or that he might need a head start to deal with some challenge yet to come, so he kept it quick, never stopping for long, always ready to return to his climb.
+
+The further he made it up the massive tree, the more nervous he grew.  The lack of monsters, traps, or secrets of any sort gave him pause, forcing him to reevaluate the purpose of the level.  The climb couldn’t be the entire point.  Difficult—if not impossible—as it might’ve been for a fresh faced delver, for a nineteenth floor, it seemed too easy, too simple.
+
+Even without the smoke to guide the way, any delver or party should’ve had some sort of perception ability by now, and thus some way to parse out the location of the handholds without any guesswork.  Sure the ascent made for demanding physical activity, one with which anyone built for ranged combat might’ve struggled, but any such delver wouldn’t have survived to the nineteenth floor without a party to help them up.  Rope was allowed down here, after all.
+
+Edmund wondered if the floor’s monsters were fewer because he’d come alone, or if he’d somehow missed them despite the smoke guiding his way.  The branches in particular seemed terribly vacant, vast stretches of empty space for want of something to fill them.
+
+Still, Edmund pressed on, unable to do much else as the rising flames forced him ever upward.  He leapt from handhold to handhold, past branch after branch, waiting with every milestone, with every moment’s rest, for the other shoe to drop.  On the twenty-second branch, it did.
+
+His trip from the twenty-first to the twenty-second began like all the others, winding chaotically to and fro across the tree’s circumference as he progressed inexorably upwards, until, as he made the final leap from the penultimate handhold to the branch itself, his hand never reached its hold.
+
+Something grabbed his wrist.
+
+Edmund instinctively wrapped his fingers around the unfamiliar limb, finding it corded and cool to the touch.  The creature’s own hand held fast, the two of them locking grips as whatever had grabbed him held him up rather than letting him plummet to the fire below—not that Edmund’s windsteps would’ve allowed that to happen.
+
+With a high-pitched grunt, the thing pulled Edmund up and over the branch’s edge, allowing him to finally get a look at the thing that had at once disrupted his climb and brought him to safety.
+
+There were three of them in all, each standing no more than four feet tall.  Their skin, once chlorophyll green, had browned in the smoke, leaving them with a sickly visage.  Their humanoid faces looked to him with confusion and a slight tinge of hope, expressions Edmund had yet to experience from a dungeon mob before.  They wore sleeveless cuirasses and leggings crafted of tree bark, and carried wooden spears in their hands.
+
+The smoke around them swirled and twisted to spell out their names in friendly green, names that explained both the looks on their faces and the fact they’d helped him.
+
+Strethian Branchkeeper
+
+Edmund blinked.  He’d seen their ilk before, if not this particular variety, back on the second floor.  It seemed wrong for similar monsters to show up on such different levels, especially given the difficulty gap between the two, but he wouldn’t complain.  The prize he’d won back on that second floor had finally delivered on its promise.
+
+Trailblazer’s Sigil of the Rootmother
+
+Non-intelligent Strethian lifeforms will treat you as an ally.  Gain the ability to draw water and nutrients from fertile soil.
+
+Trailblazer bonus: draw water and nutrients from all soil.
+
+Edmund reread the description of his first sigil as the branchkeepers talked amongst themselves in their high-pitched, chittering tongue.  Their conversation struck him, forcing him to wonder where exactly his sigil drew the line of ‘intelligent.’  Clearly these creatures had the capacity for language, yet they still considered him an ally.
+
+His musings came to an abrupt end as the chattering ceased and a small green hand grabbed his.  Together the branchkeepers led him to the edge of the trunk, where one pressed a browning palm against the rough bark.  Whether by magic or some hidden mechanism, the tree split open to reveal a hidden passage.
+
+Lit by the same torches that littered the Eternal Depths, the altogether-too-cramped space contained a spiral stairway that hugged the outer wall of the tree.  The downward steps to his left confirmed to Edmund that this passage extended past branches he’d already visited, forcing him to wonder how he’d missed the secret entrances.  Either they were better hidden than any he’d seen before, or only the Strethians had access.
+
+Edmund ducked as the branchkeepers led him by the hand up the spiral steps, speaking amongst themselves in hushed and nervous tones.  From their ragged appearance, Edmund figured the ongoing inferno meant more to them than the loss of a home.
+
+He counted some fifty of the uneven and bumpy steps before the passage opened up into a cylindrical chamber that seemed to span the tree’s entire diameter.  Edmund froze as he saw its sole occupant.
+
+A single pillar of pale wood stretched from the ceiling to the floor at the room’s center, its top and bottom tapering off as it smoothly connected to both.  Carved into the pillar itself was the form of a little girl, no more than nine, her front half escaping from the wood even as the rest of her remained a part of it.  Edmund might’ve taken it for the most lifelike sculpture he’d ever seen were it not for one simple fact.
+
+She moved.
+
+In the moments before she noticed him, the little girl’s eyes shone wide with desperation as she writhed in agony about her pillar.  As Edmund stepped into full view, her expression shifted from one of fear to one of rage.  Smoke drifted off her form, spelling out her name in angry gray with the telltale crown of a rare boss.
+
+Strethian Heartwood
+
+Sharp branches shot from the wooden floors and ceilings for Edmund’s throat, forcing him to dance to the side and raise his shield.  He prepared a Flame Dart, ready to accelerate the heartwood’s fiery death if he so needed.
+
+But even in her rage, teary desperation still peaked through those childish eyes.  One of the branchkeepers spoke, stepping between Edmund and the heartwood with both hands raised in a gesture of peace.  Whatever the creature said took immediate effect as the sharpened branches retreated, the child’s gaze softened, and the name above her head shifted from its crowned gray to a friendly green.
+
+Edmund blinked, lowering his spell casting hand as the heartwood withdrew her weapons.  He scowled.  The heartwood was certainly intelligent, at least intelligent enough that his sigil alone hadn’t stopped her from attacking him at first sight.  Yet there her name floated, cast in the same green as the branchkeepers.
+
+As Edmund’s stance shifted away from one of combat, the heartwood returned to her chaotic writhing, pain and desperation returning to her face.  The branchkeeper that’d spoken in his defense gestured him towards her, speaking some command or request in its foreign tongue.  Immediately Edmund realized why they’d brought him here.
+
+They wanted his help.
+
+With what, he didn’t know.  He had no hope of extinguishing the flames that devoured their tree, nor any idea of how else he might’ve saved the dying Strethians.  He supposed he might’ve cut the heartwood from her pillar and delivered her to the exit or at least to higher ground, but he had no way of knowing if the creature could even survive such a thing, let alone what it would accomplish.
+
+The dungeon’s rules on traveling monsters were vague, at least as far as Edmund was concerned.  Explicitly, mobs had no capacity to leave the floors on which they spawned, though Edmund himself had already challenged that concept by removing the azure fox from its native fourth floor.  He figured it possible he could repeat the feat.
+
+Then again, the azure fox seemed to be an anomaly, one even Liam treated with some level of curiosity.  One truth stood out among the rest, though.
+
+He couldn’t save them all.
+
+As Edmund considered his options beneath the pleading gaze of the wooden little girl, another, terrible possibility came to mind.  Even in green, the icon of the crown still hovered above her head, and if Edmund had learned anything about this cursed place, he’d learned that the Eternal Depths didn’t reward mercy.
+
+He gritted his teeth and swallowed back bile before muttering the words he knew the Strethians wouldn’t understand.
+
+“Liam, what happens to the mobs the delvers leave?”
+
+“Well, it depends on the floor,” Liam replied as if he’d always been standing by Edmund’s side, appearing from thin air as he’d made a habit of doing.  “On the hubs, delvers never truly leave, so mobs live and die and respawn continuously.  On most of the public floors, the same is true, though I try and reset things a bit whenever they’re empty.”
+
+“And here?”
+
+“On the private, event-driven floors like this one or the siege level you saw a few floors ago, once the delvers leave, the floor resets for the next group.  Dead mobs are respawned, surviving ones are memory wiped, and the environment returns to its pre-delver state.”
+
+Edmund refused to look at Liam, keeping his gaze fixed firmly on the heartwood’s youthful face.  “So no matter what I do, she’s going to keep burning to death, over and over again, forever.”
+
+Liam shrugged.  “That isn’t how she would see it.  Respawned mobs don’t keep their memories.  They’re entirely new entities.”
+
+“That doesn’t change what’s happening here.”
+
+“She’s just a dungeon mob.”
+
+“She’s a child.”
+
+“They’re all children,” Liam snapped.  “Age is meaningless.  Time is relative.  That heartwood has existed for all of four hours, as has just about every mob you’ve killed so far.  You showed no pity then.”
+
+“They were trying to kill me, not asking for my help,” Edmund argued.  “I can’t just…”  He trailed off as the smell of smoke once again asserted its presence in his mind.  “You set this up, didn’t you?”
+
+Liam didn’t answer directly, but Edmund could practically feel his smirk in the air.  “If your moral code arbitrarily assigns value to creatures that resemble human children, maybe some of its other values are just as arbitrary.”
+
+Edmund kept silent, his eyes glazing over as he stared unblinkingly at the desperate heartwood.  He gulped.  By the time he finally opened his mouth to rebut Liam’s argument, the avatar was gone.
+
+Only Edmund and the Strethians remained.
+
+Edmund took a deep breath as he evaluated his options.  With every passing moment the air grew warmer and thicker with smoke.  He was running out of time.
+
+The way he saw it, three paths forked ahead of him.  He could attempt to save the Strethians in spite of the knowledge his efforts would almost certainly be in vain, he could leave the floor as quickly as possible in the hopes of it resetting before the flames could reach the vulnerable heartwood, or he could put an end to their suffering here and now and claim the loot the accords mandated for the slaying of a boss.
+
+The little girl’s pleading eyes met his.
+
+The branchkeepers bickered in their alien tongue, volume increasing as did the temperature of the wide chamber.
+
+Edmund’s heart pounded with agonized indecision, indecision he could ill afford as the flames drew ever closer.
+
+He swallowed.  He clenched his jaw.  He rubbed his eyes, moisture budding within them as they fought to clear themselves from the smoke’s unceasing assault.  The damn smoke refused to offer any relief, any guidance, anything at all but reddened eyes and a dry throat.  He coughed once, a short and sharp thing that failed to even draw the Strethians’ attention.
+
+In those horrible moments, with the pressure of a ticking clock, the heavy miasma in the air, and an impossible choice in front of him, the dungeon did what the dungeon did best.
+
+It brought Edmund to its level.
+
+It was Liam.  It was always Liam.  Whatever point he’d been trying to make, whatever moral argument he though subjecting this creature to endless torture would accomplish, Edmund knew one thing and one thing only.
+
+Helping the heartwood wouldn’t save it.  Ending the floor early wouldn’t stop it from burning again the moment a new party set foot onto the floor.  The only way to stop the violence, the only end there could ever be for such suffering, would be the end of its progenitor.
+
+It would only stop when Liam drew his final breath, and that would only happen if Edmund had the strength to make it happen.
+
+He blinked away the moisture in his eyes to once more meet the heartwood’s gaze.  She pleaded with him, begged, desperately, for any help, any relief he could offer from her fiery torment.  With pity on his face, Edmund approached the childish form, and drew his sword.
+
+A single slice across her throat did the trick.
+
+Amber sap dripped from the wound as the heartwood stilled, a trail of golden blood oozing down once-pristine wood.  The branchkeepers shrieked with rage, but a Firebolt each put an end to their suffering before anything resembling a real fight could break out.  Moments later, the dungeon reclaimed the bodies of its instruments, of its victims, and Edmund stood alone in an empty room, accompanied only by the smoke in the air and the gilded chest upon the ground.
+
+His stomach churned as he knelt to open it, moisture beading in his eyes as the smoke affected them once more.  He let them water.  It felt right.
+
+Inside the chest he found a circular wooden charm on a brown leather string, a bracelet of some sort, carved with the childish face of the heartwood.  By some cruel joke of Liam’s she seemed to look at him with hopeful innocence, her gaze absent both the rage with which she had first greeted him and the agonized desperation with which she’d plead for her life.  Unwilling to allow himself time with his thoughts, Edmund read its description in the smoke.
+
+Heartwood Idol
+
+See their memories.
+
+The moment his skin came into contact with the wooden token, a deluge of sounds and images rushed through Edmund’s mind.  A sapling sprouting from fresh earth.  A spring storm pouring its deluge down upon him.  A green-skinned figure approaching him and offering aid.  Through it all the cylindrical walls of the dungeon surrounded him, offering plenty of space to grow and rise into the air, but cutting off his branches before they could stretch as far as he would’ve liked.
+
+Edmund yanked his hand away from the idol before the memories could overwhelm him further.  The smell of smoke and crackling of a not-too-distant fire returned.  He glanced down curiously at the bracelet, wondering what utility he might get from watching the memories of a tree.  The ability seemed only tangentially useful, especially for something that clearly required powerful magics in order to function.
+
+As with his rootmother’s sigil, Edmund got the distinct impression the idol was meant to serve a particular purpose, one that only Liam would know until the time came.  He grumbled at the thought, unhappy to dance upon the dungeon’s strings, but unable to do much else.  He slipped the bracelet into his satchel to keep the tree’s memories out of his head and turned his attention to the spiral stairs.
+
+He bounded up them two at a time, ascending towards the treetop far faster from within than he ever could’ve hoped to on the outside.  He wondered if the dungeon had intended delvers to take this path, before realizing that of course it had.  To any delver without his rootmother’s sigil, a powerful boss fight would’ve stood in their way, effectively allowing parties to trade the danger of climbing for that of combat.
+
+Edmund, instead, had faced a different type of challenge.
+
+He took care to check for traps or hidden passages as he ascended, but didn’t bother returning to the tree’s exterior.  Doubtlessly other mobs awaited elsewhere on the tree, mobs that would burn to death if Edmund didn’t leave the floor before the flames reached them.
+
+It was a meaningless gesture, sparing the unintelligent creatures a single death in their endless cycle of violence and rebirth, but Edmund felt he owed it to them.  Whatever branchkeepers remained had offered him no cause to wish them ill, and the three he’d already slain weighed heavier on his mind than he’d have liked to admit.  He hoped the heartwood idol would prove worth it.
+
+Sparse minutes passed before Edmund emerged once more into open space, this time with vertical branches instead of walls and crowning leafage instead of a ceiling.  In one of the branches stood a doorway, already hanging open to welcome him into the darkness beyond.  A chime rang out as the dungeon declared he’d completed the floor.  A chest of deep brown wood arose, an oddity after the precious metals he’d seen previously.
+
+Ornate carvings decorated its appearance, belying its material’s claims of mundanity.  It was at once the simplest and most complex of the loot chests Edmund had seen, sparking just enough curiosity to set his mind wandering without actually giving him pause.  He stepped directly towards it, unwilling to waste time as the flames continued to rise.  Inside sat three gold coins and a glass vial of amber liquid.
+
+Heartwood Sap
+
+Sap of a Strethian heartwood.  Drink for temporary access to a heartwood’s mastery of plant life.
+
+Edmund didn’t hesitate to stash the treasure in his satchel, mind already racing with possibilities for his newest tool.  It was the only true consumable the dungeon had given him so far, implying both incredible power and limited potential.  As with what felt like far too much of his loot lately, the heartwood sap seemed a bit situational, but if he could replicate the fury with which those branches had stuck at him before the branchkeeper had argued for him, it’d be a worthy boon indeed.  He’d just have to choose its time carefully.
+
+Satisfied with his loot, Edmund moved on to his Aspect selection.  His previous logic as far as crafting tier threes still stood, which left him with the choice of upgrading The Recluse or Sorcery first.  Still hesitant to further empower The Recluse in case he should end up accompanied and thus on the wrong side of its effect, he chose the alternative.  With a thought, Sorcery and War came together to form something new.
+
+Tier 3 Aspect: Artillery - Silver+ Resonance
+
+Level 1 - Provides access to the Firestorm spell.
+
+Most of his other Aspects remained unchanged, other than his now level fifteen Madness.  Its new description seemed slightly off, different from what it’d been before, but Edmund couldn’t quite put his finger on what had changed or why.  He simply let it go, unbothered by his Aspect’s weird evolution.  Madness was a part of him and he a part of it, after all.
+
+Instead of thinking too much about it, he nodded approvingly at his newest ability, pleased with the hole in his skillset it’d helped fill.  Between his various other spells and Focus’s push towards single targets, he’d sorely lacked a good way to strike several enemies at once.  Firestorm seemed like the perfect option.
+
+He considered, for a moment, testing the spell then and there, but the ever-approaching inferno deterred him.  His predominately wooden environment had already proven it didn’t take well to being set on fire, and while Edmund felt safe with the exit hanging open right next to him, he wouldn’t exactly be getting many repetitions in without burning down the very ground on which he stood.
+
+No, he reasoned, it was better to enter the next floor with a full mana pool than to waste it all just to see what would happen in the few seconds before the new blaze forced him to leave anyway.  Every moment he lingered another mob might’ve burned, a qualm he felt almost hypocritical for having, but one that spurred him on nonetheless.
+
+Just because he’d slain the heartwood for its loot didn’t mean he condoned pointless violence.
+
+He repeated that line to himself a half dozen times, each time hoping that now he’d believe it.  With a sigh he turned away from the tree, away from the encroaching flames and the rising smoke and the dying Strethians.  He might’ve climbed for a bit, but in the Depths, the only real way to go was down.
+
+So with a shallow breath, the heartwood idol weighing heavily in his satchel, and a grumbled curse at what this place had done to him, Edmund stepped into the darkness.
+
+Edmund Montgomery Ahab, The Crimson Hand
+
+Aspects Unlocked: 20
+
+Tier 1 Aspect: War - Gray+ Resonance
+
+Level 8 - Provides a lesser increase to all damage dealt.  Provides a lesser decrease to all damage taken.
+
+Tier 1 Aspect: Elements - Gray Resonance
+
+Level 8 - Provides access to the Firebolt spell.
+
+Tier 1 Aspect: Solitude - Red Resonance
+
+Level 8 - Provides a greater increase to constitution while fighting alone.
+
+Tier 1 Aspect: Perseverance - Gray Resonance
+
+Level 10 - Gain health regeneration.  Gain greater health regeneration outside of combat.
+
+Tier 1 Aspect: Madness - Prismatic Resonance
+
+Level 15
+
+Tier 2 Aspect: Fervor (Madness and War) - Gold+ Resonance
+
+Level 1 - Empowers the effects of Madness and War for each consecutive second spent in battle.
+
+Tier 2 Aspect: Sorcery (Madness and Elements) - Gold Resonance
+
+Level 2 - Provides access to the Smoke Lash spell.
+
+Tier 2 Aspect: Obsession (Madness and Perseverance) - Gold Resonance
+
+Level 4 - Gain strength and agility for each consecutive day spent pursuing your obsession.  Gain mana for each consecutive month spent pursuing your obsession.
+
+Tier 2 Aspect: The Recluse (Madness and Solitude) - Gold Resonance
+
+Level 3 - Empower the effects of Madness while alone.  Lessen the effects of Madness while accompanied.
+
+Tier 2 Aspect: The Island (Solitude and Perseverance) - Gray Resonance
+
+Level 5 - Grants resistance to over-time effects while in groups of two or fewer.
+
+Tier 3 Aspect: Focus (Elements and Obsession) - Silver Resonance
+
+Level 2 - Doubles spell damage when attacking a single target.
+
+Tier 3 Aspect: Artillery (War and Sorcery) - Silver+ Resonance
+
+Level 1 - Provides access to the Firestorm spell.
+
+Tier 3 Aspect: The Warmonger (War and Obsession) - Silver+ Resonance
+
+Level 1 - Provides a greater increase to all damage dealt and a greater decrease to all damage taken while engaged in combat you initiated.
+
+Tier 3 Aspect: The Philosopher (Elements and The Recluse) - Silver+ Resonance
+
+Level 2 - Question the concept of truth.
+
+Tier 3 Aspect: The Rift (Madness and The Island) - Gold Resonance
+
+Level 4 - Provides access to the Rend active ability.
+
+Tier 4 Aspect: The Tactician (War and The Philosopher) - Bronze+ Resonance
+
+Level 1 - Deal double damage when executing a pre-crafted battle plan.
+
+Tier 4 Aspect: The Target (War and Focus) - Bronze+ Resonance
+
+Level 1 - Allows the marking of a single enemy as the target.  The target takes increased damage from all sources.
+
+Tier 4 Aspect: The Fissure (Elements and The Rift) - Silver Resonance
+
+Level 2 - Provides access to the Magma Fissure spell.
+
+Tier 4 Aspect: Rebellion (War and The Rift) - Gold+ Resonance
+
+Level 1 - Grants resistance to mind controlling effects.  Deal bonus damage to enemies above your level.
+
+Tier 5 Aspect: The Breach (War and The Fissure)- Bronze+ Resonance
+
+Level 1 - Provides access to the Break Through active ability.
+
+Delver’s Mark of the Challenger
+
+Empowers nearby dungeon monsters.  Significantly increases the value of loot chests you open.  Slightly increases the resonance of Aspects you unlock.
+
+The Crimson Hand
+
+Grants minor resistance to piercing damage.  Bestows ownership of the Dread Gauntlet of Kor’Ilinesh.
+
+Trailblazer’s Sigil of the Azure Journeyman
+
+The fourth step on the Path of the Azure Fox.  Increases agility.  Grants two windsteps.  Increases positional awareness.
+
+Trailblazer bonus: Sharpens hearing.
+
+Trailblazer’s Sigil of the Rootmother
+
+Non-intelligent Strethian lifeforms will treat you as an ally.  Gain the ability to draw water and nutrients from fertile soil.
+
+Trailblazer bonus: draw water and nutrients from all soil.
+
+Sigil of the Slumbering Deep
+
+Gain greater health regeneration.  Gain immense health regeneration while sleeping.  Gain water breathing.  Gain lesser dark vision.  Gain lesser subaquatic sonar.

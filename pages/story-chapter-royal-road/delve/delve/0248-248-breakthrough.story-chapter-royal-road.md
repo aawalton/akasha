@@ -1,0 +1,217 @@
+---
+id: 7fee5b29-65fc-5d21-991a-815729045caf
+page-type-slug: story-chapter-royal-road
+title: "248: Breakthrough"
+slug: 0248-248-breakthrough
+partOf: delve
+position: 248
+ownLength: 3244
+unit: words
+publishedAt: 2023-10-22
+link: "https://www.royalroad.com/fiction/25225/delve/chapter/1381938/248-breakthrough"
+royalRoadId: "1381938"
+---
+
+The two weeks Rain and Ameliah had spent in Nadir had been both eventful and uneventful, depending on your perspective.
+
+They’d been uneventful in that there’d been no significant drama to speak of, almost suspiciously so. Nobody had died, nothing had exploded, and no rank shifts or beast tides or blood feuds had broken out to shake things up. In fact, it was positively routine.
+
+Each night, they’d gone out to hunt, slaying countless monsters, all in the name of preserving the tranquility of the cavern. Their patrol team had changed from day to day, with new members joining and others leaving, but always without issue. Each dawn, they’d returned to their rented bungalow, spoils in hand—though less than they’d have liked from the freshspawn.
+
+Legruz had stopped by more than a few times, sometimes bringing the Fledglings with him, sometimes not. Mora had stopped by once, dragging them out to join her and the Beardy Brothers for lunch—which had been delicious and somehow uninterrupted by upstart Guilders looking to test themselves against the mysterious mercenaries or other such nonsense. Say what you want about the houses; they ran a tight ship on the frontier.
+
+No, everything eventful had happened inside their souls.
+
+Progress Report
+
+marker_1: pre_nadir [3061 First Harvest 05 09:09]
+
+marker_2: just_two_weeks... [3061 First Harvest 21 12:00]
+
+Span: 16.1 days
+
+Essence
+
+Intake Capacity: 449 kESS/s -> 116 MESS/s
+
+Generation: 9.42 kESS/day -> 7.25 MESS/day
+
+Refinement: 457 kESS/s -> 16.8 MESS/s
+
+Chaos: 74 kESS -> 1 GESS
+
+Potential: 20.9 GESS -> 134 GESS
+
+Soul: 13.2 GESS-> 111 GESS
+
+The dialog had changed, as no longer did Rain bother to track paltry trivialities like experience, skill levels, and stat synchronization. Those problems were behind him, as he’d had ample time to put them to rest. With ample chaos to fuel his time acceleration, two weeks had stretched into almost four years.
+
+He was sure he’d have gone insane if he’d been on his own.
+
+Dozer got him through the long stretches between the sporadic vacations he got to spend in his real body. Those moments spent with Ameliah were patches of light in the darkness—breaths of fresh air in the unending toil that had become his existence.
+
+She’d made progress too, of course. She hadn’t invested anywhere near the amount of time he had, but she hadn’t needed to, keeping up just fine on her own, as Clarity’s cognition speed boost wasn’t the be-all and end-all when it came to the esoteric effects of stats on the soul. Strength magnified force of will, and Recovery helped that will restore itself. Endurance made everything tougher, more real, and Vigor improved fine control. Focus improved visualization and concentration, letting you better make your ideas reality. Each stat came with other benefits, too, ones that were hard to classify and even harder to train. The point was that with her balance and the boost offered by her class, Ameliah could do with a wave of her hand what would take him hours of subjective effort.
+
+He wasn’t bitter.
+
+It just meant he had to put in the time.
+
+And so he had. Oh, so he had.
+
+Gone was the mess of cables and pipes in the inner spaces of his bastion, replaced with clean, efficient routing. Gone were the janky machines, their insides a mystery, replaced with glowing racks inset smoothly into the walls. Gone were the points of failure, the centralized systems, and the lack of redundancy. Gone was all sense of weakness. His station was armed, armored, and ready for war.
+
+Even the system’s intrusions, he’d gotten a better handle on. Four years of study wasn’t enough to truly understand how the system augmented his soul, but he’d at least been able to classify and compartmentalize its structures.
+
+Mostly.
+
+He still had a junk drawer. No home was complete without a junk drawer.
+
+In any event, the change was night and day, especially when looking below the surface. His soul bastion’s superstructure and all its non-critical systems had been rebuilt from rank-twenty-three essence, the maximum quality he could refine without active will investment. He’d known the rank-twenty-four pattern for ages, but without his mind to guide it, invested soul couldn’t manipulate uninvested potential of its own rank. The essence for the final layer of the refinement tower, the station’s armor and ramscoops, and its thousand-odd distributed reactor and computer cores had needed to be produced the hard way. One unit at a time.
+
+All told, his station represented what would have once seemed an ungodly quantity of baseline essence, not even including the massive, overfull storage tanks of potential awaiting refinement or the growing bubble excess now pooling in the void between the armored hull and his paling.
+
+Things were…a bit backed up…thanks to the rank-twenty-five pattern.
+
+It was being a right little shit.
+
+“Come on…come on…” a hollow-eyed Rain muttered, pacing back and forth through the grid of programmable assemblers. Each was a massive cube of machinery, built upon the same core principle as the latest line of printers he used to forge refinement cells. The difference with these was that they could make anything—at least in theory—not just copy one design over and over. They relied on his will to run, allowing them to manipulate rank twenty-four essence despite being of that same rank themselves. Only through boosting his Focus and Vigor was he able to drive this many of them at once, and even then only because he’d constrained their control systems. The parameter list was merely the length of his arm.
+
+“Come on…come on…come on…” Rain continued his muttering, both figuratively and literally willing the machines to completion.
+
+The wait was agony, all the more because he knew he was close.
+
+Every rank up until this one, he’d found the pattern himself, holding the essence in place with his thoughts and tweaking, tweaking, tweaking until he got it right. Once he had the pattern, he would then manually refine essence until he got enough to get automated production online for the rank before. Then it was a matter of repetition.
+
+The rank twenty-five pattern, though, was different. Like the rank five pattern before it, it was an order of magnitude fussier than average. With the steadily increasing complexity of the patterns, plus the added difficulty from it sitting as a barrier between bronze and silver, he’d found himself stuck bashing his head against a wall. Of the four subjective years it had been, over half that time had been spent stuck on this, the final step. He needed to start reforging himself from silver-ranked essence soon, or he’d start eating into his safety margin. There was only one real-time week left before the deadline he’d set.
+
+What if…I can’t do it?
+
+Unnoticed, one of the assemblers at the edge of the room jammed and began to smoke. Luckily, before any more of them could lock up, a foreign thought rudely shoved its way into Rain’s mind.
+
+[Loud thinking, Rain-King!] Dozer admonished. [Stop thought filth! Rain-King is smartest and best human, even when being dumb. Which am being now. Stop!]
+
+Rain’s lips twitched. [Thanks. I was spiraling there.]
+
+[Work!] Dozer sent, accompanied by a burst of upbeat determination. [Sooner finish, sooner play with Ameliah-Queen! Simple!]
+
+Rain smiled, then rubbed at his tired eyes and refocused on his task.
+
+Really, how could you argue with that?
+
+On this latest run, he had two-hundred and fifty-six of the massive assemblers running in parallel. Each had been loaded with the most successful parameters from the run before it, tweaked ever so slightly. The best result of this batch would then go on to form the basis for the next. On and on and on. It was less accurate to say he had lost track of how many rounds it had been and more accurate to say he no longer wanted to know.
+
+*Ding!*
+
+At the chime, Rain shot into the air, his Ascension overcoat cracking like a whip from the speed of his flight. The assemblers ground open like clockwork, each ejecting a single, unassuming cube with a burst of steam. A sliver of his will saw the fresh refinement cells rising to follow him, and as he reached the gantry platform above the factory floor, he arranged them in a line extending off to the left of the test bench. To his right, a panel opened to reveal a massive spreadsheet, columns extending far off the screen, listing out the parameters for each assembler.
+
+Physically grasping the first cell, Rain jammed it into the test bench until it clicked, then flooded it with rank twenty-four essence.
+
+There was no automated pass/fail indicator. He was the arbiter, monitoring with senses beyond the mundane, and this one was not even remotely close to being a success. Even the first generation had been better, back when he’d been using a single assembler and a generation size of one.
+
+Roughly, Rain jerked it free, then chucked it over his shoulder, slotting another in its place. A clunk announced his perfect blind three-pointer into the waste hopper.
+
+This next cell did better, almost equaling the performance of the generation before it. The essence was trying to change. It was tantalizingly close, but after a good three seconds, it was clear how it couldn’t quite get there.
+
+He yanked the cube free and hurled it away, earning another three points.
+
+Almost as good wasn’t better.
+
+Cell after cell, he tested. Most were complete junk, while some met or slightly exceeded the results from the last generation. Rain’s heart began pounding in his chest as some of them even began to tremble, rattling in the housing from the strain, so close to producing essence beyond their own level. Even these, though, were all ultimately failures, yet he still set them aside to seed the next generation.
+
+And then, as his hope was beginning to moderate after a string of eight complete and utter duds, the cell under test violently exploded less than a second after he opened the valve.
+
+“Yes!!!!” Rain roared, blasted backward to crash against the rear wall, almost landing in the waste hopper himself. Excruciating pain lanced down his nerves, and droplets of blood fell from the shards embedded in his avatar’s chest as he slid down the wall, but he didn’t care. Likewise, he spared not a thought for his sudden lack of eyebrows, the vaporization of the test bench, or the crash of the gantry slamming into the floor.
+
+He’d seen it.
+
+He’d seen the pattern.
+
+Laughing like the mad scientist he wasn’t merely cosplaying, Rain drew essence from his surroundings, again working by feel as his own blood and the bits of shattered machinery drew together into a clump of pure potential.
+
+He squeezed, applying pressure in just the right way as he set up the myriad harmonics.
+
+This took a bit.
+
+Finally, there was a flash, and it was done. After a second squeeze to invest it, a pearl of startlingly heavy silver-level soul dropped into his palm.
+
+Rain grinned.
+
+Now, he just needed to do it about a jillion more times.
+
+Ameliah wiped the sweat from her brow, focusing on Recovery. Her entire body aching with comfortable exhaustion, she flopped to the ground for a rest. Elsewhere, outside the boundaries of her soul, she could feel that Rain was in a marvelous mood—and had been for some time when you factored in his faster perception. Doubtless, he’d finally broken through to rank twenty-five. She was eager to congratulate him, but he had yet to emerge, and so neither had she.
+
+He’s probably busy being ‘efficient’ or whatever. Upgrading his refinement tower before he stops to celebrate.
+
+Chuckling to herself, Ameliah smiled, taking in the brilliant world she’d created. Where she’d begun with a single island, there were now hundreds upon hundreds, some big, some small, floating past each other through the brilliant blue sky. Great streams of essence twined through the air, manifestations of rushing power, purity, and life.
+
+Her power. Her potential. Refined through motion, collision, and strife.
+
+On the largest island, the very same one her father had prepared for her upon her first entry into her soul, was the wellspring, no mere well any longer. It was veiled by a verdant forest, complete with glowing crystal spires guiding the cascading torrents of essence as they surged over the sides and crashed back down from above. Other islands held deserts, frozen tundras, fields of golden, gently waving wheat…whatever had fit the skill tree or other concept she’d been trying to embody.
+
+Or, sometimes, just what she’d felt like at the time.
+
+Not everything had to be efficient. Not everything had to have a purpose.
+
+Ameliah chuckled to herself, imagining what kind of crazy shit Rain had to have made when he was just fooling around. She wanted to see it, but that would have to wait. Forever, maybe, unless one of them found a way to visit the other. The Liminal Void was the path to that, she was sure, but she wasn’t willing to shatter her own paling to find out. There were other things she had to take care of first.
+
+Climbing back to her feet, recovered after only a few moments’ rest, she raised her arms.
+
+The sky rivers heeded her call. Mighty streams of essence rushed forward, colliding and condensing into a new island as she lifted herself into the air with her will.
+
+This one would be a fortress—part of the outer shell of barrier islands nestled in the clouds veiling her golden paling. In her inner world, her paling was the sun, though it was far too brilliant, hence the clouds. Chaos, for her, manifested as darkness, much as it did in the Liminal Void, and there wasn’t very much left of it now. She’d need to expand the island she’d dedicated to storing it. After all, it was the fuel for change. As they’d discovered, the raw, unrefined energy was vital for your stats inside your inner world, though only Clarity was consumed automatically.
+
+The others took a bit of training.
+
+The flow of potential around her redoubled as she put that training to work, obsidian walls forming in seconds as animated suits of armor were forged to defend them. This fortress would be a big one, anchoring those around it. Its guardians would rush out to capture and kill any unauthorized intruders, reinforcing the other outposts as needed.
+
+Constructs were another area where her balanced stats let her keep pace with Rain. She could make convincing facsimiles of animals, while the best he’d managed was something called a Roomba, though that had been days ago, and with how quickly he was improving…
+
+I WILL keep up.
+
+So passionate were her thoughts and so caught up in the process of creation was she that it came as a complete surprise when her power flickered, sending half-formed essence flying as she lost control. Catching herself before her stumble became a fall, she quickly realized what had happened.
+
+She’d run out of chaos. Looking through the eyes of a bird on the other side of her soul, she confirmed it, finding the dark island drained to reveal barren and corroded stone.
+
+Huh. First time that’s happened. Also, I need a better solution for storing chaos. Even with my Endurance, the stone anchor’s not holding up that well.
+
+She was brought out of her musing by a voice.
+
+“By the gods, Turnip! This is—ooph!”
+
+“Shit!” Ameliah cursed, squeezing her father tightly as they crashed into the half-constructed fortress island.
+
+“Gah!” he cried as he landed on top of her.
+
+“Sorry!” Ameliah cried, lifting her father off her from where she’d sheltered him from the impact. She hadn’t expected her chaos stockpile to recover quite so quickly, and in her excitement, had put more power into her tackle than she’d meant to. She got up quickly, setting him upright as she likewise found her feet.
+
+“Are you trying to kill your old man for good?” her dad demanded, brushing the dust from his ragged cloak. “A simple hello would have done just fine.”
+
+“I…got a little carried away,” Ameliah said, caution tempering her initial response as she looked with more than just sight. The system was running all through her father’s body, mixed up with what had to be his reddish-brownish soul. It wasn’t hers; that was for sure. It was almost like looking at another person’s paling, folded into the shape of a person.
+
+Belatedly, she noticed her armored sentinels were rushing to confront the intruder and called them off with a thought, shoving away the one that had been hopping forward on one leg before he could notice it. She turned her attention back to her dad to see him plant his hands against his lower back.
+
+“Gods, you’re strong,” he said, arching his spine hard enough to make it pop. “Ahh, that’s better. Good thing you can’t kill the dead.”
+
+“Dad…” she said, not quite sure what to say.
+
+“What?” he asked, misreading her hesitance for admonishment. “I’m not going to dance around the fact that I’m feeding the worms. Honestly, I’m over it.” He turned away from her to the edge of the half-built island, throwing his arms wide to encompass the entirety of her creation. “Now, as I was saying, holy shit! How did you do all this when you’re still silver? This is just…wow. Just wow. You’re not supposed to be this good yet. I mean, actively refining potential? I’m starting to question whether you even need me at all, Turnip. It’s as stable as a rock in here.”
+
+“Uh, Dad,” Ameliah said, her level of wariness rising. “Not that I’m not glad to see you, but can we back up a minute? Why are you here, and how? Do you remember last time?”
+
+“Yes, I remember,” her father said, turning with a smile. “Things got a little heavy last time, so I’m trying to keep it light. And yes, before you ask, I’m still made from your memories, more or less. Can’t remember your aunt’s name, you know?” He knocked on his forehead with his knuckles. “Anyway, I’m here to help you, so that’s the why. As for how….” He paused, sucking his teeth, and her wariness suddenly became much harder to maintain.
+
+He’d always done that when he was thinking. She’d loved making fun of him for it.
+
+I will NOT cry this time.
+
+“Well,” her father said, rubbing at his scraggly beard—another thing he’d always done. “The system takes an imprint of everyone’s soul when they die, which it calls an echo. That’s the framework. Add some essence to power it, sprinkle in a few compatible memories borrowed from the host, plus a bunch of raw information I’m supposed to translate for you, and”—he clasped his hands before gesturing to his artificial body—“one soul guide made to order. No refunds. Sorry.”
+
+I know it’s not him, but…it’s him.
+
+“Dad…” Her voice cracked despite her best efforts, and then he was there.
+
+The embrace felt strange, her being the taller one, but it felt…right. He began rubbing her back gently as she struggled to regain control, which didn’t really help her keep composure.
+
+And then he started humming Dog in the Yard—the song he’d used to soothe her as a child.
+
+“Take as long as you need,” her father said as the first sob wracked her. “I’m not going anywhere.”

@@ -1,0 +1,205 @@
+---
+id: b603ce89-fc1f-5ea5-acf2-22c03fca3850
+page-type-slug: story-chapter-royal-road
+title: "Chapter 99"
+slug: 0099-chapter-99
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 99
+ownLength: 1691
+unit: words
+ownProgress: 1691
+publishedAt: 2023-04-26
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1193914/chapter-99"
+royalRoadId: "1193914"
+markedReadAt: "2026-06-29T20:35:14.052Z"
+---
+
+A long twisting pathway leads down to the pit along the cliff on our right side. I can hear the faint sounds of stomping trolls and grunts approaching from below.
+
+We start making our way down.
+
+I’m grinning excitedly, thinking about all the new moves I’ll get to try out on over 100 fresh moving targets.
+
+No more than 50m of travel downwards, a lone desert troll comes bustling up the canyon pathway. In the distance, I can see half a dozen of them slowly making their way up the trail as well.
+
+“Nessa, Abby, and Bruce. You three need to gain some serious levels before reaching the boss. Take care of these monsters.”
+
+I point my sword down the path, then continue talking.
+
+“Maria, watch over them until they can handle these wanderers alone. I’ll go take out the source of the problem, maybe I’ll even leave a few for you… but probably not.”
+
+I smirk playfully and dart off to the left before any of them get a chance to reply. The smartest… or no… possibly the dumbest idea popped into my head and I can’t wait any longer to test it out.
+
+With a graceful leap, I jump off the edge of the winding path with nothing but an endless pit of trolls 500m below me.
+
+“WHAT ARE YOU-“
+
+I hear a few concerned voices drown out in the wind as I quickly plummet off the face of this massive orange rock wall. For a moment, I close my eyes and let the cool air wrap around my entire body as I fall weightlessly to the ground.
+
+“Wind Summoning.”
+
+After a brief moment of peace, I concentrate my wind magic to form strong gusts beneath me. I visualize a wall of wind and try to let it catch me. The first attempt pushes my upper half backwards spiraling me out of control….
+
+I grit my teeth, regain my composure, and try again. The second gust is much more stable and slows my descent ever so slightly. I keep a constant stream of air rushing up to slow my fall more and more.
+
+Finally, I begin creating small denser pockets of air beneath my feet. It’s very hard to stay upright, my body naturally wants to twist and turn. I’m still falling through the air very fast, but I work best under pressure…
+
+Once less than 100m from the hard rock floor, I’ve slowed myself down considerably. With a bit of trial and error, I’ve managed to control the small dense currents under my feet. With very slight movements, I can change my position and turn toward any direction in mid-air with ease.
+
+I focus on creating one final gust of wind from below before hitting the hard rock ground.
+
+*THUDDD*
+
+I brace my feet with body-hardening crystals and push upwards with wind magic to lessen the fall. My impact with the ground still creates a small crater about 4m in diameter.
+
+It’s not exactly what I was planning for, but this entrance is pretty epic either way.
+
+I grin and draw my sword as the orange dust cloud around me settles. Over a dozen trolls surround me on all sides.
+
+I burst into flames while focusing my mana into my sword. Moments later it begins to glow red as I activate my bloodlust and berserker skills. With much greater precision than before, dense wind magic forms beneath the soles of my feet and I push off of them blasting forward at my enemies.
+
+*SHINGGGGG*
+
+One hit and the first monster disintegrates to ash.
+
+I plunder its MP and turn in mid-air to face my next opponent. I plant my right foot into empty space and summon a dense pocket of air behind me. The gust of wind explodes on impact with my foot forcing me to make a 90-degree turn in mid-air.
+
+*SHINGGGGG*
+
+Another troll is eliminated in the blink of an eye.
+
+I let out a loud chaotic laugh and begin zig-zagging around the battlefield with incredible speed and precision. I jump through the air getting more in tune with my new wind-summoning skill with every strike.
+
+In a matter of seconds, the 15 or so trolls that approached me were all dead on the floor in a wide circle of black smoke and crackling flames.
+
+With all the flashing lights and excess mana in the air, many of the trolls in the surrounding area have started to come charging my way. Little do they know, they’re just running into their own imminent demise.
+
+The entire pit turns into a bloody massacre. The burning corpses of trolls begin to pile up as I dart around with a fiery blade.
+
+After 20 minutes of pure destruction goes by, and the trolls begin to thin out. Their roars and grunts die down and the smoke and dust settle. I’m left with piles of mana crystals, 4 large troll clubs, and 3 desert troll charms. I equipped one of the charms, placing it around my neck, then put the rest of the loot into my item storage.
+
+It’s an impressive haul, but I’m more excited about the improved use of my new skill.
+
+I look out toward the end of the canyon activating enemy detection to see hardly any trolls remaining. My team is also steadily making its way down the sloping pathway. I can see them on the side of a cliff about 200m above me fighting a battle of their own, they’ve made it down a considerable distance as well! I start my trek forward in their direction.
+
+Another 10 minutes go by before I’m finally within range.
+
+“Hey!! Over here!!”
+
+I call out to them with a wave while running over sporting a wide smile.
+
+“So how’d it go?”
+
+Maria looks at me with both hands on her waist and an angry expression.
+
+“H-How’d it go? You just jumped off a cliff Jay! You tell me how it went!”
+
+“I- uhh-“
+
+I stop to scratch my chin and think carefully about what to say next, but Maria continues without a response.
+
+“It’s fine. I’m glad you had some fun.”
+
+I lift my hand from my chin to scratch my head awkwardly, then we both let out a long laugh.
+
+“So, Abby and Bruce, leveling updates? You two ready for the boss or what?”
+
+Bruce grins.
+
+“It’ll be tough, but I think I can handle it. I made it to level 286, and took down 2 trolls by myself on the way down here.”
+
+I nod while crossing my arms and turning to Abby, she responds immediately.
+
+“Yeah! Same here. I hit level 288. I used up a lot of MP, but I can take these creatures out easy as long as I’m stocked up on potions.”
+
+I smile.
+
+“Great, great. Well, I uh- I cleared a path for us. The boss room should be right over here…”
+
+We begin to turn toward the distant glow of a portal, but the sound of an incoming stampede of trolls echoes throughout the canyon interrupting our friendly greetings.
+
+Nessa yells out.
+
+“Lets move! Whatever that is… it can’t be good!”
+
+This pit seems to be the respawn spot for all the monsters in the dungeon. At least, that’s what it seems like.
+
+The five of us sprint toward the boss room without another thought. I use enemy detection to pinpoint the test monitor’s exact location just to make sure we’re headed in the right direction. Finally, the floating grey portal comes into our clear line of sight.
+
+Nessa calls out again with a smirk.
+
+“I want to go first this time!”
+
+I look at her with tight lips but nod politely mid-stride.
+
+“Sure, go for it.”
+
+We approach the towering back wall of the canyon. If not for the boss room portal, we would be completely cornered in. The monitor speaks up.
+
+“So it was you guys? There sure was a lot of noise in here. It’s been a while since a new group came through.”
+
+We all stop to catch out breath for a moment, then the monitor continues.
+
+“Well, if you’ve made it this far, you know the rules. Who’s first?”
+
+With a grin, Nessa readies her long silver sword and jumps through the portal.
+
+The rest of us are left in silence with the faint rumbling of giant trolls approaching in the distance.
+
+It’s an eerie sound… but I’m not too worried about it. I speak up.
+
+“Hey, I’ll go last. Just in case this wave hits, I’m confident I can handle them.”
+
+Maria nods.
+
+“I’m second to last, just in case.”
+
+Bruce and Abby look at each other wide-eyed, then shrug. The tank speaks up.
+
+“Well, I’m going in next… There’s no need for me to fight an entire stampede if I don’t have to. I leave the unnecessary battles to the junkies!”
+
+Abby nods.
+
+“Agreed.”
+
+The monitor laughs.
+
+“You’re up champ, go ahead.”
+
+Bruce jumps through holding his hammer high and the large shield close to his side.
+
+We wait as the rumbling gets louder.
+
+“Next!”
+
+Abby jumps through and disappears into the boss room as well.
+
+The first wave of trolls finally comes into view.
+
+“Next!”
+
+Maria looks me in the eyes, then turns to jump through.
+
+“Let’s hope this boss is actually hard, I want to have some fun…”
+
+She disappears into the swirling mass of energy.
+
+The stampede is less than 100m away now.
+
+I look over to the test monitor and he rolls his eyes.
+
+“I know that look kid, you’re going to leave this mess in my hands.”
+
+I chuckle and throw my hands up in the air raising my sword with a goofy grin.
+
+“Sorry. It’s not my fault.”
+
+He chuckles back.
+
+“I know, Im messing around. It’s fine. I’ll get to see some action. I’m not supposed to kill any monsters while other hunters are around, so it’ll be a nice change of pace.”
+
+He stretches his arms in anticipation as I stare into the swirling portal.
+
+“Go for it, the boss is all yours.”
+
+With a grin, I give him a firm nod goodbye and jump through.

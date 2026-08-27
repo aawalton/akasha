@@ -1,0 +1,463 @@
+---
+id: 324be1f3-c5c8-55a7-818d-a9c158d33ae8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13: Slings and Arrows"
+slug: 0015-chapter-13-slings-and-arrows
+partOf: dungeon-devotee
+position: 15
+ownLength: 7397
+unit: words
+ownProgress: 7397
+publishedAt: 2022-10-01
+link: "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/1006260/chapter-13-slings-and-arrows"
+royalRoadId: "1006260"
+markedReadAt: "2026-06-29T22:39:32.488Z"
+---
+
+Edmund stepped into a room lit partially by a smokeless torch on either side of the entrance, but overwhelmingly by the pale light of day blasting through the doorless doorway opposite him. He squinted as his eyes struggled to adjust to the bright outside and the comparatively gloomy chamber.
+
+The floor and walls were stone, cut and carved rather than the natural formations of a cave. Edmund thought the construction rather resembled that of the prison on the eighth floor, but so much time had passed since then that he couldn’t say for certain.
+
+The space itself stretched no more than a dozen feet across, curiously absent any defining features other than the floor’s entrance and the way out. Edmund immediately recognized it for the staging area it was, a place for delvers to collect themselves before embarking into the floor proper. That wouldn’t stop him from searching its every inch for hidden compartments or passages, but first the doorway demanded his attention.
+
+A symphony of chaos echoed from without. The clanging of blades harmonized with heroic rallying cries dissonantly clashed with the clattering of arrows and the thundering booms of siege magic. The floor quaked beneath Edmund’s feet for a few tense moments in time with that latter. Dust rained from the ceiling above to coat his black hair in a layer of gray.
+
+“You might want to get a move on.” Liam appeared to Edmund’s left, leaning casually against the wall next to the way ahead. Backlit as he was by the false daylight behind him, his features little more than a silhouette. “Who knows how long this tower’ll hold.”
+
+“You know,” Edmund said pointedly.
+
+“I know lots of things,” Liam countered, his grin, while obscured in shadow, apparent in his voice. “Doesn’t mean I’ll share them with you.”
+
+Edmund crossed his arms and planted his feet. “We need to talk.”
+
+“We don’t need to do anything. You should probably get out of this room.” As if to punctuate his point, the siege weaponry rumbled once more, and again the floor shook. A rock the size of Edmund’s head broke away from the ceiling above, crashing loudly to the floor three feet away.
+
+Edmund squinted at him. “Why are you so eager to get me out there? Is there something in here, or are you just dodging the conversation?”
+
+Liam let out an annoyed sigh. “If I didn’t want to talk to you, do you really think I’d be standing here?” He shook his head. “There aren’t any secrets here, if that’s what you’re thinking. C’mon, we’ll talk outside.”
+
+Edmund stayed put, refusing to trust a word out of Liam’s mouth without a direct statement of fact. Thus far there’d been only one. “You didn’t answer the question.”
+
+Liam’s next sigh came out more aggravated than annoyed. “As satisfying as it would be for you to die from a collapsing roof because you were too stubborn to move faster than a snail, I’d rather not be the reason you stick around.”
+
+In that moment, the pocket guide to the dungeon accords seemed to sink, heavy in Edmund’s satchel. A passage came to mind.
+
+Entrance Safety
+
+The area immediately surrounding the entrance on the first ten floors must be safe. The area immediately surrounding the entrance on the first fifty floors must be safe for a predetermined amount of time. The dungeon may make no attempt to convince a delver the area immediately surrounding an entrance is safe when it is not. See accord 24539.03 for further details.
+
+Edmund, of course, had no access to the full text of the accords, but he didn’t need further details to understand the situation.
+
+“You need me to leave,” he realized aloud. “If the roof collapses on me because I’m still here talking to you, that’ll count as you trying to convince me it was safe. You’ll be in violation of the accords.”
+
+Liam blinked. “That’s an… interesting interpretation. I’ve been very clear that this room isn’t safe.”
+
+“That doesn’t matter. You’re here. I’m only still here because I’m talking to you.”
+
+Again the magic boomed and the building rumbled. Liam pushed away from the wall to stand fully upright. “Edmund, it’s time to go.”
+
+Edmund didn’t move. “What happens if you’re found in violation of the accords? The people stop coming? You starve out?”
+
+“That’s certainly a prediction,” Liam said. “But either way, you’d be dead.”
+
+“And so would you.” The words came slowly from Edmund’s mouth, falling heavily upon the air. “And people would stop dying to feed you.”
+
+For once, Liam remained silent. Edmund stayed put. A piece of stone from the floor broke loose, plummeting to a black abyss below. Soon, more would follow. Still they stared at each other, mortal foes in name, yet perhaps growing into something slightly else as time passed.
+
+Or perhaps not.
+
+Edmund was the first to falter. “Why are you here?”
+
+Liam smiled.
+
+“You know the rules better than anyone,” Edmund continued. “You knew what would happen. Thrax, you showed up explicitly to tell me to leave, knowing damn well I’d never listen to you, which means you either know you won’t get in trouble with the accords if I die here, or you’re extremely confident I’m going to leave anyway. If it’s the former, you’re here trying to get me killed. If it’s the latter…” He trailed off as the realization struck. “You wanted me in this position. You wanted to see what I’d do, if I’d be willing to die for the chance to take you with me.”
+
+Liam’s grin grew only wider.
+
+Edmund stepped forward, his lips curling into a snarl. “I think you know I would. There are two types of people down here, those who are willing to die for what they want, and those that are too stupid to realize they might. I’m not stupid.”
+
+The dungeon’s avatar leaned in, looking up at Edmund’s taller form with a level of smugness it couldn’t have managed without stealing that particular face. Edmund had long known that the dungeon had first stolen Liam’s visage to mess with him, but it was only then, looking deeply into the glimmer of mischief in his eyes and the cocky smirk across his face that he truly understood why the Depths had kept it.
+
+Never had there been such a face for inflaming rage in the hearts of men. Even now, knowing its folly, Edmund bit back the urge to knock that grin off his face. That’s what Liam truly wanted, not to trick Edmund to his death or poke a hole in his convictions, but to get a rise out of him.
+
+Edmund cursed. He’d allowed Liam to do the one thing he’d sworn he’d never allow the Depths’ avatar to do.
+
+He’d let Liam distract him.
+
+Edmund leapt for the doorway as the thunder of siege magic set the air abuzz. He landed in a roll. Behind him, a flaming boulder crashed into the stone structure, raining dust and debris and embers in a storm cloud of destruction.
+
+Edmund jumped to his feet. He’d just charged headfirst into Thrax knew what because he’d let Liam distract him from surveying the path ahead. He had to move.
+
+The dust cloud dispersed around him just as his torso peeked up over the parapet to his right. He caught barely a glimpse of the battlefield below before the arrow struck his chest.
+
+Edmund allowed the force of the blow to knock him backwards, buckling his knees to fall to the floor and back behind the cover of the parapet. He yanked the arrow from where it’d stuck in the right side of his breastplate, his crystal cuirass’s major protection against piercing damage keeping it from reaching his flesh. He let out a breath.
+
+It was a siege alright. He hadn’t caught much of the battlefield below, but he’d seen organized rows of slender men and women adorned in greens and browns engaging hulking warriors in black plate that seemed to drink in the sunlight.
+
+Black plate just like the helmet on Edmund’s own head—ebonsteel.
+
+Edmund turned left to look over the inside of the wall, hoping the castle’s defenders wouldn’t consider him an invader. They hadn’t shot at him.
+
+He found some two dozen eight-foot-humanoids in a disorganized cluster, each adorned head to toe in ebonsteel plate, the same plate worn by the boss Edmund had already slain: Warden Urliel, The Crimson Hand.
+
+Edmund furrowed his brow as he parsed the realization. He was in the same castle, or some simulacrum of it, this time under siege. A dozen ways that didn’t matter flashed through his head, defeated, in turn, by the one in which it did.
+
+The Crimson Hand was his by right of title. This floor had to contain either it or some clue as to its location. He only had to find it.
+
+He started with the warriors on his left, wondering, as he confirmed they all wore the same pair of ebonsteel gauntlets, why they’d abandoned the wall. Surely they’d have been more effective raining devastation down upon the attackers from above.
+
+Edmund got his answer when the slightest adjustment in his posture peeked the tip of his helmet over the top of the parapet. Within seconds an arrow skidded off it.
+
+Edmund nodded. The attackers were stronger at range, so the defenders kept off the wall to force the attackers to them. That explanation made sense in a vacuum, but raised a number of concerns of its own. Why weren’t the attackers just launching volleys of arrows over the wall? Why had the defenders built such small, useless parapets? Why wasn’t the wall already swarming with enemies?
+
+Edmund supposed every one of those questions hinged on the assumption this entire siege existed for some reason other than as scenery for the dungeon. The Eternal Depths needed the wall clear of defenders to allow the delver through, so the defenders stayed off the wall. Edmund didn’t particularly like that explanation.
+
+He ultimately decided it didn’t matter. Maybe the parapets were too small for the bulky defenders because they hadn’t been the ones to build the castle. Maybe they had some defense against ranged attacks shot past the wall. Maybe the attackers weren’t climbing the wall because…
+
+Edmund’s train of thought came to an abrupt end as the top of a siege ladder clinked against the stone some twenty yards ahead. He got his first good look at the attackers as they seemed to glide up it.
+
+They stood tall, not quite as tall as the monstrous defenders, but certainly taller than Edmund. They wore plate armor crafted of what looked like polished wood woven seamlessly with an earthen green metal Edmund didn’t recognize. They wielded all manner of melee weapons, from swords to knives to maces and clubs, but to a man they wore longbows strapped to their backs. Most distinctively, long, pointed ears protruded from four holes upon the tops of their helmets.
+
+Edmund recognized elves when he saw them.
+
+He didn’t see them for long.
+
+The moment the first of the elvish assaulters placed a foot over the parapet, a veritable wave of inky black tendrils rocketed from the gauntleted hands of the defenders. They struck at once, sending first their target flying off the wall, then the ladder falling back. Edmund peeked over the parapet to watch both plummet to the battlefield, where the first elf struck lay still and those on the ladder walked away unharmed, somehow surviving the fall. He didn’t get a chance to watch them retreat before another arrow homed in on his helmet, and he had to duck behind the parapet once more.
+
+Edmund swallowed, his mind constructing a more complete picture of the floor as a whole.
+
+The main challenge seemed simple enough—dodge the arrows and the tendrils and the siege magic to cross from one side of the wall to the other. He could already see the tower that would no doubt contain the floor’s exit. He figured he’d probably have to fight off some of the attackers at some point, but the deluge of ranged attacks meant the melee combat would probably skew to the easier side, at least before his challenger’s mark factored in.
+
+Clearing the floor would be one thing, challenging, sure, yet simple enough, but Edmund had a second goal.
+
+If the defenders had nothing on the Crimson Hand, that meant the attackers did.
+
+It made sense, in Edmund’s mind, that the elves would have it. Urliel hadn’t, and it seemed more likely his enemies had stolen it from him than his allies. Whether it was here on this particular battlefield remained to be seen, but Edmund could only assume the similarities to the eighth floor meant there was at least a clue here somewhere.
+
+The low bass of rumbling siege magic shook the air once more, and Edmund risked a look over the parapet to watch its source. It came from a wooden device, one constructed not of planks and nails, but of branches and roots. A long arm spun in a circle, swinging around faster and faster as its rumble grew. At last with a boom the canvas cloth on one end released, and a flaming boulder slung through the air.
+
+It hit the wall some dozen yards ahead of Edmund, carving a semicircular chunk some thirty feet wide and as many deep in the top of the structure. The gap was yet too high for the elves to clamber through, but it would pose an obstacle to Edmund’s crossing.
+
+The deep hum returned as another sling readied its payload. The longer he waited, the harder this would get.
+
+Edmund had to move.
+
+He kept low at first, crawling hastily along the top of the wall, his right side hugging the parapet. Twice did arrows graze him as he moved, but on all fours and with his head down, only his back ever found itself exposed. His blooddrinker’s crystal cuirass held up brilliantly.
+
+He first came to a stop not because his sharp ears noticed something over the din of the battle around him, nor because he caught a glimpse of the oncoming threat through the corner of his eye, but because a particular spot on his upper arm began to tingle.
+
+His challenger’s mark had activated.
+
+Edmund stopped short and pushed himself back onto his knees, swinging his spear up with the movement. An arrow whizzed by, but he paid it little heed. He had bigger problems.
+
+As he sat upright, something hard and fast clanged into the shaft of his spear, deflecting off the segmented weapon and failing to find Edmund’s head.
+
+He had his opening.
+
+In the same motion, he leapt to his feet, swung the tip of his spear for the elf that’d struck at him, and summoned a Smoke Lash to his right hand. As the elf parried his blow, Edmund got a look at his challenger’s mark’s work.
+
+Two extra arms sprouted from the top of the elf’s shoulders, one bearing a shield and the other a mace. In conjunction with the sword and shield pair the elf’s normal arms carried, the thing bore at once twice the threat and twice the defense. Edmund didn’t let that distract him.
+
+Keeping his spear raised with his left hand, he swung his right in a swift arc, cracking the whip of his Smoke Lash against the tip of the siege ladder. His blow knocked the ladder back, sending its occupants plummeting to the battlefield below. Edmund didn’t get a chance to watch them fall.
+
+He dove left, deflecting a backhand swipe with his spear and dodging an overhead strike at the same time. He backpedaled, hoping to build some distance between him and the remaining elf.
+
+The castle’s defenders did nothing, holding back their dark magic for a reason unbeknownst to Edmund. Either they didn’t want to hit him—someone who’d just knocked a siege ladder off—or the dungeon didn’t let them take out Edmund’s opponents for him. Edmund hoped it was the former. If it was, he just needed to build enough distance between him and the elf and the defenders would take care of the rest.
+
+He made it three steps away before realizing the fault in his plan.
+
+Well before a single defender raised an ebonsteel gauntlet to come to his aid, an arrow slammed into Edmund’s right arm, bouncing off his serpentinite rerebrace. Edmund didn’t manage to think a single thought in appreciation for his collection of piercing-resistant gear before another arrow struck his forearm, penetrating his shadowhide vambrace, skin, muscle, skin, and vambrace again on the other side. His right hand went slack as pain shot up his arm.
+
+It seemed he’d found the difference between major protection and regular protection.
+
+Edmund ceased his retreat, allowing the four-armed elf back into striking range for the relative safety his proximity offered. The arrows ceased. Edmund dropped his spear, letting it clatter to the ground as he drew his short sword with his left hand. With his right hand injured, he wouldn’t be able to wield his spear effectively even if he could afford to maintain distance.
+
+He fell into a left-handed stance, pulling his weak right side back and away from his foe as he looked up to meet the elf’s gaze. Black irises stared through the brown and green helmet.
+
+The elf moved first, sharp and brutal and lethally quick. It swung its mace in a wide, sweeping arc in the same moment as it swept its sword for Edmund’s midsection. With no way to parry both of the blows, Edmund had no choice but to step back. The elf followed.
+
+Again and again the elf struck out, again and again forcing Edmund to move back. He kept his strides short and controlled, carefully dodging each attack without allowing himself to leave the elf’s range entirely. He couldn’t afford an arrow through the gaps in his armor. Already the one wound he had had begun to bleed dangerously much.
+
+Further and further the elf forced him back, putting Edmund on a tight clock to come up with an idea before he ran out of wall along which to retreat. The elf’s shields concerned him. He knew he could reasonably slip past the warrior’s weapons, even if it meant taking a hit in the process, and slipping a blow past a shield seemed feasible enough, but the damn elf had two of them. Maybe if Edmund had a second weapon, he could maneuver around one shield and distract the other with his sword while he went in for the killing blow, but without his right arm he couldn’t—
+
+Edmund flexed the muscles in his right hand. His fingers refused to join. A fresh wave of blood gushed from his wound, Perseverance unable to heal it while the arrow remained inside. He grimaced.
+
+Magma Fissure came to mind as a last ditch option to get past the elf’s guard, but he’d already seen the elves survive a fall from the top of the wall. They were nimble enough not to step into his magma.
+
+The elf swiped at him once more, and Edmund found his back foot placed awkwardly atop the rubble of the fallen tower where once had stood the floor’s entrance. He was out of time.
+
+On instinct more than any real semblance of a plan, Edmund darted in. He ducked his head right as he charged, the overhead swing of the elf’s mace deflecting harmlessly down his left rerebrace. The attacker’s sword sliced sharply across his chest plate, carving a gash in the crystal but failing to reach skin.
+
+Edmund had his opening.
+
+He brought his sword up and around in a backhand swing, forcing the elf to bring its upper shield to bear. Thinking Edmund out of threats and with both its weapons out of place from their failed attacks, the elf brought its lower shield up, slamming its edge into Edmund’s face.
+
+His helmet crumpled under the blunt force of the shield, biting hard into Edmund’s jaw with a sickening crunch. Agony flared up as bone broke and blood spilled, but Edmund didn’t care. His plan had worked.
+
+He swept his wounded right arm up under the opening in the elf’s guard, bringing the tip of the arrow that protruded from it right to the gap between his helmet and cuirass. Without a breath of air or a wince at the pain it cost, Edmund brought his attack to its completion.
+
+He activated Rend.
+
+The elf’s head parted from his shoulders.
+
+Both Edmund and the elf collapsed behind the parapet as once, one dead, the other victorious. At the moment, Edmund didn’t feel particularly victorious. He started by yanking the arrow from his arm, pulling from the head to drag the fletching through the wound rather than face the barbed tip. It hurt like hell, but he’d grown accustomed to doing what had to be done.
+
+His helmet was worse. Caved in as the ebonsteel was, he first had to pry the metal away from his broken jaw before he could remove the damaged helm. The strength of his Obsession made the task possible, but not easy. Nothing could ever be easy.
+
+At first he thought to slip the helmet into his satchel until he could find the time to properly repair it, but Edmund knew he needed it now more than ever. Leaving his head exposed to the deluge of arrows from the elves would be suicide.
+
+As Perseverance patched him up, Edmund got to work on the dented ebonsteel. He placed it against the stone floor and reached his left hand through the neck hole, pounding the metal with the side of his fist. It didn’t have to be perfect—it’d likely never be without a proper craftsman taking a look at it—but he needed it on his head.
+
+It didn’t sit comfortably. It pressed painfully against his still-swollen jaw as he slid the helm back over his head. It would have to do.
+
+With a few flexes of his right hand to confirm he’d regained his use of the limb, Edmund sheathed his sword, picked up his fallen spear, and set his sights on the path ahead.
+
+While he’d fought and recovered, two more blasts from the siege slings had struck the wall, carving yet more gaps into his walkway. Luckily, none of the ladders had landed near him, and the defenders had managed to contain the flow of elves onto the wall, at least for the time being.
+
+Edmund had two worries. The first was for the wall itself—if it took enough hits, his path to the exit might close to him. The second, more pressing yet perhaps less concerning, was for the tower itself. He wondered if the structure around the exit could collapse as that around the entrance had. If so, every moment he spent on this floor bore the risk of trapping him there, at least until he could dig through the rubble to find the exit. Edmund doubted the accords would allow for that, but his pocket guide didn’t contain enough detail on exit availability to say for sure.
+
+So off he set.
+
+He continued at the crawl with which he’d begun, trading speed for the cover of the parapets. He kept a careful eye for siege ladders as he progressed, refusing to trust his ears in the chaotic din of the battle below. Twice did wooden beams collide with the top of the wall, and twice Edmund knocked them loose before a single elf could climb over. If he could avoid fighting any more of those four-armed monstrosities, he would.
+
+The first gap in the wall presented a problem. The siege ladders seemed to be avoiding it for some reason, but the lack of parapet would leave Edmund exposed to the elvish arrows as he crossed. He ruled out climbing down and back up the U-shaped gap right away. It’d be too slow, too exposed. He’d have to jump.
+
+Of course, for most human beings, jumping a thirty-foot-gap while an army of elves shot arrows at you would’ve been impossible. It was a good thing, then, that Edmund was not most human beings.
+
+He gave himself five feet of run-up, enough space to build up speed without over-exposing himself. He took a breath, in and out.
+
+Edmund ran.
+
+He made it two steps before the arrows started, most bouncing off or planting themselves harmlessly within his crystal cuirass. One skimmed his right forearm, slicing a shallow gash in his vambrace and the skin below it. Another embedded itself in his rerebrace, taking a chunk of the stone with it. Two more slammed into his rockjaw pauldron, burrowing deep but aimed too high to find flesh.
+
+Edmund jumped, the force of his legs carrying him high over the gap in the wall. At the peak of his arc, he willed the air beneath his foot to solidify, expending his windstep to elongate his leap.
+
+He landed in a slide on the far side, skidding along the stone on his back as he slipped behind the parapet’s cover once more. He took a few breaths, planted his feet to allow his windstep to recharge, and pulled free the dozen arrows that’d planted themselves in his armor. He didn’t wait for his limited wounds to heal.
+
+Edmund progressed slowly along the wall, alternating between crawling and leaping as the terrain required. He picked up a few minor injuries in his various leaps across the damaged sections, but nothing his Perseverance couldn’t handle. Mostly, he worried about his shadowhide vambraces, both of which had already neared the end of their lifespan before he’d even entered this floor. His right vambrace in particular seemed no more than another arrow or two away from falling off completely.
+
+Still he crawled. Still he leapt. Still he knocked the siege ladders free. The flaming boulders left him be for the most part, seemingly focusing their fire on the sections they’d already hit. As long as he didn’t attempt a crossing with the hum of siege magic in the air, they weren’t a threat, at least until they breached the wall entirely. Thrax knew what would happen then.
+
+Edmund’s fourth and final great leap sent him stumbling into the tower on the far side, safe, at last, from the elven onslaught. A chime rang out as his eyes adjusted to the darker space, and a golden chest arose from the floor next to an open passage absolutely dripping with the darkness between levels. Edmund took a moment to remove the last of the arrows sticking out of him before making for the chest.
+
+Ironwood Shield
+
+Provides major protection against all damage types.
+
+Edmund blinked away the letters of smoke as he pulled the three-foot-wide circular shield from the chest. It was made of the same polished wood as the elven armor, including a pointed dome at the center crafted of the same green metal. Edmund didn’t have a name for it, though he was certain one existed.
+
+It wasn’t the first piece of gear he’d seen without weaknesses—that title went to his rerebraces—but it was the first that worked against all damage types. Given its wooden nature he would’ve thought it weak to fire or rot as his barkbreeches had been, but the elven craftsmanship apparently resisted both. He wondered if that was a fact of ironwood or an added boon thanks to his challenger’s mark.
+
+Edmund didn’t hesitate to strap it to his arm.
+
+His loot collected, Edmund shut his eyes and brought up his constellation, focusing in on the two Aspects he’d already decided on combining. With a thought they merged, and Madness and War joined together into something new.
+
+Tier 2 Aspect: Fervor - Gold+ Resonance
+
+Level 1 - Empowers the effects of Madness and War for each consecutive second spent in battle.
+
+Edmund felt his mood improve as he spotted the specs of prismatic light glimmering within the golden star of his newest Aspect. It was exactly as he’d hoped.
+
+The scholar he’d spoken with on the tenth floor had given him a list of common confluences with Madness, of which Fervor had been his first aim. He deeply appreciated a skill that made him more powerful as battle went on, hopefully helping to counteract the weakening effects of mana and stamina loss. Better still, any Aspect that made his Madness more powerful would always be an efficient choice, if only because Edmund’s Madness was already more powerful than any other Aspect had a right to be.
+
+He nodded and blinked his constellation away, happy with his selection.
+
+Edmund paused for a moment in the tight quarters of the tower, letting his thoughts drift as he decided his next course of action. The exit beckoned to him, but even though he felt happy with the rewards he’d earned, he didn’t feel satisfied. Something remained, something important. There was no way the dungeon had given him a floor to match the eighth floor without some way to progress on his quest for the Dread Gauntlet of Koa’Ilinesh—his by right according to his title. Since the defenders hadn’t had it, that left a single option.
+
+Edmund slammed the butt of his spear into the wall, chipping away at the mortar between the stones until a peephole came to be. He pressed his eye to it to survey the elves below.
+
+They poured in from a set of portals in the far wall, the first real reminder that this all occurred within the confines of a dungeon. From there, the majority of them pressed forward to assault the castle, but some hung back to defend a single elf that stood taller than the rest. As Edmund squinted, Madness gave him a name.
+
+Commander Liaol
+
+His name shone angrily red and bore the ethereal crown of a rare boss, though was notably absent both the skull of a titled enemy and the crossed swords of the challenger’s mark. Edmund decided then and there he had no intention of activating that latter.
+
+Liaol wielded a massive double-edged axe with his left hand, while his right remained strangely vacant. Just as Edmund began to wonder why, one of the portals began to flicker, and Liaol lurched forward to wrap his empty hand around the neck of the elf in front of him. In a matter of moments all semblance of life drained away from the poor foot soldier flowing first into Liaol, and then into the portal. As the commander released his grip and the dead elf slumped to the ground, Edmund thought he saw a flash of red upon his middle finger. He let out a breath as he realized what he had to do.
+
+By some amalgamation of providence, luck, and Liam meddling with things, the siege slings roared to life once more, and a barrage of magically-launched boulders rained down upon the wall. Edmund held on to the doorframe at the tower’s edge, ready to dive to safety should the ceiling collapse upon him, but the chamber held fast.
+
+The wall didn’t.
+
+In two spots along its great length, the boulders managed to deepen the preexisting gaps enough to allow free passage through them. The defenders didn’t wait for the elves to come.
+
+Black-armored behemoths poured into the field, bringing their swords and axes and great maces to bear along with their dark tendrils against the elven army. The attackers surged forth to meet them, vastly outnumbering their bulky foes yet failing to overcome them.
+
+For the first several moments, Edmund watched it all unfold. He watched as the giants cut down huge swaths of elves only for yet more to spill from the portals and charge directly into battle. Commander Liaol hastened his work, draining the lifeblood from more and more of his own men to fuel his seemingly endless supply of reinforcements.
+
+In the chaos, Edmund saw his opportunity.
+
+He dashed from the tower, unhindered by elven arrows now that their archers had bigger worries. He skidded to a halt at the first gap he reached, one that hadn’t managed to deepen enough to allow passage. It was exactly what Edmund needed.
+
+Ignored, thus far, by both sides, he scampered down the sloped gap, balancing celerity with the need to test every handhold for stability. When he reached the base of the gap, he allowed himself to fall the remaining few yards, landing confidently on his feet.
+
+Edmund raised his shield, and he ran.
+
+He deflected the various strikes as they came, blocking arrows, sliding under backhands, knocking swords offtrack, but not once did Edmund employ an attack of his own. He needed his foes to keep their focus on each other, and as long as he didn’t draw attention or present too easy a target, that’s exactly what they did.
+
+His shoulder practically burned with activity as he ran, spare arms sprouting from each elf and unnatural shadows falling off of each defender he passed. The extra arms didn’t help the former survive the latter, not when faced with a dozen ethereal limbs that whipped and choked and grasped. Bit by bit, the elves lost ground. Bit by bit, the commander grew more frenzied in his sacrifices. Bit by bit, the area around the portals grew more chaotic, more barren.
+
+Edmund made right for it.
+
+He struck with a Smoke Lash first, his own ethereal whip cracking hard against Liaol’s right forearm. The elf commander didn’t recoil. He didn’t retaliate. He didn’t even look away from his sacrifice.
+
+Edmund would punish him for that mistake.
+
+He darted in, stepping over a pile of unnaturally desiccated corpses, ducking under the thrust of a spear, leaping past the deadly wake of one of the giant defenders. It was only once Edmund planted the tip of his spear in the commander's arm that Liaol finally turned away from his work.
+
+By then it was too late.
+
+Edmund cast Rend the moment his spear touched the weak spot in Liaol’s armor at the elbow. The limb fell clean off.
+
+The elvish commander bellowed in agony and rage as his arm fell mid sacrifice.
+
+Edmund was ready for the retaliatory strike. He wasn’t ready for it to happen so fast.
+
+Liaol surged forward, all semblance of pain gone from his face as he bore down upon the pitiful weakling that had dared strike him.
+
+Unable to fully dodge, Edmund caught the great axe on his shield, fully expecting the weight of the blow to send him stumbling backwards. It didn’t.
+
+The axe’s edge struck squarely on the shield’s center, clanging loudly against the metal dome. It didn’t bounce off. It didn’t skid to the side.
+
+It bit through, digging terrible inches into the green metal even as Edmund frantically backpedaled to escape the commander’s attack. A hideous snap resounded through the air as fresh agony flowed up his arm.
+
+At last the axe came to a halt, an inch short of cleaving straight through Edmund’s shield. He yanked at it with all his might, broken arm protesting angrily as he tugged at the shield’s straps. It refused to separate itself from Lioal’s axe.
+
+Then came Lioal’s turn to pull.
+
+The four-eared elven commander pulled at the axe but once, and even stuck as it was in Edmund’s shield, it moved where he willed it. It just brought Edmund along for the ride.
+
+A scream came unbidden from Edmund’s lips as both sides of his broken arm yanked him into the air, flying wildly up and around Lioal’s lithe frame. He didn’t let it distract him for long.
+
+The Smoke Lash had already begun to coil around Edmund’s uninjured right arm as he’d left the ground. Midair it began its arc, lashing once around Liaol’s neck before whipping tightly around itself. Edmund tugged once more through the agony of his broken arm, this time not against his shield, but parallel with it. His left arm slipped free of the leather straps with a sickeningly liquid sound.
+
+With his right hand, Edmund tugged.
+
+The tension of his Smoke Lash sent him away from Liaol’s axe and spinning wildly around the tall commander. He landed hard on the chewed-up earth behind his foe, stepping twice upon the soft mud before leaping once more.
+
+This time, directly for Liaol’s exposed back.
+
+With his axe too far out of position to bring to bear, Liaol instinctively moved to whirl around and meet Edmund’s pounce with the magic he had at his disposal, but instead of an open palm and the business end of whatever dark magic he’d once wielded, the commander presented only a stump, dripping with blood where Edmund had rent it.
+
+Edmund’s spear slipped right through the left eyehole in Liaol’s helmet.
+
+Edmund and Liaol hit the ground together, the former landing atop the latter’s twitching corpse. Edmund rolled forward, pulling free his spear in the motion, before rising to his feet.
+
+The elves still fought on, oblivious to their commander’s death. The flickering portals would put an end to that soon enough. For the time being, both sides of this war seemed content to leave Edmund alone as they focused on killing each other, though Edmund wanted to be well clear by the time the elvish reinforcements dried up. He had no hope of surviving the concerted efforts of the blackclad defenders.
+
+He ran first to his shield, finding it gleefully free now that the dungeon had reclaimed Liaol’s axe. For a moment he feared it’d also reclaimed his prize, until he noticed a pile of corpses shifting unnaturally. Gold glimmered beneath them.
+
+Edmund darted over, knocking the dead elves away to reveal the loot chest beneath. Inside he found a single finger’s worth of plate armor, shining red as blood in the false sunlight.
+
+Finger of The Crimson Hand
+
+The first of three minor pieces broken away from the Dread Gauntlet of Kor’Ilinesh and meted out as rewards by the Elven Queen Cyritha. Belongs to Edmund Montgomery Ahab. Provides major protection against all damage types. Can be used to drain the life force from a target in direct contact to replenish the wearer’s health, stamina, or mana.
+
+Joy and disappointment clashed in Edmund’s mind as he slipped the piece over his middle finger—the only one it fit. He’d hoped for more than just a minor piece of the gauntlet, though even this single finger practically oozed with power. It’d been how Liaol’d paid for the portals, a magic that seemed to Edmund’s uneducated mind to be outrageously expensive. If he could drain that kind of power from his enemies, he’d be a force to be reckoned with. Having a way to replenish his physical and mental energy mid-fight was worth it on its own, even without the healing effects or protection against all damage.
+
+Edmund could only imagine how powerful the full gauntlet would be.
+
+With a quick glance to confirm he’d fully emptied the gold chest, Edmund set his sights on the one tower that still stood, and took off at a run.
+
+The elves, growing increasingly chaotic with the death of their leader, left him be entirely. He couldn’t say the same for the keep’s defenders.
+
+Emboldened by the portals’ fall, the ebonsteel-clad behemoths waded further into the fray, lashing out with their swords and their magic at anything in their way. Edmund gave them as wide a berth as he could manage, but that didn’t stop the odd blade or dark tendril from cutting scores into his cuirass or ricocheting off his shield. Still he ran, refusing to further engage. It was only a matter of time before the elves routed completely, and Edmund needed to get back on the wall before that happened.
+
+He scrambled up the rubble at the structure’s base one-handed and at a reckless pace, fleeing both the battle and the attention of the defenders with every ounce of speed he could muster. A loose rock tumbled from the pile and Edmund’s ankle rolled. He caught himself on his palm, his bare skin remaining unhurt thanks to his oldest remaining piece of loot—his barkskin ring.
+
+Edmund leapt without even looking, knowing he could build enough height to make it back up into gap from which he’d descended. At the peak of his jump he used his windstep for a further burst of height, stretching his arm as far above his head as he could reach, and then yet further still. Up and up he reached, his heart sinking as he found only sheer wall.
+
+Until he didn’t.
+
+A sharp angle found his fingers, and they curled over it without hesitation. It wasn’t until Edmund began to pull himself up that he realized he’d been a few inches short.
+
+A ledge of smoke extruded from the stone, ethereal and gray yet at once solid.
+
+Edmund tugged on it with all his might, and it held fast, as real to him as the very stone on which it sat. With its aid he dragged himself up and over the ledge, into the trough of the gap in the damaged wall. He didn’t stop to breathe.
+
+Unwilling to wait any further for the battle to end and the defenders to hunt him, Edmund scrambled back up the wall, taking full advantage of the handholds he knew to be stable from his prior descent. At the top he didn’t wait. He didn’t pause behind the parapet. He didn’t gaze over the battlefield to survey the wreckage. He didn’t rest.
+
+He set his sights on the still-standing tower, on the open doorway within, and ran for it.
+
+Without looking back, without waiting for another arrow to plant itself in him or another opportunity to risk his life for questionable reasons, Edmund reached the floor’s exit and stepped into the darkness.
+
+Edmund Montgomery Ahab, The Crimson Hand
+
+Aspects Unlocked: 14
+
+Tier 1 Aspect: War - Gray+ Resonance
+
+Level 2 - Provides a severely limited increase to all damage dealt. Provides a severely limited decrease to all damage taken.
+
+Tier 1 Aspect: Elements - Gray Resonance
+
+Level 5 - Provides access to the Firebolt spell.
+
+Tier 1 Aspect: Solitude - Red Resonance
+
+Level 6 - Gain increased constitution while fighting alone.
+
+Tier 1 Aspect: Perseverance - Gray Resonance
+
+Level 6 - Gain health regeneration.
+
+Tier 1 Aspect: Madness - Prismatic Resonance
+
+Level 9 - See beyond reality. Touch the unreal.
+
+Tier 2 Aspect: Fervor - Gold+ Resonance
+
+Level 1 - Empowers the effects of Madness and War for each consecutive second spent in battle.Tier 2 Aspect: Sorcery - Gold Resonance
+
+Level 1 - Provides access to the Smoke Lash spell.
+
+Tier 2 Aspect: Obsession - Gold Resonance
+
+Level 2 - Gain strength and agility for each consecutive day spent pursuing your obsession. Gain mana for each consecutive month spent pursuing  your obsession.
+
+Tier 2 Aspect: The Recluse - Gold Resonance
+
+Level 2 - Empower the effects of Madness while alone. Lessen the effects of Madness while accompanied.
+
+Tier 2 Aspect: The Island - Gray Resonance
+
+Level 3 - Grants resistance to over-time effects while in groups of two or fewer.
+
+Tier 3 Aspect: Focus - Silver Resonance
+
+Level 1 - Doubles spell damage when attacking a single target.
+
+Tier 3 Aspect: The Philosopher - Silver+ Resonance
+
+Level 1 - Ponder the nature of reality.
+
+Tier 3 Aspect: The Rift - Gold Resonance
+
+Level 2 - Provides access to the Rend active ability.
+
+Tier 4 Aspect: The Fissure - Silver Resonance
+
+Level 1 - Provides access to the Magma Fissure spell.
+
+Delver’s Mark of the Challenger
+
+Empowers nearby dungeon monsters. Significantly increases the value of loot chests you open. Slightly increases the resonance of Aspects you unlock.
+
+The Crimson Hand
+
+Grants minor resistance to piercing damage. Bestows ownership of the Dread Gauntlet of Kor’Ilinesh.
+
+Trailblazer’s Sigil of the Azure Apprentice
+
+The third step on the Path of the Azure Fox. Increases agility. Grants a single windstep. Increases positional awareness.
+
+Trailblazer bonus: Sharpens hearing.
+
+Trailblazer’s Sigil of the Rootmother
+
+Non-intelligent Strethian lifeforms will treat you as an ally. Gain the ability to draw water and nutrients from fertile soil.
+
+Trailblazer bonus: draw water and nutrients from all soil.
+
+Cloudkith Sigil
+
+Cloud-based lifeforms will treat you as an ally. Gain enhanced perception through vision-reducing effects.

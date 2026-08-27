@@ -1,0 +1,199 @@
+---
+id: 2bbdce83-c22c-56b0-9d83-12e55e27d796
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6"
+slug: 0006-chapter-6
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 6
+ownLength: 2443
+unit: words
+ownProgress: 2443
+publishedAt: 2023-02-05
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1106378/chapter-6"
+royalRoadId: "1106378"
+markedReadAt: "2026-06-29T20:31:59.492Z"
+---
+
+I walk through the front door of the Hunters Association to be greeted again with that same blinding white smile of the woman in the lobby.
+
+"Hello Jay, welcome back so soon! What can I do for you today?"
+
+I was a bit flustered with the abrupt greeting. How'd she remember my name?? I guess that's what she's paid to do...
+
+"U-uhh I'd uh. I'd like to report a dungeon incident that happened to my team and me yesterday."
+
+With no change in expression the woman nodded.
+
+"Sure thing, right this way."
+
+She walked me further back into the building this time It looks like we'll be in a private room. A few moments later after walking down a rather narrow hallway she opened a door on the left and motioned for me to enter. I took a step inside.
+
+"Please wait one moment, I have to grab a representative. We will be right with you."
+
+"O-Okay sure. I'll wait, take your time."
+
+I walked into the small room. It had soft white walls, not too futuristic to the point where it would be ominous. There were two half oval beige couches in the center of the room surrounding a small rectangular table. I sat down in the middle of the couch on my left side and patiently waited.
+
+About 3 minutes later two figures showed up at the door. There was a tall man at least 190cm with a tan olive color skin tone. He had short black hair that he managed to gel up a little bit. He wore a black suit, with a white undershirt, no tie, and rather shiny black shoes. He pushed his thin framed black glasses up to his eyes and greeted me with a weak smile.
+
+His partner was a small woman, no more than 150cm tall with a cool white skin tone. She had bright green hair and green eyes to match it. The hair was very thick and wavy. It was put up in two ponytails that made right angles basically shooting straight off either side of her head. It must be the contrast from the white walls, or just the unique shape... but her hair was like nothing I'd ever seen. It really caught me off guard. She was wearing a small black suit and white undershirt as well to match the man, but it looked a little silly on her. The man opened his mouth to speak.
+
+"Welcome to the Hunters Association Jay, E Class Hunter. My name is Mr. Raynard, and this is my partner Ms. Sotoro."
+
+She immediately interjected.
+
+"You can call me Abby, it's short for Abigail. Abigail Sotoro, nice to meet you."
+
+She smiled wide, closed her eyes and bobbed her head back and forth and swung her legs a bit hitting the couch a few times until the man spoke again.
+
+"We are D Class Hunters, representatives at the Hunters Association to file a report you've requested. Please explain to us what happened."
+
+He looked at me with a bored look on his face and took out a notepad with a pen. Abby just sat there staring at me bobbing her head a little.
+
+"O-oh uh yes I..."
+
+I nervously retold the entire story as well as I could remember. I intentionally left out the part about my skill. I just hope they don't end up asking about my skills in the end because I didn't mention using anything but those explosive charges... plus I walked in here with a huge sword on my back.
+
+The man's expression did not change at all as he noted everything he could on his pad. The woman was a bit more serious now, and looked up at her partner and back at me a few times.
+
+It was silent in the room aside from a few pen straches and Abby's feet hitting the bottom of the couch every once and a while with the erratic swinging of the legs.
+
+My mind raced a bit, just going over everything that happened in the last 5 minutes then I got stuck to one sentence the man said when he entered the room. "We're D Class Hunters". They must be really strong...
+
+The class system works in a pretty interesting way.
+
+There are 5 main hunter classes:
+
+The first is E Class. The class I'm currently a part of. When you're first awakened you are assigned an "E Class" rating. You're stronger than the average human, but still weak if the eyes of top class monsters and hunters alike. The first stage of E Class is making it past level 20, once you do that you're a "real" E Class hunter because you're able to take on the weakest bosses with a team. Even if you're not going to pursue a career in hunting and go the corporate route... (which over 50% of people do) It's still recommended to get a few months in the field while studying or working to get to that level 20 status.
+
+Then once you're a "real" E Class hunter there's a few routes you can take. The first is just farming low level monsters and bosses to make a living. It's basically the same pay and work load of a regular construction job once you get to a certain skill level.
+
+The second route you can take is joining a guild or the hunters association itself(the government, basically a huge guild). Around level 20-30 guild scouts start looking to recruit hunters with promising talent. Guilds find up and coming hunters and build teams to raid higher level dungeons. They will usually pay you a monthly wage and supply you with basic gear. All mana and unique drops are property of the guild that sends you out on the mission, unless you've made a special contract. Most Hunter's goal is to be recruited by a top guild, its stable pay and a more reliable way to slowly level up over time.
+
+The last path to take, is to build your own party, or dive into dungeons solo. This is the high risk high reward route. You get to choose your own hours, keep your own drops, and challenge which ever dungeons you please. It's much more dangerous without a guilds "professional" guidance, but some hunters always choose this route.
+
+The first step between an E Class Hunter and a D Class Hunter is a pretty big one. To get your Hunters License Renewed to a D Class certification your level must surpass 100. There are no other requirements, you just have to reach level 100.
+
+In the first 5 years of a hunters career, about 10% of them make it to level 100. Most quit to work a corporate job, stay at the lower difficulty E Class Starter Dungeon, or get killed trying to push their limits too fast.
+
+Making it to a D Class Ranking is a pretty big deal, but not too uncommon for senior hunters to achieve. It just takes time and patience. If you can achieve a D Class Status before the age of 25, most of the bigger guilds will try to recruit you without hesitation. It's every beginner Hunter's ultimate goal.
+
+It's also a big deal to achieve this rank because in front of all D Class or higher dungeons there is a Hunters Association run gate. You are forbidden to enter, it is highly illegal to enter a gate over your rating. You will be fined heavily or potentially imprisoned depending on the event. It sounds harsh at first, but it's really just for the safety of the lower class hunters. Rules and regulations are usually made for a good reason.
+
+The next class is "C Class". Every 4 months the Hunters Association holds a C Class advancement test. The requirement to enter is level 250. The hunters are put through a series of tests to make sure they are ready for C Class rated combat in the field. This is mostly for senior hunters that have been working in guilds for decades, but there are always a few prodigies that enter every year. They make the news paper. Up and coming C Class Hunters are very exciting to follow.
+
+There are basically two types of C Class hunters. The first kind is the retired C Class hunters. These are older men and women who have made their fortune diving into dungeons and decide to build companies with their riches and connections, or just buy a home out in the middle of no where and no one hears of them again. The second type are the active C Class Hunters. A counties Military power relies fully on how many C Class and above hunters they can produce every year. Although there hasn't been a war in over 50 years, countries still like to flex on each other and boast military power.
+
+C Class hunters will be sent on special missions and often raid unique dungeons for their guilds and home country. They are usually paid a salary, but basically all C Class hunters have special contracts so it's hard to know. C Class is pretty much the pinnacle of a hunters dream career.
+
+Once a year the Hunters Association hosts a B Class Advancement Exam. It is pretty secretive, not many people know what goes on at that exam. All the public knows is that the minimum level to enter is 500. Only a few dozen people in the country challenge that exam every year. Mostly very old senior hunters and prodigies that have dared make it to that level. One in a million hunters ever make it to the B Class rating. It's a dream within a dream for most.
+
+The Hunters Association has 90% of B Class hunters in special contracts with the government. They're rarely seen out, usually raiding special high class dungeons for the government to collect resources. The remaining 10% are either retired company owners or run some of the private big guilds. The life of a B Class Hunter is a mystery to most.
+
+Lastly A Class Hunters. There is no exam to reach A Class. In the 80 year history of the dungeons in our world there have been under 100 reported A Class Hunters. About 40 of them are alive today. Split between 78 Nations, you're a huge military power if your country even posses 1. The country I live in posses 4 A Class Hunters. We have a large population, and we are said to be in the "Great 10 Military Powers". Which is a nickname given to any country that has over 2 A Class Hunters.
+
+The only "requirement" to become an A Class Hunter is to surpass level 1000.
+
+They are all like real life super heros to the world. Many comics and books are written about them. Everyone follows them in the daily paper. Every young kid's dream is to meet an A Class hunter once in their life, it's like meeting a mega celebrity.
+
+50 years ago, after the Great War there was said to be rumors of "S Class" Hunters. There are no records of any individuals with this rank even to this day, but people like to dream. In the Hunters Association Archives a Rating for "S Class" is available for Hunters that reach level 10000. Most people brush it off as rumors, and some write fiction stories about "S Class Heros"....
+
+"HELLLOOOOO??"
+
+"....."
+
+"HEEEEEELLLLLOOOOOO????"
+
+I saw Abby's wide green eyes less than a meter away from my face waving her hand in front of my face while leaning over the table.
+
+"S-Sorry, it's a bad habit. I tend to day dream in the worst situations."
+
+She giggled.
+
+"Hehehe"
+
+The man stood up.
+
+"Well thank you for your time Jay, we will report this to the association. Accidents happen in the dungeons, there's nothing we can do right now but take your word on the matter and let time take its course."
+
+"Yes sir, thank you for listening."
+
+He walks to the door but hesitates for a moment and turns back.
+
+"May I see your status window? We may need to report this as well. Better to have as much information on the matter as possible."
+
+I nervously open up my status.
+
+"S-Sure."
+
+[Status Open]_____________________Name: Jay Soju
+
+Level: 26
+
+Hp: 135/135
+
+Mp: 135/135
+
+Strength: 67 [+50]
+
+Speed: 75
+
+Agility: 80
+
+Defense: 62
+
+Mental Strength: 68
+
+Skills:
+
+AbsorptionSwordsmanship
+
+Items Equipped:
+
+Stainless Steel Long Sword [+50 Strength]
+
+_____________________
+
+The man looked for a moment and Abby stretched her neck to take a look too. Her eyes went wide.
+
+"Ouuuhhhh you have two skills too?? Swordsmanship is a good one, what's the first one do?"
+
+My heart stopped for a second, it felt like my stomach was about to come out of my mouth.
+
+"O-oh It-It's..."
+
+"...."
+
+She stared at me with a blank but curious look on her face.
+
+"It's It.. it's"
+
+I was panicking in my head, I didn't prepare for this. I'm a dumbass. How could I walk into a government building the day I found out a secret that decided to keep from the world... I have to think of something..... Then I thought of that first party I paid to help me awaken my status and what the leader said when he saw my skill. Of course...
+
+"It's... an MP absorption skill. Whenever I fight monsters I can replenish MP to continue using my swordsmanship skill at full power... it's a neat combination right?"
+
+Abby grinned.
+
+"Ouuuhhh I like it, I like it, I likeeeee it. Jay you should join the association, they treat double skill hunters like you and me really well here."
+
+"I uhh, I'll think about it."
+
+She pouted a bit, but still looked happy as could be.
+
+"Hmmph okay. Here's a card."
+
+She handed me a black card with the representative branch number on it and a big "HA" logo.
+
+"Call us anytime, good talk Jayy."
+
+She smiled and bobbed as she turned to the door and walked out in front of the man. He nodded at me.
+
+"Thanks Jay, that's all for today. You may go home."
+
+He left the room as well.
+
+I sat there with my heart racing. I think they bought it. I just lied straight in the government's face... There's no way I can join the association now.
+
+After a few more minutes the lady with the bright smile knocked on the door and escorted me out of the building while making corporate small talk.
+
+I walked to the nearby train platform down the street and took a one way route to Alpine Square Dungeon.

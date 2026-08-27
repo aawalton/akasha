@@ -1,0 +1,213 @@
+---
+id: 49f4ada8-578f-51d8-94c8-239f6b12838a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33: Ambush"
+slug: 0033-chapter-33-ambush
+partOf: delver-dungeon-diving-and-magic-litrpg
+position: 33
+ownLength: 2131
+unit: words
+publishedAt: 2026-06-20
+link: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3567474/chapter-33-ambush"
+royalRoadId: "3567474"
+---
+
+I’m not the historian my father was, but I feel that somebody has to record the history of humanity, even if this is the last of us, huddled away here in this stronghold.
+
+Fifty years after the return of levels, something is working again.
+
+“Increased Perception”, “Increased Speed”, “Increased Strength”. These skills, gained from levels, have had visible effects. I saw a man lift a boulder twice his side. I myself, can see better than the birds that terrorize the skies. Lord Mackle has coined the term “passive internal enhancements.”
+
+With this change, warriors classes have become kings. They are the most likely to have a passive skill, and we rely on them to defend our walls.
+
+The Angel Statue is a fascinating artifact, and one of the strongest in my Mentor’s personal collection. It completely hides any traces of you, but beyond that, it effects the mind, pushing monsters that would normally walk into your camp away. I’ve noticed this effect to be particularly effective against the undead, and almost useless against many of the more intelligent races. It’s main  weakness is that if something knows you are behind it, its protection can be easily broken by metal or magic. That’s why I didn’t use it after the initial ambush on the men who chased us out of town.
+
+Hide Presence in comparison, has its fair share of weaknesses. I’ve seen it fail many times, certain senses penetrating past the protection. It certainly wouldn’t stop something from approaching if I was in its path already.
+
+Shar is integral to my plan, and considering that they didn’t cast the trace on her, they likely don’t know she’s with us.
+
+An hour of distance isn’t much time, but we push hard as we approach the town. Undead become more common, our path constantly changing as we get closer. Shar tells me that some distance is gained this way, but it won’t be enough to completely lose them.
+
+Finally, in the distance, I spot a large village on the outskirts of the town, perfect for my plan.
+
+I whistle, stopping the rock-lizard, then motion for Keve to join me around the roots of a tree.
+
+Once more, I activate the Angel Statue, hiding us.
+
+“Shar!” I call to the golem, and she flies over to me, landing on my outstretched arm. I outline the plan to her, and she moves in anticipation, before flying above us.
+
+She leaves the statues protection, and lands on the tree, her gaze watching behind us for our followers.
+
+Once she sees their close enough, she leaves towards the village.
+
+The people following arrive first. Six in total, they don’t wear the obvious red-cloaks of the demon worshippers, but they move with a dangerous familiarity, searching the area. Lyla isn’t among them.
+
+They’re following our footsteps, getting closer and closer to where we are hiding under the protection of the statue.
+
+That’s when the sound hits.
+
+The shattering of a tree under magic, then spears of darkness piercing the sky.
+
+The party following us turns towards the sound, not even noticing as a dark shape slides over their heads.
+
+No, their too focused on the undead behemoths following it.
+
+The battle that follows is brutal, and devastating. Two monstrous undead and a warlock engage with the party that’d been following us.
+
+Their mage is the first to go down, the warlock targeting them with some kind of draining spell that keels them over.
+
+The monstrous ones are twice the size of a normal man, and equally as large around with bulging flesh. The warriors of the party manage to take one down, before the warlock systematically skewers every one of the humans.
+
+After the party is dead, the undead feed. They rip the flesh from the bodies, some of them still screaming, and eat it with relish.
+
+Keve and I watch from behind the protection of the statue.
+
+I turn away, throwing up and retching.
+
+Keve doesn’t look any better, and turns away his eyes wide as he stares at the ground.
+
+Shar is long gone, not wanting to lead anything directly back to us.
+
+After the undead are done feasting, the warlock looks around, before calling the monstrous undead back towards the village.
+
+I breathe through my mouth, trying to ignore the smell of blood. I want to leave right away, but I know better.
+
+So we wait for another hour before Shar returns, flying into the protection.
+
+I deactivate the Angel Statue, and with her guiding, we hurry away from the scene. Jasper is clearly ready to be away, his speed forcing us to move at a faster pace than normal.
+
+We’re completely silent as we leave the more dangerous vicinity of the undead town.
+
+I follow my map, pointing us in the correct direction, and we continue our journey.
+
+“Are you alright?” Shar is the one to break the silence, landing on a branch nearby.
+
+Keve and I both freeze, looking up at the bird.
+
+“I’ve seen a lot.” I answer, “That was… disgusting.”
+
+“A light word, for a terrible sight.” Keve answers, then continues in his language to Shar.
+
+The crow shakes her head, “No, there is no word for it in common, Keve. But I understand.” She hops down, and swoops onto Jasper’s back. She speaks directly to me. “We are far from danger and have been pushing ourselves. We should rest.”
+
+I look into the distance. There’s still an hour or two of light out, but as I take stock of my body, I realize that she’s right. I’m exhausted from the pace we’ve been keeping.
+
+I look over at Keve, and realize that he wants to rest too.
+
+So I follow her advice, and we quickly find a clearing to set up camp.
+
+***
+
+I stare up at my tent, the light of my stone illuminating the leathers. Shar is curled up against my side as a cat, and a book is closed on my chest.
+
+I’d read the same sentence multiple times, unable to focus.
+
+I’ve seen death before. Anybody who has lived in the frontier has. I’ve seen men eaten before, slowly by reavers, and quickly by behemoths.
+
+But something about the brutality and the sickness of the undead’s feast stuck with me. There was intelligence behind it, and malice.
+
+I close my eyes, remembering the last look the Warlock had given to its surroundings. For a second, he’d looked like a normal human with blood dripping from his chin.
+
+I blow air out of my mouth, and reopen my eyes. Then I open the portal to my library, searching for a book on the undead. I’d read about them when I was younger, but it’s been a long time, and I always feel better knowing about a problem.
+
+***
+
+The next two days pass normally, or as normally as it can in the wilderness. The artifact hides us from the occasional monster, while Shar does her best to guide us around those she sees.
+
+Soon enough, a familiar old road becomes visible, cobblestone broken up by coniferous roots and enterprising weeds. I find the way to my usual camp spot, and set up the Angel statue.
+
+We set up there for the night, and I pull out the small wooden golem I’ve been working on, then grab my notebook out of my bag.
+
+The fire burns between Keve and I, illuminating his larger-than-human eyes as he feeds it with a log. Shar rests on top of the rocklizard who is fast asleep.
+
+“What will you do next?” Keve asks.
+
+I pause, looking up from my notes, “What do you mean?”
+
+“After you have given my people the stronghold?”
+
+I look at my notebook, considering the question. “I have some reasons to look into the Arcanists, then I might go back to that ruin in the crystal forest.”
+
+Keve nods, his gaze staying on the fire. “What about cultists?”
+
+I fully put the wooden bird down. “There isn’t much I can do about them. I’ll warn the temple, see if they can contact one of the Oathsworn Orders.”
+
+Keve is silent for a long minute, and I match the quiet, waiting for him to ask the question I know is on his mind. “I would like your help, Delver Leo.”
+
+“It’s about Lyla.” I make a guess. Keve hesitates, then shakes his head. He continues slowly, “Do you know how many strongholds we hold?”
+
+“The Vishten?”
+
+Keve shakes his head, “Nonhumans.”
+
+I lean back, thinking about it. My mentor’s people didn’t have one, they’d survived through their own power, and tightknit communities hiding under powerful plant life. No others came to mind, except for the stronghold Keve had mentioned some Vishten had stolen from humans.
+
+I shake my head, “I don’t.”
+
+“One.” Keve answered, still not meeting my gaze. “And the karuk who hold it do not welcome others.” The strange word comes out with a heat that tells me it is no complement. He looks up, finally meeting my gaze. “I want your help guiding the lost to a home.”
+
+I give a half-laugh and a strained smile, “I’m just an explorer-”
+
+“You are a Mage, who the Angels themselves trust.” Keve holds my gaze, “And you are a good man.”
+
+I fiddle with the wooden figuring in my hands, then glance over to Shar who watches the conversation without comment. “I don’t think I’m the right person for something like that.”
+
+“Who is?” Keve’s words make me look up in surprise.
+
+I mull over the question, and come up with few answers. Humans who are kind to the other races are not always the ones in power. Slavery, and worse, are still practiced by the Lords of the strongholds, with the main target being nonhumans.
+
+“I’m happy to help where I can.” I say finally.
+
+A small smile transforms Keve’s face, making him look younger, and less like a grizzled warrior. “Thank you. I would like to make a home that welcomes all.”
+
+I put the bird down, then laugh, letting out the stress of the journey and the question he’d posed. “Then let’s do that. I’m still going to delve, you know.”
+
+“Of course. And I will join you.”
+
+“I’m happy to hear that.”
+
+***
+
+Keve and I walk to the archway, my gloved hand brushes against the faded runes that used to mark its surface.
+
+The sun is finally starting to melt the snowfall, but the cold is still very noticeable, and as we go through the archway, I can feel the temperature drop by another couple degrees..
+
+I pull out my metal ball, and send it ahead of us. Now I watch for ice as well as traps.
+
+We reach the hole created by the worm, and I jump across, Keve following me with his own skill.
+
+Nothing bothers us as we make our way through the reavers decrepit nest and deep into the ruins.
+
+The larger dead reaver is gone from its room, and I notice that many of the cocoons have been cut open by some kind of blade.
+
+The Vishten must be rescuing their dead now that the predators are gone.
+
+Soon enough, we enter their territory, the same barrier as always triggering as we walk through it.
+
+A party of Vishten arrive in seconds, their voices calling out excitedly to Keve, a few even speaking simple words of greeting to me.
+
+I follow the excited Vishten into their home.
+
+The atmosphere is brighter than it has ever been, people cheering and laughing as Geode, the large golem walks through them. Small scratches mark the metal of his skin, but other than that, he looks content, a crown of flowers resting on his head, and several small children running around him.
+
+A window immediately pops up, informing me of the large golem’s level gains.
+
+I blink in surprise. I guess I have to physically see a golem that’s bound to me for me to see their new levels.
+
+He’s been fighting hard, several warrior skills I don’t recognize appearing. He’s already the same level as Shar.
+
+I look at him for another minute before Keve and I are guided to a familiar tent.
+
+Seer Varia smiles as we enter, revealing her clean and sharp teeth. “Leo Grayson. You are alive.”
+
+I bow to the Seer. “It’s good to see you again.” I glance at Keve, who stares back with supportive confidence.
+
+I turn to the Seer, and take a deep breath. “I want to talk to you about expanding our agreement.”
+
+Keve snorts, and I look at him to find his expression blank.
+
+Seer Varia looks between us in confusion, “what do you want, Delver?”
+
+I run a hand through my hair, then laugh.
+
+“I want to give you a Stronghold.”

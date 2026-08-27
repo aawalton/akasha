@@ -1,0 +1,203 @@
+---
+id: 8c891d72-e819-54ff-93e8-9406c047d6ea
+page-type-slug: story-chapter-royal-road
+title: "Chapter 48"
+slug: 0048-chapter-48
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 48
+ownLength: 1509
+unit: words
+ownProgress: 1509
+publishedAt: 2023-03-06
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1130622/chapter-48"
+royalRoadId: "1130622"
+markedReadAt: "2026-06-29T20:33:27.878Z"
+---
+
+I stood in front of 3 charging Minotaurs with my burning blade and prepared for an attack.
+
+The monster up front is the most wounded, its about 30m ahead of the other two. The smartest thing to do right now would be to take it out first. I charged in at the wounded beast and let my flames burn bright trailing behind me on the ground.
+
+I have a pretty good feel on these monster's abilities. They're tough and crafty with their weapons, but with my magic gear, recent battle experience, and arsenal of abilities they're no match. It's time to test a few of my new skills out.
+
+As the Minotaur up front approached I came up with the perfect plan. It raised its axe and I raised my sword to match it.
+
+As the beast let out a battle cry and brought its axe down towards me I lifted my left arm in the air to shield myself. Its a gamble, but I'm fairly sure this will work out in my favor.
+
+"Body Hardening"
+
+I concentrated my body hardening skill  to make layer around my arm. Instantly, hard black crystals started forming all over the areas I was visualizing.
+
+"CLANGGGGGGG"
+
+The massive axe came down on my arm and it bounced off like it was hitting a sword. Some crystal fragmented, but the attack didn't make contact with my physical body. This gave me enough time to slip under the monster in its confusion and let out a fiery uppercut with my sword.
+
+A final clean hit!
+
+The beast fell to the floor with a grunt and a whimper covered in a blanket of flames.
+
+[Level Up]
+
+"One down, two to go."
+
+I looked up to see the two minotaurs in hot pursuit. They seemed angry that I defeated their friend.
+
+I got into a battle stance and checked my status. 450/795 MP remaining. The total decline is not bad, but definitely not efficient enough for my liking. It's about time I try out my new "plunderer" skill.
+
+There are two beasts running at me this time, it'll be be a bit harder than my first fight. I ignited my blade into flames and grinned. My blood is rushing, these battles make me feel alive.
+
+I decided to run towards the one to my right. It raised its axe and I raised my arm while hardening and bracing for impact.
+
+"CLANGGGGG"
+
+It took the bait. I swerved around the right side and slashed the beast's torso. While making contact with my blade I concentrated on my skill to take in mana. I repeated "Plunderer" over and over in my head as I cut deep into the Minotaur. I could feel my MP raising for a split second while my blade was touching the monster.
+
+The moment my blade left its flesh, the flow of mana stopped instantly. The beast let out grunts as it turned to face me again. Its partner in battle was close by as well.
+
+I checked my MP, it read out 585/795. I grinned ear to ear. Even while using swordsmanship, fire magic, and body hardening my MP went up after that exchange.
+
+The Minotaur came back for more.
+
+"CLANGGGGG"
+
+I blocked the beast again with my left arm and landed a devastating fiery attack with my right while taking in MP. The second monster followed close behind and I blocked its attack with my body hardening and managed to counter it easily as well.
+
+I've completely figured out their fighting style. They may be pretty strong and able to take a lot of hits, but this battle is basically already over. It's just going to take time.
+
+After a few more charges I blocked all of their axe hits, absorbed MP basically up to full, and brought them both to their knees.
+
+All 3 Minotaur I encountered on this plane have been defeated and reduced to flaming piles of ash.
+
+[Level Up]
+
+[Level Up]
+
+____________________
+
+Name: Jay Soju
+
+Level: 160
+
+Hp: 805/805
+
+Mp: 805/805
+
+Strength: 385 [+125]
+
+Speed: 458
+
+Agility: 478
+
+Defense: 342 [+137]
+
+Mental Strength: 385 [+77]
+
+Skills:
+
+Absorption
+
+Swordsmanship
+
+Combat Magic [Fire Summoning]
+
+Inspect [Special Grade]
+
+Enemy Detection
+
+Body Hardening[Special Grade]
+
+Self Regeneration
+
+Spacial Magic[Item Storage]
+
+Plunderer
+
+Items Equipped:
+
+Golden Wolf Ring [+20% Mental Strength]
+
+Cyclops Eye Pendant [+40% Defense]
+
+Stainless Steel Sword [+125 Strength]
+
+_____________________
+
+"Level 160, nice. Still a long way to go until 250..."
+
+I stood around for a few minutes and collected the mana that each of the disappearing Minotaurs dropped and placed them in my item storage.
+
+I continued walking further into the dungeon.
+
+It sounds weird to say, but this is a beautiful dungeon. The blue sky and the warm air make me feel at peace. The post-fight adrenaline also gives me a nice high to ride while I search for my next opponents.
+
+I walked through a few empty fields looking for more monsters to fight. They traveled in groups, so the spawn rate must be much farther apart or something... I've been walking for 20 minutes and haven't found a single sign of any new minotaurs.
+
+There was a large tree in the middle of one of the large planes I came across. I sat up against it and took a little break to admire the blue sky for a bit.
+
+Like clockwork, the moment I got comfortable I sensed a presence nearby.
+
+"Finally, some more monsters."
+
+I grinned and stood up with my sword ready.
+
+There's a clump of trees in the distance, its a small forest area. The leaves started shaking so I activated my enemy detection and inspect skills.
+
+Three of them again... and it looks like one of them is going to be trouble. Great.
+
+[Lv. 156]
+
+[Lv. 157]
+
+[Lv. 191]
+
+Three large Minotaurs came out from the tree line. The strongest stood up front, and the two lower levels followed close behind.
+
+They all looked exactly the same. Without my inspect skill I could never have seen a difference. This is what the old merchant meant when he said their levels may vary. Interesting.
+
+The leader of the monsters grunted and motioned its axe towards me while slowing its strides. The other two grunted back and charged ahead of it straight at me.
+
+They just communicated an attack.... I've never seen monsters with intelligence like this before. It's a good thing just the two of them are up first. I'll have to take these weaker ones out, then focus on the leader.
+
+They charged towards me grunting while raising their axes. I surrounded my sword in a coat of flames and ran towards them as well.
+
+They both brought their axes down at the same time. It raised my left arm in a bent fashion while hardening it to make a shield for my usual attack.
+
+"CLANGGGGG"
+
+Both axes came down at once and were repealed without a problem. I managed to get underneath both of them to land a double hit on their abdomens while they were distracted by their axes' recoil.
+
+They burst out in roars as I drained enough MP to recover and leave a good amount of fire residue on them.
+
+I ran passed with a satisfied grin on my face. Two at a time, not bad...
+
+"RWUUUUUUAAAARRRR!"
+
+To my surprise the leader was towering over me with its axe in full swing.
+
+I didn't even see it coming....
+
+This monster hid behind its subordinates and launched a surprise attack knowing I'd make it passed these two. I underestimated it.
+
+At the last second I put my arm up again to harden it and block the attack. My sword was pointed at the floor on the opposite side of my body, I didn't have the time or positioning to counter.
+
+"ARGGGGGHHHH!"
+
+Blood splashed up into the air as I felt my arm breaking under the pressure of this monster's axe.
+
+My body hardening worked for a moment... but was shattered along with my arm in the next. Black crystals flew everywhere as my hardening was completely destroyed.
+
+I guess there is a limit to how much this skill can defend against.
+
+The beast followed through and let its axe smash into the ground. Luckily, I was able to somewhat move my arm out of the way and save it from being sliced off.
+
+I jumped back and regenerated my broken limb while getting as much distance as I could from the vicious beast.
+
+I checked my status. It read 615/805 HP, 705/805 MP.
+
+Interesting... My physical body is repaired with self regeneration, but I feel much more tired. The attacks from an opponent will affect my HP stat no matter what. When I regenerate it's healing my physical wound and converting the damage to more overall fatigue. This skill is not full healing magic, it's just accelerated physical recovery with a trade off...
+
+I'll have to keep this in mind.
+
+I turned to see the two flaming monsters charging at me while the leader followed close behind.
+
+Our battle is far from over.

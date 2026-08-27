@@ -1,0 +1,125 @@
+---
+id: ada179e7-6b0b-5abd-9d75-113592f7e3f7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19 - Customers"
+slug: 0019-chapter-19-customers
+partOf: demonic-city-builder-litrpg-city-kingdom-building
+position: 19
+ownLength: 1261
+unit: words
+publishedAt: 2026-05-26
+link: "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3447930/chapter-19-customers"
+royalRoadId: "3447930"
+---
+
+"Goodness. Shiny, I feel as though you could have used just a bit more... care," spoke Kairon. He said that last word carefully, not sure if it would really be understood.
+
+"Heavy. Seemed this was best."
+
+"You felt making this into an art project was best?"
+
+"Art?"
+
+"Nevermind. Just. I hope the feeding pit accepts limbs and... other bits without diminishing returns." He gingerly poked at a pile of pulped organs and bloody corpses. I really can't complain. He did manage to get all of those corpses over here by nightfall.
+
+"Okay. Let's do this. I want you to keep moving these remains into the feeding pit until I say to stop."
+
+Kairon watched carefully, one claw pressed firmly on the stone maw, watching the capacity.
+
+First heap went in.
+
+The moment the stony maw gulped down the body, a chime sounded. Was that a confirmation tone?
+
+The demon motioned hurriedly for the brood imps to continue.
+
+Two-thirds of a body was thrown in. Again, the same chime sounded. It is. I don't know the last time I heard one of those. It must have been back at The Bureau. But why didn't the other food do this? Or the timber? Hmm...
+
+With thirty corpses, this was going to take some time. Curious that the processing time is tripled what it normally is. That change, however, should be a good one. More processing time means more to chew through.
+
+Kairon looked up at the evening sun, and then down at the warm sand. "Best bits first. Anything that's more intact should be pushed into the pit. If anything spoils, I want the good stuff in first."
+
+It took about an hour to get through the bigger corpse pieces. By this point, the brood imps were absolutely covered in blood. Their claws were painted crimson, skin marred with viscera, and faces splotched with bits and bones. He could have helped, but honestly, he just couldn't stomach the idea. Maintaining a professional look is a key part of any supervisor's job, after all.
+
+"Now for the small stuff."
+
+What followed next was half an hour of workers shoveling in organic matter blended with sand. He directed them to use their little claws like shovels and bulldoze heaps inside the maw. When the last of it was pushed in, Kairon checked the final output.
+
+Interesting that no matter the capacity, the processing time is consistent. That has some interesting implications.
+
+"Huh. You're sure that's everything?"
+
+"Everything not shiny. Yes," came the reply from his little supervisor.
+
+Looking around, Kairon saw the imp was right. There were still spatters of blood in the sand, but nothing bigger than a claw was visible here or with Sovereign Eye outside the walls.
+
+"It seems that the condition does affect output. Thirty corpses, but only twenty-three units worth made it in the maw." He rubbed his scaly chin, the motion helping him think.
+
+"Master?"
+
+"Hmm?"
+
+"If pit full, how we eat?"
+
+Kairon waved the concern off. "All in good time, Shiny. All in good time."
+
+He was about to give his next set of commands when a wrath imp burst into view. "Master! Master! Visitors! To the north!"
+
+Only now did the city lord look up.
+
+Memories of what happened from the first time ran through Kairon's mind. "Oh dear. What did you say to them?!"
+
+"Nothing! No speaking yet. They waiting."
+
+"Oh thank heavens. Take me there immediately!"
+
+The wrath imp nodded hurriedly, and began scampering to the north. "Shiny. Gather the brood imps and resume timber harvesting. Stay clear of the northern treeline until I let you know what's going on. Got it?"
+
+Shiny nodded and trotted off, eight other bloody brood imps in tow. Good. I don't need our new visitors seeing their state. Can't have them thinking we don't offer sanitary working conditions.
+
+Using Sovereign Eye he took stock of his forces. Three wrath imps and Vorathrex were already to the north. The rest of his warriors were near the training grounds. He mentally ordered all of them to approach and meet at the same location near his general.
+
+Kairon set off, taking long strides on the warm hellscape headed north. He glanced at the bulky wrath imp trotting at his side.
+
+"You know, last time we had visitors I could see them from just about anywhere in the settlement. Now, I can hardly even see the treeline in the distance."
+
+The wrath imp didn't seem sure what to say. After pondering for a moment, he went with his gut. "Yes. We grow!"
+
+"Indeed... Grow indeed..." Using the eye, he did his best to try and view the northern clearing while walking. Several stumbles later, he gave up. He paused just long enough to confirm there were five newcomers, all thankfully not being eaten by any of his imps, and continued forward. Even going as fast as they were, they had several hours of fast walking ahead.
+
+Checking behind, he confirmed the rest of his wrath imps were marching in unison several hundred paces to their rear. If a repeat of last time occurs, I'll need every soldier. Shame we only had one day. Another week and my force would be nearly doubled.
+
+Some time and hard walking later, Vorathrex finally came into sight. The big demon was sitting cross-legged, leaning back against a corrupted stump. Beside him three wrath imps were staring intently at the treeline.
+
+Around thirty meters ahead, the corrupted trees and stark orange hellscape morphed into lush forest. Standing between two towering oaks was a lithe figure in leather armor and furs, four others in a mix of similar outfits at her back. Each sported an emerald green cloak, pulled back to their shoulders.
+
+The moment he came into range their leader gazed straight at the two-meter black demon approaching. Her yellow eyes narrowed at him.
+
+"You! You are the one responsible for this!" came an irate shout.
+
+"Me! Just a moment, please," he replied, before looking to his side.
+
+"Stay here," Kairon hissed to Vorathrex.
+
+The big general just looked at him. "She's loud. Been shouting things for a while."
+
+Kairon's eyebrow raised. "And you didn't try and... what do you always say... consume her?"
+
+"Too weak." He pointed at them with one meaty finger. "The other humans are stronger. This one is too small." Vorathrex flared his nostrils. "You want me to consume her anyway? It would make her quiet."
+
+"What? No! No! Just stay here." Honestly, I'm not sure if I should be impressed or worried.
+
+Kairon looked at the waiting warriors. "You three. With me, if you please. Don't make a single move unless I say so. Your brethren aren't far behind. Vorathrex, make sure they stay near, but do not do anything that-"
+
+"Did you hear me? I don't know what you are whispering about but I am losing my patience!" came another shout. "Where is Reina?!"
+
+Kairon looked back to the massive red demon. "Vorathrex. Who is Reina?" he asked quietly.
+
+The big demon looked up. He was cleaning something from between two of his massive palms. "Another loud human."
+
+"I see. And where is this loud human?"
+
+Vorathrex stared at Kairon flatly. "Gone."
+
+The demon lord nearly choked. "Every time. Every System-loving time." He brushed down his torso, clearing the sand and bits that had accumulated between his midnight black scales during the trek. "Well. No matter. I must make do with what I have."
+
+Kairon shook his head, put on his most diplomatic smile, and strode forward. There were customers to greet.

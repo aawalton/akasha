@@ -1,0 +1,169 @@
+---
+id: b666c899-cfb6-53f3-ab3b-b558bc90b57d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24"
+slug: 0024-chapter-24
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 24
+ownLength: 1212
+unit: words
+ownProgress: 1212
+publishedAt: 2023-02-11
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1111313/chapter-24"
+royalRoadId: "1111313"
+markedReadAt: "2026-06-29T20:32:37.742Z"
+---
+
+The man with the sword grinned and kept his blade pointed right at me.
+
+"Real sorry we had to pick you kid, the boss would kill us if we didn't hit our monthly quota. I'd let you leave, but you've already seen my face. I can't let you run your mouth."
+
+I stared him down with my sword held tight. My eyes were looking left and right spastically trying to see both men at once, but also scan my surroundings for any other threats.
+
+"Don't even think about running either, we've seen your face too. We'll track ya down... how ever long it takes."
+
+For an average family, 80 silver could last them half a year. To be honest, even a full year if you stretch it out far enough. Maybe I was in the wrong for flashing a full year's salary around in a rough part of town like this...
+
+I didn't pay as much mind to the shorter man behind me. He was a bit shaky and handled his dagger poorly. I could tell he wasn't a very experienced fighter.
+
+The swordsman on the other hand... He stared me down and I returned the favor with my own murderous glare. I could tell he was skilled with that battle worn sword, definitely not an amateur.
+
+"Why don't you just hunt like the rest of us. You could easily make a living in the dungeons. Why rob people like me?"
+
+He gritted his teeth.
+
+"You don't know the first thing about the real world kid! I couldn't enter the dungeons if I wanted. I was blacklisted as a young kid for entering a D Class without authorization... the Hunters Association isn't very kind to people like me. We have to find other ways to work."
+
+I'd heard of the strict dungeon laws, but never actually seen the result of a rule breaker...
+
+Avery District must be full of rejects and thugs that don't fit into traditional dungeon diving culture for one reason or another...
+
+Again, this is the life they chose. There is nothing I can say to persuade a peaceful interaction here.
+
+It's fight or die...
+
+"Hmmm. Well then. Bring it on."
+
+I gripped my sword and eyed the man. We were peering into each other's souls. The fuse had already been lit, there was no putting it out now.
+
+We both charged in at each other, swords held tight with intention to kill.
+
+This is my first fight with a human being... but it doesn't feel much different... than a monster...
+
+"CLANGGGGGGG"
+
+Our steel met with a loud metallic clang.
+
+"CLANGGGGGGG"
+
+We both jumped back and countered perfectly, colliding steel swords again and again.
+
+After this brief encounter we both jumped back. I watched him and he watched me. It seemed like a pretty even matchup, he had some solid sword skills.
+
+"Not bad kid."
+
+He snarled at me then charged back in.
+
+"CLANGGGGGGGG"
+
+I was playing a very defensive battle, I wanted to feel him out before going full force.
+
+"CLANGGGGGGGG"
+
+Our swords collided over and over as we traded even blows in the alleyway. We traded places on the narrow battlefield. I could see both men standing in front of me now.
+
+The swordsman was grinning and had his eyes locked on me. The other man was standing 20m back.
+
+I looked straight ahead at both of them while readying my blade. My warm up was over.
+
+"Hey! Last chance for you two. Leave me alone now and I won't say a word. Promise."
+
+The swordsman smirked and rolled his eyes.
+
+"Yeah right. I've heard that a dozen times. Get ready kid, enjoy your last moments."
+
+I nodded slowly.
+
+The swordsman turned his head to the shorter man.
+
+"Hey! Come over and help me out! This kid thinks he can can beat us. Let's 2v1 him, he asked for it hahaha!"
+
+"O-okay. Let me inspect him fir-"
+
+"Don't bother!! He's a high E rank at best, I got him on the ropes! Don't worry. This will be over in less than a minute."
+
+The shorter man looked at me and started mumbling something. His eyes went wide.
+
+"No! He's actually over lev-"
+
+"Shut uppp! Let's just kill this brat."
+
+The swordsman charged in. The man holding a dagger gulped and swallowed his words following close behind his superior.
+
+I smiled. My prey has chosen not to run.
+
+Their fault, not mine.
+
+I stared down the swordsman and ignited my entire body with a deep red cloak of fire. I planted my right leg and sprinted towards them with my blade pointed straight ahead.
+
+Everything goes into slow motion for me during moments like this...
+
+Their eyes go wide in fear and awe. I activate my full speed and maximum MP output for a full force attack.
+
+Trails of fire are left on the ground as I sprint closer and closer to the men.
+
+I bring my sword back positioning to strike. I focus all the fire magic into its blade, then let it glide through the air with a faint whistle.
+
+"Shhhhhhiingggg"
+
+"Thuddd"
+
+"Thuddd"
+
+Moments later both of their heads fell to the floor before they could even think to move.
+
+The battle was over just like that...
+
+I win.
+
+I looked over my shoulders to check if there were any more threats.
+
+The narrow alleyway was silent, I could hear nothing but a light breeze.
+
+Then I saw it... hovering over the dead body of the man with a dagger...
+
+The blue letters that shook me down to my core...
+
+"......N-No way....."
+
+[Use Absorption]Skill: Inspect[Special Grade][YES][NO]
+
+I stared at the text for a moment while my heart skipped a few beats. I couldn't believe my eyes...
+
+I gulped and chose [YES].
+
+I dropped to my knees.
+
+The last 2 minutes played back in my head over and over like a movie.
+
+I just killed two men...
+
+I had to....
+
+Who knows what would have happened if I didn't fight back... or even ran away... they said they'd come after me. Who knows, maybe their boss would have been brought into it.
+
+After convincing myself I wasn't in the wrong here for well over 3 minutes straight I shook my head and came back to reality.
+
+The fact here was that there were two dead thugs lying in the road and I was kneeling over them carrying a sword.
+
+I examined the swordsman for a second and was surprised to see that same snake tattoo with the red eyes on his right hand. It must be their gang mark or something, best not to think much of it now.
+
+I looked over both my shoulders again to make sure no one saw this brutal event take place. Then without hesitation I erupted in flames and incinerated the evidence of my crime.
+
+I kicked the sword and dagger that were leftover into a nearby abandoned storefront and quickly evacuated the area.
+
+10 minutes of walking and paranoid shoulder checking later I let out a huge sigh of relief. I was getting close to the village market.
+
+"Sighhhhhhhhh"
+
+I have another secret to keep from the world. Just when I thought my life was getting easy... I get thrown into an even bigger whirlwind of things to think about.

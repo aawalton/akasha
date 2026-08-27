@@ -1,0 +1,271 @@
+---
+id: 16b44469-b380-5582-9711-6f8e410976f8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4: Chasing Shadows"
+slug: 0005-chapter-4-chasing-shadows
+partOf: dungeon-devotee
+position: 5
+ownLength: 4225
+unit: words
+ownProgress: 4225
+publishedAt: 2022-02-20
+link: "https://www.royalroad.com/fiction/51358/dungeon-devotee/chapter/849513/chapter-4-chasing-shadows"
+royalRoadId: "849513"
+markedReadAt: "2026-06-29T22:37:11.255Z"
+---
+
+Edmund emerged with his knees bent, his stance steady, and his weapon poised. No target presented itself. Unwilling to lower his guard, he kept close to the entrance as he surveyed the level around him.
+
+The walls were the same packed-earth with which he’d grown intimately familiar over the past several days, lined only with sporadic wooden arches for support and the odd torch burning with no smoke. If he were one to care for such trifles, Edmund might’ve begun to tire of the ‘cellar’ introductory theme he’d found himself in.
+
+Indeed, if they didn’t know any better, someone else might’ve thought they’d somehow stepped back out onto the same floor again. Edmund both knew better, and wasn’t
+
+someone else. Between his excruciating search for secrets and long days he’d spent in the relatively tiny space of the spider level, the minuscule differences in the texture of the walls, the graining of the wooden arches, even the taste of the air upon his tongue leapt out like a cavalcade of novelty.
+
+“I see the dungeon got creative with this one,” he muttered as he gazed down the near identical hallway, half expecting Liam to crack back with a witty reply.
+
+But Liam was gone, had been gone for over a week. Edmund had no-one left to make light of his mortal danger, no-one with whom to compare notes and brainstorm strategies, no-one to share information he shouldn’t have had to begin with. The asshole still owed him a question too.
+
+Setting all thoughts aside of his strangely glib hallucination and where he might’ve gone, Edmund started off down the passage. He took no similarity for granted, assuming any resemblance to the previous floor a deliberate ploy at familiarity. The dungeon wanted him to think this floor played by the same rules of the previous one. Edmund refused to accept that premise.
+
+He started by evoking Madness for guidance or hidden information, but without knowing what he was looking for, or even any sense that there was anything to find, the Aspect refused his call.
+
+Moving on, Edmund stepped lightly across the dirt floor, gently tapping the wall with the butt of his spear every few steps. The method had borne no fruit on the third floor, but the fourth’s uncanny resemblance led Edmund to try it again. Hiding secrets in a place there’d been none on a near-identical floor sounded like exactly the kind of tactic the Eternal Depths might’ve implemented.
+
+He found nothing.
+
+Halfway down the hall, Edmund stopped short as a blur of motion at the T-junction ahead caught his attention, but by the time he looked directly at it, he saw only bare wall and empty floor. He gulped.
+
+Edmund could practically hear Liam accuse him of jumping at shadows as he tightened his grip on his spear, but Liam’s blithe attitude had already gotten him killed. The original Liam, that was. The real Liam.
+
+Fairness accords aside, Edmund had every intention of treating anything and everything like it wanted to kill him. He certainly wanted to kill it.
+
+With a dark grimace on his face, he continued down the hall, reducing his checks for hidden compartments to simple bumps with his spear or knuckle in order to keep his eyes fixed on the junction ahead. He reached it just as before, leaning down and peeking out around the corner so as to expose as little of his body as possible.
+
+No monsters lurked in waiting. No giant spikes or grasping roots swept out to attack him. To each side he found an empty hallway, the one on the left ending in another T-junction, while the one on the right ended in darkness.
+
+Edmund scowled. That couldn’t be right. He recalled what he remembered from the fairness accords.
+
+Dark Floors
+
+The first ten floors must be illuminated in their entirety. The first forty floors must meet reduced brightness standards. The first eighty floors must not present a full-dark level more than once in every five floors. See accord 4529.05 for full definitions and further details.
+
+Unsure as he was about a great number of things, Edmund felt rather certain that he hadn’t cleared six entire floors without realizing it. He squinted down the hall at the spot where the torchlight faded into gloom wondering what secrets lurked within.
+
+The first thing he noticed was its magical nature, the way the orange glow of the nearest torch seemed to fall against the veil of darkness in a way not dissimilar to that between floors. His curiosity gave way to fear when he made his second realization.
+
+The darkness was approaching.
+
+He watched wide-eyed and gripped his spear with knuckles white as the murk creeped towards him, first dimming and then swallowing entirely the torch on the wall.
+
+It had to be some kind of monster, Edmund reasoned, some beast that hid behind a veil of shadow, but no matter how he squinted and tilted his head, his gaze seemed to slip off the thing, his Madness offering no name nor description for the thing that approached. He exerted his will into the Aspect in a last attempt to wrench information from it before making a decision. The ethereal letters offered up but a single word.
+
+Run.
+
+Edmund ran.
+
+Dust scraped from the hard earth as he spun on the ball of his foot and darted down the leftward path, unwilling to turn back the way he’d come. If the shadow followed him into that first passage, he’d be blocked in, unable to escape except through the dungeon exit.
+
+He hadn’t come this far to run away.
+
+So on he pressed, his heart racing in time with his footsteps into uncharted territory, blasting by walls unchecked and floors unswept. He beat back his every instinct for crawling caution in favor of speed, of immediate survival, of faith in the Madness that’d taken him so far already.
+
+The darkness hastened behind him. Unwilling to look back, Edmund tracked its proximity through neither sight nor the lingering chill in the air that preceded it, but through the faintest sounds of claws scrabbling against stone, an impossible reality given the earthen floor.
+
+He skidded to a momentary halt as he reached the junction at the end of his chosen path, stopping himself against the wall of the intersecting passage. Even in his haste, he afforded himself the few seconds to jerk his head left and right before deciding on a path. He was glad he did.
+
+A second shadow, identical to the first, loomed to his left, heading his way. Had he blindly turned left, he’d have found himself trapped.
+
+Not a moment too soon he pushed away from the wall and charged down the rightward hall. He knew not where he headed, nor from what he ran, nor what dangers lurked on the path ahead. He knew only that he must flee.
+
+Just as he noted a four-way junction in the distance, a third shadow rounded a corner beyond it, headed directly towards him.
+
+Edmund grit his teeth, tightened his fists, and ran faster. He and the third shadow charged each other, flying together down the hall in a deadly race to reach the junction first. If he lost this contest, Edmund would have nowhere to run.
+
+He whispered a breathless prayer of thanks for his bonus agility built up over weeks of pursuing his Obsession as he sprinted not to safety, but the simple chance to live a few moments longer. As the shadow beast approached, Edmund knew he’d have no chance to stop and pick his direction with care. On nothing more than a desperate hope, he chose left.
+
+With his free left hand, Edmund caught the edge of the final wooden archway as he hit the junction, the might of his grip swinging him around the corner and maintaining his momentum as best it could. Empty hallway opened itself up before him, through which he ran without hesitation.
+
+There has to be a pattern somewhere, his mind scrambled for answers as he fled. Up ahead another shadow floated into view at a junction, only to continue on its path down the intersecting hall. Either it hadn’t noticed Edmund, or had simply decided not to chase him. If it had, he would’ve been trapped.
+
+Truth be told, Edmund had no idea if all three of the beasts he’d escaped thus far had continued to chase him, or if only one still pursued. It wasn’t like he could see past the closest to him. He racked his brain for ideas.
+
+They can’t be completely random, he reasoned. That would be unfair, too easy for them to move in a configuration that makes the floor impossible. The one ahead didn’t turn towards me either, which implies I either need to be close for them to give chase, or they aren’t chasing me at all, just moving on their own paths.
+
+If the things were directly chasing after him, Edmund had no choice but to blindly run and hope he didn’t hit a dead end. That also seemed unfair, especially for such an early floor.
+
+Fixed path it is, then.
+
+The moment the thought crossed his head, Edmund set his mind towards mapping out the shadows’ movements, visualizing the layout of the floor as best he could. He knew precious little, and already he agonized over the idea of doubling back, trying to watch the creatures as he ran from them.
+
+Madness had other ideas.
+
+As he approached the next intersection, ethereal smoke seemed to waft from the smokeless torch on the wall, flowing through the air to form an arrow pointing to the right. Edmund followed it without hesitation.
+
+On and on and on the unreal arrows led him, sometimes deeper into the level, sometimes back to ground he’d already trod. Edmund ran its course unquestioningly, charging, as it might’ve seemed to an outside observer, randomly about the floor like a madman. He knew not how or why his Madness chose the path it did, nor why it seemed to double back so often or even ask he stop short for a few moments even as a shadow approached from behind.
+
+For the first time in recent memory, Edmund did something he’d never thought he’d do again.
+
+He trusted.
+
+Twice it led him down paths where darkness lurked, once he seemed to chase it as it fled, and once he ran headlong towards a charging shadow only for Madness to guide him into a side passage moments before collision. Still he followed.
+
+He knew at once victory and dilemma as the exit came into view, the door already wide open, the loot chest already risen from the floor. As he ran towards it, a shadow on his heels, Edmund wracked his brain.
+
+He could end his run, step into the darkness between floors and emerge into the relative safety of the hub level where his Aspect would await him. The weight of his breath and the growing stitch in his side argued in favor.
+
+But there had to be more to it. There had to be something else on this floor, something the shadows didn’t want him to find. He thought back to the blur of motion he’d seen at the floor’s beginning, something too quick and well-lit to have been a shadow.
+
+With a grunt he forced through between his heaving breaths, Edmund pressed on. His final thought as he raced right past the floor’s exit was of Liam. He wished the hallucination had been there, had smiled and winked and mocked him for his decision to explore the level further. At least then he’d feel somewhat more confident there was something to find.
+
+Instead, all he could do was hope he wasn’t wasting his time, pray he didn’t trip and die in pursuit of a pointless secret, and wonder where it was his friend had disappeared to.
+
+Between the nineteen mortal realms, the eight heavens, the forty-seven hells, the nine-hundred-seventy-three eldritch domains, the Thraxlands, and the various unaligned planes inhabited or otherwise, countless Elsewheres filled the gaps in reality. To most, the Elsewheres held little consequence, places whose limited resources never justified the difficulty of stepping through reality to reach them.
+
+To others, the few who knew such a need, they served an essential purpose: neutral ground.
+
+This Elsewhere was brown.
+
+Dead twigs and pine needles crunched beneath Liam’s feet as he walked. Great trees lined the way, their trunks as brown as the earth below, their branches and needles obscured by the brown fog that seemed to blot out the sky. Of course, Liam knew there was no sky, that the Elsewhere ended where the fog began.
+
+Beyond the paleness of his skin and the resplendent indigo of the cloak he’d wrapped himself in, no color but brown decorated the landscape.
+
+As the one who’d called the meeting, he’d been the first to arrive.
+
+By the time the many-eyed seraphim blazed into existence in a burst of golden light, he’d already materialized an overstuffed armchair, a bottle of Eskelian brandy, and seven glasses. He offered one to the mass of eyes and wings that floated before him.
+
+It turned him down.
+
+With a tilted glance and a twitch of his eyebrow that sent the message “suit yourself” better than words ever could, Liam raised the glass to his own lips and took a sip.
+
+One by one his remaining guests arrived.
+
+A dark hole opened in the air through which nine hands from nine different species stretched. An effigy in the shape of a man made of twigs and straw bound together with twine was suddenly there when Liam looked to his left. An inferno erupted through which strode a red-skinned demon with six twisting horns and claws which charred the ground where he stood. A pervading sense of dread washed over the area, emanating from a spot where no wind blew and no footprints marked the earth.
+
+Finally, through a tear in reality stepped a woman with dark skin and darker hair and a sunny smile upon her face. She and the demon were the only ones to partake in Liam’s offered brandy.
+
+“You’ve taken a new form,” the woman remarked as she lowered the glass from her lips. “It suits you.”
+
+“I rather like it,” Liam replied. “There’s this twinkle of mischief in his eyes that feels so right.”
+
+“Speak your piece so we may be on our way,” the seraphim said, his voice resonant and commanding. “The longer I keep such vile company the further I can feel myself straying from His light.”
+
+The demon snarled.
+
+The mass of hands spoke with nine voices in foul unison. “Why have you called us here?”
+
+Liam grinned a crooked grin, putting the aforementioned twinkle of mischief on full display. “I’ve found another paragon.”
+
+“Which one?” the demon barked in guttural tones.
+
+“Madness.”
+
+One of mine, then. The thought sprung unbidden to Liam’s mind, and he turned to face the wooden effigy. “Not necessarily.”
+
+“Or mine,” the hands added.
+
+The woman rolled her eyes. “Or any of the other icons.” She exhaled and turned to face Liam. “I take it he’s a threat, then? You wouldn’t have called us here if you didn’t know anything.”
+
+“I don’t know.” Liam grinned, clapping his hands and rubbing his palms together. “That’s the fun of it.”
+
+“How strong is he?” the question came from nowhere and everywhere at once, and Liam turned his gaze towards the empty spot from where he felt the source of the supernatural dread.
+
+“He doesn’t know what he is, yet,” Liam replied. “He’s young, only four Aspects to his name. Maybe five by now. I called this meeting because I made a wager with him, a wager he managed to win.”
+
+Silence hung in the air.
+
+Tell us.
+
+Liam grinned at the effigy. “Gladly. I wagered he wouldn’t be able to find a secret on a particular floor within the Eternal Depths. He did.”
+
+“So this secret wasn’t as well hidden as you’d thought,” the demon growled. “Perhaps you’re losing your touch.”
+
+“The secret wasn’t well hidden because there was no secret,” Liam said. “He made it himself.”
+
+The sense of dread pulsed. The hands trembled. The seraphim stilled. The demon recoiled. Only the effigy and the woman seemed not to react.
+
+What would you have us do?
+
+“For now?” Liam sat back in his chair. “Enjoy the show. He’s fun; the mad ones always are. Going after him in the Eternal Depths would cause far more problems than he’s worth at the moment, and I don’t foresee him leaving any time soon.”
+
+The woman raised an eyebrow. “And why is that?”
+
+Liam grinned and crossed his legs and took a sip of brandy. “Because he’s sworn to destroy it.”
+
+The woman paused. The hands stilled. The demon laughed, “So he is a threat.”
+
+Liam shrugged. “Who’s to say? One way or another I thought you should know, either to prepare your forces in case he sets his sights on you next or to start your own internal conflicts and bidding wars over his potential pact. Or…” He glanced over at the sense of dread. “To enjoy the show.”
+
+“We should destroy him now,” the seraphim declared, “before he becomes a greater threat.”
+
+“Where’s the fun in that?” Liam asked. He shook his head. “No, for now he’s under my protection. Anything untoward happens to him and there’ll be consequences for everyone involved. If he dies—and given his choice of obsession there’s a good chance of that—it’ll happen fairly, because of his mistakes, not ours.”
+
+“You would have us do nothing?” the angel barked.
+
+“I didn’t say that.” Liam waved him off. “Go gather your forces or sing your hymns or whatever it is you do when a new paragon appears. I’m sure your brethren would like to hear the news.”
+
+“Bah!” the seraphim grunted, and a chorus of celestial trumpets sounded out as a pillar of light descended from above to embrace his many eyes. In a flash, he was gone.
+
+The demon rolled his eyes and waved his hand with a flourish, summoning a fell inferno at the base of the nearest tree. Without a word he stormed through it, taking his leave.
+
+The sense of dread faded away, the hands retreated through their hole which closed up after them, and when Liam next looked to his left the wooden effigy was gone.
+
+The woman finished her brandy, patted down her emerald cloak, pulled its hood over her head, and smiled at Liam. “Thank you for the warning. I haven’t seen them this riled up since the Flame of Omu-Yin went out.”
+
+Liam raised an eyebrow. “That was two days ago.”
+
+She grinned. “You know how it goes. Everything happens at once.” Simply opening her hand and allowing her empty glass to fall out of existence rather than setting it down, she snapped her fingers and rent reality in twain. “I’ll see you around.” With that she stepped through the tear towards the ivory city on the other side, closing the way behind her.
+
+Alone in the Elsewhere once more, Liam poured himself another glass of brandy and stared off into the brown expanse before him. He could afford a few more moments of quiet isolation before his return. He took a sip, rested his elbow upon the arm of his chair, and spoke the words to himself.
+
+“This should be fun.”
+
+Edmund ran.
+
+At the moment no shadow chased him, but with no way of knowing how or when the path ahead might be closed off, he kept haste for fear of missing some future window. Madness beckoned him ever onward.
+
+Having reached the open exit and thus technically cleared the floor, his next Aspect was available to him, but claiming it would require shutting his eyes long enough to envision his constellation, a risky endeavor while running down a hallway.
+
+He waited until he was on a straightaway, a section of hall with no twists or turns or junctions from which a shadow might appear for some distance, before electing to take that risk. Whatever he was running into, an extra Aspect might make the difference.
+
+He didn’t have to think long. Combining Aspects was almost always more powerful than selecting a new base Aspect, and only his Solitude had available combinations. Considering how much he’d depended on it thus far, Madness was the obvious choice. Almost at once a new star blazed to life in his constellation, shining as gold as Obsession.
+
+Tier 2 Aspect: The Recluse - Gold Resonance
+
+Level 1 - Empower the effects of Madness while alone. Lessen the effects of Madness while accompanied.
+
+Edmund blinked, his eyes shooting open just in time to dash down a side passage his Madness screamed he follow. He’d never heard of an Aspect that only empowered another. By combining it at all his Madness had gone up a level already, though its description still refused to change. He couldn’t begin to wonder what The Recluse would do exactly, nor whether weakening Madness when he was with others would prove a boon or a curse. He hoped the former. At least this way, merchants, gathers, and other delvers he encountered wouldn’t be as put off by his insanity.
+
+If nothing else, the ethereal arrows that pointed the way felt more solid, more real. Edmund knew they weren’t, not to anyone else. To him, they were real enough to guide the way.
+
+He caught a glimpse of something small and blue darting past an intersection ahead of him, but a shadow passed right after it, blocking off any hope of giving direct chase. His Madness led him in the opposite direction, the way the thing had come. He got a second look some twenty minutes later, noting the distinct sound of four paws patting against the earth as it ran past. Still Edmund ran, gaining more and more of an intuitive sense of the floor’s layout and the movements of the shadows with every passing minute.
+
+Whatever pattern the smokey arrows dictated, he followed. They’d take him to his goal soon enough.
+
+It took nearly forty minutes before he finally got a good look at the thing.
+
+Somewhere along his run he’d fallen into a rhythm, his breath and heartbeat and footsteps falling into pace with each other as he grew more and more comfortable with the rules of the level. That all fell away when he saw the fox.
+
+It looked no different from any of the other foxes he’d once chased away from the henhouse in another life, but for the azure color of its fur and the pure white tuft at its chest. Fear and mischief mingled in its eyes as it ran right towards him, a shadow beast close on its tail. Edmund crossed the intersection between him and the fox and stopped short. With the darkness chasing it, the critter had no choice but to approach.
+
+In a single motion, Edmund jerked his hand out to grab the thing by the scruff of its neck and took off, dragging it along with him as Madness directed his path. It yelped but didn’t struggle, allowing him to pull it from the shadow’s path.
+
+The shadow had other ideas.
+
+The now-familiar chill in the air and sense of claws scraping against stone seemed to heighten as Edmund ran away with the fox. In the same moment, the ethereal arrow in the intersection ahead switched directions, his Madness seeming to change its mind.
+
+The shadows might’ve followed a prescribed path before, but now he’d grabbed the fox, Edmund had their attention.
+
+He ran.
+
+The fox pulled its front legs from the ground, allowing its rear paws to trail through the dirt as Edmund carried it. He gulped down air, took sharp swinging turns, and slammed his feet against the ground as he sprinted. With almost every intersection a shadow joined the chase, falling in behind him as the air grew ever colder and the chorus of claws ever louder and more cacophonous.
+
+He felt precious relief when the exit came into view, only to face crushing dread when a shadow turned the corner opposite him, racing for him and the exit between them.
+
+Edmund ran faster. He put his every hope, his every fear, his every ounce of resolve and drive and utter need into this run. Instinctively he knew, or at least guessed, that he could give up the fox, that he’d need only toss the blue vixen to the darkness and the shadows would let him be.
+
+He turned his eyes to the loot chest on the floor, still unopened and brimming with promise. He knew he’d fall to the shadows if he dared stop to open it. He grit his teeth. He bit back a curse. He muttered a prayer of hope that the sacrifice would be worth it, and with a swing of his arm, he threw the fox into the darkness.
+
+Not the scrabbling shadows that chased, but the darkness between floors.
+
+With one last look at the loot chest he’d have no time to open, Edmund swallowed back the knot in his throat, gripped tightly the loot he already had, turned to face the exit, and dove into the darkness.

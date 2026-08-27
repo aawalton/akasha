@@ -1,0 +1,319 @@
+---
+id: feffbdde-7097-5a63-b38f-dae94a88f435
+page-type-slug: story-chapter-royal-road
+title: "Chapter 73"
+slug: 0073-chapter-73
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 73
+ownLength: 1980
+unit: words
+ownProgress: 1980
+publishedAt: 2023-03-31
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1153941/chapter-73"
+royalRoadId: "1153941"
+markedReadAt: "2026-06-29T20:34:19.597Z"
+---
+
+I wake up after a good night of rest and crawl out of bed. There are birds chirping outside to the rising sun.
+
+I get dressed and open my door to be immediately greeted by a familiar face.
+
+“You ready Jay??”
+
+Maria is sitting on the upper ledge of the apartment building stairs, resting the new High Orc sword across her shoulders. She’s smiling and staring at me with her piercing blue eyes.
+
+“Well, yeah I am. Good morning to you too I guess…”
+
+She laughs.
+
+We walk down the apartment building steps and into town. After grabbing a quick breakfast we head off to the forest near the south side of town.
+
+I strike up some conversation on the way.
+
+“So, how was that class last night? Any promising new recruits?”
+
+Maria thinks to herself.
+
+“I can’t tell, they were all under level 30. It’s pretty hard to gauge their potential, but it was fun.”
+
+“Hmmm. So they were all just average.”
+
+She looks at me with a curious look.
+
+“Average?”
+
+“Yeah. Average. So many hunters in the world just seem to be average… and no one talks about it. It almost demotivates me to progress sometimes. Don’t you think it’s a bit crazy for Jack or Rei to just sit around in their positions? To not get stronger? So many people just stop getting stronger…”
+
+Maria grins.
+
+“So you want to be the strongest too?”
+
+We lock eyes.
+
+“The strongest?? Hey, I never said that! We aren’t superheroes ya know, it’s not like we have to save the world. I just want to become the strongest version of myself… and face off against the strongest monsters. So sure, in a roundabout way. Maybe I do want to become the strongest.”
+
+“Hmmph.”
+
+“What?”
+
+“Whoever kills the most High Orcs today is the strongest okay?”
+
+Maria blushes but has a serious look on her face. I grin.
+
+“Sure, I’ll take you on. Loser has to buy dinner, how about that?”
+
+She nods.
+
+“You’re on.”
+
+We make our way up the heavily wooded mountain and jump through the portal in the dungeon run shack.
+
+While staying within 2km or so of the dungeon entrance we each farmed High Orcs for the next 6 hours. Every 2 hours we reported back to the dungeon entrance to check up on each other.
+
+Maria faced off against 14 opponents and gained 37 levels in total. 9 MP potions had to be used, but by the end of the day, she could one-shot kill the High Orcs with a solid magic attack. They dropped 14 mana crystals, 1 mace, and 1 sword.
+
+I faced 18 High Orcs, gaining 6 levels in total. They dropped 16 mana crystals, 1 mace, and 2 swords. I used 0 potions.
+
+Maria is level 248, and I’m level 254 now. We meet back at the dungeon start point for the third time.
+
+“Hey Jay! I think we should face the boss room together, these regular monsters are getting boring.”
+
+I smirk.
+
+“You think you’re ready for it?”
+
+She looks at me with an annoyed stare.
+
+“Do you think YOU’RE ready for it?”
+
+I laugh.
+
+“I wouldn’t mind a challenge. Rei will kill us if she finds out though. You know this is no joke right? We’ll have to work together flawlessly.”
+
+“I know what a life or death battle is! I’m ready, and just won’t tell Rei. I can handle myself.”
+
+She crosses her arms and looks me insight in the eyes.
+
+“Hey! I’m just making sure we’re clear. This isn’t going to be a walk in the park. How many potions do you have left?”
+
+Maria sifts through her item box.
+
+“Four more. That should be enough if we’re fighting it together.”
+
+I nod.
+
+“Great, I have extra if needed.”
+
+Maria raises her sword toward the back of the dungeon and stares off into the sky.
+
+“Let’s go!”
+
+Her eyes seem different than I remember, she’s hungry for battle. Something changed in her recently… In my opinion, it’s for the better.
+
+I raise my sword to match her energy, just like our first day hunting together.
+
+“Let’s go!”
+
+We walked deep into the dungeon.
+
+Only 3 High Orcs appeared on our way. I let Maria Take them out because she seemed more eager to do so. Each battle was over in an instant. With one touch of her sword, she’s able to turn these Orcs into frozen white statues that fracture into pieces with a single swing of her blade. It’s pretty crazy to consider it took 7 MP potions and half an hour for her to defeat one of them just yesterday….
+
+Finally, we make it to the floating grey portal. Without hesitation, we both jump through.
+
+The sky is dark orange, almost red… The ground is jet-black, completely flat, and goes off in all directions further than I can see.
+
+Maria and I stand side by side looking deep into the void…
+
+I gulp.
+
+“This is weird….”
+
+“Yeah…”
+
+Cautiously, we both walk further into the boss room. About 3 minutes later a rumbling can be heard in the distance.
+
+I use enemy detection and inspect.
+
+[200m]
+
+[Lv. 258]
+
+[Lv. 259]
+
+[Lv. 259]
+
+[Lv. 260]
+
+[Lv. 260]
+
+[500m]
+
+[Lv. 295]
+
+[1000m]
+
+[Lv. 334]
+
+My eyes open wide and I yell to Maria.
+
+“We have company! There’s a pack of 5 coming our way, and more behind them.”
+
+Maria nods and we both charge forward to meet the enemies. 30 seconds later we are face to face with 5 dark red glowing High Orcs. 3 of them are swinging a mace above their heads and 2 are handling swords.
+
+I burst into flames and activate berserker while veering off to the right towards the two sword-wielding Orcs.
+
+Maria veers off to the left creating dense Ice chunks everywhere she steps to take care of the other 3.
+
+I’m able to bob and weave my way through the angry monsters with my speed and agility. They’re no better than the normal mobs outside the boss room. Moments later the two sword users are nothing but ash on the ground, while the mace users shatter into a thousand tiny ice fragments behind us.
+
+We look back at our work and grin while locking eyes for a fraction of a second… Then we hear an ear-piercing roar in the distance….
+
+A behemoth approaches us from the horizon and I use my inspect skill again along with appraisal.
+
+[Lv. 295]
+
+Active Items:
+
+[Steel Mace] +300 Strength
+
+[Steel Sword] +300 Strength
+
+[Steel Helmet] +300 Defense
+
+[Steel Chestplate] +300 Defense
+
+[Steel Wristguards] +200 Defense
+
+[Steel Boots] +100 Speed +100 Agility
+
+Active Skills:
+
+[Berserker]
+
+[Swordsmanship]
+
+“This one might put up a decent fight.”
+
+A massive High Orc appears in front of us and draws its huge sword.
+
+The beast stands around 5m tall and has much darker skin than the smaller Orcs we just defeated. It’s armor is shining silver. It looks very thick and durable.
+
+A dark red aura surrounds its body, indicating its berserker is active.
+
+Maria and I dart around it shooting off in opposite directions. She takes the left side, and I take the right. While igniting my flames and activating my own berserker skill I look down at my sword… since yesterday it hasn’t glowed red one time. It still remains black.
+
+The massive monster runs towards us, but it’s much more fixated on me after my display of flames.
+
+The High Orc is less than 50m away, Maria takes advantage of its hyper fixation and circles around behind it. I ready my sword and wait for her to make a move.
+
+Moments later I hear Maria’s battle cry and a bright blue light glows behind the charging monster. A fast-moving sheet of ice creeps up behind its feet and stops it in its tracks 10m away from me.
+
+I use this time to launch my own attack. I dart in and land a fiery slash across the beat’s abdomen right under the heavy metal chest plate. I plunder some MP and leave as much fire residue behind as possible.
+
+It lets out a roar as I quickly jump out of the way of its own oncoming sword.
+
+*CRACKKK*
+
+*CRACKKK*
+
+I turn around to see the High Orc break free from its Ice shoes and begin to charge after me.
+
+The gash I felt on its frontside is visible, but it doesn’t seem to be too hurt from it.
+
+*SHINGGGG*
+
+From behind, Maria attacks the monster’s backside leaving her own ice residue. It doesn’t slow the Orc down, but damage is damage…. can’t complain.
+
+Maria and I weave around in circles to create some distance between us and the boss. The power level gap is about the same as when Maria faced off against an Orc for the first time. It won’t be easy, but with enough technique and patience… we can beat this thing sooner or later. I yell to Maria.
+
+“Hey! Make Ice walls! Your strategy from yesterday will work!”
+
+She looks over to me wiping sweat off her forehead and drinking an MP potion.
+
+“I’ll need more mana!”
+
+I reply.
+
+“We have the speed advantage here! Follow me, I’ll give you some potions!”
+
+I turn and run.
+
+Maria follows.
+
+We run further into the dungeon away from the beast.
+
+“Here take these.”
+
+I take out a handful of MP potions, it’s 7 in total. She puts them in her item box.
+
+“Thanks. Looks like I’ll have to get creative here. You’re right, Ice walls it is.”
+
+We nod and run back in toward the beast. It keeps charging at us like an angry bull. The games begin.
+
+Maria charges at the High Orc head-on, while I veer off to its right side. She glows bright blue attracting its attention and making a massive Ice barrier.
+
+*BOOM*
+
+The strategy still works perfectly, even with a boss like this. I grin and run into the massive cloud of ice and snow using enemy detection to locate the beast’s exact location.
+
+*SHINGGG*
+
+As I leave my fiery gash in its lower back, my eyes open wide as I feel the presence of another enemy way too close for comfort…
+
+Inspect and enemy detection read out these numbers.
+
+[10m]
+
+[Lv.295]
+
+[100m]
+
+[Lv. 334]
+
+I dart away from the beast to see Maria fly out of the ice cloud on the other side. I yell to her.
+
+“THERE’S ANOTHER ONE!”
+
+I scan the area furiously using enemy detection, appraisal and inspect all at once in every direction.
+
+I can’t find it… That other presence just vanished… All I can’t detect now is the High Orc in front of us…
+
+The beast roars and charges at Maria again. She looks at me in confusion, then goes back into battle mode to face the murderous behemoth.
+
+I shake my head and run at it as well. It must be further than I imagined… Or…. Well, I’m not sure what I just imagined…
+
+Maria creates another Ice wall and we land a dual attack on the High Orc again. When we fly out from opposite sides of the ice cloud the snow dissipates. The Orc roars and faces us with its bloodshot eyes. Our slashes are slowly chipping away at its health, but this is definitely going to take a while.
+
+It charges and Maria creates another wall of Ice. The beast blows the Ice barrier into a million pieces and I run straight toward it.
+
+I activate inspect and enemy detection.
+
+My heart skips a beat…
+
+[1m]
+
+[Lv. 334]
+
+My vision goes black…
+
+I ignite into flames and activate body hardening around all my vital areas.
+
+Still, I can’t see a thing…
+
+I use appraisal.
+
+Active Items:
+
+[High Orc Commander’s Sword] +350 Strength
+
+[High Orc Commander’s Armor Set] +500 Defense
+
+[High Orc Commander’s Ring] +50% Mental Strength
+
+Active Skills:
+
+[Dungeon Walker]
+
+[Intimidation]
+
+“What… is happening…?”

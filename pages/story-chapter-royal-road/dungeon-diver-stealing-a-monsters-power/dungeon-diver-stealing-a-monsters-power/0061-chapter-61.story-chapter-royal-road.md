@@ -1,0 +1,221 @@
+---
+id: 348bbf0d-5214-5910-b9fc-934d448e351f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 61"
+slug: 0061-chapter-61
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 61
+ownLength: 1932
+unit: words
+ownProgress: 1932
+publishedAt: 2023-03-19
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1142728/chapter-61"
+royalRoadId: "1142728"
+markedReadAt: "2026-06-29T20:33:54.693Z"
+---
+
+I made it back to the Inn and nodded to the man sitting behind the front desk before riding the elevator up to my room.
+
+After my usual hot shower, I fell into bed and stared at the ceiling thinking about my day.
+
+Maybe the folks at the Tara Guild are a group of good people after all. I wouldn’t mind seeing Nessa and Hudson again. I really enjoyed that boss fight and gained a lot more levels, but I think I’ll try to take tomorrow off from fighting. It'd be better to focus on crafting my new sword and take a day to relax.
+
+The drinks from earlier allowed my mind to wander aimlessly as I fell into a deep sleep.
+
+The next morning my mind and body were rejuvenated entirely as I jumped out of bed.
+
+After taking the elevator down to the lobby I saw the Inn Keeper smile and wave at me as I walked towards the front door.
+
+“Another day of hunting?”
+
+“Nahh, today’s my day off.”
+
+“Probably a good plan. There weren’t any major breaks last night. It seems the surge hit its peak yesterday. There may be some minor activity for another day or two, but we made it through another one.”
+
+“Oh yeah? That’s good to hear."
+
+He nodded.
+
+“Well, have a nice relaxing day sir.”
+
+I walked out the door and replied.
+
+“You too, have a great day!”
+
+The sun just came up over the horizon as I walked following the directions of the old man’s sloppily written address.
+
+My stomach still feels kind of full from last night, but it’s probably a better idea to eat now and not worry about it later. I stopped by a small family-run diner to grab a breakfast sandwich before making my way toward the opposite side of town.
+
+The further I walked the more off-putting the environment felt. The buildings became shorter and more run down. Everyone around wore less well-kept clothing and the general feel for the town was a bit more rugged. I expected this though, I am trying to find a black market after all.
+
+All of the tall silver buildings were glimmering in the distance, there's a completely different way of life out here. Most of the buildings were made of red bricks, others were old school and made of wood.
+
+About a third of the buildings are definitely abandoned because the windows are cracked and some doors are completely smashed in. There’s no way anyone lives in those.
+
+This part of town is where all the outcasts from the city reside. There’s a bar on every corner and they’re mostly filled with guys in dark rugged clothing, tattoos, and dirty hands. Just like the old man at the bar last night, these people have had long and tough lives.
+
+Some of them look really intimidating and mean, but the majority of people here are laughing and having a good time. It’s just a crowd I’m not used to, there’s no point in thinking poorly of them. We’re all living life with the hand we were dealt day by day.
+
+After about 30 minutes of walking in total, I finally found the building that belonged to the address. It’s about 3 stories high and made of old bricks. There are two big-looking men in black leather jackets standing outside. The structure has no open windows where anyone could see clearly inside.
+
+I walked straight up to the front door and talked to the men.
+
+“Hey. Uhh, I’m looking for Briana.”
+
+The man on the right raised an eyebrow while smirking and stepping forward.
+
+“Oh yeah? What for? You don’t seem to be from around here.”
+
+I gulped and used inspect.
+
+[Lv. 144]
+
+[Lv. 151]
+
+I let out sigh of relief and stood my ground confidently. These guys may be high-level to the usual thugs around here, but they don’t scare me.
+
+“I need a smith. I was told Briana can craft what I need.”
+
+They both laughed and turned to mutter a few things to each other before nodding and opening the door.
+
+“You seem serious enough, just no funny business kid. Mess around and you’re dead.”
+
+“Understood.”
+
+I walked through the front door and was pretty surprised at what I saw.
+
+There were almost a dozen people working at desks reading books and writing things down on papers. Every desk had piles of swords, potions, rings, bracelets, and magic gear I’d never seen before. It looked like they were filing and keeping stock of large quantities of magic items.
+
+The man who let me in spoke up.
+
+“Go up to the third floor, I’m sure she knows you’re coming.”
+
+“Thanks.”
+
+I walked through the working men and women while eyeing the gear they were sifting through. Some of it looks like some pretty good quality stuff.
+
+At the end of the room, there’s a spiral staircase that goes both up and down. I walked up it.
+
+The second floor wasn’t anything like I expected either. There were two women on either side of the room working at desks. They seemed to be filing more items and doing paperwork as well, but these workers were in less of a rush than the ones downstairs.
+
+At the end of the room, there's an empty desk. A tall thin man with short black hair stood next to it while reading a book. He looked up at me through his wire framed glassed and gave me a nod of approval as I continued upstairs.
+
+Once I finally made it to the top floor of the building I immediately felt and ominous presence in the room. It feels like I just walked into the lair of a beast…
+
+What’s wrong with this place….?
+
+The room’s walls are lined from floor to ceiling with books. It’s pretty dimly lit, so can’t even see the back of the room completely.
+
+“Hello? Sorry for the intrusion, its just I-“
+
+“Welcome, I’ve been expecting you.”
+
+I heard a woman’s voice from the back of the room and slow footsteps followed.
+
+“I’m Jay. Nice to meet you.”
+
+I used inspect and enemy detection to try and get a better idea of who's in the room with me.
+
+[Lv. 488]
+
+My eyes went wide… She’s... Level 488.... Who is this woman….?
+
+“Nice to meet you Jay. Call me Bri. No need to be too formal."
+
+She finally walked into the light, I couldn’t help but stare. Bri wore tight black latex pants and a fishnet shirt that showed her tight matching latex bra underneath. The black clothing contrasted her smooth olive skin incredibly well.
+
+She stood around 190cm tall, that’s including her black leather lifted boots.
+
+Her eyes were such a deep brown color that they looked completely black. To top it all off, her silky jet-black hair fell down and wrapped around the front of her thin waist.
+
+I don’t know exactly what I was expecting… but it wasn’t this….
+
+“N-Nice to meet you too, Bri.”
+
+She smiled and pointed one finger in the air. A white light glowed around her hand, then expanded to illuminate the entire room.
+
+There’s a wooden desk at the back of the room. A black chair stood behind it with red velvet padding and gold edges to make it look like a throne.
+
+In front of the desk, there’s a large matching red and gold couch as well. It must be for guests like myself.
+
+At closer examination in the light, the walls aren’t just covered in books. There are all kinds of potions, stones, and weapons up on racks. I’ve never seen most of these magic items before.
+
+“Please, once you’re done admiring my collection have a seat. I believe we have some business to discuss.”
+
+Bri smiled and looked me directly in the eyes as she turned to walk back to her desk.
+
+I shook myself from my daydream and followed her.
+
+She sat in her throne with both arms on her desk looking straight ahead as I made myself comfortable on the couch. It’s time to get straight to the point.
+
+“I would like to have a sword crafted, apparently you’re the woman for the job.”
+
+“Yes, it seems I am. Let me see what materials you've brought in.”
+
+I paused for a moment. My items are in my storage system… She sensed my hesitation and spoke up.
+
+“Anything you show me during our meeting will never leave this room, I promise. Our word is all we have in this line of business, trust me.”
+
+I nodded and stood up to take out the Minotaur horn from my item storage, she didn’t bat an eye as I placed in on the desk.
+
+“I have an element stone too, how can I transfer that to you safely?”
+
+Bri took out a clear crystal tray about the size of my hand from a drawer in her desk. It began to hum and glow white.
+
+I gulped and took out the stone from my storage system. It burned my hand horribly as I transferred it to the tray. Flames flew everywhere, I’ve never taken this thing out in a small room like this before. It felt horribly dangerous, but Bri just grinned a little. I used self regenerate to heal my hand behind my back.
+
+The second I placed the stone on the tray it stopped producing flames. It just sat there… the stone looked like a red mana crystal. I stared at it curiously and Bri spoke up.
+
+“These are some high-grade items, not bad. I can only imagine where you got them.”
+
+She felt the Minotaur’s horn all over and began examining the element stone closely as well. About 30 seconds later she looked up at me.
+
+“Okay. I’ll make you a sword, It’ll take me a few hours at most.”
+
+I grinned ear to ear, then Bri spoke up again.
+
+“Now let’s talk about cost.”
+
+“Sure, how much will this blade run me?”
+
+She looked at me with a serious stare.
+
+“To get started, I’ll need 8oz of your blood and 10 gold coins.”
+
+That smile left my face immediately and I got up to my feet.
+
+“Hey! Hey! Wait a minute! Since when is blood a payment type? What-“
+
+She rolled her eyes and chuckled.
+
+“Sit down. The blood isn’t part of the payment, I need to pair the element stone with the sword user. Without a blood bond, the stone will always burn you when you use it.”
+
+I sat down and nodded slowly.
+
+“A blood bond? Okay. That makes more sense, I didn't know you had to do that. Hmm. Uhh, about that 10 gold. I don’t have enough on me…just uhh, give me a few days I can ge-“
+
+“No worries, you don't have to pay in gold."
+
+I looked at her curiously. We stared at each other in silence for a moment until she spoke up again.
+
+"I have another way for you to pay me.”
+
+Bri looked me up and down and a grin slowly formed across her face.
+
+"W-What’s that? What do you mean?”
+
+She pointed to the spiral staircase at the back of the room, then looked me in the eyes and pointed down.
+
+“Survive one fight in the Rumble Dome.”
+
+I raised an eyebrow.
+
+“The what?”
+
+Her grin grew even bigger.
+
+“It’s an underground cage-fighting league. If you win one fight, the sword is yours free of charge.”
+
+This isn’t exactly what I expected I'd be getting myself into on my day off... I smirked and began to tingle with excitement.
+
+“Deal.”

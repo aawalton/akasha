@@ -1,0 +1,299 @@
+---
+id: efe23ab4-3666-58f7-8913-0818e3d958f1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 69"
+slug: 0069-chapter-69
+partOf: dungeon-diver-stealing-a-monsters-power
+position: 69
+ownLength: 2300
+unit: words
+ownProgress: 2300
+publishedAt: 2023-03-27
+link: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power/chapter/1150152/chapter-69"
+royalRoadId: "1150152"
+markedReadAt: "2026-06-29T20:34:11.766Z"
+---
+
+“Hey! Would you look at who it is?”
+
+I heard a familiar voice behind me and turned my head to see Hudson smiling and waving while walking in my direction. Trailing behind him were 4 hunters I’d never seen before.
+
+“Are these your new recruits?”
+
+He nodded and looked back.
+
+“Yup! Fresh D Class Hunters, it’s my job to train them this weekend.”
+
+“Hey uh- how’s Nessa doing? She’s not with you today?”
+
+Hudson nodded.
+
+“Nessa hit level 250 yesterday. She’s doing some special sword training at the guild to make sure she’s ready for the test next weekend.”
+
+“Already??? How did she level up so fast? I can’t get much further in the Minotaur Dungeon.”
+
+Hudson pointed at the list on the wall.
+
+“Well, the only other two D Class dungeons that have higher levels than the Minotaur are the Giant Ape and Lizardman dungeons. I assume she power-leveled there with another guild member.
+
+I took a look at the list. The Giant Ape dungeon seems straightforward enough. It’ll be worth checking out today.
+
+“Okay, thanks. That’s exactly what I was looking for. Hey uh- Tell Nessa I’ll see her at the Exams!”
+
+“Of course!”
+
+*Screeeechhh*
+
+With a wave of goodbye, we each got on different trains and headed off.
+
+Minutes later I arrived. No one else got off at this stop, It looks like this dungeon isn’t very popular. I made my way up the escalator and took out my sword before jumping through the floating blue portal.
+
+I’m bombarded by a hot and humid environment the second I enter this dungeon. There are thick trees all around and occasional small clearings that let in the shining artificial sunlight. The ground is covered in lush green plants and a variety of multicolored fruits and flowers. This is a jungle dungeon… It’s pretty cool.
+
+I walk deeper in with slow cautious steps, but this eventually turns into faster jogging as I get more comfortable with the terrain. It takes about 20 minutes before I encounter my first monster.
+
+As I’m walking along the jungle floor I see many tree’s shaking violently in the distance and ready my blade. A dark brown creature comes flying out of the top of the trees swinging on branches and squares up with me on the jungle floor about 20m away.
+
+I use inspect and appraisal.
+
+[Lv. 213]
+
+Active Items:
+
+[Steel Machete] +200 Strength
+
+[Steel Chestplate] +200 Defense
+
+Active Skills:
+
+[NONE]
+
+It’s a giant monkey…. The beast stood around 4m tall, and the ground shook after every step it took. The Shining silver machete and armor it wore made it look almost human, but the bloodshot eyes and fangs protruding from its mouth told me otherwise.
+
+It let out a scream that shook the trees and ran at me. I ignited my blade and ran towards it as well. Within seconds the ape fell into fiery pieces.
+
+I let out a sigh of disappointment and collected the mana crystal it dropped moments later.
+
+“Hopefully the boss puts up a fight.”
+
+It took about 2 hours, but I made it to the back of the dungeon. While walking, I faced off against 5 more apes. All of them ranged from level 210-220 and dropped mana crystals. One of them dropped a machete with +200 strength. I put all the loot in my item storage.
+
+The boss room portal is light grey. I jump through without much hesitation. The inside is also a jungle environment, but the outer edges of the room are blocked off by very large thick trees. It seems there’s no wave of Apes before the boss. All I hear is one large monster charging toward me in the distance.
+
+I use inspect, appraisal, and enemy detection.
+
+[50m]
+
+[Lv. 246]
+
+[Steel Machete] +250 Strength
+
+[Steel Chestplate] +250 Defense
+
+Active Skills:
+
+[NONE]
+
+Once it leaps out of the tree tops I can see that this beast looks almost identical to its underlings, it’s just closer to 6m tall.
+
+It let out a roar and our battle began. Although its defenses were a bit stronger, my speed and boosted strength wildly outclassed this boss. In Just 3 hits, the Giant Ape fell to its knees and collapsed.
+
+[Level Up]
+
+[Level Up]
+
+I’m too powerful for these D Class dungeons… I let out another long-winded sigh and collected the large mana crystal that dropped while letting the white light transport me to the dungeon start point.
+
+“Well… That was a waste of my time.”
+
+I left and boarded the train to check out the lizardman dungeon, apparently, these two are at the top of the list. If this one doesn’t impress me, I guess it’s hopeless.
+
+After a short ride, I made it to the lizardman portal. I readied my sword and jumped through to find myself in a desert dungeon.
+
+The air is dry and the sand is hot. There isn’t a single tree In sight. I ventured forth to see what this dungeon had to offer.
+
+Unfortunately… I was slapped in the face with reality. My gear and level are just way too strong.
+
+I came across 7 monsters on my way to the boss room. They were all roughly 2.5m tall, with green scaly skin, humanoid bodies, and lizard heads. Some held spears and others had swords. Most of them wore some type of armor. They were much more agile than the Apes I fought earlier, but not nearly as strong. They ranged from level 215-225. Each battle lasted 1-2 hits max and they all dropped mana crystals. I did not level up or get any special drops.
+
+Once I arrived and entered the boss room I fought a much bigger and darker version of the regular lizardmen. It stood around 3.5m tall and its scaly skin was almost black in color. The beast was level 251 and carried a long silver sword. It did not put up much of a fight against my overpowered stats.
+
+[Level Up]
+
+[Level Up]
+
+As I collected its mana crystal and transported back to the surface, I checked my status.
+
+[Status Open]
+
+____________________
+
+Name: Jay Soju
+
+Level: 241
+
+Hp: 1210/1210
+
+Mp: 1045/1210
+
+Strength: 582 [+448]
+
+Speed: 694 [+416]
+
+Agility: 720
+
+Defense: 515 [+206]
+
+Mental Strength: 582 [+116][+163]
+
+Skills:
+
+Absorption
+
+Swordsmanship
+
+Combat Magic [Fire Summoning]
+
+Inspect [Special Grade]
+
+Enemy Detection
+
+Body Hardening[Special Grade]
+
+Self Regeneration
+
+Spacial Magic[Item Storage]
+
+Plunderer
+
+Telekinesis
+
+Appraisal[Special Grade]
+
+Conceal
+
+Items Equipped:
+
+Golden Wolf Ring [+20% Mental Strength]
+
+Cyclops Eye Pendant [+40% Defense]
+
+Dark Elf Boots [+60% Speed]
+
+The Flame Emperor’s Sword [Fire Aspect][+77% Strength][+28% Mental Strength]
+
+_____________________
+
+“Interesting…”
+
+Even though my level raised significantly since I checked it last, My sword’s stats haven’t raised at all. I curiously examined my black blade before putting it into item storage and walking out of the dungeon.
+
+I’ve definitely graduated from these D Class dungeons… It’s best to just call it a day at this point.
+
+I walked to the market and sold my loot for around 50 silver. After a decent meal, I stopped by a comic store and grabbed a new book I haven’t caught up on yet before making my way back to the Inn.
+
+Once upstairs, I opened to the first page and began to immerse myself in another world. There’s not much else to do today, and I’m kind of bummed out about my current dungeon situation.
+
+The comic I grabbed today is all about an S Class hero that protects the world from monsters, it’s the new volume that I’ve been waiting on for a few months. Although his position as a hero brings him fame and fortune, he’s been doing the same thing every day for years. No monsters or even humans can come anywhere close to his level of power. Most of the chapters involve him daydreaming about fighting stronger monsters and being upset when he snaps back into reality where his battle has already been won. Although I’m nowhere near the world’s strongest, I relate a lot with him today.
+
+The hero almost gives up on being a hero because it wasn’t entertaining his immediate wants and needs. Eventually, he finds fulfillment and a larger purpose in helping the people around him stay safe and grow to reach their own goals.
+
+To be honest, I got a little lost on that last part. The whole craving a stronger opponent was all that stuck in my head. The end of the comic left us readers with a cliffhanger hinting that there may be a villain of much greater magnitude than he ever imagined. Of course… I can’t wait to buy the next volume!
+
+With that, the sun slowly set and I fell asleep dreaming about fighting my own world-ending monster.
+
+I woke up with the rising sun and hopped out of bed to make my way downstairs.
+
+“I hope you enjoyed your stay, sir! Please do come again.”
+
+I nodded to the Innkeeper and left him the room key.
+
+“I had a great stay, thanks!”
+
+After a quick breakfast, I hopped on the train and watched the buildings, trees, mountains, and lakes whiz by on my way back to the countryside.
+
+*Screeeeeech*
+
+A few hours later the train came to a halt at my stop. I stepped out and looked around. This place doesn’t feel the same at all anymore, everything is so small.
+
+I walked back to my old apartment building and climbed the steps to my door. There’s a note on the handle.
+
+“You’re welcome, Jay. You owe me one;) -M”
+
+It’s Maria’s handwriting… but I owe her one for what?
+
+I opened my door and walked inside. Looking around, this place is a mess. There are clothes on the ground and old water bottles all over the place.
+
+Not to mention my standard of living has significantly increased since leaving here. This old wooden-floored 2 silver month apartment is not going to cut it. I have to get a new place… scratch that, I need to move to the city for good!
+
+I tidied up the apartment a bit before deciding to head off toward Pace Guild to check in on everyone.
+
+About half an hour later I walked through the front door. The woman in the lobby greeted me with a surprised look on her face.
+
+“Welcome back Jay! I thought you vanished for good.”
+
+With a sarcastic stare, I replied.
+
+“Yeah, you wish. Is Jack in today?”
+
+“Sure thing. He just organized our morning raids, I’m sure he’d love to meet with you. Knock on his office door.”
+
+With a nod, I walked down the narrow hallway and knocked on Jack’s door. It swung open moments later and I was greeted with a smile.
+
+“Hey! It’s you! Welcome back! You look a whole lot different!”
+
+I walked into his office as he motioned for me to do so.
+
+“Really? What’s changed?”
+
+He stared at me for a moment.
+
+“It’s your eyes. They’ve definitely seen a bit more action since the last time we met.”
+
+We both grinned at each other. I can’t tell if he’s just greasing me up, or genuinely complimenting my improvement. Either way, I’ll take it.
+
+“Well, the capital just seems like the place to be. I’m going back, I just thought it’d be best to check back in… Plus, I know you had something you wanted to talk about last week. Could it have been the C Class exams?”
+
+Jack sat down at his desk.
+
+“Are you close…To level 250?”
+
+I nodded.
+
+“Yep, very.”
+
+“Well, that’s great to hear! I can send in your application today! Although you aren’t very active in our guild, it would still be appreciated if you competed under our name.”
+
+I raised an eyebrow.
+
+“Competed under your name? What do you mean?”
+
+“Every Region holds its own C Class exams separately, but the number of passes is regulated by the country as a whole. Well, it’s actually regulated by the Hunters Association if you want to get into the nitty-gritty details. Every guild from around the region applies with their top D Class Hunters over level 250 and they will compete in an event to decide the top of the class. If you don’t make the cut the first time around, you can enter again as many times as you’d like. It may take a few tries to achieve the “C Class” Rank but thats only natural. It doesn’t only take raw leveling power to defeat most C Class Monsters. This is what they test for in the exam.”
+
+I nodded slowly.
+
+“Interesting… So if your guild submits a D Class Hunter that passes the exam, I assume that raises your prestige a bit?”
+
+Jack smiled.
+
+“Well, yes of course.”
+
+I nodded again.
+
+“Sign me up. I’ll be more than ready in a week.”
+
+“Great.”
+
+We locked eyes and shook hands, then Jack spoke up.
+
+“You know, we’ve been power leveling and training Maria a lot this week. She became much more motivated after she came back from the city. I doubt she’ll make it to the necessary level by next Saturday, but her magic is progressing at an extraordinary rate. You may want to train with her a bit this week.”
+
+“Alright, maybe I will. Are there any High D Class Dungeons around here? Ones that are borderline C Class? Or a real C Class that hasn’t been rated yet if that’s even a thing? I need something to get my last couple of levels and cure my boredom for the time being.
+
+Jack put his hand on his chin and thought for a moment, then rolled his eyes.
+
+“You’re looking for a dungeon that bends the rules aren’t you?”
+
+I grinned and he nodded in acknowledgment.
+
+“Let me contact Rei, I’ll have her take you to the High Orc Dungeon. You’ll like it.”
