@@ -1,7 +1,7 @@
 export const summary = "Group each file of one section under the folder that holds everything pointing at it"
 
-import { AKASHA } from "../repo/roots/roots.ts"
-import { ROOT_FOLDER, folderOf, pointersInto, sectionAt } from "./section.ts"
+import { AKASHA } from "../../../repo/roots/roots.ts"
+import { ROOT_FOLDER, folderOf, pointersInto, sectionAt } from "../../../file-structure/section.ts"
 
 const NOTHING = "-"
 
