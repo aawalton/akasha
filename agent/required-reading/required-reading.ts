@@ -2,6 +2,7 @@ import type { AddressIndex } from "../../page/required-reading/address-index/add
 import { listField } from "../../page/frontmatter.ts"
 import type { PageAt } from "../../page/page.ts"
 import { blockOf, stringAt } from "../../page/text/text.ts"
+import { seatDefaults } from "./seat-defaults.ts"
 
 const PERSONA_KEY = "persona-slug"
 
@@ -67,12 +68,29 @@ function above(at: PageAt, index: AddressIndex): readonly PageAt[] {
   }
 }
 
-export function seatWarrantsFor(
-  body: string,
-  index: AddressIndex
-): readonly Warranted[] {
+export type Stated = (key: string) => string | null
+
+function statedIn(body: string): Stated | null {
   const { fm, why } = blockOf(body)
-  if (why !== null) return []
+  if (why !== null) return null
+  const defaults = seatDefaults()
+  return (key) => stringAt(fm, key) ?? defaults.get(key) ?? null
+}
+
+export function seatWarrantsFor(body: string, index: AddressIndex): readonly Warranted[] {
+  const stated = statedIn(body)
+  return stated === null ? [] : warrantsFrom(stated, index)
+}
+
+export function subagentWarrantsFor(seatBody: string, index: AddressIndex): readonly Warranted[] {
+  const stated = statedIn(seatBody)
+  if (stated === null) return []
+  const domain = stated(DOMAIN_KEY)
+  const defaults = seatDefaults()
+  return warrantsFrom((key) => (key === DOMAIN_KEY ? domain : (defaults.get(key) ?? null)), index)
+}
+
+function warrantsFrom(stated: Stated, index: AddressIndex): readonly Warranted[] {
   const found: Warranted[] = []
   const take = (claimant: string, type: string, named: string | null): PageAt | null => {
     if (named === null) return null
@@ -81,18 +99,18 @@ export function seatWarrantsFor(
     return page
   }
 
-  take("persona", PERSONA_TYPE, stringAt(fm, PERSONA_KEY))
-  const domain = take("domain", DOMAIN_TYPE, stringAt(fm, DOMAIN_KEY))
+  take("persona", PERSONA_TYPE, stated(PERSONA_KEY))
+  const domain = take("domain", DOMAIN_TYPE, stated(DOMAIN_KEY))
   if (domain !== null) {
     for (const one of above(domain, index)) found.push({ claimant: "domain", page: one })
   }
-  take("role", ROLE_TYPE, stringAt(fm, ROLE_KEY))
-  take("task", TASK_TYPE, stringAt(fm, TASK_KEY))
-  take("initiative", INITIATIVE_TYPE, stringAt(fm, INITIATIVE_KEY))
-  take("principal", PERSON_TYPE, stringAt(fm, PERSON_KEY))
-  const mode = stringAt(fm, MODE_KEY)
+  take("role", ROLE_TYPE, stated(ROLE_KEY))
+  take("task", TASK_TYPE, stated(TASK_KEY))
+  take("initiative", INITIATIVE_TYPE, stated(INITIATIVE_KEY))
+  take("principal", PERSON_TYPE, stated(PERSON_KEY))
+  const mode = stated(MODE_KEY)
   if (mode !== null) take("mode", DOMAIN_TYPE, `${MODE_PREFIX}${mode}`)
-  if (stringAt(fm, ON_CALL_KEY) === TRUE) take("on-call", DOMAIN_TYPE, ON_CALL_DOMAIN)
+  if (stated(ON_CALL_KEY) === TRUE) take("on-call", DOMAIN_TYPE, ON_CALL_DOMAIN)
 
   const reached = new Map<string, Warranted>()
   const queue = [...found]
