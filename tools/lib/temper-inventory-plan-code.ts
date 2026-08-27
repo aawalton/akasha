@@ -1,16 +1,13 @@
+import * as classifyItemModule from "@temper/game-items-core/classify-item-node-ids"
+import * as inventoryParserModule from "@temper/game-items-core/inventory-parser"
+import * as matcherModule from "@temper/game-items-rules-matcher/inventory-rule-matcher"
+import * as capacityFilterModule from "@temper/game-items-rules-routing/inventory-management-plan-capacity-filter"
+import * as managementPlanModule from "@temper/game-items-rules-routing/inventory-management-plan"
+import * as planChecklistModule from "@temper/game-items-rules-routing/inventory-plan-checklist"
 import * as utilsNarrowModule from "@shared/utils-narrow"
-import { codeModule } from "./code-import.ts"
 import * as planInputsModule from "./temper-inventory/inventory-plan-inputs.ts"
 import * as parseCharactersModule from "./temper-inventory/parse-temper-characters.ts"
 import * as parseConfigModule from "./temper-inventory/parse-temper-inventory-config.ts"
-
-const MATCHER = "@temper/game-items-rules-matcher/inventory-rule-matcher"
-const CAPACITY_FILTER =
-  "@temper/game-items-rules-routing/inventory-management-plan-capacity-filter"
-const MANAGEMENT_PLAN = "@temper/game-items-rules-routing/inventory-management-plan"
-const PLAN_CHECKLIST = "@temper/game-items-rules-routing/inventory-plan-checklist"
-const CLASSIFY_ITEM = "@temper/game-items-core/classify-item-node-ids"
-const INVENTORY_PARSER = "@temper/game-items-core/inventory-parser"
 
 export type InventoryDatabase = object
 
@@ -155,27 +152,27 @@ export function planInputs(): Promise<PlanInputsModule> {
 }
 
 export function ruleMatcher(): Promise<Matcher> {
-  return codeModule<Matcher>(MATCHER)
+  return Promise.resolve(matcherModule)
 }
 
 export function capacityFilter(): Promise<CapacityFilter> {
-  return codeModule<CapacityFilter>(CAPACITY_FILTER)
+  return Promise.resolve(capacityFilterModule)
 }
 
 export function managementPlan(): Promise<ManagementPlanModule> {
-  return codeModule<ManagementPlanModule>(MANAGEMENT_PLAN)
+  return Promise.resolve(managementPlanModule)
 }
 
 export function planChecklist(): Promise<PlanChecklist> {
-  return codeModule<PlanChecklist>(PLAN_CHECKLIST)
+  return Promise.resolve(planChecklistModule)
 }
 
 export function classifyItem(): Promise<ClassifyItem> {
-  return codeModule<ClassifyItem>(CLASSIFY_ITEM)
+  return Promise.resolve(classifyItemModule)
 }
 
 export function inventoryParser(): Promise<InventoryParser> {
-  return codeModule<InventoryParser>(INVENTORY_PARSER)
+  return Promise.resolve(inventoryParserModule)
 }
 
 export function parseCharacters(): Promise<ParseCharacters> {
