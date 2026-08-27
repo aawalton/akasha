@@ -1,5 +1,6 @@
 
-import { requiredReadingFor, type Pending, type Repo } from "../required-reading.ts"
+import type { Repo } from "../../page/document/types.ts"
+import { requiredReadingFor, type Pending } from "../required-reading.ts"
 import { recordSaid, recordStands } from "./read-record.ts"
 import { lead, remedyFor } from "./unread.ts"
 import { fromDisk, refusalText } from "./refusal.ts"

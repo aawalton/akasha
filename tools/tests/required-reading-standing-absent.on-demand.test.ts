@@ -1,7 +1,7 @@
 
 import { afterEach, beforeEach, describe, expect, test } from "bun:test"
 import { type Standing, standingOn } from "../lib/required-reading-standing.ts"
-import type { Repo } from "../required-reading.ts"
+import type { Repo } from "../../page/document/types.ts"
 import { CLAIMED, type Fixture, fileKeyDeclared, fixture, personaPages } from "./fixture.ts"
 
 let at: Fixture

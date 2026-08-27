@@ -1,6 +1,6 @@
 
 import { existsSync, readFileSync, statSync } from "node:fs"
-import type { Repo } from "../required-reading.ts"
+import type { Repo } from "../../page/document/types.ts"
 import { blobId } from "../../repo/git/git.ts"
 import { countLines, ownRead, sameBody } from "./read-record.ts"
 import { fromDisk, refusalText } from "./refusal.ts"

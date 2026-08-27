@@ -28,8 +28,6 @@ import { pageTypeChain } from "../page/property/frontmatter.ts"
 import { outOfBounds } from "../repo/path/path"
 import { AKASHA, isDirty, resolveRoots, rootFor } from "../repo/roots/roots"
 
-export type { Repo }
-
 export interface Pending {
   readonly paths: ReadonlySet<string>
   readonly read: (relPath: string) => string | null
