@@ -23,16 +23,8 @@ function repo(): RepoView {
   const documents: string[] = []
   for (const relPath of new Bun.Glob("**/*.md").scanSync({ cwd: at.root })) documents.push(relPath)
   return {
-    roots: {
-      instructions: at.root,
-      code: "/nonexistent-code",
-      memory: "/nonexistent-memory",
-      books: "/nonexistent-books",
-      stories: "/nonexistent-stories",
-      "code-editor": "/nonexistent-code-editor",
-      target: "instructions",
-    },
-    name: "instructions",
+    roots: { akasha: at.root, "code-editor": "/nonexistent-code-editor" },
+    name: "akasha",
     documents: documents.sort(),
     read: (relPath) => readFileSync(`${at.root}/${relPath}`, "utf8"),
     exists: existsSync,
