@@ -1,5 +1,4 @@
 import { posix } from "node:path"
-import { SOPS_CONFIG_BASENAME } from "../tools/lib/graph/producers/file/sops-config-file/types.ts"
 
 export type FileKind =
   | "ts"
@@ -57,6 +56,8 @@ const IGNORE_SUFFIX = "ignore"
 
 const isIgnoreBasename = (name: string): boolean =>
   name.startsWith(".") && name.endsWith(IGNORE_SUFFIX) && name.length > IGNORE_SUFFIX.length + 1
+
+const SOPS_CONFIG_BASENAME = ".sops.yaml"
 
 const TEMPLATE_SUFFIX = ".template"
 
