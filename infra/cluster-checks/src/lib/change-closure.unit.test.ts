@@ -6,8 +6,8 @@ import { CHANGED_FILES_MANIFEST, describeClosure, resolveChangeClosure } from ".
 const SCRATCH_ROOT = "/var/tmp"
 
 const WIDENING = [
-  "packages/infra/checks/",
-  "packages/shared/pages/core/src/page-type-sequence-name.ts",
+  "infra/cluster-checks/",
+  "shared/pages-core/src/page-type-sequence-name.ts",
 ]
 
 function rootWithManifest(lines: readonly string[] | undefined): string {
@@ -30,13 +30,13 @@ describe("resolveChangeClosure", () => {
   })
 
   test("an ordinary change yields exactly the changed set", () => {
-    const root = rootWithManifest(["packages/shared/pages/cli/src/a.ts", "docs/b.md"])
+    const root = rootWithManifest(["shared/pages-query/src/a.ts", "docs/b.md"])
     try {
       const closure = resolveChangeClosure({ repoRoot: root, widening: WIDENING })
       expect(closure.kind).toBe("changed-files")
       if (closure.kind !== "changed-files") throw new Error("unreachable")
-      expect(closure.files.has("packages/shared/pages/cli/src/a.ts")).toBe(true)
-      expect(closure.files.has("packages/shared/pages/cli/src/other.ts")).toBe(false)
+      expect(closure.files.has("shared/pages-query/src/a.ts")).toBe(true)
+      expect(closure.files.has("shared/pages-query/src/other.ts")).toBe(false)
     } finally {
       rmSync(root, { recursive: true, force: true })
     }
@@ -44,7 +44,7 @@ describe("resolveChangeClosure", () => {
 
   test("a change under a widening PREFIX returns the whole tree", () => {
     const root = rootWithManifest([
-      "packages/shared/pages/cli/src/a.ts",
+      "shared/pages-query/src/a.ts",
       "infra/cluster-checks/src/lib/ts-enum-declarations.ts",
     ])
     try {
@@ -55,7 +55,7 @@ describe("resolveChangeClosure", () => {
   })
 
   test("a change to a widening FILE returns the whole tree", () => {
-    const root = rootWithManifest(["packages/shared/pages/core/src/page-type-sequence-name.ts"])
+    const root = rootWithManifest(["shared/pages-core/src/page-type-sequence-name.ts"])
     try {
       expect(resolveChangeClosure({ repoRoot: root, widening: WIDENING }).kind).toBe("whole-tree")
     } finally {
@@ -64,7 +64,7 @@ describe("resolveChangeClosure", () => {
   })
 
   test("a path merely sharing a prefix's leading text does not widen", () => {
-    const root = rootWithManifest(["packages/shared/pages/core/src/page-type-sequence-name.ts.bak"])
+    const root = rootWithManifest(["shared/pages-core/src/page-type-sequence-name.ts.bak"])
     try {
       expect(resolveChangeClosure({ repoRoot: root, widening: WIDENING }).kind).toBe(
         "changed-files"
