@@ -140,24 +140,24 @@ describe("Alan's principal takes the persona's name and nothing else", () => {
   })
 })
 
-describe("a handler spells its identity, the person it serves and its role", () => {
-  test("all three in that order, and the role is what makes this form rather than the principal — Alan's own handler would otherwise answer to the same name as every other seat of his", () => {
-    expect(spell(seat("alan", { domain: "alan", role: "handler" }))).toBe("amy-alan-handler")
-    expect(spell(seat("agent", { domain: "ki", role: "handler" }))).toBe("amy-ki-handler")
+describe("a handler spells the person it serves, and nothing else", () => {
+  test("the person alone, and the role is what makes this form rather than the principal — Alan's own handler would otherwise answer to the same name as every other seat of his", () => {
+    expect(spell(seat("alan", { domain: "alan", role: "handler" }))).toBe("alan")
+    expect(spell(seat("agent", { domain: "ki", role: "handler" }))).toBe("ki")
   })
 
-  test("the identity is read off the person's document, so a persona stated on the seat is ignored rather than spelled — the two can disagree, and only the person says who they hear from", () => {
-    expect(spell(seat("agent", { persona: "thea", domain: "ki", role: "handler" }))).toBe("amy-ki-handler")
-    expect(spell(seat("alan", { persona: "athena", domain: "alan", role: "handler" }))).toBe("amy-alan-handler")
+  test("a persona stated on the seat is dropped rather than spelled — one persona serves several people, so spelling her would give their handlers one address between them", () => {
+    expect(spell(seat("agent", { persona: "thea", domain: "ki", role: "handler" }))).toBe("ki")
+    expect(spell(seat("alan", { persona: "athena", domain: "alan", role: "handler" }))).toBe("alan")
   })
 
   test("any other role of his takes the short form, so what carries the exception is the role and not the person served", () => {
     expect(spell(seat("alan", { persona: "amy", domain: "alan", role: "definer" }))).toBe("amy")
   })
 
-  test("a handler stating no identity spells the person and the role, which is every inbound path nobody has been authored over", () => {
-    expect(spell(seat("agent", { domain: "jenny", role: "handler" }))).toBe("jenny-handler")
-    expect(spell(seat("agent", { domain: "dana", role: "handler" }))).toBe("dana-handler")
+  test("a person whose document names no identity spells the same way, the identity reaching the name on no path at all", () => {
+    expect(spell(seat("agent", { domain: "jenny", role: "handler" }))).toBe("jenny")
+    expect(spell(seat("agent", { domain: "dana", role: "handler" }))).toBe("dana")
   })
 
   test("no flex and no assignment reach a handler's name either", () => {
@@ -171,7 +171,7 @@ describe("a handler spells its identity, the person it serves and its role", () 
           task: "handle-inbound",
         })
       )
-    ).toBe("amy-alan-handler")
+    ).toBe("alan")
   })
 })
 
