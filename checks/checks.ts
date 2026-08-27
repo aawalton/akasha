@@ -13,7 +13,19 @@ const ON_PATCH = "check-on-patch"
 
 const ON_WORKTREE = "check-on-worktree"
 
-const load = createRequire(`${import.meta.dir}/checks.ts`)
+const CHECKS_AT = "checks/checks.ts"
+
+// BUILT WHEN A CHECK IS LOADED, NOT AT IMPORT. `import.meta` is empty in a CommonJS bundle, so
+// this read `undefined/checks.ts` and `createRequire` refused a filename that was not an
+// absolute path — thrown while the module was still loading, which took down every build that
+// imports this file for anything else. The editor extension was one, and it loaded nothing.
+//
+// FROM THE ROOT BEING CHECKED. The paths handed to the result are absolute already, so what it
+// resolves against only has to be some real absolute path, and that root is one this file was
+// given rather than one it has to work out.
+function loaderIn(root: string): ReturnType<typeof createRequire> {
+  return createRequire(resolve(root, CHECKS_AT))
+}
 
 type Found = {
   readonly every: readonly Check[]
@@ -31,7 +43,7 @@ function moduleOf(root: string, at: PageAt): string {
 
 function checkAt(root: string, at: PageAt): Check {
   const file = moduleOf(root, at)
-  const said = (load(file) as { readonly default?: unknown }).default
+  const said = (loaderIn(root)(file) as { readonly default?: unknown }).default
   if (said === null || typeof said !== "object") {
     throw new Error(`${at.key} is a check page, so ${file} must export the check it names as its default`)
   }
