@@ -25,7 +25,7 @@ export const K8S_CHECKS: CheckConfig[] = [
       "ts-file:instructions:infra/cluster-checks/src/checks/check-k8s-node-selector.ts",
       "ts-file:instructions:infra/cluster-checks/src/lib/k8s-node-selector.ts",
       "ts-file:instructions:infra/cluster-checks/src/lib/non-test-population.ts",
-      "ts-file:instructions:infra/k8s-types--from-instructions/src/k8s-manifest-scanner.ts",
+      "ts-file:instructions:infra/k8s-types/src/k8s-manifest-scanner.ts",
       "ts-file:instructions:infra/k8s-types--from-instructions/src/hostnames.ts",
     ],
     script: "infra/cluster-checks/src/checks/check-k8s-node-selector.ts",

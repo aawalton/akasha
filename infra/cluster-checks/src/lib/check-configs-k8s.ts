@@ -23,7 +23,7 @@ export const K8S_CHECKS: CheckConfig[] = [
     dispatchNodeTypes: ["yaml-file", "yml-file", "ts-file", "tsx-file"],
     dispatchNodes: [
       "ts-file:code:infra/cluster-checks/src/checks/check-k8s-node-selector.ts",
-      "ts-file:code:infra/k8s-types--from-instructions/src/k8s-manifest-scanner.ts",
+      "ts-file:code:infra/k8s-types/src/k8s-manifest-scanner.ts",
       "ts-file:code:infra/k8s-types--from-instructions/src/hostnames.ts",
     ],
     script: "infra/cluster-checks/src/checks/check-k8s-node-selector.ts",
