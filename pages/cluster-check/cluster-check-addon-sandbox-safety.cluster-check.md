@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: 531391ef-d996-5e1e-8c92-080651a39221
 title: "Addon sandbox safety check"
 runner-name: addon-sandbox-safety
-script: packages/temper/shared/build-deploy/checks/src/check-addon-sandbox-safety.ts
+script: akasha:temper/shared-build-deploy-checks/src/check-addon-sandbox-safety.ts
 closure-policy: import-graph
 depends-on:
   - addon-build

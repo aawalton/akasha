@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: b1568697-f918-5a75-b0de-916ca11ca6ab
 title: "RBAC check pipelines"
 runner-name: rbac-check-pipelines
-script: tools/commands/check-rbac-pipelines.ts
+script: akasha:tools/commands/check-rbac-pipelines.ts
 dispatch-node-types:
   - kind: workflow
   - kind: namespace-role

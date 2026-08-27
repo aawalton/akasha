@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: f689d85d-b861-558c-9e2f-202cace935bd
 title: "Lint check"
 runner-name: lint
-script: infra/cluster-checks/src/checks/lint-verdict.ts
+script: akasha:infra/cluster-checks/src/checks/lint-verdict.ts
 args:
   - "."
 dispatch-node-types:

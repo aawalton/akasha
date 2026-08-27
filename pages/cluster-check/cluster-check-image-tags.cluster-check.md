@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: dfdd3499-8120-564c-860b-7154b303a14a
 title: "Image tags check"
 runner-name: image-tags
-script: infra/cluster-checks/src/checks/check-image-tags.ts
+script: akasha:infra/cluster-checks/src/checks/check-image-tags.ts
 tree-sha: true
 dispatch-node-types:
   - kind: yaml-file

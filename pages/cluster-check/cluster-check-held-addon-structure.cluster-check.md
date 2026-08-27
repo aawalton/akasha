@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: fae2da76-6842-5ccc-8246-3de7b8aafbdf
 title: "Held addon structure check"
 runner-name: held-addon-structure
-script: tools/commands/check-held-addon-structure.ts
+script: akasha:tools/commands/check-held-addon-structure.ts
 dispatch-node-types:
   - kind: ts-file
     under: packages/temper

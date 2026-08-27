@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: 493bf66c-93e5-5b5b-b999-55d1bb65b0f7
 title: "Porcelain status boundary check"
 runner-name: porcelain-status-boundary
-script: infra/cluster-checks/src/checks/check-porcelain-status-boundary.ts
+script: akasha:infra/cluster-checks/src/checks/check-porcelain-status-boundary.ts
 dispatch-node-types:
   - kind: ts-file
   - kind: tsx-file

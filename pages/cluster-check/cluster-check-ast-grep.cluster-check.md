@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: 26fe1c97-564c-5e93-bfa3-8b3e2dc1790b
 title: "AST grep check"
 runner-name: ast-grep
-script: infra/cluster-checks/src/checks/check-ast-grep.ts
+script: akasha:infra/cluster-checks/src/checks/check-ast-grep.ts
 dispatch-node-types:
   - kind: yaml-file
   - kind: yml-file

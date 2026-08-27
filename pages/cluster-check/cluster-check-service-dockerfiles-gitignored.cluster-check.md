@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: b4a578f2-a4e1-5e9e-b47c-e76516f8f8c5
 title: "Service dockerfiles gitignored check"
 runner-name: service-dockerfiles-gitignored
-script: infra/cluster-checks/src/checks/check-service-dockerfiles-gitignored.ts
+script: akasha:infra/cluster-checks/src/checks/check-service-dockerfiles-gitignored.ts
 dispatch-node-types:
   - kind: package
   - kind: json-file

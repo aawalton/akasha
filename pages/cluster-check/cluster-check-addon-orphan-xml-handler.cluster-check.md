@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: 88af6536-74f3-5685-838f-97b1e009ad33
 title: "Addon orphan XML handler check"
 runner-name: addon-orphan-xml-handler
-script: packages/temper/shared/build-deploy/checks/src/check-addon-orphan-xml-handler.ts
+script: akasha:temper/shared-build-deploy-checks/src/check-addon-orphan-xml-handler.ts
 dispatch-node-types:
   - kind: ts-file
     under: packages/temper

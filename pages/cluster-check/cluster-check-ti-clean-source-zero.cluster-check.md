@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: a317bdcd-dc68-5b8c-ad77-3acb61706206
 title: "TI clean source zero check"
 runner-name: ti-clean-source-zero
-script: tools/commands/check-ti-clean-source-zero.ts
+script: akasha:tools/commands/check-ti-clean-source-zero.ts
 dispatch-node-types:
   - kind: ts-file
     under: packages/temper

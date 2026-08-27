@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: f1b32fc6-9cb7-574a-850f-4d852585cf86
 title: "App capacitor parity check"
 runner-name: app-capacitor-parity
-script: infra/cluster-checks/src/checks/check-app-capacitor-parity.ts
+script: akasha:infra/cluster-checks/src/checks/check-app-capacitor-parity.ts
 dispatch-node-types:
   - kind: ts-file
     under: packages/alanwalton/web

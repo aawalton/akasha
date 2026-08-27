@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: 968a4516-c91c-5c10-b00c-b6c6618b1e75
 title: "Unused deps check"
 runner-name: unused-deps
-script: infra/cluster-checks/src/checks/check-unused-deps.ts
+script: akasha:infra/cluster-checks/src/checks/check-unused-deps.ts
 tree-sha: true
 dispatch-node-types:
   - kind: ts-file

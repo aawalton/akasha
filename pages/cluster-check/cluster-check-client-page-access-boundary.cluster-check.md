@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: 38b04e59-7906-5971-8e67-8a5022ea4eed
 title: "Client page access boundary check"
 runner-name: client-page-access-boundary
-script: infra/cluster-checks/src/checks/check-client-page-access-boundary.ts
+script: akasha:infra/cluster-checks/src/checks/check-client-page-access-boundary.ts
 dispatch-node-types:
   - kind: ts-file
   - kind: tsx-file

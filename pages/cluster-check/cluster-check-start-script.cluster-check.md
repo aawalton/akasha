@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: b3b4fcb2-00c5-5f97-b9fb-2c0a4aab02bb
 title: "Start script check"
 runner-name: start-script
-script: infra/cluster-checks/src/checks/check-start-script.ts
+script: akasha:infra/cluster-checks/src/checks/check-start-script.ts
 dispatch-node-types:
   - kind: ts-file
   - kind: package

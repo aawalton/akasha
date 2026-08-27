@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: ccb0da8f-71ad-53d6-b621-c5c7862bce9c
 title: "Phantom deps check"
 runner-name: phantom-deps
-script: infra/cluster-checks/src/checks/check-phantom-deps.ts
+script: akasha:infra/cluster-checks/src/checks/check-phantom-deps.ts
 tree-sha: true
 dispatch-node-types:
   - kind: ts-file

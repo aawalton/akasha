@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: 3960b02c-79bd-5560-a1d6-0c2ec8b33db7
 title: "Instruction references check"
 runner-name: instruction-references
-script: infra/cluster-checks/src/checks/check-instruction-references.ts
+script: akasha:infra/cluster-checks/src/checks/check-instruction-references.ts
 dispatch-node-types:
   - kind: ts-file
   - kind: tsx-file

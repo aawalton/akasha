@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: dbfc7923-f761-5e60-8a2c-489478c85dbd
 title: "Addon owned global clobber check"
 runner-name: addon-owned-global-clobber
-script: packages/temper/shared/build-deploy/checks/src/check-addon-owned-global-clobber.ts
+script: akasha:temper/shared-build-deploy-checks/src/check-addon-owned-global-clobber.ts
 dispatch-node-types:
   - kind: ts-file
     under: packages/temper

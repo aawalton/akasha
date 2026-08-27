@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: 37ae7c32-29e2-5138-af6d-c30e5a9de4db
 title: "Syntax bundle check"
 runner-name: syntax-bundle
-script: infra/cluster-checks/src/checks/check-syntax-bundle.ts
+script: akasha:infra/cluster-checks/src/checks/check-syntax-bundle.ts
 tree-sha: true
 dispatch-node-types:
   - kind: ts-file

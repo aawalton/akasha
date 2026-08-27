@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: 7422d795-8282-5b8b-a3cb-1f792665a01d
 title: "Addon build check"
 runner-name: addon-build
-script: infra/cluster-checks/src/checks/check-addon-build.ts
+script: akasha:infra/cluster-checks/src/checks/check-addon-build.ts
 tree-sha: true
 closure-policy: import-graph
 resources:

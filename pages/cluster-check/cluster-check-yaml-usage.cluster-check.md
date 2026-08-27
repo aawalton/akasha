@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: f777ced8-63f8-5f6f-a58c-66cc257ac9f0
 title: "YAML usage check"
 runner-name: yaml-usage
-script: infra/cluster-checks/src/checks/check-yaml-usage.ts
+script: akasha:infra/cluster-checks/src/checks/check-yaml-usage.ts
 tree-sha: true
 dispatch-node-types:
   - kind: yaml-file

@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: c3facdfb-5322-53b3-a1b9-d93582cb988f
 title: "RBAC check manifests"
 runner-name: rbac-check-manifests
-script: tools/commands/check-rbac-manifests.ts
+script: akasha:tools/commands/check-rbac-manifests.ts
 dispatch-node-types:
   - kind: workflow
   - kind: ts-file

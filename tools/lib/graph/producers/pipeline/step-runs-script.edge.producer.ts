@@ -1,3 +1,4 @@
+import { fileIn } from "../../../../../page/repo-claim.ts"
 import { defineEdgeProducer } from "../../define-edge-producer.ts"
 import type { EdgeInit, Graph, Node } from "../../types.ts"
 import { TS_FILE_NODE_TYPES } from "../file/ts-file/types.ts"
@@ -24,7 +25,9 @@ const reposNamed = (nodes: readonly Node[]): string =>
     .join(", ")
 
 const scriptFileFor = (upstream: Graph, step: Node, script: string): Node => {
-  const standing = upstream.nodesByKey(script).filter((node) => TS_FILE_TYPES.has(node.type))
+  const standing = upstream
+    .nodesByKey(fileIn(script).path)
+    .filter((node) => TS_FILE_TYPES.has(node.type))
   const sole = soleNode(standing)
   if (sole !== null) return sole
   if (standing.length === 0) {

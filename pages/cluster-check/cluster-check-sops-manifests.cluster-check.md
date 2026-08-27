@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: 7e1bc004-c5bc-5de8-a134-43ca07715023
 title: "SOPS manifests check"
 runner-name: sops-manifests
-script: infra/cluster-checks/src/checks/check-sops-manifests.ts
+script: akasha:infra/cluster-checks/src/checks/check-sops-manifests.ts
 tree-sha: true
 dispatch-node-types:
   - kind: yaml-file

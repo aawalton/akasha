@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: bddc14d1-1094-549a-be46-aa2cbd9d6e7e
 title: "K8s node selector check"
 runner-name: k8s-node-selector
-script: infra/cluster-checks/src/checks/check-k8s-node-selector.ts
+script: akasha:infra/cluster-checks/src/checks/check-k8s-node-selector.ts
 tree-sha: true
 dispatch-node-types:
   - kind: yaml-file

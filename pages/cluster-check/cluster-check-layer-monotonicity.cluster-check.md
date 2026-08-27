@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: 392b6796-40ae-486d-a2df-62182630e889
 title: "Layer monotonicity check"
 runner-name: layer-monotonicity
-script: infra/cluster-checks/src/checks/check-layer-monotonicity.ts
+script: akasha:infra/cluster-checks/src/checks/check-layer-monotonicity.ts
 dispatch-node-types:
   - kind: json-file
 slug: cluster-check-layer-monotonicity

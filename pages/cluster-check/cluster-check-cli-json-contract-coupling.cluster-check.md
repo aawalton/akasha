@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: c94746f9-9fb4-521d-a9f3-70db60e30002
 title: "CLI JSON contract coupling check"
 runner-name: cli-json-contract-coupling
-script: infra/cluster-checks/src/checks/check-cli-json-contract-coupling.ts
+script: akasha:infra/cluster-checks/src/checks/check-cli-json-contract-coupling.ts
 dispatch-node-types:
   - kind: ts-file
   - kind: tsx-file

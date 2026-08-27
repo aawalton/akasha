@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: 38ba52e7-705f-5dd1-aaf8-ec5ac273ce1b
 title: "Checksum substitution reachability check"
 runner-name: checksum-substitution-reachability
-script: tools/commands/check-checksum-substitution-reachability.ts
+script: akasha:tools/commands/check-checksum-substitution-reachability.ts
 dispatch-node-types:
   - kind: workflow
   - kind: ts-file

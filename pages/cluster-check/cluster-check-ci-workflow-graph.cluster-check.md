@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: 86d8432a-1042-5a4a-9af8-712c32f88505
 title: "CI workflow graph check"
 runner-name: ci-workflow-graph
-script: tools/commands/check-ci-workflow-graph.ts
+script: akasha:tools/commands/check-ci-workflow-graph.ts
 dispatch-node-types:
   - kind: workflow
   - kind: ts-file

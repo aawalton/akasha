@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: f5e64d77-2849-5c85-af6d-853db60d3ce2
 title: "Color literals check"
 runner-name: color-literals
-script: infra/cluster-checks/src/checks/check-color-literals.ts
+script: akasha:infra/cluster-checks/src/checks/check-color-literals.ts
 dispatch-node-types:
   - kind: ts-file
   - kind: tsx-file

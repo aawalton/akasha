@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: 3a889289-9f54-54a8-9b17-f310ac4e77d5
 title: "Widget payload shape mirror check"
 runner-name: widget-payload-shape-mirror
-script: infra/cluster-checks/src/checks/check-widget-payload-shape-mirror.ts
+script: akasha:infra/cluster-checks/src/checks/check-widget-payload-shape-mirror.ts
 dispatch-node-types:
   - kind: swift-file
     under: akasha:native-shell/alanwalton/ios-widget

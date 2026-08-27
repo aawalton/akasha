@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: c2b09235-c896-5036-b0aa-3b5b3bf2880c
 title: "Design tokens check"
 runner-name: design-tokens
-script: infra/cluster-checks/src/checks/check-design-tokens.ts
+script: akasha:infra/cluster-checks/src/checks/check-design-tokens.ts
 dispatch-node-types:
   - kind: ts-file
     under: packages/shared/design/tokens

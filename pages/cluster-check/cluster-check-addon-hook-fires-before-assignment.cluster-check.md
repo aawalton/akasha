@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: 39d1ab52-caf5-549a-8dcf-1ffca19ba247
 title: "Addon hook fires before assignment check"
 runner-name: addon-hook-fires-before-assignment
-script: packages/temper/shared/build-deploy/checks/src/check-addon-hook-fires-before-assignment.ts
+script: akasha:temper/shared-build-deploy-checks/src/check-addon-hook-fires-before-assignment.ts
 dispatch-node-types:
   - kind: ts-file
     under: packages/temper

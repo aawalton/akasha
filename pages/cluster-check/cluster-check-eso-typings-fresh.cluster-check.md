@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: 78d20607-fdb9-56a2-9c4f-9ccbd783c178
 title: "ESO typings fresh check"
 runner-name: eso-typings-fresh
-script: packages/temper/shared/build-deploy/checks/src/check-eso-typings-fresh.ts
+script: akasha:temper/shared-build-deploy-checks/src/check-eso-typings-fresh.ts
 dispatch-node-types:
   - kind: ts-file
     under: packages/temper

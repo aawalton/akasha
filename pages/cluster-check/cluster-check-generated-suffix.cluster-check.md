@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: cb48728b-9b77-579e-98c0-ec37b334864e
 title: "Generated suffix check"
 runner-name: generated-suffix
-script: infra/cluster-checks/src/checks/check-generated-suffix.cli.ts
+script: akasha:infra/cluster-checks/src/checks/check-generated-suffix.cli.ts
 dispatch-node-types:
   - kind: ts-file
   - kind: tsx-file

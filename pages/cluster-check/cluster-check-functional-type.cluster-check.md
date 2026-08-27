@@ -3,7 +3,7 @@ page-type-slug: cluster-check
 id: 56f061c4-2583-5865-917c-143abf0f9008
 title: "Functional type check"
 runner-name: functional-type
-script: infra/cluster-checks/src/checks/check-functional-type.ts
+script: akasha:infra/cluster-checks/src/checks/check-functional-type.ts
 dispatch-node-types:
   - kind: ts-file
   - kind: tsx-file
