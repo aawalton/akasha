@@ -31,7 +31,7 @@ function environment(overrides: Readonly<Record<string, string | null>>): Record
 }
 
 function runnerFor(script: string): readonly string[] {
-  return script.endsWith(".ts") ? ["bun"] : ["bash"]
+  return script.endsWith(".ts") ? [process.execPath] : ["bash"]
 }
 
 export function fire(script: string, firing: Firing = {}): Ran {
