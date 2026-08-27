@@ -4,7 +4,7 @@ import { OperationalError } from "@shared/errors-core/exit"
 import { pidAliveOrAssumeDead } from "@shared/utils-process/pid-signal"
 import { watcherConfigDir, watcherLogDir } from "@temper/shared-foundation-misc-eso-paths/eso-paths"
 import { z } from "zod"
-import { codeRoot } from "./code-root.ts"
+import { akashaRoot } from "../../repo/roots/roots.ts"
 
 export interface WatcherDaemonState {
   readonly pid: number
@@ -58,14 +58,14 @@ export function clearState(): undefined {
 
 export const isPidAlive = pidAliveOrAssumeDead
 
-const WORKER_ENTRY_RELATIVE = "packages/temper/scripts/src/watcher-exe/main.ts"
+const WORKER_ENTRY_RELATIVE = "temper/scripts/src/watcher-exe/main.ts"
 
 export function resolveWorkerEntry(): { readonly workerEntry: string; readonly repoRoot: string } {
-  const repoRoot = codeRoot()
+  const repoRoot = akashaRoot()
   const workerEntry = join(repoRoot, WORKER_ENTRY_RELATIVE)
   if (!existsSync(workerEntry)) {
     throw new OperationalError(
-      `watcher worker entry not found at ${workerEntry} (code repository root ${repoRoot})`
+      `watcher worker entry not found at ${workerEntry} (akasha root ${repoRoot})`
     )
   }
   return { workerEntry, repoRoot }
