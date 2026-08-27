@@ -1,12 +1,14 @@
-import { parseFrontmatter } from "../../page/frontmatter.ts"
-import { type Backed, type Deriver, type Relation, type Row } from "./page-derive.ts"
+import { type Backed, type Row } from "./page-derive.ts"
 import { type Held, type Values } from "./page-file-values"
 import { deriverFor } from "./deriver-hold.ts"
 import { idOfFilePage as pageId, slugOfFilePage as pageSlug } from "../../page/name/naming/naming"
-import { bind, documentFrom, type Given, isRefused, QUERY_PAGE_TYPE, type Refused, unfoundIn } from "./page-query-bind.ts"
+import { bind, type Given, isRefused, QUERY_PAGE_TYPE, type Refused, unfoundIn } from "./page-query-bind.ts"
+import { compare, comparing, NOW, stated } from "./page-query-compare.ts"
+import { queryFrom, queryOf, reduces } from "./page-query-fields.ts"
 import { carriesFor } from "./page-query-keys.ts"
-import { narrowed } from "./page-query-narrow.ts"
 import { NOTHING, reduced, reducedFault } from "./page-query-reduce.ts"
+import { listOf, textOf } from "./page-query-values.ts"
+import { type Named, whole, type Whole } from "./page-query-whole.ts"
 import { diskFileTree } from "../../page/file-tree.ts"
 import { registryOf } from "../../page/property/registry.ts"
 import { pagesOf, reposOf } from "../../page/page-types.ts"
@@ -16,7 +18,8 @@ import { type Roots } from "../../page/page"
 import { isAddressable } from "../../repo/roots/roots"
 import { WAKE_DAY, type Woke, wokeOn } from "./wake-day.ts"
 
-export type { Row, Values }
+export type { Named, Row, Values, Whole }
+export { compare, listOf, NOW, queryFrom, queryOf, reduces, textOf, whole }
 
 export const UNREACHED = "names no page type whose pages are files"
 
@@ -65,61 +68,6 @@ export interface Answer {
   readonly faults: readonly string[]
   readonly omitted: readonly string[]
   readonly unfound: readonly string[]
-}
-
-export function textOf(values: Values, key: string): string | null {
-  const value = values[key]
-  return typeof value === "string" ? value : null
-}
-
-export function listOf(values: Values, key: string): readonly string[] {
-  const value = values[key]
-  if (typeof value === "string") return [value]
-  return Array.isArray(value) ? value : []
-}
-
-export function compare(left: string, right: string): number {
-  const a = Number(left)
-  const b = Number(right)
-  const numeric = left.trim() !== "" && right.trim() !== "" && Number.isFinite(a) && Number.isFinite(b)
-  if (numeric) return a === b ? 0 : a < b ? -1 : 1
-  return left < right ? -1 : left > right ? 1 : 0
-}
-
-export const NOW = "now"
-
-const INSTANT = "instant"
-const CALENDAR_DATE = "calendar-date"
-
-function momentOf(text: string): number | null {
-  const ms = Date.parse(text)
-  return Number.isFinite(ms) ? ms : null
-}
-
-function comparing(type: string | null): (left: string, right: string) => number {
-  if (type !== INSTANT) return compare
-  return (left, right) => {
-    const a = momentOf(left)
-    const b = momentOf(right)
-    if (a === null || b === null) return compare(left, right)
-    return a === b ? 0 : a < b ? -1 : 1
-  }
-}
-
-function stated(value: string, type: string | null, at: number, woke: Woke | null): string {
-  if (value === WAKE_DAY && woke !== null) {
-    if (type === CALENDAR_DATE) return woke.day
-    if (type === INSTANT) return woke.instant
-    return value
-  }
-  if (type !== INSTANT) return value
-  return value === NOW ? new Date(at).toISOString() : value
-}
-
-const REDUCTIONS: readonly string[] = ["sum", "mean"]
-
-export function reduces(one: string): one is Reduction {
-  return REDUCTIONS.includes(one)
 }
 
 export function statesBoth(query: PageQuery): boolean {
@@ -283,109 +231,12 @@ export function answer(roots: Roots, query: PageQuery, at: number = Date.now()):
   }
 }
 
-export interface Named {
-  readonly pageType: string
-  readonly name: string
-  readonly title: string | null
-  readonly at: string | null
-}
-
-export interface Whole {
-  readonly pageType: string
-  readonly name: string
-  readonly at: string
-  readonly values: Values
-  readonly relations: Readonly<Record<string, readonly Named[]>>
-}
-
-export function whole(roots: Roots, pageType: string, name: string): Whole | null {
-  const derive = deriverFor(roots, { body: true, pages: true })
-  const row = derive.one(pageType, name)
-  if (row === null) return null
-  const relations: Record<string, readonly Named[]> = {}
-  for (const relation of derive.relations(pageType)) {
-    const named = listOf(row.values, relation.key)
-    if (named.length === 0) continue
-    relations[relation.key] = named.map((one) => namedFor(derive, relation, one))
-  }
-  return { pageType, name, at: row.at, values: row.values, relations }
-}
-
-function namedFor(derive: Deriver, relation: Relation, name: string): Named {
-  const found = derive.one(relation.target, name, relation.slugProperty)
-  if (found === null) return { pageType: relation.target, name, title: null, at: null }
-  return { pageType: relation.target, name, title: textOf(found.values, "title"), at: found.at }
-}
-
 export function backedTypes(roots: Roots): readonly Backed[] {
   return deriverFor(roots).backed()
 }
 
 export function reaches(roots: Roots, pageType: string): boolean {
   return deriverFor(roots).rows(pageType) !== null
-}
-
-function listValue(value: unknown): readonly string[] {
-  if (typeof value === "string") return [value]
-  return Array.isArray(value) ? value.filter((one): one is string => typeof one === "string") : []
-}
-
-
-function textIn(fields: Readonly<Record<string, unknown>>, key: string): string | null {
-  const value = fields[key]
-  if (typeof value === "number" || typeof value === "boolean") return String(value)
-  if (typeof value !== "string") return null
-  const trimmed = value.trim()
-  return trimmed === "" ? null : trimmed
-}
-
-function countIn(fields: Readonly<Record<string, unknown>>, key: string): number | null {
-  const stated = textIn(fields, key)
-  if (stated === null) return null
-  const value = Number(stated)
-  return Number.isFinite(value) ? value : null
-}
-
-export function queryFrom(fields: Readonly<Record<string, unknown>>): PageQuery | null {
-  const pageType = textIn(fields, "page-type")
-  if (pageType === null) return null
-  const narrows = narrowed(fields.where)
-  const takes = fields.takes
-  const countBy = fields["count-by"]
-  const keys = fields.keys
-  const sortBy = textIn(fields, "sort-by")
-  const limit = countIn(fields, "limit")
-  const offset = countIn(fields, "offset")
-  const how = textIn(fields, "function")
-  const target = textIn(fields, "target")
-  return {
-    pageType,
-    ...(typeof takes !== "object" || takes === null || Array.isArray(takes)
-      ? {}
-      : {
-          takes: Object.fromEntries(
-            Object.entries(takes as Record<string, unknown>).map(([name, type]) => [
-              name,
-              typeof type === "string" ? type.trim() : String(type),
-            ])
-          ),
-        }),
-    ...(narrows.where === undefined ? {} : { where: narrows.where }),
-    ...(narrows.unreadable.length === 0 ? {} : { unreadable: narrows.unreadable }),
-    ...(countBy === undefined ? {} : { countBy: listValue(countBy) }),
-    ...(sortBy === null ? {} : { sortBy }),
-    ...(textIn(fields, "descending") === "true" ? { descending: true } : {}),
-    ...(limit === null ? {} : { limit }),
-    ...(offset === null || offset === 0 ? {} : { offset }),
-    ...(keys === undefined ? {} : { keys: listValue(keys) }),
-    ...(how === null || !reduces(how) ? {} : { function: how }),
-    ...(target === null ? {} : { target }),
-  }
-}
-
-export function queryOf(text: string, roots?: Roots): PageQuery | null {
-  const fields = Object.fromEntries(parseFrontmatter(text).fields)
-  return documentFrom(queryFrom(fields), fields, roots)
 }
 
 interface QueryPage {
