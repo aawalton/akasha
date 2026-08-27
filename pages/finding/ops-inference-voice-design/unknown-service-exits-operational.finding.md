@@ -26,13 +26,13 @@ Run against the live tree, both before and after the bodies moved into the instr
   exit 1
 
 The split was in the code repository before the move.
-`packages/infra/inference/src/cli/voice-design.ts` raised `OperationalError` from its
-`isBackendName` arm, while `packages/infra/inference/src/cli/generate.ts` raised `InputError` from
+`tools/commands/inference/voice-design.ts:120-123` raises it from its
+`isBackendName` arm, while `tools/commands/inference/generate.ts:137-139` raises `InputError` from
 its `z.enum(INFERENCE_SERVICES).safeParse` arm. Both were carried across unchanged and both exit
 codes were diffed byte-for-byte against the pre-move capture, so the move neither introduced nor
 repaired this.
 
-`tools/lib/code-errors.ts` states the distinction the two are being sorted by: input is the
+`pages/domain/command-exit-input.domain.md` and `pages/domain/command-exit-operational.domain.md` state the distinction the two are being sorted by: input is the
 invocation being wrong and the caller fixing it, operational is something outside the process
 failing. An unrecognised `--service` is the first on either verb, which makes `voice-design` the
 one standing in the wrong class.
