@@ -88,25 +88,25 @@ describe("declaredDepsOf", () => {
 describe("indexWorkspacesByName", () => {
   function ws(over: Partial<WorkspaceInfo>): WorkspaceInfo {
     return {
-      root: "packages/x",
+      root: "shared/x",
       name: "@scope/x",
-      packageJsonPath: "/abs/packages/x/package.json",
+      packageJsonPath: "/abs/shared/x/package.json",
       pkg: {},
       ...over,
     }
   }
 
   test("maps workspaces by their package.json name", () => {
-    const a = ws({ name: "@s/a", root: "packages/a" })
-    const b = ws({ name: "@s/b", root: "packages/b" })
+    const a = ws({ name: "@s/a", root: "shared/a" })
+    const b = ws({ name: "@s/b", root: "shared/b" })
     const idx = indexWorkspacesByName([a, b])
     expect(idx.get("@s/a")).toBe(a)
     expect(idx.get("@s/b")).toBe(b)
   })
 
   test("omits workspaces missing a name field", () => {
-    const a = ws({ name: "@s/a", root: "packages/a" })
-    const nameless = ws({ name: "", root: "packages/nameless" })
+    const a = ws({ name: "@s/a", root: "shared/a" })
+    const nameless = ws({ name: "", root: "shared/nameless" })
     const idx = indexWorkspacesByName([a, nameless])
     expect(idx.size).toBe(1)
     expect(idx.has("@s/a")).toBe(true)
@@ -124,37 +124,37 @@ describe("computeTransitiveClosure", () => {
   }
 
   test("includes the workspace itself in its closure", () => {
-    const a = ws("@s/a", "packages/a")
+    const a = ws("@s/a", "shared/a")
     const closure = computeTransitiveClosure([a])
-    expect([...(closure.get("packages/a") ?? [])]).toEqual(["packages/a"])
+    expect([...(closure.get("shared/a") ?? [])]).toEqual(["shared/a"])
   })
 
   test("follows dependency edges through the workspace graph", () => {
-    const a = ws("@s/a", "packages/a", ["@s/b"])
-    const b = ws("@s/b", "packages/b", ["@s/c"])
-    const c = ws("@s/c", "packages/c")
+    const a = ws("@s/a", "shared/a", ["@s/b"])
+    const b = ws("@s/b", "shared/b", ["@s/c"])
+    const c = ws("@s/c", "shared/c")
     const closure = computeTransitiveClosure([a, b, c])
-    expect([...(closure.get("packages/a") ?? [])].sort()).toEqual([
-      "packages/a",
-      "packages/b",
-      "packages/c",
+    expect([...(closure.get("shared/a") ?? [])].sort()).toEqual([
+      "shared/a",
+      "shared/b",
+      "shared/c",
     ])
-    expect([...(closure.get("packages/c") ?? [])]).toEqual(["packages/c"])
+    expect([...(closure.get("shared/c") ?? [])]).toEqual(["shared/c"])
   })
 
   test("ignores deps that are not workspaces", () => {
-    const a = ws("@s/a", "packages/a", ["react", "@s/b"])
-    const b = ws("@s/b", "packages/b")
+    const a = ws("@s/a", "shared/a", ["react", "@s/b"])
+    const b = ws("@s/b", "shared/b")
     const closure = computeTransitiveClosure([a, b])
-    expect([...(closure.get("packages/a") ?? [])].sort()).toEqual(["packages/a", "packages/b"])
+    expect([...(closure.get("shared/a") ?? [])].sort()).toEqual(["shared/a", "shared/b"])
   })
 
   test("terminates on workspace dependency cycles", () => {
-    const a = ws("@s/a", "packages/a", ["@s/b"])
-    const b = ws("@s/b", "packages/b", ["@s/a"])
+    const a = ws("@s/a", "shared/a", ["@s/b"])
+    const b = ws("@s/b", "shared/b", ["@s/a"])
     const closure = computeTransitiveClosure([a, b])
-    expect([...(closure.get("packages/a") ?? [])].sort()).toEqual(["packages/a", "packages/b"])
-    expect([...(closure.get("packages/b") ?? [])].sort()).toEqual(["packages/a", "packages/b"])
+    expect([...(closure.get("shared/a") ?? [])].sort()).toEqual(["shared/a", "shared/b"])
+    expect([...(closure.get("shared/b") ?? [])].sort()).toEqual(["shared/a", "shared/b"])
   })
 })
 

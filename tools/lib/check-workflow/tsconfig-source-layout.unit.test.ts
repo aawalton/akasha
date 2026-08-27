@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
 import { validateExcludeShape, validateNestedPackageContainment } from "../../../infra/cluster-checks/src/lib/tsconfig-source-layout.ts"
 
 describe("validateExcludeShape", () => {
-  const WS = "packages/scope/lib"
+  const WS = "scope/lib"
 
   test("the bare prefix is canonical", () => {
     expect(validateExcludeShape(WS, { exclude: ["node_modules", "dist"] })).toBeNull()
@@ -80,80 +80,80 @@ describe("validateNestedPackageContainment", () => {
   test("flat siblings produce no violation", () => {
     expect(
       validateNestedPackageContainment([
-        "packages/scope/foo",
-        "packages/scope/bar",
-        "packages/scope/baz",
+        "scope/foo",
+        "scope/bar",
+        "scope/baz",
       ])
     ).toEqual([])
   })
 
   test("nested workspace as sibling of parent's src/ produces no violation", () => {
     expect(
-      validateNestedPackageContainment(["packages/scope/parent", "packages/scope/parent/child"])
+      validateNestedPackageContainment(["scope/parent", "scope/parent/child"])
     ).toEqual([])
   })
 
   test("nested workspace inside parent's src/ is a violation", () => {
     const result = validateNestedPackageContainment([
-      "packages/scope/parent",
-      "packages/scope/parent/src/child",
+      "scope/parent",
+      "scope/parent/src/child",
     ])
     expect(result).toHaveLength(1)
     expect(result[0]?.rule).toBe("nestedContainment")
-    expect(result[0]?.workspace).toBe("packages/scope/parent/src/child")
+    expect(result[0]?.workspace).toBe("scope/parent/src/child")
     expect(result[0]?.message).toMatch(/src\//)
-    expect(result[0]?.message).toMatch(/packages\/scope\/parent/)
+    expect(result[0]?.message).toMatch(/scope\/parent/)
   })
 
   test("deep workspace inside parent's src/ is a violation against the direct parent", () => {
     const result = validateNestedPackageContainment([
-      "packages/scope/a",
-      "packages/scope/a/src/deep/nested",
+      "scope/a",
+      "scope/a/src/deep/nested",
     ])
     expect(result).toHaveLength(1)
-    expect(result[0]?.workspace).toBe("packages/scope/a/src/deep/nested")
+    expect(result[0]?.workspace).toBe("scope/a/src/deep/nested")
   })
 
   test("similar prefix without slash boundary is not a false positive", () => {
     expect(
-      validateNestedPackageContainment(["packages/scope/foo", "packages/scope/foobar"])
+      validateNestedPackageContainment(["scope/foo", "scope/foobar"])
     ).toEqual([])
   })
 
   test("workspace path that equals 'parent/src' alone is a violation", () => {
     const result = validateNestedPackageContainment([
-      "packages/scope/parent",
-      "packages/scope/parent/src",
+      "scope/parent",
+      "scope/parent/src",
     ])
     expect(result).toHaveLength(1)
-    expect(result[0]?.workspace).toBe("packages/scope/parent/src")
+    expect(result[0]?.workspace).toBe("scope/parent/src")
   })
 
   test("'srclike' is not 'src/' — only the literal src/ remainder triggers", () => {
     expect(
       validateNestedPackageContainment([
-        "packages/scope/parent",
-        "packages/scope/parent/srclike/child",
+        "scope/parent",
+        "scope/parent/srclike/child",
       ])
     ).toEqual([])
   })
 
   test("nested workspace whose remainder does not start with 'src/' is allowed", () => {
     expect(
-      validateNestedPackageContainment(["packages/scope/parent", "packages/scope/parent/child"])
+      validateNestedPackageContainment(["scope/parent", "scope/parent/child"])
     ).toEqual([])
   })
 
   test("multiple violations are reported for multiple offenders under the same parent", () => {
     const result = validateNestedPackageContainment([
-      "packages/scope/parent",
-      "packages/scope/parent/src/a",
-      "packages/scope/parent/src/b",
+      "scope/parent",
+      "scope/parent/src/a",
+      "scope/parent/src/b",
     ])
     expect(result).toHaveLength(2)
     expect(result.map((v) => v.workspace).sort()).toEqual([
-      "packages/scope/parent/src/a",
-      "packages/scope/parent/src/b",
+      "scope/parent/src/a",
+      "scope/parent/src/b",
     ])
   })
 
