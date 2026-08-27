@@ -1,3 +1,4 @@
+import { existsSync, readdirSync } from "node:fs"
 import type { BuildContext } from "../../build-context/build-context.ts"
 import { frontmatterAt } from "../../frontmatter-at/frontmatter-at.ts"
 import fileNodeProducer, {
@@ -13,14 +14,14 @@ import {
   statedOf,
 } from "../../../page/index/identity/identity.ts"
 import { linkTargetsFrom } from "../../../page/index/link/link.ts"
-import { pageTargetOf } from "../../../page/index/place/place.ts"
+import { pageTargetOf, relationsRoot } from "../../../page/index/place/place.ts"
 import {
   type Holds,
   type Relation,
   reachedFrom,
   relationsOver,
 } from "../../../page/index/relation/relation.ts"
-import { loadPages, loadRelations } from "../../../page/index/store/store.ts"
+import { indexFreshFor, loadPages, loadRelations, sourcesAt } from "../../../page/index/store/store.ts"
 import { pageNameOf } from "../../../page/name/name.ts"
 import { textAt } from "../../../page/text/text.ts"
 import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
@@ -102,6 +103,49 @@ function refOf(target: string, nodeAt: ReadonlyMap<string, NodeRef>): NodeRef | 
   return { repo: target.slice(0, cut), key: target.slice(cut + 1) }
 }
 
+type Targeting = {
+  readonly keys: readonly string[]
+}
+
+const TARGETING = new WeakMap<BuildContext, Targeting | null>()
+
+/**
+ * What the reverse index can answer with, or nothing where it cannot be trusted to.
+ *
+ * EVERY REPOSITORY IS WEIGHED, NOT THE ONE ASKED ABOUT. What reaches a node may be declared in any
+ * repository the graph reads, so one of them drifting is enough to make a targeted answer short,
+ * and a short answer here is an edge nothing ever finds rather than one found slowly.
+ */
+function targetingIn(ctx: BuildContext): Targeting | null {
+  const had = TARGETING.get(ctx)
+  if (had !== undefined) return had
+  const made = ((): Targeting | null => {
+    for (const [repo, root] of Object.entries(ctx.roots)) {
+      if (root === undefined) continue
+      if (!indexFreshFor(repo, root)) return null
+    }
+    const at = relationsRoot()
+    if (!existsSync(at)) return null
+    return { keys: readdirSync(at) }
+  })()
+  TARGETING.set(ctx, made)
+  return made
+}
+
+/**
+ * Both names the index could have filed an edge into this node under.
+ *
+ * A page is reached by its stem and type where a relation resolved it as a page, and by its
+ * repository and path where one named it as a file. One page can be reached both ways, so both
+ * are asked rather than whichever looks more likely.
+ */
+function namesOf(ref: NodeRef): readonly string[] {
+  const found = [`${ref.repo}${ADDRESS_JOIN}${ref.key}`]
+  const named = pageNameOf(ref.key)
+  if (named !== null) found.push(pageTargetOf(named.stem, named.type))
+  return found
+}
+
 export const relationEdgeProducer: EdgeProducer = {
   name: "relation",
   edgeKinds: () => [RELATION_EDGE],
@@ -128,6 +172,21 @@ export const relationEdgeProducer: EdgeProducer = {
       if (to === null) continue
       if (fileNodeProducer.at(ctx, to) === null) continue
       edges.push({ kind: RELATION_EDGE, from, to, attrs: { [RELATION_KEY]: one.relation } })
+    }
+    return edges
+  },
+  into: (ctx, ref) => {
+    const targeting = targetingIn(ctx)
+    if (targeting === null) return null
+    const names = namesOf(ref)
+    const edges: EdgeInit[] = []
+    for (const key of targeting.keys) {
+      for (const name of names) {
+        for (const from of sourcesAt(key, name)) {
+          if (fileNodeProducer.at(ctx, from) === null) continue
+          edges.push({ kind: RELATION_EDGE, from, to: ref, attrs: { [RELATION_KEY]: key } })
+        }
+      }
     }
     return edges
   },

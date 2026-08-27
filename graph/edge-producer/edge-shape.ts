@@ -21,5 +21,9 @@ export type EdgeProducer = {
   // A producer that can name what reaches a node without producing every node answers here, and
   // `edgesInto` asks it instead of walking the repository. Leaving it off is what says the walk is
   // the only way to know.
-  readonly into?: (ctx: BuildContext, ref: NodeRef) => readonly EdgeInit[]
+  //
+  // AN ANSWER MUST BE EVERY EDGE OF ITS KINDS REACHING THAT NODE, because the walk is skipped for a
+  // producer that answers, so a partial answer makes the rest unreachable rather than slow. A
+  // producer that cannot answer completely this time answers `null`, which asks to be walked.
+  readonly into?: (ctx: BuildContext, ref: NodeRef) => readonly EdgeInit[] | null
 }
