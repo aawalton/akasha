@@ -1,0 +1,64 @@
+# Ryan Seamons — relationship ledger
+
+*Ryan is one of Alan's closest and longest-standing friends and his former colleague/manager at **Latitude Games** (makers of **AI Dungeon**), where Ryan was COO/board and Alan the CTO. The relationship went through a hard rupture (Alan's Oct 23 2024 firing) and a genuine, still-deepening repair (mid-2025 →). As of July 2026 they are warmly reconciled but on a slow, months-long text cadence. On 2026-07-24 Alan replied to Ryan's 2026-07-19 check-in and proposed getting together for a 1-1 meal in the next ~2 weeks — now awaiting Ryan's availability.*
+
+## Relationship strategy (as of 2026-07-24)
+- **Alan's operating model (important):** Alan has aphantasia and does **not form felt emotional attachments** to people; his nervous system relates to people through **operant conditioning** (accumulated safe/unsafe history), not affection. Consequence: the only relationships that survive are the ones where **the other person keeps reaching out** — Alan rarely generates the pull himself.
+- **What Ryan is, in those terms:** (1) One of a *very small* set of people who reliably keep reaching out → rare, structurally load-bearing infrastructure for Alan having any social life at all. (2) **Exposure therapy** — Ryan was safe for years, then became acutely *unsafe* at the firing; re-engaging him is graded re-approach to recondition him back toward safe. So a meet-up that goes *well* is a genuine therapeutic win, and a bad/flooding one sets it back.
+- **Goal:** NOT closure (the repair is real and Alan isn't seeking an ending). Alan **needs more social in his life**, shape still undefined, and is right at the **affordability margin** for social spend — so dosage matters.
+- **The plan with Ryan:** next increment is **in person, 1-1, a quiet meal** (walk shelved until cooler weather; larger groups worse than 1-1). Commit to a **concrete near-term plan** rather than a soft "sometime" (soft is exactly what stalled the Jan 2026 invite). Alan's schedule is open, so **Ryan's calendar is the limiting factor** — Alan optimizes his capacity around a fixed date rather than deciding last-minute.
+
+## Who he is / how they know each other
+- **Colleague first, friend throughout.** Worked together at **Latitude Games** (AI Dungeon). Alan = CTO / lead engineer, largest employee shareholder after CEO Nick. **Ryan = COO and board member**, and explicitly described his role toward Alan as his **"advocate" / "protector"** — the exec who "shielded, accommodated, and fought for" Alan for years.
+- **Prior shared history.** Ryan joined Latitude "in large part because I worked with you and enjoyed it so much that I wanted to do it again" — so they worked together at an *earlier* company before Latitude (name not in thread — uncertain). Alan's earlier career included Epic Systems.
+- **Faith + place.** Both LDS; both in Utah (Alan in Provo/Orem since Dec 2023; Ryan in the Provo area). Both turned **40 around Jan 2026**.
+
+## Relationship arc (2023 → 2026)
+- **2023-08 → 2024-mid — Intense working partnership.** Mostly AI Dungeon ops: Alan the on-call engineer (outages, security, scaling, the deploy "release train," the "necromancer" restart script); Ryan the product/ops lead. Warm, high-trust. Ryan repeatedly attends to Alan's stress/capacity. Alan begins tracking his own "capacity" in metrics — early signs of the health struggle.
+- **2024-mid → Oct — Equity strategy + declining capacity.** Equity-comp discussions begin; Alan increasingly capacity-limited (~20%). Ryan writes an unusually tender appreciation note (2024-07-13).
+- **2024-10-22/23 — RUPTURE (the firing).** Ryan and Devin decided to terminate Alan; Nick (CEO) recused. Ryan admits he "did not communicate clearly… made some bad assumptions." Alan, unable to work or "pretend I'm leaving on good terms," chose Oct 23 as his termination date. Severance negotiated with Nick looped in.
+  - *Two framings, both real; the second is the durable read.* Day-after (2024-10-24), gracious: "Thank you for paving the way… shielding me, accommodating me, fighting for me so hard for so many years." Months later, honest: **"Being fired last October 23rd was devastating for me. In one day I lost all of my income, much of my health, half of my relationships, most of my confidence, and four fifths of my sense of self."** (2025-03-24)
+- **Late 2024 → mid-2025 — Estrangement.** Alan needed distance, mostly couldn't respond for months. Equity-sale coordination continued throughout.
+- **2025-07 — REPAIR begins.** Ryan reached out through Jen (Alan's wife) re: autism; Alan replied directly (2025-07-06): "I'm sorry for all of the pain and frustration I've caused you over the past 18 months… grateful for the effort you put in on my behalf." Ryan (2025-07-20): "No hard feelings at all, and I'm sorry for all of the hard as well."
+- **2025-08 → 2026-01 — Warming.** Ryan sends warm check-ins; Alan answers honestly. 2026-01-22 birthday exchange is the emotional high point — Ryan: "I respect and love you. I want good things for you. I miss you." Warm AI-tooling conversation late Jan 2026.
+- **2026-07-19 — Present.** After a ~6-month gap, Ryan sends a light check-in that remains UNANSWERED.
+
+## The business thread (RESOLVED)
+- **Setup.** Alan a major Latitude shareholder (largest employee holder after CEO Nick); grant dated Feb 27 2020 → QSBS-qualifying only after Feb 27 2025 (drove the timeline). After the firing, Alan needed to sell shares for liquidity/retirement.
+- **Cast.** Nick = CEO. Ryan = COO/board, ran the deal company-side. Rishi = lead investor assembling a buyer group; Diogo & James = other investors; Album & NFX = VC firms on the cap table; Chris Schoff = equity lawyer.
+- **Alan's hard line.** Sell the majority of his stake only at ≥ $5M total; cared more about % retained than price. Three acceptable options: 5% @ $20M-post, 7% @ $24M-post, or 10% @ $32M-post.
+- **Tension.** Ryan pushed back hard that re-trading up to $32M after anchoring investors at $24M would "very likely completely kill the deal" — candid, slightly bruising, balancing advocacy for Alan vs. protecting the deal.
+- **Resolution.** Alan committed to **7% at $24M post** (2025-04-24). Sale closed in two halves through mid-2025. By Jan 2026 the second half came through; compound growth took Alan's runway "from five years to almost twenty." **Alan remains a Latitude shareholder.** Deal = done and positive. No pending business action.
+
+## Key facts about Ryan
+- **Company:** Latitude Games (AI Dungeon) — still running it in 2026 ("going well while very challenging… hitting the edge of some of my abilities").
+- **Role:** COO & board member; was Alan's manager and self-described advocate/protector.
+- **Met at / how:** Colleagues at Latitude Games (2023–2024); also worked together at an earlier company before Latitude (name unknown).
+- **Family:** Wife **Katrina**; multiple kids. LDS, Utah (Provo area). Turned 40 ~Jan 2026.
+- **Tools / interests (recent):** Heavy AI-tooling enthusiast — built "Clawdbot" personal assistant; runs 2 Claude Pro accounts; experimenting with subagents (Gemini Flash, Sonnet, Codex CLI orchestrated by Opus) to conserve tokens; built a personal bookmark scraper/tagger. Loves board/card & video games; ideas, psychology, entrepreneurship.
+
+## Shared ground / recurring topics
+AI tooling / Claude / Anthropic (strongest current tie); entrepreneurship & startups; LDS faith; gaming (Alan deep in ESO — 12k hrs, building an ESO Build Simulator); theater (Hale Center); family & neurodivergent parenting; engineering craft (their original bond).
+
+## Tone & dynamic
+- Deep mutual respect and real affection, asymmetric in expression. **Ryan is almost always the warm initiator** — patient, protective, effusive; consistently gives Alan room ("no rush").
+- Alan is more reserved and precise — long, structured, scrupulously honest updates, quantifying internal states as %. Warms markedly during the repair.
+- **Cadence now:** slow — months between messages; purely personal (no longer work). Ryan sends periodic unprompted warm check-ins; Alan answers thoughtfully but sparingly, gated by health/capacity.
+
+## What Alan has shared with Ryan (reply-continuity — keep consistent)
+- **No intrinsic sense of time** (disclosed 2026-07-24) — depends on experiential memory, which he lacks; this is *why* he can't instinctively follow a natural cadence of connection (not disinterest). Told Ryan directly.
+- **Autism**, late-diagnosed, severe autistic burnout; capacity framed as nervous-system health % (~1% end-2024 → 1.5% mid-2025 → ~5% by Jan 2026; ~20% functional with an ADHD stimulant found late 2025). Restricts optional social activity until health milestones — *why* he can only text occasionally, not disinterest.
+- **Family of five, all invisible chronic illness.** Wife **Jen** (hospitalized 3 days, pneumonia, summer 2025). Son **Joseph** also autistic (burnout early 2024). Three neurodivergent kids, two neurodivergent parents.
+- **Finances:** cut standard of living in half; equity sale took runway ~5 → ~20 years; AI spend was ~$1k/mo on Sonnet (early 2026) before Ryan tipped him to get Opus via the Claude subscription.
+- **Work/interests now:** left the workforce after Latitude; going where interests take him; ESO + ESO Build Simulator; heavy AI-assisted coding.
+- **Still carries pain about Latitude** — even a light work conversation can cost him "two full days of recovery." Handle the Latitude/work topic gently; he'll meet up "as long as we don't talk too much about work."
+
+## Open threads / pending
+- **Reply SENT 2026-07-24** — Alan answered Ryan's 2026-07-19 check-in with a health/Europe/ESO-project update AND a concrete ask: get together for a 1-1 meal in the next ~2 weeks, "send me some times that work for you." **Awaiting Ryan's proposed times → then Alan locks in a specific date.** (Watch for Ryan's reply.)
+- **Standing open invitation to meet in person** (a walk, a board/video game, families together). As of Jan 2026 Alan said he could manage it, work-topics minimized; not yet scheduled.
+- Ryan has offered Latitude business updates if Alan ever wants them (Alan lukewarm; tread lightly).
+
+## Certainty notes
+Directly attested: the Latitude/AI Dungeon origin, the firing (2024-10-23), the deal landing at 7% @ $24M and closing in two halves, and all of Alan's disclosures. Inferred (reasonable, not stated): the earlier company where they first worked together (name unknown); that Provo is Ryan's base; that Katrina is Ryan's wife (strongly implied).
+
+*Ledger built 2026-07-24 from the full 2023-08 → 2026-07 iMessage thread (+18012055722).*

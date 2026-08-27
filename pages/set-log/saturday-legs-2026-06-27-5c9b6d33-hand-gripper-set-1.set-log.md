@@ -1,0 +1,14 @@
+---
+page-type-slug: set-log
+title: Hand Gripper set 1
+id: 019f0aaa-51ff-7f8a-84ad-c83393ecea69
+rpe: 4
+note: "10 each hand, equal L/R; gripper resistance 10 lb (device range 10-132)"
+reps: 20
+weight: 10
+session-slug: saturday-legs-2026-06-27-5c9b6d33
+exercise-slug: hand-gripper
+is-warmup: false
+set-number: 1
+slug: saturday-legs-2026-06-27-5c9b6d33-hand-gripper-set-1
+---

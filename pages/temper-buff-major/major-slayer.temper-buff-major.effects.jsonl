@@ -1,0 +1,3 @@
+{"id":"01a02990-b5b7-700a-b7c3-31c39ee20d5a","metric-id":"damage-done-dungeon","effect-type":"fractional-change","effect-value":0.1}
+{"id":"01a02990-b5b7-700b-8f60-9c2db4742d9c","metric-id":"damage-done-trial","effect-type":"fractional-change","effect-value":0.1}
+{"id":"01a02990-b5b7-700c-bdf3-48b073e2de62","metric-id":"damage-done-arena","effect-type":"fractional-change","effect-value":0.1}
