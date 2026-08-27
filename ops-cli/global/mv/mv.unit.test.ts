@@ -99,6 +99,26 @@ test("a pair naming itself on both sides is refused, since it asks for no move",
   })
 })
 
+test("a file of a kind stating `binary: true` is carried, its bytes never read as text", () => {
+  inOneRepo((root, run) => {
+    writeFileSync(`${root}/a.png`, Uint8Array.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a, 0x00]))
+    execFileSync("git", ["-C", root, "add", "-f", "--", "a.png"])
+    const ran = run(["--from", "a.png", "--to", "b.png", "--dry-run"])
+    expect(ran.said).toContain("a.png  carried to b.png")
+    expect(ran.code).toBe(0)
+  })
+})
+
+test("a NUL byte in a file of a kind stating no such thing is refused, not passed over", () => {
+  inOneRepo((root, run) => {
+    writeFileSync(`${root}/a.md`, `# A${String.fromCharCode(0)}\n`)
+    execFileSync("git", ["-C", root, "add", "-f", "--", "a.md"])
+    const ran = run(["--from", "a.md", "--to", "b.md", "--dry-run"])
+    expect(ran.code).toBe(1)
+    expect(ran.said).toContain("holds a NUL byte")
+  })
+})
+
 test("sources standing in two repos are refused, one side of a move addressing one repo", () => {
   const source = scratchRepo()
   const destination = scratchRepo()
