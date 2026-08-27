@@ -33,8 +33,10 @@ export const DESCRIPTION =
   "than matched, so a relative spelling and an absolute one are both followed, and a link label " +
   "is rewritten where it is exactly the target's filename stem — an address written in words, " +
   "which goes stale in silence because the link still resolves. The `slug:` a moved page " +
-  "declares follows its new FILENAME, and every frontmatter value naming that slug follows with " +
-  "it, the key set read off the page types rather than listed. A relative `import`/`from` naming " +
+  "declares follows its new FILENAME, and every frontmatter value that NAMES that slug follows " +
+  "with it, the key set read off the page types rather than listed. A `slug:` on a page that is " +
+  "NOT moving is that page's own name rather than a reference to the page that moved, and is " +
+  "left exactly as it is even where the two are spelled the same. A relative `import`/`from` naming " +
   "a moved `.ts` is repointed in whatever repository the importer stands in, under its `.js`, " +
   "extensionless and `/index.ts` spellings. A path written as TEXT — a doc comment, a shell " +
   "example, a hook command, a string in a test — is rewritten inside a fence as readily as " +

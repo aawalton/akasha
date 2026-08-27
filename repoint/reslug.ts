@@ -99,24 +99,31 @@ function becomes(was: string, carried: Reslugged): string | null {
   return half === undefined ? null : addressOf(parts.type, half)
 }
 
-export function slugPatches(body: string, carried: Reslugged, keys: ReadonlySet<string>): readonly Patch[] {
+export function slugPatches(
+  body: string,
+  carried: Reslugged,
+  keys: ReadonlySet<string>,
+  ownStem: string | null
+): readonly Patch[] {
   if (carried.size === 0) return []
   const source = new Source(body)
   const patches: Patch[] = []
-  const follow = (value: FrontmatterValue): void => {
+  const follow = (value: FrontmatterValue, own: boolean): void => {
     if (value.kind === "list") {
-      for (const item of value.items) follow(item)
+      for (const item of value.items) follow(item, own)
       return
     }
     if (value.kind !== "scalar") return
     const was = value.value.text
     const { start, end } = value.value.span
     if (body.slice(start.offset, end.offset) !== was) return
-    const text = becomes(was, carried)
-    if (text === null) return
+    const text = own ? ownStem : becomes(was, carried)
+    if (text === null || text === was) return
     patches.push({ start: start.offset, end: end.offset, text, was })
   }
-  for (const key of readBlock(source).keys) if (keys.has(key.name)) follow(key.value)
+  for (const key of readBlock(source).keys) {
+    if (keys.has(key.name)) follow(key.value, key.name === SLUG_WORD)
+  }
   return patches
 }
 

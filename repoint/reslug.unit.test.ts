@@ -90,6 +90,27 @@ describe("the domain a moved file declares", () => {
     }
   })
 
+  test("stays on a page that is not moving, whose slug is its own name and not a reference", () => {
+    const at = fixture()
+    try {
+      installPages(at.root, SCHEMAS)
+      at.put("pages/domain/north/lantern.md", declaring("lantern", "Lantern"))
+      at.put(
+        "pages/alert/lantern.md",
+        "---\npage-type-slug: alert\nslug: lantern\ndomain-parent-slug: hearth\n---\n\n# Definition\n"
+      )
+      expect(
+        landed(
+          at.root,
+          moves(["pages/domain/north/lantern.md", "pages/domain/north/beacon.md"]),
+          "pages/alert/lantern.md"
+        )
+      ).toBeNull()
+    } finally {
+      at.dispose()
+    }
+  })
+
   test("does not reach a key whose values are names rather than pages", () => {
     const at = fixture()
     try {
