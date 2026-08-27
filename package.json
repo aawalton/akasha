@@ -9,7 +9,8 @@
     "lua-compiler/vendor/*",
     "alanwalton/calendar-sync",
     "alanwalton/chess",
-    "alanwalton/voice-core"
+    "alanwalton/voice-core",
+    "automation/core"
   ],
   "dependencies": {
     "@vscode/ripgrep": "^1.18.0",
