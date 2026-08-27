@@ -3,7 +3,7 @@ id: 01a01112-7783-7000-9654-b8d6cf7f2ff5
 page-type-slug: page-type
 title: "Book chapter"
 extends-slug: chapter
-files: books:**/*.book-chapter.md
+files: akasha:**/*.book-chapter.md
 body-shape-slug: text
 slug: book-chapter
 unbounded: true

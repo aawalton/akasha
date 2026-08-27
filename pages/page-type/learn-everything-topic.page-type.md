@@ -3,7 +3,7 @@ page-type-slug: page-type
 title: "Learn everything topic"
 id: 019ffed6-691c-7000-a118-e6ecadab93f4
 extends-slug: topic
-files: books:**/*.learn-everything-topic.md
+files: akasha:**/*.learn-everything-topic.md
 body-shape-slug: learn-everything-topic
 slug: learn-everything-topic
 domain-parent-slug: domain/learn-everything
