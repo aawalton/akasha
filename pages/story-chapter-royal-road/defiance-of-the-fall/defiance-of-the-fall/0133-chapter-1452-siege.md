@@ -1,0 +1,104 @@
+---
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1,452 - Siege"
+slug: 0133-chapter-1452-siege
+partOf: defiance-of-the-fall
+position: 133
+ownLength: 2812
+unit: words
+publishedAt: 2026-08-27
+link: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3873030/chapter-1452-siege"
+royalRoadId: "3873030"
+---
+
+Zac fought back against nausea and vertigo as he swung [Verun’s Bite] in an overhead arc. A Middle D-grade Rapture Beast was cleanly cut in two, as were two more beasts thronging from behind. The fallen beasts turned into goop that fell to the ground. Infuriatingly, they directly reformed before Zac could blink, as they had many times before.
+
+Getting even a second of rest this close to the Primo’s right eye was a fool’s hope. Mindful of the time, Zac had no choice but to continue his Sisyphean slaughter to maintain his position. Zac glanced at the treasure hovering in the distance, surrounded by a huge field of absolute Death that stretched thirty miles across. The Primo’s eye was only the size of a baseball, yet looking at it felt like staring directly at a sun—a dark, unfeeling sun that incinerated anything it touched.
+
+Nothing could enter its innermost domain; not him, not his items. Not even Rapture Beasts. Everything would die, decay, and crumble. Just touching the edge was incredibly dangerous, risking a contamination of catastrophic forces. Zac could only stay at the edge until the Rapture Curtain did its job and sealed the eye.
+
+The upside was that not even Rapture Beasts could withstand the treasure’s emanations despite being made from them. The closer Zac got to the innermost circle, the weaker the beasts became. Still, primal desire within the beasts ensured they kept as close to the Primo’s eye as possible, no matter if it meant their gradual decay into nothingness.
+
+In that regard, the beasts inside the sphere acted like they were possessed, lacking any of the craftiness of the Rapture Beasts who’d made the city their home. They were all mindless instinct and hunger, and anything blocking their clear line of sight to the source of their existence was an enemy. Such foes posed no threat to Zac, but his companions were already showing signs of wear against the eye’s relentless assault on its surroundings.
+
+Both Verun and Haro lacked his innate resistance to Death and his ability to ferry off the excess energies to his other body. Seeing that they’d reached their limit, Zac stowed the two and switched to a direct means of combat. He unleashed a brutal punch with his fist, destroying the central mass of the angelic creature that appeared before him.
+
+Zac didn't bring over Alea from the other side. There would be an intense mismatch to his Evolutionary Precursor pathways, and he only needed to hold on for a few more seconds before it was time to act. Case in point, Zac soon felt a stir among the swarm of beasts as the whole sphere shifted. Moments later, the lethal domain began to shrink.
+
+The Primo was finally closing his eye after witnessing the end for uncountable years. Hundreds of beasts threw their lives away, unable to resist the temptation. They were reduced to dust the moment they entered the domain, and their very essence was dragged back into the heart. Zac waited as he kept pace, intending to be the first one to reach the goal. He was in no mood to extract the eye from a Rapture Beast’s stomach.
+
+Blaring warning bells went off just as Zac made his move, and a large vortex opened right before him. He emerged dozens of miles further away from the observatory’s center, surrounded by the hulking figures of D-grade Rapture Beasts. Neither side bothered with the other. The beasts were rushing toward an expanding wave of death like moths to a flame. The eye had released a last roar of defiance before it was sealed.
+
+Zac, meanwhile, had already stepped into another vortex, moving further away still. Four rapid jumps later, Zac floated at the observatory’s edge. He would have preferred to keep going, only it wasn’t possible. The mile-wide outer shell was made of high-grade alloy that not even [Earthly Dome] could circumvent. As for escaping through the hatch? Forget it. He couldn’t see it from his vantage point, but it must have almost closed by now. Leaving meant giving up on the treasure.
+
+The storm had almost reached Zac at that point. It looked like a churning, ever-expanding thundercloud made of Apocalyptic Death. Just looking at it was enough to cause a backlash, with small cracks appearing all across his skin. With no escape and his back against the wall, Zac knew he had to endure. He quickly activated [Void Zone], followed by a Void-activated [Empyrean Aegis].
+
+The wooden wheel silently appeared behind him, and it rapidly turned a whole turn to release all defensive charges at once. The last line of Rapture Beasts was consumed, then it was upon him. Despite having exhausted much energy on expansion and destroying thousands of Rapture Beasts, the wave was still no weaker than a Monarch’s all-out attack.
+
+Zac stood with his back against the wall, with a tsunami of death crashing into him. The fact that the observatory’s metal sphere was voraciously absorbing the energies to fuel its operations helped, yet Zac heard his defensive shields snapping one after another in rapid succession. Throwing out a few talismans to bolster the blockade only bought him a fraction of a second.
+
+It didn’t take long before [Empyrean Aegis] could no longer withstand the overwhelming force. Zac glanced toward the opposite side of the sphere with a frown as he opened a new vortex and stepped through. A few more skips, and Zac was back in the heart of the observatory, even closer to the eye than before.
+
+Zac had directly teleported past the outer wave of destruction. [Empyrean Aegis] was never meant to fully endure the blast. Its purpose was to buy just enough time to let things settle closer to the center. Ideally, Zac would have activated [Apex Jungle] at this point, but he could tell it wouldn’t last long inside the ebbing tides of Apocalyptic Death.
+
+That didn’t stop Zac from releasing a storm of spores as he rushed toward the eye. Vines sprouted and died before they could grow to the size of a pinky, over and over. The energy expenditure was tremendous, but it was worth every penny as far as Zac was concerned.
+
+The disruptive force of the shockwave seemingly prevented the Rapture Beasts from reforming, yet Zac kept up his vigilance as he carefully approached the Primo’s Treasure. The Rapture Observatory’s seal working at maximum capacity didn’t mean approaching was safe. The ambient Death rapidly grew beyond bearable levels, and Zac had to keep [Void Zone] running during the last few miles. Then, he was before it, the key to seizing a better future for his people.
+
+The eye was pitch-black throughout, yet there was no mistaking where its pupil lay. Even sealed, it conveyed a terrifying, despair-inducing Dao that almost drove Zac mad. It was a nihilistic clairvoyance that ended in death. It had seen the Era’s end, an inevitable destination that not even the Limitless Emperor could avoid. So why should he struggle? They’d all return to dust soon enough.
+
+It was only through the protection of a mysterious rune that Zac managed to hold onto a shred of coherence. It was shaped like an infinity cycle, and the meaning it held was the same. The rune inverted the meaning of the apocalypse, somehow managing to impart the Dao of Death with the feeling of new beginnings. It took the Primo’s Dao and turned it on itself, creating a perfect loop of containment. It had the mark of the Margrave all over it.
+
+Tears pouring down his face and already struggling from overexposure to Apocalyptic Death, Zac took out the Primo’s feather with shaky hands. It flew out on its own the moment it touched the eye, wrapping it in a comforting embrace. Zac breathed out in relief, inwardly praising the Primo for automating the most dangerous part of the process. He’d seen firsthand from [Second Singularity] how deadly it could be to interact with an A-grade treasure, sealed or not.
+
+Barbs grasped onto the eye like thousands of small fingers, gradually weakening its influence on the world. As the eye was hidden away, so did the ambient Death weaken by a few degrees. Vast amounts of Miasma remained, but it had lost most of its spiritual profundity that elevated it from the norm. Without it, no new Rapture Beasts emerged to replenish the sphere’s depleted stock. Zac guessed that this place would be no different than the rest of Ninth Hell soon enough.
+
+There was not a single gap left in the cocoon after a while, and the hidden pupil was the last to be covered. A deep exhaustion seeped out toward the end, to the point where Zac’s coursing adrenaline couldn’t stop his eyes from glazing over. The dream shattered before it could begin, disrupted by an urgent scream of danger.
+
+Zac only had time to grab the encapsulated eye before he was forced to flash out of the way. Stashing an A-grade treasure in a Spatial Ring was out of the question, so he could only keep it inside a pocket tucked against his back. He wasn’t worried about damage. He’d already stress-tested the feather before, and he couldn’t imagine the eye being vulnerable to impacts—not that he’d risk his life on that assumption.
+
+He narrowly dodged a translucent blade that split the whole chamber in two. The swordlight lingered in the air after it passed, allowing Zac to confirm it was instilled with both Earthly Daos and Late-stage Dao Integration. Turning his head, he found the source of the ambush rapidly closing in on his position.
+
+It was a ragtag group of both undead and living, most of them looking worse for the wear. Different from Zac, they’d been forced to directly face the final blast. Zac guessed they’d pooled together their energy to activate a C-grade defensive tool or something similar. He’d vaguely sensed it through the storm of death earlier. They were the real threat Zac had kept an eye out for until the treasure began messing with his mind.
+
+Beyond having suffered the eye’s outburst, they sported clear signs of battle. Zac could smell both Abyssal Death and Chaos on them. They had not just encountered Tavza; they’d made it past her blockade. As for the An’Azol scion herself, there were no signs. She hadn’t managed to enter the observatory along with these people.
+
+“Can you hear me?” Zac whispered into a communicator, receiving no answer.
+
+He wasn’t worried that Tavza had fallen in the short window since they talked. She had enough defensive layers and Miasma to turn a losing battle into a prolonged siege. Zac still wanted to know the situation outside. Having Tavza back him up would lessen the pressure. Worse, what if there were even more opponents waiting outside when he emerged, exhausted and with his skills on cooldown?
+
+As if the ambush wasn’t enough of a clue, the attackers were hostile and primed for battle. They’d donned powerful gear, the kind that rarely made an appearance during the intersector war. It was to be expected. Even if more than half of them were Middle D-grade cultivators, they were Sealbearers sent into the sealed sector by high-grade factions. Not just that, they were the cream of the crop, trial-takers who’d successfully made it to the Hollow Court. Scrounging up some matching War Regalia wasn’t an issue.
+
+One of the Late D-grade leaders held an inlaid tower shield that powered a massive barrier enclosing the group. Not only that, it seemed to filter the Apocalyptic Death to some degree, though Death remained the major element inside the bubble. Zac could tell the barrier wasn’t just a skill, it was something similar to the extremely powerful abilities of his Spirit Tools. While it couldn’t stop Zac if he brought out his Void Talents, it wasn’t something Zac was confident he could quickly destroy through brute force.
+
+The sword that had unleashed the previous strike was even scarier. It had to be a Peak D-grade Spirit Tool, and not a simple one either. Judging by the ancient aura it exuded, it was the kind that had been passed from hand to hand across countless generations, each wielder imbuing the Tool Spirit with greater depth.
+
+As if that weren’t troubling enough, six people—including the Izh’Rak Reaver—held unfamiliar, exotic treasures. The treasures gave Zac significantly more pressure than the cultivators themselves. Skills and conventional attacks Zac could deal with, no matter what shape or style they came in. Their threat ultimately depended on the user’s level and Daos.
+
+Meanwhile, the power of unique treasures was complex and often difficult to assign a strict grade. For instance, Mox’s Grimoire and the disciple it tempted weren’t technically too powerful, but the methods they possessed made them exceedingly dangerous and hard to catch. If not for Zac’s unique skill set, the corrupted courtesan in the Joyful Gardens would have continued her killing spree to the end.
+
+A few of the items his enemies had brought out were no worse than the resources Kator prepared against the Flamebearers. While the rest didn’t make Zac’s senses tingle to the same degree, he had no idea exactly what they could accomplish. One wrong move, and he could find himself unconscious or even dead.
+
+“Tavza An’Azol is in no condition to save you. Hand over the Primo’s Eye, and we’ll spare you,” a wounded Izh’Rak Reaver at the front domineeringly proclaimed.
+
+“With just you lot?” Zac sneered as his aura exploded.
+
+There was no point in talking things out. There was simply no way these people would spare him. Even now, Zac could feel them charging skills and treasures to take him out. And even if they were willing to negotiate, why should he care? A few of these people might give off pressure just below Kator’s, but he was no longer the same person as when he fought the terrifying reaver. This lineup wasn’t nearly enough to make him despair.
+
+Drums of blood and steel rang in Zac's ears as the runes of [Arcadian Crusade] covered his skin. [Conformation of Supremacy] came next, adding a primal armor covered in wriggling runes that thrummed with explosive fury.
+
+Zac shot out like a rocket, drastically shortening the distance with [Skystriker]. [Verun’s Bite] had returned to his hand, and furious howls accompanied his approach. The huge, empty sphere suddenly lit up as a sword towering two miles appeared. As it descended with deceptive speed, it held almost as much strength as [Arcadia’s Judgment].
+
+This wasn’t an attack that could be met head-on, at least not while [Empyrean Aegis] was still on cooldown. Zac sharply veered to the left, yet found the descending blade followed his new trajectory to a tee. Worse, Zac suddenly felt his movements oddly restricted. It was as if only a few paths were allowed by the Heavens. Moving outside their purview was met with fierce resistance from the natural order.
+
+Looking up, Zac saw a Late D-grade Cultivator holding a ruler covered in talismans. It was a treasure belonging to the Peak of Order. It seemed to operate through methods similar to Lord 84th, who stole Zac’s possible futures before he took Abbot Everlasting Peace away. Meanwhile, the ruler had sealed all paths it didn’t consider righteous, forcing Zac to face the falling sword head-on.
+
+Reluctantly, Zac channeled [Void Mountain]. If the normal routes were blocked, he planned on dodging the blades with his Void-imbued technique. He was shocked to find equal resistance when attempting his fallback. Mind churning in search of a solution that didn’t expose his vortices this soon, Zac suddenly brought out a small vajra.
+
+Rough chants of Buddhist scripture spread through the area the moment the cursed treasure emerged. Inside the Rapture Observatory, with its lingering traces of the apocalypse, the deranged chants gained even greater power. Zac’s already war-addled mind filled with hunger for universal destruction. He allowed himself to indulge in the message, and he felt the restrictions imposed on him weaken.
+
+Order crumbled, and a path was opened, allowing Zac to step onto his exclusive Void road. The blade rushed past his previous location the next moment, tearing through space with unmatched sharpness. Even hundreds of meters away, Zac couldn’t avoid errant streaks of bladelight that drew grisly lines across [Ossuary Bulwark].
+
+The pain brought his madness to greater heights, and even the remaining traces of ancient Killing Intent appeared to be affected. He’d figured the anti-sangha weapon might work against similar methods, but he hadn’t expected the vajra to have such a strong self-harming effect. Zac forced himself to stow the relic with the last shreds of coherent thought, yet the madness still gleamed in his eyes as he rushed toward the protective bubble.
+
+Good thing there were plenty of targets to exhaust his hunger.

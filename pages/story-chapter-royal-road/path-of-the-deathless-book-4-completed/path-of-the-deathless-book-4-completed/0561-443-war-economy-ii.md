@@ -1,0 +1,230 @@
+---
+page-type-slug: story-chapter-royal-road
+title: "443 War Economy [II]"
+slug: 0561-443-war-economy-ii
+partOf: path-of-the-deathless-book-4-completed
+position: 561
+ownLength: 5622
+unit: words
+publishedAt: 2026-08-27
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3873031/443-war-economy-ii"
+royalRoadId: "3873031"
+---
+
+“The Deathless has front lines! Vanguard is collapsing—Gravesealer Regiment: Engage and delay; fighting retreat. This offensive has concluded. Pull back to second front and hold. Magi! Shroud senses! Guard your minds! Do not listen to him speak! Disengage, defend, support, extract! Repeat: Disengage, defend, support, extract!
+
+Socials! Uphold morale! Do not let him break your comrades!
+
+Do not waste your lives. Let him pass the second and third lines before triggering the spell!
+
+Do not feed the Deathless levels. Repeat—no pitched battles! Suppress and pull back! Suppress and pull back. All other Pathbearers: Prepare for teleportation!”
+
+—Legend-Assassin Maria Corcusa of the Ophereus Bloodline, Field Marshall of the Piety Offensive
+
+443
+
+War Economy [II]
+
+“Tempo, tempo, tempo. Pace, pace, pace.” Such was Roland's mantra, echoed by Irons, adopted by Adam, and then thereafter by Shiv himself. All the battles he had fought before were more like skirmishes—violent, explosive, calamitous skirmishes, but only skirmishes nonetheless.
+
+They were desperate encounters between small teams of elites—often in the shadows, in desperation, without proper preparation. But war was different. War was a team game, no matter how individualist you were. Of course, a Legend was far superior to an Adept, but one martial Legend would be easy prey for a dozen Heroic spellcasters after being deprived of equipment or simply worn down after killing 10,000 Adepts.
+
+Most Pathbearers were worn down by physical and mental attrition no matter how high their Tier or how expansive their skills. Shiv didn't suffer such a weakness. Instead, his mistake lay in another category: being overwhelmed. He was reckless, taught so by his deathless nature. For every time he fell, he rose stronger than ever before, and it was an invigorating experience, especially with his Harbinger to ferry him back into the fray time and again. But when Shiv stood against an entire army fielding Diviners, Magi, Shadowstalkers—entire regiments created to counter and eliminate him on a total and fundamental level—he quickly learned the limitations that came with being a lone wolf.
+
+It wasn't even the repeated deaths that stymied him. It was being suppressed and held in place. They didn't need to kill him. In fact, they had moved beyond that by now, choosing instead to dimensionally cage him when his Shapeless Tides were worn down. That forced him to abandon those bodies in explosive suicides and reposition himself. Though he could afford to be callous with his own lives as his existence was a post-scarce resource on the battlefield, that didn't mean the same applied to his allies. Every second he wasn't at the front, every second he was out of the fight, was time for the enemies to push against his comrades. On top of that, his vitality wasn't without limit. He needed to recharge every now and again, and so the seconds of his absence turned to minutes—and the invaders learned to time those minutes to maximum effect.
+
+Beyond being overwhelmed, there were also Pathbearers Shiv had no easy answer for: adversaries who could move fast, turn ethereal, teleport quickly, and survive just long enough that his nihilistic flames couldn't boil through their mana fields and his strength couldn't be brought to bear against their material forms. No matter how expansive one suite of skills was, there were always gaps in between that needed to be filled by other Pathbearers.
+
+But Shiv was also learning to reduce these gaps by applying the same lessons of teamwork and warfare unto himself.
+
+He landed on the front line in a sprawling barrage of shells. Each impact was followed by an inertial discharge as ten of his Vitae Golems detonated themselves, blowing patches of nothingness across the battlefield. That left him with fourteen vessels: four of them true clones, the rest auxiliaries, all of them expendable.
+
+Shiv's true clone bodies were barely four hundred meters apart, and they rapidly maneuvered to form up as a squad. “Good grouping, Gunhead!”
+
+The mechanical Ranger just barked a laugh. “This is nothing. You should have seen the shit I pulled back at Hu-Stone.”
+
+In a blink, Shiv dispatched three Vitae golems in random directions, sending them forth on suicidal charges as they ripped through the blood horrors and Vultegs amongst their scattered lines, treading through fortifications, smashing through Geomantic bunkers, and bursting cracked wards. The Vitae golems themselves were hissing bright blossoms of purest red, and a rain of siege spells descended upon them. The enemy Magi unleashed colossal spells capable of battering through the outer wards of a Fortress-City. The magic flowed from a series of spatial wards, rupturing the fabric of reality. Static chasms became magical barriers for these siege spells to travel across, and every one arrived at its mark, hammering down upon Shiv's decoys before he pushed any further.
+
+Yet not a single golem was destroyed. Instead, the first was trapped in a temporal stasis, frozen; another was buried in a cube of tungsten, its own body alchemizing to merge with the metal, fused and trapped; the final one was simply teleported away, cast into a prison dimension, as had been the fate of many of his other bodies.
+
+They'd learned that Psychomancy was a bad idea after that single time they managed to breach through his Magical Resistance and found Uva waiting on the other side, and that had been a mass slaughter of another variety: the kind that ended with five hundred Heroic-Tier Magi brain-dead.
+
+As the enemy mages unleashed their spells, a streak of incandescence split the sky above, followed by another, and another, and another thereafter. The magic then sputtered and collapsed. The static chasms and the wards they formed were quenched in an instant as a series of incandescent orbs formed in the distance, creating a massive set of pillars that manifested there to parry Adam's Shards of Exalted Flame
+
+Certain Pathbearers claimed war was chaos. Shiv agreed, but only when viewed from an individual, detail-by-detail perspective, when you were in the thick of it, meat crashing against the other meat, hearing all that blood and death going around you, being spent as fodder and distraction against the falling artillery. Everything was happening to you, and you decided upon nothing but how you wished to fight and, in the end, how you wanted to die. From on high, however, the battlefield was far slower and far more consistent. There were patterns in every engagement. There were things to read. The front lines were always clear. If there were two armies, there would be a point where they met—a stretch of ground where the mass of both sides pressed against each other, where arrows and spells reeked overhead, marking the gulf of that bloodied gray zone.
+
+Tapped into Uva's Dreaming Storm, Shiv saw things from Adam's perspective. He experienced the totality of the battlefield even though he was in the thick of things, but Shiv had his own Awareness, hawks and bugs flying high up in the air, away from the conflict. He listened, and he watched, and he studied the shape of his enemy instead of rushing in as a bull.
+
+The invaders and defenders didn't greet each other along the neatest of lines. Instead, it was like two rival tides crashing against each other, pushing and struggling amidst other pockets formed by trenches, wards, dimensional boundaries, and other military—either tactical or strategic—installations.
+
+Uva's Dreaming Storm expressed itself as a titanic tree of psionic energy piercing the skies above, and it lashed its limbs down, forking and threading through all of Piety's defenders. This kept them connected to each other, but there were also enemy Psychomancers and counter-magi. They focused on breaking branches to the tree so that they could maneuver and outflank. At the same time, the tree constantly cast new structures on the battlefield. Thus, a rapid bowl shape was forming over the invaders—an active, dynamic encirclement that constantly grew and always regenerated, that demanded the enemy fight their geography and the Legendary Psychomancer who supplied its mana as much as they did the Terrorspawn and the Gate Piety elites.
+
+The Terrorspawn themselves were a lesser part of the defensive equation, for the fortifications that were summoned were a nightmare unto themselves. Everywhere you went would collapse and reshape if you were an invader. The hallways you went down, the thoroughfares you sprinted across, the buildings you tried to take would see you arrive elsewhere, out of place, out of bounds, outflanked, not even of your own volition. Geography and position didn't matter when you conducted your battles in the theater of someone else's mind.
+
+At the same time, the defenders had an easy go of it. The wounded and dying needed only to signal their condition to Uva before reinforcements arrived to cycle them out. And though it wasn't impossible to breach the psionic architecture and attack the tree itself—which came at some cost—every bit of mana spent fighting Uva took from the offensive against Shiv. And if everything was given to contend with those two Legends, there was still the presence of the Paragon in the sky above. His arrows would arrive true and unimpeded, smiting through the enemy elite. And that went without considering the Dragon-Knights, the Poly-Magi, Piety’s orcs, Lone Star’s Terminal Opus, the Culturist, Valor, and all the other Legends in the Gate’s repertoire.
+
+The main trio did not stand alone. They were simply the face of a cruel dilemma: to breach the fortress that was the Dreaming Storm meant sacrificing entire armies upon the altar of the apocalypse named Deathless. To ward off Shiv meant the encroachment of the storm, and the usurpation of your land as matter gave way to mind, and all was subsumed in another reality. To disregard the star of Omniscience burning above meant to lose the battle altogether, as all of your Heroes and Legends were immolated and made to betray themselves, as their senses belonged to another, as their presences became known to the Demigod that was the final target of their invasion.
+
+Waves of psionic lightning cascaded along Shiv’s bodies. Thunder resounded behind him, and the layered battlements and trenches melted away as the defenders pushed forward, no longer fighting along bottlenecks to deny the enemy their numerical advantage. Terrorspawn swelled forth, massive, unnatural entities shaped like swaying nooses sliding across the ground as dark pits filled with tongues and fangs. Immolated men, women, and children that howled and sought to spread the torturous flame which assailed them marched forward, and following thereafter, guarded by that wave of eldritch meat, were the true Pathbearers of Gate Piety, moving along in four-to-six-man teams as they prepared to ride the enemy down once Shiv sundered them as a collective force and took the scalps of their Legends.
+
+Adam's incandescent star poured down a beam of light in the distance; such would be Shiv's navigational beacon. However, getting there was up to him, and he intended to take the path of least resistance, or at least manufacture one all his own.
+
+A whistle of descending artillery sounded, and a chain of explosions tore through the blood horrors and scattered Vultegs. Limbs rained down from the sky. Blood and offal filled the air, drowned by smoke, and then further surmounted as Shiv summoned his nihilistic flame, feeding it with the collective philosophy of the forces around him before lobbing it ahead. It crashed into the ground like a seed, only a spark at first, then it swelled upward, a series of rising columns, each one climbing higher, spiking greater, disintegrating the weak and disjointed.
+
+Thousands died in an instant, but those thousands were a rounding error for the enemies on him. They were out of place, behind active wards, and it was those wards that Shiv wanted to test. The scattering meat didn't decide where the front was—the true battle line was where two armies stalled out against each other, trying to make the other buckle.
+
+Shiv's scintillating flame moved in an animated tide, crashing and gliding, caressing the cracks in the weakest wards while frying the strongest, bit by bit, slab by slab, producing chunks of magic to yield meals consumable by anyone. Such was another benefit of having Shiv. He was a logistical godsend, for even stone and mud could be made into something of sustenance when applied, when torched by his nihilistic banquet.
+
+The invaders' wards were dynamic and layered, but not all wards were created equal. The northwestern portion had a set of wards that were hastily put up, worn down earlier, either by an exchange of spells or simply underpowered from the start of things, and neglected by its casters as they were forced to attend to other matters. This was what Shiv was looking for. Before, he simply tried a direct approach, slamming himself over and over again, overwhelming the wards.
+
+It worked. He was an unbreakable, ever-returning hammer, after all, and sooner or later he'd batter through the enemy once he gathered enough tides and mana. Now he learned not to waste his time and simply go for the spine of his enemy. Once an army's center broke, the rest needed to compensate, or everything would follow in a cascading collapse.
+
+“Crack found,” Shiv intoned, signaling Uva to extract his memory and distribute it across the rest of their force. In an instant, everyone was updated about where he intended to go and what he intended to do. If he was a logistical godsend, then she was an intellectual one. “Starting push.”
+
+Three more Vitae golems shot out together, pretending to be synchronized, but they moved in another direction entirely—blasting high into the air and arcing straight ahead, trying to hide their advance amongst another salvo of descending shells. The explosions masked them, but the enemy Diviners were working overtime. Shiv felt the pressure in the air as one teleportation followed another. The Gravesealers were upon his golems, and they engaged, as they had before, in sudden and instantaneous skirmishes. They spent no more than half-seconds in the world before their Jump Magi pulled them back. Slashes shredded through the Vitae Golems. Shiv didn't bother giving them his Legendary-Unique Toughness skill, and so they came apart with pitiful ease, but by then his true push began—and the Gravesealers found themselves thrown off-beat.
+
+Tempo. Tempo. Tempo.
+
+The four Vitae Golems he had left were not cast ahead. Instead, his clones slipped them on, wearing them as skill-armors—shaped in the guise of his vestments, shrouding him in a visage of blood-red death. The skill-armor golems were imbued with only two skills, though both extracted a hefty fee from Shiv's vitality pool.
+
+A wall of hastily cast spells responded, the first of the enemy Magi and Diviners realizing what had just happened. They crashed against his armor, broke upon him without actually consuming any of his present resources as the skill armors soaked the damage on his behalf. Launching himself over the psionic battlements, Shiv saw the sprawl before him. The battlefield was a mess of craters and butchered bodies. Smoking corpses lay in half-melted tunnels, while trench lines had been burned clean, ruined, and made edible by his scintillating flames. His scintillating flames served as a second layer of cover as he called for it to rise, becoming a climbing waterfall that shot toward the ceiling of the Umbral Wilderness. Spells came, but they arrived diminished, burned by his magic before they ever graced him—then counterspells arrived to support him; spiraling shapes of mana coiled around his body, parrying and deflecting incoming blows as Yellowstone's volunteer attachment of Poly-Magi proved their worth once more.
+
+Instead of spiking all four of his bodies into the weak point, he struck using only one for his true clone. Each had their own specialization as well, and the Smasher acted, living up to its namesake, as it burst open its right arm and summoned forth the Garden of Wounds and Broken Things. His Eldritch skill spilled out of him in a floating tide of injuries, lacerations connected to crumbling walls, streets broken, hiding pulsating blood and ruptured organs between. At the end of this calamitous whip of impossible proportions, tons of ruined matter and biomass snaked high through the air until it was larger than a town, nearing the size of a small city; it revealed a flail at the end, a gleaming fist clenched tight and burgeoning with violence.
+
+The Red Rider's Hand had been fed for such an occasion, and now it was time to unleash its fullness. The Smasher whipped his arm down, and the fist followed suit. It impacted the enemy wards, and the devastation that followed was overwhelming. A clean gulf was punctured through the horizon as the enemy's magical protections shattered like glass. Shiv briefly remembered his battle against Longinus in the Boiling Toad. The devastation Shiv could inflict was not quite on the level of the apocalyptic devastation that the Wanderer wrought upon his dimension, but damn if he wasn't slowly getting there.
+
+A counter-force rushed towards Shiv, rising as a hurricane. Every action caused an equal and opposite reaction, and it was enough to sweep the destabilized invaders off their feet, casting thousands of them into the air while Uva's Dreaming Storm forged a dome around the defenders so they wouldn't suffer any collateral damage.
+
+“Push! Push! Push! Burn the vermin!” Adam's voice echoed across the battlefield.
+
+The second specialization in the Deathless True Clone squad was the Shaper. The dedicated mage sent forth not only the scintillating flame but also a flood of searing acid as he projected a materialized set of basilisk heads using his Aegis of Assimilation. The other bodies were not imbued with any magic beyond their Shapeless Tides, for there wasn't a need. Focus was the order of the game on the battlefield, and every expert was a monopoly. Shiv was simply four monopolies stacked on top of one another.
+
+The Nihilists spilled through the enemy's magical dam, pouring out from the kilometer-wide gap, and Shiv's true clones followed. A swell of shadows engulfed them as the Group Stalker lingered in the back, using the Trespasser Born of Dread and Null to blanket their approach in mystery and miasma. Then, at the rear of the group, a golden, resplendent form imbued with time mana, graced with Psychomancy capable of cracking the enemy with his words alone.
+
+And so he did, as his flames tore into the enemy's true front line, flooding through their defensive fortifications, smashing through their hastily erected magical defenses, breaching hostile Pyromancers as they tried to hold back his flames. His words fell upon them, and he spoke using his mind, using his roar as the entirety of the enemy force heard him via his Rhetoric.
+
+“Listen to the rest of the meat burn,” Shiv began, and he made sure his scintillating flames didn't devour their victims so quickly, didn't crackle so loudly. Screams rose—horrible screams infused with his dread-tainted fear, which caused his Inland Embassy to embed itself in thousands upon thousands of enemies, further nourishing his Trespasser of Dread and Null. “Listen to them burn. Listen to them die. Listen and know it doesn't have to be you. You don't need to burn. You don't need to die. Just kneel and lay down. Let go of your weapons. Stop being spent as meat. Your commanders have wasted you. They're going to keep wasting you. You are not the strength of your army. You know this, so don't die for someone who sees no worth in you. Choose my mercy or bear my flame.”
+
+The Speaker's voice reverberated, but then he felt a snap. A series of pressure chasms vanished as he realized that parts of the enemy army were no longer hearing him. A sprawl of gray-black magic swept over their forces, and he realized that mages were severing them from his influence, but they'd done so too late for far too many. His Embassy allowed him to speak with them directly using his mind, even though they cut off his voice.
+
+To his surprise, the enemy held strong. Their ranks endured. Fighting lines rose in their trenches, along their erected battlements, and atop their towers as they fired everything they had at him. A shimmering mirage was draped behind, obscuring their backline not only from his sight but also inflicting a minor vision-scattering effect on Adam himself—even if he slowly burned through the magic with his concentrated awareness. Spells were cast blind and in haste, and the blood horrors charged forward, trying to plug the gap with their own bodies, as that was all they could do. As that was all they were meant for. They didn't know true fear. They weren't really people. There was a use in such ignorance, but they provided little benefit, as they were barely more than Adepts, and the fate of an unsupported Adept before a Legend was simply to die.
+
+Shiv's true clones rushed across the battlefield: the Smasher at the front, parrying strike and spell, using the Garden of Wounds and Broken Things, smashing and obliterating the enemy's material hard points as destruction given flesh.
+
+It operated on the edge of the Stalker's shadows, and when the Gravesealers arrived, diving into the black to engage his true clones, it went for them as they came for him in half-second increments. They plunged into the black, where he waited, his Last Morsel in hand, his crimson cutting aura alive and thirsting for blood. Bodies were bifurcated, limbs were severed. It spoke volumes to how coordinated and disciplined the Gravesealers were that he reaped no lives in that first ambush. They teleported away as fast as they came, his damage not nearly severe or overwhelming enough to stop their jump mages from extracting them. They would come again, but there would be a moment of time as they readjusted. They would need to muster Martials with High-Tier Social Skills to breach his darkness, and there were few enough of those in any army.
+
+A hundred meters behind, the Shaper projected a rainstorm of acid and cancerous spores from twelve malformed, bio-forged basilisks, unleashing its plagueflies to spill over the living. But the Shaper was tasked with directing more than just magic—it operated as Shiv's Ranger as well. His Marksmanship Skill had evolved thanks to all the time spent with Adam and the Rangers—but he also marked targets using Adam's Awareness, thus circumventing his own limits while operating on the battlefield.
+
+A Low Legend Pathbearer of the Path of the Archer was trying to snipe the Paragon from afar, and Adam's sight settled upon him. That sight was carried over into Shiv's.
+
+The Archer was marked for death, and she didn't even know it.
+
+Instead of relying on a ranged weapon, Shiv did things primitively. He formed chunks of platinum bone extracted from his own flesh and tossed them out at targets he painted. Lanes formed in the air, becoming glistening trajectories that indicated how and when he should toss, and while he waited for the timing to be perfect, he reared his own back, concentrating kinetic energy into his ossified javelin.
+
+As his Physicality was Legendary, he imbued so much force in the toss that it formed its own center of gravity, drawing in bits of atmosphere, crushing the world around it, even painting a bruise on Shiv's skill-armor golem. The lane went green. Shiv let his Horizon Caster loose. The javelin burst through the air, ignited a millisecond along its travel, and when it struck the layered enemy bunker, infused with Dynamacy and reinforced through adamantine, it punched clean through, gliding past the meters of metal and all the magic sustaining it.
+
+Sadly, Shiv's bones didn't remain affected by his Onus of the Scarforged Unbreakable for long. Unlike when they were attached to his body, all that damage they sustained couldn't be discharged, and so they suffered a delayed destruction after a few seconds. But a few seconds of indestructibility were more than long enough to get the job done within a fifteen-kilometer radius.
+
+His Harbinger vibrated. A series of high-yield mana bombs had been cast from past to present, set to arrive in ten seconds. The Harbinger dove into the chronology of the world and deployed a precast spell of its own. In ten seconds, the mana bombs would arrive, only to be greeted by a little sea of scintillating flames gathered over the course of an entire week. Some of the blast might still get through, but Shiv would see it absorbed by the Red Rider's Hand instead of burdening his Onus.
+
+He pushed on, surging ahead, yet not at full speed; Uva’s Dreaming Storm crawled forth behind him—and her fractured spiderlings slashed past him before plunging straight down and swimming through the blood-filled trenches below.
+
+They were like blades in a blender, traveling through those narrow pathways.
+
+A sudden pulse of pressure detonated behind Shiv's Stalker. By fortune or foresight, an enemy Assassin crashed straight down on his back, seizing his throat and dragging a gleaming blade across it. Shiv felt a wave of slashing aura detonate through his neck, and against anyone, perhaps even a High Hero of Toughness, that would have been a near-certain beheading. For Shiv, it only resulted in a thin platinum line marring the outside of his skill armor.
+
+The Shaper blasted the assassin, directing lacerations and flames to scour him off Shiv's back, but in an instant the enemy teleported, acting faster than Shiv anticipated. Very potent Reflexes Skill.
+
+Two seconds later, the Assassin was back again, but knocked fifty meters off course as a counter-Dimensionality spell rippled past Shiv—the Poly-Magi making themselves known once more. But the Assassin was not so easily eliminated. Shiv slashed out at them, but they dissipated, bursting apart as an ethereal presence, intangible in all aspects: matter, flesh, and soul. They slipped through him as a cold presence upon his being, and he considered going outside context to show them up, but there were costs to that. The moment he fell out of reality, it affected everyone, including his own forces. He'd tried it once, and that left a Heroic-Tier Umbral Mage distracted long enough to be exsanguinated.
+
+Shiv never made that mistake again. He also wasn't stupid enough to stop for the Assassin. They might manifest and make another go at them, but someone else would see the flea picked off. As if reading his thoughts, just as the Assassin rematerialized, a beam of blinding brightness speared through Shiv's dreaded shadow and made a clean hole in the Assassin's chest.
+
+“Say thank you, Shiv,” a more than familiar voice echoed in his mind.
+
+“Thanks, Grandma Erren and Can Hu,” he replied sarcastically.
+
+***
+
+“Don't fucking call me grandma, you little shit. My skin’s feeling fabulous.”
+
+“Fusion Cell replaced; next shot ready in ten seconds,” Can Hu intoned to its pilot as it ejected a spent cylinder from its shoulder. A gush of hyper-heated steam shot out from the slot as it moved the barrel of its particle cannon.
+
+Threading a shot dead-center through the chest of a human-sized target eight thousand kilometers away while conducting diplomatic activities in Necrotech airspace should have been an act of Legend, but Can Hu still remembered how the old wars were fought. Triangulation, drones, physics, targeting telemetries, all that coming together to become a perfect equation and a firing solution.
+
+It also helped to have a Diviner as a pilot.
+
+“He called me grandma, Can Hu. You believe that?”
+
+The Penitent gave an electronic hum. “It is most expected of him, is it not?”
+
+“Yeah, but I just want to complain. Commiserate with a bitch here.”
+
+“Affirmative: commencing companionship. I can’t believe he said that, Rose! You deserve so much more than this disrespect.”
+
+“I know. I know.” She closed her eyes inside her cockpit and endured a moment of faux anguish. “Kids these days, huh?”
+
+Can Hu reverberated with a rare laugh. “Children always.”
+
+***
+
+The tempo continued as trained: Shiv pushed, Uva trailed. She carried with her a mobile fortress, and firing from the turret slots were Poly-Magi, Weaveresses of Trapdoor, Legend-Dragon-Knight Tallowine, loosing shot after shot from her longbow, Ranger sharpshooter, and finally orc bombardiers—timing their own shots to Mortar’s commands between the Terminal Opus’s salvos. Everyone fought to the same rhythm, keeping the calls of their conductor, Adam, watching from on high.
+
+The invaders adjusted to the tempo as well. They acknowledged their first line of defenses had fallen and didn't make their historical mistake by trying desperately to fight for every meter of ground. Instead, their frontline mages—the few that were still alive—teleported out and let their wards fall. They retreated forty kilometers back, abandoning everyone in between to their fate, which swiftly fell as Shiv's fire swept across the land.
+
+The Nihilist drank philosophy as napalm and spat forth oceans of fire. If one possessed the capacity for belief, then they were as if a gas line, ready to combust, always primed for detonation; a chain of high-minded vampires and Vultegs went off like bombs. But their deaths arrived mercifully quickly. The same couldn't be said for those seeded with his Inland Embassies. Their minds broke. Some surrendered. Others chose death, while more were silenced by their comrades before they were bent toward potential betrayal.
+
+Death swelled and swept through the invaders, and the loss made itself known among the Magi as their spells faltered and the pace of their counter-attack waned and withered.
+
+“Corcusa! You’ve embarrassed your Elders. You’ve humiliated Lord Scorn. You are as much meat as the ones dying in the mud now. Your fate’s as sealed as the ones you wasted. But signal your surrender, and we'll give you life. Bring your cordial life over to our lines, and we will take you into our care under oath of hospitality! Just surrender, and this can all end. Just surrender, and we can bring this all to an end.”
+
+Shiv's speaker clone broadcasted his words, but to his displeasure, the enemies were wising up. They weren't listening to him anymore, and the ones who did were bombarded by their own side, silenced before he could affect them.
+
+Ugly though it was, there was an edge to calculated cruelty. Being willing to cut an infected limb off spared you greater problems beyond the pain.
+
+A chain of Biomancy crashed down from above. Two bone-morphed Strike Leviathans of the First Blood ripped through the air as their crews poured magic at Shiv. They cleared fifty meters before Shiv’s Smasher clone drove the Red Rider’s Hand through their sides. Both kilometer-long monsters turned to puffs of vapor on impact—size came second to Tier under the System, and those Strike Leviathans were Masters on a suicide run at best.
+
+Another target was designated for Shiv—the last of the Illusion Magi masking the location of their Burned Ones. Shiv harvested another bone from his body and reared back his hand. The air around the impromptu lance trembled. Shapeless Tides surged along its length—and tore it forward as it lunged across the horizon.
+
+Everything in its path was hollowed. A pocket of displaced rubble and corpses painted its progress, and all that ruin flowed into Shiv’s Garden, feeding it with evermore mass.
+
+Yet, before the lance could bury itself inside the mage, the bastard got teleported out. In fact, an entire series of enemy wards imploded—sweeping over their forces as their Magi formation and backline elites were all extracted in a city-swallowing dimensional spell.
+
+In a startling instant, the stronger half of the invasion force vanished with Shiv’s targets, while most of their chaff and a good portion of their Adepts to Masters remained in action—mostly Vultegs and blood horrors.
+
+Shiv’s guts twisted.
+
+Something was wrong.
+
+The Vultegs and First Blood didn’t flee; they were fighting and planning better than before, but their methods wouldn’t change so dramatically. Scorn wouldn’t allow it. An outright retreat from a far weaker foe would be—
+
+“Continuity Error: Shiv! Backstage! Now!”
+
+The voice of the girl that didn't exist breached the threshold between reality and that refuge beyond as images flashed through Shiv’s mind.
+
+He saw the battlefield from on high once more, and glimpsed four figures manifesting across the battlefield. Each of them was a Vulteg High Hero—and Shiv recognized them. They were burned by Adam’s Awareness and compromised for use as anything but direct combatants. Worse yet, defiled by another god’s gaze, they were too tainted for Lord Scorn to regard them. What followed was horrific, but in retrospect, all too natural for true believers.
+
+Dispatched across the battlefield, they reached down and activated a final set of wards—one not manifested of visible mana, but using the millions of corpses littering the hellscape.
+
+A crackle of Necromancy sparked through the remains, supercharged by all the death lingering in the air, and was promptly set off as each of the High Heroes drove their blades into their own chests.
+
+And as a blast powered by the lore of death swallowed the battlefield, Shiv learned the enemy hadn’t been fighting to their tempo at all. No. They just played along, so Gate Piety was in deep—and then they set the battlefield off like the powder keg it was.
+
+The world came apart in a blast of soul-searing viridescence.
+
+The Snake Entombed of Lightning and Thunder 96 > 100 (Skill Evolution Imminent)
+
+Golemancy 56 > 58
+
+Trespasser Shaped of Dread and Null 312 > 314
+
+Inertial Overdrive 431 > 433
+
+Horizon Caster 81 > 84
+
+Target Lock 88 > 90
+
+Leviathan of the Shapeless Tides 580 > 583
+
+Nihilism Be My Hearth, My Banquet 382 > 387
+
+Garden of Wounds and Broken Things 201 > 209
