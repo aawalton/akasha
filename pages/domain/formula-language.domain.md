@@ -49,7 +49,7 @@ A cycle among a page type's formulas is refused when the page type is checked.
 
 A formula joins text by writing references into a text literal, and in no other way.
 
-A formula's operators bind in this order, loosest first: `??`, `&&`, comparison, addition, multiplication.
+A formula's operators bind in this order, loosest first: `??`, `&&`, comparison, addition, multiplication, negation.
 
 Operators that bind equally group to the left.
 

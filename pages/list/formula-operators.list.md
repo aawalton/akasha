@@ -13,7 +13,7 @@ domain-parent-slug: domain/formula-language
 # List
 
 - **`+`** — adds one number to another.
-- **`-`** — subtracts one number from another.
+- **`-`** — subtracts one number from another, or negates one where nothing stands to its left.
 - **`*`** — multiplies one number by another.
 - **`/`** — divides one number by another.
 - **`==`** — whether two values are the same.
