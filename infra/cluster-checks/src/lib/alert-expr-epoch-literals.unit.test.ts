@@ -1,18 +1,7 @@
 import { describe, expect, test } from "bun:test"
-import { codeModule } from "../../../../tools/lib/code-import.ts"
+import { ALERT_RULES } from "../../../k8s/src/prometheus/synth-alerts.ts"
 import { EPOCH_FLOOR, parseAlertRules, scanAlertEpochLiterals } from "./alert-expr-epoch-literals.ts"
 import { HISTORICAL_DEFECT_RULES } from "./promtool-rules.ts"
-import { getRepoRoot } from "./repo-root.ts"
-
-const COMPOSED_ALERTS_SITE = "packages/infra/k8s/src/prometheus/synth-alerts.ts"
-
-interface SynthAlerts {
-  readonly ALERT_RULES: string
-}
-
-async function composedAlertRules(): Promise<string> {
-  return (await codeModule<SynthAlerts>(COMPOSED_ALERTS_SITE, getRepoRoot())).ALERT_RULES
-}
 
 function ruleDoc(expr: string): string {
   return `groups:
@@ -64,8 +53,8 @@ describe("scanAlertEpochLiterals — fires on a wall-clock gate", () => {
 })
 
 describe("scanAlertEpochLiterals — clean on legitimate expressions", () => {
-  test("the composed ALERT_RULES carries no wall-clock cutover", async () => {
-    expect(scanAlertEpochLiterals(await composedAlertRules())).toEqual([])
+  test("the composed ALERT_RULES carries no wall-clock cutover", () => {
+    expect(scanAlertEpochLiterals(ALERT_RULES)).toEqual([])
   })
 
   test("relative time() idioms pass — the nine live uses are all differences", () => {
@@ -111,8 +100,8 @@ describe("scanAlertEpochLiterals — a byte size is not an instant", () => {
 })
 
 describe("parseAlertRules — the unit the detector judges", () => {
-  test("counts every rule the composed corpus carries, across its groups", async () => {
-    const rules = parseAlertRules(await composedAlertRules())
+  test("counts every rule the composed corpus carries, across its groups", () => {
+    const rules = parseAlertRules(ALERT_RULES)
     expect(rules.length).toBeGreaterThan(1)
     expect(new Set(rules.map((r) => r.group)).size).toBeGreaterThan(1)
   })

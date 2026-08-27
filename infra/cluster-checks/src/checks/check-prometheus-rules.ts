@@ -2,7 +2,7 @@
 
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { codeModule } from "../../../../tools/lib/code-import.ts"
+import { ALERT_RULES } from "../../../k8s/src/prometheus/synth-alerts.ts"
 import { parseArgs } from "../lib/cli-args.ts"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
@@ -18,23 +18,12 @@ import {
   withoutAnnotations,
 } from "../lib/promtool-rules.ts"
 import { ownRepoRoot } from "../../../../repo/roots/roots"
-import { getRepoRoot } from "../lib/repo-root.ts"
 import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[prometheus-rules]"
 
 const FIXTURE_DIR = "infra/cluster-checks/__fixtures__/prometheus-rule-tests"
 const FIXTURE_GLOB = "*.test.yml"
-
-const COMPOSED_ALERTS_SITE = "infra/k8s/src/prometheus/synth-alerts.ts"
-
-interface SynthAlerts {
-  readonly ALERT_RULES: string
-}
-
-async function composedAlertRules(): Promise<string> {
-  return (await codeModule<SynthAlerts>(COMPOSED_ALERTS_SITE, getRepoRoot())).ALERT_RULES
-}
 
 interface RuleCheckViolation {
   readonly message: string
@@ -184,7 +173,7 @@ async function main(): Promise<never> {
   const rulesYaml =
     flags.rulesFile !== undefined
       ? readFileSync(flags.rulesFile, "utf8")
-      : await composedAlertRules()
+      : ALERT_RULES
   const label = flags.rulesFile ?? "composed alerts.yml"
 
   const result = await validateRulesYaml(rulesYaml, promtool)

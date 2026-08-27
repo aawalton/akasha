@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 
 import { readFileSync } from "node:fs"
-import { codeModule } from "../../../../tools/lib/code-import.ts"
+import { ALERT_RULES } from "../../../k8s/src/prometheus/synth-alerts.ts"
 import {
   type AlertEpochLiteralViolation,
   type AlertRule,
@@ -12,22 +12,13 @@ import {
 import { parseArgs } from "../lib/cli-args.ts"
 import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { HISTORICAL_DEFECT_RULES } from "../lib/promtool-rules.ts"
-import { getRepoRoot } from "../lib/repo-root.ts"
 import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[alert-expr-epoch-literals]"
 
 const COMPOSED_ALERTS_SITE = "infra/k8s/src/prometheus/synth-alerts.ts"
 
-interface SynthAlerts {
-  readonly ALERT_RULES: string
-}
-
-async function composedAlertRules(): Promise<string> {
-  return (await codeModule<SynthAlerts>(COMPOSED_ALERTS_SITE, getRepoRoot())).ALERT_RULES
-}
-
-async function main(): Promise<never> {
+function main(): never {
   const { flags } = parseArgs(process.argv.slice(2), {
     rulesFile: { kind: "string" },
   })
@@ -47,7 +38,7 @@ async function main(): Promise<never> {
   const label = rulesFile ?? "composed alerts.yml"
 
   const rules = parseAlertRules(
-    rulesFile !== undefined ? readFileSync(rulesFile, "utf8") : await composedAlertRules()
+    rulesFile !== undefined ? readFileSync(rulesFile, "utf8") : ALERT_RULES
   )
 
   const { population, violations } = examinePopulation<AlertRule, AlertEpochLiteralViolation>({
@@ -78,7 +69,9 @@ async function main(): Promise<never> {
 }
 
 if (import.meta.main) {
-  main().catch((err: unknown) => {
+  try {
+    main()
+  } catch (err: unknown) {
     exitOnToolError({ error: err, prefix: PREFIX })
-  })
+  }
 }
